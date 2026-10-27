@@ -1,8 +1,26 @@
 import { hasFrenchLabel, qid, sparql } from "../lib/sparql.js";
 
-export type Entity = { qid: string; label: string; types: string[]; occupations: string[]; sitelinks: number };
+export type Entity = {
+  qid: string;
+  label: string;
+  types: string[];
+  occupations: string[];
+  sitelinks: number;
+  /** For taxa: the biological class (rank Q37517) they belong to, e.g. birds. */
+  taxonClass?: string;
+};
+
+const TAXON_TYPES = new Set(["Q16521", "Q23038290", "Q55983715"]);
+
+const taxonClassQuery = (ids: string[]) => `
+SELECT ?item ?class WHERE {
+  VALUES ?item { ${ids.map((i) => `wd:${i}`).join(" ")} }
+  ?item wdt:P171* ?class. ?class wdt:P105 wd:Q37517.
+} ORDER BY ?item ?class`;
 
 const BATCH = 150;
+// Walking P171* is expensive: small batches stay under the 60 s query limit.
+const TAXON_BATCH = 25;
 
 const escape = (s: string) => s.replace(/\\/g, "\\\\").replace(/"/g, '\\"');
 
@@ -34,6 +52,20 @@ export async function resolveArticles(titles: string[], onBatch?: (done: number,
       if (r.occ && !e.occupations.includes(qid(r.occ))) e.occupations.push(qid(r.occ));
     }
     onBatch?.(Math.min(i + BATCH, wanted.length), wanted.length);
+  }
+
+  const taxa = [...new Set([...out.values()].filter((e) => e.types.some((t) => TAXON_TYPES.has(t))).map((e) => e.qid))].sort();
+  const classes = new Map<string, string[]>();
+  for (let i = 0; i < taxa.length; i += TAXON_BATCH) {
+    for (const r of await sparql(taxonClassQuery(taxa.slice(i, i + TAXON_BATCH)))) {
+      const id = qid(r.item!);
+      classes.set(id, [...(classes.get(id) ?? []), qid(r.class!)]);
+    }
+  }
+  for (const e of out.values()) {
+    const c = classes.get(e.qid);
+    // Several classes means inconsistent classification: leave it unset.
+    if (c && new Set(c).size === 1) e.taxonClass = c[0];
   }
   return out;
 }

@@ -67,3 +67,16 @@ describe("makeCloze", () => {
     expect(makeCloze(input, elements)).toEqual(makeCloze(input, [...elements].reverse()));
   });
 });
+
+describe("areSiblings", () => {
+  it("ignores overly generic types and compares taxa by class", async () => {
+    const { areSiblings } = await import("../src/fact-questions/cloze.js");
+    expect(areSiblings(ent("Q1", "a", ["Q43229"]), ent("Q2", "b", ["Q43229"]))).toBe(false);
+    const bird = { ...ent("Q3", "pie", ["Q16521"]), taxonClass: "Q5113" };
+    const bird2 = { ...ent("Q4", "geai", ["Q16521"]), taxonClass: "Q5113" };
+    const plant = { ...ent("Q5", "vacoa", ["Q16521"]), taxonClass: "Q25314" };
+    expect(areSiblings(bird, bird2)).toBe(true);
+    expect(areSiblings(bird, plant)).toBe(false);
+    expect(areSiblings(bird, ent("Q6", "x", ["Q16521"]))).toBe(false);
+  });
+});

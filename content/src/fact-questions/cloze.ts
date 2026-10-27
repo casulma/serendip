@@ -4,6 +4,22 @@ import type { Entity } from "./wikidata.js";
 
 export const BLANK = "_____";
 const HUMAN = "Q5";
+const TAXA = new Set(["Q16521", "Q23038290", "Q55983715"]);
+// Types too broad (or purely editorial) to make two items comparable.
+const IGNORED_TYPES = new Set([
+  "Q13406463", // page de liste
+  "Q4167410", // page d'homonymie
+  "Q43229", // organisation
+  "Q17524420", // aspect de l'histoire
+  "Q74817647", // aspect dans une région géographique
+  "Q16334295", // groupe d'humains
+  "Q35120", // entité
+  "Q488383", // objet
+  "Q151885", // concept
+  "Q1190554", // occurrence
+  "Q1656682", // événement
+  "Q7184903", // objet abstrait
+]);
 
 export type ClozeInput = {
   factId: string;
@@ -30,8 +46,10 @@ const re = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
 /** Two entities are siblings if they share a type; people must also share an occupation. */
 export function areSiblings(a: Entity, b: Entity): boolean {
-  if (!a.types.some((t) => b.types.includes(t))) return false;
-  if (a.types.includes(HUMAN)) return a.occupations.some((o) => b.occupations.includes(o));
+  const shared = a.types.filter((t) => b.types.includes(t) && !IGNORED_TYPES.has(t));
+  if (shared.length === 0) return false;
+  if (shared.includes(HUMAN)) return a.occupations.some((o) => b.occupations.includes(o));
+  if (shared.some((t) => TAXA.has(t))) return a.taxonClass !== undefined && a.taxonClass === b.taxonClass;
   return true;
 }
 
@@ -41,6 +59,7 @@ export function areSiblings(a: Entity, b: Entity): boolean {
  */
 export function makeCloze(input: ClozeInput, pool: Entity[]): ClozeResult {
   const { text, display, entity } = input;
+  if (entity.types.includes("Q13406463")) return { reason: "l'article est une liste" };
   if (norm(display) !== norm(entity.label)) return { reason: "texte affiché ≠ libellé Wikidata" };
 
   const occurrences = text.split(display).length - 1;
@@ -65,6 +84,8 @@ export function makeCloze(input: ClozeInput, pool: Entity[]): ClozeResult {
     // Match the answer's form so that capitalisation or elision gives nothing away.
     // Proper nouns go with proper nouns; the display may be capitalised at sentence start.
     if (isUpper(e.label) !== isUpper(entity.label)) continue;
+    // Wikidata capitalises some common nouns: a lowercase answer only gets lowercase distractors.
+    if (!upper && isUpper(e.label)) continue;
     const label = upper ? e.label.charAt(0).toLocaleUpperCase("fr") + e.label.slice(1) : e.label;
     if (elided && !startsWithVowel(label)) continue;
     if (seen.has(norm(label))) continue;
