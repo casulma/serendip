@@ -1,154 +1,154 @@
 # Échantillon — questions à trous sur les faits
 
-4072 faits sur 11783 ont une question.
+3771 faits sur 11783 ont une question.
 
 1. Complétez : Au Nunavut, les Inuits parlent _____.
    - ✅ inuktitut — ❌ roumain / yiddish / anglais
 
-2. Complétez : Le _____ est une plante arborescente de la famille des Pandanacées endémique de l'île Rodrigues, la seule qui soit restée assez commune.
-   - ✅ vacoa parasol — ❌ Lémur aux yeux turquoise / Orsonwelles / Fugu
+2. Complétez : En _____, près de 100% des fillettes subissent l’excision.
+   - ✅ Somalie — ❌ Sainte-Lucie / Sierra Leone / Afrique du Sud
 
-3. Complétez : _____ est un périodique français paraissant tous les 29 février.
-   - ✅ La Bougie du Sapeur — ❌ Faux Soir / La Fronde / Le Figaro
+3. Complétez : Plus de huit cents langues, austronésiennes et papoues, sont parlées en _____, plus que dans tout autre pays au monde.
+   - ✅ Papouasie-Nouvelle-Guinée — ❌ Nauru / Albanie / Lesotho
 
-4. Complétez : La construction d’une _____ autour du Soleil permettrait à notre civilisation d’atteindre le type II sur l’échelle de Kardashev.
-   - ✅ sphère de Dyson — ❌ problème de Molyneux / équation d'Einstein / condensat de Bose-Einstein
+4. Complétez : Le _____ est une formation naturelle reliant les bassins de l’Orénoque et de l’Amazone.
+   - ✅ canal de Casiquiare — ❌ rivière du Père Marquette / rivière Ha! Ha! / rivière Nihonbashi
 
-5. Complétez : L’ancienne cité inca _____ a été redécouverte il y a cent ans par Hiram Bingham après être tombée dans l’oubli pendant plus d’un siècle.
-   - ✅ Machu Picchu — ❌ Lomekwi 3 / Histoire de Gaza antique / Bouddhas de Bâmiyân
+5. Complétez : La poétesse chinoise _____ est l’auteur d’un « Poème du diagramme cosmique » dont un érudit a évalué à plus de 4000 les possibilités de lecture.
+   - ✅ Su Hui — ❌ William Ernest Henley / Alice Walker / Marie Marvingt
 
-6. Complétez : C'est en 1906 que le _____ est pour la première fois décrit comme un fléau pour l'humanité par la conférence internationale pour l'étude de cette maladie.
-   - ✅ cancer — ❌ daltonisme / typhus / morve
+6. Complétez : L’_____ a recensé en 2008 11,2 millions de personnes déclarant savoir lire et écrire le français.
+   - ✅ Algérie — ❌ Albanie / Érythrée / Îles Marshall
 
-7. Complétez : L'abbaye de Sénanque fait partie, avec l'abbaye de Silvacane et l'abbaye du Thoronet, des _____ qui témoignent du rayonnement de l’ordre cistercien en Provence.
-   - ✅ trois sœurs provençales — ❌ Kellia / Rois mages / Claude Guylouis
+7. Complétez : En 1929, _____ est nommé saint patron de tous les curés de l'Univers par le pape Pie XI.
+   - ✅ Jean-Marie Vianney — ❌ Martin Luther / Claude Germain Rousselot / Silvère
 
-8. Complétez : _____, un gratte-ciel taïwanais, utilise une boule d’acier de 660 tonnes suspendue du 91e au 87e étage comme amortisseur harmonique.
-   - ✅ Taipei 101 — ❌ Empire State Building / Corviale / Tuntex Sky Tower
+8. Complétez : Le sens étymologique du nom du dragon _____, « se glisser dans un trou », est de l’aveu de J. R. R. Tolkien une « mauvaise blague de philologue ».
+   - ✅ Smaug — ❌ James Bond / Bart Simpson / Princesse Zelda
 
-9. Complétez : La _____, fondée en 1815, est l’organisation internationale en activité la plus ancienne au monde.
-   - ✅ Commission centrale pour la navigation du Rhin — ❌ Société des Nations / Organisation de la Coopération Islamique / Union économique eurasiatique
+9. Complétez : Le titre de la nouvelle _____ de Lewis Padgett, traduite par Boris Vian, vient du poème Jabberwocky de Lewis Carroll.
+   - ✅ Tout smouales étaient les Borogoves — ❌ À la feuille de rose, maison turque / Le Nouveau Dédale / Encyclopédie de Yongle
 
-10. Complétez : Les médailles en or des lauréats du prix Nobel de physique Max von Laue et James Franck ont été dissoutes dans de l’eau régale par le chimiste _____, afin d’éviter qu’elles soient volées par les nazis.
-   - ✅ George de Hevesy — ❌ Singaravelou / Ulrich Wille / Grace Hopper
+10. Complétez : _____ est la première femme à occuper le poste de Premier ministre de l’époque contemporaine.
+   - ✅ Sirimavo Bandaranaike — ❌ Amjad Ali / Abraham Lincoln / Henri de Prusse
 
-11. Complétez : La Burkholderia mallei a été utilisée par l'Empire allemand et la France pour déclencher des épidémies de _____ dans le parc hippique utilisé durant la Première Guerre mondiale.
-   - ✅ morve — ❌ scorbut / syndrome d'auto-brasserie / maladie non transmissible
+11. Complétez : Pour l'Assemblée générale des Nations unies et l'Union africaine, _____ relève de la souveraineté de l'Union des Comores et non de la République française, bien qu'elle soit administrée par cette dernière.
+   - ✅ Mayotte — ❌ Bourgogne-Franche-Comté / Hauts-de-France / Île-de-France
 
-12. Complétez : La première application pratique du laser en France a eu lieu pour le programme de missile _____.
-   - ✅ Anti-Char Rapide Autopropulsé — ❌ V2 / RIM-8 Talos / R-30 Boulava
+12. Complétez : L'écume dont naît _____ vient du sexe tranché d'Ouranos.
+   - ✅ Aphrodite — ❌ Gefjon / Freyja / Idunn
 
-13. Complétez : Le _____ était imprimé à Bruxelles en français.
-   - ✅ Courrier véritable des Pays-Bas — ❌ Faux Soir / La Bougie du sapeur / Ni Dieu ni Maître
+13. Complétez : Le compositeur et chef d’orchestre _____ a créé son arboretum, qui est le plus grand de Pologne.
+   - ✅ Krzysztof Penderecki — ❌ Anna Marly / Vangelis / Maria Anna Mozart
 
-14. Complétez : La _____ a été réinvestie en 1945 dans son rôle d’origine par l’armée française et définitivement abandonnée en 1969, une fois que la France eut obtenu une force de dissuasion nucléaire.
-   - ✅ ligne Maginot — ❌ fortifications tchécoslovaques / réduit national / ligne Chauvineau
+14. Complétez : Dans une lettre adressée à George W. Bush, _____ a repris une formule de salutation utilisée par Mahomet à l’adresse des empereurs byzantins et sassanides pour les sommer de se convertir à l’islam.
+   - ✅ Mahmoud Ahmadinejad — ❌ Honoré-Gabriel Riqueti de Mirabeau / Hiram Rhodes Revels / Gottlob Frege
 
-15. Complétez : _____, après sept nominations infructueuses en France en tant qu'humoriste et comédienne de théâtre, a reçu un prix américain pour sa performance d'actrice dans un téléfilm.
-   - ✅ Muriel Robin — ❌ Yves Montand / Choco / André The Giant
+15. Complétez : _____ mettait ses textes à l'épreuve en les déclamant dans un « gueuloir ».
+   - ✅ Gustave Flaubert — ❌ Platon / Hrotsvita de Gandersheim / Louis de Jaucourt
 
-16. Complétez : 80 % de la population de _____ serait morte de faim lors du siège de la ville en 1949.
-   - ✅ Changchun — ❌ Québec / Bielefeld / Le Caire
+16. Complétez : Située sur la commune de Marseille, la _____, qui abrite des mains négatives de plus de 27 000 ans, n’est accessible que par un tunnel sous-marin.
+   - ✅ grotte Cosquer — ❌ grotte de Lascaux / grotte du Mas-d'Azil / grotte Chauvet
 
-17. Complétez : Le premier usage connu du point d’exclamation et des parenthèses s’est fait sous la plume de _____.
-   - ✅ Coluccio Salutati — ❌ Joseph d'Arbaud / William Fox / Platon
+17. Complétez : Environ 3 % des officiers d’active de l’armée française en ont démissionné après l’échec du _____.
+   - ✅ putsch des généraux — ❌ coup d'État de 1973 au Chili / coup d'État de 1987 aux Fidji / révolution des Œillets
 
-18. Complétez : En 2005-2006, _____ est parvenu à obtenir une maison par une série de trocs à partir d’un trombone rouge.
-   - ✅ Kyle MacDonald — ❌ RT / Vogue / St. Augustine
+18. Complétez : Au début des années 1960, _____, futur secrétaire national du Parti communiste français, fonda un groupe de rock sous le nom de Willie Balton, emprunté à un soldat américain.
+   - ✅ Robert Hue — ❌ Alexandra Kollontaï / Louis de Bonald / Mikhaïl Toukhatchevski
 
-19. Complétez : _____, charbonnier et syndicaliste libertaire français, fut victime en 1910 d’une erreur judiciaire appelée l’« affaire Dreyfus du monde ouvrier ».
-   - ✅ Jules Durand — ❌ Eleanor Marx / Léa Roback / Evo Morales
+19. Complétez : Il a fallu 4 mois et l’envoi de 25 milliards de milliards d’ions calcium 48 sur une cible de californium pour détecter la désintégration d’un premier noyau atomique d’_____, le plus lourd des éléments chimiques connus.
+   - ✅ oganesson — ❌ hydrogène / osmium / aluminium
 
-20. Complétez : Le Venezuela est le seul membre de la _____ qui n’ait jamais participé à la Coupe du monde.
-   - ✅ Confédération sud-américaine de football — ❌ Fédération internationale de football association / Young Men's Christian Association / Les Économistes atterrés
+20. Complétez : _____, inventeur d’un test préfigurant le détecteur de mensonge, est aussi le créateur de Wonder Woman et de son lasso magique, qui force ses captifs à dire la vérité.
+   - ✅ William Moulton Marston — ❌ Charles Fourier / Charles Aznavour / Banksy
 
-21. Complétez : L’Art de dictier d’_____, datant de 1392, est le premier art poétique en langue d’oïl.
-   - ✅ Eustache Deschamps — ❌ Emma Adler / Emmanuel-Joseph Sieyès / Eucheria
+21. Complétez : Petit-fils d’un tirailleur décoré par la France et fils d’un sénateur, _____ a été plusieurs fois champion de France de taekwondo sans avoir la nationalité française.
+   - ✅ Jo Dalton — ❌ Chilly Gonzales / Angèle / Lil Nas X
 
-22. Complétez : Bien que le _____ doive son nom au hasard, l’alpiniste Fosco Maraini estimait que celui-ci, « seulement le squelette d’un nom, tout de roche, de glace, de tempête et d’abîme », correspondait bien à la nature du sommet.
-   - ✅ K2 — ❌ Ol Doinyo Lengaï / Planche des Belles Filles / Alpes de Lyngen
+22. Complétez : _____ a vécu pendant 738 jours en haut d’un séquoia pour empêcher que cet arbre soit abattu.
+   - ✅ Julia Butterfly Hill — ❌ Guillaume Apollinaire / Lewis Wallace / Alfred Hitchcock
 
-23. Complétez : Kim Il-sung est _____.
-   - ✅ président éternel de la République — ❌ survivant désigné / président des Émirats arabes unis / oblat ou oblate
+23. Complétez : _____ a été élu plusieurs fois au Congrès des États-Unis.
+   - ✅ Davy Crockett — ❌ Charles Aznavour / Caius Cornelius Gallus / Joséphine Pencalet
 
-24. Complétez : Le _____ possède la particularité d’être debout.
-   - ✅ Transi de René de Chalon — ❌ Le Kiosque des noctambules / Homme-lion / Colosses de Memnon
+24. Complétez : Le tir à l’arc est le sport national du _____.
+   - ✅ Bhoutan — ❌ Indonésie / Kiribati / Sainte-Lucie
 
-25. Complétez : La première machine à courant continu a été inventée par le Belge _____, menuisier de formation.
-   - ✅ Zénobe Gramme — ❌ Juan Baigorri Velar / Siméon Denis Poisson / Charles Lindbergh
+25. Complétez : Créée en 1826 et toujours active, la _____ a rassemblé une collection d’environ 45000 et découvert plus de cent sites et monuments.
+   - ✅ Société polymathique du Morbihan — ❌ Académie de Nîmes / Institut celtique de Bretagne / Club de Rome
 
-26. Complétez : _____ est la réponse d'Aïssa Maïga au documentaire Ouvrir la voix.
-   - ✅ Noire n'est pas mon métier — ❌ Le Cheval d'orgueil / Dune / Histoire Auguste
+26. Complétez : _____ est considéré comme un des « trois grands » auteurs de science-fiction de langue anglaise, avec Isaac Asimov et Arthur C. Clarke.
+   - ✅ Robert A. Heinlein — ❌ Alexeï Leonov / Martial / William Henry Ireland
 
-27. Complétez : Alliance composée de cantons à majorité catholique, le _____ a élu à la tête de ses troupes le protestant Jean-Ulrich de Salis-Soglio.
-   - ✅ Sonderbund — ❌ Pacte de Varsovie / Alliance abbasido-carolingienne / Organisation du traité de l'Asie du Sud-Est
+27. Complétez : Aux Oscars, seules trois personnalités ont été nommées dans les catégories du meilleur acteur et du meilleur scénario original pour un même film : Charlie Chaplin, Orson Welles et _____.
+   - ✅ Sylvester Stallone — ❌ Václav Havel / Maurice Druon / Yul Brynner
 
-28. Complétez : Dans sa version originale, _____ a été renommé Shark! (« Requin ! ») par ses producteurs, après qu'un cascadeur a été tué par un requin lors du tournage.
-   - ✅ Caine — ❌ Rien que pour vos yeux / M le maudit / L'Homme qui tua Don Quichotte
+28. Complétez : À la tête de Saint-Seurin-sur-l’Isle, _____ est à 97 ans le doyen des maires de France en exercice.
+   - ✅ Marcel Berthomé — ❌ Alexandre de Lameth / Edward d'Édimbourg / Moïse Tshombe
 
-29. Complétez : _____ est le seul soldat américain exécuté pour désertion depuis la guerre de Sécession.
-   - ✅ Eddie Slovik — ❌ Miguel de Cervantes / Albert Mayer / Léo Major
+29. Complétez : La pratique des sports d'hiver au _____ nécessite de faire attention aux champs de mines.
+   - ✅ mont Hermon — ❌ pic Ismail Samani / mont Granier / mont Blanc
 
-30. Complétez : La « relégation » (exil) d’_____, décidée par Auguste en l’an 8, a été révoquée en décembre 2017 par la municipalité de Rome, qui a réhabilité officiellement le poète.
-   - ✅ Ovide — ❌ André Montagard / Ada Lovelace / Henry David Thoreau
+30. Complétez : Le ministre tunisien de la Santé, _____, mourut en 2017 à la suite de sa participation à un marathon contre le cancer du sein.
+   - ✅ Slim Chaker — ❌ Eduardo Duhalde / Frank Eugene Corder / Candaule
 
-31. Complétez : Comme Le Monde, le quotidien _____ est daté du lendemain de son jour de parution.
-   - ✅ Présent — ❌ L'Intransigeant / El Moudjahid / France-Soir
+31. Complétez : Première vice-présidente du Congrès des députés espagnol entre 2004 et 2008, _____ n’a présenté qu’un seul texte parlementaire sur cette période, portant sur la création d’un prix national de la bande dessinée et adopté à l’unanimité.
+   - ✅ Carme Chacón — ❌ Ferhat Abbas / G. K. Chesterton / Harrison Schmitt
 
-32. Complétez : _____, footballeur autrichien puis tchécoslovaque, est le joueur ayant marqué le plus grand nombre de buts en matchs officiels : 805, entre 1928 et 1955.
-   - ✅ Josef Bican — ❌ Bernard Thévenet / Hugo Koblet / Cristiano Ronaldo
+32. Complétez : Premier ministre de l’État de Qin de -361 à -338, _____ obligea les foyers qui regroupaient deux hommes adultes ou plus sous le même toit à payer deux fois plus d’impôts, brisant le système familial traditionnel.
+   - ✅ Shang Yang — ❌ Simón Bolívar / Jean-Baptiste Bory de Saint-Vincent / Louis Rossel
 
-33. Complétez : Une étoile du type _____ peut briller des centaines de fois plus longtemps que notre Soleil, en tout, plusieurs milliers de milliards d’années.
-   - ✅ naine rouge — ❌ naine blanche / naine jaune / trou noir supermassif
+33. Complétez : En 1952, lorsque l’océanographe _____ remarqua la première l’existence d’une vallée dans l’axe des dorsales, son collègue Bruce C. Heezen qualifia ses observations, qui confortaient la théorie alors encore discutée de la dérive des continents, de « trucs de fille ».
+   - ✅ Marie Tharp — ❌ Mary Somerville / Henri Désiré Landru / Alexandre de Chancourtois
 
-34. Complétez : Un _____ mange environ 30 000 fourmis par jour.
-   - ✅ fourmilier — ❌ veuve noire / calmar colossal / gypaète barbu
+34. Complétez : Les hymnes nationaux finlandais et estonien utilisent la même musique, composée par _____.
+   - ✅ Fredrik Pacius — ❌ Marguerite Perey / Numa Denis Fustel de Coulanges / Nikolaï Koltsov
 
-35. Complétez : Les _____ qui permettaient de contrôler le niveau de l’eau du lac Fucin, d’une longueur de plus de 6 km, ont été construits entre 41 et 52 apr. J.-C..
-   - ✅ tunnels de Claude — ❌ Armée de terre cuite / Madinat al-Zahira / Danevirke
+35. Complétez : Les chemins de fer ont coûté un bras à _____, le concepteur du métro parisien.
+   - ✅ Fulgence Bienvenüe — ❌ Charles Babbage / Robert Oppenheimer / Karl Hotz
 
-36. Complétez : Sur l’île de _____, on tente d’éliminer un « tueur en série » avec du paracétamol.
-   - ✅ Guam — ❌ Yaya / Ailsa Craig / Spinalónga
+36. Complétez : _____, ministre espagnol de la Science, est le seul de ses concitoyens à avoir volé dans l’espace.
+   - ✅ Pedro Duque — ❌ Sushila Karki / Marcel Berthomé / Prosper Allemand
 
-37. Complétez : En 1920, le futur prix Nobel _____ tente, en vain, de retrouver la tombe de Gengis Khan.
-   - ✅ Saint-John Perse — ❌ Alexeï Leonov / John Lennon / Alain de Benoist
+37. Complétez : Les deux trains d’atterrissage du _____ sont positionnés en tandem, ce qui oblige le pilote à se poser en équilibre.
+   - ✅ Lockheed U-2 — ❌ Navion / Tupolev Tu-155 / Latécoère 28
 
-38. Complétez : _____ a donné un discours de 4 h 29, sans interruption, à l’automne 1960 devant les Nations unies.
-   - ✅ Fidel Castro — ❌ Giovanni Falcone / Alexandre de Lameth / Alexandria Ocasio-Cortez
+38. Complétez : Il y a eu des _____ de 1912 à 1948.
+   - ✅ compétitions artistiques aux Jeux olympiques — ❌ tir à la corde aux Jeux olympiques / tournoi des Six Nations / championnat du monde de dames
 
-39. Complétez : Comme il le commente avec tristesse dans sa chanson inachevée Jeanne Martin, _____, né cettois en octobre 1921, est devenu sétois en janvier 1928.
-   - ✅ Georges Brassens — ❌ Lisa Marie Presley / François Valéry / Robert Lelièvre
+39. Complétez : La ressemblance entre la lune _____ et l’Étoile de la mort est purement fortuite, la première n’ayant été photographiée assez précisément que trois ans après la sortie de Star Wars, épisode IV : Un nouvel espoir.
+   - ✅ Mimas — ❌ Japet / Pan / Titan
 
-40. Complétez : _____ dirigea, de la fenêtre de sa prison, à l’aide d’une brosse à dents, la Marche des femmes qu’elle avait elle-même composée.
-   - ✅ Ethel Smyth — ❌ Charles Maurras / Molière / Auguste Le Breton
+40. Complétez : Si MM. et Shepard font bien partie de _____, ils ne sont pas incarnés par MM. et Shepard, pourtant acteurs dans le film.
+   - ✅ L’Étoffe des héros — ❌ La Vérité / Apocalypse Now / Terminator
 
-41. Complétez : C’est en voyant les bulles d’air s’échapper des glaçons de son whisky que le glaciologue _____, alors en hivernage en Antarctique, eut l’intuition que les carottes de glace étaient des témoins de l’air du passé.
-   - ✅ Claude Lorius — ❌ Alexander von Humboldt / William Henry Bragg / Yves Rocard
+41. Complétez : La campagne de Louis-Napoléon Bonaparte, premier président de la République française, fut en grande partie financée par sa maîtresse britannique _____.
+   - ✅ Harriet Howard — ❌ Michel Sardou / Veronica Lake / James Stewart
 
-42. Complétez : _____, président des États-Unis de 1837 à 1841, est le premier né avec la nationalité américaine, le premier à ne pas être de souche britannique et le premier à maîtriser l’anglais en tant que seconde langue.
-   - ✅ Martin Van Buren — ❌ Blanche Lefebvre / Prosper Allemand / Richard Coudenhove-Kalergi
+42. Complétez : En embarquant de la choucroute lors de leur traversée vers Java, les Hollandais se sont prémunis empiriquement contre le _____.
+   - ✅ scorbut — ❌ fistule et kyste préauriculaires / variole / stéatohépatite métabolique
 
-43. Complétez : Fait exceptionnel pour les mammifères, mâles et femelles de _____ ne possèdent qu’un chromosome X.
-   - ✅ Tokudaia osimensis — ❌ Wollemia nobilis / Colibri à tête bleue / Hydrochoerus hydrochaeris
+43. Complétez : Lorsqu’Hortensius souhaita s’allier à Caton, celui-ci préféra lui prêter sa femme Marcia plutôt que sa fille _____.
+   - ✅ Porcie — ❌ François Quesnay / Isidore de Séville / Enheduanna
 
-44. Complétez : _____ est le premier opéra dont les paroles et la musique ont été écrites par le même auteur : Jean-Jacques Rousseau.
-   - ✅ Le Devin du village — ❌ Trois Jeunes Filles nues / Rigoletto / Thaïs
+44. Complétez : _____ est la seule espèce connue de mammifères capable de vivre et de se reproduire à plus de 6000 mètres d'altitude.
+   - ✅ Phyllotis vaccarum — ❌ Cerf du Cachemire / Tokudaia osimensis / Bison d'Europe
 
-45. Complétez : _____ est le premier à avoir fait voler un ballon gonflé à l’hydrogène.
-   - ✅ Jacques Charles — ❌ Philip M. Parker / Ceslaw Bojarski / Hypatie
+45. Complétez : Le lézard _____ a été appelé Lézard Jésus-Christ car il est capable de courir sur l’eau sur ses deux pattes arrière.
+   - ✅ Basiliscus plumifrons — ❌ Platysternon megacephalum / Pareas iwasakii / Pseudocerastes urarachnoides
 
-46. Complétez : Les eaux des _____ sont enclavées au sein de la zone économique exclusive de la France.
-   - ✅ îles Anglo-Normandes — ❌ îles Shetland du Sud / îles Kerguelen / le Jardin au Bout du Monde
+46. Complétez : En 1942, un _____ britannique défila sur les Champs-Élysées en larguant un drapeau français puis attaqua l’immeuble de la Gestapo.
+   - ✅ Bristol Beaufighter — ❌ Tupolev Tu-155 / Mystère / Airbus A380
 
-47. Complétez : _____, triple vainqueur du Tour de France, possédait sa propre compagnie aérienne.
-   - ✅ Louison Bobet — ❌ Aleksandar Shalamanov / Madeleine Riffaud / Germaine Poinso-Chapuis
+47. Complétez : _____, la première femme à obtenir un doctorat en informatique aux États-Unis, était une religieuse catholique.
+   - ✅ Mary Kenneth Keller — ❌ Arthur Schopenhauer / Grover Krantz / Kurt Gödel
 
-48. Complétez : Le _____ est présenté par son auteur comme un ouvrage inédit de François Rabelais dont le texte original ne nous est pas parvenu.
-   - ✅ Traité de bon usage de vin — ❌ Yvain ou le Chevalier au lion / Exercices de style / Nicholas Nickleby
+48. Complétez : Lady _____ a pu décrire les hammams et les sérails d’Istanbul tels qu’elle les avait vus en 1718.
+   - ✅ Mary Wortley Montagu — ❌ Viktor Tsoï / Sherwood Anderson / Eugène Murer
 
-49. Complétez : Le groupe allemand _____ est devenu en 2020 le premier employeur industriel en Suisse.
-   - ✅ Siemens — ❌ PepsiCo / Soylent / Enercon
+49. Complétez : À une époque où les femmes ne pouvaient pas suivre les cours de nu et d’anatomie, _____ obtint sa première médaille au Salon en sculptant un nu masculin héroïque.
+   - ✅ Hélène Bertaux — ❌ Jean-Baptiste Deschamps / Philippe Geluck / Ferdinand Cheval
 
-50. Complétez : Selma Lagerlöf a raconté que l’idée du _____ lui était venue à la lecture du Tour de la France par deux enfants.
-   - ✅ Merveilleux Voyage de Nils Holgersson à travers la Suède — ❌ Laudato si' / Modeste proposition / Christine
+50. Complétez : De 1946 à 1949, le tapis rouge du _____ était bleu.
+   - ✅ Festival de Cannes — ❌ Olympiades internationales de mathématiques / Inauguration Day / Tintamarre
 

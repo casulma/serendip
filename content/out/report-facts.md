@@ -204,17 +204,18 @@
 
 ## Questions à trous
 
-- Faits avec une question : **4072** sur 11783
+- Faits avec une question : **3771** sur 11783
 
 | Raison de l'absence de question | Faits |
 |---|---:|
-| texte affiché ≠ libellé Wikidata | 3909 |
-| moins de 3 distracteurs de même type | 1798 |
+| texte affiché ≠ libellé Wikidata | 3848 |
+| moins de 3 distracteurs de même type | 2098 |
 | lien principal non simple (préfixe, pluriel, modèle) | 1255 |
 | réponse devinable dans le texte | 518 |
 | pas d'élément Wikidata | 132 |
 | entité répétée dans le texte | 93 |
-| entité introuvable dans le texte | 6 |
+| l'article est une liste | 63 |
+| entité introuvable dans le texte | 5 |
 
 Échantillon de 50 questions : `out/sample-fact-questions.md`.
 

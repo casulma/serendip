@@ -124,7 +124,8 @@ function renderUnit(p: string[]): string {
 }
 
 const ABBREVIATIONS: Record<string, string> = {
-  "'": "'",
+  // Typographic apostrophe: a straight one would merge with ''' bold markup.
+  "'": "’",
   dr: "Dr", mme: "Mme", "m.": "M.", "mm.": "MM.", pr: "Pr", "jr.": "Jr.", "sr.": "Sr.",
   "av jc": "av. J.-C.", "ap jc": "apr. J.-C.",
   "etc.": "etc.", "c.": "c.", circa: "vers", "v.": "v.", "p.": "p.",
@@ -297,5 +298,7 @@ export function toPlainText(wikitext: string): string {
   if (/[<>]|\[\[|\]\]|\{\{|\}\}/.test(s)) throw new UnsupportedWikitext("balisage résiduel");
   s = decodeEntities(s);
   s = s.replace(/[ \t\r\n]+/g, " ").replace(/ ([,.])/g, "$1").trim();
+  // A removed reference between two full stops leaves "..": keep ellipses intact.
+  s = s.replace(/(?<!\.)\.\.$/, ".");
   return s;
 }

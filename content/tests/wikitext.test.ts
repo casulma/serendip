@@ -68,3 +68,11 @@ describe("toPlainText", () => {
     expect(() => toPlainText("Le '''[[rayon solaire]]''' (<math>R_{\\odot}</math>)")).toThrow(UnsupportedWikitext);
   });
 });
+
+describe("apostrophe template and trailing dots", () => {
+  it("keeps {{'}} next to bold markup and drops a doubled final dot", () => {
+    const w = "En '''[[Somalie]]''', près de 100% des fillettes subissent l{{'}}'''[[excision]]'''. <small>[http://www.unicef.org/x.htm]</small>.";
+    expect(toPlainText(w)).toBe("En Somalie, près de 100% des fillettes subissent l’excision.");
+    expect(toPlainText("Et ainsi de suite...")).toBe("Et ainsi de suite...");
+  });
+});
