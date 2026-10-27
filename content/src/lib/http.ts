@@ -34,7 +34,7 @@ export function cacheKey(url: string, body?: string): string {
   return createHash("sha256").update(url).update("\0").update(body ?? "").digest("hex");
 }
 
-async function readCache(key: string): Promise<Buffer | undefined> {
+export async function readCache(key: string): Promise<Buffer | undefined> {
   try {
     return await readFile(join(CACHE_DIR, key.slice(0, 2), key));
   } catch {
@@ -42,7 +42,7 @@ async function readCache(key: string): Promise<Buffer | undefined> {
   }
 }
 
-async function writeCache(key: string, data: Buffer): Promise<void> {
+export async function writeCache(key: string, data: Buffer): Promise<void> {
   const path = join(CACHE_DIR, key.slice(0, 2), key);
   await mkdir(dirname(path), { recursive: true });
   await writeFile(path, data);

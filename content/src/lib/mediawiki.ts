@@ -1,4 +1,4 @@
-import { fetchText } from "./http.js";
+import { cacheKey, fetchText, readCache, writeCache } from "./http.js";
 
 // The api.php endpoint is aggressively rate-limited from shared cloud IPs;
 // index.php?action=raw is enough for everything we need (raw wikitext).
@@ -17,7 +17,7 @@ const API = "https://fr.wikipedia.org/w/api.php";
 const BATCH = 50; // MediaWiki's per-request page limit for revision content
 
 type ApiPage = { title: string; missing?: boolean; revisions?: { slots: { main: { content: string } } }[] };
-type ApiResponse = {
+export type ApiResponse = {
   continue?: Record<string, string>;
   query?: {
     normalized?: { from: string; to: string }[];
@@ -25,6 +25,41 @@ type ApiResponse = {
     pages?: ApiPage[];
   };
 };
+
+type PageEntry = { title: string; text: string } | null;
+
+// Per-title cache, so that reruns hit it whatever the batch composition.
+const pageKey = (title: string) => cacheKey(`page:${title}`);
+
+async function readPage(title: string): Promise<PageEntry | undefined> {
+  const buf = await readCache(pageKey(title));
+  return buf === undefined ? undefined : (JSON.parse(buf.toString("utf8")) as PageEntry);
+}
+
+export async function writePage(title: string, entry: PageEntry): Promise<void> {
+  await writeCache(pageKey(title), Buffer.from(JSON.stringify(entry)));
+}
+
+/** Record every page of an api.php response under its requested and resolved titles. */
+export async function storeApiResponse(res: ApiResponse, requested: string[]): Promise<Map<string, PageEntry>> {
+  const resolve = new Map<string, string>();
+  for (const r of [...(res.query?.normalized ?? []), ...(res.query?.redirects ?? [])]) resolve.set(r.from, r.to);
+  const texts = new Map<string, string>();
+  for (const p of res.query?.pages ?? []) {
+    const content = p.revisions?.[0]?.slots.main.content;
+    if (content !== undefined) texts.set(p.title, content);
+  }
+  const out = new Map<string, PageEntry>();
+  for (const t of requested) {
+    let target = t;
+    for (let hop = 0; hop < 3 && resolve.has(target); hop++) target = resolve.get(target)!;
+    const text = texts.get(target);
+    const entry = text === undefined ? null : { title: target, text };
+    out.set(t, entry);
+    await writePage(t, entry);
+  }
+  return out;
+}
 
 /**
  * Raw wikitext of many articles, 50 per request, redirects resolved.
@@ -37,10 +72,15 @@ export async function rawPages(
 ): Promise<Map<string, { title: string; text: string } | undefined>> {
   const wanted = [...new Set(titles.map(normalizeTitle))].sort();
   const out = new Map<string, { title: string; text: string } | undefined>();
-  for (let i = 0; i < wanted.length; i += BATCH) {
-    const batch = wanted.slice(i, i + BATCH);
-    const resolve = new Map<string, string>();
-    const texts = new Map<string, string>();
+  const missing: string[] = [];
+  for (const t of wanted) {
+    const cached = await readPage(t);
+    if (cached === undefined) missing.push(t);
+    else out.set(t, cached ?? undefined);
+  }
+  for (let i = 0; i < missing.length; i += BATCH) {
+    const batch = missing.slice(i, i + BATCH);
+    const merged: ApiResponse = { query: { normalized: [], redirects: [], pages: [] } };
     let cont: Record<string, string> | undefined = {};
     while (cont) {
       const params = new URLSearchParams({
@@ -56,20 +96,13 @@ export async function rawPages(
         ...cont,
       });
       const res: ApiResponse = JSON.parse(await fetchText(`${API}?${params}`));
-      for (const r of [...(res.query?.normalized ?? []), ...(res.query?.redirects ?? [])]) resolve.set(r.from, r.to);
-      for (const p of res.query?.pages ?? []) {
-        const content = p.revisions?.[0]?.slots.main.content;
-        if (content !== undefined) texts.set(p.title, content);
-      }
+      merged.query!.normalized!.push(...(res.query?.normalized ?? []));
+      merged.query!.redirects!.push(...(res.query?.redirects ?? []));
+      merged.query!.pages!.push(...(res.query?.pages ?? []));
       cont = res.continue;
     }
-    for (const t of batch) {
-      let target = t;
-      for (let hop = 0; hop < 3 && resolve.has(target); hop++) target = resolve.get(target)!;
-      const text = texts.get(target);
-      out.set(t, text === undefined ? undefined : { title: target, text });
-    }
-    onBatch?.(Math.min(i + BATCH, wanted.length), wanted.length);
+    for (const [t, e] of await storeApiResponse(merged, batch)) out.set(t, e ?? undefined);
+    onBatch?.(wanted.length - missing.length + Math.min(i + BATCH, missing.length), wanted.length);
   }
   return out;
 }
