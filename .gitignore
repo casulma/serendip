@@ -5,3 +5,10 @@ dist/
 
 # Raw API responses: local, rebuildable, never committed.
 content/cache/
+
+# Pipeline outputs: only the final pack, its assets and the reports are versioned.
+content/out/*
+!content/out/pack.json
+!content/out/assets/
+!content/out/report-*.md
+!content/out/sample-*.md
