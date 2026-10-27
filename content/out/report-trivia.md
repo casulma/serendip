@@ -1,13 +1,13 @@
 # Rapport — quiz aléatoire (Wikidata)
 
-Total : **2941** questions
+Total : **3335** questions
 
 ## Par famille
 
 | Famille | Questions | Rejets | Facile / moyen / difficile |
 |---|---:|---:|---|
 | Capitale d'un pays | 181 | 16 | 61 / 60 / 60 |
-| Drapeau d'un pays | échec : TypeError: fetch failed | 0 | 0 / 0 / 0 |
+| Drapeau d'un pays | 394 | 0 | 132 / 134 / 128 |
 | Chef-lieu d'un département | 94 | 3 | 43 / 20 / 31 |
 | Pays le plus étendu | 182 | 15 | 31 / 72 / 79 |
 | Année de naissance d'une personnalité | 2098 | 396 | 703 / 725 / 670 |
@@ -18,7 +18,7 @@ Total : **2941** questions
 | Catégorie | Questions |
 |---|---:|
 | Histoire | 189 |
-| Géographie | 457 |
+| Géographie | 851 |
 | Sciences | 422 |
 | Nature & animaux | 0 |
 | Arts & littérature | 933 |
@@ -73,6 +73,11 @@ Total : **2941** questions
 - (2) Quelle est la capitale de ce pays : Namibie ? → **Windhoek** — Nouakchott / Bamako / Banjul
 - (3) Quelle est la capitale de ce pays : Nauru ? → **Yaren** — Port Moresby / Wellington / Majuro
 - (2) Quelle est la capitale de ce pays : Birmanie ? → **Naypyidaw** — Jakarta / Amman / New Delhi
+- (2) À quel pays appartient ce drapeau ? [image flags/Q114.png] → **Kenya** — Gabon / Sierra Leone / Cap-Vert
+- (3) À quel pays appartient ce drapeau ? [image flags/Q244.png] → **Barbade** — Mexique / Canada / Panama
+- (2) À quel pays appartient ce drapeau ? [image flags/Q1030.png] → **Namibie** — Tunisie / Côte d'Ivoire / Niger
+- (3) À quel pays appartient ce drapeau ? [image flags/Q697.png] → **Nauru** — Kiribati / Tuvalu / Tonga
+- (3) À quel pays appartient ce drapeau ? [image flags/Q826.png] → **Maldives** — Laos / Turkménistan / Corée du Sud
 - (3) Quel est le chef-lieu de ce département : Rhône (69) ? → **Lyon** — Le Puy-en-Velay / Grenoble / Aurillac
 - (3) Quel est le chef-lieu de ce département : Lozère (48) ? → **Mende** — Foix / Nîmes / Albi
 - (1) Quel est le chef-lieu de ce département : Pyrénées-Orientales (66) ? → **Perpignan** — Nîmes / Rodez / Cahors
