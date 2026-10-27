@@ -1,0 +1,5 @@
+packages:
+  - content
+  - app
+onlyBuiltDependencies:
+  - esbuild

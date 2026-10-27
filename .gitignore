@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+
+# Raw API responses: local, rebuildable, never committed.
+content/cache/
