@@ -5,6 +5,8 @@
   "scripts": {
     "facts": "NODE_USE_ENV_PROXY=1 tsx src/facts/run.ts",
     "trivia": "NODE_USE_ENV_PROXY=1 tsx src/trivia/run.ts",
+    "build-pack": "tsx src/build-pack.ts",
+    "all": "pnpm facts && pnpm trivia && pnpm build-pack",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },
