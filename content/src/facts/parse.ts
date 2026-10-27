@@ -6,6 +6,7 @@ export type RawAnecdote = {
   year: number;
   wikitext: string;
   mainArticle: string | undefined;
+  mainDisplay: string | undefined;
   publishedOn: string | undefined;
 };
 
@@ -49,6 +50,22 @@ export function findMainArticle(wikitext: string): string | undefined {
   return normalizeTitle(title.replace(/^:/, ""));
 }
 
+/**
+ * The displayed text of the main link, only for the plain forms
+ * '''[[X]]''', '''[[X|Y]]''', '''''[[X|Y]]''''' and [[X|'''Y''']].
+ * Anything fancier (prefix inside the bold, link trail, template) returns
+ * undefined: such facts get no cloze question.
+ */
+export function findMainDisplay(wikitext: string): string | undefined {
+  const noFiles = wikitext.replace(/\[\[\s*(Fichier|Image|File)\s*:[^\]]*(\[\[[^\]]*\]\][^\]]*)*\]\]/gi, "");
+  const bold = /('{3,5})\[\[([^\]|#]+)(?:\|([^\]\[{}']+))?\]\]\1(?!\p{L})/u.exec(noFiles);
+  const inner = /\[\[([^\]|#]+)\|('{3,5})([^\]\[{}']+)\2\]\]/.exec(noFiles);
+  const hit = [bold && { index: bold.index, text: bold[3] ?? bold[2]! }, inner && { index: inner.index, text: inner[3]! }]
+    .filter((x): x is { index: number; text: string } => !!x)
+    .sort((a, b) => a.index - b.index)[0];
+  return hit?.text.trim();
+}
+
 function hashId(year: number, wikitext: string): string {
   const norm = wikitext.replace(/<!--[\s\S]*?-->/g, "").replace(/\s+/g, " ").trim();
   return createHash("sha1").update(`${year}\0${norm}`).digest("hex").slice(0, 12);
@@ -73,6 +90,7 @@ export function parseArchive(year: number, text: string): RawAnecdote[] {
       year,
       wikitext: body,
       mainArticle: findMainArticle(body),
+      mainDisplay: findMainDisplay(body),
       publishedOn: undefined,
     });
   }

@@ -9,6 +9,9 @@ import { Category, Fact } from "../schema.js";
 import { fetchArchives } from "./archives.js";
 import { categorize, extractPortals, mayChange, normalizePortal, type PortalMapping } from "./categorize.js";
 import { parseArchive, type RawAnecdote } from "./parse.js";
+import { makeCloze } from "../fact-questions/cloze.js";
+import { resolveArticles, type Entity } from "../fact-questions/wikidata.js";
+import { difficultyScale } from "../trivia/family.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..", "..");
 const OUT = join(ROOT, "out");
@@ -18,9 +21,14 @@ type Rejection = { id: string; year: number; reason: string; detail?: string };
 async function loadMapping(): Promise<PortalMapping> {
   const raw = JSON.parse(await readFile(join(ROOT, "mappings", "portails.json"), "utf8"));
   const table = z.record(z.string(), Category);
-  const parsed = z.object({ strong: table, weak: table }).parse(raw);
+  const pattern = z.object({ regex: z.string(), category: Category, tier: z.enum(["strong", "weak"]) });
+  const parsed = z.object({ strong: table, weak: table, patterns: z.array(pattern).default([]) }).parse(raw);
   const lower = (t: Record<string, CategoryId>) => Object.fromEntries(Object.entries(t).map(([k, v]) => [normalizePortal(k), v]));
-  return { strong: lower(parsed.strong), weak: lower(parsed.weak) };
+  return {
+    strong: lower(parsed.strong),
+    weak: lower(parsed.weak),
+    patterns: parsed.patterns.map((p) => ({ ...p, regex: new RegExp(p.regex, "u") })),
+  };
 }
 
 async function main() {
@@ -69,6 +77,7 @@ async function main() {
   );
 
   const facts: Fact[] = [];
+  const subjects = new Map<string, { title: string; display: string | undefined }>();
   const unmappedPortals = new Map<string, number>();
   const mayChangeWords = new Map<string, number>();
 
@@ -98,13 +107,62 @@ async function main() {
         questions: [],
       }),
     );
+    subjects.set(c.id, { title: page.title, display: c.mainDisplay && toPlainText(c.mainDisplay) });
   }
+
+  const clozeRejections = await addClozeQuestions(facts, subjects);
 
   await mkdir(OUT, { recursive: true });
   await writeFile(join(OUT, "facts.json"), JSON.stringify(facts, null, 1) + "\n");
   await writeFile(join(OUT, "rejected-facts.json"), JSON.stringify(rejected, null, 1) + "\n");
-  await writeFile(join(OUT, "report-facts.md"), report(archives.length, facts, rejected, unmappedPortals, mayChangeWords));
+  await writeFile(join(OUT, "report-facts.md"), report(archives.length, facts, rejected, unmappedPortals, mayChangeWords, clozeRejections));
+  await writeFile(join(OUT, "sample-fact-questions.md"), clozeSample(facts));
   console.log(`[facts] ${facts.length} faits retenus, ${rejected.length} rejetés → out/report-facts.md`);
+}
+
+/** Attach a fill-in-the-blank question to every fact where it can be built cleanly. */
+async function addClozeQuestions(
+  facts: Fact[],
+  subjects: Map<string, { title: string; display: string | undefined }>,
+): Promise<Map<string, number>> {
+  const entities = await resolveArticles(
+    [...subjects.values()].map((s) => s.title),
+    (done, total) => console.log(`[facts] Wikidata ${done}/${total}`),
+  );
+  const unique = new Map<string, Entity>();
+  for (const e of entities.values()) unique.set(e.qid, e);
+  const byType = new Map<string, Entity[]>();
+  for (const e of unique.values()) for (const t of e.types) byType.set(t, [...(byType.get(t) ?? []), e]);
+  const difficulty = difficultyScale([...unique.values()].map((e) => e.sitelinks));
+
+  const reasons = new Map<string, number>();
+  const reject = (r: string) => reasons.set(r, (reasons.get(r) ?? 0) + 1);
+  for (const f of facts) {
+    const s = subjects.get(f.id)!;
+    const entity = entities.get(s.title);
+    if (!s.display) { reject("lien principal non simple (préfixe, pluriel, modèle)"); continue; }
+    if (!entity) { reject("pas d'élément Wikidata"); continue; }
+    const pool = [...new Map(entity.types.flatMap((t) => byType.get(t) ?? []).map((e) => [e.qid, e])).values()];
+    const r = makeCloze({ factId: f.id, text: f.text, display: s.display, entity }, pool);
+    if ("reason" in r) { reject(r.reason); continue; }
+    f.questions.push({ ...r.question, difficulty: difficulty(entity.sitelinks) });
+  }
+  return reasons;
+}
+
+function clozeSample(facts: Fact[]): string {
+  const withQ = facts.filter((f) => f.questions.length > 0);
+  const step = Math.max(1, Math.floor(withQ.length / 50));
+  const lines = ["# Échantillon — questions à trous sur les faits", "", `${withQ.length} faits sur ${facts.length} ont une question.`, ""];
+  withQ
+    .filter((_, i) => i % step === 0)
+    .slice(0, 50)
+    .forEach((f, i) => {
+      const q = f.questions[0]!;
+      const t = (c: typeof q.answer) => (c.kind === "text" ? c.text : c.alt);
+      lines.push(`${i + 1}. ${q.prompt}`, `   - ✅ ${t(q.answer)} — ❌ ${q.distractors.map(t).join(" / ")}`, "");
+    });
+  return lines.join("\n") + "\n";
 }
 
 const count = <T>(items: T[], key: (t: T) => string) => {
@@ -119,6 +177,7 @@ function report(
   rejected: Rejection[],
   unmapped: Map<string, number>,
   mayChangeWords: Map<string, number>,
+  clozeRejections: Map<string, number>,
 ): string {
   const label = (id: string) => CATEGORIES.find((c) => c.id === (id as CategoryId))?.label ?? id;
   const lines: string[] = [];
@@ -154,6 +213,12 @@ function report(
 
   lines.push("", "## Expressions ayant déclenché `peut-changer`", "", "| Expression | Faits |", "|---|---:|");
   for (const [w, n] of [...mayChangeWords.entries()].sort((a, b) => b[1] - a[1])) lines.push(`| ${w} | ${n} |`);
+
+  const withQ = facts.filter((f) => f.questions.length > 0).length;
+  lines.push("", "## Questions à trous", "", `- Faits avec une question : **${withQ}** sur ${facts.length}`, "");
+  lines.push("| Raison de l'absence de question | Faits |", "|---|---:|");
+  for (const [r, n] of [...clozeRejections].sort((a, b) => b[1] - a[1])) lines.push(`| ${r} | ${n} |`);
+  lines.push("", "Échantillon de 50 questions : `out/sample-fact-questions.md`.");
 
   lines.push("", "## Échantillon (1 fait sur 500)", "");
   facts.forEach((f, i) => {

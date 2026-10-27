@@ -23,7 +23,16 @@ export function normalizePortal(name: string): string {
  * `weak` portals give context only (a country, a city, a decade) and are used
  * when no strong portal matches.
  */
-export type PortalMapping = { strong: Record<string, CategoryId>; weak: Record<string, CategoryId> };
+export type PortalMapping = {
+  strong: Record<string, CategoryId>;
+  weak: Record<string, CategoryId>;
+  patterns?: readonly { regex: RegExp; category: CategoryId; tier: "strong" | "weak" }[];
+};
+
+/** Explicit entries first, then the first matching pattern of that tier. */
+function lookup(portal: string, mapping: PortalMapping, tier: "strong" | "weak"): CategoryId | undefined {
+  return mapping[tier][portal] ?? mapping.patterns?.find((p) => p.tier === tier && p.regex.test(portal))?.category;
+}
 
 export type Categorization =
   | { category: CategoryId; portals: string[] }
@@ -35,14 +44,14 @@ export type Categorization =
  */
 export function categorize(portals: string[], mapping: PortalMapping): Categorization {
   if (portals.length === 0) return { category: undefined, portals, reason: "aucun portail" };
-  const best = vote(portals, mapping.strong) ?? vote(portals, mapping.weak);
+  const best = vote(portals, (p) => lookup(p, mapping, "strong")) ?? vote(portals, (p) => lookup(p, mapping, "weak"));
   return best ? { category: best, portals } : { category: undefined, portals, reason: "aucun portail reconnu" };
 }
 
-function vote(portals: string[], mapping: Record<string, CategoryId>): CategoryId | undefined {
+function vote(portals: string[], categoryOf: (portal: string) => CategoryId | undefined): CategoryId | undefined {
   const votes = new Map<CategoryId, { count: number; first: number }>();
   portals.forEach((p, i) => {
-    const c = mapping[p];
+    const c = categoryOf(p);
     if (!c) return;
     const v = votes.get(c);
     if (v) v.count++;

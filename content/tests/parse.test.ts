@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { findMainArticle, parseArchive, parsePublishedOn } from "../src/facts/parse.js";
+import { findMainArticle, findMainDisplay, parseArchive, parsePublishedOn } from "../src/facts/parse.js";
 
 describe("parsePublishedOn", () => {
   it("reads both date formats", () => {
@@ -39,5 +39,15 @@ describe("parseArchive", () => {
 
   it("is deterministic", () => {
     expect(parseArchive(2024, page)).toEqual(parseArchive(2024, page));
+  });
+});
+
+describe("findMainDisplay", () => {
+  it("returns the displayed text for plain bold links only", () => {
+    expect(findMainDisplay("Le '''[[sodium]]''' réagit")).toBe("sodium");
+    expect(findMainDisplay("la ville '''[[Toyota (Aichi)|Koromo]]''' a")).toBe("Koromo");
+    expect(findMainDisplay("La [[Helaeomyia petrolei|'''mouche du pétrole''']] est")).toBe("mouche du pétrole");
+    expect(findMainDisplay("Tous les '''[[incunable]]s''' ont")).toBeUndefined();
+    expect(findMainDisplay("L’'''[[Ère chrétienne|l’{{nobr|année 1}}]]'''")).toBeUndefined();
   });
 });

@@ -53,3 +53,18 @@ describe("mayChange with accents", () => {
     expect(mayChange("Une recordwoman")).toBeUndefined();
   });
 });
+
+describe("categorize with patterns", () => {
+  it("applies patterns after explicit entries, per tier", () => {
+    const mapping = {
+      strong: { chimie: "sciences" },
+      weak: {},
+      patterns: [
+        { regex: /^années \d{3,4}$/u, category: "histoire", tier: "weak" },
+        { regex: /^cinéma\b/u, category: "musique-cinema", tier: "strong" },
+      ],
+    } as const;
+    expect(categorize(["années 1960", "cinéma italien"], mapping).category).toBe("musique-cinema");
+    expect(categorize(["années 1960", "inconnu"], mapping).category).toBe("histoire");
+  });
+});
