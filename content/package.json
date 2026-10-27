@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "facts": "NODE_USE_ENV_PROXY=1 tsx src/facts/run.ts",
+    "trivia": "NODE_USE_ENV_PROXY=1 tsx src/trivia/run.ts",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },

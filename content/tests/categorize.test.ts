@@ -13,14 +13,23 @@ describe("extractPortals", () => {
 });
 
 describe("categorize", () => {
-  const mapping = { chimie: "sciences", bretagne: "geographie", "première guerre mondiale": "histoire", "armée française": "histoire" } as const;
+  const mapping = {
+    strong: { chimie: "sciences", "première guerre mondiale": "histoire", "armée française": "histoire" },
+    weak: { bretagne: "geographie", france: "geographie" },
+  } as const;
 
   it("picks the majority category", () => {
     expect(categorize(["première guerre mondiale", "bretagne", "armée française"], mapping).category).toBe("histoire");
   });
 
   it("breaks ties with the first listed portal", () => {
-    expect(categorize(["bretagne", "chimie"], mapping).category).toBe("geographie");
+    expect(categorize(["armée française", "chimie"], mapping).category).toBe("histoire");
+    expect(categorize(["chimie", "armée française"], mapping).category).toBe("sciences");
+  });
+
+  it("ignores context portals when a thematic one matches", () => {
+    expect(categorize(["bretagne", "france", "chimie"], mapping).category).toBe("sciences");
+    expect(categorize(["bretagne", "paranormal"], mapping).category).toBe("geographie");
   });
 
   it("explains why nothing matched", () => {
@@ -34,5 +43,13 @@ describe("mayChange", () => {
     expect(mayChange("Le glacier a actuellement disparu.")).toBe("actuellement");
     expect(mayChange("C’est le plus ancien établissement du Canada.")).toBe("le plus");
     expect(mayChange("Le sodium réagit avec l’eau.")).toBeUndefined();
+  });
+});
+
+describe("mayChange with accents", () => {
+  it("handles accented boundaries", () => {
+    expect(mayChange("À ce jour, aucun spécimen n’a été trouvé.")).toBe("à ce jour");
+    expect(mayChange("C’est la dernière locomotive.")).toBe("dernière");
+    expect(mayChange("Une recordwoman")).toBeUndefined();
   });
 });

@@ -16,6 +16,8 @@ const MIN_INTERVAL_MS: Record<string, number> = {
   "www.wikidata.org": 1000,
   "query.wikidata.org": 2000,
   "commons.wikimedia.org": 1000,
+  "thumb.wikimedia.org": 500,
+  "upload.wikimedia.org": 500,
 };
 const DEFAULT_INTERVAL_MS = 1000;
 // Shared egress IPs get throttled for minutes at a time: be patient on 429.
@@ -32,21 +34,21 @@ export function cacheKey(url: string, body?: string): string {
   return createHash("sha256").update(url).update("\0").update(body ?? "").digest("hex");
 }
 
-async function readCache(key: string): Promise<string | undefined> {
+async function readCache(key: string): Promise<Buffer | undefined> {
   try {
-    return await readFile(join(CACHE_DIR, key.slice(0, 2), key), "utf8");
+    return await readFile(join(CACHE_DIR, key.slice(0, 2), key));
   } catch {
     return undefined;
   }
 }
 
-async function writeCache(key: string, text: string): Promise<void> {
+async function writeCache(key: string, data: Buffer): Promise<void> {
   const path = join(CACHE_DIR, key.slice(0, 2), key);
   await mkdir(dirname(path), { recursive: true });
-  await writeFile(path, text, "utf8");
+  await writeFile(path, data);
 }
 
-async function throttledFetch(url: string, init: RequestInit): Promise<string> {
+async function throttledFetch(url: string, init: RequestInit): Promise<Buffer> {
   const host = new URL(url).host;
   const interval = MIN_INTERVAL_MS[host] ?? DEFAULT_INTERVAL_MS;
   for (let attempt = 0; ; attempt++) {
@@ -59,14 +61,14 @@ async function throttledFetch(url: string, init: RequestInit): Promise<string> {
       headers: { "user-agent": USER_AGENT, "accept-encoding": "gzip", ...init.headers },
     });
     if (res.ok) {
-      const text = await res.text();
+      const data = Buffer.from(await res.arrayBuffer());
       // MediaWiki reports replication lag as a 200 with an error body.
-      if (text.includes('"code":"maxlag"')) {
+      if (res.headers.get("content-type")?.includes("json") && data.includes('"code":"maxlag"')) {
         if (attempt >= MAX_RETRIES) throw new Error(`maxlag persists for ${url}`);
         await sleep(5000 * (attempt + 1));
         continue;
       }
-      return text;
+      return data;
     }
     const limit = res.status === 429 ? MAX_RATE_LIMIT_RETRIES : MAX_RETRIES;
     if ((res.status === 429 || res.status >= 500) && attempt < limit) {
@@ -86,29 +88,33 @@ async function throttledFetch(url: string, init: RequestInit): Promise<string> {
  * therefore hit the network only for what is missing. Pass `refresh` to bypass
  * the cache for this call.
  */
-export function fetchText(
-  url: string,
-  opts: { method?: "GET" | "POST"; body?: string; headers?: Record<string, string>; refresh?: boolean } = {},
-): Promise<string> {
+type FetchOptions = { method?: "GET" | "POST"; body?: string; headers?: Record<string, string>; refresh?: boolean };
+
+export async function fetchText(url: string, opts: FetchOptions = {}): Promise<string> {
+  return (await fetchBuffer(url, opts)).toString("utf8");
+}
+
+/** Same as fetchText, for binary content (images). */
+export function fetchBuffer(url: string, opts: FetchOptions = {}): Promise<Buffer> {
   const key = cacheKey(url, opts.body);
   const run = async () => {
     if (!opts.refresh) {
       const cached = await readCache(key);
       if (cached !== undefined) return cached;
     }
-    const text = await throttledFetch(url, {
+    const data = await throttledFetch(url, {
       method: opts.method ?? "GET",
       body: opts.body,
       headers: opts.headers,
     });
-    await writeCache(key, text);
-    return text;
+    await writeCache(key, data);
+    return data;
   };
   const p = queue.then(run, run);
   queue = p.catch(() => undefined);
   return p;
 }
 
-export async function fetchJson<T = unknown>(url: string, opts?: Parameters<typeof fetchText>[1]): Promise<T> {
+export async function fetchJson<T = unknown>(url: string, opts?: FetchOptions): Promise<T> {
   return JSON.parse(await fetchText(url, opts)) as T;
 }

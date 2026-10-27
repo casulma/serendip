@@ -7,7 +7,7 @@ import { articleUrl, rawPages } from "../lib/mediawiki.js";
 import { toPlainText, UnsupportedWikitext } from "../lib/wikitext.js";
 import { Category, Fact } from "../schema.js";
 import { fetchArchives } from "./archives.js";
-import { categorize, extractPortals, mayChange, type PortalMapping } from "./categorize.js";
+import { categorize, extractPortals, mayChange, normalizePortal, type PortalMapping } from "./categorize.js";
 import { parseArchive, type RawAnecdote } from "./parse.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..", "..");
@@ -17,8 +17,10 @@ type Rejection = { id: string; year: number; reason: string; detail?: string };
 
 async function loadMapping(): Promise<PortalMapping> {
   const raw = JSON.parse(await readFile(join(ROOT, "mappings", "portails.json"), "utf8"));
-  const parsed = z.record(z.string(), Category).parse(raw);
-  return Object.fromEntries(Object.entries(parsed).map(([k, v]) => [k.toLowerCase(), v]));
+  const table = z.record(z.string(), Category);
+  const parsed = z.object({ strong: table, weak: table }).parse(raw);
+  const lower = (t: Record<string, CategoryId>) => Object.fromEntries(Object.entries(t).map(([k, v]) => [normalizePortal(k), v]));
+  return { strong: lower(parsed.strong), weak: lower(parsed.weak) };
 }
 
 async function main() {

@@ -18,7 +18,12 @@ export function normalizePortal(name: string): string {
   return name.replace(/_/g, " ").replace(/\s+/g, " ").trim().toLowerCase();
 }
 
-export type PortalMapping = Record<string, CategoryId>;
+/**
+ * `strong` portals are thematic (chimie, football…) and decide the category.
+ * `weak` portals give context only (a country, a city, a decade) and are used
+ * when no strong portal matches.
+ */
+export type PortalMapping = { strong: Record<string, CategoryId>; weak: Record<string, CategoryId> };
 
 export type Categorization =
   | { category: CategoryId; portals: string[] }
@@ -30,6 +35,11 @@ export type Categorization =
  */
 export function categorize(portals: string[], mapping: PortalMapping): Categorization {
   if (portals.length === 0) return { category: undefined, portals, reason: "aucun portail" };
+  const best = vote(portals, mapping.strong) ?? vote(portals, mapping.weak);
+  return best ? { category: best, portals } : { category: undefined, portals, reason: "aucun portail reconnu" };
+}
+
+function vote(portals: string[], mapping: Record<string, CategoryId>): CategoryId | undefined {
   const votes = new Map<CategoryId, { count: number; first: number }>();
   portals.forEach((p, i) => {
     const c = mapping[p];
@@ -46,24 +56,26 @@ export function categorize(portals: string[], mapping: PortalMapping): Categoriz
       bestV = v;
     }
   }
-  return best ? { category: best, portals } : { category: undefined, portals, reason: "aucun portail reconnu" };
+  return best;
 }
 
 // Time-sensitive wording: the claim may no longer hold. Tagging only, for later audit.
+// `\b` is ASCII-only in JS regexes, so word boundaries are spelled out with \p{L}.
+const word = (src: string) => new RegExp(`(?<!\\p{L})(?:${src})(?!\\p{L})`, "iu");
 const MAY_CHANGE = [
-  /\bactuellement\b/i,
-  /\baujourd[’']hui\b/i,
-  /\bà ce jour\b/i,
-  /\bde nos jours\b/i,
-  /\bà l[’']heure actuelle\b/i,
-  /\bencore (?:aujourd|en activité|en service|utilisée?s?|vivante?s?)\b/i,
-  /\btoujours\b/i,
-  /\b(?:le|la|les) plus\b/i,
-  /\brecord\b/i,
-  /\bseule?s?\b/i,
-  /\bunique\b/i,
-  /\bdernière?s?\b/i,
-];
+  "actuellement",
+  "aujourd[’']hui",
+  "à ce jour",
+  "de nos jours",
+  "à l[’']heure actuelle",
+  "encore (?:aujourd[’']hui|en activité|en service|utilisée?s?|vivante?s?)",
+  "toujours",
+  "(?:le|la|les) plus",
+  "records?",
+  "seule?s?",
+  "unique",
+  "dernière?s?",
+].map(word);
 
 /** The first time-sensitive expression found, if any. */
 export function mayChange(text: string): string | undefined {
