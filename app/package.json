@@ -1,0 +1,38 @@
+{
+  "name": "@serendip/app",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "dependencies": {
+    "expo": "~58.0.20",
+    "expo-asset": "~58.0.18",
+    "expo-constants": "~58.0.13",
+    "expo-linking": "~58.0.14",
+    "expo-notifications": "~58.1.6",
+    "expo-router": "~58.0.27",
+    "expo-sqlite": "~58.0.14",
+    "expo-status-bar": "~58.0.4",
+    "expo-system-ui": "~58.0.6",
+    "expo-web-browser": "~58.0.7",
+    "react": "19.3.0",
+    "react-native": "0.88.0",
+    "react-native-safe-area-context": "~5.10.1",
+    "react-native-screens": "~4.30.0"
+  },
+  "devDependencies": {
+    "@types/react": "~19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-expo": "~58.0.4",
+    "typescript": "~6.0.3",
+    "vitest": "^5.0.5"
+  },
+  "scripts": {
+    "sync-pack": "node scripts/sync-pack.mjs",
+    "start": "node scripts/sync-pack.mjs && expo start",
+    "android": "node scripts/sync-pack.mjs && expo start --android",
+    "test": "vitest run",
+    "typecheck": "node scripts/sync-pack.mjs && tsc --noEmit",
+    "eas-build-post-install": "node scripts/sync-pack.mjs",
+    "lint": "expo lint"
+  },
+  "private": true
+}

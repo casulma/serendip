@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Serendip",
+    "slug": "serendip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.serendip.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2F6F5E",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.serendip.app"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      "expo-web-browser",
+      "expo-asset"
+    ],
+    "scheme": "serendip"
+  }
+}
