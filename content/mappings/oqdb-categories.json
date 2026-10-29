@@ -1,4 +1,33 @@
 {
- "_doc": "Catégorie OpenQuizzDB (telle qu'affichée sur la page du quiz) → catégorie Serendip. null = catégorie écartée volontairement.",
- "map": {}
+ "_doc": "Catégorie OpenQuizzDB (telle qu'affichée sur la page du quiz) → catégorie Serendip. null = catégorie écartée volontairement (jeux de lettres sans anecdote, contenu pour adultes).",
+ "map": {
+  "ALPHAQUIZZ": "divers",
+  "ANIMAUX": "nature",
+  "ARCHÉOLOGIE": "histoire",
+  "ARTS": "arts-litterature",
+  "BANDE DESSINÉE": "arts-litterature",
+  "CÉLÉBRITÉS": "musique-cinema",
+  "CINÉMA": "musique-cinema",
+  "CULTURE GENERALE": "divers",
+  "DEFI CHIFFRE": "divers",
+  "GASTRONOMIE": "divers",
+  "GÉOGRAPHIE": "geographie",
+  "HISTOIRE": "histoire",
+  "INFORMATIQUE": "sciences",
+  "LITTÉRATURE": "arts-litterature",
+  "LOISIRS": "divers",
+  "MOTS CROISES": null,
+  "MUSIQUE": "musique-cinema",
+  "NATURE": "nature",
+  "ORTHOQUIZZ": null,
+  "PAYS DU MONDE": "geographie",
+  "POUR ADULTES": null,
+  "QUADRIQUIZZ": null,
+  "SCIENCES": "sciences",
+  "SPORTS": "sport",
+  "TÉLÉVISION": "musique-cinema",
+  "TOURISME": "geographie",
+  "VIE QUOTIDIENNE": "divers",
+  "WEB": "sciences"
+ }
 }

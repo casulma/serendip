@@ -73,7 +73,8 @@ async function main() {
       const distinct = new Set(propositions.map((p) => p.toLocaleLowerCase("fr")));
       if (propositions.length !== 4 || distinct.size !== 4) { reject("propositions invalides"); continue; }
       if (!propositions.includes(answer)) { reject("réponse absente des propositions"); continue; }
-      if (!anecdote) { reject("pas d'anecdote"); continue; }
+      // Word games put a bare "-" where the anecdote goes.
+      if (anecdote.replace(/[-–—.\s]/g, "").length < 15) { reject("pas d'anecdote"); continue; }
       const source = q["wikipédia"]?.trim();
       if (!source || !/^https:\/\/[a-z]+\.wikipedia\.org\/wiki\/\S+$/.test(source)) { reject("lien Wikipédia absent ou invalide", source); continue; }
 
