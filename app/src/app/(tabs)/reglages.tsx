@@ -1,25 +1,32 @@
 import { useFocusEffect } from "expo-router";
 import { useSQLiteContext } from "expo-sqlite";
 import { useCallback, useState } from "react";
-import { Alert, Pressable, ScrollView, Switch, Text, View } from "react-native";
-import { getSettings, saveSettings, type Settings } from "../../db/repo";
+import { Alert, Pressable, ScrollView, Share, Switch, Text, View } from "react-native";
+import { countUnclear, exportUnclear, getSettings, saveSettings, type Settings } from "../../db/repo";
 import { MAX_FACTS_PER_DAY, clampNotifications } from "../../domain/quota";
 import { fr } from "../../i18n/fr";
 import { CATEGORIES, type CategoryId } from "../../pack/types";
 import { PACK_VERSION } from "../../pack/version.generated";
-import { Muted } from "../../ui/components";
+import { Button, Muted } from "../../ui/components";
 import { fontSize, spacing, useTheme } from "../../ui/theme";
 
 export default function SettingsScreen() {
   const db = useSQLiteContext();
   const t = useTheme();
   const [s, setS] = useState<Settings | undefined>();
+  const [unclear, setUnclear] = useState(0);
 
   useFocusEffect(
     useCallback(() => {
       void getSettings(db).then(setS);
+      void countUnclear(db).then(setUnclear);
     }, [db]),
   );
+
+  const shareUnclear = async () => {
+    const data = await exportUnclear(db);
+    await Share.share({ title: fr.settings.unclearTitle, message: JSON.stringify(data, null, 1) });
+  };
 
   if (!s) return null;
 
@@ -65,6 +72,11 @@ export default function SettingsScreen() {
           />
         </View>
       ))}
+
+      <Text style={section}>{fr.settings.unclearTitle}</Text>
+      <Muted>{fr.settings.unclearCount(unclear)}</Muted>
+      <Muted>{fr.settings.unclearExportHint}</Muted>
+      <Button label={fr.settings.unclearExport} variant="secondary" disabled={unclear === 0} onPress={shareUnclear} />
 
       <Text style={section}>{fr.settings.leitnerTitle}</Text>
       <Muted>{fr.settings.leitner}</Muted>

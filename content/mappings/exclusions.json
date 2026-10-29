@@ -1,0 +1,4 @@
+{
+ "_doc": "Faits écartés du pack. Collez ici le contenu exporté depuis l'appli (Réglages → Exporter les signalements) : seul le champ id de chaque entrée de facts est utilisé.",
+ "facts": []
+}

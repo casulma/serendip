@@ -57,6 +57,7 @@ export default function Notebook() {
               <Muted>
                 {categoryLabel(item.category)} · {formatDay(item.receivedDay)}
                 {item.known ? ` · ${fr.fact.knewIt.toLowerCase()}` : ""}
+                {item.unclear ? ` · ${fr.fact.unclear.toLowerCase()}` : ""}
               </Muted>
             </Pressable>
           </Link>

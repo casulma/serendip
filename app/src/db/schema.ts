@@ -47,6 +47,11 @@ const MIGRATIONS: string[] = [
   );
   CREATE TABLE settings (key TEXT PRIMARY KEY NOT NULL, value TEXT NOT NULL);
   `,
+  // "Pas clair": the user flags a fact as unusable. It leaves the reviews,
+  // no longer counts in the daily quota, and can be exported for the pipeline.
+  `
+  ALTER TABLE user_facts ADD COLUMN unclear_at TEXT;
+  `,
 ];
 
 export async function migrate(db: SQLiteDatabase): Promise<void> {

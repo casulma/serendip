@@ -54,7 +54,7 @@ describe("migrations and pack import", () => {
 
   it("is idempotent across app launches", async () => {
     await migrate(db);
-    expect((await db.getFirstAsync<{ user_version: number }>("PRAGMA user_version"))!.user_version).toBe(1);
+    expect((await db.getFirstAsync<{ user_version: number }>("PRAGMA user_version"))!.user_version).toBe(2);
   });
 });
 
@@ -110,5 +110,33 @@ describe("notebook", () => {
     expect(await repo.countReceived(db)).toBe(2);
     await repo.setKnown(db, b.fact.id, false);
     expect((await repo.receivedFact(db, b.fact.id))!.known).toBe(false);
+  });
+});
+
+describe("pas clair", () => {
+  it("removes the fact from the day and frees its quota slot", async () => {
+    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, factsPerDay: 2 });
+    const a = await repo.revealNextFact(db, at(9));
+    const b = await repo.revealNextFact(db, at(10));
+    if (!("fact" in a) || !("fact" in b)) throw new Error("no fact");
+    expect(await repo.revealNextFact(db, at(11))).toEqual({ reason: "quota" });
+
+    await repo.setUnclear(db, a.fact.id, true, at(11));
+    expect((await repo.factsReceivedOn(db, "2026-10-27")).map((f) => f.id)).toEqual([b.fact.id]);
+    expect(await repo.feedRemainingToday(db, at(11))).toBe(1);
+    expect("fact" in (await repo.revealNextFact(db, at(12)))).toBe(true);
+    // Still in the notebook, marked.
+    expect((await repo.receivedFact(db, a.fact.id))!.unclear).toBe(true);
+  });
+
+  it("exports flagged facts for the content pipeline", async () => {
+    const a = await repo.revealNextFact(db, at(9));
+    if (!("fact" in a)) throw new Error("no fact");
+    await repo.setUnclear(db, a.fact.id, true, at(10));
+    const out = await repo.exportUnclear(db, at(11));
+    expect(out).toMatchObject({ app: "serendip", kind: "faits-pas-clairs", facts: [{ id: a.fact.id, text: a.fact.text, source: a.fact.source }] });
+    expect(await repo.countUnclear(db)).toBe(1);
+    await repo.setUnclear(db, a.fact.id, false);
+    expect(await repo.countUnclear(db)).toBe(0);
   });
 });

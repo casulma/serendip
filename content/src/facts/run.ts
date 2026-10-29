@@ -31,8 +31,16 @@ async function loadMapping(): Promise<PortalMapping> {
   };
 }
 
+/** Ids flagged "pas clair" in the app (exported JSON pasted into mappings/exclusions.json). */
+async function loadExclusions(): Promise<Set<string>> {
+  const raw = JSON.parse(await readFile(join(ROOT, "mappings", "exclusions.json"), "utf8"));
+  const parsed = z.object({ facts: z.array(z.object({ id: z.string() })) }).parse(raw);
+  return new Set(parsed.facts.map((f) => f.id));
+}
+
 async function main() {
   const mapping = await loadMapping();
+  const excluded = await loadExclusions();
   const archives = await fetchArchives();
   console.log(`[facts] ${archives.length} pages d'archives`);
 
@@ -48,6 +56,10 @@ async function main() {
         continue;
       }
       seenIds.add(a.id);
+      if (excluded.has(a.id)) {
+        rejected.push({ id: a.id, year: a.year, reason: "signalé « pas clair » dans l'appli" });
+        continue;
+      }
       if (!a.mainArticle) {
         rejected.push({ id: a.id, year: a.year, reason: "pas d'article principal", detail: a.wikitext.slice(0, 160) });
         continue;

@@ -66,8 +66,14 @@ export default function Discover() {
     if (viewableItems.some((v) => (v.item as Page).kind === "next")) void revealRef.current();
   });
 
-  const updateFact = (fact: FactView) =>
+  const updateFact = (fact: FactView) => {
+    // A flagged fact leaves the feed and frees its slot in the quota.
+    if (fact.unclear) {
+      void load();
+      return;
+    }
     setPages((ps) => ps?.map((p) => (p.kind === "fact" && p.fact.id === fact.id ? { kind: "fact", fact } : p)));
+  };
 
   if (!pages) return null;
 

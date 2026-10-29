@@ -14,22 +14,26 @@ export default function Home() {
   const [remaining, setRemaining] = useState(0);
   const [received, setReceived] = useState(0);
 
+  const load = useCallback(async () => {
+    setFact(await lastReceivedFact(db));
+    setRemaining(await feedRemainingToday(db));
+    setReceived(await countReceived(db));
+  }, [db]);
+
   useFocusEffect(
     useCallback(() => {
-      void (async () => {
-        setFact(await lastReceivedFact(db));
-        setRemaining(await feedRemainingToday(db));
-        setReceived(await countReceived(db));
-      })();
-    }, [db]),
+      void load();
+    }, [load]),
   );
+
+  const onChange = (f: FactView) => (f.unclear ? void load() : setFact(f));
 
   return (
     <Screen style={{ gap: spacing.md }}>
       {fact ? (
         <>
           <Muted>{fr.home.lastFact}</Muted>
-          <FactCard fact={fact} onChange={setFact} />
+          <FactCard fact={fact} onChange={onChange} />
         </>
       ) : (
         <View style={{ flex: 1, justifyContent: "center" }}>

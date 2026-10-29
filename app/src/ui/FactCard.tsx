@@ -1,7 +1,7 @@
 import { useSQLiteContext } from "expo-sqlite";
 import * as WebBrowser from "expo-web-browser";
 import { Alert, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
-import { setFavorite, setKnown, type FactView } from "../db/repo";
+import { setFavorite, setKnown, setUnclear, type FactView } from "../db/repo";
 import { formatDay } from "../domain/dates";
 import { fr } from "../i18n/fr";
 import { categoryLabel } from "../pack/types";
@@ -40,6 +40,25 @@ export function FactCard({
     ]);
   };
 
+  const flagUnclear = () => {
+    Alert.alert(fr.fact.unclearConfirmTitle, fr.fact.unclearConfirmBody, [
+      { text: fr.fact.cancel, style: "cancel" },
+      {
+        text: fr.fact.unclearConfirm,
+        style: "destructive",
+        onPress: async () => {
+          await setUnclear(db, fact.id, true);
+          onChange({ ...fact, unclear: true });
+        },
+      },
+    ]);
+  };
+
+  const unflag = async () => {
+    await setUnclear(db, fact.id, false);
+    onChange({ ...fact, unclear: false });
+  };
+
   const restore = async () => {
     await setKnown(db, fact.id, false);
     onChange({ ...fact, known: false });
@@ -63,14 +82,26 @@ export function FactCard({
       </ScrollView>
       <View style={{ gap: spacing.sm, marginTop: spacing.md }}>
         <Button label={fact.favorite ? `★ ${fr.fact.unfavorite}` : `☆ ${fr.fact.favorite}`} variant="secondary" onPress={toggleFavorite} />
-        {fact.known ? (
+        {fact.unclear ? (
+          <>
+            <Muted>{fr.fact.flagged}</Muted>
+            <Button label={fr.fact.unflag} variant="secondary" onPress={unflag} />
+          </>
+        ) : fact.known ? (
           <>
             <Muted>{fr.fact.known}</Muted>
             <Button label={fr.fact.restore} variant="secondary" onPress={restore} />
           </>
         ) : (
           <>
-            <Button label={fr.fact.knewIt} variant="secondary" onPress={markKnown} accessibilityHint={fr.fact.knewItHint} />
+            <View style={{ flexDirection: "row", gap: spacing.sm }}>
+              <View style={{ flex: 1 }}>
+                <Button label={fr.fact.knewIt} variant="secondary" onPress={markKnown} accessibilityHint={fr.fact.knewItHint} />
+              </View>
+              <View style={{ flex: 1 }}>
+                <Button label={fr.fact.unclear} variant="danger" onPress={flagUnclear} accessibilityHint={fr.fact.unclearHint} />
+              </View>
+            </View>
             <Muted>{fr.fact.knewItHint}</Muted>
           </>
         )}
