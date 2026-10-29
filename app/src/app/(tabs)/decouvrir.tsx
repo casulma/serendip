@@ -100,7 +100,7 @@ export default function Discover() {
           onViewableItemsChanged={onViewable}
           renderItem={({ item }) => (
             <View style={{ height, padding: spacing.md }}>
-              {item.kind === "fact" && <FactCard fact={item.fact} onChange={updateFact} />}
+              {item.kind === "fact" && <FactCard fact={item.fact} onChange={updateFact} hideAnswer />}
               {item.kind === "next" && (
                 <View style={{ flex: 1, alignItems: "center", justifyContent: "center", gap: spacing.md }}>
                   <ActivityIndicator color={t.accent} />

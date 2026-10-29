@@ -59,6 +59,18 @@ export default function SettingsScreen() {
       <Muted>{fr.settings.factsPerDayHint}</Muted>
       <Muted>{fr.settings.notificationsSoon}</Muted>
 
+      <Text style={section}>{fr.settings.sourcesTitle}</Text>
+      <View style={{ flexDirection: "row", justifyContent: "space-between", alignItems: "center", gap: spacing.md }}>
+        <Text style={{ color: t.text, fontSize: fontSize.body, flex: 1 }}>{fr.settings.wikipediaAnecdotes}</Text>
+        <Switch
+          value={s.wikipediaAnecdotes}
+          onValueChange={(on) => update({ ...s, wikipediaAnecdotes: on })}
+          trackColor={{ true: t.accent, false: t.border }}
+          accessibilityLabel={fr.settings.wikipediaAnecdotes}
+        />
+      </View>
+      <Muted>{fr.settings.wikipediaAnecdotesHint}</Muted>
+
       <Text style={section}>{fr.settings.categories}</Text>
       <Muted>{fr.settings.categoriesHint}</Muted>
       {CATEGORIES.map((c) => (

@@ -2,10 +2,10 @@
 
 Appli mobile personnelle de culture générale, 100 % hors ligne : des faits à découvrir chaque jour (en faisant défiler ou par notification), des quiz de révision (système de Leitner) et des quiz aléatoires.
 
-- `content/` : pipeline d'extraction (Wikipédia FR « Le saviez-vous ? », Wikidata) qui produit le pack JSON versionné.
+- `content/` : pipeline d'extraction (OpenQuizzDB, Wikipédia FR « Le saviez-vous ? », Wikidata) qui produit le pack JSON versionné.
 - `app/` : l'appli Expo (React Native), Android d'abord. Spécification fonctionnelle : `docs/fonctionnel.md`.
 
-Le contenu n'est jamais rédigé à la main ni par un LLM : il vient uniquement des sources ci-dessus, par traitement mécanique.
+Le contenu n'est jamais rédigé par un LLM ni par nous : il vient uniquement des sources ci-dessus (questions OpenQuizzDB écrites par leurs rédacteurs, le reste extrait mécaniquement).
 
 ## Pipeline de contenu
 
@@ -41,4 +41,4 @@ Vérifications avant commit : `pnpm lint && pnpm typecheck && pnpm test`.
 
 ## Licences
 
-Textes issus de Wikipédia : CC BY-SA 4.0, chaque fait garde le lien vers son article source. Données Wikidata : CC0.
+Questions OpenQuizzDB : CC BY-SA 4.0, chaque question garde le crédit de son quiz et de son rédacteur. Textes issus de Wikipédia : CC BY-SA 4.0, chaque fait garde le lien vers son article source. Données Wikidata : CC0.

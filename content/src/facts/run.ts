@@ -116,6 +116,7 @@ async function main() {
     facts.push(
       Fact.parse({
         id: c.id,
+        origin: "lsv",
         text: c.text,
         category: cat.category,
         source: articleUrl(page.title),

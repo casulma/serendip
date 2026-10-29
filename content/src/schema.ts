@@ -25,8 +25,23 @@ export const FactTag = z.enum([
   "peut-changer", // contains a time-sensitive claim ("actuellement", superlatives…)
 ]);
 
+// Where a fact comes from. "lsv": Wikipédia « Le saviez-vous ? » anecdote
+// (text is the anecdote). "oqdb": OpenQuizzDB question (questions[0] is the
+// question, text is its anecdote).
+export const Origin = z.enum(["lsv", "oqdb"]);
+
+// CC BY-SA attribution for content written by named people.
+export const Credit = z.object({
+  author: z.string().min(1),
+  work: z.string().min(1),
+  provider: z.string().min(1),
+  url: z.url(),
+});
+
 export const Fact = z.object({
   id: z.string().min(1),
+  origin: Origin,
+  credit: Credit.optional(),
   text: z.string().min(1),
   category: Category,
   source: z.url(),
@@ -51,5 +66,6 @@ export const Pack = z.object({
 export type Choice = z.infer<typeof Choice>;
 export type Question = z.infer<typeof Question>;
 export type Fact = z.infer<typeof Fact>;
+export type Credit = z.infer<typeof Credit>;
 export type Trivia = z.infer<typeof Trivia>;
 export type Pack = z.infer<typeof Pack>;

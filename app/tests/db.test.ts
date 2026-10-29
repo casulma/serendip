@@ -2,19 +2,39 @@ import { beforeEach, describe, expect, it } from "vitest";
 import type { SQLiteDatabase } from "expo-sqlite";
 import { fakeDb } from "./fakeSqlite";
 
-import type { Pack } from "../src/pack/types";
+import type { Fact, Pack } from "../src/pack/types";
 
-// A tiny pack instead of the real 6 MB one.
+// A tiny pack instead of the real 6 MB one: 15 OpenQuizzDB questions, 3 Wikipédia anecdotes.
+const QUIZ: Fact[] = Array.from({ length: 15 }, (_, i) => ({
+  id: `f${i}`,
+  origin: "oqdb",
+  credit: { author: "Philippe Bresoux", work: "Quiz « Test »", provider: "OpenQuizzDB", url: "https://www.openquizzdb.org" },
+  text: `Fait numéro ${i}`,
+  category: i < 12 ? "histoire" : "sport",
+  source: `https://fr.wikipedia.org/wiki/F${i}`,
+  tags: i === 0 ? ["peut-changer"] : [],
+  questions: [
+    {
+      id: `f${i}-q`,
+      prompt: `Question ${i} ?`,
+      answer: { kind: "text", text: "Oui" },
+      distractors: ["Non", "Peut-être", "Jamais"].map((text) => ({ kind: "text", text })),
+      difficulty: 2,
+    },
+  ],
+}));
+const ANECDOTES: Fact[] = Array.from({ length: 3 }, (_, i) => ({
+  id: `lsv-${i}`,
+  origin: "lsv",
+  text: `Anecdote ${i}.`,
+  category: "histoire",
+  source: "https://fr.wikipedia.org/wiki/X",
+  tags: [],
+  questions: [],
+}));
 const PACK: Pack = {
   version: "9.9.9",
-  facts: Array.from({ length: 15 }, (_, i) => ({
-    id: `f${i}`,
-    text: `Fait numéro ${i}`,
-    category: i < 12 ? "histoire" : "sport",
-    source: `https://fr.wikipedia.org/wiki/F${i}`,
-    tags: i === 0 ? ["peut-changer"] : [],
-    questions: [],
-  })),
+  facts: [...QUIZ, ...ANECDOTES],
   trivia: [
     { id: "t1", category: "geographie", family: "capitale", wikidata: "https://www.wikidata.org/wiki/Q142", prompt: "?", answer: { kind: "text", text: "Paris" }, distractors: [], difficulty: 1 },
   ],
@@ -37,7 +57,7 @@ const at = (h: number, day = 27) => new Date(2026, 9, day, h);
 describe("migrations and pack import", () => {
   it("imports the pack once and records its version", async () => {
     expect(await installedPackVersion(db)).toBe("9.9.9");
-    expect((await db.getFirstAsync<{ n: number }>("SELECT COUNT(*) AS n FROM facts"))!.n).toBe(15);
+    expect((await db.getFirstAsync<{ n: number }>("SELECT COUNT(*) AS n FROM facts"))!.n).toBe(18);
     let loads = 0;
     await importPackIfNeeded(db, { version: PACK.version, load: () => (loads++, PACK) });
     expect(loads).toBe(0);
@@ -54,7 +74,7 @@ describe("migrations and pack import", () => {
 
   it("is idempotent across app launches", async () => {
     await migrate(db);
-    expect((await db.getFirstAsync<{ user_version: number }>("PRAGMA user_version"))!.user_version).toBe(2);
+    expect((await db.getFirstAsync<{ user_version: number }>("PRAGMA user_version"))!.user_version).toBe(3);
   });
 });
 
@@ -92,6 +112,30 @@ describe("daily feed", () => {
     const r = await repo.revealNextFact(db, at(9));
     if (!("fact" in r)) throw new Error("no fact");
     expect(r.fact).toMatchObject({ box: 1, receivedDay: "2026-10-27", dueDay: "2026-10-28", via: "feed", favorite: false, known: false });
+  });
+});
+
+describe("sources", () => {
+  it("draws OpenQuizzDB only by default, Wikipédia anecdotes once enabled", async () => {
+    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, factsPerDay: 30 });
+    const origins = new Set<string>();
+    for (let i = 0; i < 15; i++) {
+      const r = await repo.revealNextFact(db, at(9));
+      if ("fact" in r) origins.add(r.fact.origin);
+    }
+    expect([...origins]).toEqual(["oqdb"]);
+    expect(await repo.revealNextFact(db, at(9))).toEqual({ reason: "exhausted" });
+
+    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, factsPerDay: 30, wikipediaAnecdotes: true });
+    const r = await repo.revealNextFact(db, at(9));
+    expect("fact" in r && r.fact.origin).toBe("lsv");
+  });
+
+  it("exposes the question and credit of OpenQuizzDB facts", async () => {
+    const r = await repo.revealNextFact(db, at(9));
+    if (!("fact" in r)) throw new Error("no fact");
+    expect(r.fact.question?.prompt).toMatch(/^Question \d+ \?$/);
+    expect(r.fact.credit?.provider).toBe("OpenQuizzDB");
   });
 });
 

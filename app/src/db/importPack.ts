@@ -28,12 +28,23 @@ export async function importPackIfNeeded(
   await db.withExclusiveTransactionAsync(async (txn) => {
     await txn.execAsync("DELETE FROM facts; DELETE FROM trivia;");
     const insertFact = await txn.prepareAsync(
-      "INSERT INTO facts (id, text, category, source, published_on, tags, question) VALUES (?, ?, ?, ?, ?, ?, ?)",
+      "INSERT INTO facts (id, origin, credit, text, category, source, published_on, tags, question) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
     );
     try {
       for (const f of pack.facts) {
         const q = f.questions[0];
-        await insertFact.executeAsync(f.id, f.text, f.category, f.source, f.publishedOn ?? null, JSON.stringify(f.tags), q ? JSON.stringify(q) : null);
+        await insertFact.executeAsync(
+          f.id,
+          // Packs before 0.3.0 only held Wikipédia anecdotes and had no origin field.
+          f.origin ?? "lsv",
+          f.credit ? JSON.stringify(f.credit) : null,
+          f.text,
+          f.category,
+          f.source,
+          f.publishedOn ?? null,
+          JSON.stringify(f.tags),
+          q ? JSON.stringify(q) : null,
+        );
       }
     } finally {
       await insertFact.finalizeAsync();

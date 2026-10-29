@@ -18,6 +18,9 @@ const MIN_INTERVAL_MS: Record<string, number> = {
   "commons.wikimedia.org": 1000,
   "thumb.wikimedia.org": 500,
   "upload.wikimedia.org": 500,
+  // OpenQuizzDB is a small volunteer project: stay gentle.
+  "www.openquizzdb.org": 2000,
+  "download.openquizzdb.org": 1000,
 };
 const DEFAULT_INTERVAL_MS = 1000;
 // Shared egress IPs get throttled for minutes at a time: be patient on 429.

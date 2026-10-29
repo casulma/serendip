@@ -52,6 +52,14 @@ const MIGRATIONS: string[] = [
   `
   ALTER TABLE user_facts ADD COLUMN unclear_at TEXT;
   `,
+  // OpenQuizzDB questions alongside Wikipédia anecdotes. Content columns:
+  // refilled by the next pack import.
+  `
+  ALTER TABLE facts ADD COLUMN origin TEXT NOT NULL DEFAULT 'lsv';
+  ALTER TABLE facts ADD COLUMN credit TEXT;
+  CREATE INDEX facts_origin ON facts(origin);
+  DELETE FROM meta WHERE key = 'pack_version';
+  `,
 ];
 
 export async function migrate(db: SQLiteDatabase): Promise<void> {

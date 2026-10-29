@@ -38,8 +38,14 @@ export type Question = {
   difficulty: 1 | 2 | 3;
 };
 
+export type Origin = "lsv" | "oqdb";
+
+export type Credit = { author: string; work: string; provider: string; url: string };
+
 export type Fact = {
   id: string;
+  origin: Origin;
+  credit?: Credit;
   text: string;
   category: CategoryId;
   source: string;

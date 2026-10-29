@@ -2,22 +2,31 @@ import type { SQLiteDatabase } from "expo-sqlite";
 import { dayKey, type DayKey } from "../domain/dates";
 import { initialState } from "../domain/leitner";
 import { DEFAULT_FACTS_PER_DAY, feedRemaining } from "../domain/quota";
-import { CATEGORIES, type CategoryId } from "../pack/types";
+import { CATEGORIES, type CategoryId, type Credit, type Origin, type Question } from "../pack/types";
 
 export type Settings = {
   factsPerDay: number;
   notificationsPerDay: number;
   categories: CategoryId[];
+  /** Wikipédia « Le saviez-vous ? » anecdotes, more cryptic: opt-in. */
+  wikipediaAnecdotes: boolean;
 };
 
 export const DEFAULT_SETTINGS: Settings = {
   factsPerDay: DEFAULT_FACTS_PER_DAY,
   notificationsPerDay: 0,
   categories: CATEGORIES.map((c) => c.id),
+  wikipediaAnecdotes: false,
 };
+
+export const enabledOrigins = (s: Settings): Origin[] => (s.wikipediaAnecdotes ? ["oqdb", "lsv"] : ["oqdb"]);
 
 export type FactView = {
   id: string;
+  origin: Origin;
+  credit?: Credit;
+  /** For OpenQuizzDB facts, the question the fact answers (shown first, answer hidden). */
+  question?: Question;
   text: string;
   category: CategoryId;
   source: string;
@@ -33,6 +42,9 @@ export type FactView = {
 
 type FactRow = {
   id: string;
+  origin: Origin;
+  credit: string | null;
+  question: string | null;
   text: string;
   category: CategoryId;
   source: string;
@@ -47,11 +59,15 @@ type FactRow = {
 };
 
 const SELECT_RECEIVED = `
-  SELECT f.id, f.text, f.category, f.source, f.tags, u.received_day, u.via, u.favorite, u.known, u.unclear_at, u.box, u.due_day
+  SELECT f.id, f.origin, f.credit, f.question, f.text, f.category, f.source, f.tags, u.received_day, u.via, u.favorite, u.known, u.unclear_at, u.box, u.due_day
   FROM user_facts u JOIN facts f ON f.id = u.fact_id`;
 
 const toView = (r: FactRow): FactView => ({
   id: r.id,
+  origin: r.origin,
+  credit: r.credit ? (JSON.parse(r.credit) as Credit) : undefined,
+  // Wikipédia facts carry a generated cloze question for reviews, not for display.
+  question: r.origin === "oqdb" && r.question ? (JSON.parse(r.question) as Question) : undefined,
   text: r.text,
   category: r.category,
   source: r.source,
@@ -114,12 +130,15 @@ export async function revealNextFact(db: SQLiteDatabase, now = new Date()): Prom
   await db.withExclusiveTransactionAsync(async (txn) => {
     const s = await getSettings(txn);
     if (feedRemaining(s.factsPerDay, s.notificationsPerDay, await feedCountOn(txn, today)) <= 0) return;
-    const placeholders = s.categories.map(() => "?").join(", ");
+    const origins = enabledOrigins(s);
     const pick = await txn.getFirstAsync<{ id: string }>(
       `SELECT id FROM facts
-       WHERE category IN (${placeholders}) AND id NOT IN (SELECT fact_id FROM user_facts)
+       WHERE category IN (${s.categories.map(() => "?").join(", ")})
+         AND origin IN (${origins.map(() => "?").join(", ")})
+         AND id NOT IN (SELECT fact_id FROM user_facts)
        ORDER BY random() LIMIT 1`,
       ...s.categories,
+      ...origins,
     );
     if (!pick) {
       result = { reason: "exhausted" };

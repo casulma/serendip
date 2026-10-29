@@ -35,6 +35,8 @@ export const fr = {
     box: (box: number, due: string) => `Boîte ${box} sur 5 · prochaine révision le ${due}`,
     received: (day: string) => `Reçu le ${day}`,
     mayChange: "Ce fait contient une affirmation qui a pu changer depuis sa publication.",
+    reveal: "Voir la réponse",
+    credit: (c: { author: string; work: string; provider: string }) => `${c.work} · ${c.author} · ${c.provider} (CC BY-SA 4.0)`,
     unclear: "Pas clair",
     unclearHint: "Retire ce fait et vous en propose un autre, sans le compter dans les faits du jour.",
     unclearConfirmTitle: "Signaler ce fait comme pas clair ?",
@@ -63,7 +65,12 @@ export const fr = {
     unclearCount: (n: number) => (n === 0 ? "Aucun fait signalé." : `${n} fait${n > 1 ? "s" : ""} signalé${n > 1 ? "s" : ""}.`),
     unclearExport: "Exporter les signalements",
     unclearExportHint: "Partagez la liste (mail, notes…) pour qu'elle serve à filtrer le contenu des prochaines versions.",
-    credits: "Contenu : Wikipédia (CC BY-SA 4.0) et Wikidata (CC0).",
+    sourcesTitle: "Sources des faits",
+    wikipediaAnecdotes: "Anecdotes Wikipédia « Le saviez-vous ? »",
+    wikipediaAnecdotesHint:
+      "En plus des questions OpenQuizzDB. Ces anecdotes sont souvent plus énigmatiques : le lien vers l'article donne le fin mot.",
+    credits:
+      "Contenu : questions OpenQuizzDB (CC BY-SA 4.0, openquizzdb.org, rédacteurs bénévoles), Wikipédia (CC BY-SA 4.0) et Wikidata (CC0).",
     packVersion: (v: string) => `Pack de contenu ${v}`,
   },
 } as const;

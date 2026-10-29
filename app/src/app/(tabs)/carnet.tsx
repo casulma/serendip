@@ -10,6 +10,13 @@ import { categoryLabel } from "../../pack/types";
 import { Chip, Muted, Screen } from "../../ui/components";
 import { fontSize, spacing, useTheme } from "../../ui/theme";
 
+const answerOf = (f: FactView) => (f.question?.answer.kind === "text" ? f.question.answer.text : "");
+
+/** One line per fact: "question → answer" for quiz facts, the anecdote otherwise. */
+const headline = (f: FactView) => (f.question ? `${f.question.prompt} → ${answerOf(f)}` : f.text);
+
+const searchText = (f: FactView) => [f.question?.prompt, answerOf(f), f.text].filter(Boolean).join(" ");
+
 export default function Notebook() {
   const db = useSQLiteContext();
   const t = useTheme();
@@ -25,7 +32,7 @@ export default function Notebook() {
 
   // The notebook only holds received facts (≤ a few per day): filtering in memory is enough.
   const shown = useMemo(
-    () => facts.filter((f) => (!favoritesOnly || f.favorite) && matches(f.text, query)),
+    () => facts.filter((f) => (!favoritesOnly || f.favorite) && matches(searchText(f), query)),
     [facts, favoritesOnly, query],
   );
 
@@ -52,7 +59,7 @@ export default function Notebook() {
             <Pressable style={{ paddingVertical: spacing.md, gap: spacing.xs }}>
               <Text numberOfLines={3} style={{ color: t.text, fontSize: fontSize.body, lineHeight: 24 }}>
                 {item.favorite ? "★ " : ""}
-                {item.text}
+                {headline(item)}
               </Text>
               <Muted>
                 {categoryLabel(item.category)} · {formatDay(item.receivedDay)}

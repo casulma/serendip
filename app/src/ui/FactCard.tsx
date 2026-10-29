@@ -1,5 +1,6 @@
 import { useSQLiteContext } from "expo-sqlite";
 import * as WebBrowser from "expo-web-browser";
+import { useState } from "react";
 import { Alert, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { setFavorite, setKnown, setUnclear, type FactView } from "../db/repo";
 import { formatDay } from "../domain/dates";
@@ -8,18 +9,27 @@ import { categoryLabel } from "../pack/types";
 import { Button, Chip, Muted } from "./components";
 import { fontSize, spacing, useTheme } from "./theme";
 
-/** A received fact with its actions (favorite, "je le savais déjà", source). */
+/**
+ * A received fact with its actions (favorite, "je le savais déjà", "pas clair", source).
+ * OpenQuizzDB facts show their question first; with `hideAnswer` the answer
+ * and its anecdote stay hidden until asked for.
+ */
 export function FactCard({
   fact,
   onChange,
   showReview = false,
+  hideAnswer = false,
 }: {
   fact: FactView;
   onChange: (fact: FactView) => void;
   showReview?: boolean;
+  hideAnswer?: boolean;
 }) {
   const db = useSQLiteContext();
   const t = useTheme();
+  const [revealed, setRevealed] = useState(!hideAnswer);
+  const q = fact.question;
+  const showDetails = !q || revealed;
 
   const toggleFavorite = async () => {
     await setFavorite(db, fact.id, !fact.favorite);
@@ -68,11 +78,28 @@ export function FactCard({
     <View style={[styles.card, { backgroundColor: t.card, borderColor: t.border }]}>
       <ScrollView contentContainerStyle={{ gap: spacing.md }}>
         <Chip label={categoryLabel(fact.category)} />
-        <Text style={{ color: t.text, fontSize: fontSize.fact, lineHeight: 30 }}>{fact.text}</Text>
-        {fact.tags.includes("peut-changer") && <Muted>{fr.fact.mayChange}</Muted>}
-        <Pressable accessibilityRole="link" onPress={() => WebBrowser.openBrowserAsync(fact.source)}>
-          <Text style={{ color: t.accent, fontSize: fontSize.body, textDecorationLine: "underline" }}>{fr.fact.source}</Text>
-        </Pressable>
+        {q ? (
+          <>
+            <Text style={{ color: t.text, fontSize: fontSize.fact, lineHeight: 30, fontWeight: "600" }}>{q.prompt}</Text>
+            {revealed ? (
+              <Text style={{ color: t.accent, fontSize: fontSize.fact, lineHeight: 30, fontWeight: "700" }}>
+                {q.answer.kind === "text" ? q.answer.text : q.answer.alt}
+              </Text>
+            ) : (
+              <Button label={fr.fact.reveal} onPress={() => setRevealed(true)} />
+            )}
+            {revealed && <Text style={{ color: t.text, fontSize: fontSize.body, lineHeight: 26 }}>{fact.text}</Text>}
+          </>
+        ) : (
+          <Text style={{ color: t.text, fontSize: fontSize.fact, lineHeight: 30 }}>{fact.text}</Text>
+        )}
+        {showDetails && fact.tags.includes("peut-changer") && <Muted>{fr.fact.mayChange}</Muted>}
+        {showDetails && (
+          <Pressable accessibilityRole="link" onPress={() => WebBrowser.openBrowserAsync(fact.source)}>
+            <Text style={{ color: t.accent, fontSize: fontSize.body, textDecorationLine: "underline" }}>{fr.fact.source}</Text>
+          </Pressable>
+        )}
+        {showDetails && fact.credit && <Muted>{fr.fact.credit(fact.credit)}</Muted>}
         {showReview && (
           <Muted>
             {fr.fact.received(formatDay(fact.receivedDay))}
