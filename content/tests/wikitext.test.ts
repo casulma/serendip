@@ -76,3 +76,18 @@ describe("apostrophe template and trailing dots", () => {
     expect(toPlainText("Et ainsi de suite...")).toBe("Et ainsi de suite...");
   });
 });
+
+describe("elision before markup and bare image pointers", () => {
+  it("keeps the apostrophe of qu'''…'' and d'''…'''", () => {
+    expect(toPlainText("soixante ans qu'''[[Enola Gay]]'' larguait")).toBe("soixante ans qu’Enola Gay larguait");
+    expect(toPlainText("la principauté d'''[[Andorre]]''' est")).toBe("la principauté d’Andorre est");
+  });
+
+  it("drops (photo …) pointers, with or without italics", () => {
+    expect(toPlainText("L'usine d'[[enrichissement de l'uranium]] '(photo)'' '''[[Eurodif SA|Eurodif]]''' consomme")).toBe(
+      "L'usine d'enrichissement de l'uranium Eurodif consomme",
+    );
+    expect(toPlainText("L’'''[[indice Big Mac]]''' ''(photo d'un Big Mac)'' est une mesure")).toBe("L’indice Big Mac est une mesure");
+    expect(toPlainText("Une image déformée (anamorphose) existe.")).toBe("Une image déformée (anamorphose) existe.");
+  });
+});

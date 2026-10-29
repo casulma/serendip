@@ -94,3 +94,16 @@ export function mayChange(text: string): string | undefined {
   }
   return undefined;
 }
+
+// Relative dates were true on the day of publication only ("il y a 121 ans").
+const RELATIVE_TIME = word(
+  "il y a \\d+ ans|cette année|l[’']an dernier|l[’']année dernière|récemment|cette semaine|prochainement|dernièrement|ce mois-ci",
+);
+
+/** Why a cleaned anecdote cannot be used as a standalone fact, if it cannot. */
+export function textProblem(text: string): string | undefined {
+  // Early "Savez-vous… ? Réponse" teasers lose their answer, which was a link.
+  if (!/[.!?»…)]$/.test(text)) return "phrase incomplète";
+  if (RELATIVE_TIME.test(text)) return "date relative (fausse aujourd'hui)";
+  return undefined;
+}

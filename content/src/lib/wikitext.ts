@@ -287,8 +287,16 @@ export function toPlainText(wikitext: string): string {
   s = s.replace(/<small>\s*\(voir[\s\S]*?\)\s*<\/small>/gi, "");
   s = stripFiles(s);
   s = expandTemplates(s);
+  // An elision apostrophe glued to bold/italic markup (d'''[[Andorre]]''', qu'''…''):
+  // keep it as a typographic apostrophe before the markup is stripped.
+  s = s.replace(/(?<![\p{L}\]])((?:jusqu|lorsqu|puisqu|quoiqu|qu|[cdjlmnst]))'(?='{2,})/giu, "$1’");
   // Image captions pointers: ''(photo)'', (''drapeau ci-contre''), ''(portrait ci-dessus)''…
   s = s.replace(/\s*\(\s*''[^'()]{1,40}''\s*\)/g, "").replace(/\s*''\s*\([^'()]{1,40}\)\s*''/g, "");
+  // …and the same pointers without italics: (photo), (photo d'un Big Mac), (carte ci-contre).
+  s = s.replace(
+    /\s*'*\(\s*(?:photos?|images?|portraits?|illustrations?|dessins?|gravures?|tableaux?|cartes?|logos?|drapeaux?|affiches?|statues?|sculptures?|schémas?|vidéos?|ci-contre|ci-dessus|ci-dessous)\b[^()]{0,40}\)'*/giu,
+    "",
+  );
   s = s.replace(/\[\[:?([^\]|]*)\|([^\]]*)\]\](\p{Ll}*)/gu, "$2$3");
   s = s.replace(/\[\[:?([^\]|]*)\]\](\p{Ll}*)/gu, (_, t: string, trail: string) => t.replace(/#.*$/, "") + trail);
   s = s.replace(/\[(?:https?:)?\/\/\S+\s+([^\]]+)\]/g, "$1").replace(/\[(?:https?:)?\/\/\S+\]/g, "");

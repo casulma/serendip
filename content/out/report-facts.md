@@ -1,60 +1,62 @@
 # Rapport — faits « Le saviez-vous ? »
 
 - Pages d'archives lues : 23
-- Faits retenus : **11783**
-- Anecdotes rejetées : **366**
-- Tag `peut-changer` : 1498
+- Faits retenus : **11750**
+- Anecdotes rejetées : **399**
+- Tag `peut-changer` : 1494
 
 ## Faits par catégorie
 
 | Catégorie | Faits |
 |---|---:|
-| Histoire | 2200 |
-| Géographie | 1047 |
-| Sciences | 1731 |
+| Histoire | 2196 |
+| Géographie | 1044 |
+| Sciences | 1724 |
 | Nature & animaux | 1074 |
-| Arts & littérature | 1183 |
-| Musique & cinéma | 1106 |
-| Sport | 532 |
-| Société & politique | 1759 |
-| Langue | 223 |
-| Divers | 928 |
+| Arts & littérature | 1179 |
+| Musique & cinéma | 1100 |
+| Sport | 530 |
+| Société & politique | 1755 |
+| Langue | 222 |
+| Divers | 926 |
 
 ## Faits par année d'archive
 
 | Année | Faits |
 |---|---:|
 | ? | 2 |
-| 2004 | 71 |
-| 2005 | 65 |
-| 2006 | 135 |
-| 2007 | 194 |
-| 2008 | 177 |
-| 2009 | 172 |
+| 2004 | 68 |
+| 2005 | 64 |
+| 2006 | 131 |
+| 2007 | 189 |
+| 2008 | 175 |
+| 2009 | 171 |
 | 2010 | 146 |
 | 2011 | 126 |
 | 2012 | 200 |
-| 2013 | 370 |
-| 2014 | 652 |
+| 2013 | 369 |
+| 2014 | 649 |
 | 2015 | 738 |
-| 2016 | 826 |
-| 2017 | 828 |
-| 2018 | 1221 |
+| 2016 | 823 |
+| 2017 | 826 |
+| 2018 | 1219 |
 | 2019 | 781 |
-| 2020 | 1185 |
+| 2020 | 1184 |
 | 2021 | 872 |
-| 2022 | 707 |
+| 2022 | 706 |
 | 2023 | 671 |
-| 2024 | 505 |
-| 2025 | 606 |
-| 2026 | 533 |
+| 2024 | 504 |
+| 2025 | 604 |
+| 2026 | 532 |
 
 ## Rejets par raison
 
 | Raison | Nombre | Exemples |
 |---|---:|---|
-| aucun portail reconnu | 196 | `lsv-2004-f2f6dd65d837` Ganymède (lune) [jupiter]<br>`lsv-2004-beacb2492b41` Décharge (déchet) [assainissement] |
+| aucun portail reconnu | 195 | `lsv-2004-f2f6dd65d837` Ganymède (lune) [jupiter]<br>`lsv-2004-beacb2492b41` Décharge (déchet) [assainissement] |
 | pas d'article principal | 52 | `lsv-2015-00b3d9f35367` Les cendres de '''{{Napoléon II}}''' ont été transférées aux [[Hôtel des Invalides\|Invali<br>`lsv-2016-7e7d0561d8a5` [[Fichier:USS Indianapolis CA-35.jpg\|40px\|right\|L'USS Indianapolis en 1937.]]   Le croi |
+| date relative (fausse aujourd'hui) | 19 | `lsv-2004-17ce9605e7b6` Il y a 121 ans, le Krakatoa explosait en libérant assez d'énergie pour qu'une vague fasse <br>`lsv-2004-976c806e4b80` Yang Huanyi, dernière Chinoise utilisant le nushu, code scriptural chinois exclusivement r |
+| phrase incomplète | 15 | `lsv-2004-3d9c28058f66` Savez-vous comment s'appelle un ensemble musical breton composé de bombardes, de cornemuse<br>`lsv-2005-4c70965db97a` On peut jouer du tambourin mais aussi jouer au tambourin |
 | aucun portail | 14 | `lsv-2007-2909784dc3bc` Varna []<br>`lsv-2008-4c1925821df4` Won [] |
 | doublon | 14 |  |
 | balisage résiduel | 10 | `lsv-2008-8ca98819f16a` Le {{lang\|en\|'''''[[Fish and chips\|fish ’n chips]]'''''}}, [[Restauration rapide\|plat <br>`lsv-2012-db6ea9fd702f` <math>\sin(666^\circ) = \cos(6\cdot6\cdot6^\circ) = - \frac{\phi}{2}</math>, où <math>\phi |
@@ -165,7 +167,6 @@
 | nouveau-mexique | 2 |
 | hainaut | 2 |
 | vanuatu | 1 |
-| zimbabwe | 1 |
 | seattle | 1 |
 | lozère | 1 |
 | région occitanie | 1 |
@@ -173,20 +174,21 @@
 | mexico | 1 |
 | boissons | 1 |
 | géorgie (pays) | 1 |
+| logiciels libres | 1 |
 
 ## Expressions ayant déclenché `peut-changer`
 
 | Expression | Faits |
 |---|---:|
-| le plus | 362 |
+| le plus | 361 |
 | seul | 237 |
-| la plus | 214 |
+| la plus | 213 |
 | seule | 128 |
 | toujours | 83 |
 | les plus | 73 |
 | unique | 70 |
-| seuls | 52 |
-| dernière | 49 |
+| seuls | 51 |
+| dernière | 48 |
 | record | 46 |
 | aujourd’hui | 44 |
 | à ce jour | 37 |
@@ -204,16 +206,16 @@
 
 ## Questions à trous
 
-- Faits avec une question : **3771** sur 11783
+- Faits avec une question : **3750** sur 11750
 
 | Raison de l'absence de question | Faits |
 |---|---:|
-| texte affiché ≠ libellé Wikidata | 3848 |
-| moins de 3 distracteurs de même type | 2098 |
-| lien principal non simple (préfixe, pluriel, modèle) | 1255 |
-| réponse devinable dans le texte | 518 |
-| pas d'élément Wikidata | 132 |
-| entité répétée dans le texte | 93 |
+| texte affiché ≠ libellé Wikidata | 3837 |
+| moins de 3 distracteurs de même type | 2102 |
+| lien principal non simple (préfixe, pluriel, modèle) | 1252 |
+| réponse devinable dans le texte | 517 |
+| pas d'élément Wikidata | 133 |
+| entité répétée dans le texte | 91 |
 | l'article est une liste | 63 |
 | entité introuvable dans le texte | 5 |
 
@@ -222,26 +224,26 @@
 ## Échantillon (1 fait sur 500)
 
 - **Histoire** — Sparte était une puissance terrestre tandis qu'Athènes était une puissance navale. ([source](https://fr.wikipedia.org/wiki/Guerre_du_P%C3%A9loponn%C3%A8se))
-- **Sciences** — Le site industriel de Malvesi (Aude) stocke les résidus de 50 années de raffinage de l’uranium, soit plus de 380 000 tonnes de dépôts nitratés contenant 330 tonnes d’uranium. ([source](https://fr.wikipedia.org/wiki/Usine_Orano_Malv%C3%A9si))
-- **Géographie** — Les premiers vols spatiaux, notamment ceux du programme Apollo, qui ont amené les premiers hommes sur la Lune, ont utilisé des sortes de sextants pour se repérer dans l’espace à l’aide de la position des étoiles. ([source](https://fr.wikipedia.org/wiki/Sextant))
-- **Sport** — Le succès du film américain L'Homme qui murmurait à l'oreille des chevaux a entraîné une mode pour l’équitation éthologique dans les pays occidentaux. ([source](https://fr.wikipedia.org/wiki/%C3%89quitation_%C3%A9thologique))
-- **Histoire** — Le contenu de la bouteille de vin de Spire, restée bouchée depuis le IVe siècle, « n’est probablement pas gâté, mais n’apporterait pas de plaisir en bouche ». ([source](https://fr.wikipedia.org/wiki/Bouteille_de_vin_de_Spire))
-- **Géographie** — Le drapeau de New York reprend les couleurs de celui des Pays-Bas au XVIIe, en mémoire de l'origine néerlandaise de la ville. ([source](https://fr.wikipedia.org/wiki/Drapeau_de_New_York))
-- **Arts & littérature** — C’est le château donné par son royal amant qui fit d’Agnès Sorel la dame de Beauté. ([source](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Beaut%C3%A9))
-- **Nature & animaux** — La blatte de Madagascar doit une partie de sa notoriété aux sifflements de ses stigmates. ([source](https://fr.wikipedia.org/wiki/Blatte_de_Madagascar))
-- **Divers** — Le Ruby Roman, cultivé au Japon, est réputé être le raisin le plus cher du monde. ([source](https://fr.wikipedia.org/wiki/Ruby_Roman))
-- **Divers** — Descendons gaiement la courtille, chœur composé pour un vaudeville-ballet-pantomime de 1841 qui évoque l’un des cortèges du carnaval de Paris, est une œuvre de Richard Wagner. ([source](https://fr.wikipedia.org/wiki/Descente_de_la_Courtille))
-- **Arts & littérature** — La première publication de Cœur d’Aryenne, en 1953, est considérée comme l’acte de naissance de la littérature congolaise. ([source](https://fr.wikipedia.org/wiki/C%C5%93ur_d'Aryenne))
-- **Arts & littérature** — Le 3 août 1546, peu avant d’être exécuté pour hérésie sur la place Maubert, Étienne Dolet aurait composé le pentamètre suivant en forme de jeu de mots : « Non dolet ipse Dolet, sed pia turba dolet » (« Ce n’est pas lui-même, Dolet, qui souffre ; c’est la foule pieuse »). ([source](https://fr.wikipedia.org/wiki/%C3%89tienne_Dolet))
-- **Histoire** — Il est prévu que le dernier compagnon de la Libération repose dans la crypte du mémorial de la France combattante au mont Valérien. ([source](https://fr.wikipedia.org/wiki/Compagnon_de_la_Lib%C3%A9ration))
-- **Divers** — Le chemin de fer trans-australien franchit la plaine de Nullarbor par une ligne droite de 478 km. ([source](https://fr.wikipedia.org/wiki/Trans-Australian_Railway))
-- **Arts & littérature** — Les anciennes plaques de rue, créées par la faïencerie Fouque et Arnoux pour la ville rose, sont soit jaunes soit blanches selon que les artères sont parallèles ou perpendiculaires au fleuve. ([source](https://fr.wikipedia.org/wiki/Porcelaine_de_Valentine))
-- **Nature & animaux** — Introduite au XVIe par les Espagnols, la pomme d’or est considérée comme une plante ornementale en Europe du Nord et en France et n’y est consommée qu’à partir du milieu du XVIIIe. ([source](https://fr.wikipedia.org/wiki/Tomate))
-- **Sciences** — La première des communautés incel — pour involuntary celibacy en anglais, « célibat involontaire » —, aujourd’hui connues pour leur misogynie et les tueries de masse commises par certains de leurs membres, était un réseau d’entraide pour célibataires des deux sexes fondé par une femme. ([source](https://fr.wikipedia.org/wiki/Incel))
-- **Sciences** — Lorsqu’il a été anobli, Isaac Newton a fait le choix d’un blason ressemblant à un drapeau pirate. ([source](https://fr.wikipedia.org/wiki/Isaac_Newton))
-- **Histoire** — Bien que Philippe de Gaulle ait rejoint son père dès le lendemain de son célèbre appel, il ne sera jamais nommé membre de l’ordre de la Libération et c’est Hubert Germain, décédé en octobre 2021 et à qui il a survécu, qui est considéré par l’Histoire comme le dernier représentant des compagnons de la Libération. ([source](https://fr.wikipedia.org/wiki/Philippe_de_Gaulle))
-- **Arts & littérature** — Les Bourgeois de Calais d’Auguste Rodin peuvent être admirés simultanément dans douze lieux différents. ([source](https://fr.wikipedia.org/wiki/Les_Bourgeois_de_Calais))
-- **Sport** — Boycottée lors des deux premières éditions, l’Afrique du Sud a pourtant gagné autant de Coupes du monde de rugby à XV que la Nouvelle-Zélande. ([source](https://fr.wikipedia.org/wiki/%C3%89quipe_d'Afrique_du_Sud_de_rugby_%C3%A0_XV))
-- **Divers** — Le supplice de Jeanne d’Arc était visible depuis les fenêtres de La Couronne, aujourd’hui la plus vieille auberge de France. ([source](https://fr.wikipedia.org/wiki/La_Couronne_(restaurant)))
-- **Arts & littérature** — À Strasbourg, le Büchmesser aurait permis aux membres du conseil municipal de vérifier leur embonpoint après avoir fait le tour des corporations. ([source](https://fr.wikipedia.org/wiki/B%C3%BCchmesser))
-- **Géographie** — Dans le découpage indonésien de la Nouvelle-Guinée occidentale, la Papouasie du Sud-Ouest est au nord-ouest de la Papouasie occidentale. ([source](https://fr.wikipedia.org/wiki/Papouasie_du_Sud-Ouest))
+- **Géographie** — Abidjan, capitale économique de la Côte d’Ivoire, est la deuxième ville francophone la plus peuplée du monde, avec 3 796 677 habitants, derrière Kinshasa et devant Paris. ([source](https://fr.wikipedia.org/wiki/Abidjan))
+- **Nature & animaux** — Les récifs coralliens d’eau froide vivent de 39 m à plus de 1000 m de profondeur dans des eaux de 4 °C et croissent cent fois moins vite que les récifs coralliens d’eau chaude. ([source](https://fr.wikipedia.org/wiki/R%C3%A9cif_corallien_d'eau_froide))
+- **Sciences** — La mise au point de disjoncteurs à courant continu haute tension permettrait le déploiement d'un réseau électrique maillé en tension continue. ([source](https://fr.wikipedia.org/wiki/Disjoncteur_%C3%A0_courant_continu))
+- **Musique & cinéma** — Auguste Bartholdi s’est inspiré de Brutus, le lion du dompteur Baptiste Pezon, pour le Lion de Belfort érigé en 1880. ([source](https://fr.wikipedia.org/wiki/Jean-Baptiste_Pezon))
+- **Langue** — Il existe une virgule d'exclamation. ([source](https://fr.wikipedia.org/wiki/Virgule_d'exclamation))
+- **Histoire** — Le pape Pie XII pratiqua plusieurs exorcismes à distance sur Adolf Hitler. ([source](https://fr.wikipedia.org/wiki/Pie_XII))
+- **Arts & littérature** — Le Cri d’Edvard Munch pourrait être inspiré d’une momie péruvienne. ([source](https://fr.wikipedia.org/wiki/Le_Cri))
+- **Géographie** — Clipperton, atoll français inhabité du Pacifique Nord, a le seul lagon d’eau douce de la planète. ([source](https://fr.wikipedia.org/wiki/%C3%8Ele_Clipperton))
+- **Société & politique** — La Bastille a été prise en 1413, en 1418, en 1436, en 1565, en 1588, en 1591, en 1594, en 1649, en 1652 et enfin en 1789. ([source](https://fr.wikipedia.org/wiki/Bastille))
+- **Musique & cinéma** — Le documentaire iranien Ceci n’est pas un film a passé la frontière caché dans un gâteau avant d’être présenté au Festival de Cannes. ([source](https://fr.wikipedia.org/wiki/Ceci_n'est_pas_un_film))
+- **Musique & cinéma** — Lors de leurs cérémonies d’initiation, les Iatmul de Nouvelle-Guinée simulent le son d’un crocodile surnaturel avec un idiophone appelé tambour d’eau. ([source](https://fr.wikipedia.org/wiki/Tambour_d'eau))
+- **Arts & littérature** — Écrit par Jules Verne au milieu du XIXe siècle, le roman Paris au XXe siècle a été publié quelques années seulement avant le début du XXIe siècle. ([source](https://fr.wikipedia.org/wiki/Paris_au_XXe_si%C3%A8cle))
+- **Langue** — L’afrikaans est dérivé du dialecte hollandais de Hollande-Méridionale. ([source](https://fr.wikipedia.org/wiki/Afrikaans))
+- **Histoire** — Aux XIIe et XIIIe siècle, la langue limousine désignait tous les dialectes d’oc en France et hors de France. ([source](https://fr.wikipedia.org/wiki/Langue_limousine))
+- **Divers** — Le nom de la maison princière de Thurn und Taxis provient du mot italien tasso qui désigne l’if, mais aussi le blaireau. ([source](https://fr.wikipedia.org/wiki/Maison_de_Tour_et_Taxis))
+- **Arts & littérature** — Bien que Yann Houssin ait prétendu qu’il s’était suicidé en 1972, Tristan Cabral n’est mort qu’en 2020. ([source](https://fr.wikipedia.org/wiki/Tristan_Cabral))
+- **Histoire** — En 1978, des géologues soviétiques découvrent fortuitement la famille Lykov, qui vivait depuis plus de 42 ans dans un isolement total. ([source](https://fr.wikipedia.org/wiki/Famille_Lykov))
+- **Nature & animaux** — Melomys rubicola est considéré comme la première espèce de mammifères ayant disparu à cause du réchauffement climatique. ([source](https://fr.wikipedia.org/wiki/Melomys_rubicola))
+- **Arts & littérature** — L’album d’Astérix Le Domaine des dieux évoque à la fois la spéculation immobilière et les jeux de tombolas, mais un seul de ces sujets est anachronique. ([source](https://fr.wikipedia.org/wiki/Le_Domaine_des_dieux))
+- **Sciences** — Le drone, souvent militaire, doit son nom à celui que porte en anglais l’inoffensif faux bourdon. ([source](https://fr.wikipedia.org/wiki/Drone))
+- **Musique & cinéma** — Lorsque Consuelo Velázquez a écrit sa plus célèbre chanson, Bésame mucho (« Embrasse-moi beaucoup »), elle n’avait de son propre aveu aucune expérience en la matière. ([source](https://fr.wikipedia.org/wiki/B%C3%A9same_mucho))
+- **Histoire** — Le nom de l’Invincible Armada espagnole n’est entré dans l’usage qu’après sa déroute et à l’initiative de la propagande ennemie. ([source](https://fr.wikipedia.org/wiki/Invincible_Armada))
+- **Société & politique** — Le sénatus-consulte qui institue le Premier Empire autorise Napoléon Ier à adopter les enfants de ses frères Joseph et Louis, mais interdit cette pratique dynastique à ses successeurs. ([source](https://fr.wikipedia.org/wiki/S%C3%A9natus-consulte_organique_du_28_flor%C3%A9al_an_XII))

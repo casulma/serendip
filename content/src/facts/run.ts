@@ -7,7 +7,7 @@ import { articleUrl, rawPages } from "../lib/mediawiki.js";
 import { toPlainText, UnsupportedWikitext } from "../lib/wikitext.js";
 import { Category, Fact } from "../schema.js";
 import { fetchArchives } from "./archives.js";
-import { categorize, extractPortals, mayChange, normalizePortal, type PortalMapping } from "./categorize.js";
+import { categorize, extractPortals, mayChange, normalizePortal, textProblem, type PortalMapping } from "./categorize.js";
 import { parseArchive, type RawAnecdote } from "./parse.js";
 import { makeCloze } from "../fact-questions/cloze.js";
 import { resolveArticles, type Entity } from "../fact-questions/wikidata.js";
@@ -58,6 +58,11 @@ async function main() {
       } catch (e) {
         if (!(e instanceof UnsupportedWikitext)) throw e;
         rejected.push({ id: a.id, year: a.year, reason: e.reason, detail: a.wikitext.slice(0, 160) });
+        continue;
+      }
+      const unusable = textProblem(text);
+      if (unusable) {
+        rejected.push({ id: a.id, year: a.year, reason: unusable, detail: text.slice(0, 160) });
         continue;
       }
       const key = text.toLowerCase();

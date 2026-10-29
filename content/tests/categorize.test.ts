@@ -68,3 +68,14 @@ describe("categorize with patterns", () => {
     expect(categorize(["années 1960", "inconnu"], mapping).category).toBe("histoire");
   });
 });
+
+describe("textProblem", () => {
+  it("rejects truncated teasers and relative dates", async () => {
+    const { textProblem } = await import("../src/facts/categorize.js");
+    expect(textProblem("Savez-vous comment s'appelle un ensemble breton ? Réponse")).toBe("phrase incomplète");
+    expect(textProblem("Il y a 121 ans, le Krakatoa explosait.")).toBe("date relative (fausse aujourd'hui)");
+    expect(textProblem("Yang Huanyi est récemment décédée.")).toBe("date relative (fausse aujourd'hui)");
+    expect(textProblem("Le Krakatoa a explosé en 1883.")).toBeUndefined();
+    expect(textProblem("Céline Dion a gagné l'Eurovision… pour la Suisse.")).toBeUndefined();
+  });
+});
