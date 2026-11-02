@@ -184,3 +184,40 @@ describe("pas clair", () => {
     expect(await repo.countUnclear(db)).toBe(0);
   });
 });
+
+describe("review quiz", () => {
+  it("serves facts on their due day and moves them between boxes", async () => {
+    const r = await repo.revealNextFact(db, at(9));
+    if (!("fact" in r)) throw new Error("no fact");
+    expect(await repo.countDueReviews(db, at(20))).toBe(0); // received today, due tomorrow
+    expect(await repo.countDueReviews(db, at(9, 28))).toBe(1);
+
+    const [item] = await repo.dueReviews(db, at(9, 28));
+    expect(item!.fact.id).toBe(r.fact.id);
+    expect(item!.question?.prompt).toMatch(/\?$/);
+
+    expect(await repo.answerReview(db, r.fact.id, true, at(9, 28))).toEqual({ box: 2, dueDay: "2026-10-31" });
+    expect(await repo.countDueReviews(db, at(9, 30))).toBe(0);
+    expect(await repo.answerReview(db, r.fact.id, false, at(9, 31))).toEqual({ box: 1, dueDay: "2026-11-01" });
+    const answers = await db.getAllAsync<{ correct: number }>("SELECT correct FROM answers WHERE mode = 'revision' ORDER BY id");
+    expect(answers.map((a) => a.correct)).toEqual([1, 0]);
+  });
+
+  it("skips known and flagged facts", async () => {
+    const a = await repo.revealNextFact(db, at(9));
+    const b = await repo.revealNextFact(db, at(9));
+    if (!("fact" in a) || !("fact" in b)) throw new Error("no fact");
+    await repo.setKnown(db, a.fact.id, true);
+    await repo.setUnclear(db, b.fact.id, true);
+    expect(await repo.countDueReviews(db, at(9, 28))).toBe(0);
+  });
+});
+
+describe("random quiz", () => {
+  it("draws trivia from enabled categories, unseen first", async () => {
+    const items = await repo.randomTrivia(db, 5);
+    expect(items.map((i) => i.id)).toEqual(["t1"]);
+    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, categories: ["sport"] });
+    expect(await repo.randomTrivia(db, 5)).toEqual([]);
+  });
+});

@@ -39,6 +39,7 @@ export default function RootLayout() {
         >
           <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
           <Stack.Screen name="fait/[id]" options={{ title: "" }} />
+          <Stack.Screen name="quiz/[mode]" options={{ title: "" }} />
         </Stack>
       </SQLiteProvider>
     </Suspense>

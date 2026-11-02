@@ -1,23 +1,26 @@
 import { router, useFocusEffect } from "expo-router";
 import { useSQLiteContext } from "expo-sqlite";
 import { useCallback, useState } from "react";
-import { View } from "react-native";
-import { countReceived, feedRemainingToday, lastReceivedFact, type FactView } from "../../db/repo";
+import { Text, View } from "react-native";
+import { countDueReviews, countReceived, feedRemainingToday, lastReceivedFact, type FactView } from "../../db/repo";
 import { fr } from "../../i18n/fr";
-import { Button, Muted, Screen } from "../../ui/components";
+import { Button, Muted, Overline, Screen } from "../../ui/components";
 import { FactCard } from "../../ui/FactCard";
-import { spacing } from "../../ui/theme";
+import { fontSize, spacing, useTheme } from "../../ui/theme";
 
 export default function Home() {
   const db = useSQLiteContext();
+  const t = useTheme();
   const [fact, setFact] = useState<FactView | undefined>();
   const [remaining, setRemaining] = useState(0);
   const [received, setReceived] = useState(0);
+  const [due, setDue] = useState(0);
 
   const load = useCallback(async () => {
     setFact(await lastReceivedFact(db));
     setRemaining(await feedRemainingToday(db));
     setReceived(await countReceived(db));
+    setDue(await countDueReviews(db));
   }, [db]);
 
   useFocusEffect(
@@ -32,20 +35,24 @@ export default function Home() {
     <Screen style={{ gap: spacing.md }}>
       {fact ? (
         <>
-          <Muted>{fr.home.lastFact}</Muted>
+          <Overline>{fr.home.lastFact}</Overline>
           <FactCard fact={fact} onChange={onChange} />
         </>
       ) : (
-        <View style={{ flex: 1, justifyContent: "center" }}>
+        <View style={{ flex: 1, justifyContent: "center", gap: spacing.sm }}>
+          <Text style={{ color: t.text, fontSize: fontSize.title, fontWeight: "800" }}>{fr.home.title}</Text>
           <Muted>{fr.home.noFactYet}</Muted>
         </View>
       )}
-      <View style={{ gap: spacing.sm }}>
-        <Button label={fr.home.discover(remaining)} onPress={() => router.navigate("/decouvrir")} />
-        <Muted>
-          {fr.home.counts(received)} · {fr.home.quizSoon}
-        </Muted>
+      <View style={{ flexDirection: "row", gap: spacing.sm }}>
+        <View style={{ flex: 1 }}>
+          <Button label={fr.home.discover(remaining)} onPress={() => router.navigate("/decouvrir")} />
+        </View>
+        <View style={{ flex: 1 }}>
+          <Button label={fr.home.review(due)} variant="secondary" disabled={due === 0} onPress={() => router.push("/quiz/revision")} />
+        </View>
       </View>
+      <Muted>{fr.home.counts(received)}</Muted>
     </Screen>
   );
 }

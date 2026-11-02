@@ -50,3 +50,26 @@ describe("search", () => {
     expect(matches("n'importe", "")).toBe(true);
   });
 });
+
+describe("quiz choices", () => {
+  it("shuffles the answer among its three distractors", async () => {
+    const { shuffledChoices, choiceLabel } = await import("../src/domain/quiz");
+    const q = {
+      id: "q",
+      prompt: "?",
+      answer: { kind: "text" as const, text: "A" },
+      distractors: ["B", "C", "D"].map((text) => ({ kind: "text" as const, text })),
+      difficulty: 2 as const,
+    };
+    let seed = 1;
+    const rand = () => ((seed = (seed * 16807) % 2147483647) - 1) / 2147483646;
+    const positions = new Set<number>();
+    for (let i = 0; i < 40; i++) {
+      const c = shuffledChoices(q, rand);
+      expect(c.map(choiceLabel).sort()).toEqual(["A", "B", "C", "D"]);
+      expect(c.filter((x) => x.correct).map(choiceLabel)).toEqual(["A"]);
+      positions.add(c.findIndex((x) => x.correct));
+    }
+    expect(positions.size).toBe(4);
+  });
+});

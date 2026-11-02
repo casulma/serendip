@@ -22,7 +22,8 @@ Embarqué dans l'appli (pack JSON versionné), aucun appel réseau.
 ## Accueil
 
 - Dernier fait reçu, favori, « Je le savais déjà », accès au fil et aux quiz.
-- **« Je le savais déjà »** : mention explicite « Ce fait ne vous sera plus proposé en révision », confirmation « Retirer ce fait de vos révisions ? Il restera dans votre carnet. » Réversible depuis le carnet (« Remettre en révision »).
+- Sur chaque carte, une rangée de trois actions : **Favori**, **Je savais**, **Pas clair**. Chaque action s'explique dans sa fenêtre de confirmation, pas sous les boutons.
+- **« Je le savais déjà »** : confirmation « Retirer ce fait de vos révisions ? Ce fait ne vous sera plus proposé en révision. Il restera dans votre carnet. » Réversible depuis le carnet (« Réviser »).
 
 ## « Pas clair »
 
@@ -38,13 +39,15 @@ Tous les faits reçus : recherche, filtre favoris, lien vers la source, boîte d
 - **Système de Leitner** (répétition espacée), nommé et expliqué dans l'appli : 5 boîtes, prochaine révision à 1 / 3 / 7 / 14 / 30 jours. Bonne réponse : boîte suivante. Erreur : retour en boîte 1.
 - Faits OpenQuizzDB : leur propre question (4 choix). Anecdotes Wikipédia : QCM à trous quand il existe, sinon flashcard « je savais / je ne savais pas ».
 
+- Onglet « Quiz » : nombre de faits à revoir aujourd'hui, sessions de 20 questions au plus, les plus en retard d'abord.
+
 ## Quiz « Aléatoire »
 
-Banque Wikidata indépendante des faits reçus. QCM 4 choix (texte ou drapeaux).
+Banque Wikidata indépendante des faits reçus, dans les catégories activées. Sessions de 10 questions, celles jamais vues d'abord. QCM 4 choix (texte ou drapeaux).
 
 ## Dans les deux quiz
 
-Correction immédiate avec le fait ou la source, score en fin de session.
+Correction immédiate (bonne réponse en vert, erreur en rouge) avec l'anecdote ou la source, puis la boîte de Leitner et la prochaine date pour la révision. Score et récapitulatif en fin de session. Chaque réponse est enregistrée pour les statistiques.
 
 ## Réglages
 

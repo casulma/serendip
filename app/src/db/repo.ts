@@ -1,6 +1,6 @@
 import type { SQLiteDatabase } from "expo-sqlite";
 import { dayKey, type DayKey } from "../domain/dates";
-import { initialState } from "../domain/leitner";
+import { initialState, review, type Box, type ReviewState } from "../domain/leitner";
 import { DEFAULT_FACTS_PER_DAY, feedRemaining } from "../domain/quota";
 import { CATEGORIES, type CategoryId, type Credit, type Origin, type Question } from "../pack/types";
 
@@ -213,4 +213,78 @@ export async function exportUnclear(db: SQLiteDatabase, now = new Date()): Promi
 export async function countUnclear(db: SQLiteDatabase): Promise<number> {
   const row = await db.getFirstAsync<{ n: number }>("SELECT COUNT(*) AS n FROM user_facts WHERE unclear_at IS NOT NULL");
   return row?.n ?? 0;
+}
+
+// ---------------------------------------------------------------- quizzes
+
+export const REVIEW_SESSION_SIZE = 20;
+export const RANDOM_SESSION_SIZE = 10;
+
+/** A fact due for review, with the question to ask (a flashcard when it has none). */
+export type ReviewItem = { fact: FactView; question?: Question };
+
+const REVIEWABLE = "u.known = 0 AND u.unclear_at IS NULL AND u.due_day <= ?";
+
+export async function countDueReviews(db: SQLiteDatabase, now = new Date()): Promise<number> {
+  const row = await db.getFirstAsync<{ n: number }>(`SELECT COUNT(*) AS n FROM user_facts u WHERE ${REVIEWABLE}`, dayKey(now));
+  return row?.n ?? 0;
+}
+
+/** Facts whose Leitner due day has come, most overdue first. */
+export async function dueReviews(db: SQLiteDatabase, now = new Date(), limit = REVIEW_SESSION_SIZE): Promise<ReviewItem[]> {
+  const rows = await db.getAllAsync<FactRow>(
+    `${SELECT_RECEIVED} WHERE ${REVIEWABLE} ORDER BY u.due_day, u.received_at LIMIT ?`,
+    dayKey(now),
+    limit,
+  );
+  return rows.map((r) => ({ fact: toView(r), question: r.question ? (JSON.parse(r.question) as Question) : undefined }));
+}
+
+/** Record a review answer and move the fact between Leitner boxes. */
+export async function answerReview(db: SQLiteDatabase, factId: string, success: boolean, now = new Date()): Promise<ReviewState> {
+  const today = dayKey(now);
+  let next: ReviewState = initialState(today);
+  await db.withExclusiveTransactionAsync(async (txn) => {
+    const row = await txn.getFirstAsync<{ box: number; due_day: string; category: string }>(
+      "SELECT u.box, u.due_day, f.category FROM user_facts u JOIN facts f ON f.id = u.fact_id WHERE u.fact_id = ?",
+      factId,
+    );
+    if (!row) return;
+    next = review({ box: row.box as Box, dueDay: row.due_day }, success, today);
+    await txn.runAsync("UPDATE user_facts SET box = ?, due_day = ? WHERE fact_id = ?", next.box, next.dueDay, factId);
+    await txn.runAsync(
+      "INSERT INTO answers (mode, item_id, category, correct, answered_at) VALUES ('revision', ?, ?, ?, ?)",
+      factId,
+      row.category,
+      success ? 1 : 0,
+      now.toISOString(),
+    );
+  });
+  return next;
+}
+
+export type TriviaItem = { id: string; category: CategoryId; family: string; wikidata: string; question: Question };
+
+/** Random trivia from the enabled categories, never-answered questions first. */
+export async function randomTrivia(db: SQLiteDatabase, n = RANDOM_SESSION_SIZE): Promise<TriviaItem[]> {
+  const s = await getSettings(db);
+  const rows = await db.getAllAsync<{ id: string; category: CategoryId; family: string; wikidata: string; question: string }>(
+    `SELECT id, category, family, wikidata, question FROM trivia
+     WHERE category IN (${s.categories.map(() => "?").join(", ")})
+     ORDER BY id IN (SELECT item_id FROM answers WHERE mode = 'aleatoire'), random()
+     LIMIT ?`,
+    ...s.categories,
+    n,
+  );
+  return rows.map((r) => ({ ...r, question: JSON.parse(r.question) as Question }));
+}
+
+export async function answerTrivia(db: SQLiteDatabase, item: TriviaItem, correct: boolean, now = new Date()): Promise<void> {
+  await db.runAsync(
+    "INSERT INTO answers (mode, item_id, category, correct, answered_at) VALUES ('aleatoire', ?, ?, ?, ?)",
+    item.id,
+    item.category,
+    correct ? 1 : 0,
+    now.toISOString(),
+  );
 }

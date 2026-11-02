@@ -1,18 +1,20 @@
 import { useSQLiteContext } from "expo-sqlite";
 import * as WebBrowser from "expo-web-browser";
 import { useState } from "react";
-import { Alert, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Alert, Pressable, ScrollView, Text, View } from "react-native";
 import { setFavorite, setKnown, setUnclear, type FactView } from "../db/repo";
 import { formatDay } from "../domain/dates";
+import { choiceLabel } from "../domain/quiz";
 import { fr } from "../i18n/fr";
-import { categoryLabel } from "../pack/types";
-import { Button, Chip, Muted } from "./components";
-import { fontSize, spacing, useTheme } from "./theme";
+import { Action, Button, Card, CategoryChip, Muted, Overline } from "./components";
+import { fontSize, radius, spacing, useTheme } from "./theme";
 
 /**
- * A received fact with its actions (favorite, "je le savais déjà", "pas clair", source).
+ * A received fact with its actions (favorite, "je le savais déjà", "pas clair").
  * OpenQuizzDB facts show their question first; with `hideAnswer` the answer
- * and its anecdote stay hidden until asked for.
+ * and its anecdote stay hidden until asked for. Each action explains itself in
+ * its confirmation dialog, so the card carries no hint text that could be
+ * mistaken for another button's.
  */
 export function FactCard({
   fact,
@@ -36,107 +38,100 @@ export function FactCard({
     onChange({ ...fact, favorite: !fact.favorite });
   };
 
-  const markKnown = () => {
-    Alert.alert(fr.fact.knewItConfirmTitle, fr.fact.knewItConfirmBody, [
+  const confirm = (title: string, body: string, ok: string, run: () => Promise<void>) =>
+    Alert.alert(title, body, [
       { text: fr.fact.cancel, style: "cancel" },
-      {
-        text: fr.fact.knewItConfirm,
-        style: "destructive",
-        onPress: async () => {
-          await setKnown(db, fact.id, true);
-          onChange({ ...fact, known: true });
-        },
-      },
+      { text: ok, style: "destructive", onPress: () => void run() },
     ]);
-  };
 
-  const flagUnclear = () => {
-    Alert.alert(fr.fact.unclearConfirmTitle, fr.fact.unclearConfirmBody, [
-      { text: fr.fact.cancel, style: "cancel" },
-      {
-        text: fr.fact.unclearConfirm,
-        style: "destructive",
-        onPress: async () => {
-          await setUnclear(db, fact.id, true);
-          onChange({ ...fact, unclear: true });
-        },
-      },
-    ]);
-  };
+  const markKnown = () =>
+    confirm(fr.fact.knewItConfirmTitle, fr.fact.knewItConfirmBody, fr.fact.knewItConfirm, async () => {
+      await setKnown(db, fact.id, true);
+      onChange({ ...fact, known: true });
+    });
 
-  const unflag = async () => {
-    await setUnclear(db, fact.id, false);
-    onChange({ ...fact, unclear: false });
-  };
+  const flagUnclear = () =>
+    confirm(fr.fact.unclearConfirmTitle, fr.fact.unclearConfirmBody, fr.fact.unclearConfirm, async () => {
+      await setUnclear(db, fact.id, true);
+      onChange({ ...fact, unclear: true });
+    });
 
-  const restore = async () => {
-    await setKnown(db, fact.id, false);
-    onChange({ ...fact, known: false });
+  const undo = async () => {
+    if (fact.unclear) {
+      await setUnclear(db, fact.id, false);
+      onChange({ ...fact, unclear: false });
+    } else {
+      await setKnown(db, fact.id, false);
+      onChange({ ...fact, known: false });
+    }
   };
 
   return (
-    <View style={[styles.card, { backgroundColor: t.card, borderColor: t.border }]}>
-      <ScrollView contentContainerStyle={{ gap: spacing.md }}>
-        <Chip label={categoryLabel(fact.category)} />
+    <Card style={{ flex: 1, padding: 0, overflow: "hidden" }}>
+      <ScrollView contentContainerStyle={{ padding: spacing.lg, gap: spacing.md }}>
+        <View style={{ flexDirection: "row", alignItems: "center", justifyContent: "space-between" }}>
+          <CategoryChip id={fact.category} />
+          {fact.favorite && <Text style={{ color: t.accent, fontSize: 18 }}>★</Text>}
+        </View>
+
         {q ? (
           <>
-            <Text style={{ color: t.text, fontSize: fontSize.fact, lineHeight: 30, fontWeight: "600" }}>{q.prompt}</Text>
+            <Text style={{ color: t.text, fontSize: fontSize.question, lineHeight: 31, fontWeight: "700" }}>{q.prompt}</Text>
             {revealed ? (
-              <Text style={{ color: t.accent, fontSize: fontSize.fact, lineHeight: 30, fontWeight: "700" }}>
-                {q.answer.kind === "text" ? q.answer.text : q.answer.alt}
-              </Text>
+              <View style={{ backgroundColor: t.accentSoft, borderRadius: radius.md, padding: spacing.md, gap: 2 }}>
+                <Overline color={t.accent}>{fr.fact.answer}</Overline>
+                <Text style={{ color: t.accent, fontSize: fontSize.fact, fontWeight: "800" }}>{choiceLabel(q.answer)}</Text>
+              </View>
             ) : (
-              <Button label={fr.fact.reveal} onPress={() => setRevealed(true)} />
+              <Button label={fr.fact.reveal} variant="secondary" onPress={() => setRevealed(true)} />
             )}
-            {revealed && <Text style={{ color: t.text, fontSize: fontSize.body, lineHeight: 26 }}>{fact.text}</Text>}
+            {revealed && (
+              <View style={{ gap: spacing.xs }}>
+                <Overline>{fr.fact.didYouKnow}</Overline>
+                <Text style={{ color: t.text, fontSize: fontSize.body, lineHeight: 26 }}>{fact.text}</Text>
+              </View>
+            )}
           </>
         ) : (
-          <Text style={{ color: t.text, fontSize: fontSize.fact, lineHeight: 30 }}>{fact.text}</Text>
+          <>
+            <Overline>{fr.fact.didYouKnow}</Overline>
+            <Text style={{ color: t.text, fontSize: fontSize.fact, lineHeight: 31 }}>{fact.text}</Text>
+          </>
         )}
+
         {showDetails && fact.tags.includes("peut-changer") && <Muted>{fr.fact.mayChange}</Muted>}
         {showDetails && (
-          <Pressable accessibilityRole="link" onPress={() => WebBrowser.openBrowserAsync(fact.source)}>
-            <Text style={{ color: t.accent, fontSize: fontSize.body, textDecorationLine: "underline" }}>{fr.fact.source}</Text>
-          </Pressable>
+          <View style={{ gap: spacing.xs, marginTop: spacing.sm }}>
+            <Pressable accessibilityRole="link" onPress={() => WebBrowser.openBrowserAsync(fact.source)}>
+              <Text style={{ color: t.accent, fontSize: fontSize.small, fontWeight: "700" }}>{fr.fact.source} ↗</Text>
+            </Pressable>
+            {fact.credit && <Muted>{fr.fact.credit(fact.credit)}</Muted>}
+          </View>
         )}
-        {showDetails && fact.credit && <Muted>{fr.fact.credit(fact.credit)}</Muted>}
         {showReview && (
           <Muted>
             {fr.fact.received(formatDay(fact.receivedDay))}
-            {fact.known ? "" : `\n${fr.fact.box(fact.box, formatDay(fact.dueDay))}`}
+            {fact.known || fact.unclear ? "" : `\n${fr.fact.box(fact.box, formatDay(fact.dueDay))}`}
           </Muted>
         )}
       </ScrollView>
-      <View style={{ gap: spacing.sm, marginTop: spacing.md }}>
-        <Button label={fact.favorite ? `★ ${fr.fact.unfavorite}` : `☆ ${fr.fact.favorite}`} variant="secondary" onPress={toggleFavorite} />
-        {fact.unclear ? (
-          <>
-            <Muted>{fr.fact.flagged}</Muted>
-            <Button label={fr.fact.unflag} variant="secondary" onPress={unflag} />
-          </>
-        ) : fact.known ? (
-          <>
-            <Muted>{fr.fact.known}</Muted>
-            <Button label={fr.fact.restore} variant="secondary" onPress={restore} />
-          </>
-        ) : (
-          <>
-            <View style={{ flexDirection: "row", gap: spacing.sm }}>
-              <View style={{ flex: 1 }}>
-                <Button label={fr.fact.knewIt} variant="secondary" onPress={markKnown} accessibilityHint={fr.fact.knewItHint} />
-              </View>
-              <View style={{ flex: 1 }}>
-                <Button label={fr.fact.unclear} variant="danger" onPress={flagUnclear} accessibilityHint={fr.fact.unclearHint} />
-              </View>
+
+      <View style={{ borderTopWidth: 1, borderTopColor: t.border, padding: spacing.md, gap: spacing.sm }}>
+        {fact.known || fact.unclear ? (
+          <View style={{ flexDirection: "row", alignItems: "center", gap: spacing.sm }}>
+            <View style={{ flex: 1 }}>
+              <Muted>{fact.unclear ? fr.fact.flagged : fr.fact.known}</Muted>
             </View>
-            <Muted>{fr.fact.knewItHint}</Muted>
-          </>
+            <Action glyph="↺" label={fact.unclear ? fr.fact.unflag : fr.fact.restore} onPress={undo} />
+          </View>
+        ) : (
+          <View style={{ flexDirection: "row", gap: spacing.sm }}>
+            <Action glyph={fact.favorite ? "★" : "☆"} label={fr.fact.favorite} active={fact.favorite} onPress={toggleFavorite} />
+            <Action glyph="✓" label={fr.fact.knewItShort} onPress={markKnown} accessibilityHint={fr.fact.knewItHint} />
+            <Action glyph="?" label={fr.fact.unclear} onPress={flagUnclear} accessibilityHint={fr.fact.unclearHint} />
+          </View>
         )}
       </View>
-    </View>
+    </Card>
   );
 }
-
-const styles = StyleSheet.create({
-  card: { flex: 1, borderWidth: 1, borderRadius: 16, padding: spacing.lg },
-});

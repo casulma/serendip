@@ -6,7 +6,7 @@ import { factsReceivedOn, feedCountOn, getSettings, revealNextFact, type FactVie
 import { dayKey } from "../../domain/dates";
 import { feedLimit } from "../../domain/quota";
 import { fr } from "../../i18n/fr";
-import { Button, Muted } from "../../ui/components";
+import { Button, Card, Muted } from "../../ui/components";
 import { FactCard } from "../../ui/FactCard";
 import { fontSize, spacing, useTheme } from "../../ui/theme";
 
@@ -108,10 +108,14 @@ export default function Discover() {
                 </View>
               )}
               {item.kind === "end" && (
-                <View style={{ flex: 1, justifyContent: "center", gap: spacing.md }}>
-                  <Text style={{ color: t.text, fontSize: fontSize.title, fontWeight: "700" }}>{fr.discover.doneTitle}</Text>
-                  <Muted>{item.exhausted ? fr.discover.exhausted : fr.discover.doneBody}</Muted>
-                  <Button label={fr.tabs.notebook} variant="secondary" onPress={() => router.navigate("/carnet")} />
+                <View style={{ flex: 1, justifyContent: "center" }}>
+                  <Card style={{ gap: spacing.md }}>
+                    <Text style={{ fontSize: 40 }}>🌙</Text>
+                    <Text style={{ color: t.text, fontSize: fontSize.title, fontWeight: "800" }}>{fr.discover.doneTitle}</Text>
+                    <Muted>{item.exhausted ? fr.discover.exhausted : fr.discover.doneBody}</Muted>
+                    <Button label={fr.tabs.quiz} onPress={() => router.navigate("/quiz")} />
+                    <Button label={fr.tabs.notebook} variant="secondary" onPress={() => router.navigate("/carnet")} />
+                  </Card>
                 </View>
               )}
             </View>

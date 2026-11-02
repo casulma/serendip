@@ -6,9 +6,8 @@ import { receivedFacts, type FactView } from "../../db/repo";
 import { formatDay } from "../../domain/dates";
 import { matches } from "../../domain/search";
 import { fr } from "../../i18n/fr";
-import { categoryLabel } from "../../pack/types";
-import { Chip, Muted, Screen } from "../../ui/components";
-import { fontSize, spacing, useTheme } from "../../ui/theme";
+import { CategoryChip, Chip, Muted, Screen } from "../../ui/components";
+import { fontSize, radius, shadow, spacing, useTheme } from "../../ui/theme";
 
 const answerOf = (f: FactView) => (f.question?.answer.kind === "text" ? f.question.answer.text : "");
 
@@ -44,7 +43,7 @@ export default function Notebook() {
         placeholder={fr.notebook.search}
         placeholderTextColor={t.muted}
         accessibilityLabel={fr.notebook.search}
-        style={{ color: t.text, backgroundColor: t.card, borderColor: t.border, borderWidth: 1, borderRadius: 12, padding: 12, fontSize: fontSize.body }}
+        style={{ color: t.text, backgroundColor: t.card, borderColor: t.border, borderWidth: 1, borderRadius: radius.md, padding: 14, fontSize: fontSize.body }}
       />
       <View style={{ flexDirection: "row", marginVertical: spacing.sm }}>
         <Chip label={`★ ${fr.notebook.favoritesOnly}`} active={favoritesOnly} onPress={() => setFavoritesOnly((v) => !v)} />
@@ -52,17 +51,25 @@ export default function Notebook() {
       <FlatList
         data={shown}
         keyExtractor={(f) => f.id}
-        ItemSeparatorComponent={() => <View style={{ height: 1, backgroundColor: t.border }} />}
+        contentContainerStyle={{ gap: spacing.sm, paddingBottom: spacing.lg }}
         ListEmptyComponent={<Muted style={{ marginTop: spacing.lg }}>{facts.length === 0 ? fr.notebook.empty : fr.notebook.noResult}</Muted>}
         renderItem={({ item }) => (
           <Link href={{ pathname: "/fait/[id]", params: { id: item.id } }} asChild>
-            <Pressable style={{ paddingVertical: spacing.md, gap: spacing.xs }}>
+            <Pressable
+              style={({ pressed }) => [
+                { backgroundColor: t.card, borderRadius: radius.md, padding: spacing.md, gap: spacing.sm, opacity: pressed ? 0.8 : 1 },
+                shadow(t),
+              ]}
+            >
+              <View style={{ flexDirection: "row", alignItems: "center", justifyContent: "space-between" }}>
+                <CategoryChip id={item.category} />
+                {item.favorite && <Text style={{ color: t.accent, fontSize: 16 }}>★</Text>}
+              </View>
               <Text numberOfLines={3} style={{ color: t.text, fontSize: fontSize.body, lineHeight: 24 }}>
-                {item.favorite ? "★ " : ""}
                 {headline(item)}
               </Text>
               <Muted>
-                {categoryLabel(item.category)} · {formatDay(item.receivedDay)}
+                {formatDay(item.receivedDay)}
                 {item.known ? ` · ${fr.fact.knewIt.toLowerCase()}` : ""}
                 {item.unclear ? ` · ${fr.fact.unclear.toLowerCase()}` : ""}
               </Muted>

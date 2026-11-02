@@ -25,6 +25,7 @@ export default function TabsLayout() {
     >
       <Tabs.Screen name="index" options={{ title: fr.tabs.home, tabBarIcon: icon("⌂") }} />
       <Tabs.Screen name="decouvrir" options={{ title: fr.tabs.discover, tabBarIcon: icon("✦") }} />
+      <Tabs.Screen name="quiz" options={{ title: fr.tabs.quiz, tabBarIcon: icon("◎") }} />
       <Tabs.Screen name="carnet" options={{ title: fr.tabs.notebook, tabBarIcon: icon("☰") }} />
       <Tabs.Screen name="reglages" options={{ title: fr.tabs.settings, tabBarIcon: icon("⚙") }} />
     </Tabs>
