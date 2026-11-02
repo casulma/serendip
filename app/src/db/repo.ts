@@ -1,6 +1,7 @@
 import type { SQLiteDatabase } from "expo-sqlite";
 import { dayKey, type DayKey } from "../domain/dates";
 import { initialState, review, type Box, type ReviewState } from "../domain/leitner";
+import { interleave } from "../domain/quiz";
 import { DEFAULT_FACTS_PER_DAY, feedRemaining } from "../domain/quota";
 import { CATEGORIES, type CategoryId, type Credit, type Origin, type Question } from "../pack/types";
 
@@ -265,18 +266,42 @@ export async function answerReview(db: SQLiteDatabase, factId: string, success: 
 
 export type TriviaItem = { id: string; category: CategoryId; family: string; wikidata: string; question: Question };
 
-/** Random trivia from the enabled categories, never-answered questions first. */
-export async function randomTrivia(db: SQLiteDatabase, n = RANDOM_SESSION_SIZE): Promise<TriviaItem[]> {
+// Per-family limits for a random session. Birth years are hard even with spaced
+// choices: one per session, famous people only. Authors: not the most obscure.
+const FAMILY_RULES: Record<string, { max: number; maxDifficulty: number }> = {
+  naissance: { max: 1, maxDifficulty: 1 },
+  auteur: { max: 2, maxDifficulty: 2 },
+};
+
+/**
+ * A varied random session: families taken in turn (capitals, flags, areas…),
+ * within the enabled categories, never-answered questions first.
+ */
+export async function randomTrivia(db: SQLiteDatabase, n = RANDOM_SESSION_SIZE, random: () => number = Math.random): Promise<TriviaItem[]> {
   const s = await getSettings(db);
-  const rows = await db.getAllAsync<{ id: string; category: CategoryId; family: string; wikidata: string; question: string }>(
-    `SELECT id, category, family, wikidata, question FROM trivia
-     WHERE category IN (${s.categories.map(() => "?").join(", ")})
-     ORDER BY id IN (SELECT item_id FROM answers WHERE mode = 'aleatoire'), random()
-     LIMIT ?`,
-    ...s.categories,
-    n,
-  );
-  return rows.map((r) => ({ ...r, question: JSON.parse(r.question) as Question }));
+  const families = (await db.getAllAsync<{ family: string }>("SELECT DISTINCT family FROM trivia ORDER BY family")).map((r) => r.family);
+  const groups: TriviaItem[][] = [];
+  for (const family of families) {
+    const rule = FAMILY_RULES[family] ?? { max: n, maxDifficulty: 3 };
+    const rows = await db.getAllAsync<{ id: string; category: CategoryId; family: string; wikidata: string; question: string }>(
+      `SELECT id, category, family, wikidata, question FROM trivia
+       WHERE family = ? AND category IN (${s.categories.map(() => "?").join(", ")})
+         AND json_extract(question, '$.difficulty') <= ?
+       ORDER BY id IN (SELECT item_id FROM answers WHERE mode = 'aleatoire'), random()
+       LIMIT ?`,
+      family,
+      ...s.categories,
+      rule.maxDifficulty,
+      rule.max,
+    );
+    if (rows.length > 0) groups.push(rows.map((r) => ({ ...r, question: JSON.parse(r.question) as Question })));
+  }
+  // Shuffle family order so sessions do not always open with the same family.
+  for (let i = groups.length - 1; i > 0; i--) {
+    const j = Math.floor(random() * (i + 1));
+    [groups[i], groups[j]] = [groups[j]!, groups[i]!];
+  }
+  return interleave(groups, n);
 }
 
 export async function answerTrivia(db: SQLiteDatabase, item: TriviaItem, correct: boolean, now = new Date()): Promise<void> {

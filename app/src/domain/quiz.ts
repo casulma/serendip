@@ -21,3 +21,22 @@ export function scoreMessage({ total, correct }: SessionResult): string {
   const r = correct / total;
   return r === 1 ? "Sans faute !" : r >= 0.7 ? "Très bien." : r >= 0.4 ? "Pas mal, on continue." : "On révisera ça.";
 }
+
+/**
+ * Round-robin over groups (one item from each in turn) until `n` items:
+ * keeps a session varied whatever the size of each group.
+ */
+export function interleave<T>(groups: T[][], n: number): T[] {
+  const out: T[] = [];
+  for (let round = 0; out.length < n; round++) {
+    let took = false;
+    for (const g of groups) {
+      if (round < g.length && out.length < n) {
+        out.push(g[round]!);
+        took = true;
+      }
+    }
+    if (!took) break;
+  }
+  return out;
+}

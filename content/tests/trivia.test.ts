@@ -34,13 +34,15 @@ describe("pickDistractors", () => {
 });
 
 describe("yearDistractors", () => {
-  it("gives three distinct nearby years, never the answer", () => {
-    for (const y of [1802, 1, 2020]) {
+  it("gives three years in the same era, well apart from the answer and each other", () => {
+    for (const y of [1802, 5, 2020, 1950]) {
       const d = yearDistractors(y, `t${y}`);
-      expect(new Set(d).size).toBe(3);
-      expect(d).not.toContain(y);
+      expect(d).toHaveLength(3);
+      const all = [y, ...d];
+      for (let i = 0; i < all.length; i++)
+        for (let j = i + 1; j < all.length; j++) expect(Math.abs(all[i]! - all[j]!)).toBeGreaterThanOrEqual(8);
       for (const x of d) {
-        expect(Math.abs(x - y)).toBeLessThanOrEqual(12);
+        expect(Math.abs(x - y)).toBeLessThanOrEqual(40);
         expect(x).toBeGreaterThan(0);
         expect(x).toBeLessThanOrEqual(2026);
       }

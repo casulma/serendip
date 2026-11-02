@@ -88,11 +88,11 @@ Total : **3335** questions
 - (2) Lequel de ces pays a la plus grande superficie ? → **Ouganda** — Jordanie / Tunisie / Népal
 - (3) Lequel de ces pays a la plus grande superficie ? → **Mongolie** — Pakistan / Afrique du Sud / Mozambique
 - (2) Lequel de ces pays a la plus grande superficie ? → **Népal** — Portugal / Cuba / Irlande
-- (2) En quelle année est né Fred Astaire ? → **1899** — 1910 / 1898 / 1892
-- (2) En quelle année est né Chinua Achebe ? → **1930** — 1941 / 1919 / 1934
-- (1) En quelle année est né Rafael Correa ? → **1963** — 1961 / 1967 / 1952
-- (1) En quelle année est né Martin Scorsese ? → **1942** — 1953 / 1944 / 1950
-- (3) En quelle année est né Hermann Minkowski ? → **1864** — 1863 / 1854 / 1861
+- (2) En quelle année est né Fred Astaire ? → **1899** — 1934 / 1889 / 1874
+- (2) En quelle année est né Chinua Achebe ? → **1930** — 1967 / 1893 / 1947
+- (1) En quelle année est né Rafael Correa ? → **1963** — 1952 / 1981 / 1926
+- (1) En quelle année est né Martin Scorsese ? → **1942** — 1980 / 1953 / 1971
+- (3) En quelle année est né Hermann Minkowski ? → **1864** — 1854 / 1831 / 1880
 - (3) Qui a écrit « Espions, faites vos jeux » ? → **Ian Fleming** — J. D. Salinger / C. S. Lewis / Jack Kerouac
 - (1) Qui a écrit « Le Nom de la rose » ? → **Umberto Eco** — Bertolt Brecht / Arundhati Roy / James Joyce
 - (3) Qui a écrit « Histoire de Tom Jones, enfant trouvé » ? → **Henry Fielding** — Thomas Paine / Daniel Defoe / Jonathan Swift

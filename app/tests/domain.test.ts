@@ -73,3 +73,11 @@ describe("quiz choices", () => {
     expect(positions.size).toBe(4);
   });
 });
+
+describe("interleave", () => {
+  it("takes one item per group in turn, up to n", async () => {
+    const { interleave } = await import("../src/domain/quiz");
+    expect(interleave([["a1", "a2", "a3"], ["b1"], ["c1", "c2"]], 5)).toEqual(["a1", "b1", "c1", "a2", "c2"]);
+    expect(interleave([["a1"], []], 5)).toEqual(["a1"]);
+  });
+});

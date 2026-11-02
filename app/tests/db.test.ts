@@ -37,6 +37,16 @@ const PACK: Pack = {
   facts: [...QUIZ, ...ANECDOTES],
   trivia: [
     { id: "t1", category: "geographie", family: "capitale", wikidata: "https://www.wikidata.org/wiki/Q142", prompt: "?", answer: { kind: "text", text: "Paris" }, distractors: [], difficulty: 1 },
+    ...Array.from({ length: 6 }, (_, i) => ({
+      id: `n${i}`,
+      category: "histoire" as const,
+      family: "naissance",
+      wikidata: "https://www.wikidata.org/wiki/Q1",
+      prompt: `En quelle année est né X${i} ?`,
+      answer: { kind: "text" as const, text: "1900" },
+      distractors: [],
+      difficulty: (i < 3 ? 1 : 3) as 1 | 3,
+    })),
   ],
 };
 const tinyPack = { version: PACK.version, load: () => PACK };
@@ -61,7 +71,7 @@ describe("migrations and pack import", () => {
     let loads = 0;
     await importPackIfNeeded(db, { version: PACK.version, load: () => (loads++, PACK) });
     expect(loads).toBe(0);
-    expect((await db.getFirstAsync<{ n: number }>("SELECT COUNT(*) AS n FROM trivia"))!.n).toBe(1);
+    expect((await db.getFirstAsync<{ n: number }>("SELECT COUNT(*) AS n FROM trivia"))!.n).toBe(7);
   });
 
   it("imports the real bundled pack", async () => {
@@ -214,9 +224,10 @@ describe("review quiz", () => {
 });
 
 describe("random quiz", () => {
-  it("draws trivia from enabled categories, unseen first", async () => {
+  it("mixes families and allows a single easy birth-year question", async () => {
     const items = await repo.randomTrivia(db, 5);
-    expect(items.map((i) => i.id)).toEqual(["t1"]);
+    expect(items.map((i) => i.family).sort()).toEqual(["capitale", "naissance"]);
+    expect(items.find((i) => i.family === "naissance")!.question.difficulty).toBe(1);
     await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, categories: ["sport"] });
     expect(await repo.randomTrivia(db, 5)).toEqual([]);
   });

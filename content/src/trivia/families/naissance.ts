@@ -137,15 +137,19 @@ function nearNewYear(timeValue: string): boolean {
   return (mo === 1 && d <= 14) || (mo === 12 && d >= 18);
 }
 
-/** Three distinct years within ±12 of the answer, never in the future. */
+// Distractors far enough apart to test the era, not the exact year.
+const MIN_GAP = 8;
+const WINDOW = 40;
+
+/** Three years within ±40 of the answer, at least 8 years from it and from each other, never in the future. */
 export function yearDistractors(year: number, seed: string): number[] {
   const r = rng(seed);
   const max = 2026;
-  const out = new Set<number>();
-  while (out.size < 3) {
-    const offset = 1 + Math.floor(r() * 12);
+  const out: number[] = [];
+  for (let tries = 0; out.length < 3 && tries < 1000; tries++) {
+    const offset = MIN_GAP + Math.floor(r() * (WINDOW - MIN_GAP + 1));
     const y = r() < 0.5 ? year - offset : year + offset;
-    if (y !== year && y > 0 && y <= max) out.add(y);
+    if (y > 0 && y <= max && [year, ...out].every((o) => Math.abs(o - y) >= MIN_GAP)) out.push(y);
   }
-  return [...out];
+  return out;
 }
