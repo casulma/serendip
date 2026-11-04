@@ -791,16 +791,16 @@
     {
       "id": "nature-144",
       "difficulty": 1,
-      "question": "De quel poisson provient le véritable caviar ?",
-      "answer": "esturgeon",
+      "question": "Comment appelle-t-on le chant doux et grave du pigeon et de la colombe ?",
+      "answer": "roucoulement",
       "accept": [],
       "choices": [
-        "saumon",
-        "lompe",
-        "hareng"
+        "gazouillis",
+        "croassement",
+        "caquètement"
       ],
-      "explanation": "Certaines espèces d'esturgeons du bassin de la Caspienne, comme le béluga, peuvent vivre plus d'un siècle et dépasser une tonne.",
-      "wikipedia": "Acipenseridae"
+      "explanation": "Par analogie, roucouler désigne aussi le fait, pour des amoureux, d'échanger des propos tendres.",
+      "wikipedia": "Liste de cris d'animaux"
     },
     {
       "id": "nature-145",
@@ -983,7 +983,7 @@
     {
       "id": "nature-157",
       "difficulty": 1,
-      "question": "Quelle structure vivante, au large du Queensland, est la plus vaste construite par des êtres vivants ?",
+      "question": "Quelle structure vivante, au large de l'Australie, est la plus vaste construite par des êtres vivants ?",
       "answer": "Grande Barrière de corail",
       "accept": [
         "Grande Barrière"
@@ -2345,16 +2345,16 @@
     {
       "id": "nature-247",
       "difficulty": 3,
-      "question": "Quel camélidé sauvage des Andes fournit l'une des laines les plus fines et les plus chères du monde ?",
-      "answer": "vigogne",
+      "question": "Quel verbe désigne le cri du chameau et du dromadaire ?",
+      "answer": "blatérer",
       "accept": [],
       "choices": [
-        "alpaga",
-        "guanaco",
-        "lama"
+        "bramer",
+        "raire",
+        "barrir"
       ],
-      "explanation": "Chez les Incas, sa laine était réservée à la royauté ; l'animal est aujourd'hui capturé vivant, tondu, puis relâché.",
-      "wikipedia": "Vigogne"
+      "explanation": "Ce verbe rare, qui s'applique aussi au bélier, vient du latin blaterare, qui signifie « bavarder sottement ».",
+      "wikipedia": "Liste de cris d'animaux"
     },
     {
       "id": "nature-248",

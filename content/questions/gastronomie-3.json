@@ -516,7 +516,7 @@
         "English Breakfast",
         "Lapsang souchong"
       ],
-      "explanation": "Charles Grey, Premier ministre dans les années 1830, aurait reçu cette recette en cadeau d'un diplomate revenu de Chine.",
+      "explanation": "La légende veut que Charles Grey en ait rapporté la recette d'un voyage diplomatique en Chine, où il n'a pourtant jamais mis les pieds.",
       "wikipedia": "Earl Grey"
     },
     {
@@ -602,7 +602,7 @@
       "choices": [
         "liberica",
         "excelsa",
-        "moka"
+        "stenophylla"
       ],
       "explanation": "Originaire d'Afrique de l'Est, notamment d'Éthiopie, il donne environ 100 mg de caféine par tasse, contre 250 pour le robusta.",
       "wikipedia": "Coffea arabica"
@@ -1613,8 +1613,8 @@
       ],
       "choices": [
         "catiole",
-        "capuche",
-        "sabot"
+        "capeline",
+        "cornette"
       ],
       "explanation": "Elle a beaucoup grandi au cours du XXe siècle, pour atteindre une trentaine de centimètres, parfois jusqu'à quarante.",
       "wikipedia": "Coiffe bigoudène"
@@ -1660,8 +1660,8 @@
       ],
       "choices": [
         "Croquemitaine",
-        "Krampus",
-        "Père Lustucru"
+        "Père Lustucru",
+        "Barbe-Bleue"
       ],
       "explanation": "Une légende fait de lui le boucher qui avait tué trois enfants, ressuscités par le saint, et condamné à le suivre pour toujours.",
       "wikipedia": "Compagnons de saint Nicolas"
