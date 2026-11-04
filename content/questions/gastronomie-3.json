@@ -1,0 +1,1784 @@
+{
+  "category": "gastronomie",
+  "questions": [
+    {
+      "id": "gastronomie-181",
+      "difficulty": 1,
+      "question": "Quel fromage à pâte pressée cuite est réputé pour ses grands trous, que les fromagers appellent des « yeux » ?",
+      "answer": "emmental",
+      "accept": [
+        "emmenthal"
+      ],
+      "choices": [
+        "comté",
+        "beaufort",
+        "abondance"
+      ],
+      "explanation": "Ces trous se forment pendant l'affinage en cave chaude : des bactéries propioniques y dégagent du gaz carbonique qui reste piégé dans la pâte.",
+      "wikipedia": "Emmental"
+    },
+    {
+      "id": "gastronomie-182",
+      "difficulty": 1,
+      "question": "Quel fromage grec saumuré, traditionnellement au lait de brebis, entre dans la salade de tomates et d'olives des tavernes ?",
+      "answer": "feta",
+      "accept": [
+        "féta"
+      ],
+      "choices": [
+        "halloumi",
+        "ricotta",
+        "manouri"
+      ],
+      "explanation": "Son nom est protégé au niveau européen : seul un fromage fabriqué en Grèce, au lait de brebis éventuellement mêlé de chèvre, peut s'appeler ainsi.",
+      "wikipedia": "Feta"
+    },
+    {
+      "id": "gastronomie-183",
+      "difficulty": 2,
+      "question": "Quel fromage savoyard à pâte pressée cuite, au talon concave, Brillat-Savarin surnommait-il le « prince des gruyères » ?",
+      "answer": "beaufort",
+      "accept": [],
+      "choices": [
+        "abondance",
+        "tomme de Savoie",
+        "comté"
+      ],
+      "explanation": "Il est élaboré avec le lait de vaches de races tarine ou abondance, dans un système agropastoral fondé sur les alpages.",
+      "wikipedia": "Beaufort (fromage)"
+    },
+    {
+      "id": "gastronomie-184",
+      "difficulty": 2,
+      "question": "Quel fromage alsacien et vosgien à croûte lavée orangée se déguste souvent parsemé de graines de cumin ?",
+      "answer": "munster",
+      "accept": [
+        "munster-géromé"
+      ],
+      "choices": [
+        "maroilles",
+        "langres",
+        "époisses"
+      ],
+      "explanation": "Son nom vient de la ville de Munster, en Alsace, où des moines bénédictins le fabriquaient dès le Moyen Âge.",
+      "wikipedia": "Munster (fromage)"
+    },
+    {
+      "id": "gastronomie-185",
+      "difficulty": 2,
+      "question": "Quel fromage sphérique à pâte orange, surnommé « boule de Lille », est affiné jusqu'à devenir cassant ?",
+      "answer": "mimolette",
+      "accept": [],
+      "choices": [
+        "édam",
+        "cantal",
+        "maroilles"
+      ],
+      "explanation": "Sa croûte grêlée est l'œuvre de minuscules acariens, les cirons, volontairement laissés à l'œuvre pendant l'affinage.",
+      "wikipedia": "Mimolette"
+    },
+    {
+      "id": "gastronomie-186",
+      "difficulty": 3,
+      "question": "Quel fromage normand cerclé de bandelettes végétales est surnommé « le colonel » à cause de ces galons ?",
+      "answer": "livarot",
+      "accept": [],
+      "choices": [
+        "pont-l'évêque",
+        "neufchâtel",
+        "camembert"
+      ],
+      "explanation": "Ces trois à cinq bandelettes de massette, appelées laîches, maintenaient autrefois ce fromage à croûte lavée pendant l'affinage.",
+      "wikipedia": "Livarot (fromage)"
+    },
+    {
+      "id": "gastronomie-187",
+      "difficulty": 3,
+      "question": "Quel fromage bleu anglais ne peut être fabriqué que dans le Derbyshire, le Leicestershire ou le Nottinghamshire ?",
+      "answer": "stilton",
+      "accept": [],
+      "choices": [
+        "cheddar",
+        "wensleydale",
+        "cheshire"
+      ],
+      "explanation": "Paradoxe : il ne peut pas être produit dans le village de Stilton qui lui a donné son nom, situé hors de la zone d'appellation.",
+      "wikipedia": "Stilton (fromage)"
+    },
+    {
+      "id": "gastronomie-188",
+      "difficulty": 3,
+      "question": "Quel fromage auvergnat doit son nom au maréchal qui l'aurait introduit à la table de Louis XIV ?",
+      "answer": "saint-nectaire",
+      "accept": [],
+      "choices": [
+        "salers",
+        "cantal",
+        "fourme d'Ambert"
+      ],
+      "explanation": "Le maréchal Henri de La Ferté-Senneterre en aurait fait découvrir ce fromage au Roi-Soleil au XVIIe siècle.",
+      "wikipedia": "Saint-nectaire"
+    },
+    {
+      "id": "gastronomie-189",
+      "difficulty": 1,
+      "question": "Quel fromage néerlandais en forme de roue porte le nom de la ville de Hollande-Méridionale où il était commercialisé ?",
+      "answer": "gouda",
+      "accept": [],
+      "choices": [
+        "édam",
+        "leerdammer",
+        "maasdam"
+      ],
+      "explanation": "Il entrait dans la composition de La vache qui rit à ses origines ; le fermier au lait cru est vendu en France sous le nom de « Présent ».",
+      "wikipedia": "Gouda (fromage)"
+    },
+    {
+      "id": "gastronomie-190",
+      "difficulty": 2,
+      "question": "Quel fromage normand au lait de vache est souvent moulé en forme de cœur ?",
+      "answer": "neufchâtel",
+      "accept": [],
+      "choices": [
+        "livarot",
+        "pont-l'évêque",
+        "brillat-savarin"
+      ],
+      "explanation": "La légende veut que les jeunes filles du pays de Bray l'offraient ainsi aux soldats anglais pendant la guerre de Cent Ans.",
+      "wikipedia": "Neufchâtel (fromage)"
+    },
+    {
+      "id": "gastronomie-191",
+      "difficulty": 1,
+      "question": "Quel fromage à pâte molle et croûte fleurie, fabriqué en Seine-et-Marne, fut sacré « roi des fromages » au congrès de Vienne ?",
+      "answer": "brie de Meaux",
+      "accept": [
+        "brie"
+      ],
+      "choices": [
+        "coulommiers",
+        "chaource",
+        "camembert"
+      ],
+      "explanation": "Talleyrand l'aurait fait couronner lors d'un concours de fromages organisé en marge du congrès de Vienne en 1815.",
+      "wikipedia": "Brie de Meaux"
+    },
+    {
+      "id": "gastronomie-192",
+      "difficulty": 1,
+      "question": "Quel moine bénédictin de l'abbaye d'Hautvillers est associé, par la légende, à l'invention du champagne ?",
+      "answer": "Dom Pérignon",
+      "accept": [
+        "Pierre Pérignon"
+      ],
+      "choices": [
+        "Dom Ruinart",
+        "Dom Grossard",
+        "Dom Oudart"
+      ],
+      "explanation": "Cellérier de l'abbaye, il a surtout perfectionné l'assemblage des raisins ; une cuvée prestigieuse de Moët & Chandon porte aujourd'hui son nom.",
+      "wikipedia": "Dom Pérignon"
+    },
+    {
+      "id": "gastronomie-193",
+      "difficulty": 2,
+      "question": "Quel cépage blanc est le seul autorisé pour élaborer les vins de Chablis ?",
+      "answer": "chardonnay",
+      "accept": [],
+      "choices": [
+        "sauvignon",
+        "aligoté",
+        "chenin"
+      ],
+      "explanation": "Les meilleurs crus poussent sur des sols kimméridgiens riches en fossiles de petites huîtres, qui donneraient aux vins leur minéralité.",
+      "wikipedia": "Chablis (AOC)"
+    },
+    {
+      "id": "gastronomie-194",
+      "difficulty": 3,
+      "question": "Quelle appellation jurassienne, perchée sur un éperon rocheux, ne produit que du vin jaune ?",
+      "answer": "château-chalon",
+      "accept": [],
+      "choices": [
+        "arbois",
+        "l'Étoile",
+        "côtes du Jura"
+      ],
+      "explanation": "Élevé sous un voile de levures qui lui donne son goût de noix, ce vin jaune peut se conserver cinquante, voire cent ans.",
+      "wikipedia": "Château-chalon (AOC)"
+    },
+    {
+      "id": "gastronomie-195",
+      "difficulty": 2,
+      "question": "Quelle appellation de la vallée du Rhône tire son nom de la résidence d'été bâtie pour Jean XXII ?",
+      "answer": "châteauneuf-du-pape",
+      "accept": [],
+      "choices": [
+        "gigondas",
+        "tavel",
+        "vacqueyras"
+      ],
+      "explanation": "Ses bouteilles portent souvent en relief la tiare pontificale et les clés de saint Pierre, symboles de la papauté avignonnaise du XIVe siècle.",
+      "wikipedia": "Châteauneuf-du-pape (AOC)"
+    },
+    {
+      "id": "gastronomie-196",
+      "difficulty": 3,
+      "question": "Quel cépage rouge, base des vins de Cahors, est devenu l'emblème viticole de l'Argentine ?",
+      "answer": "malbec",
+      "accept": [
+        "côt",
+        "cot"
+      ],
+      "choices": [
+        "tannat",
+        "carménère",
+        "merlot"
+      ],
+      "explanation": "À Cahors, il donne des vins si sombres qu'on les surnommait « vins noirs » ; il a gagné l'Amérique du Sud au XIXe siècle.",
+      "wikipedia": "Malbec"
+    },
+    {
+      "id": "gastronomie-197",
+      "difficulty": 2,
+      "question": "Quel vin muté andalou, élevé sous un voile de levure appelé « flor », porte le nom francisé de sa ville ?",
+      "answer": "xérès",
+      "accept": [
+        "jerez",
+        "sherry"
+      ],
+      "choices": [
+        "porto",
+        "madère",
+        "marsala"
+      ],
+      "explanation": "Les Anglais, grands amateurs, en ont déformé le nom en « sherry » ; il est élevé selon le système de la solera.",
+      "wikipedia": "Xérès (vin)"
+    },
+    {
+      "id": "gastronomie-198",
+      "difficulty": 1,
+      "question": "Quel vin muté portugais est élevé dans la vallée du Douro puis expédié depuis la ville qui lui donne son nom ?",
+      "answer": "porto",
+      "accept": [],
+      "choices": [
+        "madère",
+        "xérès",
+        "muscat"
+      ],
+      "explanation": "Le mutage consiste à ajouter de l'eau-de-vie pendant la fermentation : celle-ci s'arrête et le vin garde une partie de son sucre.",
+      "wikipedia": "Porto (DOC)"
+    },
+    {
+      "id": "gastronomie-199",
+      "difficulty": 1,
+      "question": "Quel vin primeur est mis en vente chaque année le troisième jeudi de novembre ?",
+      "answer": "beaujolais nouveau",
+      "accept": [
+        "beaujolais"
+      ],
+      "choices": [
+        "gaillac primeur",
+        "muscadet",
+        "côtes-du-rhône"
+      ],
+      "explanation": "Environ la moitié du volume produit est exportée, jusqu'en Asie, notamment au Japon et en Corée du Sud.",
+      "wikipedia": "Beaujolais nouveau"
+    },
+    {
+      "id": "gastronomie-200",
+      "difficulty": 3,
+      "question": "Quel vin liquoreux hongrois Louis XIV aurait-il qualifié de « vin des rois, roi des vins » ?",
+      "answer": "tokay",
+      "accept": [
+        "tokaji"
+      ],
+      "choices": [
+        "sauternes",
+        "barsac",
+        "vin de paille"
+      ],
+      "explanation": "Il est élaboré à partir de raisins botrytisés appelés aszú ; sa douceur se mesurait traditionnellement en « puttonyos », des hottes de raisins.",
+      "wikipedia": "Tokay"
+    },
+    {
+      "id": "gastronomie-201",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la bouteille de champagne de quinze litres, qui porte le nom d'un roi de Babylone ?",
+      "answer": "nabuchodonosor",
+      "accept": [],
+      "choices": [
+        "balthazar",
+        "salmanazar",
+        "réhoboam"
+      ],
+      "explanation": "Les grands formats portent des noms de rois bibliques : jéroboam, mathusalem, salmanazar, balthazar, puis ce roi babylonien.",
+      "wikipedia": "Bouteille de vin"
+    },
+    {
+      "id": "gastronomie-202",
+      "difficulty": 1,
+      "question": "Quelle plante grimpante, cousine du chanvre, apporte son amertume et ses arômes à la bière ?",
+      "answer": "houblon",
+      "accept": [],
+      "choices": [
+        "orge",
+        "lupin",
+        "genièvre"
+      ],
+      "explanation": "Seules les fleurs femelles, appelées cônes, sont utilisées : elles contiennent une poudre jaune, la lupuline, riche en résines amères.",
+      "wikipedia": "Houblon"
+    },
+    {
+      "id": "gastronomie-203",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les bières brassées sous le contrôle de moines cisterciens, comme la Chimay ou l'Orval ?",
+      "answer": "trappiste",
+      "accept": [
+        "bière trappiste"
+      ],
+      "choices": [
+        "bière d'abbaye",
+        "lambic",
+        "saison"
+      ],
+      "explanation": "Un logo hexagonal garantit leur origine ; les bénéfices doivent servir à l'entretien de la communauté ou à des œuvres.",
+      "wikipedia": "Trappiste (bière)"
+    },
+    {
+      "id": "gastronomie-204",
+      "difficulty": 3,
+      "question": "Quelle bière belge de la vallée de la Senne est issue d'une fermentation spontanée, sans levure ajoutée ?",
+      "answer": "lambic",
+      "accept": [],
+      "choices": [
+        "saison",
+        "dubbel",
+        "witbier"
+      ],
+      "explanation": "Le moût refroidit à l'air libre et s'ensemence de levures sauvages ; l'assemblage de lambics jeunes et vieux donne la gueuze.",
+      "wikipedia": "Lambic"
+    },
+    {
+      "id": "gastronomie-205",
+      "difficulty": 1,
+      "question": "Quelle grande fête de la bière se tient chaque année à Munich, sur la Theresienwiese ?",
+      "answer": "Oktoberfest",
+      "accept": [
+        "fête de la bière de Munich"
+      ],
+      "choices": [
+        "Carnaval de Cologne",
+        "Kieler Woche",
+        "Cannstatter Wasen"
+      ],
+      "explanation": "Elle commémore le mariage du prince héritier Louis de Bavière en 1810 et commence en fait dès septembre.",
+      "wikipedia": "Oktoberfest"
+    },
+    {
+      "id": "gastronomie-206",
+      "difficulty": 3,
+      "question": "Quel décret bavarois de 1516 limitait les ingrédients de la bière à l'eau, à l'orge et au houblon ?",
+      "answer": "Reinheitsgebot",
+      "accept": [
+        "décret sur la pureté de la bière"
+      ],
+      "choices": [
+        "Bulle d'or",
+        "Sachsenspiegel",
+        "Diète de Worms"
+      ],
+      "explanation": "La levure n'y figure pas : son rôle dans la fermentation n'a été compris qu'au XIXe siècle, grâce notamment à Pasteur.",
+      "wikipedia": "Reinheitsgebot"
+    },
+    {
+      "id": "gastronomie-207",
+      "difficulty": 1,
+      "question": "Quelle boisson gazeuse a été inventée par le pharmacien John Pemberton à Atlanta à la fin du XIXe siècle ?",
+      "answer": "Coca-Cola",
+      "accept": [
+        "coca"
+      ],
+      "choices": [
+        "Pepsi-Cola",
+        "Dr Pepper",
+        "Seven Up"
+      ],
+      "explanation": "Elle était d'abord vendue comme un tonique dans les pharmacies ; sa recette contenait alors des extraits de feuille de coca et de noix de kola.",
+      "wikipedia": "Coca-Cola"
+    },
+    {
+      "id": "gastronomie-208",
+      "difficulty": 1,
+      "question": "Quel apéritif anisé, emblème de Marseille, a été lancé par Paul Ricard en 1932 ?",
+      "answer": "pastis",
+      "accept": [],
+      "choices": [
+        "ouzo",
+        "absinthe",
+        "anisette"
+      ],
+      "explanation": "Son nom vient du provençal « pastisson », mélange : il se trouble au contact de l'eau car l'anéthol précipite.",
+      "wikipedia": "Pastis"
+    },
+    {
+      "id": "gastronomie-209",
+      "difficulty": 2,
+      "question": "Quelle boisson alcoolisée surnommée la « fée verte » fut interdite en France en 1915 ?",
+      "answer": "absinthe",
+      "accept": [],
+      "choices": [
+        "chartreuse",
+        "pastis",
+        "génépi"
+      ],
+      "explanation": "Accusée de rendre fou, elle fut aussi prohibée en Suisse dès 1910 ; en France, le Sénat n'a voté l'abrogation de l'interdiction qu'en 2011.",
+      "wikipedia": "Absinthe (spiritueux)"
+    },
+    {
+      "id": "gastronomie-210",
+      "difficulty": 1,
+      "question": "Quel alcool mexicain est distillé à partir du cœur de l'agave bleu ?",
+      "answer": "tequila",
+      "accept": [],
+      "choices": [
+        "mezcal",
+        "pulque",
+        "pisco"
+      ],
+      "explanation": "Son nom vient de la ville de Tequila, dans l'État de Jalisco ; les paysages d'agave de la région sont inscrits à l'UNESCO.",
+      "wikipedia": "Tequila"
+    },
+    {
+      "id": "gastronomie-211",
+      "difficulty": 1,
+      "question": "Quelle eau-de-vie de pomme normande se boit traditionnellement au milieu du repas pour faire le « trou normand » ?",
+      "answer": "calvados",
+      "accept": [],
+      "choices": [
+        "cognac",
+        "armagnac",
+        "poiré"
+      ],
+      "explanation": "Elle est obtenue par distillation de cidre, puis vieillie au moins deux ans en fûts de chêne ; le pays d'Auge possède sa propre appellation.",
+      "wikipedia": "Calvados (eau-de-vie)"
+    },
+    {
+      "id": "gastronomie-212",
+      "difficulty": 2,
+      "question": "Quelle eau-de-vie de vin gasconne revendique le titre de plus ancienne eau-de-vie de France ?",
+      "answer": "armagnac",
+      "accept": [],
+      "choices": [
+        "cognac",
+        "calvados",
+        "fine de Bourgogne"
+      ],
+      "explanation": "Un texte de 1310 du prieur Vital Du Four lui prêtait déjà quarante vertus médicinales ; elle est souvent distillée une seule fois.",
+      "wikipedia": "Armagnac (eau-de-vie)"
+    },
+    {
+      "id": "gastronomie-213",
+      "difficulty": 2,
+      "question": "Quelle liqueur verte ou jaune, à base de plantes, est élaborée par des moines de l'Isère ?",
+      "answer": "chartreuse",
+      "accept": [],
+      "choices": [
+        "bénédictine",
+        "génépi",
+        "verveine du Velay"
+      ],
+      "explanation": "Sa recette, qui compterait plus d'une centaine de plantes, viendrait d'un manuscrit remis aux moines en 1605 ; seuls quelques chartreux la connaissent.",
+      "wikipedia": "Chartreuse (liqueur)"
+    },
+    {
+      "id": "gastronomie-214",
+      "difficulty": 2,
+      "question": "Quel thé noir parfumé à la bergamote porte le nom d'un Premier ministre britannique ?",
+      "answer": "Earl Grey",
+      "accept": [],
+      "choices": [
+        "Darjeeling",
+        "English Breakfast",
+        "Lapsang souchong"
+      ],
+      "explanation": "Charles Grey, Premier ministre dans les années 1830, aurait reçu cette recette en cadeau d'un diplomate revenu de Chine.",
+      "wikipedia": "Earl Grey"
+    },
+    {
+      "id": "gastronomie-215",
+      "difficulty": 2,
+      "question": "Quel thé vert japonais réduit en fine poudre est fouetté lors de la cérémonie du thé ?",
+      "answer": "matcha",
+      "accept": [],
+      "choices": [
+        "sencha",
+        "genmaicha",
+        "oolong"
+      ],
+      "explanation": "Les théiers sont ombragés plusieurs semaines avant la récolte, ce qui intensifie la couleur verte et la teneur en chlorophylle des feuilles.",
+      "wikipedia": "Matcha"
+    },
+    {
+      "id": "gastronomie-216",
+      "difficulty": 2,
+      "question": "Selon la légende, quels animaux firent découvrir le café au berger éthiopien Kaldi ?",
+      "answer": "chèvres",
+      "accept": [
+        "chèvre"
+      ],
+      "choices": [
+        "moutons",
+        "chameaux",
+        "ânes"
+      ],
+      "explanation": "Le berger les aurait vues gambader, très excitées, après avoir brouté les baies rouges d'un arbuste.",
+      "wikipedia": "Café"
+    },
+    {
+      "id": "gastronomie-217",
+      "difficulty": 1,
+      "question": "Quel cocktail cubain associe rhum blanc, menthe, citron vert, sucre et eau gazeuse ?",
+      "answer": "mojito",
+      "accept": [],
+      "choices": [
+        "daïquiri",
+        "piña colada",
+        "cuba libre"
+      ],
+      "explanation": "Hemingway aurait fréquenté pour lui la Bodeguita del Medio, un bar de La Havane qui en revendique la paternité.",
+      "wikipedia": "Mojito"
+    },
+    {
+      "id": "gastronomie-218",
+      "difficulty": 2,
+      "question": "Quelle infusion sud-africaine de couleur rougeâtre est tirée d'un arbuste poussant dans le fynbos ?",
+      "answer": "rooibos",
+      "accept": [],
+      "choices": [
+        "maté",
+        "hibiscus",
+        "honeybush"
+      ],
+      "explanation": "Son nom signifie « buisson rougeâtre » en afrikaans ; la plante pousse surtout dans les montagnes du Cederberg, au nord du Cap.",
+      "wikipedia": "Rooibos"
+    },
+    {
+      "id": "gastronomie-219",
+      "difficulty": 1,
+      "question": "Quelle espèce de caféier, la plus cultivée au monde, s'oppose au robusta par sa finesse aromatique ?",
+      "answer": "arabica",
+      "accept": [
+        "caféier d'Arabie"
+      ],
+      "choices": [
+        "liberica",
+        "excelsa",
+        "moka"
+      ],
+      "explanation": "Originaire des hauts plateaux d'Éthiopie, elle contient environ deux fois moins de caféine que le robusta.",
+      "wikipedia": "Coffea arabica"
+    },
+    {
+      "id": "gastronomie-220",
+      "difficulty": 2,
+      "question": "Quel petit mammifère d'Asie digère des cerises de café pour produire le kopi luwak ?",
+      "answer": "civette",
+      "accept": [
+        "civette palmiste"
+      ],
+      "choices": [
+        "mangouste",
+        "loris",
+        "pangolin"
+      ],
+      "explanation": "Les grains, récupérés dans ses excréments, subissent une fermentation dans son tube digestif qui adoucirait le goût du café.",
+      "wikipedia": "Kopi luwak"
+    },
+    {
+      "id": "gastronomie-221",
+      "difficulty": 1,
+      "question": "Quelle épice est la gousse d'une orchidée grimpante originaire du Mexique ?",
+      "answer": "vanille",
+      "accept": [],
+      "choices": [
+        "cardamome",
+        "badiane",
+        "tonka"
+      ],
+      "explanation": "Les Aztèques s'en servaient pour parfumer leur boisson au cacao ; c'est Cortés qui la rapporta en Europe.",
+      "wikipedia": "Vanille"
+    },
+    {
+      "id": "gastronomie-222",
+      "difficulty": 3,
+      "question": "Quel jeune esclave de l'île Bourbon a mis au point en 1841 la pollinisation manuelle de la vanille ?",
+      "answer": "Edmond Albius",
+      "accept": [
+        "Albius"
+      ],
+      "choices": [
+        "Pierre Poivre",
+        "Juliette Dodu",
+        "Sarda Garriga"
+      ],
+      "explanation": "Il n'avait que douze ans ; son procédé, simple et rapide, a révolutionné la culture de cette épice dans le monde entier.",
+      "wikipedia": "Edmond Albius"
+    },
+    {
+      "id": "gastronomie-223",
+      "difficulty": 2,
+      "question": "Quelle épice rouge, emblème de la cuisine hongroise, est obtenue en moulant des piments séchés ?",
+      "answer": "paprika",
+      "accept": [],
+      "choices": [
+        "piment de Cayenne",
+        "sumac",
+        "chili"
+      ],
+      "explanation": "Le Hongrois Albert Szent-Györgyi isola la vitamine C à partir de piments de Szeged, ce qui lui valut le prix Nobel.",
+      "wikipedia": "Paprika"
+    },
+    {
+      "id": "gastronomie-224",
+      "difficulty": 3,
+      "question": "Quel mélange d'épices maghrébin a un nom arabe signifiant littéralement « tête de l'épicerie » ?",
+      "answer": "ras el hanout",
+      "accept": [
+        "ras-el-hanout"
+      ],
+      "choices": [
+        "harissa",
+        "zaatar",
+        "baharat"
+      ],
+      "explanation": "Le nom se comprend comme « le meilleur de la boutique » : chaque marchand y réunit ses épices les plus fines.",
+      "wikipedia": "Ras el-hanout"
+    },
+    {
+      "id": "gastronomie-225",
+      "difficulty": 1,
+      "question": "Quel condiment japonais vert et piquant, tiré d'une racine, accompagne les sushis ?",
+      "answer": "wasabi",
+      "accept": [],
+      "choices": [
+        "gingembre",
+        "raifort",
+        "shiso"
+      ],
+      "explanation": "Cette plante appartient, comme la moutarde et le raifort, à la famille des Brassicacées ; on utilise sa tige sous forme de pâte.",
+      "wikipedia": "Wasabi"
+    },
+    {
+      "id": "gastronomie-226",
+      "difficulty": 3,
+      "question": "Quel intendant au nom prédestiné introduisit girofliers et muscadiers à l'île de France, l'actuelle Maurice ?",
+      "answer": "Pierre Poivre",
+      "accept": [
+        "Poivre"
+      ],
+      "choices": [
+        "Bertrand-François Mahé de La Bourdonnais",
+        "Philibert Commerson",
+        "Joseph Hubert"
+      ],
+      "explanation": "Il brisa ainsi le monopole hollandais sur les épices des Moluques ; il créa aussi le jardin de Pamplemousses, où il acclimata des plantes lointaines.",
+      "wikipedia": "Pierre Poivre"
+    },
+    {
+      "id": "gastronomie-227",
+      "difficulty": 1,
+      "question": "Quelle ville a donné son nom à une moutarde forte préparée avec des graines brunes et du verjus ?",
+      "answer": "Dijon",
+      "accept": [],
+      "choices": [
+        "Meaux",
+        "Orléans",
+        "Beaune"
+      ],
+      "explanation": "Contrairement à la moutarde de Bourgogne, protégée par une IGP, elle n'a pas d'appellation ; ses graines viennent à 80 % du Canada.",
+      "wikipedia": "Moutarde de Dijon"
+    },
+    {
+      "id": "gastronomie-228",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les fins cristaux de sel récoltés à la surface des marais salants par temps chaud et venteux ?",
+      "answer": "fleur de sel",
+      "accept": [],
+      "choices": [
+        "gros sel",
+        "sel gemme",
+        "salicorne"
+      ],
+      "explanation": "Les paludiers la cueillent délicatement avec une lousse ; elle ne représente qu'une petite part de la récolte, d'où son prix.",
+      "wikipedia": "Fleur de sel"
+    },
+    {
+      "id": "gastronomie-229",
+      "difficulty": 2,
+      "question": "Quelle échelle mesure la force piquante des piments selon leur teneur en capsaïcine ?",
+      "answer": "Scoville",
+      "accept": [
+        "échelle de Scoville"
+      ],
+      "choices": [
+        "Mohs",
+        "Brix",
+        "Beaufort"
+      ],
+      "explanation": "Le pharmacien américain Wilbur Scoville la créa en 1912 en diluant des extraits jusqu'à ce que des goûteurs ne sentent plus rien.",
+      "wikipedia": "Échelle de Scoville"
+    },
+    {
+      "id": "gastronomie-230",
+      "difficulty": 1,
+      "question": "Quel légume-fruit venu d'Amérique fut longtemps cultivé en Europe comme plante ornementale, sous le nom de « pomme d'amour » ?",
+      "answer": "tomate",
+      "accept": [],
+      "choices": [
+        "aubergine",
+        "poivron",
+        "pomme de terre"
+      ],
+      "explanation": "Elle appartient à la même famille que la belladone, ce qui la fit longtemps soupçonner d'être toxique.",
+      "wikipedia": "Tomate"
+    },
+    {
+      "id": "gastronomie-231",
+      "difficulty": 2,
+      "question": "Quel agrume, croisement de mandarinier et d'oranger, doit son nom à un religieux d'un orphelinat d'Algérie ?",
+      "answer": "clémentine",
+      "accept": [],
+      "choices": [
+        "tangerine",
+        "bergamote",
+        "pomelo"
+      ],
+      "explanation": "Le frère Clément, de son vrai nom Vital Rodier, dirigeait les pépinières de l'orphelinat de Misserghin, près d'Oran ; le botaniste Trabut baptisa le fruit.",
+      "wikipedia": "Clémentine"
+    },
+    {
+      "id": "gastronomie-232",
+      "difficulty": 2,
+      "question": "Quelle noix, prisée à l'apéritif, pousse suspendue sous un faux-fruit charnu de l'anacardier ?",
+      "answer": "noix de cajou",
+      "accept": [
+        "cajou",
+        "anacarde"
+      ],
+      "choices": [
+        "noix de macadamia",
+        "noix du Brésil",
+        "noix de pécan"
+      ],
+      "explanation": "Elle n'est jamais vendue avec sa coque, qui contient une huile caustique irritant la peau.",
+      "wikipedia": "Noix de cajou"
+    },
+    {
+      "id": "gastronomie-233",
+      "difficulty": 1,
+      "question": "De quel agrume la ville de Menton célèbre-t-elle chaque hiver une fête avec des chars décorés ?",
+      "answer": "citron",
+      "accept": [],
+      "choices": [
+        "orange",
+        "mandarine",
+        "pamplemousse"
+      ],
+      "explanation": "Les motifs géants sont réalisés avec des tonnes d'agrumes fixés un à un par des élastiques sur des structures métalliques.",
+      "wikipedia": "Fête du Citron"
+    },
+    {
+      "id": "gastronomie-234",
+      "difficulty": 1,
+      "question": "Quel légume, dont les petites pommes poussent le long d'une haute tige, porte le nom d'une capitale ?",
+      "answer": "chou de Bruxelles",
+      "accept": [],
+      "choices": [
+        "chou-fleur",
+        "brocoli",
+        "chou de Milan"
+      ],
+      "explanation": "Chaque pied porte des dizaines de petites pommes à l'aisselle des feuilles ; le Royaume-Uni, les Pays-Bas et la Belgique en sont les principaux producteurs.",
+      "wikipedia": "Chou de Bruxelles"
+    },
+    {
+      "id": "gastronomie-235",
+      "difficulty": 2,
+      "question": "Quel fruit d'Asie du Sud-Est, couvert d'épines, est interdit dans certains transports en raison de son odeur ?",
+      "answer": "durian",
+      "accept": [],
+      "choices": [
+        "jacquier",
+        "ramboutan",
+        "mangoustan"
+      ],
+      "explanation": "Son odeur nauséabonde le fait bannir de certains hôtels, métros et aéroports, malgré sa grande popularité locale.",
+      "wikipedia": "Durian"
+    },
+    {
+      "id": "gastronomie-236",
+      "difficulty": 1,
+      "question": "Quelle petite prune jaune et sucrée est la grande spécialité de la Lorraine ?",
+      "answer": "mirabelle",
+      "accept": [],
+      "choices": [
+        "reine-claude",
+        "quetsche",
+        "prune d'ente"
+      ],
+      "explanation": "La Lorraine fournit environ 80 % de la production mondiale ; la mirabelle de Lorraine y bénéficie d'une IGP et d'un Label rouge.",
+      "wikipedia": "Mirabelle"
+    },
+    {
+      "id": "gastronomie-237",
+      "difficulty": 1,
+      "question": "Quelle ville du Lot-et-Garonne a donné son nom à un célèbre pruneau ?",
+      "answer": "Agen",
+      "accept": [],
+      "choices": [
+        "Villeneuve-sur-Lot",
+        "Marmande",
+        "Nérac"
+      ],
+      "explanation": "Les fruits étaient expédiés depuis le port d'Agen sur la Garonne, d'où le nom, bien qu'ils poussent dans toute la vallée du Lot.",
+      "wikipedia": "Pruneau"
+    },
+    {
+      "id": "gastronomie-238",
+      "difficulty": 2,
+      "question": "Quelle pomme verte acidulée doit son nom à une grand-mère qui la découvrit en Australie au XIXe siècle ?",
+      "answer": "granny smith",
+      "accept": [],
+      "choices": [
+        "golden",
+        "reinette",
+        "pink lady"
+      ],
+      "explanation": "Maria Ann Smith la vit naître vers 1868 d'un « semis chanceux » dans sa propriété, près de Sydney.",
+      "wikipedia": "Granny Smith"
+    },
+    {
+      "id": "gastronomie-239",
+      "difficulty": 2,
+      "question": "Quelle légumineuse verte, cultivée sur les sols volcaniques de Haute-Loire, fut le premier légume sec à obtenir une AOC ?",
+      "answer": "lentille verte du Puy",
+      "accept": [
+        "lentille du Puy",
+        "lentille"
+      ],
+      "choices": [
+        "haricot tarbais",
+        "pois chiche",
+        "lingot du Nord"
+      ],
+      "explanation": "Elle a reçu son AOC de l'INAO en 1996 ; on la cultive autour du Puy-en-Velay, sur des sols d'origine volcanique.",
+      "wikipedia": "Lentille verte du Puy"
+    },
+    {
+      "id": "gastronomie-240",
+      "difficulty": 1,
+      "question": "Quel fruit, dont le nom vient du nahuatl, sert de base au guacamole ?",
+      "answer": "avocat",
+      "accept": [],
+      "choices": [
+        "citron vert",
+        "tomatillo",
+        "mangue"
+      ],
+      "explanation": "Le mot nahuatl « ahuacatl » est passé par l'espagnol « aguacate » avant d'être rapproché, en français, du nom de l'homme de loi.",
+      "wikipedia": "Avocat (fruit)"
+    },
+    {
+      "id": "gastronomie-241",
+      "difficulty": 3,
+      "question": "Quel officier au nom prédestiné rapporta du Chili un fraisier à l'origine des fraises cultivées actuelles ?",
+      "answer": "Amédée-François Frézier",
+      "accept": [
+        "Frézier"
+      ],
+      "choices": [
+        "Louis Antoine de Bougainville",
+        "Philibert Commerson",
+        "Joseph de Jussieu"
+      ],
+      "explanation": "Croisée avec le fraisier de Virginie, cette « Blanche du Chili » a donné le fraisier cultivé ; Plougastel en garde le souvenir.",
+      "wikipedia": "Amédée François Frézier"
+    },
+    {
+      "id": "gastronomie-242",
+      "difficulty": 2,
+      "question": "Quel arbre endémique du Maroc produit une huile précieuse, extraite traditionnellement par des coopératives de femmes ?",
+      "answer": "arganier",
+      "accept": [],
+      "choices": [
+        "olivier",
+        "karité",
+        "amandier"
+      ],
+      "explanation": "Les chèvres grimpent dans ses branches pour en manger les fruits ; l'arganeraie est une réserve de biosphère de l'UNESCO.",
+      "wikipedia": "Arganier"
+    },
+    {
+      "id": "gastronomie-243",
+      "difficulty": 2,
+      "question": "Sous quel nom espagnol signifiant « patte noire » désigne-t-on souvent en France le jambon ibérique ?",
+      "answer": "pata negra",
+      "accept": [],
+      "choices": [
+        "serrano",
+        "bellota",
+        "jabugo"
+      ],
+      "explanation": "Les meilleurs porcs ibériques sont engraissés en liberté dans la dehesa, où ils se nourrissent de glands de chêne.",
+      "wikipedia": "Jambon ibérique"
+    },
+    {
+      "id": "gastronomie-244",
+      "difficulty": 1,
+      "question": "De quel poisson provient le caviar traditionnel, issu notamment de la mer Caspienne ?",
+      "answer": "esturgeon",
+      "accept": [],
+      "choices": [
+        "saumon",
+        "lump",
+        "brochet"
+      ],
+      "explanation": "Le béluga, l'osciètre et le sévruga sont trois espèces dont les œufs donnent des caviars réputés ; l'élevage a remplacé la pêche sauvage.",
+      "wikipedia": "Caviar"
+    },
+    {
+      "id": "gastronomie-245",
+      "difficulty": 1,
+      "question": "Quel fruit du palmier est traditionnellement consommé pour rompre le jeûne pendant le ramadan ?",
+      "answer": "datte",
+      "accept": [],
+      "choices": [
+        "figue",
+        "abricot sec",
+        "olive"
+      ],
+      "explanation": "Le palmier dattier est cultivé dans les oasis depuis l'Antiquité ; la deglet nour, translucide et ambrée, est l'une des variétés les plus réputées.",
+      "wikipedia": "Datte"
+    },
+    {
+      "id": "gastronomie-246",
+      "difficulty": 3,
+      "question": "Quel chocolatier vaudois est principalement connu pour avoir inventé le chocolat au lait ?",
+      "answer": "Daniel Peter",
+      "accept": [
+        "Peter"
+      ],
+      "choices": [
+        "Rodolphe Lindt",
+        "Philippe Suchard",
+        "Jean Tobler"
+      ],
+      "explanation": "Son entreprise fusionna avec les maisons Kohler et Cailler en 1911, puis avec Nestlé en 1929 à Vevey.",
+      "wikipedia": "Daniel Peter"
+    },
+    {
+      "id": "gastronomie-247",
+      "difficulty": 2,
+      "question": "Quelle plante aux fruits crochus inspira l'invention du Velcro à l'ingénieur suisse George de Mestral ?",
+      "answer": "bardane",
+      "accept": [],
+      "choices": [
+        "gaillet",
+        "chardon",
+        "trèfle"
+      ],
+      "explanation": "Après une promenade, il observa au microscope les crochets qui s'étaient accrochés aux poils de son chien.",
+      "wikipedia": "Velcro"
+    },
+    {
+      "id": "gastronomie-248",
+      "difficulty": 1,
+      "question": "Quelle marque de boîtes alimentaires hermétiques s'est fait connaître par la vente en réunions à domicile ?",
+      "answer": "Tupperware",
+      "accept": [],
+      "choices": [
+        "Lock & Lock",
+        "Curver",
+        "Pyrex"
+      ],
+      "explanation": "Earl Tupper conçut un couvercle hermétique inspiré des pots de peinture ; ce sont les réunions à domicile qui en firent le succès.",
+      "wikipedia": "Tupperware"
+    },
+    {
+      "id": "gastronomie-249",
+      "difficulty": 3,
+      "question": "Quel ingénieur américain inventa le four à micro-ondes après qu'une barre chocolatée eut fondu dans sa poche ?",
+      "answer": "Percy Spencer",
+      "accept": [
+        "Spencer"
+      ],
+      "choices": [
+        "Willis Carrier",
+        "Earl Tupper",
+        "Charles Strite"
+      ],
+      "explanation": "Il travaillait sur des magnétrons de radar ; le premier four commercial mesurait près de deux mètres de haut.",
+      "wikipedia": "Four à micro-ondes"
+    },
+    {
+      "id": "gastronomie-250",
+      "difficulty": 1,
+      "question": "Quelle petite attache de bureau en fil d'acier replié porte le nom d'un cuivre à coulisse ?",
+      "answer": "trombone",
+      "accept": [],
+      "choices": [
+        "agrafe",
+        "punaise",
+        "pince"
+      ],
+      "explanation": "Le modèle à double boucle le plus répandu, dit Gem, est apparu en Angleterre à la fin du XIXe siècle.",
+      "wikipedia": "Trombone (papeterie)"
+    },
+    {
+      "id": "gastronomie-251",
+      "difficulty": 2,
+      "question": "Quel industriel italien a popularisé la cafetière octogonale en aluminium dite italienne ?",
+      "answer": "Alfonso Bialetti",
+      "accept": [
+        "Bialetti"
+      ],
+      "choices": [
+        "Achille Gaggia",
+        "Luigi Bezzera",
+        "Desiderio Pavoni"
+      ],
+      "explanation": "Brevetée en 1933, sa Moka Express fait monter l'eau chauffée sous pression à travers la mouture jusqu'au réservoir supérieur.",
+      "wikipedia": "Moka (cafetière)"
+    },
+    {
+      "id": "gastronomie-252",
+      "difficulty": 2,
+      "question": "Quel ingénieur britannique a créé l'aspirateur sans sac à séparation cyclonique ?",
+      "answer": "James Dyson",
+      "accept": [
+        "Dyson"
+      ],
+      "choices": [
+        "Hubert Cecil Booth",
+        "Clive Sinclair",
+        "William Hoover"
+      ],
+      "explanation": "Il aurait réalisé plus de cinq mille prototypes avant d'aboutir au modèle commercialisé d'abord au Japon.",
+      "wikipedia": "James Dyson"
+    },
+    {
+      "id": "gastronomie-253",
+      "difficulty": 2,
+      "question": "Quel couteau pliant savoyard à virole est frappé d'une « main couronnée » ?",
+      "answer": "Opinel",
+      "accept": [],
+      "choices": [
+        "Laguiole",
+        "Nontron",
+        "Douk-Douk"
+      ],
+      "explanation": "Joseph Opinel le créa à la fin du XIXe siècle ; classique du design, il a été exposé au MoMA de New York.",
+      "wikipedia": "Opinel"
+    },
+    {
+      "id": "gastronomie-254",
+      "difficulty": 2,
+      "question": "Quelle marque est devenue le nom commun de la bouteille isotherme inventée par James Dewar ?",
+      "answer": "Thermos",
+      "accept": [],
+      "choices": [
+        "Frigidaire",
+        "Tupperware",
+        "Pyrex"
+      ],
+      "explanation": "Ce récipient à double paroi est aussi appelé vase de Dewar ou vase d'Arsonval, du nom des savants qui l'ont mis au point.",
+      "wikipedia": "Bouteille isotherme"
+    },
+    {
+      "id": "gastronomie-255",
+      "difficulty": 1,
+      "question": "Quelle marque américaine est devenue en France un nom courant pour désigner le réfrigérateur ?",
+      "answer": "Frigidaire",
+      "accept": [],
+      "choices": [
+        "Thermos",
+        "Kelvinator",
+        "Whirlpool"
+      ],
+      "explanation": "La marque fut longtemps une filiale de General Motors ; le mot s'est abrégé en « frigo » dans le langage courant.",
+      "wikipedia": "Frigidaire"
+    },
+    {
+      "id": "gastronomie-256",
+      "difficulty": 1,
+      "question": "Quel objet du quotidien est familièrement appelé « pépin » ou « riflard » ?",
+      "answer": "parapluie",
+      "accept": [],
+      "choices": [
+        "chapeau",
+        "porte-monnaie",
+        "manteau"
+      ],
+      "explanation": "Le mot « riflard » vient d'un personnage de comédie de 1801 qui portait un énorme spécimen sur scène.",
+      "wikipedia": "Parapluie"
+    },
+    {
+      "id": "gastronomie-257",
+      "difficulty": 2,
+      "question": "Quel Lyonnais inventa le métier à tisser programmé par des cartes perforées ?",
+      "answer": "Joseph Marie Jacquard",
+      "accept": [
+        "Jacquard"
+      ],
+      "choices": [
+        "Barthélemy Thimonnier",
+        "Jacques de Vaucanson",
+        "Basile Bouchon"
+      ],
+      "explanation": "Ses cartes perforées ont inspiré Charles Babbage puis les premières machines de traitement de l'information.",
+      "wikipedia": "Joseph-Marie Jacquard"
+    },
+    {
+      "id": "gastronomie-258",
+      "difficulty": 2,
+      "question": "Quelle marque automobile française fabrique depuis le XIXe siècle des moulins à poivre ?",
+      "answer": "Peugeot",
+      "accept": [],
+      "choices": [
+        "Renault",
+        "Citroën",
+        "Panhard"
+      ],
+      "explanation": "Le lion de la marque désignait d'abord la solidité des lames de scie fabriquées par l'entreprise familiale dans le Doubs.",
+      "wikipedia": "Peugeot Saveurs"
+    },
+    {
+      "id": "gastronomie-259",
+      "difficulty": 2,
+      "question": "Quel appareil électroménager a été inventé par l'Américaine Josephine Cochrane ?",
+      "answer": "lave-vaisselle",
+      "accept": [],
+      "choices": [
+        "machine à laver",
+        "aspirateur",
+        "grille-pain"
+      ],
+      "explanation": "Les lave-vaisselle modernes descendent du modèle semi-automatique qu'elle imagina en 1886 à Shelbyville, dans l'Illinois.",
+      "wikipedia": "Lave-vaisselle"
+    },
+    {
+      "id": "gastronomie-260",
+      "difficulty": 2,
+      "question": "Quel ancien village, aujourd'hui quartier de Paris, a donné son nom à une solution désinfectante chlorée ?",
+      "answer": "Javel",
+      "accept": [],
+      "choices": [
+        "Grenelle",
+        "Vaugirard",
+        "Passy"
+      ],
+      "explanation": "Le chimiste Claude Louis Berthollet y mit au point le procédé à la fin du XVIIIe siècle, pour blanchir les toiles.",
+      "wikipedia": "Eau de Javel"
+    },
+    {
+      "id": "gastronomie-261",
+      "difficulty": 3,
+      "question": "Quel ingénieur surnommé le « père du froid » équipa le premier navire frigorifique transatlantique ?",
+      "answer": "Charles Tellier",
+      "accept": [
+        "Tellier"
+      ],
+      "choices": [
+        "Ferdinand Carré",
+        "Carl von Linde",
+        "Georges Claude"
+      ],
+      "explanation": "En 1876, son navire le Frigorifique rapporta de la viande d'Argentine en France après plusieurs mois de traversée.",
+      "wikipedia": "Charles Tellier"
+    },
+    {
+      "id": "gastronomie-262",
+      "difficulty": 1,
+      "question": "Quel ustensile, dont une version à levier est appelée « limonadier », sert à déboucher les bouteilles de vin ?",
+      "answer": "tire-bouchon",
+      "accept": [],
+      "choices": [
+        "décapsuleur",
+        "ouvre-boîte",
+        "entonnoir"
+      ],
+      "explanation": "Le modèle limonadier, avec sa petite lame et son décapsuleur, est aussi surnommé « couteau du sommelier ».",
+      "wikipedia": "Tire-bouchon"
+    },
+    {
+      "id": "gastronomie-263",
+      "difficulty": 3,
+      "question": "Quel inventeur français a breveté dans les années 1970 la carte à puce ?",
+      "answer": "Roland Moreno",
+      "accept": [
+        "Moreno"
+      ],
+      "choices": [
+        "Michel Ugon",
+        "François Gernelle",
+        "Louis Pouzin"
+      ],
+      "explanation": "Autodidacte, il imaginait aussi des machines farfelues, comme le « pianocktail » inspiré de Boris Vian.",
+      "wikipedia": "Roland Moreno"
+    },
+    {
+      "id": "gastronomie-264",
+      "difficulty": 2,
+      "question": "Quelle ville du Puy-de-Dôme est la capitale française de la coutellerie ?",
+      "answer": "Thiers",
+      "accept": [],
+      "choices": [
+        "Laguiole",
+        "Nogent",
+        "Langres"
+      ],
+      "explanation": "Ses couteliers travaillaient autrefois couchés sur le ventre au-dessus des meules, avec leur chien sur les jambes pour les réchauffer.",
+      "wikipedia": "Thiers"
+    },
+    {
+      "id": "gastronomie-265",
+      "difficulty": 3,
+      "question": "Quelle argile blanche, découverte près de Saint-Yrieix-la-Perche, permit l'essor de la porcelaine de Limoges ?",
+      "answer": "kaolin",
+      "accept": [],
+      "choices": [
+        "feldspath",
+        "bentonite",
+        "talc"
+      ],
+      "explanation": "Avant cette découverte au XVIIIe siècle, la porcelaine dure était un secret chinois que l'Europe peinait à reproduire.",
+      "wikipedia": "Porcelaine de Limoges"
+    },
+    {
+      "id": "gastronomie-266",
+      "difficulty": 1,
+      "question": "Sur quelle île de la lagune de Venise travaillent les célèbres maîtres verriers ?",
+      "answer": "Murano",
+      "accept": [],
+      "choices": [
+        "Burano",
+        "Torcello",
+        "Giudecca"
+      ],
+      "explanation": "Les verriers y furent regroupés au XIIIe siècle, officiellement pour éviter les incendies, mais aussi pour garder leurs secrets.",
+      "wikipedia": "Murano"
+    },
+    {
+      "id": "gastronomie-267",
+      "difficulty": 2,
+      "question": "Quelle ville de la Creuse est réputée pour ses tapisseries inscrites au patrimoine immatériel de l'UNESCO ?",
+      "answer": "Aubusson",
+      "accept": [],
+      "choices": [
+        "Felletin",
+        "Guéret",
+        "Beauvais"
+      ],
+      "explanation": "Les ateliers tissaient sur métiers horizontaux, en suivant un carton peint ; Jean Lurçat y fit renaître l'art au XXe siècle.",
+      "wikipedia": "Tapisserie d'Aubusson"
+    },
+    {
+      "id": "gastronomie-268",
+      "difficulty": 1,
+      "question": "Quelle ville des Alpes-Maritimes est surnommée la capitale mondiale du parfum ?",
+      "answer": "Grasse",
+      "accept": [],
+      "choices": [
+        "Vence",
+        "Antibes",
+        "Menton"
+      ],
+      "explanation": "Ses parfumeurs étaient d'abord des gantiers : ils parfumaient les gants en cuir pour en masquer l'odeur de tannage.",
+      "wikipedia": "Grasse"
+    },
+    {
+      "id": "gastronomie-269",
+      "difficulty": 1,
+      "question": "Quelle couturière a lancé la « petite robe noire » et le parfum N° 5 ?",
+      "answer": "Coco Chanel",
+      "accept": [
+        "Chanel",
+        "Gabrielle Chanel"
+      ],
+      "choices": [
+        "Jeanne Lanvin",
+        "Elsa Schiaparelli",
+        "Madeleine Vionnet"
+      ],
+      "explanation": "Son surnom viendrait d'une chanson qu'elle interprétait dans un café-concert de Moulins, « Qui qu'a vu Coco ».",
+      "wikipedia": "Coco Chanel"
+    },
+    {
+      "id": "gastronomie-270",
+      "difficulty": 2,
+      "question": "Quel couturier a lancé en 1947 la ligne « New Look », avec taille de guêpe et jupe ample ?",
+      "answer": "Christian Dior",
+      "accept": [
+        "Dior"
+      ],
+      "choices": [
+        "Jacques Fath",
+        "Pierre Balmain",
+        "Cristóbal Balenciaga"
+      ],
+      "explanation": "C'est la rédactrice en chef de Harper's Bazaar qui baptisa ainsi cette collection, en rupture avec les restrictions de la guerre.",
+      "wikipedia": "Christian Dior"
+    },
+    {
+      "id": "gastronomie-271",
+      "difficulty": 2,
+      "question": "Quel couturier a créé en 1966 le premier smoking pour femme ?",
+      "answer": "Yves Saint Laurent",
+      "accept": [
+        "Saint Laurent"
+      ],
+      "choices": [
+        "Pierre Cardin",
+        "Hubert de Givenchy",
+        "André Courrèges"
+      ],
+      "explanation": "Il lança aussi une ligne de prêt-à-porter de luxe, Saint Laurent rive gauche, qui servit d'exemple à de nombreux couturiers.",
+      "wikipedia": "Yves Saint Laurent"
+    },
+    {
+      "id": "gastronomie-272",
+      "difficulty": 1,
+      "question": "Quel maillot de bain deux pièces porte le nom d'un atoll du Pacifique où eurent lieu des essais nucléaires ?",
+      "answer": "bikini",
+      "accept": [],
+      "choices": [
+        "monokini",
+        "tankini",
+        "paréo"
+      ],
+      "explanation": "Louis Réard le présenta en 1946 à la piscine Molitor ; aucun mannequin n'acceptant de le porter, il fit appel à une danseuse nue.",
+      "wikipedia": "Bikini (maillot de bain)"
+    },
+    {
+      "id": "gastronomie-273",
+      "difficulty": 2,
+      "question": "Quel gilet tricoté boutonné doit son nom à un comte britannique de la guerre de Crimée ?",
+      "answer": "cardigan",
+      "accept": [],
+      "choices": [
+        "pull-over",
+        "twin-set",
+        "jersey"
+      ],
+      "explanation": "James Brudenell, septième comte, mena la désastreuse charge de la brigade légère à Balaklava en 1854.",
+      "wikipedia": "Cardigan (vêtement)"
+    },
+    {
+      "id": "gastronomie-274",
+      "difficulty": 3,
+      "question": "Quelle manche, cousue en biais jusqu'au col, doit son nom à un lord amputé d'un bras à Waterloo ?",
+      "answer": "raglan",
+      "accept": [],
+      "choices": [
+        "chauve-souris",
+        "kimono",
+        "ballon"
+      ],
+      "explanation": "FitzRoy Somerset, baron Raglan, commanda ensuite les troupes britanniques en Crimée ; cette coupe lui facilitait l'habillage.",
+      "wikipedia": "Manche raglan"
+    },
+    {
+      "id": "gastronomie-275",
+      "difficulty": 1,
+      "question": "Quel accessoire noué autour du cou doit son nom à des mercenaires venus des Balkans ?",
+      "answer": "cravate",
+      "accept": [],
+      "choices": [
+        "foulard",
+        "nœud papillon",
+        "lavallière"
+      ],
+      "explanation": "Les cavaliers croates au service de Louis XIII portaient un foulard noué qui fit fureur à la cour.",
+      "wikipedia": "Cravate"
+    },
+    {
+      "id": "gastronomie-276",
+      "difficulty": 1,
+      "question": "Quelle chaussure de toile à semelle de corde tressée est une spécialité du Pays basque ?",
+      "answer": "espadrille",
+      "accept": [],
+      "choices": [
+        "mocassin",
+        "sabot",
+        "babouche"
+      ],
+      "explanation": "Son nom dérive de l'ancien provençal « espart », la sparterie, issu du nom grec du sparte, une herbe que l'on tressait.",
+      "wikipedia": "Espadrille"
+    },
+    {
+      "id": "gastronomie-277",
+      "difficulty": 1,
+      "question": "Quel tricot rayé bleu et blanc était porté par les matelots de la Marine nationale ?",
+      "answer": "marinière",
+      "accept": [],
+      "choices": [
+        "vareuse",
+        "caban",
+        "polo"
+      ],
+      "explanation": "Selon la légende, ses vingt et une rayures rappellent les victoires de Napoléon ; Jean Paul Gaultier en a fait un emblème.",
+      "wikipedia": "Marinière (vêtement)"
+    },
+    {
+      "id": "gastronomie-278",
+      "difficulty": 1,
+      "question": "Quel manteau imperméable porte le nom anglais des tranchées de la Première Guerre mondiale ?",
+      "answer": "trench-coat",
+      "accept": [
+        "trench"
+      ],
+      "choices": [
+        "duffel-coat",
+        "caban",
+        "ciré"
+      ],
+      "explanation": "Thomas Burberry en dessina le premier modèle en 1914, en réponse à une commande de l'armée britannique pour ses officiers.",
+      "wikipedia": "Trench-coat"
+    },
+    {
+      "id": "gastronomie-279",
+      "difficulty": 2,
+      "question": "Quel chapeau de paille tressée, fabriqué en Équateur, porte le nom d'un autre pays ?",
+      "answer": "panama",
+      "accept": [],
+      "choices": [
+        "canotier",
+        "borsalino",
+        "sombrero"
+      ],
+      "explanation": "Theodore Roosevelt le porta en 1906 lors de sa visite des chantiers du canal, ce qui contribua à le populariser.",
+      "wikipedia": "Panama (chapeau)"
+    },
+    {
+      "id": "gastronomie-280",
+      "difficulty": 3,
+      "question": "Quel chapeau de feutre à bord souple tire son nom d'une pièce de Victorien Sardou jouée par Sarah Bernhardt ?",
+      "answer": "fedora",
+      "accept": [],
+      "choices": [
+        "trilby",
+        "borsalino",
+        "homburg"
+      ],
+      "explanation": "Sarah Bernhardt portait un tel chapeau dans le rôle de la princesse Fédora ; il fut d'abord un accessoire féminin.",
+      "wikipedia": "Fédora"
+    },
+    {
+      "id": "gastronomie-281",
+      "difficulty": 1,
+      "question": "Quel long vêtement drapé, fait d'une seule pièce de tissu, est porté par les femmes en Inde ?",
+      "answer": "sari",
+      "accept": [],
+      "choices": [
+        "sarong",
+        "kimono",
+        "boubou"
+      ],
+      "explanation": "Il mesure généralement plusieurs mètres et se porte avec un petit corsage appelé choli ; il existe des dizaines de façons de le draper.",
+      "wikipedia": "Sari (vêtement)"
+    },
+    {
+      "id": "gastronomie-282",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le tissu écossais à carreaux, dont chaque clan possède son motif ?",
+      "answer": "tartan",
+      "accept": [],
+      "choices": [
+        "madras",
+        "vichy",
+        "pied-de-poule"
+      ],
+      "explanation": "Après la défaite des jacobites, le port du costume des Highlands fut interdit par les Anglais à partir de 1747, pendant plusieurs décennies.",
+      "wikipedia": "Tartan"
+    },
+    {
+      "id": "gastronomie-283",
+      "difficulty": 3,
+      "question": "Quel industriel d'origine allemande a fondé la manufacture de toiles imprimées de Jouy-en-Josas ?",
+      "answer": "Christophe-Philippe Oberkampf",
+      "accept": [
+        "Oberkampf"
+      ],
+      "choices": [
+        "Guillaume-Philippe Benoist",
+        "Daniel Koechlin",
+        "Jean Ryhiner"
+      ],
+      "explanation": "Une rue du XIe arrondissement de Paris et la station de métro qui la dessert portent aujourd'hui son nom.",
+      "wikipedia": "Christophe-Philippe Oberkampf"
+    },
+    {
+      "id": "gastronomie-284",
+      "difficulty": 2,
+      "question": "Quel animal sauvage des Andes, cousin du lama, fournit la laine la plus fine du monde ?",
+      "answer": "vigogne",
+      "accept": [],
+      "choices": [
+        "alpaga",
+        "guanaco",
+        "chinchilla"
+      ],
+      "explanation": "On comptait environ 1,5 million de vigognes au temps des Incas ; chassée pour sa toison, l'espèce a ensuite failli disparaître.",
+      "wikipedia": "Vigogne"
+    },
+    {
+      "id": "gastronomie-285",
+      "difficulty": 2,
+      "question": "Quel malletier jurassien fonda en 1854 à Paris une maison de bagages de luxe ?",
+      "answer": "Louis Vuitton",
+      "accept": [
+        "Vuitton"
+      ],
+      "choices": [
+        "Thierry Hermès",
+        "Pierre Goyard",
+        "Guccio Gucci"
+      ],
+      "explanation": "Il quitta son village à pied à treize ans pour gagner Paris ; sa toile damier et son monogramme visaient à décourager les contrefaçons.",
+      "wikipedia": "Louis Vuitton (créateur)"
+    },
+    {
+      "id": "gastronomie-286",
+      "difficulty": 3,
+      "question": "Quelle créatrice de mode italienne, proche des surréalistes, a lancé le « rose shocking » ?",
+      "answer": "Elsa Schiaparelli",
+      "accept": [
+        "Schiaparelli"
+      ],
+      "choices": [
+        "Coco Chanel",
+        "Madeleine Vionnet",
+        "Nina Ricci"
+      ],
+      "explanation": "Elle collabora avec Salvador Dalí, notamment pour une robe du soir ornée d'un homard portée par Wallis Simpson.",
+      "wikipedia": "Elsa Schiaparelli"
+    },
+    {
+      "id": "gastronomie-287",
+      "difficulty": 3,
+      "question": "Quel couturier anglais, installé à Paris sous le Second Empire, est considéré comme le père de la haute couture ?",
+      "answer": "Charles Frederick Worth",
+      "accept": [
+        "Worth"
+      ],
+      "choices": [
+        "Paul Poiret",
+        "Jacques Doucet",
+        "John Redfern"
+      ],
+      "explanation": "Il présentait ses modèles sur un mannequin vivant, qu'il appelait le « sosie » ; l'impératrice Eugénie compta parmi ses clientes.",
+      "wikipedia": "Charles Frederick Worth"
+    },
+    {
+      "id": "gastronomie-288",
+      "difficulty": 1,
+      "question": "Quel couvre-chef de laine rond et plat est traditionnellement associé au Béarn et au Pays basque ?",
+      "answer": "béret",
+      "accept": [],
+      "choices": [
+        "bob",
+        "canotier",
+        "casquette"
+      ],
+      "explanation": "Il est fabriqué en tricotant un grand cercle qui est ensuite feutré et rétréci ; il a été adopté par plusieurs armées.",
+      "wikipedia": "Béret"
+    },
+    {
+      "id": "gastronomie-289",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la haute coiffe de dentelle portée dans le pays de Pont-l'Abbé ?",
+      "answer": "bigoudène",
+      "accept": [
+        "coiffe bigoudène"
+      ],
+      "choices": [
+        "catiole",
+        "capuche",
+        "sabot"
+      ],
+      "explanation": "Elle a beaucoup grandi au cours du XXe siècle, pour atteindre une trentaine de centimètres, parfois jusqu'à quarante.",
+      "wikipedia": "Coiffe bigoudène"
+    },
+    {
+      "id": "gastronomie-290",
+      "difficulty": 1,
+      "question": "Quelle farce consiste à accrocher discrètement un dessin de poisson dans le dos de quelqu'un le 1er avril ?",
+      "answer": "poisson d'avril",
+      "accept": [],
+      "choices": [
+        "canular de mai",
+        "farce de Carnaval",
+        "attrape-nigaud"
+      ],
+      "explanation": "Une explication populaire la rattache au passage du début de l'année au 1er janvier, décidé par l'édit de Roussillon sous Charles IX.",
+      "wikipedia": "Poisson d'avril"
+    },
+    {
+      "id": "gastronomie-291",
+      "difficulty": 3,
+      "question": "Dans quelle ville alsacienne un édit municipal de 1521 autorisait-il les habitants à couper de petits sapins pour Noël ?",
+      "answer": "Sélestat",
+      "accept": [],
+      "choices": [
+        "Colmar",
+        "Strasbourg",
+        "Riquewihr"
+      ],
+      "explanation": "C'est l'un des plus anciens indices de la tradition ; un témoignage de 1531 évoque déjà des conifères vendus sur les marchés aux particuliers.",
+      "wikipedia": "Sapin de Noël"
+    },
+    {
+      "id": "gastronomie-292",
+      "difficulty": 1,
+      "question": "Quel évêque de Myre apporte des friandises aux enfants sages de l'Est de la France chaque 6 décembre ?",
+      "answer": "saint Nicolas",
+      "accept": [
+        "Nicolas",
+        "Nicolas de Myre"
+      ],
+      "choices": [
+        "saint Martin",
+        "saint Éloi",
+        "saint Hubert"
+      ],
+      "explanation": "Il est le saint patron de la Lorraine ; son équivalent néerlandais, Sinterklaas, a donné naissance au Santa Claus américain.",
+      "wikipedia": "Nicolas de Myre"
+    },
+    {
+      "id": "gastronomie-293",
+      "difficulty": 2,
+      "question": "Quel personnage vêtu de noir, muni d'un martinet, accompagne saint Nicolas pour punir les enfants désobéissants ?",
+      "answer": "Père Fouettard",
+      "accept": [
+        "Fouettard"
+      ],
+      "choices": [
+        "Croquemitaine",
+        "Krampus",
+        "Père Lustucru"
+      ],
+      "explanation": "Une légende fait de lui le boucher qui avait tué trois enfants, ressuscités par le saint, et condamné à le suivre pour toujours.",
+      "wikipedia": "Compagnons de saint Nicolas"
+    },
+    {
+      "id": "gastronomie-294",
+      "difficulty": 2,
+      "question": "Quelle vieille femme sur un balai apporte des cadeaux aux enfants italiens dans la nuit de l'Épiphanie ?",
+      "answer": "Befana",
+      "accept": [
+        "la Befana"
+      ],
+      "choices": [
+        "Baba Yaga",
+        "Perchta",
+        "Strega Nona"
+      ],
+      "explanation": "Les enfants méchants ne reçoivent d'elle que du charbon, aujourd'hui souvent remplacé par du sucre noir en confiserie.",
+      "wikipedia": "Befana"
+    },
+    {
+      "id": "gastronomie-295",
+      "difficulty": 1,
+      "question": "Quel métal précieux symbolise un anniversaire de cinquante ans de mariage ?",
+      "answer": "or",
+      "accept": [],
+      "choices": [
+        "argent",
+        "platine",
+        "vermeil"
+      ],
+      "explanation": "Chaque année de mariage a son matériau : coton pour la première, porcelaine pour vingt ans, diamant pour soixante.",
+      "wikipedia": "Anniversaire de mariage"
+    },
+    {
+      "id": "gastronomie-296",
+      "difficulty": 2,
+      "question": "Selon la tradition alsacienne et allemande, quel animal cache les œufs de Pâques dans les jardins ?",
+      "answer": "lièvre",
+      "accept": [
+        "lapin"
+      ],
+      "choices": [
+        "poule",
+        "agneau",
+        "écureuil"
+      ],
+      "explanation": "En France, ce sont plutôt les cloches revenues de Rome qui les déposent, après s'être tues du Jeudi saint au dimanche de Pâques.",
+      "wikipedia": "Lapin de Pâques"
+    },
+    {
+      "id": "gastronomie-297",
+      "difficulty": 1,
+      "question": "Quelle ville illumine ses fenêtres de lumignons chaque 8 décembre en hommage à la Vierge Marie ?",
+      "answer": "Lyon",
+      "accept": [],
+      "choices": [
+        "Marseille",
+        "Lourdes",
+        "Strasbourg"
+      ],
+      "explanation": "La tradition remonte à 1852, quand les habitants illuminèrent spontanément leurs fenêtres pour l'inauguration d'une statue de la Vierge à Fourvière.",
+      "wikipedia": "Fête des Lumières"
+    },
+    {
+      "id": "gastronomie-298",
+      "difficulty": 1,
+      "question": "Quel saint, martyr romain, est associé à la fête des amoureux du 14 février ?",
+      "answer": "Valentin",
+      "accept": [
+        "saint Valentin"
+      ],
+      "choices": [
+        "Sébastien",
+        "Blaise",
+        "Antoine"
+      ],
+      "explanation": "Le lien avec l'amour remonte au Moyen Âge : on croyait que les oiseaux s'accouplaient à la mi-février, comme le note Chaucer.",
+      "wikipedia": "Saint-Valentin"
+    },
+    {
+      "id": "gastronomie-299",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les petites figurines d'argile qui peuplent la crèche provençale ?",
+      "answer": "santons",
+      "accept": [
+        "santon"
+      ],
+      "choices": [
+        "automates",
+        "statuettes",
+        "poupons"
+      ],
+      "explanation": "Leur nom vient du provençal « santoun », petit saint ; on y trouve le meunier, le ravi ou le tambourinaire autour de la Nativité.",
+      "wikipedia": "Santon de Provence"
+    },
+    {
+      "id": "gastronomie-300",
+      "difficulty": 2,
+      "question": "Quel légume les Irlandais creusaient-ils pour fabriquer des lanternes d'Halloween avant d'adopter la citrouille ?",
+      "answer": "navet",
+      "accept": [
+        "betterave",
+        "rutabaga"
+      ],
+      "choices": [
+        "poireau",
+        "radis",
+        "panais"
+      ],
+      "explanation": "Selon la légende, Jack, refusé au paradis comme en enfer, erre avec un charbon ardent placé dans ce légume creusé.",
+      "wikipedia": "Halloween"
+    }
+  ]
+}

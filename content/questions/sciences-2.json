@@ -4,48 +4,6 @@
     {
       "id": "sciences-111",
       "difficulty": 1,
-      "question": "Quelle unité du Système international mesure une force, en hommage au savant de la gravitation universelle ?",
-      "answer": "newton",
-      "accept": [],
-      "choices": [
-        "joule",
-        "pascal",
-        "watt"
-      ],
-      "explanation": "Un newton correspond à peu près au poids d'une petite pomme de cent grammes, clin d'œil involontaire à la légende de son parrain.",
-      "wikipedia": "Newton (unité)"
-    },
-    {
-      "id": "sciences-112",
-      "difficulty": 1,
-      "question": "Quelle unité du Système international mesure l'énergie, du nom d'un physicien anglais fils de brasseur ?",
-      "answer": "joule",
-      "accept": [],
-      "choices": [
-        "watt",
-        "newton",
-        "volt"
-      ],
-      "explanation": "James Prescott Joule montra que le travail mécanique peut se convertir en chaleur ; le kilowattheure des factures d'électricité en vaut 3,6 millions.",
-      "wikipedia": "Joule"
-    },
-    {
-      "id": "sciences-113",
-      "difficulty": 1,
-      "question": "Quelle unité mesure l'intensité du courant électrique, en hommage à un physicien lyonnais ?",
-      "answer": "ampère",
-      "accept": [],
-      "choices": [
-        "volt",
-        "ohm",
-        "watt"
-      ],
-      "explanation": "André-Marie Ampère fonda l'électrodynamique dans les années 1820 ; c'est l'une des sept unités de base du Système international.",
-      "wikipedia": "Ampère"
-    },
-    {
-      "id": "sciences-114",
-      "difficulty": 1,
       "question": "Quelle unité mesure la tension électrique, comme les 230 indiqués sur les prises françaises ?",
       "answer": "volt",
       "accept": [],
@@ -58,35 +16,7 @@
       "wikipedia": "Volt"
     },
     {
-      "id": "sciences-115",
-      "difficulty": 2,
-      "question": "Quelle unité de pression du Système international porte le nom de l'auteur des Pensées ?",
-      "answer": "pascal",
-      "accept": [],
-      "choices": [
-        "bar",
-        "newton",
-        "atmosphère"
-      ],
-      "explanation": "Un pascal est une pression minuscule : la pression atmosphérique au niveau de la mer vaut environ 101 325 de ces unités, d'où l'usage courant de l'hectopascal en météorologie.",
-      "wikipedia": "Pascal (unité)"
-    },
-    {
-      "id": "sciences-116",
-      "difficulty": 2,
-      "question": "Quelle unité de base du Système international mesure la température thermodynamique, sans le mot degré ?",
-      "answer": "kelvin",
-      "accept": [],
-      "choices": [
-        "celsius",
-        "rankine",
-        "fahrenheit"
-      ],
-      "explanation": "Elle honore William Thomson, devenu lord Kelvin ; son zéro correspond au zéro absolu, et un écart d'une unité équivaut à un degré Celsius.",
-      "wikipedia": "Kelvin"
-    },
-    {
-      "id": "sciences-117",
+      "id": "sciences-112",
       "difficulty": 3,
       "question": "Quelle unité du Système international mesure la capacité électrique d'un condensateur ?",
       "answer": "farad",
@@ -100,7 +30,7 @@
       "wikipedia": "Farad"
     },
     {
-      "id": "sciences-118",
+      "id": "sciences-113",
       "difficulty": 1,
       "question": "Quel phénomène optique naît de la décomposition de la lumière du Soleil par des gouttes de pluie ?",
       "answer": "arc-en-ciel",
@@ -116,7 +46,7 @@
       "wikipedia": "Arc-en-ciel"
     },
     {
-      "id": "sciences-119",
+      "id": "sciences-114",
       "difficulty": 1,
       "question": "Comment appelle-t-on le passage d'un corps de l'état liquide à l'état solide ?",
       "answer": "solidification",
@@ -130,23 +60,7 @@
       "wikipedia": "Solidification"
     },
     {
-      "id": "sciences-120",
-      "difficulty": 2,
-      "question": "Quel astronome suédois a donné son nom à l'échelle de température où l'eau gèle à zéro degré ?",
-      "answer": "Anders Celsius",
-      "accept": [
-        "Celsius"
-      ],
-      "choices": [
-        "Daniel Fahrenheit",
-        "René de Réaumur",
-        "Anders Ångström"
-      ],
-      "explanation": "Dans sa version originale de 1742, l'échelle était inversée : 0 marquait l'ébullition de l'eau et 100 sa congélation.",
-      "wikipedia": "Anders Celsius"
-    },
-    {
-      "id": "sciences-121",
+      "id": "sciences-115",
       "difficulty": 2,
       "question": "Quel physicien allemand a énoncé en 1927 le principe d'incertitude de la mécanique quantique ?",
       "answer": "Werner Heisenberg",
@@ -162,7 +76,7 @@
       "wikipedia": "Werner Heisenberg"
     },
     {
-      "id": "sciences-122",
+      "id": "sciences-116",
       "difficulty": 2,
       "question": "Quel physicien autrichien a imaginé un chat enfermé dans une boîte, à la fois mort et vivant ?",
       "answer": "Erwin Schrödinger",
@@ -179,7 +93,7 @@
       "wikipedia": "Erwin Schrödinger"
     },
     {
-      "id": "sciences-123",
+      "id": "sciences-117",
       "difficulty": 2,
       "question": "Quel physicien allemand est considéré comme le père de la théorie des quanta, avec sa constante notée h ?",
       "answer": "Max Planck",
@@ -195,7 +109,7 @@
       "wikipedia": "Max Planck"
     },
     {
-      "id": "sciences-124",
+      "id": "sciences-118",
       "difficulty": 3,
       "question": "Quel physicien autrichien a énoncé le principe d'exclusion, selon lequel deux électrons ne partagent jamais le même état quantique ?",
       "answer": "Wolfgang Pauli",
@@ -211,7 +125,7 @@
       "wikipedia": "Wolfgang Pauli"
     },
     {
-      "id": "sciences-125",
+      "id": "sciences-119",
       "difficulty": 2,
       "question": "Quel physicien français, prix Nobel 1929, a proposé que toute particule matérielle possède une onde associée ?",
       "answer": "Louis de Broglie",
@@ -227,7 +141,7 @@
       "wikipedia": "Louis de Broglie"
     },
     {
-      "id": "sciences-126",
+      "id": "sciences-120",
       "difficulty": 2,
       "question": "Quelle particule élémentaire, prédite en 1964 et observée au CERN en 2012, donne leur masse aux autres particules ?",
       "answer": "boson de Higgs",
@@ -243,7 +157,7 @@
       "wikipedia": "Boson de Higgs"
     },
     {
-      "id": "sciences-127",
+      "id": "sciences-121",
       "difficulty": 1,
       "question": "Quel sigle désigne l'accélérateur de particules circulaire de 27 kilomètres enfoui sous la frontière franco-suisse ?",
       "answer": "LHC",
@@ -259,7 +173,7 @@
       "wikipedia": "Grand collisionneur de hadrons"
     },
     {
-      "id": "sciences-128",
+      "id": "sciences-122",
       "difficulty": 1,
       "question": "Comment appelle-t-on la particule élémentaire de la lumière, dépourvue de masse ?",
       "answer": "photon",
@@ -273,7 +187,7 @@
       "wikipedia": "Photon"
     },
     {
-      "id": "sciences-129",
+      "id": "sciences-123",
       "difficulty": 1,
       "question": "Quelle particule du noyau atomique, de charge positive, détermine par son nombre l'identité d'un élément chimique ?",
       "answer": "proton",
@@ -287,7 +201,7 @@
       "wikipedia": "Proton"
     },
     {
-      "id": "sciences-130",
+      "id": "sciences-124",
       "difficulty": 2,
       "question": "Quelles particules élémentaires composent les protons et les neutrons, nommées d'après un roman de James Joyce ?",
       "answer": "quarks",
@@ -303,23 +217,7 @@
       "wikipedia": "Quark"
     },
     {
-      "id": "sciences-131",
-      "difficulty": 2,
-      "question": "Comment appelle-t-on la réaction nucléaire qui scinde un noyau lourd en deux, utilisée dans les centrales électriques ?",
-      "answer": "fission nucléaire",
-      "accept": [
-        "fission"
-      ],
-      "choices": [
-        "fusion nucléaire",
-        "radiolyse",
-        "désintégration alpha"
-      ],
-      "explanation": "Elle fut découverte fin 1938 par Otto Hahn et Fritz Strassmann, puis interprétée par Lise Meitner et Otto Frisch ; elle libère plusieurs neutrons capables d'entretenir une réaction en chaîne.",
-      "wikipedia": "Fission nucléaire"
-    },
-    {
-      "id": "sciences-132",
+      "id": "sciences-125",
       "difficulty": 2,
       "question": "Quelle réaction nucléaire, qui réunit des noyaux légers, est la source d'énergie du Soleil ?",
       "answer": "fusion nucléaire",
@@ -331,11 +229,11 @@
         "combustion",
         "radioactivité"
       ],
-      "explanation": "Dans le cœur du Soleil, l'hydrogène se transforme en hélium ; le projet international ITER, à Cadarache, cherche à la maîtriser pour produire de l'électricité.",
+      "explanation": "En son cœur, le Soleil transforme chaque seconde des centaines de millions de tonnes d'hydrogène en hélium ; elle forge dans les étoiles presque tous les éléments chimiques.",
       "wikipedia": "Fusion nucléaire"
     },
     {
-      "id": "sciences-133",
+      "id": "sciences-126",
       "difficulty": 2,
       "question": "Quel physicien italien a dirigé la construction du premier réacteur nucléaire, à Chicago en 1942 ?",
       "answer": "Enrico Fermi",
@@ -351,7 +249,7 @@
       "wikipedia": "Enrico Fermi"
     },
     {
-      "id": "sciences-134",
+      "id": "sciences-127",
       "difficulty": 2,
       "question": "Quel physicien américain a dirigé le laboratoire de Los Alamos durant le projet Manhattan ?",
       "answer": "Robert Oppenheimer",
@@ -368,7 +266,7 @@
       "wikipedia": "Robert Oppenheimer"
     },
     {
-      "id": "sciences-135",
+      "id": "sciences-128",
       "difficulty": 1,
       "question": "Comment appelle-t-on la déviation de la lumière qui fait paraître brisée une paille plongée dans l'eau ?",
       "answer": "réfraction",
@@ -382,7 +280,7 @@
       "wikipedia": "Réfraction"
     },
     {
-      "id": "sciences-136",
+      "id": "sciences-129",
       "difficulty": 3,
       "question": "Quel physicien britannique, prix Nobel 1904, a donné son nom à la diffusion qui explique le bleu du ciel ?",
       "answer": "Rayleigh",
@@ -399,21 +297,7 @@
       "wikipedia": "Diffusion Rayleigh"
     },
     {
-      "id": "sciences-137",
-      "difficulty": 1,
-      "question": "Quelle unité logarithmique, notée dB, sert couramment à exprimer le niveau d'un son ?",
-      "answer": "décibel",
-      "accept": [],
-      "choices": [
-        "hertz",
-        "phon",
-        "sone"
-      ],
-      "explanation": "C'est le dixième du bel, nommé en hommage à Alexander Graham Bell ; une augmentation de 10 de ces unités correspond à une intensité sonore multipliée par dix.",
-      "wikipedia": "Décibel"
-    },
-    {
-      "id": "sciences-138",
+      "id": "sciences-130",
       "difficulty": 2,
       "question": "Comment appelle-t-on la barrière franchie par un avion qui dépasse la vitesse de propagation des ondes acoustiques ?",
       "answer": "mur du son",
@@ -427,7 +311,23 @@
       "wikipedia": "Mur du son"
     },
     {
-      "id": "sciences-139",
+      "id": "sciences-131",
+      "difficulty": 2,
+      "question": "De quel physicien autrichien porte le nom le rapport entre la vitesse d'un objet et celle du son ?",
+      "answer": "Ernst Mach",
+      "accept": [
+        "Mach"
+      ],
+      "choices": [
+        "Christian Doppler",
+        "Ludwig Boltzmann",
+        "Erwin Schrödinger"
+      ],
+      "explanation": "Un avion volant à 2 sur cette échelle va deux fois plus vite que le son ; le Concorde volait à environ Mach 2.",
+      "wikipedia": "Nombre de Mach"
+    },
+    {
+      "id": "sciences-132",
       "difficulty": 2,
       "question": "Comment appelle-t-on la propriété de certains matériaux refroidis qui conduisent le courant sans aucune résistance électrique ?",
       "answer": "supraconductivité",
@@ -443,56 +343,7 @@
       "wikipedia": "Supraconductivité"
     },
     {
-      "id": "sciences-140",
-      "difficulty": 3,
-      "question": "Quel savant néerlandais a inventé l'horloge à pendule et compris la véritable forme des anneaux de Saturne ?",
-      "answer": "Christian Huygens",
-      "accept": [
-        "Huygens",
-        "Christiaan Huygens"
-      ],
-      "choices": [
-        "Antoni van Leeuwenhoek",
-        "Willebrord Snell",
-        "Simon Stevin"
-      ],
-      "explanation": "Il défendit aussi une théorie ondulatoire de la lumière ; la sonde européenne qui s'est posée sur Titan en 2005 porte son nom.",
-      "wikipedia": "Christian Huygens"
-    },
-    {
-      "id": "sciences-141",
-      "difficulty": 2,
-      "question": "Quel physicien italien, élève de Galilée, a inventé en 1643 le baromètre à mercure ?",
-      "answer": "Evangelista Torricelli",
-      "accept": [
-        "Torricelli"
-      ],
-      "choices": [
-        "Alessandro Volta",
-        "Giovanni Cassini",
-        "Marcello Malpighi"
-      ],
-      "explanation": "Il remarqua que le niveau du mercure dans un tube retourné variait avec le temps ; une ancienne unité de pression, le torr, lui rend hommage.",
-      "wikipedia": "Evangelista Torricelli"
-    },
-    {
-      "id": "sciences-142",
-      "difficulty": 2,
-      "question": "Quel physicien français a donné son nom à la lentille à échelons qui équipe les phares maritimes ?",
-      "answer": "Augustin Fresnel",
-      "accept": [
-        "Fresnel"
-      ],
-      "choices": [
-        "Léon Foucault",
-        "Hippolyte Fizeau",
-        "François Arago"
-      ],
-      "explanation": "Sa lentille, plus mince et plus légère qu'une lentille classique, porta la lumière des phares bien plus loin dès les années 1820.",
-      "wikipedia": "Augustin Fresnel"
-    },
-    {
-      "id": "sciences-143",
+      "id": "sciences-133",
       "difficulty": 1,
       "question": "Quel adjectif, venu du grec signifiant mouvement, qualifie l'énergie que possède un corps du fait de sa vitesse ?",
       "answer": "cinétique",
@@ -506,7 +357,7 @@
       "wikipedia": "Énergie cinétique"
     },
     {
-      "id": "sciences-144",
+      "id": "sciences-134",
       "difficulty": 2,
       "question": "Quel physicien écossais a unifié électricité et magnétisme dans quatre équations célèbres ?",
       "answer": "James Clerk Maxwell",
@@ -522,7 +373,24 @@
       "wikipedia": "James Clerk Maxwell"
     },
     {
-      "id": "sciences-145",
+      "id": "sciences-135",
+      "difficulty": 3,
+      "question": "Quel physicien français a mesuré avec une balance de torsion la force entre deux charges électriques ?",
+      "answer": "Charles-Augustin Coulomb",
+      "accept": [
+        "Coulomb",
+        "Charles-Augustin de Coulomb"
+      ],
+      "choices": [
+        "André-Marie Ampère",
+        "Jean-Baptiste Biot",
+        "Siméon Denis Poisson"
+      ],
+      "explanation": "La loi qu'il publia en 1785 ressemble à celle de la gravitation : la force décroît avec le carré de la distance ; l'unité de charge électrique lui rend hommage.",
+      "wikipedia": "Charles-Augustin Coulomb"
+    },
+    {
+      "id": "sciences-136",
       "difficulty": 1,
       "question": "Quel sigle anglais désigne un appareil produisant un faisceau de lumière cohérente très concentré ?",
       "answer": "laser",
@@ -532,11 +400,11 @@
         "sonar",
         "maser"
       ],
-      "explanation": "Il signifie Light Amplification by Stimulated Emission of Radiation ; le premier fut construit par l'Américain Theodore Maiman en 1960.",
+      "explanation": "Il signifie Light Amplification by Stimulated Emission of Radiation ; il sert depuis 1974 à lire les codes-barres, puis les disques optiques.",
       "wikipedia": "Laser"
     },
     {
-      "id": "sciences-146",
+      "id": "sciences-137",
       "difficulty": 2,
       "question": "Quel effet, expliqué par Einstein en 1905, voit la lumière arracher des électrons à un métal ?",
       "answer": "effet photoélectrique",
@@ -552,23 +420,7 @@
       "wikipedia": "Effet photoélectrique"
     },
     {
-      "id": "sciences-147",
-      "difficulty": 2,
-      "question": "Quel physicien français a découvert la radioactivité en 1896 grâce à des sels d'uranium ?",
-      "answer": "Henri Becquerel",
-      "accept": [
-        "Becquerel"
-      ],
-      "choices": [
-        "Pierre Curie",
-        "Paul Villard",
-        "Jean Perrin"
-      ],
-      "explanation": "Il remarqua que ces sels impressionnaient une plaque photographique même sans lumière ; il partagea le prix Nobel 1903 avec Pierre et Marie Curie.",
-      "wikipedia": "Henri Becquerel"
-    },
-    {
-      "id": "sciences-148",
+      "id": "sciences-138",
       "difficulty": 3,
       "question": "Quel botaniste écossais a donné son nom à l'agitation désordonnée de particules en suspension dans un liquide ?",
       "answer": "Robert Brown",
@@ -584,7 +436,7 @@
       "wikipedia": "Mouvement brownien"
     },
     {
-      "id": "sciences-149",
+      "id": "sciences-139",
       "difficulty": 3,
       "question": "Quel savant britannique a démontré la nature ondulatoire de la lumière grâce à l'expérience des deux fentes ?",
       "answer": "Thomas Young",
@@ -600,7 +452,7 @@
       "wikipedia": "Thomas Young"
     },
     {
-      "id": "sciences-150",
+      "id": "sciences-140",
       "difficulty": 1,
       "question": "Quel métal, le seul liquide à température ambiante, remplissait autrefois les thermomètres médicaux ?",
       "answer": "mercure",
@@ -614,7 +466,7 @@
       "wikipedia": "Mercure (chimie)"
     },
     {
-      "id": "sciences-151",
+      "id": "sciences-141",
       "difficulty": 3,
       "question": "Quel savant anglais a énoncé la loi d'élasticité des ressorts et nommé les cellules vues au microscope ?",
       "answer": "Robert Hooke",
@@ -630,7 +482,7 @@
       "wikipedia": "Robert Hooke"
     },
     {
-      "id": "sciences-152",
+      "id": "sciences-142",
       "difficulty": 1,
       "question": "Quel métal a pour symbole chimique Fe dans la classification périodique ?",
       "answer": "fer",
@@ -644,7 +496,7 @@
       "wikipedia": "Fer"
     },
     {
-      "id": "sciences-153",
+      "id": "sciences-143",
       "difficulty": 1,
       "question": "Quel métal précieux a pour symbole chimique Ag, du latin argentum ?",
       "answer": "argent",
@@ -658,7 +510,7 @@
       "wikipedia": "Argent"
     },
     {
-      "id": "sciences-154",
+      "id": "sciences-144",
       "difficulty": 1,
       "question": "Quel métal rougeâtre, au symbole Cu, doit son nom latin à l'île de Chypre ?",
       "answer": "cuivre",
@@ -672,7 +524,21 @@
       "wikipedia": "Cuivre"
     },
     {
-      "id": "sciences-155",
+      "id": "sciences-145",
+      "difficulty": 2,
+      "question": "Quel métal a pour symbole chimique Sn, d'après son nom latin stannum ?",
+      "answer": "étain",
+      "accept": [],
+      "choices": [
+        "zinc",
+        "argent",
+        "plomb"
+      ],
+      "explanation": "Allié au cuivre, il donne le bronze ; en dessous de 13 °C environ, il peut se transformer lentement en poudre grise, la « peste de l'étain ».",
+      "wikipedia": "Étain"
+    },
+    {
+      "id": "sciences-146",
       "difficulty": 1,
       "question": "Quel élément chimique, le plus léger de tous, est aussi le plus abondant dans l'Univers ?",
       "answer": "hydrogène",
@@ -686,7 +552,7 @@
       "wikipedia": "Hydrogène"
     },
     {
-      "id": "sciences-156",
+      "id": "sciences-147",
       "difficulty": 2,
       "question": "Quel gaz noble produit la lueur rouge-orangé des enseignes lumineuses de magasins ?",
       "answer": "néon",
@@ -700,7 +566,7 @@
       "wikipedia": "Néon"
     },
     {
-      "id": "sciences-157",
+      "id": "sciences-148",
       "difficulty": 2,
       "question": "Quel élément chimique fut détecté dans le spectre du Soleil avant d'être trouvé sur Terre ?",
       "answer": "hélium",
@@ -714,7 +580,7 @@
       "wikipedia": "Hélium"
     },
     {
-      "id": "sciences-158",
+      "id": "sciences-149",
       "difficulty": 1,
       "question": "Quel élément chimique, au symbole C, est la base de toute la chimie organique et du vivant ?",
       "answer": "carbone",
@@ -724,11 +590,11 @@
         "calcium",
         "oxygène"
       ],
-      "explanation": "Il existe sous des formes très différentes : le graphite des mines de crayon, tendre et noir, et le diamant, transparent et extrêmement dur.",
+      "explanation": "Ses atomes peuvent s'enchaîner en longues chaînes et en cycles, ce qui explique l'immense variété des molécules organiques, des sucres aux protéines.",
       "wikipedia": "Carbone"
     },
     {
-      "id": "sciences-159",
+      "id": "sciences-150",
       "difficulty": 1,
       "question": "Quelle forme cristalline du carbone pur est le minéral naturel le plus dur ?",
       "answer": "diamant",
@@ -742,7 +608,7 @@
       "wikipedia": "Diamant"
     },
     {
-      "id": "sciences-160",
+      "id": "sciences-151",
       "difficulty": 3,
       "question": "Comment appelle-t-on la molécule de soixante atomes de carbone en forme de ballon de football ?",
       "answer": "fullerène",
@@ -758,7 +624,7 @@
       "wikipedia": "Fullerène"
     },
     {
-      "id": "sciences-161",
+      "id": "sciences-152",
       "difficulty": 2,
       "question": "Quel matériau, formé d'une seule couche d'atomes de carbone, a valu le prix Nobel de physique 2010 ?",
       "answer": "graphène",
@@ -772,7 +638,7 @@
       "wikipedia": "Graphène"
     },
     {
-      "id": "sciences-162",
+      "id": "sciences-153",
       "difficulty": 1,
       "question": "Quel sigle de deux lettres désigne l'échelle, de 0 à 14, qui mesure l'acidité d'une solution ?",
       "answer": "pH",
@@ -788,7 +654,7 @@
       "wikipedia": "Potentiel hydrogène"
     },
     {
-      "id": "sciences-163",
+      "id": "sciences-154",
       "difficulty": 1,
       "question": "Sous quel nom courant connaît-on le chlorure de sodium, de formule NaCl ?",
       "answer": "sel",
@@ -805,7 +671,7 @@
       "wikipedia": "Chlorure de sodium"
     },
     {
-      "id": "sciences-164",
+      "id": "sciences-155",
       "difficulty": 1,
       "question": "Comment appelle-t-on la réaction chimique qui transforme le fer en rouille au contact de l'air humide ?",
       "answer": "oxydation",
@@ -818,10 +684,10 @@
         "fermentation"
       ],
       "explanation": "La rouille, poreuse, n'adhère pas au métal et laisse l'attaque se poursuivre en profondeur, contrairement à la fine couche protectrice qui se forme sur l'aluminium.",
-      "wikipedia": "Rouille"
+      "wikipedia": "Corrosion"
     },
     {
-      "id": "sciences-165",
+      "id": "sciences-156",
       "difficulty": 1,
       "question": "Quel gaz inodore et toxique, produit par une combustion incomplète, provoque des intoxications domestiques ?",
       "answer": "monoxyde de carbone",
@@ -837,7 +703,23 @@
       "wikipedia": "Monoxyde de carbone"
     },
     {
-      "id": "sciences-166",
+      "id": "sciences-157",
+      "difficulty": 2,
+      "question": "Quel gaz, de formule H2S, dégage la fameuse odeur d'œuf pourri ?",
+      "answer": "sulfure d'hydrogène",
+      "accept": [
+        "hydrogène sulfuré"
+      ],
+      "choices": [
+        "ammoniac",
+        "méthane",
+        "dioxyde de soufre"
+      ],
+      "explanation": "Le nez le détecte à des doses infimes, mais à forte concentration il paralyse l'odorat, ce qui le rend particulièrement dangereux.",
+      "wikipedia": "Sulfure d'hydrogène"
+    },
+    {
+      "id": "sciences-158",
       "difficulty": 1,
       "question": "Quel élément chimique, au symbole Si, est le matériau de base des puces électroniques ?",
       "answer": "silicium",
@@ -851,9 +733,9 @@
       "wikipedia": "Silicium"
     },
     {
-      "id": "sciences-167",
+      "id": "sciences-159",
       "difficulty": 1,
-      "question": "Quel métal léger, au symbole Al, est principalement extrait de la bauxite ?",
+      "question": "Quel métal léger, au symbole Al, sert à fabriquer les canettes de boisson et le papier d'emballage brillant ?",
       "answer": "aluminium",
       "accept": [],
       "choices": [
@@ -861,11 +743,25 @@
         "titane",
         "zinc"
       ],
-      "explanation": "Le minerai doit son nom au village des Baux-de-Provence ; sous Napoléon III, ce métal encore très coûteux à produire servait à fabriquer des objets de prestige.",
+      "explanation": "Sous Napoléon III, ce métal encore très coûteux à produire servait à fabriquer des objets de prestige ; il est aujourd'hui l'un des plus recyclés.",
       "wikipedia": "Aluminium"
     },
     {
-      "id": "sciences-168",
+      "id": "sciences-160",
+      "difficulty": 2,
+      "question": "Quel métal léger et résistant, au symbole Ti, doit son nom à des géants de la mythologie grecque ?",
+      "answer": "titane",
+      "accept": [],
+      "choices": [
+        "tantale",
+        "vanadium",
+        "chrome"
+      ],
+      "explanation": "Il est très utilisé en aéronautique et pour les implants médicaux, car l'organisme le tolère remarquablement bien ; son oxyde blanchit peintures et dentifrices.",
+      "wikipedia": "Titane"
+    },
+    {
+      "id": "sciences-161",
       "difficulty": 2,
       "question": "Quel gaz noble radioactif s'échappe naturellement des sous-sols granitiques, comme en Bretagne ?",
       "answer": "radon",
@@ -879,7 +775,7 @@
       "wikipedia": "Radon"
     },
     {
-      "id": "sciences-169",
+      "id": "sciences-162",
       "difficulty": 2,
       "question": "Quel élément radioactif, découvert par les Curie en 1898, porte le nom de la patrie de Marie ?",
       "answer": "polonium",
@@ -893,7 +789,7 @@
       "wikipedia": "Polonium"
     },
     {
-      "id": "sciences-170",
+      "id": "sciences-163",
       "difficulty": 3,
       "question": "Quel village suédois a donné son nom à quatre éléments chimiques, dont l'yttrium et l'ytterbium ?",
       "answer": "Ytterby",
@@ -907,7 +803,7 @@
       "wikipedia": "Ytterby"
     },
     {
-      "id": "sciences-171",
+      "id": "sciences-164",
       "difficulty": 3,
       "question": "Quel métal, qui fond dans la main, a été nommé d'après le nom latin de la France ?",
       "answer": "gallium",
@@ -921,7 +817,7 @@
       "wikipedia": "Gallium"
     },
     {
-      "id": "sciences-172",
+      "id": "sciences-165",
       "difficulty": 3,
       "question": "Quel élément radioactif, découvert en 1939 par Marguerite Perey, porte le nom d'un pays ?",
       "answer": "francium",
@@ -935,21 +831,7 @@
       "wikipedia": "Francium"
     },
     {
-      "id": "sciences-173",
-      "difficulty": 1,
-      "question": "Quel élément chimique de symbole U, combustible des centrales nucléaires, porte le nom d'une planète ?",
-      "answer": "uranium",
-      "accept": [],
-      "choices": [
-        "plutonium",
-        "thorium",
-        "radium"
-      ],
-      "explanation": "Le chimiste allemand Martin Heinrich Klaproth le baptisa en 1789 d'après la planète Uranus, découverte quelques années plus tôt.",
-      "wikipedia": "Uranium"
-    },
-    {
-      "id": "sciences-174",
+      "id": "sciences-166",
       "difficulty": 2,
       "question": "Quel élément artificiel, utilisé dans la bombe de Nagasaki, porte le nom d'une planète naine ?",
       "answer": "plutonium",
@@ -963,7 +845,7 @@
       "wikipedia": "Plutonium"
     },
     {
-      "id": "sciences-175",
+      "id": "sciences-167",
       "difficulty": 1,
       "question": "Quel gaz jaune-vert, utilisé pour désinfecter l'eau des piscines, fut employé comme arme en 1915 ?",
       "answer": "chlore",
@@ -977,7 +859,21 @@
       "wikipedia": "Chlore"
     },
     {
-      "id": "sciences-176",
+      "id": "sciences-168",
+      "difficulty": 2,
+      "question": "Quel élément, dont le nom grec évoque le violet, est ajouté au sel de table pour prévenir le goitre ?",
+      "answer": "iode",
+      "accept": [],
+      "choices": [
+        "fluor",
+        "brome",
+        "sélénium"
+      ],
+      "explanation": "Découvert en 1811 par Bernard Courtois dans des cendres d'algues, il est indispensable au fonctionnement de la glande thyroïde.",
+      "wikipedia": "Iode"
+    },
+    {
+      "id": "sciences-169",
       "difficulty": 2,
       "question": "Quel élément, le plus électronégatif de tous, est ajouté aux dentifrices pour protéger l'émail ?",
       "answer": "fluor",
@@ -991,7 +887,7 @@
       "wikipedia": "Fluor"
     },
     {
-      "id": "sciences-177",
+      "id": "sciences-170",
       "difficulty": 1,
       "question": "Comment appelle-t-on une substance qui accélère une réaction chimique sans être consommée ?",
       "answer": "catalyseur",
@@ -1005,7 +901,7 @@
       "wikipedia": "Catalyse"
     },
     {
-      "id": "sciences-178",
+      "id": "sciences-171",
       "difficulty": 2,
       "question": "Quel chimiste italien a donné son nom au nombre d'entités contenues dans une mole, environ 6 × 10²³ ?",
       "answer": "Avogadro",
@@ -1021,23 +917,7 @@
       "wikipedia": "Nombre d'Avogadro"
     },
     {
-      "id": "sciences-179",
-      "difficulty": 2,
-      "question": "Quel chimiste anglais, pionnier de la théorie atomique, a décrit l'anomalie de la vision des couleurs dont il souffrait ?",
-      "answer": "John Dalton",
-      "accept": [
-        "Dalton"
-      ],
-      "choices": [
-        "Humphry Davy",
-        "Joseph Priestley",
-        "William Ramsay"
-      ],
-      "explanation": "Il ne distinguait pas le rouge du vert et publia la première étude scientifique de ce trouble en 1794 ; son nom sert désormais à le désigner.",
-      "wikipedia": "John Dalton"
-    },
-    {
-      "id": "sciences-180",
+      "id": "sciences-172",
       "difficulty": 3,
       "question": "Quel chimiste français, auteur d'une loi sur les gaz, s'éleva en ballon à plus de 7 000 mètres en 1804 ?",
       "answer": "Gay-Lussac",
@@ -1054,7 +934,7 @@
       "wikipedia": "Louis Joseph Gay-Lussac"
     },
     {
-      "id": "sciences-181",
+      "id": "sciences-173",
       "difficulty": 3,
       "question": "Quel chimiste anglais a isolé l'oxygène en 1774 et inventé l'eau gazeuse ?",
       "answer": "Joseph Priestley",
@@ -1070,7 +950,7 @@
       "wikipedia": "Joseph Priestley"
     },
     {
-      "id": "sciences-182",
+      "id": "sciences-174",
       "difficulty": 3,
       "question": "Quel savant anglais, réputé très timide, a identifié l'hydrogène, qu'il appelait « air inflammable » ?",
       "answer": "Henry Cavendish",
@@ -1086,7 +966,7 @@
       "wikipedia": "Henry Cavendish"
     },
     {
-      "id": "sciences-183",
+      "id": "sciences-175",
       "difficulty": 1,
       "question": "Comment appelle-t-on un mélange d'un métal avec d'autres éléments, comme le bronze ou l'acier ?",
       "answer": "alliage",
@@ -1100,7 +980,7 @@
       "wikipedia": "Alliage"
     },
     {
-      "id": "sciences-184",
+      "id": "sciences-176",
       "difficulty": 1,
       "question": "Quel alliage de cuivre et d'étain a donné son nom à une période de la protohistoire ?",
       "answer": "bronze",
@@ -1114,7 +994,7 @@
       "wikipedia": "Bronze"
     },
     {
-      "id": "sciences-185",
+      "id": "sciences-177",
       "difficulty": 1,
       "question": "Quel matériau transparent obtient-on en fondant du sable de silice avec de la soude et de la chaux ?",
       "answer": "verre",
@@ -1128,21 +1008,7 @@
       "wikipedia": "Verre"
     },
     {
-      "id": "sciences-186",
-      "difficulty": 2,
-      "question": "Quel polymère synthétique, inventé chez DuPont dans les années 1930, a remplacé la soie dans les bas ?",
-      "answer": "nylon",
-      "accept": [],
-      "choices": [
-        "Lycra",
-        "polyester",
-        "rayonne"
-      ],
-      "explanation": "Il fut mis au point par l'équipe de Wallace Carothers ; les premiers bas furent vendus en 1940 et s'arrachèrent dès leur sortie.",
-      "wikipedia": "Nylon"
-    },
-    {
-      "id": "sciences-187",
+      "id": "sciences-178",
       "difficulty": 2,
       "question": "Comment appelle-t-on la réaction chimique entre un corps gras et une base forte qui produit le savon ?",
       "answer": "saponification",
@@ -1156,7 +1022,7 @@
       "wikipedia": "Saponification"
     },
     {
-      "id": "sciences-188",
+      "id": "sciences-179",
       "difficulty": 2,
       "question": "Quel chimiste français a donné son nom à la réaction qui fait dorer la croûte du pain et la viande grillée ?",
       "answer": "Maillard",
@@ -1173,7 +1039,7 @@
       "wikipedia": "Réaction de Maillard"
     },
     {
-      "id": "sciences-189",
+      "id": "sciences-180",
       "difficulty": 3,
       "question": "Quel chimiste allemand, prix Nobel 1918, a mis au point la synthèse de l'ammoniac à partir de l'azote de l'air ?",
       "answer": "Fritz Haber",
@@ -1189,7 +1055,7 @@
       "wikipedia": "Fritz Haber"
     },
     {
-      "id": "sciences-190",
+      "id": "sciences-181",
       "difficulty": 1,
       "question": "Quel acide donne au vinaigre son goût aigre caractéristique ?",
       "answer": "acide acétique",
@@ -1203,7 +1069,7 @@
       "wikipedia": "Acide acétique"
     },
     {
-      "id": "sciences-191",
+      "id": "sciences-182",
       "difficulty": 3,
       "question": "Quel mélange d'acides nitrique et chlorhydrique est capable de dissoudre l'or et le platine ?",
       "answer": "eau régale",
@@ -1217,7 +1083,7 @@
       "wikipedia": "Eau régale"
     },
     {
-      "id": "sciences-192",
+      "id": "sciences-183",
       "difficulty": 3,
       "question": "Quelle substance imaginaire, supposée libérée lors de toute combustion, Lavoisier a-t-il réfutée ?",
       "answer": "phlogistique",
@@ -1231,7 +1097,7 @@
       "wikipedia": "Théorie du phlogistique"
     },
     {
-      "id": "sciences-193",
+      "id": "sciences-184",
       "difficulty": 1,
       "question": "Quel objet légendaire les alchimistes cherchaient-ils pour transmuter le plomb en or ?",
       "answer": "pierre philosophale",
@@ -1245,7 +1111,7 @@
       "wikipedia": "Pierre philosophale"
     },
     {
-      "id": "sciences-194",
+      "id": "sciences-185",
       "difficulty": 1,
       "question": "Quel gaz, de formule CH4, est le principal constituant du gaz naturel ?",
       "answer": "méthane",
@@ -1259,7 +1125,7 @@
       "wikipedia": "Méthane"
     },
     {
-      "id": "sciences-195",
+      "id": "sciences-186",
       "difficulty": 1,
       "question": "Quel alcool, produit par la fermentation des sucres, est contenu dans le vin et la bière ?",
       "answer": "éthanol",
@@ -1275,7 +1141,7 @@
       "wikipedia": "Éthanol"
     },
     {
-      "id": "sciences-196",
+      "id": "sciences-187",
       "difficulty": 2,
       "question": "Quel élément, dont le nom grec signifie « porteur de lumière », a été découvert dans l'urine ?",
       "answer": "phosphore",
@@ -1289,7 +1155,7 @@
       "wikipedia": "Phosphore"
     },
     {
-      "id": "sciences-197",
+      "id": "sciences-188",
       "difficulty": 2,
       "question": "Quel métal précieux tire son nom d'un mot espagnol signifiant « petit argent » ?",
       "answer": "platine",
@@ -1299,11 +1165,27 @@
         "nickel",
         "iridium"
       ],
-      "explanation": "Les conquistadors le jugeaient d'abord comme une impureté gênante de l'or ; le prototype international du kilogramme était un cylindre de platine iridié.",
+      "explanation": "Les conquistadors le nommèrent ainsi en le découvrant à l'état natif ; ce métal était pourtant déjà travaillé en Amérique précolombienne.",
       "wikipedia": "Platine"
     },
     {
-      "id": "sciences-198",
+      "id": "sciences-189",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les atomes d'un même élément qui diffèrent seulement par leur nombre de neutrons ?",
+      "answer": "isotopes",
+      "accept": [
+        "isotope"
+      ],
+      "choices": [
+        "isomères",
+        "ions",
+        "allotropes"
+      ],
+      "explanation": "Le mot, du grec « même place », indique qu'ils occupent la même case du tableau périodique ; le carbone 14 est un exemple radioactif.",
+      "wikipedia": "Isotope"
+    },
+    {
+      "id": "sciences-190",
       "difficulty": 3,
       "question": "Quel chimiste américain a reçu deux prix Nobel non partagés, l'un de chimie et l'autre de la paix ?",
       "answer": "Linus Pauling",
@@ -1319,7 +1201,7 @@
       "wikipedia": "Linus Pauling"
     },
     {
-      "id": "sciences-199",
+      "id": "sciences-191",
       "difficulty": 3,
       "question": "Avec quel physicien Irène Curie a-t-elle découvert la radioactivité artificielle, couronnée par le Nobel de chimie 1935 ?",
       "answer": "Frédéric Joliot-Curie",
@@ -1336,7 +1218,7 @@
       "wikipedia": "Frédéric Joliot-Curie"
     },
     {
-      "id": "sciences-200",
+      "id": "sciences-192",
       "difficulty": 1,
       "question": "Quelle est la planète la plus proche du Soleil, dans le Système solaire ?",
       "answer": "Mercure",
@@ -1350,7 +1232,7 @@
       "wikipedia": "Mercure (planète)"
     },
     {
-      "id": "sciences-201",
+      "id": "sciences-193",
       "difficulty": 2,
       "question": "Sur quelle planète, qui tourne sur elle-même à l'envers, le Soleil se lève-t-il à l'ouest ?",
       "answer": "Vénus",
@@ -1364,7 +1246,7 @@
       "wikipedia": "Vénus (planète)"
     },
     {
-      "id": "sciences-202",
+      "id": "sciences-194",
       "difficulty": 1,
       "question": "Quelle planète, la plus éloignée du Soleil, porte le nom du dieu romain des mers ?",
       "answer": "Neptune",
@@ -1378,7 +1260,7 @@
       "wikipedia": "Neptune (planète)"
     },
     {
-      "id": "sciences-203",
+      "id": "sciences-195",
       "difficulty": 2,
       "question": "Quel astronome français a prédit en 1846, par le seul calcul, la position de Neptune ?",
       "answer": "Urbain Le Verrier",
@@ -1395,7 +1277,7 @@
       "wikipedia": "Urbain Le Verrier"
     },
     {
-      "id": "sciences-204",
+      "id": "sciences-196",
       "difficulty": 2,
       "question": "Quel astronome d'origine allemande, installé en Angleterre, a découvert la planète Uranus en 1781 ?",
       "answer": "William Herschel",
@@ -1411,7 +1293,7 @@
       "wikipedia": "William Herschel"
     },
     {
-      "id": "sciences-205",
+      "id": "sciences-197",
       "difficulty": 2,
       "question": "Quel est le plus grand satellite de Saturne, le seul de son espèce doté d'une épaisse atmosphère ?",
       "answer": "Titan",
@@ -1425,7 +1307,7 @@
       "wikipedia": "Titan (lune)"
     },
     {
-      "id": "sciences-206",
+      "id": "sciences-198",
       "difficulty": 2,
       "question": "Quel satellite de Jupiter est le corps le plus volcanique du Système solaire ?",
       "answer": "Io",
@@ -1439,7 +1321,7 @@
       "wikipedia": "Io (lune)"
     },
     {
-      "id": "sciences-207",
+      "id": "sciences-199",
       "difficulty": 3,
       "question": "Quel est le plus grand des deux satellites de Mars, nommé d'après le dieu grec de la peur ?",
       "answer": "Phobos",
@@ -1453,7 +1335,7 @@
       "wikipedia": "Phobos (lune)"
     },
     {
-      "id": "sciences-208",
+      "id": "sciences-200",
       "difficulty": 1,
       "question": "Comment s'appelle la galaxie qui abrite le Système solaire ?",
       "answer": "Voie lactée",
@@ -1467,7 +1349,7 @@
       "wikipedia": "Voie lactée"
     },
     {
-      "id": "sciences-209",
+      "id": "sciences-201",
       "difficulty": 2,
       "question": "Quelle grande galaxie spirale voisine, visible à l'œil nu, devrait entrer en collision avec la nôtre dans des milliards d'années ?",
       "answer": "Andromède",
@@ -1484,7 +1366,7 @@
       "wikipedia": "Galaxie d'Andromède"
     },
     {
-      "id": "sciences-210",
+      "id": "sciences-202",
       "difficulty": 1,
       "question": "Comment appelle-t-on le phénomène où la Lune passe devant le Soleil et le masque ?",
       "answer": "éclipse solaire",
@@ -1501,7 +1383,7 @@
       "wikipedia": "Éclipse solaire"
     },
     {
-      "id": "sciences-211",
+      "id": "sciences-203",
       "difficulty": 2,
       "question": "Quelle naine rouge, à environ 4,2 années-lumière, est l'étoile la plus proche du Soleil ?",
       "answer": "Proxima du Centaure",
@@ -1518,7 +1400,7 @@
       "wikipedia": "Proxima Centauri"
     },
     {
-      "id": "sciences-212",
+      "id": "sciences-204",
       "difficulty": 1,
       "question": "Dans quelle constellation se trouvent les sept étoiles brillantes formant le Grand Chariot ?",
       "answer": "Grande Ourse",
@@ -1532,7 +1414,7 @@
       "wikipedia": "Grande Ourse"
     },
     {
-      "id": "sciences-213",
+      "id": "sciences-205",
       "difficulty": 1,
       "question": "Quelle constellation représentant un chasseur se reconnaît aux trois étoiles alignées de son baudrier ?",
       "answer": "Orion",
@@ -1546,7 +1428,21 @@
       "wikipedia": "Orion (constellation)"
     },
     {
-      "id": "sciences-214",
+      "id": "sciences-206",
+      "difficulty": 2,
+      "question": "Quelle supergéante rouge marque l'épaule de la constellation d'Orion ?",
+      "answer": "Bételgeuse",
+      "accept": [],
+      "choices": [
+        "Rigel",
+        "Aldébaran",
+        "Antarès"
+      ],
+      "explanation": "Si elle remplaçait le Soleil, elle engloutirait les orbites des planètes intérieures ; elle explosera un jour en supernova.",
+      "wikipedia": "Bételgeuse"
+    },
+    {
+      "id": "sciences-207",
       "difficulty": 2,
       "question": "Quel amas d'étoiles de la constellation du Taureau est surnommé les Sept Sœurs ?",
       "answer": "Pléiades",
@@ -1562,7 +1458,7 @@
       "wikipedia": "Pléiades (astronomie)"
     },
     {
-      "id": "sciences-215",
+      "id": "sciences-208",
       "difficulty": 2,
       "question": "Quelle planète naine est le plus gros objet de la ceinture d'astéroïdes, entre Mars et Jupiter ?",
       "answer": "Cérès",
@@ -1576,7 +1472,7 @@
       "wikipedia": "(1) Cérès"
     },
     {
-      "id": "sciences-216",
+      "id": "sciences-209",
       "difficulty": 3,
       "question": "Quelle ceinture de corps glacés, au-delà de Neptune, porte le nom d'un astronome néerlando-américain ?",
       "answer": "ceinture de Kuiper",
@@ -1592,7 +1488,7 @@
       "wikipedia": "Ceinture de Kuiper"
     },
     {
-      "id": "sciences-217",
+      "id": "sciences-210",
       "difficulty": 1,
       "question": "Comment appelle-t-on un fragment de roche ou de métal venu de l'espace et retrouvé au sol ?",
       "answer": "météorite",
@@ -1606,7 +1502,7 @@
       "wikipedia": "Météorite"
     },
     {
-      "id": "sciences-218",
+      "id": "sciences-211",
       "difficulty": 2,
       "question": "Quelle pluie d'étoiles filantes du mois d'août est surnommée les larmes de saint Laurent ?",
       "answer": "Perséides",
@@ -1622,7 +1518,7 @@
       "wikipedia": "Perséides"
     },
     {
-      "id": "sciences-219",
+      "id": "sciences-212",
       "difficulty": 1,
       "question": "Quel est le nom du premier satellite artificiel de la Terre, lancé par l'URSS en 1957 ?",
       "answer": "Spoutnik 1",
@@ -1639,7 +1535,7 @@
       "wikipedia": "Spoutnik 1"
     },
     {
-      "id": "sciences-220",
+      "id": "sciences-213",
       "difficulty": 1,
       "question": "Quelle chienne soviétique fut en 1957 le premier être vivant placé en orbite autour de la Terre ?",
       "answer": "Laïka",
@@ -1655,7 +1551,7 @@
       "wikipedia": "Laïka"
     },
     {
-      "id": "sciences-221",
+      "id": "sciences-214",
       "difficulty": 2,
       "question": "Quelle cosmonaute soviétique est devenue en 1963 la première femme à voler dans l'espace ?",
       "answer": "Valentina Terechkova",
@@ -1672,7 +1568,7 @@
       "wikipedia": "Valentina Terechkova"
     },
     {
-      "id": "sciences-222",
+      "id": "sciences-215",
       "difficulty": 3,
       "question": "Quel cosmonaute soviétique a réalisé en 1965 la première sortie dans l'espace ?",
       "answer": "Alexeï Leonov",
@@ -1689,7 +1585,7 @@
       "wikipedia": "Alexeï Leonov"
     },
     {
-      "id": "sciences-223",
+      "id": "sciences-216",
       "difficulty": 1,
       "question": "Quel astronaute américain a accompagné Neil Armstrong lors des premiers pas sur la Lune ?",
       "answer": "Buzz Aldrin",
@@ -1706,7 +1602,7 @@
       "wikipedia": "Buzz Aldrin"
     },
     {
-      "id": "sciences-224",
+      "id": "sciences-217",
       "difficulty": 1,
       "question": "Quelle mission lunaire américaine a frôlé la catastrophe en 1970 après l'explosion d'un réservoir d'oxygène ?",
       "answer": "Apollo 13",
@@ -1720,7 +1616,7 @@
       "wikipedia": "Apollo 13"
     },
     {
-      "id": "sciences-225",
+      "id": "sciences-218",
       "difficulty": 2,
       "question": "Quel pilote est devenu en 1982 le premier Français à aller dans l'espace ?",
       "answer": "Jean-Loup Chrétien",
@@ -1736,7 +1632,7 @@
       "wikipedia": "Jean-Loup Chrétien"
     },
     {
-      "id": "sciences-226",
+      "id": "sciences-219",
       "difficulty": 3,
       "question": "Quelle médecin rhumatologue est devenue en 1996 la première Française à voler dans l'espace ?",
       "answer": "Claudie Haigneré",
@@ -1753,7 +1649,7 @@
       "wikipedia": "Claudie Haigneré"
     },
     {
-      "id": "sciences-227",
+      "id": "sciences-220",
       "difficulty": 1,
       "question": "Quel astronaute français a séjourné dans la Station spatiale internationale lors des missions Proxima et Alpha ?",
       "answer": "Thomas Pesquet",
@@ -1769,7 +1665,7 @@
       "wikipedia": "Thomas Pesquet"
     },
     {
-      "id": "sciences-228",
+      "id": "sciences-221",
       "difficulty": 1,
       "question": "Quel lanceur spatial européen porte le prénom d'une princesse crétoise de la mythologie ?",
       "answer": "Ariane",
@@ -1780,10 +1676,10 @@
         "Diamant"
       ],
       "explanation": "Le premier vol eut lieu le 24 décembre 1979 ; les fusées de cette famille ont mis en orbite des centaines de satellites de télécommunications.",
-      "wikipedia": "Ariane (famille de lanceurs)"
+      "wikipedia": "Ariane (fusée)"
     },
     {
-      "id": "sciences-229",
+      "id": "sciences-222",
       "difficulty": 1,
       "question": "Dans quelle ville de Guyane se trouve la base de lancement de l'Agence spatiale européenne ?",
       "answer": "Kourou",
@@ -1797,7 +1693,7 @@
       "wikipedia": "Centre spatial guyanais"
     },
     {
-      "id": "sciences-230",
+      "id": "sciences-223",
       "difficulty": 2,
       "question": "Quelle sonde américaine, lancée en 1977, fut le premier objet humain à atteindre l'espace interstellaire ?",
       "answer": "Voyager 1",
@@ -1813,7 +1709,21 @@
       "wikipedia": "Voyager 1"
     },
     {
-      "id": "sciences-231",
+      "id": "sciences-224",
+      "difficulty": 2,
+      "question": "Quelle sonde de la NASA a survolé Pluton en 2015, révélant une surface en forme de cœur ?",
+      "answer": "New Horizons",
+      "accept": [],
+      "choices": [
+        "Voyager 2",
+        "Cassini",
+        "Juno"
+      ],
+      "explanation": "Lancée en 2006, elle a ensuite survolé Arrokoth, l'objet le plus lointain jamais visité, dans la ceinture de Kuiper.",
+      "wikipedia": "New Horizons"
+    },
+    {
+      "id": "sciences-225",
       "difficulty": 2,
       "question": "Quelle sonde européenne a déposé en 2014 le petit atterrisseur Philae sur une comète ?",
       "answer": "Rosetta",
@@ -1827,7 +1737,7 @@
       "wikipedia": "Rosetta (sonde spatiale)"
     },
     {
-      "id": "sciences-232",
+      "id": "sciences-226",
       "difficulty": 2,
       "question": "Quel grand télescope spatial infrarouge, successeur de Hubble, a été lancé par Ariane 5 le jour de Noël 2021 ?",
       "answer": "James Webb",
@@ -1845,7 +1755,7 @@
       "wikipedia": "James Webb (télescope spatial)"
     },
     {
-      "id": "sciences-233",
+      "id": "sciences-227",
       "difficulty": 3,
       "question": "Comment appelle-t-on la frontière d'un trou noir au-delà de laquelle même la lumière ne peut plus s'échapper ?",
       "answer": "horizon des événements",
@@ -1861,7 +1771,7 @@
       "wikipedia": "Horizon des événements"
     },
     {
-      "id": "sciences-234",
+      "id": "sciences-228",
       "difficulty": 1,
       "question": "Quel objet céleste est si dense que même la lumière ne peut s'échapper de son attraction ?",
       "answer": "trou noir",
@@ -1875,7 +1785,7 @@
       "wikipedia": "Trou noir"
     },
     {
-      "id": "sciences-235",
+      "id": "sciences-229",
       "difficulty": 1,
       "question": "Quel nom désigne le modèle selon lequel l'Univers est issu d'un état extrêmement dense et chaud ?",
       "answer": "Big Bang",
@@ -1889,7 +1799,7 @@
       "wikipedia": "Big Bang"
     },
     {
-      "id": "sciences-236",
+      "id": "sciences-230",
       "difficulty": 3,
       "question": "Quel prêtre et astrophysicien belge est considéré comme l'un des pères de la théorie de l'expansion de l'Univers ?",
       "answer": "Georges Lemaître",
@@ -1906,7 +1816,7 @@
       "wikipedia": "Georges Lemaître"
     },
     {
-      "id": "sciences-237",
+      "id": "sciences-231",
       "difficulty": 2,
       "question": "Comment appelle-t-on une étoile à neutrons en rotation rapide qui émet des signaux radio réguliers ?",
       "answer": "pulsar",
@@ -1920,7 +1830,7 @@
       "wikipedia": "Pulsar"
     },
     {
-      "id": "sciences-238",
+      "id": "sciences-232",
       "difficulty": 3,
       "question": "Comment appelle-t-on le noyau extrêmement lumineux de certaines galaxies lointaines, alimenté par un trou noir géant ?",
       "answer": "quasar",
@@ -1934,7 +1844,7 @@
       "wikipedia": "Quasar"
     },
     {
-      "id": "sciences-239",
+      "id": "sciences-233",
       "difficulty": 1,
       "question": "Comment appelle-t-on une planète en orbite autour d'une autre étoile que le Soleil ?",
       "answer": "exoplanète",
@@ -1950,7 +1860,7 @@
       "wikipedia": "Exoplanète"
     },
     {
-      "id": "sciences-240",
+      "id": "sciences-234",
       "difficulty": 1,
       "question": "Comment appelle-t-on les deux moments de l'année où le jour et la nuit ont presque la même durée ?",
       "answer": "équinoxe",
@@ -1966,7 +1876,7 @@
       "wikipedia": "Équinoxe"
     },
     {
-      "id": "sciences-241",
+      "id": "sciences-235",
       "difficulty": 1,
       "question": "Comment appelle-t-on le moment de l'année où le jour atteint sa durée maximale ou minimale ?",
       "answer": "solstice",
@@ -1982,7 +1892,7 @@
       "wikipedia": "Solstice"
     },
     {
-      "id": "sciences-242",
+      "id": "sciences-236",
       "difficulty": 3,
       "question": "Comment appelle-t-on le point de l'orbite terrestre le plus proche du Soleil, atteint début janvier ?",
       "answer": "périhélie",
@@ -1996,7 +1906,7 @@
       "wikipedia": "Périhélie"
     },
     {
-      "id": "sciences-243",
+      "id": "sciences-237",
       "difficulty": 1,
       "question": "Quel phénomène, dû principalement à l'attraction de la Lune, fait monter et descendre le niveau de la mer ?",
       "answer": "marée",
@@ -2012,7 +1922,7 @@
       "wikipedia": "Marée"
     },
     {
-      "id": "sciences-244",
+      "id": "sciences-238",
       "difficulty": 2,
       "question": "Sur quelle plaine lunaire le module Eagle de la mission Apollo 11 s'est-il posé en 1969 ?",
       "answer": "mer de la Tranquillité",
@@ -2028,7 +1938,7 @@
       "wikipedia": "Mer de la Tranquillité"
     },
     {
-      "id": "sciences-245",
+      "id": "sciences-239",
       "difficulty": 2,
       "question": "Quel astronome danois, qui avait perdu une partie du nez en duel, observait le ciel depuis Uraniborg ?",
       "answer": "Tycho Brahe",
@@ -2044,7 +1954,23 @@
       "wikipedia": "Tycho Brahe"
     },
     {
-      "id": "sciences-246",
+      "id": "sciences-240",
+      "difficulty": 2,
+      "question": "Quel savant d'Alexandrie a décrit au IIe siècle un système géocentrique qui fit autorité pendant quatorze siècles ?",
+      "answer": "Ptolémée",
+      "accept": [
+        "Claude Ptolémée"
+      ],
+      "choices": [
+        "Hipparque",
+        "Aristarque de Samos",
+        "Euclide"
+      ],
+      "explanation": "Son grand traité, connu sous le nom arabe d'Almageste, décrivait les mouvements des astres à l'aide d'épicycles ; il fut aussi géographe.",
+      "wikipedia": "Claude Ptolémée"
+    },
+    {
+      "id": "sciences-241",
       "difficulty": 2,
       "question": "Quel savant grec a estimé la circonférence de la Terre en comparant les ombres à Syène et à Alexandrie ?",
       "answer": "Ératosthène",
@@ -2060,7 +1986,7 @@
       "wikipedia": "Ératosthène"
     },
     {
-      "id": "sciences-247",
+      "id": "sciences-242",
       "difficulty": 3,
       "question": "Quel astronome français a dressé au XVIIIe siècle un catalogue d'objets nébuleux, pour ne pas les confondre avec des comètes ?",
       "answer": "Charles Messier",
@@ -2076,7 +2002,7 @@
       "wikipedia": "Charles Messier"
     },
     {
-      "id": "sciences-248",
+      "id": "sciences-243",
       "difficulty": 2,
       "question": "Quelle station spatiale soviétique puis russe, en orbite de 1986 à 2001, porte un nom signifiant « paix » ?",
       "answer": "Mir",
@@ -2090,7 +2016,7 @@
       "wikipedia": "Mir (station spatiale)"
     },
     {
-      "id": "sciences-249",
+      "id": "sciences-244",
       "difficulty": 2,
       "question": "Quelle navette spatiale américaine s'est désintégrée peu après son décollage en janvier 1986 ?",
       "answer": "Challenger",
@@ -2104,7 +2030,38 @@
       "wikipedia": "Challenger (navette spatiale)"
     },
     {
-      "id": "sciences-250",
+      "id": "sciences-245",
+      "difficulty": 2,
+      "question": "Quel astre compact le Soleil deviendra-t-il en fin de vie, après sa phase de géante rouge ?",
+      "answer": "naine blanche",
+      "accept": [],
+      "choices": [
+        "étoile à neutrons",
+        "trou noir",
+        "naine brune"
+      ],
+      "explanation": "De la taille de la Terre mais d'une masse comparable à celle du Soleil, un tel astre est si dense qu'une cuillère de sa matière pèserait des tonnes.",
+      "wikipedia": "Naine blanche"
+    },
+    {
+      "id": "sciences-246",
+      "difficulty": 2,
+      "question": "Quelle unité de longueur correspond à la distance moyenne entre la Terre et le Soleil ?",
+      "answer": "unité astronomique",
+      "accept": [
+        "ua",
+        "UA"
+      ],
+      "choices": [
+        "parsec",
+        "année-lumière",
+        "minute-lumière"
+      ],
+      "explanation": "Elle vaut environ 150 millions de kilomètres ; Neptune orbite à une trentaine de ces unités du Soleil.",
+      "wikipedia": "Unité astronomique"
+    },
+    {
+      "id": "sciences-247",
       "difficulty": 3,
       "question": "Quel astronome américain a découvert Pluton en 1930 à l'observatoire Lowell ?",
       "answer": "Clyde Tombaugh",
@@ -2120,7 +2077,7 @@
       "wikipedia": "Clyde William Tombaugh"
     },
     {
-      "id": "sciences-251",
+      "id": "sciences-248",
       "difficulty": 1,
       "question": "Comment qualifie-t-on un nombre entier qui n'est divisible que par 1 et par lui-même ?",
       "answer": "premier",
@@ -2136,7 +2093,7 @@
       "wikipedia": "Nombre premier"
     },
     {
-      "id": "sciences-252",
+      "id": "sciences-249",
       "difficulty": 2,
       "question": "Quel mathématicien grec d'Alexandrie a démontré qu'il existe une infinité de nombres premiers ?",
       "answer": "Euclide",
@@ -2150,9 +2107,9 @@
       "wikipedia": "Euclide"
     },
     {
-      "id": "sciences-253",
+      "id": "sciences-250",
       "difficulty": 1,
-      "question": "Comment appelle-t-on le résultat d'une multiplication ?",
+      "question": "Comment appelle-t-on le résultat obtenu en multipliant deux nombres entre eux ?",
       "answer": "produit",
       "accept": [],
       "choices": [
@@ -2164,9 +2121,9 @@
       "wikipedia": "Multiplication"
     },
     {
-      "id": "sciences-254",
+      "id": "sciences-251",
       "difficulty": 1,
-      "question": "Comment appelle-t-on le résultat d'une division ?",
+      "question": "Comment appelle-t-on le résultat obtenu en divisant un nombre par un autre ?",
       "answer": "quotient",
       "accept": [],
       "choices": [
@@ -2178,7 +2135,7 @@
       "wikipedia": "Division"
     },
     {
-      "id": "sciences-255",
+      "id": "sciences-252",
       "difficulty": 1,
       "question": "Comment appelle-t-on un angle qui mesure exactement 90 degrés ?",
       "answer": "droit",
@@ -2194,7 +2151,7 @@
       "wikipedia": "Angle droit"
     },
     {
-      "id": "sciences-256",
+      "id": "sciences-253",
       "difficulty": 1,
       "question": "Comment appelle-t-on un polygone à cinq côtés, forme du siège du département de la Défense américain ?",
       "answer": "pentagone",
@@ -2208,7 +2165,7 @@
       "wikipedia": "Pentagone"
     },
     {
-      "id": "sciences-257",
+      "id": "sciences-254",
       "difficulty": 1,
       "question": "Comment appelle-t-on un solide dont les six faces sont des carrés identiques ?",
       "answer": "cube",
@@ -2222,7 +2179,7 @@
       "wikipedia": "Cube"
     },
     {
-      "id": "sciences-258",
+      "id": "sciences-255",
       "difficulty": 1,
       "question": "Comment appelle-t-on le segment qui relie deux points d'un cercle en passant par son centre ?",
       "answer": "diamètre",
@@ -2236,7 +2193,7 @@
       "wikipedia": "Diamètre"
     },
     {
-      "id": "sciences-259",
+      "id": "sciences-256",
       "difficulty": 1,
       "question": "Comment appelle-t-on la longueur du contour d'un cercle ?",
       "answer": "circonférence",
@@ -2252,7 +2209,7 @@
       "wikipedia": "Cercle"
     },
     {
-      "id": "sciences-260",
+      "id": "sciences-257",
       "difficulty": 2,
       "question": "Quelle courbe fermée est l'ensemble des points dont la somme des distances à deux foyers est constante ?",
       "answer": "ellipse",
@@ -2266,7 +2223,7 @@
       "wikipedia": "Ellipse (mathématiques)"
     },
     {
-      "id": "sciences-261",
+      "id": "sciences-258",
       "difficulty": 2,
       "question": "Quelle courbe représente graphiquement la fonction qui à x associe son carré ?",
       "answer": "parabole",
@@ -2280,7 +2237,7 @@
       "wikipedia": "Parabole"
     },
     {
-      "id": "sciences-262",
+      "id": "sciences-259",
       "difficulty": 3,
       "question": "Quelle courbe décrit un fil ou un collier suspendu librement par ses deux extrémités ?",
       "answer": "chaînette",
@@ -2294,7 +2251,7 @@
       "wikipedia": "Chaînette"
     },
     {
-      "id": "sciences-263",
+      "id": "sciences-260",
       "difficulty": 1,
       "question": "Comment appelle-t-on un quadrilatère dont les quatre côtés ont la même longueur ?",
       "answer": "losange",
@@ -2308,7 +2265,7 @@
       "wikipedia": "Losange"
     },
     {
-      "id": "sciences-264",
+      "id": "sciences-261",
       "difficulty": 1,
       "question": "Comment appelle-t-on un quadrilatère qui possède deux côtés parallèles appelés bases ?",
       "answer": "trapèze",
@@ -2322,7 +2279,7 @@
       "wikipedia": "Trapèze"
     },
     {
-      "id": "sciences-265",
+      "id": "sciences-262",
       "difficulty": 1,
       "question": "Comment appelle-t-on un triangle qui possède deux côtés de même longueur ?",
       "answer": "isocèle",
@@ -2336,7 +2293,7 @@
       "wikipedia": "Triangle isocèle"
     },
     {
-      "id": "sciences-266",
+      "id": "sciences-263",
       "difficulty": 1,
       "question": "Quel savant grec de Milet a donné son nom à un théorème sur les droites parallèles coupant deux sécantes ?",
       "answer": "Thalès",
@@ -2352,7 +2309,7 @@
       "wikipedia": "Thalès"
     },
     {
-      "id": "sciences-267",
+      "id": "sciences-264",
       "difficulty": 2,
       "question": "Comment qualifie-t-on un nombre qui ne peut s'écrire comme une fraction de deux entiers, comme racine de deux ?",
       "answer": "irrationnel",
@@ -2368,7 +2325,7 @@
       "wikipedia": "Nombre irrationnel"
     },
     {
-      "id": "sciences-268",
+      "id": "sciences-265",
       "difficulty": 2,
       "question": "Quel mathématicien suisse a résolu en 1736 le problème des sept ponts de Königsberg ?",
       "answer": "Leonhard Euler",
@@ -2384,7 +2341,7 @@
       "wikipedia": "Leonhard Euler"
     },
     {
-      "id": "sciences-269",
+      "id": "sciences-266",
       "difficulty": 3,
       "question": "Quel mathématicien écossais a inventé les logarithmes au début du XVIIe siècle ?",
       "answer": "John Napier",
@@ -2402,7 +2359,7 @@
       "wikipedia": "John Napier"
     },
     {
-      "id": "sciences-270",
+      "id": "sciences-267",
       "difficulty": 1,
       "question": "Quel est le seul nombre premier qui soit pair ?",
       "answer": "2",
@@ -2418,7 +2375,7 @@
       "wikipedia": "2 (nombre)"
     },
     {
-      "id": "sciences-271",
+      "id": "sciences-268",
       "difficulty": 1,
       "question": "Quel mathématicien italien a donné son nom à la suite où chaque terme est la somme des deux précédents ?",
       "answer": "Fibonacci",
@@ -2435,7 +2392,7 @@
       "wikipedia": "Suite de Fibonacci"
     },
     {
-      "id": "sciences-272",
+      "id": "sciences-269",
       "difficulty": 2,
       "question": "Quel savant persan du IXe siècle a donné, par la déformation de son nom, le mot algorithme ?",
       "answer": "Al-Khwârizmî",
@@ -2449,11 +2406,11 @@
         "Avicenne",
         "Al-Biruni"
       ],
-      "explanation": "Il travailla à la Maison de la sagesse de Bagdad ; le titre de l'un de ses traités a également donné le mot algèbre.",
+      "explanation": "Il travailla à la Maison de la sagesse de Bagdad ; son traité sur la numération des Indiens contribua à diffuser les chiffres dits arabes jusqu'en Europe.",
       "wikipedia": "Al-Khwârizmî"
     },
     {
-      "id": "sciences-273",
+      "id": "sciences-270",
       "difficulty": 1,
       "question": "Quelle notion mathématique est représentée par un symbole en forme de huit couché ?",
       "answer": "infini",
@@ -2469,7 +2426,7 @@
       "wikipedia": "Infini"
     },
     {
-      "id": "sciences-274",
+      "id": "sciences-271",
       "difficulty": 2,
       "question": "Quel chiffre, absent de la numération romaine, a été conçu comme un véritable nombre par les mathématiciens indiens ?",
       "answer": "zéro",
@@ -2485,7 +2442,7 @@
       "wikipedia": "Zéro"
     },
     {
-      "id": "sciences-275",
+      "id": "sciences-272",
       "difficulty": 2,
       "question": "Quel nom désigne le nombre 10 puissance 100, qui a inspiré celui d'un célèbre moteur de recherche ?",
       "answer": "gogol",
@@ -2501,7 +2458,7 @@
       "wikipedia": "Gogol (nombre)"
     },
     {
-      "id": "sciences-276",
+      "id": "sciences-273",
       "difficulty": 3,
       "question": "Quel mathématicien a laissé son nom à la conjecture selon laquelle tout entier pair supérieur à 2 est somme de deux nombres premiers ?",
       "answer": "Goldbach",
@@ -2518,7 +2475,7 @@
       "wikipedia": "Conjecture de Goldbach"
     },
     {
-      "id": "sciences-277",
+      "id": "sciences-274",
       "difficulty": 3,
       "question": "Quel mathématicien russe a démontré la conjecture de Poincaré puis refusé toutes les récompenses offertes ?",
       "answer": "Grigori Perelman",
@@ -2534,7 +2491,7 @@
       "wikipedia": "Grigori Perelman"
     },
     {
-      "id": "sciences-278",
+      "id": "sciences-275",
       "difficulty": 2,
       "question": "Quelle récompense, souvent présentée comme le Nobel des mathématiques, est réservée aux moins de quarante ans ?",
       "answer": "médaille Fields",
@@ -2550,7 +2507,7 @@
       "wikipedia": "Médaille Fields"
     },
     {
-      "id": "sciences-279",
+      "id": "sciences-276",
       "difficulty": 2,
       "question": "Quel mathématicien allemand, surnommé le prince des mathématiciens, voulut qu'un polygone régulier à dix-sept côtés orne sa tombe ?",
       "answer": "Carl Friedrich Gauss",
@@ -2566,7 +2523,7 @@
       "wikipedia": "Carl Friedrich Gauss"
     },
     {
-      "id": "sciences-280",
+      "id": "sciences-277",
       "difficulty": 2,
       "question": "Quelle mathématicienne et philosophe d'Alexandrie fut assassinée en 415 par une foule de chrétiens ?",
       "answer": "Hypatie",
@@ -2582,7 +2539,7 @@
       "wikipedia": "Hypatie"
     },
     {
-      "id": "sciences-281",
+      "id": "sciences-278",
       "difficulty": 3,
       "question": "Quelle mathématicienne française correspondait avec Gauss sous le pseudonyme masculin de Monsieur Le Blanc ?",
       "answer": "Sophie Germain",
@@ -2598,7 +2555,7 @@
       "wikipedia": "Sophie Germain"
     },
     {
-      "id": "sciences-282",
+      "id": "sciences-279",
       "difficulty": 3,
       "question": "Quelle mathématicienne iranienne fut en 2014 la première femme à recevoir la médaille Fields ?",
       "answer": "Maryam Mirzakhani",
@@ -2614,7 +2571,7 @@
       "wikipedia": "Maryam Mirzakhani"
     },
     {
-      "id": "sciences-283",
+      "id": "sciences-280",
       "difficulty": 2,
       "question": "Comment appelle-t-on le polyèdre régulier constitué de douze faces pentagonales ?",
       "answer": "dodécaèdre",
@@ -2628,7 +2585,7 @@
       "wikipedia": "Dodécaèdre"
     },
     {
-      "id": "sciences-284",
+      "id": "sciences-281",
       "difficulty": 2,
       "question": "Comment appelle-t-on la surface à un seul côté obtenue en recollant une bande de papier après une demi-torsion ?",
       "answer": "ruban de Möbius",
@@ -2646,7 +2603,7 @@
       "wikipedia": "Ruban de Möbius"
     },
     {
-      "id": "sciences-285",
+      "id": "sciences-282",
       "difficulty": 2,
       "question": "Quel mathématicien franco-américain a popularisé les fractales, dont un célèbre ensemble porte son nom ?",
       "answer": "Benoît Mandelbrot",
@@ -2662,7 +2619,7 @@
       "wikipedia": "Benoît Mandelbrot"
     },
     {
-      "id": "sciences-286",
+      "id": "sciences-283",
       "difficulty": 3,
       "question": "Quel mathématicien français, préfet de l'Isère, a donné son nom à une décomposition des fonctions en séries trigonométriques ?",
       "answer": "Joseph Fourier",
@@ -2678,7 +2635,7 @@
       "wikipedia": "Joseph Fourier"
     },
     {
-      "id": "sciences-287",
+      "id": "sciences-284",
       "difficulty": 2,
       "question": "Combien de couleurs suffisent toujours pour colorier une carte de sorte que deux régions voisines diffèrent ?",
       "answer": "quatre",
@@ -2694,7 +2651,7 @@
       "wikipedia": "Théorème des quatre couleurs"
     },
     {
-      "id": "sciences-288",
+      "id": "sciences-285",
       "difficulty": 3,
       "question": "Quelle hypothèse de 1859 sur les zéros de la fonction zêta figure parmi les problèmes du prix du millénaire ?",
       "answer": "hypothèse de Riemann",
@@ -2710,7 +2667,7 @@
       "wikipedia": "Hypothèse de Riemann"
     },
     {
-      "id": "sciences-289",
+      "id": "sciences-286",
       "difficulty": 2,
       "question": "Comment appelle-t-on en statistiques la valeur qui partage une série ordonnée en deux moitiés de même effectif ?",
       "answer": "médiane",
@@ -2724,7 +2681,7 @@
       "wikipedia": "Médiane (statistiques)"
     },
     {
-      "id": "sciences-290",
+      "id": "sciences-287",
       "difficulty": 1,
       "question": "Quel instrument de calcul à boules coulissantes est encore utilisé dans certaines écoles d'Asie ?",
       "answer": "boulier",
@@ -2738,7 +2695,7 @@
       "wikipedia": "Boulier"
     },
     {
-      "id": "sciences-291",
+      "id": "sciences-288",
       "difficulty": 2,
       "question": "Quel mathématicien anglais a donné son nom à l'algèbre des valeurs vrai et faux, base de l'informatique ?",
       "answer": "George Boole",
@@ -2754,7 +2711,7 @@
       "wikipedia": "George Boole"
     },
     {
-      "id": "sciences-292",
+      "id": "sciences-289",
       "difficulty": 3,
       "question": "Quel collectif de mathématiciens français publie depuis les années 1930 sous le nom emprunté à un général du Second Empire ?",
       "answer": "Nicolas Bourbaki",
@@ -2770,7 +2727,7 @@
       "wikipedia": "Nicolas Bourbaki"
     },
     {
-      "id": "sciences-293",
+      "id": "sciences-290",
       "difficulty": 2,
       "question": "Quel philosophe grec a imaginé le paradoxe d'Achille incapable de rattraper une tortue ?",
       "answer": "Zénon d'Élée",
@@ -2786,7 +2743,7 @@
       "wikipedia": "Zénon d'Élée"
     },
     {
-      "id": "sciences-294",
+      "id": "sciences-291",
       "difficulty": 3,
       "question": "Quelle branche des mathématiques, pour laquelle une tasse équivaut à un beignet, étudie les déformations continues ?",
       "answer": "topologie",
@@ -2800,7 +2757,7 @@
       "wikipedia": "Topologie"
     },
     {
-      "id": "sciences-295",
+      "id": "sciences-292",
       "difficulty": 1,
       "question": "Comment appelle-t-on un angle dont la mesure est inférieure à 90 degrés ?",
       "answer": "aigu",
@@ -2816,7 +2773,7 @@
       "wikipedia": "Angle aigu"
     },
     {
-      "id": "sciences-296",
+      "id": "sciences-293",
       "difficulty": 2,
       "question": "Comment qualifie-t-on un nombre égal à la somme de ses diviseurs autres que lui-même, comme 6 ou 28 ?",
       "answer": "parfait",
@@ -2832,21 +2789,7 @@
       "wikipedia": "Nombre parfait"
     },
     {
-      "id": "sciences-297",
-      "difficulty": 1,
-      "question": "Quelle entreprise a été fondée en 1976 par Steve Jobs et Steve Wozniak ?",
-      "answer": "Apple",
-      "accept": [],
-      "choices": [
-        "Microsoft",
-        "Atari",
-        "IBM"
-      ],
-      "explanation": "Son premier produit, l'Apple I, était vendu sous forme de carte électronique sans boîtier ; le logo de la pomme croquée apparut l'année suivante.",
-      "wikipedia": "Apple"
-    },
-    {
-      "id": "sciences-298",
+      "id": "sciences-294",
       "difficulty": 1,
       "question": "Qui a fondé Microsoft en 1975 avec son ami d'enfance Paul Allen ?",
       "answer": "Bill Gates",
@@ -2862,7 +2805,7 @@
       "wikipedia": "Bill Gates"
     },
     {
-      "id": "sciences-299",
+      "id": "sciences-295",
       "difficulty": 1,
       "question": "Quel système d'exploitation libre a été créé en 1991 par l'étudiant finlandais Linus Torvalds ?",
       "answer": "Linux",
@@ -2876,7 +2819,7 @@
       "wikipedia": "Linux"
     },
     {
-      "id": "sciences-300",
+      "id": "sciences-296",
       "difficulty": 1,
       "question": "Quel programme malveillant porte le nom d'un agent infectieux biologique, car il se propage en infectant d'autres fichiers ?",
       "answer": "virus",
@@ -2892,7 +2835,7 @@
       "wikipedia": "Virus informatique"
     },
     {
-      "id": "sciences-301",
+      "id": "sciences-297",
       "difficulty": 1,
       "question": "Quel mot anglais signifiant « insecte » désigne un défaut dans un programme informatique ?",
       "answer": "bug",
@@ -2908,7 +2851,7 @@
       "wikipedia": "Bug (informatique)"
     },
     {
-      "id": "sciences-302",
+      "id": "sciences-298",
       "difficulty": 2,
       "question": "Quelle informaticienne et officière de la marine américaine a conçu l'un des premiers compilateurs ?",
       "answer": "Grace Hopper",
@@ -2924,7 +2867,7 @@
       "wikipedia": "Grace Hopper"
     },
     {
-      "id": "sciences-303",
+      "id": "sciences-299",
       "difficulty": 1,
       "question": "Quel mot désigne les courriels indésirables, d'après une marque de viande en conserve moquée par les Monty Python ?",
       "answer": "spam",
@@ -2940,7 +2883,7 @@
       "wikipedia": "Spam"
     },
     {
-      "id": "sciences-304",
+      "id": "sciences-300",
       "difficulty": 2,
       "question": "Quel réseau américain de 1969, financé par le département de la Défense, est l'ancêtre d'Internet ?",
       "answer": "ARPANET",
@@ -2956,21 +2899,7 @@
       "wikipedia": "ARPANET"
     },
     {
-      "id": "sciences-305",
-      "difficulty": 1,
-      "question": "Quel terminal télématique français, aux petits écrans, a précédé Internet dans les foyers à partir des années 1980 ?",
-      "answer": "Minitel",
-      "accept": [],
-      "choices": [
-        "Télétel",
-        "Bi-Bop",
-        "Thomson TO7"
-      ],
-      "explanation": "Il était prêté gratuitement par les PTT ; le service a définitivement fermé le 30 juin 2012, après une trentaine d'années de service.",
-      "wikipedia": "Minitel"
-    },
-    {
-      "id": "sciences-306",
+      "id": "sciences-301",
       "difficulty": 3,
       "question": "Quel réseau expérimental français, conçu par Louis Pouzin dans les années 1970, a inspiré l'architecture d'Internet ?",
       "answer": "Cyclades",
@@ -2984,7 +2913,7 @@
       "wikipedia": "Cyclades (réseau)"
     },
     {
-      "id": "sciences-307",
+      "id": "sciences-302",
       "difficulty": 2,
       "question": "Quel cofondateur d'Intel a prédit le doublement régulier du nombre de transistors sur une puce ?",
       "answer": "Gordon Moore",
@@ -3000,7 +2929,21 @@
       "wikipedia": "Loi de Moore"
     },
     {
-      "id": "sciences-308",
+      "id": "sciences-303",
+      "difficulty": 2,
+      "question": "Quel composant électronique, inventé aux laboratoires Bell en 1947, a remplacé les tubes à vide ?",
+      "answer": "transistor",
+      "accept": [],
+      "choices": [
+        "condensateur",
+        "diode",
+        "relais"
+      ],
+      "explanation": "Ses inventeurs, Bardeen, Brattain et Shockley, reçurent le prix Nobel de physique 1956 ; un processeur moderne en contient des milliards.",
+      "wikipedia": "Transistor"
+    },
+    {
+      "id": "sciences-304",
       "difficulty": 1,
       "question": "Comment appelle-t-on le composant qui exécute les instructions d'un ordinateur, désigné par le sigle anglais CPU ?",
       "answer": "processeur",
@@ -3016,7 +2959,7 @@
       "wikipedia": "Processeur"
     },
     {
-      "id": "sciences-309",
+      "id": "sciences-305",
       "difficulty": 3,
       "question": "Quel numéro portait le premier microprocesseur commercialisé par Intel, en 1971 ?",
       "answer": "4004",
@@ -3032,7 +2975,7 @@
       "wikipedia": "Intel 4004"
     },
     {
-      "id": "sciences-310",
+      "id": "sciences-306",
       "difficulty": 1,
       "question": "Quel sigle anglais désigne la mémoire vive d'un ordinateur, effacée à chaque extinction ?",
       "answer": "RAM",
@@ -3046,7 +2989,7 @@
       "wikipedia": "Mémoire vive"
     },
     {
-      "id": "sciences-311",
+      "id": "sciences-307",
       "difficulty": 1,
       "question": "Quel périphérique de pointage a été inventé par l'Américain Douglas Engelbart dans les années 1960 ?",
       "answer": "souris",
@@ -3060,7 +3003,7 @@
       "wikipedia": "Souris (informatique)"
     },
     {
-      "id": "sciences-312",
+      "id": "sciences-308",
       "difficulty": 1,
       "question": "Quelle disposition des touches de clavier, nommée d'après ses premières lettres, est la plus répandue en France ?",
       "answer": "AZERTY",
@@ -3074,7 +3017,7 @@
       "wikipedia": "AZERTY"
     },
     {
-      "id": "sciences-313",
+      "id": "sciences-309",
       "difficulty": 2,
       "question": "Quelle épreuve, proposée en 1950, évalue si une machine peut se faire passer pour un humain lors d'une conversation écrite ?",
       "answer": "test de Turing",
@@ -3090,35 +3033,7 @@
       "wikipedia": "Test de Turing"
     },
     {
-      "id": "sciences-314",
-      "difficulty": 1,
-      "question": "Quel superordinateur d'IBM a battu le champion du monde d'échecs Garry Kasparov en 1997 ?",
-      "answer": "Deep Blue",
-      "accept": [],
-      "choices": [
-        "Watson",
-        "Deep Thought",
-        "AlphaZero"
-      ],
-      "explanation": "Kasparov avait remporté la première confrontation en 1996 ; lors de la revanche, la machine analysait environ 200 millions de positions par seconde.",
-      "wikipedia": "Deep Blue"
-    },
-    {
-      "id": "sciences-315",
-      "difficulty": 2,
-      "question": "Quel programme de la société DeepMind a battu en 2016 le champion de go Lee Sedol ?",
-      "answer": "AlphaGo",
-      "accept": [],
-      "choices": [
-        "Deep Blue",
-        "Watson",
-        "Stockfish"
-      ],
-      "explanation": "Il remporta quatre parties sur cinq à Séoul ; son 37e coup de la deuxième partie, jugé d'abord absurde, stupéfia les experts.",
-      "wikipedia": "AlphaGo"
-    },
-    {
-      "id": "sciences-316",
+      "id": "sciences-310",
       "difficulty": 2,
       "question": "Quel langage de programmation doit son nom à une troupe comique britannique, et non à un serpent ?",
       "answer": "Python",
@@ -3132,7 +3047,7 @@
       "wikipedia": "Python (langage)"
     },
     {
-      "id": "sciences-317",
+      "id": "sciences-311",
       "difficulty": 2,
       "question": "Quel langage de programmation, lancé par Sun Microsystems en 1995, porte le nom d'une île indonésienne célèbre pour son café ?",
       "answer": "Java",
@@ -3146,7 +3061,7 @@
       "wikipedia": "Java (langage)"
     },
     {
-      "id": "sciences-318",
+      "id": "sciences-312",
       "difficulty": 3,
       "question": "Quel langage de programmation scientifique, créé chez IBM par John Backus en 1957, reste l'un des plus anciens encore utilisés ?",
       "answer": "Fortran",
@@ -3162,7 +3077,7 @@
       "wikipedia": "Fortran"
     },
     {
-      "id": "sciences-319",
+      "id": "sciences-313",
       "difficulty": 2,
       "question": "Quel mathématicien anglais a conçu au XIXe siècle la machine analytique, ancêtre de l'ordinateur ?",
       "answer": "Charles Babbage",
@@ -3178,24 +3093,7 @@
       "wikipedia": "Charles Babbage"
     },
     {
-      "id": "sciences-320",
-      "difficulty": 2,
-      "question": "Quel inventeur lyonnais a mis au point un métier à tisser programmé par des cartes perforées ?",
-      "answer": "Joseph-Marie Jacquard",
-      "accept": [
-        "Jacquard",
-        "Joseph Marie Jacquard"
-      ],
-      "choices": [
-        "Jacques de Vaucanson",
-        "Basile Bouchon",
-        "Barthélemy Thimonnier"
-      ],
-      "explanation": "Son métier fut l'objet de la révolte des canuts ; le principe des cartes perforées inspira ensuite Babbage et les premières machines à statistiques.",
-      "wikipedia": "Joseph-Marie Jacquard"
-    },
-    {
-      "id": "sciences-321",
+      "id": "sciences-314",
       "difficulty": 2,
       "question": "Quel mot, créé en 1962 par Philippe Dreyfus, contracte les termes « information » et « automatique » ?",
       "answer": "informatique",
@@ -3209,21 +3107,7 @@
       "wikipedia": "Informatique"
     },
     {
-      "id": "sciences-322",
-      "difficulty": 2,
-      "question": "Quel mot, proposé en 1955 par un professeur de lettres à la demande d'IBM France, désigne la machine de calcul électronique ?",
-      "answer": "ordinateur",
-      "accept": [],
-      "choices": [
-        "calculateur",
-        "computeur",
-        "automate"
-      ],
-      "explanation": "Le latiniste Jacques Perret reprit un terme théologique désignant Dieu qui met de l'ordre dans le monde ; les Anglais disent computer.",
-      "wikipedia": "Ordinateur"
-    },
-    {
-      "id": "sciences-323",
+      "id": "sciences-315",
       "difficulty": 1,
       "question": "Comment appelle-t-on le logiciel qui permet de consulter les sites web, comme Firefox ou Safari ?",
       "answer": "navigateur",
@@ -3240,7 +3124,7 @@
       "wikipedia": "Navigateur web"
     },
     {
-      "id": "sciences-324",
+      "id": "sciences-316",
       "difficulty": 3,
       "question": "Quel algorithme de chiffrement à clé publique porte les initiales de ses trois inventeurs ?",
       "answer": "RSA",
@@ -3254,7 +3138,7 @@
       "wikipedia": "Chiffrement RSA"
     },
     {
-      "id": "sciences-325",
+      "id": "sciences-317",
       "difficulty": 1,
       "question": "Quel général romain a donné son nom à une méthode de chiffrement par décalage des lettres de l'alphabet ?",
       "answer": "Jules César",
@@ -3270,7 +3154,7 @@
       "wikipedia": "Chiffrement par décalage"
     },
     {
-      "id": "sciences-326",
+      "id": "sciences-318",
       "difficulty": 1,
       "question": "Comment appelle-t-on le plus petit élément d'une image numérique, un point de couleur ?",
       "answer": "pixel",
@@ -3284,7 +3168,7 @@
       "wikipedia": "Pixel"
     },
     {
-      "id": "sciences-327",
+      "id": "sciences-319",
       "difficulty": 3,
       "question": "Quel navigateur graphique, lancé en 1993 à l'université de l'Illinois, a popularisé le Web auprès du grand public ?",
       "answer": "Mosaic",
@@ -3300,7 +3184,7 @@
       "wikipedia": "NCSA Mosaic"
     },
     {
-      "id": "sciences-328",
+      "id": "sciences-320",
       "difficulty": 2,
       "question": "Comment appelle-t-on le pictogramme carré à modules noirs et blancs, inventé au Japon par Denso Wave ?",
       "answer": "code QR",
@@ -3316,7 +3200,7 @@
       "wikipedia": "Code QR"
     },
     {
-      "id": "sciences-329",
+      "id": "sciences-321",
       "difficulty": 2,
       "question": "Quelle technologie sans fil de courte portée porte le nom anglais d'un roi danois du Xe siècle ?",
       "answer": "Bluetooth",
@@ -3330,7 +3214,7 @@
       "wikipedia": "Bluetooth"
     },
     {
-      "id": "sciences-330",
+      "id": "sciences-322",
       "difficulty": 2,
       "question": "Quel ordinateur d'Apple, lancé en 1984 avec une souris et une interface graphique, porte le nom d'une variété de pomme ?",
       "answer": "Macintosh",
@@ -3344,6 +3228,127 @@
       ],
       "explanation": "Sa sortie fut annoncée par une publicité réalisée par Ridley Scott et inspirée du roman 1984 d'Orwell, diffusée pendant le Super Bowl.",
       "wikipedia": "Macintosh"
+    },
+    {
+      "id": "sciences-323",
+      "difficulty": 1,
+      "question": "Quel gaz, indispensable à la respiration des êtres vivants, représente environ un cinquième de l'air ?",
+      "answer": "oxygène",
+      "accept": [
+        "dioxygène"
+      ],
+      "choices": [
+        "azote",
+        "hydrogène",
+        "dioxyde de carbone"
+      ],
+      "explanation": "Il est produit par la photosynthèse des plantes et du plancton ; c'est aussi l'élément chimique le plus abondant de l'écorce terrestre, combiné dans les roches.",
+      "wikipedia": "Oxygène"
+    },
+    {
+      "id": "sciences-324",
+      "difficulty": 1,
+      "question": "Quelle planète du Système solaire, la troisième en partant du Soleil, est surnommée la planète bleue ?",
+      "answer": "Terre",
+      "accept": [
+        "la Terre"
+      ],
+      "choices": [
+        "Neptune",
+        "Uranus",
+        "Vénus"
+      ],
+      "explanation": "Les océans recouvrent environ 71 % de sa surface ; c'est la seule planète connue à abriter de l'eau liquide en surface et la vie.",
+      "wikipedia": "Terre"
+    },
+    {
+      "id": "sciences-325",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un groupe d'étoiles dessinant une figure dans le ciel, comme Orion ou Cassiopée ?",
+      "answer": "constellation",
+      "accept": [],
+      "choices": [
+        "galaxie",
+        "nébuleuse",
+        "amas"
+      ],
+      "explanation": "L'Union astronomique internationale en reconnaît officiellement 88, qui découpent toute la voûte céleste ; douze d'entre elles sont traversées par le Soleil au fil de l'année.",
+      "wikipedia": "Constellation"
+    },
+    {
+      "id": "sciences-326",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le solide dont tous les points de la surface sont à égale distance du centre ?",
+      "answer": "sphère",
+      "accept": [
+        "boule"
+      ],
+      "choices": [
+        "cylindre",
+        "cône",
+        "ellipsoïde"
+      ],
+      "explanation": "Archimède démontra, dans son traité De la sphère et du cylindre, que son volume vaut les deux tiers de celui du cylindre qui l'enveloppe exactement.",
+      "wikipedia": "Sphère"
+    },
+    {
+      "id": "sciences-327",
+      "difficulty": 1,
+      "question": "Quel instrument d'optique permet d'observer des objets trop petits pour être vus à l'œil nu ?",
+      "answer": "microscope",
+      "accept": [],
+      "choices": [
+        "télescope",
+        "périscope",
+        "stéthoscope"
+      ],
+      "explanation": "Les modèles optiques sont limités par la longueur d'onde de la lumière ; le microscope électronique, inventé dans les années 1930, utilise des électrons pour voir bien plus petit.",
+      "wikipedia": "Microscope"
+    },
+    {
+      "id": "sciences-328",
+      "difficulty": 1,
+      "question": "Quel mot, apparu en 1920 dans une pièce de l'écrivain tchèque Karel Čapek, désigne une machine automatique ?",
+      "answer": "robot",
+      "accept": [],
+      "choices": [
+        "androïde",
+        "automate",
+        "cyborg"
+      ],
+      "explanation": "Il fut forgé par son frère Josef à partir du tchèque robota, qui signifie « travail, besogne, corvée » ; la pièce s'intitulait R.U.R.",
+      "wikipedia": "Robot"
+    },
+    {
+      "id": "sciences-329",
+      "difficulty": 1,
+      "question": "Quel mot, venu du Québec, est recommandé en français pour désigner un courrier électronique ?",
+      "answer": "courriel",
+      "accept": [
+        "e-mail",
+        "mail"
+      ],
+      "choices": [
+        "texto",
+        "pourriel",
+        "message"
+      ],
+      "explanation": "Il contracte courrier et électronique ; en 1971, l'ingénieur Ray Tomlinson proposa d'utiliser le signe @ pour séparer le nom de l'utilisateur de celui de la machine.",
+      "wikipedia": "Courrier électronique"
+    },
+    {
+      "id": "sciences-330",
+      "difficulty": 1,
+      "question": "Quel sigle de trois lettres désigne le système américain de positionnement par satellites ?",
+      "answer": "GPS",
+      "accept": [],
+      "choices": [
+        "GSM",
+        "RFID",
+        "NFC"
+      ],
+      "explanation": "Conçu d'abord pour l'armée américaine, il a été ouvert aux civils ; l'Europe a développé son propre système, baptisé Galileo, et la Russie le GLONASS.",
+      "wikipedia": "Global Positioning System"
     }
   ]
 }
