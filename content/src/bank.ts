@@ -28,12 +28,12 @@ export function checkQuestion(q: PackQuestion): Issue[] {
   if (new Set(choices).size !== 3) err("propositions en double");
   if (choices.some((c) => good.includes(c))) err("une proposition est une bonne réponse");
 
+  // Only a full giveaway counts: "Quelle guerre… ?" → "guerre de Crimée" is fine
+  // (the generic head noun is shared, "Crimée" is not).
   const questionWords = new Set(normalize(q.question).split(" "));
-  const leak = normalize(q.answer)
-    .split(" ")
-    .filter((w) => w.length >= 4 && !STOP.has(w))
-    .find((w) => questionWords.has(w));
-  if (leak) warn(`la question contient un mot de la réponse (« ${leak} »)`);
+  const answerWords = normalize(q.answer).split(" ").filter((w) => w && !STOP.has(w));
+  if (answerWords.length && answerWords.every((w) => questionWords.has(w)))
+    warn(`la question contient la réponse (« ${normalize(q.answer)} »)`);
   return issues;
 }
 

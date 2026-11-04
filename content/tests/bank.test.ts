@@ -37,7 +37,9 @@ describe("checkQuestion", () => {
   });
 
   it("warns when the answer leaks into the question", () => {
-    const issues = checkQuestion(q({ question: "Quel Louis fut surnommé le Roi-Soleil ?", answer: "Louis XIV" }));
-    expect(issues).toEqual([{ id: "histoire-001", level: "alerte", message: "la question contient un mot de la réponse (« louis »)" }]);
+    const issues = checkQuestion(q({ question: "Quel roi, Louis XIV, fut surnommé le Roi-Soleil ?", answer: "Louis XIV" }));
+    expect(issues).toEqual([{ id: "histoire-001", level: "alerte", message: "la question contient la réponse (« louis xiv »)" }]);
+    // A shared generic word is not a giveaway.
+    expect(checkQuestion(q({ question: "Quelle guerre opposa la Russie à la France de 1853 à 1856 ?", answer: "guerre de Crimée", accept: [] }))).toEqual([]);
   });
 });
