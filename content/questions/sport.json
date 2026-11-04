@@ -29,7 +29,7 @@
       "accept": ["5", "5 points", "cinq points"],
       "choices": ["trois", "quatre", "six"],
       "explanation": "Sa valeur a augmenté au fil du temps pour encourager le jeu offensif ; la transformation réussie qui le suit ajoute deux points supplémentaires.",
-      "wikipedia": "Essai (rugby)"
+      "wikipedia": "Essai (rugby à XV)"
     },
     {
       "id": "sport-004",
@@ -229,7 +229,7 @@
       "accept": ["hors jeu"],
       "choices": ["main", "obstruction", "charge irrégulière"],
       "explanation": "La règle ne s'applique pas sur une rentrée de touche, un coup de pied de but ou un corner, ni si le joueur se trouve dans sa propre moitié de terrain.",
-      "wikipedia": "Hors-jeu (football)"
+      "wikipedia": "Loi 11 du football"
     },
     {
       "id": "sport-024",
@@ -254,7 +254,7 @@
     {
       "id": "sport-026",
       "difficulty": 1,
-      "question": "Quel champion du monde d'échecs russe fut battu en match par l'ordinateur Deep Blue d'IBM ?",
+      "question": "Quel champion du monde d'échecs fut battu en match par l'ordinateur Deep Blue d'IBM ?",
       "answer": "Garry Kasparov",
       "accept": ["Kasparov", "Garri Kasparov"],
       "choices": ["Anatoli Karpov", "Vladimir Kramnik", "Boris Spassky"],
@@ -379,17 +379,17 @@
       "accept": ["pilote", "pilote d'avion"],
       "choices": ["joueur de tennis", "architecte", "journaliste"],
       "explanation": "Pionnier de l'aviation, il réussit en 1913 la première traversée de la Méditerranée en avion ; il mourut en combat aérien en 1918.",
-      "wikipedia": "Roland Garros (aviateur)"
+      "wikipedia": "Roland Garros"
     },
     {
       "id": "sport-039",
       "difficulty": 2,
-      "question": "Combien de joueurs, gardien compris, chaque équipe de handball aligne-t-elle sur le terrain ?",
-      "answer": "sept",
-      "accept": ["7"],
-      "choices": ["six", "cinq", "huit"],
-      "explanation": "Le handball à onze, joué en plein air sur un terrain de football, a précédé la version en salle ; il figura au programme des Jeux de Berlin.",
-      "wikipedia": "Handball"
+      "question": "Quel pilote français de Formule 1, surnommé « le Professeur », a été quatre fois champion du monde ?",
+      "answer": "Alain Prost",
+      "accept": ["Prost"],
+      "choices": ["Jean Alesi", "Didier Pironi", "René Arnoux"],
+      "explanation": "Sa rivalité avec Ayrton Senna, son coéquipier chez McLaren à la fin des années 1980, reste l'une des plus célèbres de l'histoire de la Formule 1.",
+      "wikipedia": "Alain Prost"
     },
     {
       "id": "sport-040",
@@ -509,7 +509,7 @@
       "accept": ["en passant"],
       "choices": ["promotion", "enfilade", "gambit"],
       "explanation": "Cette prise n'est possible qu'au coup immédiatement suivant ; elle est apparue quand les pions ont obtenu le droit d'avancer de deux cases lors de leur premier mouvement.",
-      "wikipedia": "Prise en passant"
+      "wikipedia": "En passant (échecs)"
     },
     {
       "id": "sport-052",
@@ -569,7 +569,7 @@
       "accept": ["l'oie"],
       "choices": ["petits chevaux", "serpents et échelles", "Mille Bornes"],
       "explanation": "Tomber sur une case ornée d'un oiseau permet de doubler son déplacement, tandis que la case 58, la mort, renvoie le joueur au départ.",
-      "wikipedia": "Jeu de l'oie"
+      "wikipedia": "Jeu de l'oie (jeu de société)"
     },
     {
       "id": "sport-058",
@@ -578,7 +578,7 @@
       "answer": "La Ciotat",
       "accept": ["Ciotat"],
       "choices": ["Marseille", "Aubagne", "Aix-en-Provence"],
-      "explanation": "Un joueur de jeu provençal, gêné par des rhumatismes, aurait joué sans élan, les pieds immobiles : « pès tancats », pieds ancrés en provençal, a donné le mot.",
+      "explanation": "Un joueur de jeu provençal, gêné par des rhumatismes, aurait joué sans élan, les pieds immobiles : le provençal « pèd tanca », pieds plantés, a donné le mot pétanque.",
       "wikipedia": "Pétanque"
     },
     {
@@ -689,7 +689,7 @@
       "accept": ["le papillon"],
       "choices": ["dos", "brasse", "crawl"],
       "explanation": "L'ordre est papillon, dos, brasse puis nage libre ; en relais quatre nages, il change et commence par le dos, dont le départ se prend dans l'eau.",
-      "wikipedia": "Quatre nages"
+      "wikipedia": "4 nages"
     },
     {
       "id": "sport-070",
@@ -719,7 +719,7 @@
       "accept": ["shōgi"],
       "choices": ["xiangqi", "makruk", "janggi"],
       "explanation": "Les pièces, plates et en forme de pentagone, ne sont pas colorées : c'est leur orientation qui indique leur propriétaire, ce qui permet de les retourner contre l'ancien camp.",
-      "wikipedia": "Shogi"
+      "wikipedia": "Shōgi"
     },
     {
       "id": "sport-073",
@@ -748,7 +748,7 @@
       "answer": "Paavo Nurmi",
       "accept": ["Nurmi"],
       "choices": ["Hannes Kolehmainen", "Ville Ritola", "Lasse Virén"],
-      "explanation": "Il courait un chronomètre à la main pour contrôler son allure ; accusé de professionnalisme, il fut écarté des Jeux de Los Angeles en 1932.",
+      "explanation": "On le surnommait aussi « l'homme au chronomètre », car il en portait un au poignet pour régler son allure ; suspendu pour professionnalisme en 1932, il manqua les Jeux de Los Angeles.",
       "wikipedia": "Paavo Nurmi"
     },
     {
@@ -759,7 +759,7 @@
       "accept": ["l'axel"],
       "choices": ["lutz", "salchow", "boucle"],
       "explanation": "Il doit son nom au Norvégien Axel Paulsen, qui l'exécuta le premier en 1882 ; le triple axel compte ainsi trois rotations et demie.",
-      "wikipedia": "Axel (patinage artistique)"
+      "wikipedia": "Axel (patinage)"
     },
     {
       "id": "sport-077",
@@ -779,7 +779,7 @@
       "accept": ["hippodrome de Vincennes"],
       "choices": ["Longchamp", "Chantilly", "Auteuil"],
       "explanation": "Couru fin janvier, il doit son nom à l'hommage rendu aux soldats américains venus combattre en France pendant la Première Guerre mondiale.",
-      "wikipedia": "Prix d'Amérique"
+      "wikipedia": "Prix d'Amérique Legend Race"
     },
     {
       "id": "sport-079",

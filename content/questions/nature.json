@@ -29,7 +29,7 @@
       "accept": ["rorqual bleu"],
       "choices": ["cachalot", "rorqual commun", "argentinosaure"],
       "explanation": "Ce géant, qui peut dépasser 30 mètres de long, se nourrit presque exclusivement de krill, de minuscules crustacés qu'il filtre grâce à ses fanons.",
-      "wikipedia": "Rorqual bleu"
+      "wikipedia": "Baleine bleue"
     },
     {
       "id": "nature-004",
@@ -149,7 +149,7 @@
       "accept": ["hurler", "hurlements"],
       "choices": ["glapissement", "feulement", "rugissement"],
       "explanation": "Contrairement à une idée reçue, le loup ne hurle pas à la lune : ce cri porte à plusieurs kilomètres et sert à communiquer entre membres d'une meute.",
-      "wikipedia": "Loup gris"
+      "wikipedia": "Canis lupus"
     },
     {
       "id": "nature-016",
@@ -159,7 +159,7 @@
       "accept": ["étoiles de mer", "astérie"],
       "choices": ["oursin", "méduse", "anémone de mer"],
       "explanation": "Pour manger une moule, elle écarte les valves avec ses bras puis fait sortir son estomac par sa bouche pour digérer la proie directement à l'extérieur.",
-      "wikipedia": "Asteroidea"
+      "wikipedia": "Étoile de mer"
     },
     {
       "id": "nature-017",
@@ -219,7 +219,7 @@
       "accept": [],
       "choices": ["lilas", "jonquille", "violette"],
       "explanation": "Malgré son image de porte-bonheur, le muguet est une plante entièrement toxique, y compris ses petites baies rouges.",
-      "wikipedia": "Muguet"
+      "wikipedia": "Muguet de mai"
     },
     {
       "id": "nature-023",
@@ -249,7 +249,7 @@
       "accept": ["baobabs"],
       "choices": ["acacia", "fromager", "dragonnier"],
       "explanation": "Ses fruits, surnommés « pain de singe », renferment une pulpe acidulée riche en vitamine C, consommée en boisson dans une grande partie de l'Afrique.",
-      "wikipedia": "Baobab"
+      "wikipedia": "Adansonia"
     },
     {
       "id": "nature-026",
@@ -259,7 +259,7 @@
       "accept": ["dronte", "dronte de Maurice"],
       "choices": ["moa", "grand pingouin", "pigeon migrateur"],
       "explanation": "Sans prédateurs avant l'arrivée des marins européens, il ne craignait pas l'homme ; la chasse et les animaux introduits l'ont exterminé en moins d'un siècle.",
-      "wikipedia": "Dronte de Maurice"
+      "wikipedia": "Dodo (oiseau)"
     },
     {
       "id": "nature-027",
@@ -269,7 +269,7 @@
       "accept": [],
       "choices": ["chevreau", "louveteau", "daguet"],
       "explanation": "Un faon trouvé seul n'est généralement pas abandonné : sa mère le laisse caché dans les herbes et revient l'allaiter. Il ne faut surtout pas le toucher.",
-      "wikipedia": "Chevreuil européen"
+      "wikipedia": "Chevreuil d'Europe"
     },
     {
       "id": "nature-028",
@@ -348,8 +348,8 @@
       "answer": "kiwi",
       "accept": ["aptéryx"],
       "choices": ["kakapo", "émeu", "casoar"],
-      "explanation": "Oiseau nocturne, il débusque vers et insectes grâce à son odorat, fait rare chez les oiseaux. Le fruit a été baptisé ainsi plus tard par des exportateurs néo-zélandais.",
-      "wikipedia": "Kiwi (oiseau)"
+      "explanation": "Oiseau nocturne à la vue faible, il débusque vers et insectes grâce à son odorat très développé, fait rare chez les oiseaux ; les Néo-Zélandais eux-mêmes sont surnommés « Kiwis ».",
+      "wikipedia": "Apterygiformes"
     },
     {
       "id": "nature-036",
@@ -389,7 +389,7 @@
       "accept": ["3"],
       "choices": ["un", "deux", "quatre"],
       "explanation": "Deux cœurs envoient le sang vers les branchies et un troisième le distribue dans le corps ; sa couleur bleue vient de l'hémocyanine, un pigment riche en cuivre.",
-      "wikipedia": "Octopoda"
+      "wikipedia": "Pieuvre"
     },
     {
       "id": "nature-040",
@@ -439,7 +439,7 @@
       "accept": ["ululement", "hululer", "ululer", "hulule"],
       "choices": ["croassement", "jacassement", "roucoulement"],
       "explanation": "Contrairement à une idée répandue, le hibou se distingue de la chouette non par son cri mais par ses aigrettes, ces touffes de plumes en forme d'oreilles.",
-      "wikipedia": "Hululement"
+      "wikipedia": "Liste de cris d'animaux"
     },
     {
       "id": "nature-045",
@@ -449,7 +449,7 @@
       "accept": ["coasser", "coasse"],
       "choices": ["croassement", "stridulation", "chuintement"],
       "explanation": "Chez de nombreuses espèces, le mâle amplifie son chant grâce à des sacs vocaux qui se gonflent comme des bulles de part et d'autre de la gorge.",
-      "wikipedia": "Grenouille"
+      "wikipedia": "Liste de cris d'animaux"
     },
     {
       "id": "nature-046",
@@ -479,7 +479,7 @@
       "accept": [],
       "choices": ["orque", "narval", "béluga"],
       "explanation": "Il possède le plus gros cerveau du règne animal, et c'est un cachalot blanc qui a inspiré à Herman Melville son roman Moby Dick.",
-      "wikipedia": "Cachalot"
+      "wikipedia": "Grand cachalot"
     },
     {
       "id": "nature-049",
@@ -608,7 +608,7 @@
       "answer": "okapi",
       "accept": [],
       "choices": ["bongo", "tapir", "sitatunga"],
-      "explanation": "Comme la girafe, l'okapi possède une très longue langue préhensile, capable d'arracher les feuilles et même de lui nettoyer les oreilles.",
+      "explanation": "Comme la girafe, l'okapi possède une très longue langue préhensile, de couleur bleu sombre, qui lui sert à arracher les feuilles des arbustes.",
       "wikipedia": "Okapi"
     },
     {
@@ -619,7 +619,7 @@
       "accept": ["pangolins"],
       "choices": ["tatou", "oryctérope", "échidné"],
       "explanation": "Ses écailles sont faites de kératine, comme nos ongles ; menacé, il se roule en boule, ce qui le protège de la plupart des prédateurs.",
-      "wikipedia": "Pangolin"
+      "wikipedia": "Manidae"
     },
     {
       "id": "nature-063",
@@ -629,7 +629,7 @@
       "accept": ["caribou"],
       "choices": ["élan", "daim", "chevreuil"],
       "explanation": "Appelé caribou en Amérique du Nord, le renne a été domestiqué par plusieurs peuples arctiques, comme les Samis, pour sa viande, son lait et le transport.",
-      "wikipedia": "Renne"
+      "wikipedia": "Rangifer tarandus"
     },
     {
       "id": "nature-064",
@@ -689,7 +689,7 @@
       "accept": ["anophèles", "anopheles"],
       "choices": ["moustique tigre", "culex", "phlébotome"],
       "explanation": "Seules les femelles piquent, car elles ont besoin de sang pour produire leurs œufs ; le parasite transmis, le plasmodium, se multiplie ensuite dans le foie puis le sang.",
-      "wikipedia": "Anopheles"
+      "wikipedia": "Anophèle"
     },
     {
       "id": "nature-070",
@@ -719,7 +719,7 @@
       "accept": ["coléoptères", "lampyre"],
       "choices": ["diptère", "lépidoptère", "hyménoptère"],
       "explanation": "La femelle du lampyre, dépourvue d'ailes, illumine l'extrémité de son abdomen pour attirer les mâles, qui eux sont capables de voler.",
-      "wikipedia": "Lampyris noctiluca"
+      "wikipedia": "Lampyre"
     },
     {
       "id": "nature-073",
@@ -799,7 +799,7 @@
       "accept": ["crustacé"],
       "choices": ["insectes", "myriapodes", "arachnides"],
       "explanation": "Cousins des crabes et des crevettes, les cloportes respirent grâce à des appendices dérivés de branchies, ce qui explique leur besoin d'humidité.",
-      "wikipedia": "Oniscidea"
+      "wikipedia": "Cloporte"
     },
     {
       "id": "nature-081",
@@ -839,7 +839,7 @@
       "accept": ["Sargasses"],
       "choices": ["mer des Caraïbes", "mer d'Irlande", "mer du Labrador"],
       "explanation": "Les larves, transparentes et en forme de feuille, dérivent ensuite pendant des mois avec les courants avant de remonter les rivières sous forme de civelles.",
-      "wikipedia": "Anguille d'Europe"
+      "wikipedia": "Anguilla anguilla"
     },
     {
       "id": "nature-085",

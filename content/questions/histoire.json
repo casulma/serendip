@@ -1,0 +1,1899 @@
+{
+  "category": "histoire",
+  "questions": [
+    {
+      "id": "histoire-001",
+      "difficulty": 1,
+      "question": "Quel roi de France fut surnommé le Roi-Soleil ?",
+      "answer": "Louis XIV",
+      "accept": [
+        "Louis 14"
+      ],
+      "choices": [
+        "Louis XIII",
+        "Louis XV",
+        "Henri IV"
+      ],
+      "explanation": "Louis XIV se fit représenter en Apollon, dieu du Soleil, dès le Ballet royal de la nuit en 1653, et prit le soleil pour emblème.",
+      "wikipedia": "Louis XIV"
+    },
+    {
+      "id": "histoire-002",
+      "difficulty": 1,
+      "question": "Quelle forteresse parisienne, symbole de l'arbitraire royal, fut prise par les insurgés le 14 juillet 1789 ?",
+      "answer": "Bastille",
+      "accept": [
+        "la Bastille"
+      ],
+      "choices": [
+        "Conciergerie",
+        "Châtelet",
+        "Temple"
+      ],
+      "explanation": "Elle ne renfermait alors que sept prisonniers ; sa démolition fut confiée à l'entrepreneur Pierre-François Palloy, qui vendit ses pierres en souvenirs.",
+      "wikipedia": "Prise de la Bastille"
+    },
+    {
+      "id": "histoire-003",
+      "difficulty": 1,
+      "question": "Quelle jeune femme, surnommée la Pucelle d'Orléans, fut brûlée vive à Rouen en 1431 ?",
+      "answer": "Jeanne d'Arc",
+      "accept": [],
+      "choices": [
+        "Jeanne Hachette",
+        "Christine de Pizan",
+        "Jeanne de Flandre"
+      ],
+      "explanation": "Née à Domrémy, elle fut jugée par un tribunal ecclésiastique présidé par l'évêque Pierre Cauchon, puis réhabilitée en 1456 et canonisée en 1920.",
+      "wikipedia": "Jeanne d'Arc"
+    },
+    {
+      "id": "histoire-004",
+      "difficulty": 1,
+      "question": "Quelle victoire de Napoléon, en 1805, est aussi appelée la bataille des Trois Empereurs ?",
+      "answer": "Austerlitz",
+      "accept": [
+        "bataille d'Austerlitz"
+      ],
+      "choices": [
+        "Iéna",
+        "Wagram",
+        "Marengo"
+      ],
+      "explanation": "Livrée le 2 décembre 1805 en Moravie, un an jour pour jour après le sacre, elle opposa Napoléon au tsar Alexandre Ier et à l'empereur François II.",
+      "wikipedia": "Bataille d'Austerlitz"
+    },
+    {
+      "id": "histoire-005",
+      "difficulty": 1,
+      "question": "Quel pharaon est célèbre pour son tombeau découvert presque intact par Howard Carter en 1922 ?",
+      "answer": "Toutânkhamon",
+      "accept": [
+        "Toutankhamon",
+        "Toutankhamun"
+      ],
+      "choices": [
+        "Ramsès II",
+        "Akhenaton",
+        "Khéops"
+      ],
+      "explanation": "Mort vers dix-neuf ans, ce souverain mineur doit sa célébrité au trésor de sa tombe, dont un masque funéraire en or conservé au Caire.",
+      "wikipedia": "Toutânkhamon"
+    },
+    {
+      "id": "histoire-006",
+      "difficulty": 1,
+      "question": "Quel ouvrage défensif de plusieurs milliers de kilomètres protégeait l'empire chinois des peuples nomades du nord ?",
+      "answer": "Grande Muraille",
+      "accept": [
+        "Grande Muraille de Chine"
+      ],
+      "choices": [
+        "Mur d'Hadrien",
+        "Limes rhénan",
+        "Mur d'Antonin"
+      ],
+      "explanation": "Commencée sous les Royaumes combattants et unifiée par Qin Shi Huang, l'essentiel de ce qui subsiste aujourd'hui date de la dynastie Ming.",
+      "wikipedia": "Grande Muraille"
+    },
+    {
+      "id": "histoire-007",
+      "difficulty": 1,
+      "question": "Quel navigateur génois atteignit les Amériques en 1492 pour le compte des Rois catholiques ?",
+      "answer": "Christophe Colomb",
+      "accept": [
+        "Colomb"
+      ],
+      "choices": [
+        "Amerigo Vespucci",
+        "Vasco de Gama",
+        "Jacques Cartier"
+      ],
+      "explanation": "Croyant avoir atteint les Indes, il débarqua d'abord aux Bahamas, sur une île qu'il baptisa San Salvador, avec la Santa María, la Pinta et la Niña.",
+      "wikipedia": "Christophe Colomb"
+    },
+    {
+      "id": "histoire-008",
+      "difficulty": 1,
+      "question": "Dans quelle ville un mur fut-il érigé en 1961 pour séparer les secteurs est et ouest ?",
+      "answer": "Berlin",
+      "accept": [],
+      "choices": [
+        "Vienne",
+        "Bonn",
+        "Prague"
+      ],
+      "explanation": "Le mur tomba dans la nuit du 9 au 10 novembre 1989, ouvrant la voie à la réunification allemande, effective le 3 octobre 1990.",
+      "wikipedia": "Mur de Berlin"
+    },
+    {
+      "id": "histoire-009",
+      "difficulty": 1,
+      "question": "Quel paquebot réputé insubmersible coula en avril 1912 après avoir heurté un iceberg ?",
+      "answer": "Titanic",
+      "accept": [
+        "le Titanic"
+      ],
+      "choices": [
+        "Lusitania",
+        "Britannic",
+        "Olympic"
+      ],
+      "explanation": "Lors de son voyage inaugural entre Southampton et New York, le naufrage fit environ 1 500 morts, faute notamment de canots de sauvetage en nombre suffisant.",
+      "wikipedia": "Titanic"
+    },
+    {
+      "id": "histoire-010",
+      "difficulty": 1,
+      "question": "Quel chef gaulois capitula devant Jules César après le siège d'Alésia en 52 av. J.-C. ?",
+      "answer": "Vercingétorix",
+      "accept": [],
+      "choices": [
+        "Ambiorix",
+        "Brennus",
+        "Commios"
+      ],
+      "explanation": "Chef des Arvernes, il avait auparavant repoussé César à Gergovie ; il fut exhibé lors du triomphe de César à Rome puis exécuté.",
+      "wikipedia": "Vercingétorix"
+    },
+    {
+      "id": "histoire-011",
+      "difficulty": 1,
+      "question": "Quel souverain franc fut couronné empereur à Rome par le pape Léon III le jour de Noël de l'an 800 ?",
+      "answer": "Charlemagne",
+      "accept": [],
+      "choices": [
+        "Clovis Ier",
+        "Louis le Pieux",
+        "Charles Martel"
+      ],
+      "explanation": "Roi des Francs et des Lombards, il fit d'Aix-la-Chapelle sa résidence favorite, où il est inhumé, et favorisa la renaissance carolingienne des lettres.",
+      "wikipedia": "Charlemagne"
+    },
+    {
+      "id": "histoire-012",
+      "difficulty": 1,
+      "question": "Quel président américain, auteur du discours de Gettysburg, fut assassiné dans un théâtre en 1865 ?",
+      "answer": "Abraham Lincoln",
+      "accept": [
+        "Lincoln"
+      ],
+      "choices": [
+        "George Washington",
+        "Ulysses S. Grant",
+        "Andrew Johnson"
+      ],
+      "explanation": "Tué par l'acteur John Wilkes Booth au théâtre Ford de Washington, il fut le premier président des États-Unis à mourir assassiné.",
+      "wikipedia": "Abraham Lincoln"
+    },
+    {
+      "id": "histoire-013",
+      "difficulty": 1,
+      "question": "Quel leader surnommé Mahatma prôna la non-violence pour obtenir l'indépendance de l'Inde ?",
+      "answer": "Gandhi",
+      "accept": [
+        "Mohandas Gandhi",
+        "Mahatma Gandhi"
+      ],
+      "choices": [
+        "Nehru",
+        "Jinnah",
+        "Subhas Chandra Bose"
+      ],
+      "explanation": "Sa marche du sel de 1930 contre le monopole britannique sur le sel eut un retentissement mondial ; il fut assassiné en 1948 par un nationaliste hindou.",
+      "wikipedia": "Mohandas Karamchand Gandhi"
+    },
+    {
+      "id": "histoire-014",
+      "difficulty": 1,
+      "question": "Quel militant, emprisonné vingt-sept ans, devint le premier président noir d'Afrique du Sud en 1994 ?",
+      "answer": "Nelson Mandela",
+      "accept": [
+        "Mandela"
+      ],
+      "choices": [
+        "Desmond Tutu",
+        "Steve Biko",
+        "Thabo Mbeki"
+      ],
+      "explanation": "Détenu en grande partie sur l'île-prison de Robben Island, il reçut le prix Nobel de la paix en 1993 avec Frederik de Klerk.",
+      "wikipedia": "Nelson Mandela"
+    },
+    {
+      "id": "histoire-015",
+      "difficulty": 1,
+      "question": "Quel pasteur américain prononça en 1963 le célèbre discours « I have a dream » ?",
+      "answer": "Martin Luther King",
+      "accept": [
+        "MLK",
+        "Martin Luther King Jr."
+      ],
+      "choices": [
+        "Malcolm X",
+        "Jesse Jackson",
+        "Ralph Abernathy"
+      ],
+      "explanation": "Prononcé lors de la marche sur Washington devant le Lincoln Memorial, ce discours en faveur des droits civiques précéda son prix Nobel de la paix en 1964.",
+      "wikipedia": "Martin Luther King"
+    },
+    {
+      "id": "histoire-016",
+      "difficulty": 1,
+      "question": "Quelle ville japonaise fut la première frappée par une bombe atomique, le 6 août 1945 ?",
+      "answer": "Hiroshima",
+      "accept": [],
+      "choices": [
+        "Nagasaki",
+        "Kokura",
+        "Osaka"
+      ],
+      "explanation": "La bombe, surnommée Little Boy, fut larguée par le bombardier Enola Gay ; une seconde frappa Nagasaki trois jours plus tard.",
+      "wikipedia": "Bombardements atomiques d'Hiroshima et de Nagasaki"
+    },
+    {
+      "id": "histoire-017",
+      "difficulty": 2,
+      "question": "Quel nom de code désignait l'opération de débarquement allié en Normandie le 6 juin 1944 ?",
+      "answer": "Overlord",
+      "accept": [
+        "opération Overlord"
+      ],
+      "choices": [
+        "Barbarossa",
+        "Market Garden",
+        "Dragoon"
+      ],
+      "explanation": "Son volet naval s'appelait Neptune ; les cinq plages du débarquement furent baptisées Utah, Omaha, Gold, Juno et Sword.",
+      "wikipedia": "Bataille de Normandie"
+    },
+    {
+      "id": "histoire-018",
+      "difficulty": 1,
+      "question": "Quel général français lança depuis Londres l'appel du 18 juin 1940 ?",
+      "answer": "Charles de Gaulle",
+      "accept": [
+        "De Gaulle"
+      ],
+      "choices": [
+        "Philippe Leclerc",
+        "Henri Giraud",
+        "Philippe Pétain"
+      ],
+      "explanation": "Diffusé par la BBC, cet appel à poursuivre le combat fut peu entendu sur le moment, mais devint l'acte fondateur de la France libre.",
+      "wikipedia": "Appel du 18 Juin"
+    },
+    {
+      "id": "histoire-019",
+      "difficulty": 1,
+      "question": "Quel général carthaginois franchit les Alpes avec des éléphants pour attaquer Rome ?",
+      "answer": "Hannibal",
+      "accept": [
+        "Hannibal Barca"
+      ],
+      "choices": [
+        "Hamilcar",
+        "Hasdrubal",
+        "Massinissa"
+      ],
+      "explanation": "Lors de la deuxième guerre punique, il infligea aux Romains la terrible défaite de Cannes en 216 av. J.-C., avant d'être vaincu à Zama par Scipion.",
+      "wikipedia": "Hannibal Barca"
+    },
+    {
+      "id": "histoire-020",
+      "difficulty": 1,
+      "question": "Quel homme d'État romain fut assassiné aux ides de mars 44 av. J.-C. ?",
+      "answer": "Jules César",
+      "accept": [
+        "César"
+      ],
+      "choices": [
+        "Pompée",
+        "Cicéron",
+        "Marc Antoine"
+      ],
+      "explanation": "Poignardé en pleine séance du Sénat par des conjurés dont Brutus et Cassius, il aurait reçu vingt-trois coups de couteau.",
+      "wikipedia": "Jules César"
+    },
+    {
+      "id": "histoire-021",
+      "difficulty": 3,
+      "question": "Quel naturaliste romain, auteur d'une Histoire naturelle, périt lors de l'éruption du Vésuve en 79 ?",
+      "answer": "Pline l'Ancien",
+      "accept": [],
+      "choices": [
+        "Pline le Jeune",
+        "Sénèque",
+        "Strabon"
+      ],
+      "explanation": "Commandant de la flotte de Misène, il traversa la baie pour observer le phénomène ; son neveu a raconté sa mort dans deux lettres à l'historien Tacite.",
+      "wikipedia": "Pline l'Ancien"
+    },
+    {
+      "id": "histoire-022",
+      "difficulty": 1,
+      "question": "Quel conquistador espagnol renversa l'Empire aztèque au début du XVIe siècle ?",
+      "answer": "Hernán Cortés",
+      "accept": [
+        "Cortés",
+        "Hernan Cortes",
+        "Cortez"
+      ],
+      "choices": [
+        "Francisco Pizarro",
+        "Diego de Almagro",
+        "Francisco de Orellana"
+      ],
+      "explanation": "Arrivé en 1519, il s'empara de la capitale aztèque en 1521 avec l'aide de nombreux alliés indigènes, notamment les Tlaxcaltèques.",
+      "wikipedia": "Hernán Cortés"
+    },
+    {
+      "id": "histoire-023",
+      "difficulty": 2,
+      "question": "Quel conquistador fit exécuter l'empereur inca Atahualpa en 1533 ?",
+      "answer": "Francisco Pizarro",
+      "accept": [
+        "Pizarro"
+      ],
+      "choices": [
+        "Hernán Cortés",
+        "Diego de Almagro",
+        "Pedro de Valdivia"
+      ],
+      "explanation": "Atahualpa avait promis de remplir une salle d'or et deux d'argent contre sa liberté ; la rançon fut versée mais il fut tout de même exécuté.",
+      "wikipedia": "Francisco Pizarro"
+    },
+    {
+      "id": "histoire-024",
+      "difficulty": 1,
+      "question": "Quelle cité inca perchée dans les Andes péruviennes fut révélée au monde par Hiram Bingham en 1911 ?",
+      "answer": "Machu Picchu",
+      "accept": [
+        "Machu Pichu"
+      ],
+      "choices": [
+        "Cuzco",
+        "Ollantaytambo",
+        "Sacsayhuamán"
+      ],
+      "explanation": "Probablement bâtie comme domaine de l'empereur Pachacutec au XVe siècle, elle ne fut jamais découverte par les conquistadors espagnols.",
+      "wikipedia": "Machu Picchu"
+    },
+    {
+      "id": "histoire-025",
+      "difficulty": 2,
+      "question": "Comment s'appelait la capitale de l'Empire aztèque, bâtie sur une île à l'emplacement de l'actuelle Mexico ?",
+      "answer": "Tenochtitlan",
+      "accept": [
+        "Tenochtitlán",
+        "Mexico-Tenochtitlan"
+      ],
+      "choices": [
+        "Teotihuacan",
+        "Tula",
+        "Texcoco"
+      ],
+      "explanation": "Fondée au XIVe siècle sur une île lacustre, elle était reliée à la terre ferme par de grandes chaussées et sillonnée de canaux.",
+      "wikipedia": "Mexico-Tenochtitlan"
+    },
+    {
+      "id": "histoire-026",
+      "difficulty": 2,
+      "question": "Comment appelait-on au Japon un samouraï sans maître ?",
+      "answer": "rōnin",
+      "accept": [
+        "ronin"
+      ],
+      "choices": [
+        "ninja",
+        "shogun",
+        "daimyo"
+      ],
+      "explanation": "Le récit le plus célèbre à leur sujet est celui des quarante-sept, qui vengèrent leur seigneur au début du XVIIIe siècle avant de se donner la mort.",
+      "wikipedia": "Rōnin"
+    },
+    {
+      "id": "histoire-027",
+      "difficulty": 2,
+      "question": "Quel titre portait le chef militaire qui gouvernait réellement le Japon à la place de l'empereur, notamment sous les Tokugawa ?",
+      "answer": "shogun",
+      "accept": [
+        "shōgun"
+      ],
+      "choices": [
+        "daimyo",
+        "kampaku",
+        "tennō"
+      ],
+      "explanation": "Le shogunat Tokugawa, établi en 1603 à Edo, l'actuelle Tokyo, dura plus de deux siècles et demi, pendant lesquels le pays resta largement fermé aux étrangers.",
+      "wikipedia": "Shogun"
+    },
+    {
+      "id": "histoire-028",
+      "difficulty": 2,
+      "question": "Quelle ère japonaise, ouverte en 1868, vit la modernisation accélérée du pays ?",
+      "answer": "Meiji",
+      "accept": [
+        "ère Meiji"
+      ],
+      "choices": [
+        "Edo",
+        "Taishō",
+        "Shōwa"
+      ],
+      "explanation": "Le jeune empereur Mutsuhito quitta Kyoto pour Tokyo ; le Japon adopta en quelques décennies l'industrie, l'armée et les institutions inspirées de l'Occident.",
+      "wikipedia": "Ère Meiji"
+    },
+    {
+      "id": "histoire-029",
+      "difficulty": 2,
+      "question": "Quel premier empereur de Chine fut enterré avec une armée de soldats en terre cuite ?",
+      "answer": "Qin Shi Huang",
+      "accept": [
+        "Qin Shi Huangdi",
+        "Shi Huangdi"
+      ],
+      "choices": [
+        "Kubilai Khan",
+        "Han Wudi",
+        "Hongwu"
+      ],
+      "explanation": "Découverte en 1974 par des paysans creusant un puits près de Xi'an, cette armée compte plusieurs milliers de statues aux visages tous différents.",
+      "wikipedia": "Qin Shi Huang"
+    },
+    {
+      "id": "histoire-030",
+      "difficulty": 1,
+      "question": "Quel nom donne-t-on au réseau de routes commerciales qui reliait la Chine à la Méditerranée ?",
+      "answer": "route de la soie",
+      "accept": [
+        "routes de la soie"
+      ],
+      "choices": [
+        "route de l'ambre",
+        "route des épices",
+        "route de l'encens"
+      ],
+      "explanation": "L'expression a été forgée en 1877 par le géographe allemand Ferdinand von Richthofen ; on y échangeait aussi des techniques, des idées et des religions.",
+      "wikipedia": "Route de la soie"
+    },
+    {
+      "id": "histoire-031",
+      "difficulty": 1,
+      "question": "Quel chef mongol fonda au début du XIIIe siècle le plus vaste empire continental de l'histoire ?",
+      "answer": "Gengis Khan",
+      "accept": [
+        "Genghis Khan",
+        "Temüjin"
+      ],
+      "choices": [
+        "Kubilai Khan",
+        "Tamerlan",
+        "Attila"
+      ],
+      "explanation": "Né Temüjin, il fut proclamé khan suprême en 1206 ; son petit-fils Kubilai fonda plus tard en Chine la dynastie Yuan.",
+      "wikipedia": "Gengis Khan"
+    },
+    {
+      "id": "histoire-032",
+      "difficulty": 3,
+      "question": "Quel souverain du Mali, célèbre pour sa richesse, fit un pèlerinage fastueux à La Mecque en 1324 ?",
+      "answer": "Mansa Moussa",
+      "accept": [
+        "Kanga Moussa",
+        "Moussa Ier"
+      ],
+      "choices": [
+        "Soundiata Keïta",
+        "Askia Mohammed",
+        "Sonni Ali"
+      ],
+      "explanation": "Il distribua tant d'or lors de son passage au Caire que le cours du métal précieux en aurait durablement chuté en Égypte.",
+      "wikipedia": "Mansa Moussa"
+    },
+    {
+      "id": "histoire-033",
+      "difficulty": 3,
+      "question": "Quel fondateur de l'Empire du Mali est le héros d'une grande épopée mandingue transmise par les griots ?",
+      "answer": "Soundiata Keïta",
+      "accept": [
+        "Soundiata",
+        "Sundiata Keita"
+      ],
+      "choices": [
+        "Sonni Ali",
+        "Askia Mohammed",
+        "Samory Touré"
+      ],
+      "explanation": "Selon la tradition, il vainquit le roi sosso Soumaoro Kanté à la bataille de Kirina, dans la première moitié du XIIIe siècle.",
+      "wikipedia": "Soundiata Keïta"
+    },
+    {
+      "id": "histoire-034",
+      "difficulty": 3,
+      "question": "Lors de quelle bataille de 1896 l'Éthiopie de Ménélik II écrasa-t-elle l'armée italienne ?",
+      "answer": "Adoua",
+      "accept": [
+        "Adwa",
+        "Adowa"
+      ],
+      "choices": [
+        "Dogali",
+        "Magdala",
+        "Omdourman"
+      ],
+      "explanation": "Cette victoire permit à l'Éthiopie de rester indépendante pendant le partage colonial de l'Afrique ; elle est commémorée chaque année comme fête nationale.",
+      "wikipedia": "Bataille d'Adoua"
+    },
+    {
+      "id": "histoire-035",
+      "difficulty": 2,
+      "question": "Quelle cité du Mali, surnommée la ville aux 333 saints, est célèbre pour ses manuscrits et ses mosquées de terre ?",
+      "answer": "Tombouctou",
+      "accept": [
+        "Timbuktu"
+      ],
+      "choices": [
+        "Djenné",
+        "Gao",
+        "Mopti"
+      ],
+      "explanation": "Inscrite au patrimoine mondial de l'UNESCO, elle abrite les mosquées Djingareyber, Sankoré et Sidi Yahia, bâties en banco.",
+      "wikipedia": "Tombouctou"
+    },
+    {
+      "id": "histoire-036",
+      "difficulty": 1,
+      "question": "Quel pharaon a fait construire la plus grande des pyramides de Gizeh ?",
+      "answer": "Khéops",
+      "accept": [
+        "Khoufou",
+        "Chéops"
+      ],
+      "choices": [
+        "Khéphren",
+        "Mykérinos",
+        "Djéser"
+      ],
+      "explanation": "Haute d'environ 146 mètres à l'origine, sa pyramide est la seule des Sept Merveilles du monde antique encore debout.",
+      "wikipedia": "Khéops"
+    },
+    {
+      "id": "histoire-037",
+      "difficulty": 1,
+      "question": "Quel bloc de granodiorite gravé en trois écritures permit à Champollion de déchiffrer les hiéroglyphes ?",
+      "answer": "pierre de Rosette",
+      "accept": [
+        "Rosette"
+      ],
+      "choices": [
+        "table d'Abydos",
+        "palette de Narmer",
+        "pierre de Palerme"
+      ],
+      "explanation": "Découverte en 1799 lors de l'expédition d'Égypte, elle porte un même décret en hiéroglyphes, en démotique et en grec ; elle est conservée au British Museum.",
+      "wikipedia": "Pierre de Rosette"
+    },
+    {
+      "id": "histoire-038",
+      "difficulty": 2,
+      "question": "Quel pharaon, époux de Néfertiti, imposa le culte d'un dieu solaire unique et fonda une nouvelle capitale ?",
+      "answer": "Akhenaton",
+      "accept": [
+        "Amenhotep IV",
+        "Akhénaton"
+      ],
+      "choices": [
+        "Ramsès II",
+        "Thoutmôsis III",
+        "Toutânkhamon"
+      ],
+      "explanation": "Né Amenhotep IV, il changea de nom en l'honneur du disque solaire Aton ; son successeur Toutânkhamon revint au culte d'Amon.",
+      "wikipedia": "Akhenaton"
+    },
+    {
+      "id": "histoire-039",
+      "difficulty": 3,
+      "question": "Quelle reine-pharaon de la XVIIIe dynastie fit bâtir le temple de Deir el-Bahari ?",
+      "answer": "Hatchepsout",
+      "accept": [],
+      "choices": [
+        "Néfertiti",
+        "Néfertari",
+        "Cléopâtre VII"
+      ],
+      "explanation": "Elle se fit représenter avec les attributs masculins des pharaons, dont la barbe postiche, et organisa une célèbre expédition vers le pays de Pount.",
+      "wikipedia": "Hatchepsout"
+    },
+    {
+      "id": "histoire-040",
+      "difficulty": 1,
+      "question": "Quelle reine d'Égypte, dernière de la dynastie lagide, fut l'alliée et l'amante de Marc Antoine ?",
+      "answer": "Cléopâtre",
+      "accept": [
+        "Cléopâtre VII"
+      ],
+      "choices": [
+        "Néfertiti",
+        "Bérénice",
+        "Arsinoé"
+      ],
+      "explanation": "Après la défaite d'Actium face à Octave en 31 av. J.-C., elle se donna la mort à Alexandrie, selon la tradition par la morsure d'un aspic.",
+      "wikipedia": "Cléopâtre VII"
+    },
+    {
+      "id": "histoire-041",
+      "difficulty": 1,
+      "question": "Quel roi de Macédoine, élève d'Aristote, conquit l'Empire perse jusqu'à l'Indus ?",
+      "answer": "Alexandre le Grand",
+      "accept": [
+        "Alexandre III",
+        "Alexandre"
+      ],
+      "choices": [
+        "Philippe II",
+        "Darius III",
+        "Ptolémée Ier"
+      ],
+      "explanation": "Mort à Babylone à trente-deux ans, il avait fondé de nombreuses cités portant son nom, dont la plus célèbre se trouve en Égypte.",
+      "wikipedia": "Alexandre le Grand"
+    },
+    {
+      "id": "histoire-042",
+      "difficulty": 1,
+      "question": "Quelle bataille de 490 av. J.-C., où les Athéniens repoussèrent les Perses, a donné son nom à une course de fond ?",
+      "answer": "Marathon",
+      "accept": [
+        "bataille de Marathon"
+      ],
+      "choices": [
+        "Salamine",
+        "Platées",
+        "Thermopyles"
+      ],
+      "explanation": "Selon la légende, un messager courut jusqu'à Athènes annoncer la victoire avant de mourir d'épuisement ; Hérodote évoque plutôt une course vers Sparte.",
+      "wikipedia": "Bataille de Marathon"
+    },
+    {
+      "id": "histoire-043",
+      "difficulty": 2,
+      "question": "Quel roi de Sparte tint le défilé des Thermopyles face aux Perses de Xerxès en 480 av. J.-C. ?",
+      "answer": "Léonidas",
+      "accept": [
+        "Léonidas Ier"
+      ],
+      "choices": [
+        "Lycurgue",
+        "Pausanias",
+        "Agésilas"
+      ],
+      "explanation": "Avec ses trois cents Spartiates et des alliés grecs, il fut pris à revers grâce à un traître, Éphialtès, qui guida les Perses par un sentier de montagne.",
+      "wikipedia": "Léonidas Ier de Sparte"
+    },
+    {
+      "id": "histoire-044",
+      "difficulty": 2,
+      "question": "Quel stratège athénien a donné son nom au siècle de l'apogée d'Athènes et fit bâtir le Parthénon ?",
+      "answer": "Périclès",
+      "accept": [],
+      "choices": [
+        "Thémistocle",
+        "Clisthène",
+        "Alcibiade"
+      ],
+      "explanation": "Il fit reconstruire l'Acropole avec le concours du sculpteur Phidias et mourut de l'épidémie qui frappa Athènes au début de la guerre du Péloponnèse.",
+      "wikipedia": "Périclès"
+    },
+    {
+      "id": "histoire-045",
+      "difficulty": 3,
+      "question": "Quel réformateur athénien est souvent considéré comme le père de la démocratie grâce à ses réformes de 508 av. J.-C. ?",
+      "answer": "Clisthène",
+      "accept": [],
+      "choices": [
+        "Solon",
+        "Dracon",
+        "Périclès"
+      ],
+      "explanation": "Il répartit les citoyens en dix tribus mêlant ville, côte et intérieur, afin de briser l'influence des grandes familles aristocratiques.",
+      "wikipedia": "Clisthène (Athènes)"
+    },
+    {
+      "id": "histoire-046",
+      "difficulty": 2,
+      "question": "Comment appelait-on à Athènes le vote par lequel on exilait pour dix ans un citoyen jugé dangereux ?",
+      "answer": "ostracisme",
+      "accept": [],
+      "choices": [
+        "proscription",
+        "atimie",
+        "relégation"
+      ],
+      "explanation": "Le nom vient des tessons de poterie, les ostraka, sur lesquels les citoyens inscrivaient le nom de celui qu'ils voulaient voir s'éloigner.",
+      "wikipedia": "Ostracisme (Grèce antique)"
+    },
+    {
+      "id": "histoire-047",
+      "difficulty": 2,
+      "question": "Quel empereur romain, grand voyageur, a donné son nom au mur bâti à travers le nord de l'Angleterre ?",
+      "answer": "Hadrien",
+      "accept": [],
+      "choices": [
+        "Trajan",
+        "Antonin le Pieux",
+        "Septime Sévère"
+      ],
+      "explanation": "Il fit aussi reconstruire le Panthéon de Rome et édifier une immense villa à Tibur, près de l'actuelle Tivoli.",
+      "wikipedia": "Hadrien"
+    },
+    {
+      "id": "histoire-048",
+      "difficulty": 1,
+      "question": "Quel empereur romain aurait chanté en regardant brûler Rome en 64, selon une tradition hostile ?",
+      "answer": "Néron",
+      "accept": [],
+      "choices": [
+        "Caligula",
+        "Domitien",
+        "Commode"
+      ],
+      "explanation": "Les historiens doutent de cette anecdote ; il accusa les chrétiens de l'incendie et fit bâtir sur les ruines sa somptueuse Domus aurea.",
+      "wikipedia": "Néron"
+    },
+    {
+      "id": "histoire-049",
+      "difficulty": 2,
+      "question": "Quel empereur romain, auteur des Pensées pour moi-même, est considéré comme un philosophe stoïcien ?",
+      "answer": "Marc Aurèle",
+      "accept": [
+        "Marc-Aurèle"
+      ],
+      "choices": [
+        "Hadrien",
+        "Antonin le Pieux",
+        "Julien"
+      ],
+      "explanation": "Il rédigea en grec ce recueil de réflexions intimes, en grande partie lors de ses campagnes militaires contre les Germains sur le Danube.",
+      "wikipedia": "Marc Aurèle"
+    },
+    {
+      "id": "histoire-050",
+      "difficulty": 3,
+      "question": "Quel empereur byzantin fit construire la basilique Sainte-Sophie de Constantinople, achevée en 537 ?",
+      "answer": "Justinien",
+      "accept": [
+        "Justinien Ier"
+      ],
+      "choices": [
+        "Constantin Ier",
+        "Théodose II",
+        "Héraclius"
+      ],
+      "explanation": "Il fit aussi compiler le droit romain dans le Corpus juris civilis et régna aux côtés de l'impératrice Théodora, ancienne actrice.",
+      "wikipedia": "Justinien Ier"
+    },
+    {
+      "id": "histoire-051",
+      "difficulty": 1,
+      "question": "En quelle année Constantinople tomba-t-elle aux mains des Ottomans de Mehmed II ?",
+      "answer": "1453",
+      "accept": [],
+      "choices": [
+        "1492",
+        "1415",
+        "1204"
+      ],
+      "explanation": "Cette chute marque traditionnellement la fin du Moyen Âge ; le dernier empereur byzantin, Constantin XI Paléologue, mourut au combat.",
+      "wikipedia": "Chute de Constantinople"
+    },
+    {
+      "id": "histoire-052",
+      "difficulty": 2,
+      "question": "Quel sultan ottoman, surnommé le Magnifique, assiégea Vienne en 1529 ?",
+      "answer": "Soliman",
+      "accept": [
+        "Soliman le Magnifique",
+        "Soliman Ier"
+      ],
+      "choices": [
+        "Mehmed II",
+        "Sélim Ier",
+        "Bayezid II"
+      ],
+      "explanation": "Les Turcs le surnomment plutôt Kanuni, le Législateur ; son règne de quarante-six ans marque l'apogée de l'Empire ottoman.",
+      "wikipedia": "Soliman le Magnifique"
+    },
+    {
+      "id": "histoire-053",
+      "difficulty": 2,
+      "question": "Quel chevalier, mort en 1524, était surnommé le chevalier sans peur et sans reproche ?",
+      "answer": "Bayard",
+      "accept": [
+        "Pierre Terrail"
+      ],
+      "choices": [
+        "Du Guesclin",
+        "La Hire",
+        "Gaston de Foix"
+      ],
+      "explanation": "Pierre Terrail, seigneur de Bayard, servit trois rois de France et mourut d'un coup d'arquebuse lors de la retraite de la Sesia, en Italie.",
+      "wikipedia": "Pierre Terrail de Bayard"
+    },
+    {
+      "id": "histoire-054",
+      "difficulty": 3,
+      "question": "Quelle bataille de 1214 vit Philippe Auguste vaincre une coalition menée par l'empereur Otton IV ?",
+      "answer": "Bouvines",
+      "accept": [
+        "bataille de Bouvines"
+      ],
+      "choices": [
+        "Crécy",
+        "Poitiers",
+        "Taillebourg"
+      ],
+      "explanation": "Livrée un dimanche près de Lille, cette victoire renforça considérablement le pouvoir capétien face aux Plantagenêts et au Saint-Empire.",
+      "wikipedia": "Bataille de Bouvines"
+    },
+    {
+      "id": "histoire-055",
+      "difficulty": 2,
+      "question": "Quelle bataille de 1346 vit les archers anglais d'Édouard III décimer la chevalerie française ?",
+      "answer": "Crécy",
+      "accept": [
+        "bataille de Crécy"
+      ],
+      "choices": [
+        "Azincourt",
+        "Poitiers",
+        "Castillon"
+      ],
+      "explanation": "Le roi Philippe VI y fut vaincu ; c'est l'une des premières batailles d'Europe occidentale où des bouches à feu auraient été employées.",
+      "wikipedia": "Bataille de Crécy"
+    },
+    {
+      "id": "histoire-056",
+      "difficulty": 3,
+      "question": "Quel roi de France fut fait prisonnier par les Anglais à la bataille de Poitiers en 1356 ?",
+      "answer": "Jean II le Bon",
+      "accept": [
+        "Jean le Bon",
+        "Jean II"
+      ],
+      "choices": [
+        "Philippe VI",
+        "Charles V",
+        "Louis X"
+      ],
+      "explanation": "Son jeune fils Philippe lui aurait crié « Père, gardez-vous à droite ! », ce qui lui valut le surnom de Philippe le Hardi.",
+      "wikipedia": "Jean II le Bon"
+    },
+    {
+      "id": "histoire-057",
+      "difficulty": 1,
+      "question": "Quel ordre de moines-soldats fut supprimé en 1312 après l'arrestation de ses membres sur ordre de Philippe le Bel ?",
+      "answer": "Templiers",
+      "accept": [
+        "ordre du Temple",
+        "Templier"
+      ],
+      "choices": [
+        "Hospitaliers",
+        "Teutoniques",
+        "Porte-Glaive"
+      ],
+      "explanation": "Le dernier grand maître, Jacques de Molay, fut brûlé à Paris en 1314 sur un îlot de la Seine, près de la pointe de l'île de la Cité.",
+      "wikipedia": "Ordre du Temple"
+    },
+    {
+      "id": "histoire-058",
+      "difficulty": 2,
+      "question": "Quel sultan ayyoubide reprit Jérusalem aux croisés en 1187 ?",
+      "answer": "Saladin",
+      "accept": [],
+      "choices": [
+        "Baybars",
+        "Nur ad-Din",
+        "Zengi"
+      ],
+      "explanation": "Il venait d'écraser l'armée franque à la bataille de Hattin ; sa réputation de générosité impressionna jusqu'aux chroniqueurs occidentaux.",
+      "wikipedia": "Saladin"
+    },
+    {
+      "id": "histoire-059",
+      "difficulty": 2,
+      "question": "Quel roi d'Angleterre fut contraint par ses barons d'accepter la Magna Carta en 1215 ?",
+      "answer": "Jean sans Terre",
+      "accept": [
+        "Jean Ier"
+      ],
+      "choices": [
+        "Richard Cœur de Lion",
+        "Henri III",
+        "Édouard Ier"
+      ],
+      "explanation": "Cette charte limitait l'arbitraire royal ; elle est souvent considérée comme une lointaine ancêtre des libertés constitutionnelles anglaises.",
+      "wikipedia": "Jean sans Terre"
+    },
+    {
+      "id": "histoire-060",
+      "difficulty": 1,
+      "question": "Quel duc de Normandie conquit l'Angleterre après la bataille d'Hastings en 1066 ?",
+      "answer": "Guillaume le Conquérant",
+      "accept": [
+        "Guillaume Ier",
+        "Guillaume le Bâtard"
+      ],
+      "choices": [
+        "Rollon",
+        "Robert Courteheuse",
+        "Richard Ier de Normandie"
+      ],
+      "explanation": "La conquête est racontée par la tapisserie de Bayeux, une broderie de près de soixante-dix mètres de long conservée en Normandie.",
+      "wikipedia": "Guillaume le Conquérant"
+    },
+    {
+      "id": "histoire-061",
+      "difficulty": 3,
+      "question": "Quel explorateur viking aurait atteint l'Amérique du Nord vers l'an 1000, bien avant Colomb ?",
+      "answer": "Leif Erikson",
+      "accept": [
+        "Leif Ericson",
+        "Leif Eriksson",
+        "Leifr Eiríksson"
+      ],
+      "choices": [
+        "Erik le Rouge",
+        "Harald Hardrada",
+        "Ragnar Lodbrok"
+      ],
+      "explanation": "Fils du colonisateur du Groenland, il aurait atteint le Vinland ; le site de L'Anse aux Meadows, à Terre-Neuve, confirme une présence viking.",
+      "wikipedia": "Leif Erikson"
+    },
+    {
+      "id": "histoire-062",
+      "difficulty": 3,
+      "question": "Dans quel manoir d'Amboise Léonard de Vinci passa-t-il les dernières années de sa vie ?",
+      "answer": "Clos Lucé",
+      "accept": [
+        "château du Clos Lucé",
+        "Cloux"
+      ],
+      "choices": [
+        "Chambord",
+        "Chenonceau",
+        "Blois"
+      ],
+      "explanation": "Invité par François Ier, il y vécut de 1516 à sa mort en 1519 ; il est inhumé dans la chapelle Saint-Hubert du château royal voisin.",
+      "wikipedia": "Château du Clos-Lucé"
+    },
+    {
+      "id": "histoire-063",
+      "difficulty": 1,
+      "question": "Quel moine allemand publia ses 95 thèses en 1517, déclenchant la Réforme protestante ?",
+      "answer": "Martin Luther",
+      "accept": [
+        "Luther"
+      ],
+      "choices": [
+        "Jean Calvin",
+        "Ulrich Zwingli",
+        "Jan Hus"
+      ],
+      "explanation": "Il dénonçait le commerce des indulgences ; excommunié, il traduisit la Bible en allemand, contribuant à fixer la langue allemande moderne.",
+      "wikipedia": "Martin Luther"
+    },
+    {
+      "id": "histoire-064",
+      "difficulty": 2,
+      "question": "Dans quelle ville suisse le réformateur Jean Calvin établit-il son autorité, la surnommant parfois la Rome protestante ?",
+      "answer": "Genève",
+      "accept": [],
+      "choices": [
+        "Zurich",
+        "Bâle",
+        "Lausanne"
+      ],
+      "explanation": "Calvin, né à Noyon en Picardie, y fonda en 1559 une académie qui forma des pasteurs pour toute l'Europe réformée.",
+      "wikipedia": "Jean Calvin"
+    },
+    {
+      "id": "histoire-065",
+      "difficulty": 1,
+      "question": "Quel navigateur portugais au service de l'Espagne mena la première expédition autour du monde, sans en revenir ?",
+      "answer": "Magellan",
+      "accept": [
+        "Fernand de Magellan"
+      ],
+      "choices": [
+        "Vasco de Gama",
+        "Juan Sebastián Elcano",
+        "Amerigo Vespucci"
+      ],
+      "explanation": "Tué en 1521 aux Philippines lors d'un combat contre le chef Lapu-Lapu, il laissa Elcano ramener en Espagne l'unique navire rescapé.",
+      "wikipedia": "Fernand de Magellan"
+    },
+    {
+      "id": "histoire-066",
+      "difficulty": 2,
+      "question": "Quel navigateur malouin explora le Saint-Laurent pour le compte de François Ier à partir de 1534 ?",
+      "answer": "Jacques Cartier",
+      "accept": [
+        "Cartier"
+      ],
+      "choices": [
+        "Samuel de Champlain",
+        "Giovanni da Verrazzano",
+        "Jean Cabot"
+      ],
+      "explanation": "On lui doit la diffusion du nom Canada, tiré d'un mot iroquoien qui signifiait village.",
+      "wikipedia": "Jacques Cartier"
+    },
+    {
+      "id": "histoire-067",
+      "difficulty": 2,
+      "question": "Quel explorateur français fonda la ville de Québec en 1608 ?",
+      "answer": "Samuel de Champlain",
+      "accept": [
+        "Champlain"
+      ],
+      "choices": [
+        "Jacques Cartier",
+        "Cavelier de La Salle",
+        "Paul de Chomedey de Maisonneuve"
+      ],
+      "explanation": "Surnommé le père de la Nouvelle-France, il mourut à Québec en 1635 ; le lieu exact de sa sépulture reste inconnu à ce jour.",
+      "wikipedia": "Samuel de Champlain"
+    },
+    {
+      "id": "histoire-068",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la révolte qui troubla la France de 1648 à 1653 durant la minorité de Louis XIV ?",
+      "answer": "Fronde",
+      "accept": [
+        "la Fronde"
+      ],
+      "choices": [
+        "Jacquerie",
+        "Ligue",
+        "Croquants"
+      ],
+      "explanation": "Le jeune roi dut fuir Paris avec sa mère et Mazarin ; ce souvenir humiliant expliquerait en partie son installation ultérieure à Versailles.",
+      "wikipedia": "Fronde (histoire)"
+    },
+    {
+      "id": "histoire-069",
+      "difficulty": 3,
+      "question": "Quel surintendant des Finances fut arrêté en 1661 par d'Artagnan après une fête fastueuse donnée en l'honneur de Louis XIV ?",
+      "answer": "Nicolas Fouquet",
+      "accept": [
+        "Fouquet"
+      ],
+      "choices": [
+        "Colbert",
+        "Louvois",
+        "Mazarin"
+      ],
+      "explanation": "Condamné au bannissement, il vit sa peine aggravée par le roi en détention perpétuelle ; il mourut en 1680 dans la forteresse de Pignerol.",
+      "wikipedia": "Nicolas Fouquet"
+    },
+    {
+      "id": "histoire-070",
+      "difficulty": 2,
+      "question": "Quel ministre de Louis XIV, partisan du mercantilisme, développa la manufacture des Gobelins et la marine royale ?",
+      "answer": "Colbert",
+      "accept": [
+        "Jean-Baptiste Colbert"
+      ],
+      "choices": [
+        "Louvois",
+        "Fouquet",
+        "Vauban"
+      ],
+      "explanation": "Contrôleur général des finances, il soutint aussi la création de l'Académie des sciences en 1666 et de l'Observatoire de Paris.",
+      "wikipedia": "Jean-Baptiste Colbert"
+    },
+    {
+      "id": "histoire-071",
+      "difficulty": 2,
+      "question": "Quel révolutionnaire fut poignardé dans sa baignoire par Charlotte Corday en 1793 ?",
+      "answer": "Marat",
+      "accept": [
+        "Jean-Paul Marat"
+      ],
+      "choices": [
+        "Danton",
+        "Hébert",
+        "Desmoulins"
+      ],
+      "explanation": "Rédacteur du journal L'Ami du peuple, il souffrait d'une maladie de peau qui l'obligeait à prendre des bains ; David a immortalisé sa mort dans un tableau.",
+      "wikipedia": "Jean-Paul Marat"
+    },
+    {
+      "id": "histoire-072",
+      "difficulty": 3,
+      "question": "Quel mois du calendrier républicain, dont le nom évoque la chaleur, suivait messidor ?",
+      "answer": "thermidor",
+      "accept": [],
+      "choices": [
+        "fructidor",
+        "brumaire",
+        "floréal"
+      ],
+      "explanation": "Son nom vient du grec thermos, chaud ; la chute de Robespierre, survenue le 9 de ce mois en l'an II, a donné son nom à la réaction thermidorienne.",
+      "wikipedia": "Thermidor"
+    },
+    {
+      "id": "histoire-073",
+      "difficulty": 1,
+      "question": "Quel officier juif fut injustement condamné pour trahison en 1894, provoquant une affaire qui divisa la France ?",
+      "answer": "Alfred Dreyfus",
+      "accept": [
+        "Dreyfus"
+      ],
+      "choices": [
+        "Ferdinand Esterhazy",
+        "Georges Picquart",
+        "Hubert Henry"
+      ],
+      "explanation": "Émile Zola prit sa défense avec l'article « J'accuse… ! » paru dans L'Aurore en 1898 ; il fut réhabilité en 1906.",
+      "wikipedia": "Alfred Dreyfus"
+    },
+    {
+      "id": "histoire-074",
+      "difficulty": 2,
+      "question": "Quel révolutionnaire italien mena l'expédition des Mille en 1860 ?",
+      "answer": "Garibaldi",
+      "accept": [
+        "Giuseppe Garibaldi"
+      ],
+      "choices": [
+        "Cavour",
+        "Mazzini",
+        "Victor-Emmanuel II"
+      ],
+      "explanation": "Ses volontaires en chemise rouge conquirent la Sicile et Naples ; ses combats en Amérique du Sud lui valurent le surnom de héros des deux mondes.",
+      "wikipedia": "Giuseppe Garibaldi"
+    },
+    {
+      "id": "histoire-075",
+      "difficulty": 1,
+      "question": "Quelle souveraine du Royaume-Uni régna de 1837 à 1901, donnant son nom à toute une époque ?",
+      "answer": "Victoria",
+      "accept": [
+        "reine Victoria"
+      ],
+      "choices": [
+        "Élisabeth Ire",
+        "Anne",
+        "Marie II"
+      ],
+      "explanation": "Proclamée impératrice des Indes en 1876, elle fut surnommée la grand-mère de l'Europe car ses descendants s'unirent à de nombreuses cours royales.",
+      "wikipedia": "Victoria (reine)"
+    },
+    {
+      "id": "histoire-076",
+      "difficulty": 1,
+      "question": "Quel libérateur vénézuélien a donné son nom à un pays d'Amérique du Sud ?",
+      "answer": "Simón Bolívar",
+      "accept": [
+        "Bolivar",
+        "Simon Bolivar"
+      ],
+      "choices": [
+        "José de San Martín",
+        "Bernardo O'Higgins",
+        "Antonio José de Sucre"
+      ],
+      "explanation": "Surnommé El Libertador, il rêvait d'unir l'Amérique hispanique et présida la Grande Colombie, qui se disloqua peu avant sa mort en 1830.",
+      "wikipedia": "Simón Bolívar"
+    },
+    {
+      "id": "histoire-077",
+      "difficulty": 3,
+      "question": "Comment surnommait-on les membres de la société secrète chinoise qui se souleva contre les étrangers en 1899-1901 ?",
+      "answer": "Boxers",
+      "accept": [
+        "Boxeurs",
+        "révolte des Boxers"
+      ],
+      "choices": [
+        "Taiping",
+        "Turbans jaunes",
+        "Sourcils rouges"
+      ],
+      "explanation": "Les insurgés assiégèrent les légations étrangères de Pékin pendant cinquante-cinq jours, jusqu'à l'intervention d'une coalition de huit puissances.",
+      "wikipedia": "Révolte des Boxers"
+    },
+    {
+      "id": "histoire-078",
+      "difficulty": 1,
+      "question": "Quelle marchandise, vendue à la Chine par les Britanniques, donna son nom à deux guerres au XIXe siècle ?",
+      "answer": "opium",
+      "accept": [],
+      "choices": [
+        "thé",
+        "soie",
+        "porcelaine"
+      ],
+      "explanation": "La première de ces guerres s'acheva en 1842 par le traité de Nankin, qui céda l'île de Hong Kong au Royaume-Uni.",
+      "wikipedia": "Guerres de l'opium"
+    },
+    {
+      "id": "histoire-079",
+      "difficulty": 3,
+      "question": "Quelle impératrice douairière domina la cour de Chine dans la seconde moitié du XIXe siècle ?",
+      "answer": "Cixi",
+      "accept": [
+        "Tseu-Hi"
+      ],
+      "choices": [
+        "Wu Zetian",
+        "Longyu",
+        "Yang Guifei"
+      ],
+      "explanation": "Ancienne concubine de l'empereur Xianfeng, elle exerça la régence pour son fils puis son neveu, l'empereur Guangxu, qu'elle fit placer en résidence surveillée.",
+      "wikipedia": "Cixi"
+    },
+    {
+      "id": "histoire-080",
+      "difficulty": 2,
+      "question": "Qui fut le dernier empereur de Chine, contraint d'abdiquer enfant en 1912 ?",
+      "answer": "Puyi",
+      "accept": [
+        "Pu Yi"
+      ],
+      "choices": [
+        "Guangxu",
+        "Tongzhi",
+        "Yuan Shikai"
+      ],
+      "explanation": "Placé plus tard par les Japonais à la tête de l'État fantoche du Mandchoukouo, il finit sa vie comme simple citoyen à Pékin ; Bertolucci lui a consacré un film.",
+      "wikipedia": "Puyi"
+    },
+    {
+      "id": "histoire-081",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la retraite de près de 10 000 km de l'Armée rouge chinoise en 1934-1935 ?",
+      "answer": "Longue Marche",
+      "accept": [],
+      "choices": [
+        "Grand Bond en avant",
+        "Révolution culturelle",
+        "Cent Fleurs"
+      ],
+      "explanation": "Partis du Jiangxi pour échapper aux nationalistes, une petite partie seulement des combattants atteignit le Shaanxi ; Mao Zedong y affermit son autorité.",
+      "wikipedia": "Longue Marche"
+    },
+    {
+      "id": "histoire-082",
+      "difficulty": 1,
+      "question": "Quel archiduc héritier d'Autriche-Hongrie fut assassiné à Sarajevo le 28 juin 1914 ?",
+      "answer": "François-Ferdinand",
+      "accept": [
+        "Franz Ferdinand",
+        "François Ferdinand"
+      ],
+      "choices": [
+        "Rodolphe",
+        "François-Joseph",
+        "Charles Ier"
+      ],
+      "explanation": "Tué avec son épouse par l'étudiant bosno-serbe Gavrilo Princip, sa mort déclencha l'enchaînement d'alliances menant à la Première Guerre mondiale.",
+      "wikipedia": "François-Ferdinand d'Autriche"
+    },
+    {
+      "id": "histoire-083",
+      "difficulty": 2,
+      "question": "Dans quelle forêt l'armistice du 11 novembre 1918 fut-il signé ?",
+      "answer": "Compiègne",
+      "accept": [
+        "forêt de Compiègne",
+        "Rethondes"
+      ],
+      "choices": [
+        "Fontainebleau",
+        "Chantilly",
+        "Senlis"
+      ],
+      "explanation": "Signé dans le wagon du maréchal Foch, ce même wagon fut choisi par Hitler en 1940 pour imposer à son tour l'armistice à la France.",
+      "wikipedia": "Armistice du 11 novembre 1918"
+    },
+    {
+      "id": "histoire-084",
+      "difficulty": 1,
+      "question": "Quel révolutionnaire bolchevique prit le pouvoir en Russie en octobre 1917 ?",
+      "answer": "Lénine",
+      "accept": [
+        "Vladimir Lénine"
+      ],
+      "choices": [
+        "Trotski",
+        "Staline",
+        "Kerenski"
+      ],
+      "explanation": "Exilé en Suisse, il regagna la Russie en avril 1917 en traversant l'Allemagne en train ; son corps embaumé repose dans un mausolée sur la place Rouge.",
+      "wikipedia": "Vladimir Ilitch Lénine"
+    },
+    {
+      "id": "histoire-085",
+      "difficulty": 2,
+      "question": "Quelle dynastie régna sur la Russie de 1613 à 1917 ?",
+      "answer": "Romanov",
+      "accept": [],
+      "choices": [
+        "Riourikides",
+        "Godounov",
+        "Hohenzollern"
+      ],
+      "explanation": "Le dernier tsar, Nicolas II, fut exécuté avec sa famille à Iekaterinbourg en juillet 1918 par les bolcheviks.",
+      "wikipedia": "Maison Romanov"
+    },
+    {
+      "id": "histoire-086",
+      "difficulty": 2,
+      "question": "Quelle impératrice de Russie, d'origine allemande, correspondit avec Voltaire et Diderot ?",
+      "answer": "Catherine II",
+      "accept": [
+        "Catherine la Grande"
+      ],
+      "choices": [
+        "Élisabeth Ire",
+        "Anne Ire",
+        "Marie-Thérèse"
+      ],
+      "explanation": "Elle acheta la bibliothèque de Diderot en lui en laissant l'usage ; ses collections d'art sont à l'origine du musée de l'Ermitage.",
+      "wikipedia": "Catherine II"
+    },
+    {
+      "id": "histoire-087",
+      "difficulty": 1,
+      "question": "Quelle conférence de février 1945 réunit Roosevelt, Churchill et Staline en Crimée ?",
+      "answer": "Yalta",
+      "accept": [
+        "conférence de Yalta"
+      ],
+      "choices": [
+        "Potsdam",
+        "Téhéran",
+        "Casablanca"
+      ],
+      "explanation": "On y discuta de l'organisation de l'Europe d'après-guerre et de la création des Nations unies ; Roosevelt mourut deux mois plus tard.",
+      "wikipedia": "Conférence de Yalta"
+    },
+    {
+      "id": "histoire-088",
+      "difficulty": 1,
+      "question": "Sur quelle île l'installation de missiles soviétiques provoqua-t-elle une crise majeure en octobre 1962 ?",
+      "answer": "Cuba",
+      "accept": [],
+      "choices": [
+        "Grenade",
+        "Haïti",
+        "Porto Rico"
+      ],
+      "explanation": "Pendant treize jours, le monde frôla la guerre nucléaire ; l'URSS retira ses missiles contre l'engagement américain de ne pas envahir l'île.",
+      "wikipedia": "Crise des missiles de Cuba"
+    },
+    {
+      "id": "histoire-089",
+      "difficulty": 2,
+      "question": "Quel canal, nationalisé par Nasser en 1956, provoqua une intervention franco-britannique et israélienne ?",
+      "answer": "Suez",
+      "accept": [
+        "canal de Suez"
+      ],
+      "choices": [
+        "Panama",
+        "Corinthe",
+        "Kiel"
+      ],
+      "explanation": "Sous la pression conjointe des États-Unis et de l'URSS, Paris et Londres durent retirer leurs troupes, signe de leur déclin comme puissances impériales.",
+      "wikipedia": "Crise du canal de Suez"
+    },
+    {
+      "id": "histoire-090",
+      "difficulty": 2,
+      "question": "Quelle expression Winston Churchill popularisa-t-il en 1946 pour désigner la coupure de l'Europe ?",
+      "answer": "rideau de fer",
+      "accept": [],
+      "choices": [
+        "guerre froide",
+        "mur de la honte",
+        "équilibre de la terreur"
+      ],
+      "explanation": "Prononcée à Fulton, dans le Missouri, la phrase évoquait une ligne descendue de Stettin, sur la Baltique, jusqu'à Trieste, sur l'Adriatique.",
+      "wikipedia": "Rideau de fer"
+    },
+    {
+      "id": "histoire-091",
+      "difficulty": 2,
+      "question": "Quel ministre français a donné son nom à la ligne de fortifications bâtie face à l'Allemagne dans les années 1930 ?",
+      "answer": "Maginot",
+      "accept": [
+        "André Maginot"
+      ],
+      "choices": [
+        "Barthou",
+        "Painlevé",
+        "Daladier"
+      ],
+      "explanation": "Les Allemands la contournèrent en 1940 en attaquant par les Ardennes ; la plupart de ses ouvrages résistèrent jusqu'à l'armistice.",
+      "wikipedia": "André Maginot"
+    },
+    {
+      "id": "histoire-092",
+      "difficulty": 2,
+      "question": "Quel nom de code désignait l'invasion allemande de l'URSS en juin 1941 ?",
+      "answer": "Barbarossa",
+      "accept": [
+        "opération Barbarossa"
+      ],
+      "choices": [
+        "Overlord",
+        "Typhon",
+        "Citadelle"
+      ],
+      "explanation": "Elle tirait son nom de l'empereur germanique Frédéric Barberousse ; l'échec devant Moscou à l'hiver 1941 marqua le premier coup d'arrêt majeur de la Wehrmacht.",
+      "wikipedia": "Opération Barbarossa"
+    },
+    {
+      "id": "histoire-093",
+      "difficulty": 2,
+      "question": "Quelle ville soviétique fut le théâtre d'une bataille décisive achevée par la capitulation de Paulus en février 1943 ?",
+      "answer": "Stalingrad",
+      "accept": [
+        "Volgograd"
+      ],
+      "choices": [
+        "Léningrad",
+        "Koursk",
+        "Kharkov"
+      ],
+      "explanation": "Encerclée, la 6e armée allemande capitula malgré les ordres de Hitler ; la ville porte aujourd'hui le nom de Volgograd.",
+      "wikipedia": "Bataille de Stalingrad"
+    },
+    {
+      "id": "histoire-094",
+      "difficulty": 3,
+      "question": "Quel général américain dirigea l'occupation du Japon après 1945 avant d'être limogé par Truman pendant la guerre de Corée ?",
+      "answer": "MacArthur",
+      "accept": [
+        "Douglas MacArthur"
+      ],
+      "choices": [
+        "Eisenhower",
+        "Patton",
+        "Bradley"
+      ],
+      "explanation": "Contraint de quitter les Philippines en 1942, il avait promis « I shall return » ; il tint parole en débarquant à Leyte en 1944.",
+      "wikipedia": "Douglas MacArthur"
+    },
+    {
+      "id": "histoire-095",
+      "difficulty": 1,
+      "question": "Quelle base navale américaine fut attaquée par surprise par l'aviation japonaise le 7 décembre 1941 ?",
+      "answer": "Pearl Harbor",
+      "accept": [],
+      "choices": [
+        "Midway",
+        "Guam",
+        "Wake"
+      ],
+      "explanation": "Roosevelt parla d'une date qui resterait marquée d'infamie ; l'attaque entraîna l'entrée en guerre des États-Unis.",
+      "wikipedia": "Attaque de Pearl Harbor"
+    },
+    {
+      "id": "histoire-096",
+      "difficulty": 2,
+      "question": "Quelle bataille de 1954 scella la défaite française en Indochine ?",
+      "answer": "Diên Biên Phu",
+      "accept": [
+        "Dien Bien Phu",
+        "Điện Biên Phủ"
+      ],
+      "choices": [
+        "Cao Bang",
+        "Na San",
+        "Vinh Yen"
+      ],
+      "explanation": "Le camp retranché français, assiégé par le Viet Minh du général Giáp, tomba le 7 mai 1954 ; les accords de Genève suivirent peu après.",
+      "wikipedia": "Bataille de Diên Biên Phu"
+    },
+    {
+      "id": "histoire-097",
+      "difficulty": 2,
+      "question": "Quel roi babylonien est célèbre pour son code de lois gravé sur une stèle de basalte ?",
+      "answer": "Hammurabi",
+      "accept": [
+        "Hammourabi"
+      ],
+      "choices": [
+        "Nabuchodonosor II",
+        "Sargon d'Akkad",
+        "Assurbanipal"
+      ],
+      "explanation": "Exposée au musée du Louvre, la stèle fut découverte en 1901 à Suse, en Iran, où elle avait été emportée comme butin de guerre.",
+      "wikipedia": "Code de Hammurabi"
+    },
+    {
+      "id": "histoire-098",
+      "difficulty": 1,
+      "question": "Dans quelle grotte de Dordogne, découverte en 1940, trouve-t-on de célèbres peintures préhistoriques ?",
+      "answer": "Lascaux",
+      "accept": [
+        "grotte de Lascaux"
+      ],
+      "choices": [
+        "Chauvet",
+        "Altamira",
+        "Cosquer"
+      ],
+      "explanation": "Découverte par des adolescents à Montignac, elle fut fermée au public en 1963 pour préserver ses peintures ; des répliques permettent de la découvrir.",
+      "wikipedia": "Grotte de Lascaux"
+    },
+    {
+      "id": "histoire-099",
+      "difficulty": 2,
+      "question": "Quelle grotte d'Ardèche, découverte en 1994, abrite certaines des plus anciennes peintures connues ?",
+      "answer": "Chauvet",
+      "accept": [
+        "grotte Chauvet",
+        "Chauvet-Pont d'Arc"
+      ],
+      "choices": [
+        "Lascaux",
+        "Niaux",
+        "Pech Merle"
+      ],
+      "explanation": "Vieilles de plus de 30 000 ans, ses peintures représentent notamment des lions, des rhinocéros et des mammouths ; le site est inscrit au patrimoine mondial depuis 2014.",
+      "wikipedia": "Grotte Chauvet"
+    },
+    {
+      "id": "histoire-100",
+      "difficulty": 1,
+      "question": "Quel surnom fut donné au squelette d'australopithèque découvert en Éthiopie en 1974 ?",
+      "answer": "Lucy",
+      "accept": [],
+      "choices": [
+        "Toumaï",
+        "Ardi",
+        "Selam"
+      ],
+      "explanation": "Son nom vient de la chanson des Beatles Lucy in the Sky with Diamonds, écoutée par l'équipe de Donald Johanson le soir de la découverte.",
+      "wikipedia": "Lucy (australopithèque)"
+    },
+    {
+      "id": "histoire-101",
+      "difficulty": 1,
+      "question": "Quel site mégalithique du sud de l'Angleterre est célèbre pour ses trilithes alignés sur le solstice ?",
+      "answer": "Stonehenge",
+      "accept": [],
+      "choices": [
+        "Carnac",
+        "Newgrange",
+        "Skara Brae"
+      ],
+      "explanation": "Certaines de ses pierres bleues proviennent des collines de Preseli, au pays de Galles, à plus de 200 kilomètres du site.",
+      "wikipedia": "Stonehenge"
+    },
+    {
+      "id": "histoire-102",
+      "difficulty": 2,
+      "question": "Quel nom a-t-on donné à l'homme momifié découvert en 1991 dans un glacier des Alpes ?",
+      "answer": "Ötzi",
+      "accept": [
+        "Otzi"
+      ],
+      "choices": [
+        "Lucy",
+        "Toumaï",
+        "Cro-Magnon"
+      ],
+      "explanation": "Mort il y a plus de 5 000 ans, il portait une hache de cuivre ; une pointe de flèche retrouvée dans son épaule révèle qu'il a été tué.",
+      "wikipedia": "Ötzi"
+    },
+    {
+      "id": "histoire-103",
+      "difficulty": 3,
+      "question": "Quel site néolithique d'Anatolie est célèbre pour ses maisons accolées, dans lesquelles on entrait par le toit ?",
+      "answer": "Çatal Höyük",
+      "accept": [
+        "Catal Huyuk",
+        "Çatalhöyük",
+        "Catalhoyuk"
+      ],
+      "choices": [
+        "Jéricho",
+        "Göbekli Tepe",
+        "Hattusa"
+      ],
+      "explanation": "Occupé dès le VIIIe millénaire av. J.-C., ce site de Turquie est l'une des plus anciennes grandes agglomérations connues ; il est inscrit au patrimoine mondial.",
+      "wikipedia": "Çatal Höyük"
+    },
+    {
+      "id": "histoire-104",
+      "difficulty": 3,
+      "question": "Quel roi de France fut surnommé l'universelle aragne en raison de ses intrigues ?",
+      "answer": "Louis XI",
+      "accept": [
+        "Louis 11"
+      ],
+      "choices": [
+        "Charles VII",
+        "Louis XII",
+        "Charles VIII"
+      ],
+      "explanation": "Ce surnom d'araignée évoque sa politique de ruse et de réseaux ; il triompha de son grand rival, le duc de Bourgogne Charles le Téméraire.",
+      "wikipedia": "Louis XI"
+    },
+    {
+      "id": "histoire-105",
+      "difficulty": 3,
+      "question": "Quel roi de France mourut en 1498 après s'être heurté la tête contre le linteau d'une porte au château d'Amboise ?",
+      "answer": "Charles VIII",
+      "accept": [
+        "Charles 8"
+      ],
+      "choices": [
+        "Louis XII",
+        "Louis XI",
+        "François Ier"
+      ],
+      "explanation": "Il avait lancé en 1494 les guerres d'Italie en revendiquant le royaume de Naples, héritage de la maison d'Anjou.",
+      "wikipedia": "Charles VIII (roi de France)"
+    },
+    {
+      "id": "histoire-106",
+      "difficulty": 2,
+      "question": "Quel surnom péjoratif désigne les derniers souverains mérovingiens, dépossédés par les maires du palais ?",
+      "answer": "rois fainéants",
+      "accept": [],
+      "choices": [
+        "rois maudits",
+        "rois mages",
+        "rois thaumaturges"
+      ],
+      "explanation": "Ce surnom fut popularisé par Éginhard, biographe de Charlemagne ; Pépin le Bref déposa le dernier d'entre eux, Childéric III, en 751.",
+      "wikipedia": "Rois fainéants"
+    },
+    {
+      "id": "histoire-107",
+      "difficulty": 2,
+      "question": "Comment appelait-on à Rome le magistrat investi des pleins pouvoirs pour six mois en cas de crise grave ?",
+      "answer": "dictateur",
+      "accept": [],
+      "choices": [
+        "consul",
+        "censeur",
+        "tribun"
+      ],
+      "explanation": "Cincinnatus, appelé à cette charge alors qu'il labourait son champ, l'aurait abandonnée seize jours plus tard pour retourner à sa charrue.",
+      "wikipedia": "Dictateur (Rome antique)"
+    },
+    {
+      "id": "histoire-108",
+      "difficulty": 2,
+      "question": "Quel régime gouverna la France de 1795 à 1799, avec cinq hommes à sa tête ?",
+      "answer": "Directoire",
+      "accept": [
+        "le Directoire"
+      ],
+      "choices": [
+        "Consulat",
+        "Convention",
+        "Triumvirat"
+      ],
+      "explanation": "Il fut renversé par le coup d'État des 18 et 19 brumaire an VIII, qui instaura le Consulat de Napoléon Bonaparte.",
+      "wikipedia": "Directoire"
+    },
+    {
+      "id": "histoire-109",
+      "difficulty": 2,
+      "question": "Quel traité de 1494 partagea le Nouveau Monde entre l'Espagne et le Portugal ?",
+      "answer": "Tordesillas",
+      "accept": [
+        "traité de Tordesillas"
+      ],
+      "choices": [
+        "Saragosse",
+        "Utrecht",
+        "Cateau-Cambrésis"
+      ],
+      "explanation": "La ligne de partage passait à 370 lieues à l'ouest des îles du Cap-Vert, ce qui explique que le Brésil soit devenu portugais.",
+      "wikipedia": "Traité de Tordesillas"
+    },
+    {
+      "id": "histoire-110",
+      "difficulty": 3,
+      "question": "Quels traités de 1648 mirent fin à la guerre de Trente Ans ?",
+      "answer": "Westphalie",
+      "accept": [
+        "traités de Westphalie"
+      ],
+      "choices": [
+        "Utrecht",
+        "Nimègue",
+        "Ryswick"
+      ],
+      "explanation": "Signés à Münster et Osnabrück, ils sont souvent considérés comme fondateurs d'un ordre international fondé sur la souveraineté des États.",
+      "wikipedia": "Traités de Westphalie"
+    },
+    {
+      "id": "histoire-111",
+      "difficulty": 3,
+      "question": "Dans quelle ville fut signé le traité de 1763 par lequel la France céda le Canada à la Grande-Bretagne ?",
+      "answer": "Paris",
+      "accept": [
+        "traité de Paris"
+      ],
+      "choices": [
+        "Utrecht",
+        "Aix-la-Chapelle",
+        "Versailles"
+      ],
+      "explanation": "Il conclut la guerre de Sept Ans ; Voltaire avait auparavant ironisé sur ces quelques arpents de neige que se disputaient les deux royaumes.",
+      "wikipedia": "Traité de Paris (1763)"
+    },
+    {
+      "id": "histoire-112",
+      "difficulty": 2,
+      "question": "Quel immense territoire américain Napoléon Bonaparte vendit-il aux États-Unis en 1803 ?",
+      "answer": "Louisiane",
+      "accept": [
+        "vente de la Louisiane"
+      ],
+      "choices": [
+        "Floride",
+        "Alaska",
+        "Texas"
+      ],
+      "explanation": "Cédé pour environ quinze millions de dollars, ce territoire doubla la superficie des États-Unis et mit fin aux ambitions françaises en Amérique du Nord.",
+      "wikipedia": "Vente de la Louisiane"
+    },
+    {
+      "id": "histoire-113",
+      "difficulty": 2,
+      "question": "À quel pays les États-Unis achetèrent-ils l'Alaska en 1867 ?",
+      "answer": "Russie",
+      "accept": [
+        "Empire russe"
+      ],
+      "choices": [
+        "Royaume-Uni",
+        "Espagne",
+        "France"
+      ],
+      "explanation": "Le secrétaire d'État William Seward fut alors moqué pour cet achat, surnommé la folie de Seward, avant la découverte d'or dans la région.",
+      "wikipedia": "Achat de l'Alaska"
+    },
+    {
+      "id": "histoire-114",
+      "difficulty": 2,
+      "question": "Quel temple khmer du XIIe siècle, au Cambodge, figure sur le drapeau national ?",
+      "answer": "Angkor Vat",
+      "accept": [
+        "Angkor Wat"
+      ],
+      "choices": [
+        "Bayon",
+        "Borobudur",
+        "Ta Prohm"
+      ],
+      "explanation": "Bâti sous le roi Suryavarman II et d'abord dédié à Vishnou, il compte parmi les plus grands monuments religieux du monde.",
+      "wikipedia": "Angkor Vat"
+    },
+    {
+      "id": "histoire-115",
+      "difficulty": 1,
+      "question": "Quel mausolée de marbre blanc fut élevé à Agra par l'empereur moghol Shah Jahan pour son épouse ?",
+      "answer": "Taj Mahal",
+      "accept": [],
+      "choices": [
+        "Fort Rouge",
+        "Qutb Minar",
+        "Tombeau d'Humayun"
+      ],
+      "explanation": "Il fut construit en mémoire de Mumtaz Mahal, morte en couches ; Shah Jahan, déposé par son fils, y repose à ses côtés.",
+      "wikipedia": "Taj Mahal"
+    },
+    {
+      "id": "histoire-116",
+      "difficulty": 3,
+      "question": "Quel empereur moghol, petit-fils de Babur, est célèbre pour sa tolérance religieuse ?",
+      "answer": "Akbar",
+      "accept": [
+        "Akbar le Grand"
+      ],
+      "choices": [
+        "Aurangzeb",
+        "Shah Jahan",
+        "Humayun"
+      ],
+      "explanation": "Il réunissait à Fatehpur Sikri des savants de diverses religions pour débattre, et promut un culte syncrétique, la Dîn-i-Ilâhî.",
+      "wikipedia": "Akbar"
+    },
+    {
+      "id": "histoire-117",
+      "difficulty": 3,
+      "question": "Quel empereur indien de la dynastie Maurya se convertit au bouddhisme après la sanglante conquête du Kalinga ?",
+      "answer": "Ashoka",
+      "accept": [
+        "Asoka",
+        "Açoka"
+      ],
+      "choices": [
+        "Chandragupta",
+        "Kanishka",
+        "Harsha"
+      ],
+      "explanation": "Il fit graver ses édits sur des piliers et des rochers dans tout son empire ; le chapiteau aux lions de Sarnath est devenu l'emblème de l'Inde.",
+      "wikipedia": "Ashoka"
+    },
+    {
+      "id": "histoire-118",
+      "difficulty": 1,
+      "question": "Quel amphithéâtre de Rome, inauguré sous Titus, accueillait des dizaines de milliers de spectateurs pour des combats de gladiateurs ?",
+      "answer": "Colisée",
+      "accept": [],
+      "choices": [
+        "Circus Maximus",
+        "Panthéon",
+        "Théâtre de Marcellus"
+      ],
+      "explanation": "Son nom officiel était l'amphithéâtre flavien ; celui de Colisée viendrait d'une statue colossale de Néron dressée à proximité.",
+      "wikipedia": "Colisée"
+    },
+    {
+      "id": "histoire-119",
+      "difficulty": 3,
+      "question": "Comment appelait-on les protestants des Cévennes révoltés contre Louis XIV au début du XVIIIe siècle ?",
+      "answer": "camisards",
+      "accept": [
+        "camisard"
+      ],
+      "choices": [
+        "chouans",
+        "croquants",
+        "ligueurs"
+      ],
+      "explanation": "Leur nom viendrait de la chemise, la camise, qu'ils portaient ; leur chef Jean Cavalier finit sa carrière au service de l'Angleterre.",
+      "wikipedia": "Guerre des Cévennes"
+    },
+    {
+      "id": "histoire-120",
+      "difficulty": 2,
+      "question": "Quel surnom désignait les vieux soldats de la Garde impériale de Napoléon ?",
+      "answer": "grognards",
+      "accept": [
+        "grognard"
+      ],
+      "choices": [
+        "poilus",
+        "tommies",
+        "marie-louise"
+      ],
+      "explanation": "Napoléon lui-même les appelait ainsi car ils se plaignaient beaucoup tout en le suivant partout ; ils portaient le célèbre bonnet à poil.",
+      "wikipedia": "Grognard"
+    }
+  ]
+}

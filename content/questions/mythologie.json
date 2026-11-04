@@ -1,0 +1,794 @@
+{
+  "category": "mythologie",
+  "questions": [
+    {
+      "id": "mythologie-001",
+      "difficulty": 1,
+      "question": "Quel dieu grec, roi de l'Olympe, maniait la foudre ?",
+      "answer": "Zeus",
+      "accept": [],
+      "choices": [
+        "Poséidon",
+        "Hadès",
+        "Apollon"
+      ],
+      "explanation": "Fils de Cronos et de Rhéa, il fut caché en Crète par sa mère pour échapper à son père, qui dévorait ses enfants à leur naissance.",
+      "wikipedia": "Zeus"
+    },
+    {
+      "id": "mythologie-002",
+      "difficulty": 1,
+      "question": "Quel héros grec dut accomplir douze travaux, dont tuer le lion de Némée ?",
+      "answer": "Héraclès",
+      "accept": [
+        "Hercule",
+        "Héracles"
+      ],
+      "choices": [
+        "Thésée",
+        "Persée",
+        "Jason"
+      ],
+      "explanation": "Ces travaux lui furent imposés par le roi Eurysthée en expiation du meurtre de ses propres enfants, commis dans un accès de folie envoyé par Héra.",
+      "wikipedia": "Héraclès"
+    },
+    {
+      "id": "mythologie-003",
+      "difficulty": 1,
+      "question": "Quel héros athénien tua le Minotaure dans le labyrinthe de Crète ?",
+      "answer": "Thésée",
+      "accept": [],
+      "choices": [
+        "Persée",
+        "Jason",
+        "Ulysse"
+      ],
+      "explanation": "Ariane, fille du roi Minos, lui donna une pelote de fil pour retrouver la sortie ; il l'abandonna pourtant ensuite sur l'île de Naxos.",
+      "wikipedia": "Thésée"
+    },
+    {
+      "id": "mythologie-004",
+      "difficulty": 1,
+      "question": "Quel roi d'Ithaque mit dix ans à rentrer chez lui après la guerre de Troie ?",
+      "answer": "Ulysse",
+      "accept": [
+        "Odysseus",
+        "Odyssée"
+      ],
+      "choices": [
+        "Agamemnon",
+        "Ménélas",
+        "Nestor"
+      ],
+      "explanation": "Son épouse Pénélope fit patienter ses prétendants en défaisant chaque nuit la toile qu'elle tissait le jour.",
+      "wikipedia": "Ulysse"
+    },
+    {
+      "id": "mythologie-005",
+      "difficulty": 1,
+      "question": "Quel Titan déroba le feu aux dieux pour l'offrir aux hommes ?",
+      "answer": "Prométhée",
+      "accept": [],
+      "choices": [
+        "Atlas",
+        "Cronos",
+        "Épiméthée"
+      ],
+      "explanation": "Zeus le fit enchaîner sur le Caucase, où un aigle venait chaque jour lui dévorer le foie, qui repoussait sans cesse.",
+      "wikipedia": "Prométhée"
+    },
+    {
+      "id": "mythologie-006",
+      "difficulty": 2,
+      "question": "Quel Titan fut condamné par Zeus à porter la voûte céleste sur ses épaules ?",
+      "answer": "Atlas",
+      "accept": [],
+      "choices": [
+        "Prométhée",
+        "Cronos",
+        "Hypérion"
+      ],
+      "explanation": "Il a donné son nom à une chaîne de montagnes d'Afrique du Nord et, grâce au géographe Mercator, aux recueils de cartes géographiques.",
+      "wikipedia": "Atlas (mythologie)"
+    },
+    {
+      "id": "mythologie-007",
+      "difficulty": 1,
+      "question": "Quel musicien descendit aux Enfers pour ramener son épouse Eurydice ?",
+      "answer": "Orphée",
+      "accept": [],
+      "choices": [
+        "Apollon",
+        "Amphion",
+        "Linos"
+      ],
+      "explanation": "Hadès accepta à condition qu'il ne se retourne pas avant la sortie ; il céda à l'inquiétude et perdit Eurydice pour toujours.",
+      "wikipedia": "Orphée"
+    },
+    {
+      "id": "mythologie-008",
+      "difficulty": 1,
+      "question": "Quel jeune homme d'une grande beauté tomba amoureux de son propre reflet dans l'eau ?",
+      "answer": "Narcisse",
+      "accept": [],
+      "choices": [
+        "Adonis",
+        "Ganymède",
+        "Hyacinthe"
+      ],
+      "explanation": "Il dépérit au bord d'une source et fut changé en fleur ; la nymphe Écho, qu'il avait repoussée, ne pouvait que répéter les derniers mots entendus.",
+      "wikipedia": "Narcisse (mythologie)"
+    },
+    {
+      "id": "mythologie-009",
+      "difficulty": 1,
+      "question": "Quel fils de Dédale vola trop près du soleil et vit fondre la cire de ses ailes ?",
+      "answer": "Icare",
+      "accept": [],
+      "choices": [
+        "Phaéton",
+        "Bellérophon",
+        "Talos"
+      ],
+      "explanation": "Son père et lui s'étaient évadés de Crète, où le roi Minos les retenait prisonniers ; la mer où il tomba porterait son nom.",
+      "wikipedia": "Icare"
+    },
+    {
+      "id": "mythologie-010",
+      "difficulty": 2,
+      "question": "Quel dieu romain à deux visages, gardien des portes, a donné son nom au mois de janvier ?",
+      "answer": "Janus",
+      "accept": [],
+      "choices": [
+        "Saturne",
+        "Vesta",
+        "Terminus"
+      ],
+      "explanation": "Les portes de son temple sur le Forum restaient ouvertes en temps de guerre et n'étaient fermées qu'en temps de paix, ce qui fut rare.",
+      "wikipedia": "Janus (mythologie)"
+    },
+    {
+      "id": "mythologie-011",
+      "difficulty": 1,
+      "question": "Quels jumeaux, allaités par une louve, fondèrent Rome selon la légende ?",
+      "answer": "Romulus et Rémus",
+      "accept": [
+        "Romulus et Remus",
+        "Romulus"
+      ],
+      "choices": [
+        "Castor et Pollux",
+        "Étéocle et Polynice",
+        "Amphion et Zéthos"
+      ],
+      "explanation": "Romulus tua son frère, qui avait franchi par moquerie le sillon sacré délimitant la ville ; la tradition date la fondation de 753 av. J.-C.",
+      "wikipedia": "Romulus et Rémus"
+    },
+    {
+      "id": "mythologie-012",
+      "difficulty": 1,
+      "question": "Quel dieu nordique du tonnerre manie le marteau Mjöllnir ?",
+      "answer": "Thor",
+      "accept": [],
+      "choices": [
+        "Odin",
+        "Loki",
+        "Tyr"
+      ],
+      "explanation": "Fils d'Odin, il a donné son nom au jeudi dans plusieurs langues germaniques, comme l'anglais thursday.",
+      "wikipedia": "Thor"
+    },
+    {
+      "id": "mythologie-013",
+      "difficulty": 2,
+      "question": "Comment s'appelle la grande salle où les guerriers morts au combat festoient auprès d'Odin ?",
+      "answer": "Valhalla",
+      "accept": [
+        "Walhalla",
+        "Valhöll"
+      ],
+      "choices": [
+        "Asgard",
+        "Midgard",
+        "Niflheim"
+      ],
+      "explanation": "Les guerriers élus y combattent chaque jour et festoient chaque nuit ; selon la tradition, la salle compterait plus de cinq cents portes.",
+      "wikipedia": "Valhalla"
+    },
+    {
+      "id": "mythologie-014",
+      "difficulty": 2,
+      "question": "Quel dieu nordique rusé, capable de changer de forme, est le père du loup Fenrir ?",
+      "answer": "Loki",
+      "accept": [],
+      "choices": [
+        "Baldr",
+        "Heimdall",
+        "Freyr"
+      ],
+      "explanation": "Responsable de la mort de Baldr, il fut enchaîné par les dieux ; un serpent fait couler son venin sur lui, et ses convulsions provoquent les tremblements de terre.",
+      "wikipedia": "Loki"
+    },
+    {
+      "id": "mythologie-015",
+      "difficulty": 2,
+      "question": "Comment s'appelle la fin du monde dans la mythologie nordique, où périssent la plupart des dieux ?",
+      "answer": "Ragnarök",
+      "accept": [
+        "Ragnarok"
+      ],
+      "choices": [
+        "Ginnungagap",
+        "Fimbulvetr",
+        "Völuspá"
+      ],
+      "explanation": "Annoncé par un terrible hiver, il voit Odin dévoré par le loup Fenrir et Thor tué par le venin du serpent de Midgard.",
+      "wikipedia": "Ragnarök"
+    },
+    {
+      "id": "mythologie-016",
+      "difficulty": 1,
+      "question": "Quel dieu égyptien à tête de chacal présidait à l'embaumement des morts ?",
+      "answer": "Anubis",
+      "accept": [],
+      "choices": [
+        "Horus",
+        "Thot",
+        "Seth"
+      ],
+      "explanation": "Il guidait le défunt lors de la pesée du cœur face à la plume de Maât, déesse de la vérité et de l'ordre du monde.",
+      "wikipedia": "Anubis"
+    },
+    {
+      "id": "mythologie-017",
+      "difficulty": 2,
+      "question": "Quel dieu égyptien, assassiné par son frère Seth, devint le souverain du royaume des morts ?",
+      "answer": "Osiris",
+      "accept": [],
+      "choices": [
+        "Rê",
+        "Ptah",
+        "Amon"
+      ],
+      "explanation": "Son épouse Isis rassembla les morceaux de son corps dispersé ; il est souvent représenté avec une peau verte, couleur de la renaissance.",
+      "wikipedia": "Osiris"
+    },
+    {
+      "id": "mythologie-018",
+      "difficulty": 2,
+      "question": "Quel dieu égyptien à tête d'ibis était le dieu de l'écriture et du savoir ?",
+      "answer": "Thot",
+      "accept": [
+        "Thoth"
+      ],
+      "choices": [
+        "Ptah",
+        "Khnoum",
+        "Sobek"
+      ],
+      "explanation": "Les Grecs l'identifièrent à Hermès ; il était souvent représenté en scribe, notant le résultat de la pesée du cœur des défunts.",
+      "wikipedia": "Thot"
+    },
+    {
+      "id": "mythologie-019",
+      "difficulty": 3,
+      "question": "Quel dieu égyptien à forme de scarabée incarnait le soleil levant ?",
+      "answer": "Khépri",
+      "accept": [
+        "Khepri"
+      ],
+      "choices": [
+        "Khnoum",
+        "Atoum",
+        "Bastet"
+      ],
+      "explanation": "On imaginait qu'il poussait le disque solaire comme le bousier roule sa boule ; il était l'une des formes du soleil avec Rê et Atoum.",
+      "wikipedia": "Khépri"
+    },
+    {
+      "id": "mythologie-020",
+      "difficulty": 2,
+      "question": "Quelle fête celte de fin octobre, marquant le début de l'année, est souvent présentée comme l'ancêtre d'Halloween ?",
+      "answer": "Samain",
+      "accept": [
+        "Samhain",
+        "Samonios"
+      ],
+      "choices": [
+        "Beltaine",
+        "Imbolc",
+        "Lugnasad"
+      ],
+      "explanation": "On pensait que la frontière avec l'Autre Monde s'ouvrait cette nuit-là ; la christianisation en fit la veille de la Toussaint.",
+      "wikipedia": "Samain (mythologie)"
+    },
+    {
+      "id": "mythologie-021",
+      "difficulty": 3,
+      "question": "Quel dieu celte, maître de tous les arts, aurait donné son nom à l'antique Lugdunum ?",
+      "answer": "Lug",
+      "accept": [
+        "Lugus"
+      ],
+      "choices": [
+        "Cernunnos",
+        "Taranis",
+        "Teutatès"
+      ],
+      "explanation": "Lugdunum, l'actuelle Lyon, signifierait la colline de Lug ; sa fête, Lugnasad, était célébrée au début du mois d'août.",
+      "wikipedia": "Lug (dieu)"
+    },
+    {
+      "id": "mythologie-022",
+      "difficulty": 3,
+      "question": "Quel dieu celte est représenté avec des bois de cerf sur le chaudron de Gundestrup ?",
+      "answer": "Cernunnos",
+      "accept": [],
+      "choices": [
+        "Taranis",
+        "Ésus",
+        "Lug"
+      ],
+      "explanation": "Son nom n'est connu que par une seule inscription, sur le pilier des Nautes découvert sous Notre-Dame de Paris en 1711.",
+      "wikipedia": "Cernunnos"
+    },
+    {
+      "id": "mythologie-023",
+      "difficulty": 1,
+      "question": "Quelle épée légendaire la Dame du Lac remit-elle au roi Arthur ?",
+      "answer": "Excalibur",
+      "accept": [],
+      "choices": [
+        "Durandal",
+        "Joyeuse",
+        "Balmung"
+      ],
+      "explanation": "Mortellement blessé à la bataille de Camlann, Arthur demanda à son chevalier Bédivère de la rejeter dans les eaux du lac.",
+      "wikipedia": "Excalibur"
+    },
+    {
+      "id": "mythologie-024",
+      "difficulty": 1,
+      "question": "Quel dieu hindou à tête d'éléphant est invoqué pour lever les obstacles ?",
+      "answer": "Ganesh",
+      "accept": [
+        "Ganesha",
+        "Ganapati"
+      ],
+      "choices": [
+        "Hanuman",
+        "Indra",
+        "Krishna"
+      ],
+      "explanation": "Fils de Shiva et de Parvati, il aurait été décapité par son père, qui remplaça sa tête par celle d'un éléphant.",
+      "wikipedia": "Ganesh"
+    },
+    {
+      "id": "mythologie-025",
+      "difficulty": 2,
+      "question": "Quel dieu hindou forme avec Brahma et Vishnou la Trimurti ?",
+      "answer": "Shiva",
+      "accept": [
+        "Śiva",
+        "Siva",
+        "Çiva"
+      ],
+      "choices": [
+        "Indra",
+        "Krishna",
+        "Agni"
+      ],
+      "explanation": "Il incarne la destruction nécessaire au renouveau ; on le représente souvent dansant sous la forme du Nataraja, entouré d'un cercle de flammes.",
+      "wikipedia": "Shiva"
+    },
+    {
+      "id": "mythologie-026",
+      "difficulty": 2,
+      "question": "Quel dieu-singe hindou est le fidèle allié de Rama dans le Ramayana ?",
+      "answer": "Hanuman",
+      "accept": [
+        "Hanumān"
+      ],
+      "choices": [
+        "Ganesh",
+        "Garuda",
+        "Indra"
+      ],
+      "explanation": "Capable de bondir par-dessus la mer jusqu'à l'île de Lanka, il aida à délivrer Sita, enlevée par le démon Ravana.",
+      "wikipedia": "Hanumān"
+    },
+    {
+      "id": "mythologie-027",
+      "difficulty": 3,
+      "question": "Quel avatar de Vishnou délivre son enseignement au guerrier Arjuna dans la Bhagavad-Gita ?",
+      "answer": "Krishna",
+      "accept": [
+        "Krishnā",
+        "Kṛṣṇa"
+      ],
+      "choices": [
+        "Rama",
+        "Bouddha",
+        "Narasimha"
+      ],
+      "explanation": "Ce dialogue a lieu sur le champ de bataille de Kurukshetra, juste avant le grand affrontement raconté par le Mahabharata.",
+      "wikipedia": "Krishna"
+    },
+    {
+      "id": "mythologie-028",
+      "difficulty": 1,
+      "question": "Quel dieu aztèque est appelé le Serpent à plumes ?",
+      "answer": "Quetzalcoatl",
+      "accept": [
+        "Quetzalcóatl"
+      ],
+      "choices": [
+        "Huitzilopochtli",
+        "Tlaloc",
+        "Tezcatlipoca"
+      ],
+      "explanation": "Son nom associe le quetzal, oiseau aux plumes précieuses, et coatl, le serpent ; les Mayas vénéraient une divinité équivalente nommée Kukulcán.",
+      "wikipedia": "Quetzalcóatl"
+    },
+    {
+      "id": "mythologie-029",
+      "difficulty": 3,
+      "question": "Quel dieu aztèque du soleil et de la guerre guida les Mexicas jusqu'au site de leur future capitale ?",
+      "answer": "Huitzilopochtli",
+      "accept": [],
+      "choices": [
+        "Quetzalcoatl",
+        "Tlaloc",
+        "Xipe Totec"
+      ],
+      "explanation": "Il leur indiqua de s'établir là où ils verraient un aigle posé sur un cactus dévorant un serpent, scène reprise sur le drapeau du Mexique.",
+      "wikipedia": "Huitzilopochtli"
+    },
+    {
+      "id": "mythologie-030",
+      "difficulty": 3,
+      "question": "Quel dieu aztèque de la pluie partageait avec le dieu de la guerre le sommet du Templo Mayor ?",
+      "answer": "Tlaloc",
+      "accept": [
+        "Tláloc"
+      ],
+      "choices": [
+        "Quetzalcoatl",
+        "Xipe Totec",
+        "Tezcatlipoca"
+      ],
+      "explanation": "Il est représenté avec de grands yeux cerclés et des crocs ; les Mayas honoraient un dieu de la pluie comparable nommé Chaac.",
+      "wikipedia": "Tlaloc"
+    },
+    {
+      "id": "mythologie-031",
+      "difficulty": 1,
+      "question": "Quel personnage biblique construisit une arche pour échapper au Déluge ?",
+      "answer": "Noé",
+      "accept": [],
+      "choices": [
+        "Abraham",
+        "Moïse",
+        "Jonas"
+      ],
+      "explanation": "Il lâcha une colombe qui revint avec un rameau d'olivier, signe que les eaux se retiraient ; l'arche s'échoua sur le mont Ararat.",
+      "wikipedia": "Noé (patriarche)"
+    },
+    {
+      "id": "mythologie-032",
+      "difficulty": 1,
+      "question": "Quel prophète reçut les Tables de la Loi sur le mont Sinaï ?",
+      "answer": "Moïse",
+      "accept": [],
+      "choices": [
+        "Abraham",
+        "Élie",
+        "Aaron"
+      ],
+      "explanation": "Selon l'Exode, il brisa les premières tables en voyant les Hébreux adorer un veau d'or, puis remonta en recevoir de nouvelles.",
+      "wikipedia": "Moïse"
+    },
+    {
+      "id": "mythologie-033",
+      "difficulty": 1,
+      "question": "Quel apôtre livra Jésus pour trente pièces d'argent ?",
+      "answer": "Judas",
+      "accept": [
+        "Judas Iscariote"
+      ],
+      "choices": [
+        "Thomas",
+        "Matthieu",
+        "Barthélemy"
+      ],
+      "explanation": "Il désigna Jésus aux gardes au jardin de Gethsémani par un baiser, resté depuis le symbole même de la trahison.",
+      "wikipedia": "Judas Iscariote"
+    },
+    {
+      "id": "mythologie-034",
+      "difficulty": 2,
+      "question": "Quel saint, patron des voyageurs, aurait porté l'Enfant Jésus pour lui faire traverser une rivière ?",
+      "answer": "Christophe",
+      "accept": [
+        "saint Christophe"
+      ],
+      "choices": [
+        "Antoine",
+        "Jacques",
+        "Martin"
+      ],
+      "explanation": "Son nom signifie en grec celui qui porte le Christ ; ses médailles accompagnent traditionnellement les automobilistes.",
+      "wikipedia": "Christophe de Lycie"
+    },
+    {
+      "id": "mythologie-035",
+      "difficulty": 3,
+      "question": "Quel diacre fut le premier martyr chrétien, lapidé à Jérusalem ?",
+      "answer": "Étienne",
+      "accept": [
+        "saint Étienne"
+      ],
+      "choices": [
+        "Pierre",
+        "Paul",
+        "Barnabé"
+      ],
+      "explanation": "Membre de la première communauté chrétienne de Jérusalem, il est fêté le 26 décembre, au lendemain de Noël.",
+      "wikipedia": "Étienne (martyr)"
+    },
+    {
+      "id": "mythologie-036",
+      "difficulty": 1,
+      "question": "Quel livre sacré de l'islam rassemble les révélations faites au prophète Mahomet ?",
+      "answer": "Coran",
+      "accept": [
+        "le Coran"
+      ],
+      "choices": [
+        "Torah",
+        "Talmud",
+        "Avesta"
+      ],
+      "explanation": "Rédigé en arabe, il est divisé en 114 chapitres appelés sourates ; la première, la Fatiha, est récitée à chaque prière.",
+      "wikipedia": "Coran"
+    },
+    {
+      "id": "mythologie-037",
+      "difficulty": 2,
+      "question": "Comment s'appelle le pèlerinage à La Mecque, l'un des cinq piliers de l'islam ?",
+      "answer": "hajj",
+      "accept": [
+        "hadj",
+        "hadjdj",
+        "haj"
+      ],
+      "choices": [
+        "omra",
+        "zakat",
+        "chahada"
+      ],
+      "explanation": "Il doit être accompli au moins une fois dans sa vie par tout musulman qui en a les moyens ; les pèlerins tournent sept fois autour de la Kaaba.",
+      "wikipedia": "Hajj"
+    },
+    {
+      "id": "mythologie-038",
+      "difficulty": 2,
+      "question": "Quelle fête juive de huit jours, appelée fête des Lumières, se célèbre en allumant un chandelier ?",
+      "answer": "Hanoucca",
+      "accept": [
+        "Hanoukka",
+        "Hanouka",
+        "Hanukkah"
+      ],
+      "choices": [
+        "Pessah",
+        "Pourim",
+        "Soukkot"
+      ],
+      "explanation": "Elle commémore la reconsécration du Temple de Jérusalem par les Maccabées et le miracle d'une fiole d'huile qui aurait brûlé huit jours.",
+      "wikipedia": "Hanoucca"
+    },
+    {
+      "id": "mythologie-039",
+      "difficulty": 2,
+      "question": "Quelle fête hindoue des lumières célèbre la victoire du bien sur le mal ?",
+      "answer": "Diwali",
+      "accept": [
+        "Dipavali",
+        "Deepavali",
+        "Divali"
+      ],
+      "choices": [
+        "Holi",
+        "Navratri",
+        "Pongal"
+      ],
+      "explanation": "On y allume des lampes à huile appelées diyas ; elle est aussi associée à Lakshmi, déesse de la prospérité.",
+      "wikipedia": "Divali"
+    },
+    {
+      "id": "mythologie-040",
+      "difficulty": 2,
+      "question": "Sous quel arbre Siddhartha Gautama atteignit-il l'Éveil, selon la tradition bouddhique ?",
+      "answer": "figuier",
+      "accept": [
+        "pipal",
+        "arbre de la Bodhi",
+        "Ficus religiosa"
+      ],
+      "choices": [
+        "banian",
+        "manguier",
+        "tamarinier"
+      ],
+      "explanation": "Ce figuier des pagodes se trouvait à Bodh-Gaya, en Inde ; un arbre réputé descendre de l'original y est toujours vénéré par les pèlerins.",
+      "wikipedia": "Arbre de la Bodhi"
+    },
+    {
+      "id": "mythologie-041",
+      "difficulty": 3,
+      "question": "Comment s'appelle le livre sacré du sikhisme, conservé notamment au Temple d'or d'Amritsar ?",
+      "answer": "Guru Granth Sahib",
+      "accept": [
+        "Adi Granth",
+        "Granth Sahib"
+      ],
+      "choices": [
+        "Avesta",
+        "Bhagavad-Gita",
+        "Tipitaka"
+      ],
+      "explanation": "Le dixième et dernier gourou humain, Gobind Singh, déclara que ce recueil d'hymnes serait désormais le guide éternel de la communauté.",
+      "wikipedia": "Guru Granth Sahib"
+    },
+    {
+      "id": "mythologie-042",
+      "difficulty": 2,
+      "question": "Quel prophète de l'Iran ancien fonda la religion dont l'Avesta est le livre sacré ?",
+      "answer": "Zoroastre",
+      "accept": [
+        "Zarathoustra"
+      ],
+      "choices": [
+        "Mani",
+        "Cyrus",
+        "Mazdak"
+      ],
+      "explanation": "Sa religion oppose le dieu bon Ahura Mazda à l'esprit du mal ; Nietzsche a repris son nom dans Ainsi parlait Zarathoustra.",
+      "wikipedia": "Zoroastre"
+    },
+    {
+      "id": "mythologie-043",
+      "difficulty": 2,
+      "question": "Quel sage chinois est l'auteur traditionnel du Tao-tö-king, texte fondateur du taoïsme ?",
+      "answer": "Lao-tseu",
+      "accept": [
+        "Laozi",
+        "Lao Tseu"
+      ],
+      "choices": [
+        "Confucius",
+        "Mencius",
+        "Zhuangzi"
+      ],
+      "explanation": "Selon la légende, il quitta la Chine à dos de buffle et rédigea ce texte à la demande d'un gardien de la frontière.",
+      "wikipedia": "Lao Tseu"
+    },
+    {
+      "id": "mythologie-044",
+      "difficulty": 1,
+      "question": "Quel symbole chinois associe deux formes complémentaires, l'une noire et l'autre blanche ?",
+      "answer": "yin et yang",
+      "accept": [
+        "yin-yang",
+        "taijitu",
+        "yin yang"
+      ],
+      "choices": [
+        "ankh",
+        "triskèle",
+        "mandala"
+      ],
+      "explanation": "Chaque moitié contient un point de la couleur opposée, rappelant qu'aucune force n'existe sans une part de son contraire.",
+      "wikipedia": "Yin et yang"
+    },
+    {
+      "id": "mythologie-045",
+      "difficulty": 2,
+      "question": "Quelle croix égyptienne surmontée d'une boucle symbolisait la vie ?",
+      "answer": "ânkh",
+      "accept": [
+        "ankh",
+        "croix ansée"
+      ],
+      "choices": [
+        "djed",
+        "oudjat",
+        "sceptre ouas"
+      ],
+      "explanation": "Les dieux sont souvent représentés la tenant à la main ou l'approchant du visage du pharaon pour lui insuffler le souffle de vie.",
+      "wikipedia": "Ânkh"
+    },
+    {
+      "id": "mythologie-046",
+      "difficulty": 2,
+      "question": "Quel symbole à trois branches spiralées, hérité des Celtes, est devenu un emblème de la Bretagne ?",
+      "answer": "triskèle",
+      "accept": [
+        "triskell",
+        "triskel",
+        "triskèles"
+      ],
+      "choices": [
+        "triquetra",
+        "ouroboros",
+        "croix celtique"
+      ],
+      "explanation": "Un triskèle à trois jambes figure aussi sur le drapeau de la Sicile et sur celui de l'île de Man.",
+      "wikipedia": "Triskèle"
+    },
+    {
+      "id": "mythologie-047",
+      "difficulty": 3,
+      "question": "Quel serpent qui se mord la queue symbolise l'éternel recommencement ?",
+      "answer": "ouroboros",
+      "accept": [
+        "ourobouros",
+        "uroboros"
+      ],
+      "choices": [
+        "caducée",
+        "basilic",
+        "amphisbène"
+      ],
+      "explanation": "Le motif apparaît déjà dans l'Égypte ancienne, puis chez les alchimistes, qui y voyaient l'unité de la matière et le cycle des transformations.",
+      "wikipedia": "Ouroboros"
+    },
+    {
+      "id": "mythologie-048",
+      "difficulty": 2,
+      "question": "Quel animal servait de signe de reconnaissance aux premiers chrétiens, son nom grec formant un acronyme ?",
+      "answer": "poisson",
+      "accept": [
+        "ichthys"
+      ],
+      "choices": [
+        "agneau",
+        "colombe",
+        "pélican"
+      ],
+      "explanation": "Le mot grec ichthus formait l'acronyme de « Jésus-Christ, Fils de Dieu, Sauveur » ; on le traçait en deux arcs de cercle.",
+      "wikipedia": "Ichthus"
+    },
+    {
+      "id": "mythologie-049",
+      "difficulty": 1,
+      "question": "Quelle fête chrétienne du 2 février est associée en France aux crêpes ?",
+      "answer": "Chandeleur",
+      "accept": [
+        "la Chandeleur"
+      ],
+      "choices": [
+        "Épiphanie",
+        "Toussaint",
+        "Assomption"
+      ],
+      "explanation": "Elle commémore la présentation de Jésus au Temple ; son nom vient des chandelles bénites ce jour-là.",
+      "wikipedia": "Chandeleur"
+    },
+    {
+      "id": "mythologie-050",
+      "difficulty": 3,
+      "question": "Quel cheval à huit jambes est la monture d'Odin ?",
+      "answer": "Sleipnir",
+      "accept": [],
+      "choices": [
+        "Pégase",
+        "Gullfaxi",
+        "Skinfaxi"
+      ],
+      "explanation": "Il est né de Loki, qui s'était changé en jument pour détourner l'étalon d'un géant bâtisseur des remparts d'Asgard.",
+      "wikipedia": "Sleipnir"
+    }
+  ]
+}
