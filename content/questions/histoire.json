@@ -1554,19 +1554,19 @@
     {
       "id": "histoire-099",
       "difficulty": 2,
-      "question": "Quelle grotte d'Ardèche, découverte en 1994, abrite certaines des plus anciennes peintures connues ?",
-      "answer": "Chauvet",
+      "question": "Dans quel château fut signé, le 28 juin 1919, le traité qui mit fin à la Première Guerre mondiale avec l'Allemagne ?",
+      "answer": "Versailles",
       "accept": [
-        "grotte Chauvet",
-        "Chauvet-Pont d'Arc"
+        "château de Versailles",
+        "traité de Versailles"
       ],
       "choices": [
-        "Lascaux",
-        "Niaux",
-        "Pech Merle"
+        "Fontainebleau",
+        "Saint-Germain-en-Laye",
+        "Compiègne"
       ],
-      "explanation": "Vieilles de plus de 30 000 ans, ses peintures représentent notamment des lions, des rhinocéros et des mammouths ; le site est inscrit au patrimoine mondial depuis 2014.",
-      "wikipedia": "Grotte Chauvet"
+      "explanation": "Il fut signé dans la galerie des Glaces, là même où l'Empire allemand avait été proclamé en 1871 ; il imposait à l'Allemagne de lourdes réparations.",
+      "wikipedia": "Traité de Versailles (1919)"
     },
     {
       "id": "histoire-100",

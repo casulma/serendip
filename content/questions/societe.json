@@ -52,18 +52,19 @@
   {
    "id": "societe-004",
    "difficulty": 1,
-   "question": "Quel oiseau de basse-cour est l'un des emblèmes officieux de la France ?",
-   "answer": "coq",
+   "question": "Quel jour férié du 1er mai rend hommage aux travailleurs, en France comme dans de nombreux pays ?",
+   "answer": "fête du Travail",
    "accept": [
-    "coq gaulois"
+    "fête des travailleurs",
+    "journée internationale des travailleurs"
    ],
    "choices": [
-    "aigle",
-    "paon",
-    "faisan"
+    "fête nationale",
+    "Armistice",
+    "Toussaint"
    ],
-   "explanation": "Ce symbole doit beaucoup à un jeu de mots latin : gallus désigne à la fois le coq et le Gaulois.",
-   "wikipedia": "Coq gaulois"
+   "explanation": "Elle trouve son origine dans les grèves de Chicago de mai 1886 pour la journée de huit heures ; en France, on y offre traditionnellement du muguet.",
+   "wikipedia": "Fête du Travail"
   },
   {
    "id": "societe-005",

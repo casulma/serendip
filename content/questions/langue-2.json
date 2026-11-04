@@ -417,15 +417,15 @@
   {
    "id": "langue-098",
    "difficulty": 1,
-   "question": "Quel animal remporte la course dans la fable de La Fontaine qui affirme « Rien ne sert de courir ; il faut partir à point » ?",
-   "answer": "Tortue",
+   "question": "Comment se termine la morale de La Fontaine qui commence par « Rien ne sert de courir ; il faut… » ?",
+   "answer": "partir à point",
    "accept": [],
    "choices": [
-    "Escargot",
-    "Limace",
-    "Hérisson"
+    "arriver à temps",
+    "savoir attendre",
+    "garder son souffle"
    ],
-   "explanation": "Le lièvre, sûr de sa vitesse, broute et dort avant de s'élancer trop tard ; la fable, publiée en 1668, s'inspire d'Ésope.",
+   "explanation": "C'est la morale du Lièvre et la Tortue : le lièvre, sûr de sa vitesse, broute et dort avant de s'élancer trop tard ; la fable s'inspire d'Ésope.",
    "wikipedia": "Le Lièvre et la Tortue (La Fontaine)"
   },
   {
