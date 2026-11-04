@@ -1,0 +1,1108 @@
+{
+  "category": "musique",
+  "questions": [
+    {
+      "id": "musique-001",
+      "difficulty": 1,
+      "question": "Qui a composé l'opéra « La Flûte enchantée », célèbre pour l'air de la Reine de la Nuit ?",
+      "answer": "Mozart",
+      "accept": [
+        "Wolfgang Amadeus Mozart"
+      ],
+      "choices": [
+        "Haydn",
+        "Beethoven",
+        "Salieri"
+      ],
+      "explanation": "L'opéra fut créé à Vienne en 1791, quelques semaines seulement avant la mort du compositeur, sur un livret d'Emanuel Schikaneder qui y jouait Papageno.",
+      "wikipedia": "La Flûte enchantée"
+    },
+    {
+      "id": "musique-002",
+      "difficulty": 1,
+      "question": "Quel compositeur allemand, devenu sourd, a intégré l'« Ode à la joie » dans le finale de sa Neuvième symphonie ?",
+      "answer": "Beethoven",
+      "accept": [
+        "Ludwig van Beethoven"
+      ],
+      "choices": [
+        "Brahms",
+        "Schubert",
+        "Haydn"
+      ],
+      "explanation": "Le texte est un poème de Friedrich Schiller ; un arrangement de cette mélodie a été adopté comme hymne par le Conseil de l'Europe puis par l'Union européenne.",
+      "wikipedia": "Ludwig van Beethoven"
+    },
+    {
+      "id": "musique-003",
+      "difficulty": 1,
+      "question": "Quel compositeur vénitien de l'époque baroque a écrit le cycle de concertos « Les Quatre Saisons » ?",
+      "answer": "Vivaldi",
+      "accept": [
+        "Antonio Vivaldi"
+      ],
+      "choices": [
+        "Corelli",
+        "Albinoni",
+        "Scarlatti"
+      ],
+      "explanation": "Surnommé « le Prêtre roux », il fut ordonné prêtre et enseigna la musique aux jeunes orphelines de l'Ospedale della Pietà, à Venise.",
+      "wikipedia": "Les Quatre Saisons"
+    },
+    {
+      "id": "musique-004",
+      "difficulty": 1,
+      "question": "Combien de cordes compte un violon classique, accordées en quintes de la plus grave à la plus aiguë ?",
+      "answer": "Quatre",
+      "accept": [
+        "4"
+      ],
+      "choices": [
+        "Trois",
+        "Cinq",
+        "Six"
+      ],
+      "explanation": "Elles sont accordées sol, ré, la, mi ; longtemps fabriquées en boyau, elles sont aujourd'hui souvent synthétiques ou métalliques.",
+      "wikipedia": "Violon"
+    },
+    {
+      "id": "musique-005",
+      "difficulty": 1,
+      "question": "Quel opéra de Georges Bizet met en scène une cigarière de Séville et le brigadier Don José ?",
+      "answer": "Carmen",
+      "accept": [],
+      "choices": [
+        "Lakmé",
+        "Manon",
+        "Thaïs"
+      ],
+      "explanation": "Inspiré d'une nouvelle de Prosper Mérimée, l'opéra fut plutôt mal accueilli à sa création en 1875 ; Bizet mourut trois mois plus tard, sans connaître son triomphe.",
+      "wikipedia": "Carmen (opéra)"
+    },
+    {
+      "id": "musique-006",
+      "difficulty": 1,
+      "question": "Quelle chanteuse française, surnommée « la Môme », a interprété « La Vie en rose » et « Non, je ne regrette rien » ?",
+      "answer": "Édith Piaf",
+      "accept": [
+        "Piaf",
+        "Edith Piaf"
+      ],
+      "choices": [
+        "Fréhel",
+        "Damia",
+        "Mistinguett"
+      ],
+      "explanation": "Née Édith Giovanna Gassion, elle fut baptisée « la Môme Piaf » par le directeur de cabaret Louis Leplée, « piaf » signifiant moineau en argot.",
+      "wikipedia": "Édith Piaf"
+    },
+    {
+      "id": "musique-007",
+      "difficulty": 1,
+      "question": "Pour quel instrument Frédéric Chopin a-t-il écrit la quasi-totalité de ses nocturnes, valses, polonaises et mazurkas ?",
+      "answer": "Piano",
+      "accept": [],
+      "choices": [
+        "Orgue",
+        "Clavecin",
+        "Harpe"
+      ],
+      "explanation": "Né en Pologne, il vécut la seconde moitié de sa courte vie à Paris ; son cœur, selon son vœu, repose dans une église de Varsovie.",
+      "wikipedia": "Frédéric Chopin"
+    },
+    {
+      "id": "musique-008",
+      "difficulty": 1,
+      "question": "Quel groupe de Liverpool réunissait John Lennon, Paul McCartney, George Harrison et Ringo Starr ?",
+      "answer": "The Beatles",
+      "accept": [
+        "Beatles",
+        "Les Beatles"
+      ],
+      "choices": [
+        "The Rolling Stones",
+        "The Who",
+        "The Kinks"
+      ],
+      "explanation": "Leur dernière apparition publique en concert eut lieu en janvier 1969 sur le toit de l'immeuble de leur société Apple, à Londres.",
+      "wikipedia": "The Beatles"
+    },
+    {
+      "id": "musique-009",
+      "difficulty": 1,
+      "question": "Quel chanteur américain, natif du Mississippi, est surnommé « le King » du rock 'n' roll ?",
+      "answer": "Elvis Presley",
+      "accept": [
+        "Elvis"
+      ],
+      "choices": [
+        "Chuck Berry",
+        "Little Richard",
+        "Jerry Lee Lewis"
+      ],
+      "explanation": "Sa demeure de Graceland, à Memphis dans le Tennessee, est devenue un musée qui accueille chaque année des centaines de milliers de visiteurs.",
+      "wikipedia": "Elvis Presley"
+    },
+    {
+      "id": "musique-010",
+      "difficulty": 1,
+      "question": "Quel chant, composé à Strasbourg par Rouget de Lisle, est devenu l'hymne national de la France ?",
+      "answer": "La Marseillaise",
+      "accept": [
+        "Marseillaise"
+      ],
+      "choices": [
+        "Le Chant du départ",
+        "La Carmagnole",
+        "Le Temps des cerises"
+      ],
+      "explanation": "Écrit en 1792 sous le titre « Chant de guerre pour l'armée du Rhin », il doit son nom aux fédérés marseillais qui le chantèrent en entrant dans Paris.",
+      "wikipedia": "La Marseillaise"
+    },
+    {
+      "id": "musique-011",
+      "difficulty": 1,
+      "question": "Combien de lignes horizontales compte la portée utilisée pour écrire la musique occidentale moderne ?",
+      "answer": "Cinq",
+      "accept": [
+        "5"
+      ],
+      "choices": [
+        "Quatre",
+        "Six",
+        "Sept"
+      ],
+      "explanation": "Les notes se placent sur les lignes ou dans les interlignes ; de petites lignes supplémentaires permettent d'écrire au-dessus ou au-dessous de la portée.",
+      "wikipedia": "Portée (musique)"
+    },
+    {
+      "id": "musique-012",
+      "difficulty": 1,
+      "question": "Quel compositeur viennois, surnommé « le roi de la valse », a écrit « Le Beau Danube bleu » ?",
+      "answer": "Johann Strauss",
+      "accept": [
+        "Strauss",
+        "Johann Strauss II",
+        "Johann Strauss fils"
+      ],
+      "choices": [
+        "Franz Lehár",
+        "Joseph Lanner",
+        "Carl Michael Ziehrer"
+      ],
+      "explanation": "Cette valse est traditionnellement jouée en bis lors du concert du Nouvel An de l'Orchestre philharmonique de Vienne, juste avant la « Marche de Radetzky ».",
+      "wikipedia": "Le Beau Danube bleu"
+    },
+    {
+      "id": "musique-013",
+      "difficulty": 1,
+      "question": "Quel chanteur belge a écrit et interprété « Ne me quitte pas », « Amsterdam » et « Le Plat Pays » ?",
+      "answer": "Jacques Brel",
+      "accept": [
+        "Brel"
+      ],
+      "choices": [
+        "Georges Brassens",
+        "Léo Ferré",
+        "Charles Aznavour"
+      ],
+      "explanation": "Après ses adieux à la scène, il s'installa aux îles Marquises ; il est enterré à Atuona, sur l'île d'Hiva Oa, non loin du peintre Paul Gauguin.",
+      "wikipedia": "Jacques Brel"
+    },
+    {
+      "id": "musique-014",
+      "difficulty": 1,
+      "question": "Quelle comédie musicale de Leonard Bernstein transpose l'histoire de Roméo et Juliette dans les rues de New York ?",
+      "answer": "West Side Story",
+      "accept": [],
+      "choices": [
+        "Cabaret",
+        "Grease",
+        "Chicago"
+      ],
+      "explanation": "Les bandes rivales des Jets et des Sharks s'y affrontent ; les paroles sont de Stephen Sondheim et l'adaptation au cinéma de 1961 remporta dix Oscars.",
+      "wikipedia": "West Side Story"
+    },
+    {
+      "id": "musique-015",
+      "difficulty": 1,
+      "question": "De quel instrument à vent Louis Armstrong, figure majeure du jazz de La Nouvelle-Orléans, jouait-il ?",
+      "answer": "Trompette",
+      "accept": [
+        "Cornet"
+      ],
+      "choices": [
+        "Saxophone",
+        "Trombone",
+        "Clarinette"
+      ],
+      "explanation": "Surnommé « Satchmo », il était aussi un chanteur à la voix rocailleuse reconnaissable entre toutes, popularisant notamment « What a Wonderful World ».",
+      "wikipedia": "Louis Armstrong"
+    },
+    {
+      "id": "musique-016",
+      "difficulty": 1,
+      "question": "Quel compositeur français a écrit le « Boléro », célèbre pour son crescendo et sa caisse claire obsédante ?",
+      "answer": "Maurice Ravel",
+      "accept": [
+        "Ravel"
+      ],
+      "choices": [
+        "Claude Debussy",
+        "Erik Satie",
+        "Camille Saint-Saëns"
+      ],
+      "explanation": "Composée à l'origine comme musique de ballet pour la danseuse Ida Rubinstein, l'œuvre répète inlassablement deux mélodies en changeant seulement l'orchestration.",
+      "wikipedia": "Boléro (Ravel)"
+    },
+    {
+      "id": "musique-017",
+      "difficulty": 1,
+      "question": "Quel chanteur sétois à la pipe et à la moustache a écrit « Les Copains d'abord » et « La Mauvaise Réputation » ?",
+      "answer": "Georges Brassens",
+      "accept": [
+        "Brassens"
+      ],
+      "choices": [
+        "Jean Ferrat",
+        "Léo Ferré",
+        "Boby Lapointe"
+      ],
+      "explanation": "Il s'accompagnait à la guitare et fut hébergé pendant plus de vingt ans par Jeanne Planche, impasse Florimont, dans le 14e arrondissement de Paris.",
+      "wikipedia": "Georges Brassens"
+    },
+    {
+      "id": "musique-018",
+      "difficulty": 1,
+      "question": "Quel groupe britannique emmené par Freddie Mercury a enregistré « Bohemian Rhapsody » et « We Will Rock You » ?",
+      "answer": "Queen",
+      "accept": [],
+      "choices": [
+        "Genesis",
+        "Supertramp",
+        "Deep Purple"
+      ],
+      "explanation": "« Bohemian Rhapsody » dure près de six minutes et enchaîne ballade, passage d'opéra et hard rock sans aucun refrain, ce qui était très inhabituel pour un single.",
+      "wikipedia": "Queen"
+    },
+    {
+      "id": "musique-019",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une formation de musique de chambre réunissant deux violons, un alto et un violoncelle ?",
+      "answer": "Quatuor à cordes",
+      "accept": [
+        "Quatuor"
+      ],
+      "choices": [
+        "Trio à cordes",
+        "Quintette à cordes",
+        "Sextuor à cordes"
+      ],
+      "explanation": "Joseph Haydn, qui en composa près de soixante-dix, est considéré comme le père du genre ; Beethoven en fit un terrain d'expérimentation majeur.",
+      "wikipedia": "Quatuor à cordes"
+    },
+    {
+      "id": "musique-020",
+      "difficulty": 1,
+      "question": "Quel chanteur d'origine arménienne, auteur de « La Bohème », fut aussi acteur chez François Truffaut ?",
+      "answer": "Charles Aznavour",
+      "accept": [
+        "Aznavour"
+      ],
+      "choices": [
+        "Gilbert Bécaud",
+        "Serge Reggiani",
+        "Mouloudji"
+      ],
+      "explanation": "Né Shahnour Varinag Aznavourian à Paris, il tint le rôle principal de « Tirez sur le pianiste » et écrivit plus d'un millier de chansons.",
+      "wikipedia": "Charles Aznavour"
+    },
+    {
+      "id": "musique-021",
+      "difficulty": 1,
+      "question": "Quel compositeur russe a écrit la musique des ballets « Le Lac des cygnes » et « Casse-Noisette » ?",
+      "answer": "Tchaïkovski",
+      "accept": [
+        "Piotr Ilitch Tchaïkovski",
+        "Tchaikovski",
+        "Tchaïkovsky"
+      ],
+      "choices": [
+        "Rimski-Korsakov",
+        "Prokofiev",
+        "Stravinsky"
+      ],
+      "explanation": "Il signa aussi « La Belle au bois dormant », troisième pilier de son répertoire de ballets, ainsi que l'« Ouverture 1812 » avec ses coups de canon.",
+      "wikipedia": "Le Lac des cygnes"
+    },
+    {
+      "id": "musique-022",
+      "difficulty": 1,
+      "question": "Quel chanteur américain, surnommé « le roi de la pop », a sorti l'album « Thriller » ?",
+      "answer": "Michael Jackson",
+      "accept": [],
+      "choices": [
+        "Prince",
+        "Stevie Wonder",
+        "Lionel Richie"
+      ],
+      "explanation": "Le clip de la chanson « Thriller », réalisé par John Landis avec des danseurs grimés en zombies, a profondément marqué l'histoire du vidéoclip.",
+      "wikipedia": "Michael Jackson"
+    },
+    {
+      "id": "musique-023",
+      "difficulty": 1,
+      "question": "Quel groupe suédois a remporté le concours Eurovision de la chanson avec « Waterloo » ?",
+      "answer": "ABBA",
+      "accept": [],
+      "choices": [
+        "Roxette",
+        "Ace of Base",
+        "Europe"
+      ],
+      "explanation": "Le nom du groupe est formé des initiales des prénoms de ses quatre membres : Agnetha, Björn, Benny et Anni-Frid.",
+      "wikipedia": "ABBA"
+    },
+    {
+      "id": "musique-024",
+      "difficulty": 1,
+      "question": "Quel chanteur français, né Jean-Philippe Smet, était surnommé « l'idole des jeunes » ?",
+      "answer": "Johnny Hallyday",
+      "accept": [
+        "Johnny"
+      ],
+      "choices": [
+        "Eddy Mitchell",
+        "Claude François",
+        "Dick Rivers"
+      ],
+      "explanation": "Il emprunta son nom de scène à Lee Halliday, danseur américain et mari de sa cousine, qui l'avait pris sous son aile pendant son enfance.",
+      "wikipedia": "Johnny Hallyday"
+    },
+    {
+      "id": "musique-025",
+      "difficulty": 1,
+      "question": "Quel compositeur allemand a dédié six concertos au margrave Christian Louis de Brandebourg ?",
+      "answer": "Jean-Sébastien Bach",
+      "accept": [
+        "Bach",
+        "Johann Sebastian Bach",
+        "J.-S. Bach"
+      ],
+      "choices": [
+        "Haendel",
+        "Telemann",
+        "Buxtehude"
+      ],
+      "explanation": "Ces « Concertos brandebourgeois » furent envoyés au margrave en 1721, qui ne les aurait sans doute jamais fait jouer par ses musiciens.",
+      "wikipedia": "Concertos brandebourgeois"
+    },
+    {
+      "id": "musique-026",
+      "difficulty": 1,
+      "question": "Quelle chanson de Charles Trenet évoque ce qu'on voit danser « le long des golfes clairs » ?",
+      "answer": "La Mer",
+      "accept": [
+        "Mer"
+      ],
+      "choices": [
+        "Douce France",
+        "Y'a d'la joie",
+        "Que reste-t-il de nos amours ?"
+      ],
+      "explanation": "Trenet aurait griffonné le texte dans un train longeant l'étang de Thau ; adaptée en anglais sous le titre « Beyond the Sea », elle a fait le tour du monde.",
+      "wikipedia": "La Mer (chanson de Charles Trenet)"
+    },
+    {
+      "id": "musique-027",
+      "difficulty": 1,
+      "question": "Quel instrument à tuyaux et à claviers, installé dans les grandes églises, Mozart surnommait-il « le roi des instruments » ?",
+      "answer": "Orgue",
+      "accept": [
+        "Orgues"
+      ],
+      "choices": [
+        "Harmonium",
+        "Clavecin",
+        "Carillon"
+      ],
+      "explanation": "Les plus grands instruments comptent des milliers de tuyaux, actionnés depuis plusieurs claviers manuels et un pédalier joué avec les pieds.",
+      "wikipedia": "Orgue"
+    },
+    {
+      "id": "musique-028",
+      "difficulty": 1,
+      "question": "Quel groupe de rock britannique a sorti l'album « The Dark Side of the Moon », à la pochette ornée d'un prisme ?",
+      "answer": "Pink Floyd",
+      "accept": [],
+      "choices": [
+        "Genesis",
+        "Yes",
+        "Led Zeppelin"
+      ],
+      "explanation": "La célèbre pochette, un rayon de lumière blanche décomposé en arc-en-ciel par un prisme, fut conçue par le studio de graphisme Hipgnosis.",
+      "wikipedia": "The Dark Side of the Moon"
+    },
+    {
+      "id": "musique-029",
+      "difficulty": 2,
+      "question": "Quel compositeur français, pianiste au cabaret du Chat noir, a écrit les trois « Gymnopédies » ?",
+      "answer": "Erik Satie",
+      "accept": [
+        "Satie"
+      ],
+      "choices": [
+        "Gabriel Fauré",
+        "Claude Debussy",
+        "Reynaldo Hahn"
+      ],
+      "explanation": "Né à Honfleur, cet excentrique notoire donnait à ses pièces des titres loufoques comme « Trois morceaux en forme de poire ».",
+      "wikipedia": "Erik Satie"
+    },
+    {
+      "id": "musique-030",
+      "difficulty": 2,
+      "question": "Quel instrument à lames de bois Saint-Saëns utilise-t-il pour évoquer le cliquetis des squelettes dans sa « Danse macabre » ?",
+      "answer": "Xylophone",
+      "accept": [],
+      "choices": [
+        "Marimba",
+        "Vibraphone",
+        "Glockenspiel"
+      ],
+      "explanation": "Le compositeur réutilisa ce thème des squelettes dans « Fossiles », l'une des pièces de son « Carnaval des animaux », toujours au xylophone.",
+      "wikipedia": "Danse macabre (Saint-Saëns)"
+    },
+    {
+      "id": "musique-031",
+      "difficulty": 2,
+      "question": "Quel opéra de Giuseppe Verdi, créé au Caire, se déroule dans l'Égypte des pharaons ?",
+      "answer": "Aida",
+      "accept": [
+        "Aïda"
+      ],
+      "choices": [
+        "Nabucco",
+        "Otello",
+        "Rigoletto"
+      ],
+      "explanation": "Sa « Marche triomphale », jouée lors du retour victorieux du général Radamès, est l'un des passages les plus célèbres de tout le répertoire lyrique.",
+      "wikipedia": "Aida"
+    },
+    {
+      "id": "musique-032",
+      "difficulty": 2,
+      "question": "Quel opéra de Puccini a pour héroïne une geisha de Nagasaki abandonnée par l'officier américain Pinkerton ?",
+      "answer": "Madame Butterfly",
+      "accept": [
+        "Madama Butterfly"
+      ],
+      "choices": [
+        "Tosca",
+        "Turandot",
+        "La Bohème"
+      ],
+      "explanation": "L'air « Un bel dì vedremo » exprime l'espoir de Cio-Cio-San de voir revenir le navire de Pinkerton, qui a entre-temps épousé une Américaine.",
+      "wikipedia": "Madame Butterfly"
+    },
+    {
+      "id": "musique-033",
+      "difficulty": 2,
+      "question": "Quel terme italien, inscrit sur une partition, demande d'augmenter progressivement l'intensité du son ?",
+      "answer": "Crescendo",
+      "accept": [],
+      "choices": [
+        "Decrescendo",
+        "Diminuendo",
+        "Sforzando"
+      ],
+      "explanation": "Il peut aussi se noter par un soufflet qui s'ouvre ; l'effet inverse, la baisse progressive, se marque par un soufflet qui se referme.",
+      "wikipedia": "Nuance (musique)"
+    },
+    {
+      "id": "musique-034",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'intervalle séparant deux notes de même nom, par exemple un do grave et le do suivant ?",
+      "answer": "Octave",
+      "accept": [],
+      "choices": [
+        "Quinte",
+        "Septième",
+        "Neuvième"
+      ],
+      "explanation": "La fréquence de la note aiguë est exactement le double de celle de la note grave, si bien que l'oreille perçoit les deux sons comme très proches.",
+      "wikipedia": "Octave (musique)"
+    },
+    {
+      "id": "musique-035",
+      "difficulty": 2,
+      "question": "Quel compositeur tchèque a écrit la Symphonie « du Nouveau Monde » lors de son séjour aux États-Unis ?",
+      "answer": "Antonín Dvořák",
+      "accept": [
+        "Dvořák",
+        "Dvorak",
+        "Antonin Dvorak"
+      ],
+      "choices": [
+        "Bedřich Smetana",
+        "Leoš Janáček",
+        "Bohuslav Martinů"
+      ],
+      "explanation": "Il dirigeait alors le Conservatoire national de musique de New York ; l'œuvre s'inspire en partie des spirituals afro-américains et des chants amérindiens.",
+      "wikipedia": "Antonín Dvořák"
+    },
+    {
+      "id": "musique-036",
+      "difficulty": 2,
+      "question": "Quel compositeur a écrit « Le Carnaval des animaux », dont le mouvement le plus célèbre est « Le Cygne » ?",
+      "answer": "Camille Saint-Saëns",
+      "accept": [
+        "Saint-Saëns",
+        "Saint-Saens"
+      ],
+      "choices": [
+        "Gabriel Fauré",
+        "Jules Massenet",
+        "Léo Delibes"
+      ],
+      "explanation": "Craignant de nuire à sa réputation de compositeur sérieux, il interdit l'exécution publique de cette fantaisie de son vivant, à l'exception du « Cygne ».",
+      "wikipedia": "Le Carnaval des animaux"
+    },
+    {
+      "id": "musique-037",
+      "difficulty": 2,
+      "question": "Quel compositeur allemand est l'auteur de la tétralogie lyrique « L'Anneau du Nibelung » ?",
+      "answer": "Richard Wagner",
+      "accept": [
+        "Wagner"
+      ],
+      "choices": [
+        "Richard Strauss",
+        "Carl Maria von Weber",
+        "Engelbert Humperdinck"
+      ],
+      "explanation": "Ce cycle de quatre opéras est donné au Festspielhaus de Bayreuth, un théâtre que le compositeur fit construire spécialement pour ses propres œuvres.",
+      "wikipedia": "L'Anneau du Nibelung"
+    },
+    {
+      "id": "musique-038",
+      "difficulty": 2,
+      "question": "Dans « Pierre et le Loup » de Prokofiev, quel instrument incarne le canard ?",
+      "answer": "Hautbois",
+      "accept": [],
+      "choices": [
+        "Clarinette",
+        "Basson",
+        "Flûte traversière"
+      ],
+      "explanation": "Chaque personnage du conte a son instrument : l'oiseau la flûte, le chat la clarinette, le grand-père le basson et le loup les trois cors.",
+      "wikipedia": "Pierre et le Loup"
+    },
+    {
+      "id": "musique-039",
+      "difficulty": 2,
+      "question": "Quelle chanteuse, née Monique Serf, a écrit et interprété « L'Aigle noir », « Göttingen » et « Nantes » ?",
+      "answer": "Barbara",
+      "accept": [],
+      "choices": [
+        "Juliette Gréco",
+        "Anne Sylvestre",
+        "Colette Renard"
+      ],
+      "explanation": "Elle écrivit « Göttingen » après un séjour dans cette ville universitaire allemande en 1964 ; la chanson est devenue un symbole de la réconciliation franco-allemande.",
+      "wikipedia": "Barbara"
+    },
+    {
+      "id": "musique-040",
+      "difficulty": 2,
+      "question": "Quel auteur-compositeur a écrit « Pour que tu m'aimes encore » et presque tout l'album « D'eux » de Céline Dion ?",
+      "answer": "Jean-Jacques Goldman",
+      "accept": [
+        "Goldman"
+      ],
+      "choices": [
+        "Michel Berger",
+        "Daniel Balavoine",
+        "William Sheller"
+      ],
+      "explanation": "Ami de Coluche, il composa aussi en 1986 « La Chanson des Restos », devenue l'hymne des Restaurants du cœur et des Enfoirés.",
+      "wikipedia": "Jean-Jacques Goldman"
+    },
+    {
+      "id": "musique-041",
+      "difficulty": 2,
+      "question": "Quel parolier québécois a écrit les textes de l'opéra rock « Starmania » sur la musique de Michel Berger ?",
+      "answer": "Luc Plamondon",
+      "accept": [
+        "Plamondon"
+      ],
+      "choices": [
+        "Gilles Vigneault",
+        "Robert Charlebois",
+        "Félix Leclerc"
+      ],
+      "explanation": "Le spectacle, créé en 1979 au Palais des congrès de Paris, a révélé des chansons comme « Le Blues du businessman » et « SOS d'un terrien en détresse ».",
+      "wikipedia": "Starmania"
+    },
+    {
+      "id": "musique-042",
+      "difficulty": 2,
+      "question": "Quel compositeur américain a écrit « Rhapsody in Blue » et l'opéra « Porgy and Bess » ?",
+      "answer": "George Gershwin",
+      "accept": [
+        "Gershwin"
+      ],
+      "choices": [
+        "Cole Porter",
+        "Aaron Copland",
+        "Irving Berlin"
+      ],
+      "explanation": "« Rhapsody in Blue » s'ouvre sur un célèbre glissando de clarinette ; son frère Ira Gershwin écrivait les paroles de nombre de ses chansons.",
+      "wikipedia": "Rhapsody in Blue"
+    },
+    {
+      "id": "musique-043",
+      "difficulty": 2,
+      "question": "Quel saxophoniste, pionnier du bebop avec Dizzy Gillespie, était surnommé « Bird » ?",
+      "answer": "Charlie Parker",
+      "accept": [
+        "Parker"
+      ],
+      "choices": [
+        "John Coltrane",
+        "Sonny Rollins",
+        "Lester Young"
+      ],
+      "explanation": "Mort à seulement 34 ans, il a inspiré le film « Bird », réalisé par Clint Eastwood avec Forest Whitaker dans le rôle principal.",
+      "wikipedia": "Charlie Parker"
+    },
+    {
+      "id": "musique-044",
+      "difficulty": 2,
+      "question": "Quel guitariste manouche fonda avec le violoniste Stéphane Grappelli le Quintette du Hot Club de France ?",
+      "answer": "Django Reinhardt",
+      "accept": [
+        "Django"
+      ],
+      "choices": [
+        "Biréli Lagrène",
+        "Matelo Ferret",
+        "Wes Montgomery"
+      ],
+      "explanation": "Gravement brûlé à la main gauche dans l'incendie de sa roulotte, il développa une technique unique en jouant avec seulement deux doigts valides sur le manche.",
+      "wikipedia": "Django Reinhardt"
+    },
+    {
+      "id": "musique-045",
+      "difficulty": 2,
+      "question": "De quel pays « La Brabançonne » est-elle l'hymne national ?",
+      "answer": "Belgique",
+      "accept": [],
+      "choices": [
+        "Luxembourg",
+        "Suisse",
+        "Pays-Bas"
+      ],
+      "explanation": "Écrite lors de la révolution de 1830 qui mena à l'indépendance, elle tire son nom du Brabant ; ses paroles existent en français, néerlandais et allemand.",
+      "wikipedia": "La Brabançonne"
+    },
+    {
+      "id": "musique-046",
+      "difficulty": 2,
+      "question": "Quel chanteur, né Lucien Ginsburg, a créé « Le Poinçonneur des Lilas » et « La Javanaise » ?",
+      "answer": "Serge Gainsbourg",
+      "accept": [
+        "Gainsbourg"
+      ],
+      "choices": [
+        "Boris Vian",
+        "Jacques Dutronc",
+        "Serge Reggiani"
+      ],
+      "explanation": "Il écrivit aussi pour d'autres interprètes, notamment « Poupée de cire, poupée de son », avec laquelle France Gall remporta l'Eurovision pour le Luxembourg.",
+      "wikipedia": "Serge Gainsbourg"
+    },
+    {
+      "id": "musique-047",
+      "difficulty": 2,
+      "question": "Quel instrument à clavier et à cordes pincées François Couperin a-t-il illustré dans ses quatre livres de pièces ?",
+      "answer": "Clavecin",
+      "accept": [],
+      "choices": [
+        "Pianoforte",
+        "Clavicorde",
+        "Orgue"
+      ],
+      "explanation": "Surnommé « Couperin le Grand », il publia aussi une méthode, « L'Art de toucher le clavecin », restée une source précieuse sur l'interprétation de la musique baroque française.",
+      "wikipedia": "François Couperin"
+    },
+    {
+      "id": "musique-048",
+      "difficulty": 2,
+      "question": "Quel festival de 1969, tenu dans une ferme de l'État de New York, est devenu le symbole de la culture hippie ?",
+      "answer": "Woodstock",
+      "accept": [
+        "Festival de Woodstock"
+      ],
+      "choices": [
+        "Monterey",
+        "Altamont",
+        "Île de Wight"
+      ],
+      "explanation": "Malgré son nom, il ne se tint pas à Woodstock mais sur une ferme laitière de Bethel, à plusieurs dizaines de kilomètres de là.",
+      "wikipedia": "Festival de Woodstock"
+    },
+    {
+      "id": "musique-049",
+      "difficulty": 2,
+      "question": "Quel guitariste gaucher a joué à Woodstock une version saturée et déchirante de l'hymne américain ?",
+      "answer": "Jimi Hendrix",
+      "accept": [
+        "Hendrix"
+      ],
+      "choices": [
+        "Eric Clapton",
+        "Jimmy Page",
+        "Carlos Santana"
+      ],
+      "explanation": "Il jouait souvent sur une Fender Stratocaster de droitier retournée ; il mourut à 27 ans, comme Janis Joplin, Jim Morrison et plus tard Kurt Cobain.",
+      "wikipedia": "Jimi Hendrix"
+    },
+    {
+      "id": "musique-050",
+      "difficulty": 2,
+      "question": "Quel groupe de rock britannique a enregistré « Stairway to Heaven » et « Whole Lotta Love » ?",
+      "answer": "Led Zeppelin",
+      "accept": [],
+      "choices": [
+        "Deep Purple",
+        "Black Sabbath",
+        "The Who"
+      ],
+      "explanation": "Le groupe réunissait Robert Plant, Jimmy Page, John Paul Jones et John Bonham ; il se sépara après la mort de ce dernier en 1980.",
+      "wikipedia": "Led Zeppelin"
+    },
+    {
+      "id": "musique-051",
+      "difficulty": 2,
+      "question": "Quel chanteur jamaïcain, leader des Wailers, a fait connaître le reggae dans le monde entier ?",
+      "answer": "Bob Marley",
+      "accept": [
+        "Marley"
+      ],
+      "choices": [
+        "Peter Tosh",
+        "Jimmy Cliff",
+        "Burning Spear"
+      ],
+      "explanation": "Adepte du mouvement rastafari, il mourut à seulement 36 ans ; « No Woman, No Cry » et « One Love » comptent parmi ses titres les plus célèbres.",
+      "wikipedia": "Bob Marley"
+    },
+    {
+      "id": "musique-052",
+      "difficulty": 2,
+      "question": "Quel compositeur russe a provoqué un chahut mémorable au théâtre des Champs-Élysées avec « Le Sacre du printemps » ?",
+      "answer": "Igor Stravinsky",
+      "accept": [
+        "Stravinsky",
+        "Stravinski",
+        "Igor Stravinski"
+      ],
+      "choices": [
+        "Sergueï Prokofiev",
+        "Sergueï Rachmaninov",
+        "Alexandre Scriabine"
+      ],
+      "explanation": "Le ballet fut créé en 1913 par les Ballets russes de Serge de Diaghilev, sur une chorégraphie de Vaslav Nijinski aux mouvements jugés scandaleux.",
+      "wikipedia": "Le Sacre du printemps"
+    },
+    {
+      "id": "musique-053",
+      "difficulty": 2,
+      "question": "Quel musicien d'origine florentine fut surintendant de la musique de Louis XIV ?",
+      "answer": "Jean-Baptiste Lully",
+      "accept": [
+        "Lully",
+        "Lulli"
+      ],
+      "choices": [
+        "Marc-Antoine Charpentier",
+        "Jean-Philippe Rameau",
+        "Michel-Richard de Lalande"
+      ],
+      "explanation": "Il mourut de la gangrène après s'être frappé le pied avec le lourd bâton qui lui servait à battre la mesure pendant un Te Deum.",
+      "wikipedia": "Jean-Baptiste Lully"
+    },
+    {
+      "id": "musique-054",
+      "difficulty": 2,
+      "question": "De quel instrument à cordes indien Ravi Shankar fut-il le grand ambassadeur en Occident ?",
+      "answer": "Sitar",
+      "accept": [],
+      "choices": [
+        "Sarod",
+        "Vînâ",
+        "Santour"
+      ],
+      "explanation": "Il initia George Harrison, qui utilisa l'instrument dans « Norwegian Wood » des Beatles, et se produisit aux festivals de Monterey et de Woodstock.",
+      "wikipedia": "Ravi Shankar"
+    },
+    {
+      "id": "musique-055",
+      "difficulty": 2,
+      "question": "Quel trompettiste a enregistré en 1959 l'album « Kind of Blue », avec John Coltrane et Bill Evans ?",
+      "answer": "Miles Davis",
+      "accept": [
+        "Davis"
+      ],
+      "choices": [
+        "Dizzy Gillespie",
+        "Chet Baker",
+        "Clifford Brown"
+      ],
+      "explanation": "Cet album, souvent cité comme le disque de jazz le plus vendu de l'histoire, a popularisé le jazz modal, fondé sur des gammes plutôt que sur des suites d'accords.",
+      "wikipedia": "Kind of Blue"
+    },
+    {
+      "id": "musique-056",
+      "difficulty": 2,
+      "question": "Quelle chanson antimilitariste de Boris Vian commence par « Monsieur le Président, je vous fais une lettre » ?",
+      "answer": "Le Déserteur",
+      "accept": [
+        "Déserteur"
+      ],
+      "choices": [
+        "J'suis snob",
+        "La Java des bombes atomiques",
+        "Fais-moi mal Johnny"
+      ],
+      "explanation": "Écrite à la fin de la guerre d'Indochine, elle fut longtemps censurée sur les ondes ; Vian modifia la fin pour Mouloudji, son premier interprète.",
+      "wikipedia": "Le Déserteur (chanson)"
+    },
+    {
+      "id": "musique-057",
+      "difficulty": 3,
+      "question": "Quel compositeur a tiré son unique opéra achevé, « Pelléas et Mélisande », de la pièce de Maurice Maeterlinck ?",
+      "answer": "Claude Debussy",
+      "accept": [
+        "Debussy"
+      ],
+      "choices": [
+        "Paul Dukas",
+        "Gabriel Fauré",
+        "Vincent d'Indy"
+      ],
+      "explanation": "Créé à l'Opéra-Comique en 1902, l'opéra brouilla durablement Debussy et Maeterlinck, qui voulait voir sa compagne Georgette Leblanc tenir le rôle de Mélisande.",
+      "wikipedia": "Pelléas et Mélisande (opéra)"
+    },
+    {
+      "id": "musique-058",
+      "difficulty": 3,
+      "question": "Quel opéra de Monteverdi, créé à Mantoue en 1607, est considéré comme l'un des premiers chefs-d'œuvre du genre ?",
+      "answer": "L'Orfeo",
+      "accept": [
+        "Orfeo"
+      ],
+      "choices": [
+        "L'Euridice",
+        "La Dafne",
+        "Le Couronnement de Poppée"
+      ],
+      "explanation": "Composé pour la cour des Gonzague, il raconte la descente du chantre Orphée aux Enfers pour tenter de ramener son épouse Eurydice parmi les vivants.",
+      "wikipedia": "L'Orfeo"
+    },
+    {
+      "id": "musique-059",
+      "difficulty": 3,
+      "question": "Quel compositeur français, auteur d'un célèbre « Requiem » et d'une « Pavane », dirigea le Conservatoire de Paris ?",
+      "answer": "Gabriel Fauré",
+      "accept": [
+        "Fauré"
+      ],
+      "choices": [
+        "Maurice Duruflé",
+        "Ernest Chausson",
+        "Charles Gounod"
+      ],
+      "explanation": "Il prit la tête du Conservatoire en 1905 et compta parmi ses élèves Maurice Ravel et Nadia Boulanger ; il souffrit d'une surdité croissante à la fin de sa vie.",
+      "wikipedia": "Gabriel Fauré"
+    },
+    {
+      "id": "musique-060",
+      "difficulty": 3,
+      "question": "Sous quel nom collectif désigne-t-on Moussorgski, Borodine, Rimski-Korsakov, Balakirev et Cui ?",
+      "answer": "Groupe des Cinq",
+      "accept": [
+        "Les Cinq",
+        "Le Groupe des Cinq"
+      ],
+      "choices": [
+        "Groupe des Six",
+        "Groupe des Quatre",
+        "Groupe des Sept"
+      ],
+      "explanation": "Réunis autour de Mili Balakirev, ces compositeurs souvent autodidactes voulaient fonder une musique nationale russe, affranchie des modèles allemands et italiens.",
+      "wikipedia": "Groupe des Cinq"
+    },
+    {
+      "id": "musique-061",
+      "difficulty": 3,
+      "question": "Quel opéra de Mozart, sur un livret de Lorenzo Da Ponte, porte le sous-titre « le Libertin puni » ?",
+      "answer": "Don Giovanni",
+      "accept": [
+        "Don Juan"
+      ],
+      "choices": [
+        "Les Noces de Figaro",
+        "Così fan tutte",
+        "L'Enlèvement au sérail"
+      ],
+      "explanation": "Créé à Prague en 1787, il s'achève par l'apparition de la statue du Commandeur, qui entraîne le séducteur impénitent dans les flammes de l'enfer.",
+      "wikipedia": "Don Giovanni"
+    },
+    {
+      "id": "musique-062",
+      "difficulty": 3,
+      "question": "Quel instrument électronique se joue sans aucun contact, en approchant les mains de deux antennes ?",
+      "answer": "Thérémine",
+      "accept": [
+        "Theremin",
+        "Thereminvox"
+      ],
+      "choices": [
+        "Ondes Martenot",
+        "Trautonium",
+        "Mellotron"
+      ],
+      "explanation": "Inventé vers 1920 par le physicien russe Léon Theremin, il produit un son éthéré très utilisé dans les films de science-fiction des années 1950.",
+      "wikipedia": "Thérémine"
+    },
+    {
+      "id": "musique-063",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on l'ensemble des dièses ou des bémols placés au début de chaque portée, après la clé ?",
+      "answer": "Armure",
+      "accept": [
+        "Armature"
+      ],
+      "choices": [
+        "Mesure",
+        "Ligature",
+        "Cadence"
+      ],
+      "explanation": "Elle indique la tonalité du morceau ; une armure sans aucune altération correspond par exemple à do majeur ou à son relatif la mineur.",
+      "wikipedia": "Armure (musique)"
+    },
+    {
+      "id": "musique-064",
+      "difficulty": 3,
+      "question": "Quel compositeur autrichien a inventé le dodécaphonisme, méthode fondée sur des séries de douze sons ?",
+      "answer": "Arnold Schönberg",
+      "accept": [
+        "Schönberg",
+        "Schoenberg",
+        "Arnold Schoenberg"
+      ],
+      "choices": [
+        "Alban Berg",
+        "Anton Webern",
+        "Gustav Mahler"
+      ],
+      "explanation": "Dans cette technique, aucune note de la gamme chromatique ne domine les autres ; ses élèves Berg et Webern formèrent avec lui la seconde école de Vienne.",
+      "wikipedia": "Dodécaphonisme"
+    },
+    {
+      "id": "musique-065",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la petite tige de bois coincée à l'intérieur du violon, entre la table et le fond ?",
+      "answer": "Âme",
+      "accept": [
+        "L'âme",
+        "Ame"
+      ],
+      "choices": [
+        "Chevalet",
+        "Sillet",
+        "Barre d'harmonie"
+      ],
+      "explanation": "Elle transmet les vibrations de la table d'harmonie au fond ; le luthier la met en place à travers une ouïe, à l'aide d'un outil spécial, sans ouvrir l'instrument.",
+      "wikipedia": "Âme (lutherie)"
+    },
+    {
+      "id": "musique-066",
+      "difficulty": 3,
+      "question": "Quelle danse à trois temps, en vogue à la cour de Louis XIV, est devenue un mouvement de la symphonie classique ?",
+      "answer": "Menuet",
+      "accept": [],
+      "choices": [
+        "Gavotte",
+        "Bourrée",
+        "Sarabande"
+      ],
+      "explanation": "Chez Haydn et Mozart, il occupe généralement le troisième mouvement ; Beethoven le remplaça souvent par le scherzo, plus rapide et plus vif.",
+      "wikipedia": "Menuet"
+    },
+    {
+      "id": "musique-067",
+      "difficulty": 3,
+      "question": "Quel pianiste de jazz, pionnier du bebop au Minton's Playhouse, a composé « 'Round Midnight » ?",
+      "answer": "Thelonious Monk",
+      "accept": [
+        "Monk"
+      ],
+      "choices": [
+        "Bud Powell",
+        "Bill Evans",
+        "Duke Ellington"
+      ],
+      "explanation": "Célèbre pour ses harmonies dissonantes, ses silences et son jeu anguleux, il se distinguait aussi par ses chapeaux et ses petites danses sur scène.",
+      "wikipedia": "Thelonious Monk"
+    },
+    {
+      "id": "musique-068",
+      "difficulty": 3,
+      "question": "Quel compositeur viennois a écrit « Le Voyage d'hiver », cycle de vingt-quatre lieder sur des poèmes de Wilhelm Müller ?",
+      "answer": "Franz Schubert",
+      "accept": [
+        "Schubert"
+      ],
+      "choices": [
+        "Robert Schumann",
+        "Johannes Brahms",
+        "Hugo Wolf"
+      ],
+      "explanation": "Mort à seulement 31 ans, il laissa plus de six cents lieder, dont « Le Roi des aulnes » d'après Goethe et le cycle « La Belle Meunière ».",
+      "wikipedia": "Franz Schubert"
+    },
+    {
+      "id": "musique-069",
+      "difficulty": 3,
+      "question": "Quel recueil de Jean-Sébastien Bach réunit, en deux livres, des préludes et fugues dans les vingt-quatre tonalités ?",
+      "answer": "Le Clavier bien tempéré",
+      "accept": [
+        "Clavier bien tempéré"
+      ],
+      "choices": [
+        "L'Art de la fugue",
+        "L'Offrande musicale",
+        "Variations Goldberg"
+      ],
+      "explanation": "Charles Gounod plaqua une mélodie sur le premier prélude du premier livre pour créer son célèbre « Ave Maria », publié au XIXe siècle.",
+      "wikipedia": "Le Clavier bien tempéré"
+    },
+    {
+      "id": "musique-070",
+      "difficulty": 3,
+      "question": "De quel pays « Kimi ga yo », dont le texte reprend un ancien poème waka, est-il l'hymne national ?",
+      "answer": "Japon",
+      "accept": [],
+      "choices": [
+        "Corée du Sud",
+        "Chine",
+        "Thaïlande"
+      ],
+      "explanation": "Ses paroles, issues d'un recueil de poésie de l'époque Heian, en font l'un des plus anciens textes d'hymne national, et aussi l'un des plus courts.",
+      "wikipedia": "Kimi ga yo"
+    }
+  ]
+}
