@@ -85,6 +85,21 @@ describe("games", () => {
     expect(answers.map((a) => a.was_retry)).toEqual([0, 0, 1]);
   });
 
+  it("keeps a question found only with the 4 choices in the review pile", async () => {
+    const [q] = await repo.newGame(db, day(4), rand);
+    await repo.recordAnswer(db, q!, { correct: true, hinted: true }, day(4));
+    expect((await repo.overview(db)).toReview).toBe(1);
+    expect((await repo.overview(db)).correct).toBe(1);
+
+    const back = (await repo.newGame(db, day(5), rand)).find((x) => x.id === q!.id);
+    expect(back?.retry).toBe(true);
+    // Hinted again: still to review. Typed: caught up.
+    await repo.recordAnswer(db, back!, { correct: true, hinted: true }, day(5));
+    expect((await repo.overview(db)).toReview).toBe(1);
+    await repo.recordAnswer(db, back!, { correct: true, hinted: false }, day(6));
+    expect((await repo.overview(db)).toReview).toBe(0);
+  });
+
   it("lets the player review mistakes at any time and override a verdict", async () => {
     const [q] = await repo.newGame(db, day(4), rand);
     await repo.recordAnswer(db, q!, { correct: false, hinted: false }, day(4));

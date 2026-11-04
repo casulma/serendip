@@ -10,16 +10,16 @@ Quiz de culture générale façon *Questions pour un champion*, 100 % hors ligne
 ## Partie
 - 5, 10 ou 20 questions (10 par défaut), catégories prises à tour de rôle pour varier.
 - On **tape la réponse**. Sont acceptés : majuscules/accents/ponctuation, articles (« la Joconde »), petites fautes de frappe sur les mots longs, nom de famille seul (« Einstein »), chiffres en lettres, variantes prévues. Les nombres doivent être exacts.
-- « Voir 4 propositions » : QCM de secours, la bonne réponse rapporte 1 point au lieu de 2.
+- « Voir 4 propositions » : QCM de secours, la bonne réponse rapporte 1 point au lieu de 2 et la question passe à revoir.
 - « Je passe » : compte comme une erreur.
 - Correction immédiate : bonne réponse, explication qui apprend quelque chose, lien vers l'article.
 - « J'avais bon » : si le correcteur refuse une réponse juste, on la compte juste.
 - Score en fin de partie et récapitulatif.
 
 ## Questions à revoir
-- Une question ratée (ou passée) passe **à revoir**.
+- Une question ratée, passée ou trouvée seulement grâce aux 4 propositions passe **à revoir**.
 - À partir du lendemain, elle revient dans les parties suivantes (jusqu'à 30 % d'une partie) avec le badge **↻ À revoir**.
-- Trouvée : elle sort des questions à revoir (« Rattrapée ! »).
+- Trouvée en tapant la réponse : elle sort des questions à revoir (« Rattrapée ! »).
 - L'accueil affiche le nombre de questions à revoir et propose « Revoir mes erreurs maintenant » (toutes, sans attendre le lendemain).
 
 ## Stats

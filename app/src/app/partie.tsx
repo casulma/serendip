@@ -188,7 +188,8 @@ function QuestionCard({
           <Text style={{ color: result.correct ? t.success : t.danger, fontSize: fontSize.fact, fontWeight: "800" }}>
             {result.correct ? (result.typo ? fr.game.rightTypo(q.answer) : result.overridden ? fr.game.overridden : fr.game.right) : fr.game.wrong(q.answer)}
           </Text>
-          {result.correct && q.retry && <Muted>{fr.game.caughtUp}</Muted>}
+          {result.correct && !result.hinted && q.retry && <Muted>{fr.game.caughtUp}</Muted>}
+          {result.correct && result.hinted && <Muted>{fr.game.hintedReturn}</Muted>}
           {!result.correct && result.input.trim() !== "" && !result.hinted && <Muted>{fr.game.youSaid(result.input.trim())}</Muted>}
           {!result.correct && <Muted>{fr.game.willReturn}</Muted>}
           <Text style={{ color: t.text, fontSize: fontSize.body, lineHeight: 25 }}>{q.explanation}</Text>

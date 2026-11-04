@@ -85,7 +85,10 @@ export async function retryGame(db: SQLiteDatabase, random: () => number = Math.
   return load(db, shuffle(rows.map((r) => r.id), random).slice(0, s.sessionSize));
 }
 
-/** Record an answer. A miss puts the question in the "à revoir" pile, a success takes it out. */
+/**
+ * Record an answer. A miss, or a success found only with the 4 choices, puts the
+ * question in the "à revoir" pile; a typed success takes it out.
+ */
 export async function recordAnswer(
   db: SQLiteDatabase,
   q: GameQuestion,
@@ -101,7 +104,7 @@ export async function recordAnswer(
          retry = excluded.retry, last_day = excluded.last_day, last_at = excluded.last_at`,
       q.id,
       correct ? 1 : 0,
-      correct ? 0 : 1,
+      correct && !hinted ? 0 : 1,
       dayKey(now),
       at,
     );
