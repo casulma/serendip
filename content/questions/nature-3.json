@@ -2654,16 +2654,16 @@
     {
       "id": "nature-445",
       "difficulty": 1,
-      "question": "Comment appelle-t-on un lieu du désert où la présence d'eau permet la végétation et la vie humaine ?",
-      "answer": "oasis",
+      "question": "Comment appelle-t-on les précipitations formées de billes de glace qui tombent des nuages d'orage ?",
+      "answer": "grêle",
       "accept": [],
       "choices": [
-        "erg",
-        "reg",
-        "sebkha"
+        "neige",
+        "grésil",
+        "givre"
       ],
-      "explanation": "Le palmier dattier est l'arbre roi des oasis : son ombre protège les cultures étagées d'arbres fruitiers et de légumes qui poussent dessous.",
-      "wikipedia": "Oasis"
+      "explanation": "Les grêlons grossissent en montant et descendant plusieurs fois dans le nuage d'orage, ajoutant à chaque passage une couche de glace.",
+      "wikipedia": "Grêle"
     },
     {
       "id": "nature-446",
