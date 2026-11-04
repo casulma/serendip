@@ -1,0 +1,2161 @@
+{
+  "category": "musique",
+  "questions": [
+    {
+      "id": "musique-211",
+      "difficulty": 1,
+      "question": "Quel chanteur né à New York, fils d'un cinéaste américain, a popularisé « Les Champs-Élysées » en 1969 ?",
+      "answer": "Joe Dassin",
+      "accept": [
+        "Dassin"
+      ],
+      "choices": [
+        "Claude François",
+        "Michel Delpech",
+        "Hervé Vilard"
+      ],
+      "explanation": "La chanson est l'adaptation française de « Waterloo Road », un titre du groupe britannique Jason Crest sorti en 1968.",
+      "wikipedia": "Joe Dassin"
+    },
+    {
+      "id": "musique-212",
+      "difficulty": 1,
+      "question": "Quel chanteur surnommé « Cloclo » a créé « Comme d'habitude », devenue « My Way » en anglais ?",
+      "answer": "Claude François",
+      "accept": [
+        "Cloclo"
+      ],
+      "choices": [
+        "Michel Sardou",
+        "Joe Dassin",
+        "Mike Brant"
+      ],
+      "explanation": "Paul Anka a écrit les paroles anglaises de « My Way », qui n'ont rien à voir avec l'original, et Frank Sinatra l'a enregistrée en 1969.",
+      "wikipedia": "Comme d'habitude"
+    },
+    {
+      "id": "musique-213",
+      "difficulty": 2,
+      "question": "Quel chanteur né à Gênes, connu pour « Le Téléfon » et « Mirza », a aussi chanté « Le Sud » ?",
+      "answer": "Nino Ferrer",
+      "accept": [
+        "Ferrer"
+      ],
+      "choices": [
+        "Michel Fugain",
+        "Gérard Lenorman",
+        "Herbert Léonard"
+      ],
+      "explanation": "Lassé d'être réduit à ses chansons comiques, il s'installa dans le Quercy, où il se consacra aussi à la peinture.",
+      "wikipedia": "Nino Ferrer"
+    },
+    {
+      "id": "musique-214",
+      "difficulty": 1,
+      "question": "Quel chanteur au bandana rouge a écrit « Mistral gagnant », en souvenir de bonbons de son enfance ?",
+      "answer": "Renaud",
+      "accept": [
+        "Renaud Séchan"
+      ],
+      "choices": [
+        "Alain Souchon",
+        "Francis Cabrel",
+        "Laurent Voulzy"
+      ],
+      "explanation": "Renaud Séchan a fait entrer l'argot parisien et le verlan dans la chanson avec des titres comme « Laisse béton » ou « Marche à l'ombre ».",
+      "wikipedia": "Renaud"
+    },
+    {
+      "id": "musique-215",
+      "difficulty": 1,
+      "question": "Quel chanteur à la moustache, installé à Astaffort, a écrit « Je l'aime à mourir » ?",
+      "answer": "Francis Cabrel",
+      "accept": [
+        "Cabrel"
+      ],
+      "choices": [
+        "Maxime Le Forestier",
+        "Alain Souchon",
+        "Michel Jonasz"
+      ],
+      "explanation": "Dans son village du Lot-et-Garonne, il anime depuis les années 1990 des rencontres où de jeunes auteurs-compositeurs viennent travailler leurs chansons.",
+      "wikipedia": "Francis Cabrel"
+    },
+    {
+      "id": "musique-216",
+      "difficulty": 2,
+      "question": "Quel chanteur évoque « une maison bleue adossée à la colline » dans sa chanson « San Francisco » ?",
+      "answer": "Maxime Le Forestier",
+      "accept": [
+        "Le Forestier"
+      ],
+      "choices": [
+        "Hugues Aufray",
+        "Graeme Allwright",
+        "Yves Duteil"
+      ],
+      "explanation": "La maison bleue existe bien : il y avait séjourné dans une communauté hippie de San Francisco, et elle a été repeinte en bleu depuis.",
+      "wikipedia": "Maxime Le Forestier"
+    },
+    {
+      "id": "musique-217",
+      "difficulty": 1,
+      "question": "Quel groupe mené par Nicola Sirkis a connu le succès avec « L'Aventurier », inspiré des romans de Bob Morane ?",
+      "answer": "Indochine",
+      "accept": [],
+      "choices": [
+        "Téléphone",
+        "Noir Désir",
+        "Les Rita Mitsouko"
+      ],
+      "explanation": "Bob Morane, aventurier créé par l'écrivain belge Henri Vernes, est cité dans le refrain avec ses ennemis comme l'Ombre jaune.",
+      "wikipedia": "Indochine (groupe)"
+    },
+    {
+      "id": "musique-218",
+      "difficulty": 2,
+      "question": "Quel groupe bordelais mené par Bertrand Cantat a enregistré « Tostaky » et « Le vent nous portera » ?",
+      "answer": "Noir Désir",
+      "accept": [],
+      "choices": [
+        "Louise Attaque",
+        "Téléphone",
+        "Mano Negra"
+      ],
+      "explanation": "Manu Chao joue de la guitare sur « Le vent nous portera », extrait de l'album « Des visages des figures ».",
+      "wikipedia": "Noir Désir"
+    },
+    {
+      "id": "musique-219",
+      "difficulty": 2,
+      "question": "Quel duo formé par Catherine Ringer et Fred Chichin a chanté « Marcia Baïla » et « C'est comme ça » ?",
+      "answer": "Les Rita Mitsouko",
+      "accept": [
+        "Rita Mitsouko"
+      ],
+      "choices": [
+        "Niagara",
+        "Elli et Jacno",
+        "Les Négresses vertes"
+      ],
+      "explanation": "« Marcia Baïla » rend hommage à la danseuse et chorégraphe argentine Marcia Moretto, emportée par un cancer.",
+      "wikipedia": "Les Rita Mitsouko"
+    },
+    {
+      "id": "musique-220",
+      "difficulty": 3,
+      "question": "Quel groupe de hard rock français, emmené par Bernie Bonvoisin, a enregistré « Antisocial » ?",
+      "answer": "Trust",
+      "accept": [],
+      "choices": [
+        "Téléphone",
+        "Shakin' Street",
+        "Océan"
+      ],
+      "explanation": "Le groupe de thrash metal américain Anthrax a repris « Antisocial » en anglais à la fin des années 1980.",
+      "wikipedia": "Trust (groupe)"
+    },
+    {
+      "id": "musique-221",
+      "difficulty": 1,
+      "question": "Quel chanteur aux grosses lunettes blanches a chanté « Lettre à France » et « On ira tous au paradis » ?",
+      "answer": "Michel Polnareff",
+      "accept": [
+        "Polnareff"
+      ],
+      "choices": [
+        "Christophe",
+        "Michel Delpech",
+        "Julien Clerc"
+      ],
+      "explanation": "En 1972, il fit scandale en annonçant ses concerts avec une affiche le montrant les fesses nues.",
+      "wikipedia": "Michel Polnareff"
+    },
+    {
+      "id": "musique-222",
+      "difficulty": 1,
+      "question": "Quelle chanteuse née au Caire a interprété « Paroles, paroles » en duo avec Alain Delon ?",
+      "answer": "Dalida",
+      "accept": [],
+      "choices": [
+        "Nana Mouskouri",
+        "Sheila",
+        "Mireille Mathieu"
+      ],
+      "explanation": "Avant de conquérir Paris, Iolanda Gigliotti, d'origine italienne, avait été élue Miss Égypte en 1954.",
+      "wikipedia": "Dalida"
+    },
+    {
+      "id": "musique-223",
+      "difficulty": 2,
+      "question": "Quelle chanteuse a remporté l'Eurovision 1965 pour le Luxembourg avec « Poupée de cire, poupée de son » ?",
+      "answer": "France Gall",
+      "accept": [],
+      "choices": [
+        "Françoise Hardy",
+        "Sylvie Vartan",
+        "Sheila"
+      ],
+      "explanation": "La chanson était signée Serge Gainsbourg ; la chanteuse devint ensuite l'épouse et l'interprète de Michel Berger.",
+      "wikipedia": "France Gall"
+    },
+    {
+      "id": "musique-224",
+      "difficulty": 1,
+      "question": "Quelle chanteuse d'origine bulgare a interprété « La Plus Belle pour aller danser », écrite par Charles Aznavour ?",
+      "answer": "Sylvie Vartan",
+      "accept": [
+        "Vartan"
+      ],
+      "choices": [
+        "Sheila",
+        "Françoise Hardy",
+        "France Gall"
+      ],
+      "explanation": "Elle fut mariée de 1965 à 1980 à Johnny Hallyday, avec qui elle eut un fils, David Hallyday.",
+      "wikipedia": "Sylvie Vartan"
+    },
+    {
+      "id": "musique-225",
+      "difficulty": 1,
+      "question": "Quelle chanteuse, muse de Saint-Germain-des-Prés, a créé « Déshabillez-moi » et « Jolie Môme » ?",
+      "answer": "Juliette Gréco",
+      "accept": [
+        "Gréco"
+      ],
+      "choices": [
+        "Barbara",
+        "Cora Vaucaire",
+        "Catherine Sauvage"
+      ],
+      "explanation": "Jean-Paul Sartre lui écrivit la chanson « La Rue des Blancs-Manteaux », dont la musique est de Joseph Kosma.",
+      "wikipedia": "Juliette Gréco"
+    },
+    {
+      "id": "musique-226",
+      "difficulty": 2,
+      "question": "Quel chanteur monégasque, anarchiste revendiqué, a écrit et chanté « Avec le temps » ?",
+      "answer": "Léo Ferré",
+      "accept": [
+        "Ferré"
+      ],
+      "choices": [
+        "Jean Ferrat",
+        "Georges Moustaki",
+        "Serge Reggiani"
+      ],
+      "explanation": "Il a aussi mis en musique Baudelaire, Verlaine, Rimbaud et Aragon, qu'il considérait comme ses frères en poésie.",
+      "wikipedia": "Léo Ferré"
+    },
+    {
+      "id": "musique-227",
+      "difficulty": 2,
+      "question": "Quel auteur né à Alexandrie a écrit les paroles de « Milord » pour Édith Piaf ?",
+      "answer": "Georges Moustaki",
+      "accept": [
+        "Moustaki"
+      ],
+      "choices": [
+        "Charles Dumont",
+        "Michel Emer",
+        "Henri Contet"
+      ],
+      "explanation": "Ancien compagnon de Piaf, il connut lui-même le succès comme interprète en 1969 avec « Le Métèque ».",
+      "wikipedia": "Georges Moustaki"
+    },
+    {
+      "id": "musique-228",
+      "difficulty": 3,
+      "question": "Quel boxeur, amant d'Édith Piaf, a inspiré « L'Hymne à l'amour » avant de mourir dans un accident d'avion ?",
+      "answer": "Marcel Cerdan",
+      "accept": [
+        "Cerdan"
+      ],
+      "choices": [
+        "Georges Carpentier",
+        "Eugène Criqui",
+        "Robert Cohen"
+      ],
+      "explanation": "Champion du monde des poids moyens, il trouva la mort en octobre 1949 lorsque son avion s'écrasa aux Açores.",
+      "wikipedia": "Marcel Cerdan"
+    },
+    {
+      "id": "musique-229",
+      "difficulty": 2,
+      "question": "Quel poète a écrit les paroles des « Feuilles mortes », sur une musique de Joseph Kosma ?",
+      "answer": "Jacques Prévert",
+      "accept": [
+        "Prévert"
+      ],
+      "choices": [
+        "Louis Aragon",
+        "Paul Éluard",
+        "Robert Desnos"
+      ],
+      "explanation": "Chantée par Yves Montand au cinéma, la chanson est devenue aux États-Unis le standard de jazz « Autumn Leaves ».",
+      "wikipedia": "Les Feuilles mortes"
+    },
+    {
+      "id": "musique-230",
+      "difficulty": 1,
+      "question": "Quel chanteur toulousain, passionné de jazz, a écrit « Armstrong » et « Ô Toulouse » ?",
+      "answer": "Claude Nougaro",
+      "accept": [
+        "Nougaro"
+      ],
+      "choices": [
+        "Francis Cabrel",
+        "Pierre Perret",
+        "Michel Jonasz"
+      ],
+      "explanation": "Fils d'un baryton de l'Opéra, il a posé des paroles françaises sur des standards, comme « À bout de souffle » sur « Blue Rondo à la Turk ».",
+      "wikipedia": "Claude Nougaro"
+    },
+    {
+      "id": "musique-231",
+      "difficulty": 1,
+      "question": "Dans quel pays se trouve la région chantée par Michel Sardou dans « Les Lacs du Connemara » ?",
+      "answer": "Irlande",
+      "accept": [],
+      "choices": [
+        "Écosse",
+        "Pays de Galles",
+        "Islande"
+      ],
+      "explanation": "Écrite avec Pierre Delanoë sur une musique de Jacques Revaux, cette chanson est un rituel des fins de soirée et des mariages.",
+      "wikipedia": "Les Lacs du Connemara (chanson)"
+    },
+    {
+      "id": "musique-232",
+      "difficulty": 1,
+      "question": "Quel chanteur belge a sorti « Alors on danse », puis « Papaoutai » et « Formidable » ?",
+      "answer": "Stromae",
+      "accept": [
+        "Paul Van Haver"
+      ],
+      "choices": [
+        "Arno",
+        "Angèle",
+        "Christophe Maé"
+      ],
+      "explanation": "Son pseudonyme est le mot « maestro » dont on a inversé les syllabes, à la manière du verlan.",
+      "wikipedia": "Stromae"
+    },
+    {
+      "id": "musique-233",
+      "difficulty": 3,
+      "question": "Quel compositeur et réalisateur a signé la musique de « Désenchantée » et la plupart des tubes de Mylène Farmer ?",
+      "answer": "Laurent Boutonnat",
+      "accept": [
+        "Boutonnat"
+      ],
+      "choices": [
+        "Michel Berger",
+        "Jean-Jacques Goldman",
+        "Jean-Michel Jarre"
+      ],
+      "explanation": "Il a aussi réalisé les clips de la chanteuse, véritables courts métrages, et le film « Giorgino ».",
+      "wikipedia": "Laurent Boutonnat"
+    },
+    {
+      "id": "musique-234",
+      "difficulty": 1,
+      "question": "Quelle chanteuse née au Québec, à la chevelure rousse, a interprété « Libertine » et « Sans contrefaçon » ?",
+      "answer": "Mylène Farmer",
+      "accept": [
+        "Farmer"
+      ],
+      "choices": [
+        "Céline Dion",
+        "Patricia Kaas",
+        "Lio"
+      ],
+      "explanation": "Née à Pierrefonds, près de Montréal, Mylène Gautier arriva en France avec sa famille à l'âge de huit ans.",
+      "wikipedia": "Mylène Farmer"
+    },
+    {
+      "id": "musique-235",
+      "difficulty": 1,
+      "question": "Quelle chanteuse québécoise a interprété « My Heart Will Go On », chanson du film « Titanic » ?",
+      "answer": "Céline Dion",
+      "accept": [
+        "Céline"
+      ],
+      "choices": [
+        "Lara Fabian",
+        "Isabelle Boulay",
+        "Ginette Reno"
+      ],
+      "explanation": "Elle avait remporté l'Eurovision 1988 en représentant la Suisse avec « Ne partez pas sans moi ».",
+      "wikipedia": "Céline Dion"
+    },
+    {
+      "id": "musique-236",
+      "difficulty": 3,
+      "question": "Quel poète natif de Natashquan a écrit « Mon pays » et « Gens du pays », hymne officieux du Québec ?",
+      "answer": "Gilles Vigneault",
+      "accept": [
+        "Vigneault"
+      ],
+      "choices": [
+        "Félix Leclerc",
+        "Claude Léveillée",
+        "Paul Piché"
+      ],
+      "explanation": "« Mon pays, ce n'est pas un pays, c'est l'hiver » est le premier vers de sa chanson la plus célèbre.",
+      "wikipedia": "Gilles Vigneault"
+    },
+    {
+      "id": "musique-237",
+      "difficulty": 2,
+      "question": "Quel chanteur à la mèche blonde a connu le succès avec « Aline » avant de chanter « Les Mots bleus » ?",
+      "answer": "Christophe",
+      "accept": [
+        "Daniel Bevilacqua"
+      ],
+      "choices": [
+        "Michel Polnareff",
+        "Hervé Vilard",
+        "Frank Alamo"
+      ],
+      "explanation": "Les paroles des « Mots bleus » sont de Jean-Michel Jarre, alors parolier avant de devenir star de l'électro.",
+      "wikipedia": "Christophe (chanteur)"
+    },
+    {
+      "id": "musique-238",
+      "difficulty": 1,
+      "question": "Quel musicien français a publié en 1976 « Oxygène », album électronique devenu un classique ?",
+      "answer": "Jean-Michel Jarre",
+      "accept": [
+        "Jarre"
+      ],
+      "choices": [
+        "Vangelis",
+        "Didier Marouani",
+        "Pierre Henry"
+      ],
+      "explanation": "Il est le fils du compositeur Maurice Jarre, oscarisé pour la musique de « Lawrence d'Arabie ».",
+      "wikipedia": "Jean-Michel Jarre"
+    },
+    {
+      "id": "musique-239",
+      "difficulty": 1,
+      "question": "Quel duo français, toujours casqué en public, a sorti « One More Time » et « Get Lucky » ?",
+      "answer": "Daft Punk",
+      "accept": [],
+      "choices": [
+        "Justice",
+        "Air",
+        "Cassius"
+      ],
+      "explanation": "Leur nom vient d'une critique du Melody Maker qualifiant de « daft punky thrash » la musique de leur premier groupe, Darlin'.",
+      "wikipedia": "Daft Punk"
+    },
+    {
+      "id": "musique-240",
+      "difficulty": 3,
+      "question": "Quel duo versaillais formé de Nicolas Godin et Jean-Benoît Dunckel a sorti l'album « Moon Safari » ?",
+      "answer": "Air",
+      "accept": [],
+      "choices": [
+        "Cassius",
+        "Justice",
+        "Phoenix"
+      ],
+      "explanation": "Le groupe a aussi signé la bande originale de « Virgin Suicides », premier long métrage de Sofia Coppola.",
+      "wikipedia": "Air (groupe)"
+    },
+    {
+      "id": "musique-241",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'art de composer à partir de sons enregistrés, inventé par Pierre Schaeffer en 1948 ?",
+      "answer": "Musique concrète",
+      "accept": [],
+      "choices": [
+        "Musique spectrale",
+        "Musique sérielle",
+        "Musique répétitive"
+      ],
+      "explanation": "Avec Pierre Henry, Schaeffer composa la « Symphonie pour un homme seul » au studio de la Radiodiffusion française.",
+      "wikipedia": "Musique concrète"
+    },
+    {
+      "id": "musique-242",
+      "difficulty": 2,
+      "question": "Quel groupe de Düsseldorf, pionnier de l'électro, a enregistré « Autobahn » et « Die Roboter » ?",
+      "answer": "Kraftwerk",
+      "accept": [],
+      "choices": [
+        "Tangerine Dream",
+        "Can",
+        "Neu!"
+      ],
+      "explanation": "Fondé par Ralf Hütter et Florian Schneider, le groupe porte un nom qui signifie « centrale électrique ».",
+      "wikipedia": "Kraftwerk"
+    },
+    {
+      "id": "musique-243",
+      "difficulty": 2,
+      "question": "Dans quelle ville américaine la techno est-elle née, autour de Juan Atkins, Derrick May et Kevin Saunderson ?",
+      "answer": "Detroit",
+      "accept": [],
+      "choices": [
+        "Chicago",
+        "New York",
+        "Cleveland"
+      ],
+      "explanation": "Ces trois amis, surnommés les « Belleville Three », mêlaient funk, électro et influences de Kraftwerk dans la cité de l'automobile.",
+      "wikipedia": "Techno"
+    },
+    {
+      "id": "musique-244",
+      "difficulty": 3,
+      "question": "Quelle boîte à rythmes de Roland, désignée par un nombre, a marqué le hip-hop avec ses basses profondes ?",
+      "answer": "TR-808",
+      "accept": [
+        "808",
+        "Roland TR-808"
+      ],
+      "choices": [
+        "TR-909",
+        "TB-303",
+        "CR-78"
+      ],
+      "explanation": "Boudée à sa sortie pour ses sons peu réalistes, elle est devenue culte grâce à des titres comme « Sexual Healing » de Marvin Gaye.",
+      "wikipedia": "Roland TR-808"
+    },
+    {
+      "id": "musique-245",
+      "difficulty": 1,
+      "question": "Quel groupe britannique mené par Mick Jagger et Keith Richards a chanté « (I Can't Get No) Satisfaction » ?",
+      "answer": "The Rolling Stones",
+      "accept": [
+        "Rolling Stones",
+        "les Rolling Stones",
+        "Stones"
+      ],
+      "choices": [
+        "The Kinks",
+        "The Who",
+        "The Animals"
+      ],
+      "explanation": "Leur logo en forme de bouche à la langue tirée a été dessiné par l'étudiant John Pasche en 1970.",
+      "wikipedia": "The Rolling Stones"
+    },
+    {
+      "id": "musique-246",
+      "difficulty": 1,
+      "question": "Quel groupe de Kurt Cobain a sorti « Nevermind », dont la pochette montre un bébé nageant vers un billet ?",
+      "answer": "Nirvana",
+      "accept": [],
+      "choices": [
+        "Pearl Jam",
+        "Soundgarden",
+        "Alice in Chains"
+      ],
+      "explanation": "Le titre « Smells Like Teen Spirit » vient d'un graffiti d'une amie, Teen Spirit étant une marque de déodorant.",
+      "wikipedia": "Nirvana (groupe)"
+    },
+    {
+      "id": "musique-247",
+      "difficulty": 1,
+      "question": "Quel groupe australien, dont le guitariste Angus Young joue en costume d'écolier, a sorti « Highway to Hell » ?",
+      "answer": "AC/DC",
+      "accept": [
+        "ACDC"
+      ],
+      "choices": [
+        "Iron Maiden",
+        "Motörhead",
+        "Def Leppard"
+      ],
+      "explanation": "Après la mort du chanteur Bon Scott en 1980, Brian Johnson le remplaça pour l'album « Back in Black ».",
+      "wikipedia": "AC/DC"
+    },
+    {
+      "id": "musique-248",
+      "difficulty": 2,
+      "question": "Dans quelle ville suisse l'incendie d'un casino, pendant un concert de Frank Zappa, a-t-il inspiré « Smoke on the Water » ?",
+      "answer": "Montreux",
+      "accept": [],
+      "choices": [
+        "Lausanne",
+        "Lucerne",
+        "Genève"
+      ],
+      "explanation": "Deep Purple y cite « Funky Claude », Claude Nobs, fondateur du célèbre festival de jazz de la ville, qui aida à évacuer le public.",
+      "wikipedia": "Smoke on the Water"
+    },
+    {
+      "id": "musique-249",
+      "difficulty": 2,
+      "question": "Quel groupe britannique, dont le guitariste Pete Townshend fracassait ses guitares, a créé l'opéra rock « Tommy » ?",
+      "answer": "The Who",
+      "accept": [
+        "Who"
+      ],
+      "choices": [
+        "The Kinks",
+        "The Yardbirds",
+        "Small Faces"
+      ],
+      "explanation": "« Tommy » raconte l'histoire d'un garçon sourd, muet et aveugle qui devient un champion de flipper.",
+      "wikipedia": "The Who"
+    },
+    {
+      "id": "musique-250",
+      "difficulty": 1,
+      "question": "Quel chanteur britannique s'est inventé l'alter ego extraterrestre Ziggy Stardust ?",
+      "answer": "David Bowie",
+      "accept": [
+        "Bowie"
+      ],
+      "choices": [
+        "Marc Bolan",
+        "Elton John",
+        "Lou Reed"
+      ],
+      "explanation": "Né David Jones, il changea de nom pour ne pas être confondu avec Davy Jones, chanteur des Monkees.",
+      "wikipedia": "David Bowie"
+    },
+    {
+      "id": "musique-251",
+      "difficulty": 1,
+      "question": "Quel groupe irlandais mené par Bono a chanté « Sunday Bloody Sunday » ?",
+      "answer": "U2",
+      "accept": [],
+      "choices": [
+        "The Cranberries",
+        "Simple Minds",
+        "The Pogues"
+      ],
+      "explanation": "La chanson évoque le dimanche sanglant de 1972 à Derry, quand des parachutistes britanniques tirèrent sur des manifestants.",
+      "wikipedia": "U2"
+    },
+    {
+      "id": "musique-252",
+      "difficulty": 2,
+      "question": "Quel groupe punk new-yorkais, dont tous les membres prenaient le même nom de famille, a chanté « Blitzkrieg Bop » ?",
+      "answer": "Ramones",
+      "accept": [
+        "The Ramones"
+      ],
+      "choices": [
+        "Television",
+        "New York Dolls",
+        "Dead Boys"
+      ],
+      "explanation": "Ce nom vient de Paul Ramon, pseudonyme qu'utilisait Paul McCartney à l'époque où les Beatles s'appelaient les Silver Beetles.",
+      "wikipedia": "Ramones"
+    },
+    {
+      "id": "musique-253",
+      "difficulty": 1,
+      "question": "Quel album des Beatles a pour pochette les quatre musiciens traversant un passage piéton à Londres ?",
+      "answer": "Abbey Road",
+      "accept": [],
+      "choices": [
+        "Let It Be",
+        "Revolver",
+        "Help!"
+      ],
+      "explanation": "Paul McCartney y marche pieds nus, détail qui alimenta la folle rumeur de sa mort et de son remplacement par un sosie.",
+      "wikipedia": "Abbey Road (album)"
+    },
+    {
+      "id": "musique-254",
+      "difficulty": 1,
+      "question": "Quel chanteur américain surnommé « The Boss » a chanté « Born in the U.S.A. » ?",
+      "answer": "Bruce Springsteen",
+      "accept": [
+        "Springsteen"
+      ],
+      "choices": [
+        "Bob Seger",
+        "Tom Petty",
+        "John Mellencamp"
+      ],
+      "explanation": "Souvent pris pour un hymne patriotique, le titre dénonce en réalité le sort des vétérans revenus du Viêt Nam.",
+      "wikipedia": "Bruce Springsteen"
+    },
+    {
+      "id": "musique-255",
+      "difficulty": 1,
+      "question": "Quel chanteur américain a reçu le prix Nobel de littérature en 2016 ?",
+      "answer": "Bob Dylan",
+      "accept": [
+        "Dylan"
+      ],
+      "choices": [
+        "Leonard Cohen",
+        "Paul Simon",
+        "Neil Young"
+      ],
+      "explanation": "L'Académie suédoise l'a récompensé pour avoir créé de nouveaux modes d'expression poétique dans la grande tradition de la chanson américaine.",
+      "wikipedia": "Bob Dylan"
+    },
+    {
+      "id": "musique-256",
+      "difficulty": 3,
+      "question": "Lors de quel rassemblement de Rhode Island Bob Dylan fit-il scandale en 1965 en jouant à la guitare électrique ?",
+      "answer": "Newport Folk Festival",
+      "accept": [
+        "Newport",
+        "festival de Newport"
+      ],
+      "choices": [
+        "Monterey Pop Festival",
+        "Mariposa Folk Festival",
+        "Philadelphia Folk Festival"
+      ],
+      "explanation": "Une partie du public, attachée à la pureté acoustique du folk, le siffla ; ce fut un tournant du rock.",
+      "wikipedia": "Festival de folk de Newport"
+    },
+    {
+      "id": "musique-257",
+      "difficulty": 2,
+      "question": "Quel chanteur country, « l'homme en noir », a enregistré des concerts mythiques dans les prisons de Folsom et San Quentin ?",
+      "answer": "Johnny Cash",
+      "accept": [
+        "Cash"
+      ],
+      "choices": [
+        "Merle Haggard",
+        "Willie Nelson",
+        "Waylon Jennings"
+      ],
+      "explanation": "Sa « Folsom Prison Blues » contient le vers célèbre « I shot a man in Reno just to watch him die ».",
+      "wikipedia": "Johnny Cash"
+    },
+    {
+      "id": "musique-258",
+      "difficulty": 1,
+      "question": "Quel guitariste, auteur de « Johnny B. Goode », est célèbre pour sa démarche du canard sur scène ?",
+      "answer": "Chuck Berry",
+      "accept": [
+        "Berry"
+      ],
+      "choices": [
+        "Bo Diddley",
+        "Buddy Holly",
+        "Eddie Cochran"
+      ],
+      "explanation": "« Johnny B. Goode » fait partie des musiques gravées sur le disque d'or embarqué par les sondes Voyager.",
+      "wikipedia": "Chuck Berry"
+    },
+    {
+      "id": "musique-259",
+      "difficulty": 2,
+      "question": "Quel rocker à lunettes est mort en 1959 dans l'accident d'avion surnommé « The Day the Music Died » ?",
+      "answer": "Buddy Holly",
+      "accept": [
+        "Holly"
+      ],
+      "choices": [
+        "Eddie Cochran",
+        "Gene Vincent",
+        "Carl Perkins"
+      ],
+      "explanation": "Don McLean évoque ce drame, qui coûta aussi la vie à Ritchie Valens et à The Big Bopper, dans « American Pie ».",
+      "wikipedia": "Buddy Holly"
+    },
+    {
+      "id": "musique-260",
+      "difficulty": 2,
+      "question": "Quel groupe de Birmingham, avec Ozzy Osbourne au chant, est considéré comme le fondateur du heavy metal ?",
+      "answer": "Black Sabbath",
+      "accept": [],
+      "choices": [
+        "Deep Purple",
+        "Judas Priest",
+        "Led Zeppelin"
+      ],
+      "explanation": "Le guitariste Tony Iommi, qui avait perdu le bout de deux doigts dans une usine, accordait sa guitare plus bas pour moins souffrir.",
+      "wikipedia": "Black Sabbath"
+    },
+    {
+      "id": "musique-261",
+      "difficulty": 2,
+      "question": "Dans quel cimetière parisien repose Jim Morrison, chanteur des Doors mort à Paris en 1971 ?",
+      "answer": "Père-Lachaise",
+      "accept": [
+        "cimetière du Père-Lachaise",
+        "Père Lachaise"
+      ],
+      "choices": [
+        "Montparnasse",
+        "Montmartre",
+        "Passy"
+      ],
+      "explanation": "Le nom des Doors vient du livre d'Aldous Huxley « Les Portes de la perception », lui-même tiré d'un vers de William Blake.",
+      "wikipedia": "Jim Morrison"
+    },
+    {
+      "id": "musique-262",
+      "difficulty": 2,
+      "question": "Comment surnomme-t-on le groupe des musiciens morts au même âge que Jimi Hendrix, Janis Joplin et Kurt Cobain ?",
+      "answer": "Club des 27",
+      "accept": [
+        "27 Club",
+        "Forever 27 Club",
+        "club des vingt-sept"
+      ],
+      "choices": [
+        "Club des Damnés",
+        "Club des Légendes",
+        "Club des Étoiles"
+      ],
+      "explanation": "Brian Jones des Rolling Stones, Jim Morrison et plus tard Amy Winehouse ont aussi disparu à cet âge.",
+      "wikipedia": "Club des 27"
+    },
+    {
+      "id": "musique-263",
+      "difficulty": 1,
+      "question": "Quel nom de famille portent Liam et Noel, frères ennemis du groupe mancunien Oasis ?",
+      "answer": "Gallagher",
+      "accept": [],
+      "choices": [
+        "Davies",
+        "Gibb",
+        "Reid"
+      ],
+      "explanation": "Leur rivalité avec le groupe londonien Blur culmina en 1995 dans ce que la presse appela la « bataille de la britpop ».",
+      "wikipedia": "Oasis (groupe)"
+    },
+    {
+      "id": "musique-264",
+      "difficulty": 2,
+      "question": "Quel groupe formèrent les membres survivants de Joy Division après la mort du chanteur Ian Curtis ?",
+      "answer": "New Order",
+      "accept": [],
+      "choices": [
+        "The Cure",
+        "Depeche Mode",
+        "Echo & the Bunnymen"
+      ],
+      "explanation": "New Order a ensuite marié rock et musique électronique, notamment avec le célèbre maxi « Blue Monday ».",
+      "wikipedia": "Joy Division"
+    },
+    {
+      "id": "musique-265",
+      "difficulty": 1,
+      "question": "Quel chanteur et bassiste de The Police a chanté « Roxanne » et « Every Breath You Take » ?",
+      "answer": "Sting",
+      "accept": [
+        "Gordon Sumner"
+      ],
+      "choices": [
+        "Phil Collins",
+        "Andy Summers",
+        "Peter Gabriel"
+      ],
+      "explanation": "Gordon Sumner doit son surnom, « dard » en anglais, à un pull rayé jaune et noir qui le faisait ressembler à une guêpe.",
+      "wikipedia": "Sting"
+    },
+    {
+      "id": "musique-266",
+      "difficulty": 1,
+      "question": "Quel groupe californien a chanté « Hotel California », célèbre pour son long duo de guitares final ?",
+      "answer": "Eagles",
+      "accept": [
+        "The Eagles"
+      ],
+      "choices": [
+        "Fleetwood Mac",
+        "The Doobie Brothers",
+        "The Byrds"
+      ],
+      "explanation": "Don Henley et Glenn Frey, piliers du groupe, ont signé la plupart de ses succès dans les années 1970.",
+      "wikipedia": "Eagles"
+    },
+    {
+      "id": "musique-267",
+      "difficulty": 1,
+      "question": "Quel chanteur a réécrit sa chanson « Candle in the Wind » pour les funérailles de Diana en 1997 ?",
+      "answer": "Elton John",
+      "accept": [],
+      "choices": [
+        "Rod Stewart",
+        "Phil Collins",
+        "George Michael"
+      ],
+      "explanation": "La version originale de 1973, sur des paroles de Bernie Taupin, rendait hommage à Marilyn Monroe.",
+      "wikipedia": "Elton John"
+    },
+    {
+      "id": "musique-268",
+      "difficulty": 3,
+      "question": "Quel album instrumental de Mike Oldfield, premier disque du label Virgin, a servi au film « L'Exorciste » ?",
+      "answer": "Tubular Bells",
+      "accept": [],
+      "choices": [
+        "Oxygène",
+        "Hergest Ridge",
+        "Ommadawn"
+      ],
+      "explanation": "Le jeune musicien y joue lui-même la quasi-totalité des instruments, grâce à de multiples enregistrements superposés.",
+      "wikipedia": "Tubular Bells"
+    },
+    {
+      "id": "musique-269",
+      "difficulty": 1,
+      "question": "Quel grand festival britannique se tient dans une ferme du Somerset, près d'une colline liée aux légendes arthuriennes ?",
+      "answer": "Glastonbury",
+      "accept": [
+        "festival de Glastonbury"
+      ],
+      "choices": [
+        "Reading",
+        "Download",
+        "Isle of Wight"
+      ],
+      "explanation": "Fondé en 1970 par le fermier Michael Eavis, il fait régulièrement une année de pause pour laisser reposer les terres.",
+      "wikipedia": "Glastonbury Festival"
+    },
+    {
+      "id": "musique-270",
+      "difficulty": 1,
+      "question": "Quel grand festival de musique se tient chaque été à Carhaix, dans le Finistère ?",
+      "answer": "Vieilles Charrues",
+      "accept": [
+        "Les Vieilles Charrues",
+        "festival des Vieilles Charrues"
+      ],
+      "choices": [
+        "Bout du Monde",
+        "Route du Rock",
+        "Festival du Chant de Marin"
+      ],
+      "explanation": "Né d'une fête entre amis à Landeleau en 1992, il porte en breton le nom de « Gouel an Erer Kozh ».",
+      "wikipedia": "Festival des Vieilles Charrues"
+    },
+    {
+      "id": "musique-271",
+      "difficulty": 2,
+      "question": "Dans quelle ville du Cher se tient le Printemps, festival de chanson créé en 1977 ?",
+      "answer": "Bourges",
+      "accept": [],
+      "choices": [
+        "Vierzon",
+        "Châteauroux",
+        "Nevers"
+      ],
+      "explanation": "Créé par Daniel Colling et Maurice Frot, il est réputé pour sa scène de découvertes, qui révèle chaque année de jeunes artistes.",
+      "wikipedia": "Printemps de Bourges"
+    },
+    {
+      "id": "musique-272",
+      "difficulty": 1,
+      "question": "Quel ministre de la Culture a lancé la Fête de la musique le 21 juin 1982 ?",
+      "answer": "Jack Lang",
+      "accept": [
+        "Lang"
+      ],
+      "choices": [
+        "André Malraux",
+        "Jacques Toubon",
+        "Michel Guy"
+      ],
+      "explanation": "La date du solstice d'été n'est pas un hasard ; l'idée est venue de Maurice Fleuret, alors directeur de la musique et de la danse.",
+      "wikipedia": "Fête de la musique"
+    },
+    {
+      "id": "musique-273",
+      "difficulty": 3,
+      "question": "Dans quelle commune de Loire-Atlantique se déroule le Hellfest, grand festival de musiques extrêmes ?",
+      "answer": "Clisson",
+      "accept": [],
+      "choices": [
+        "Ancenis",
+        "Pornic",
+        "Machecoul"
+      ],
+      "explanation": "Créé en 2006, le festival accueille sur son site une statue géante en hommage à Lemmy Kilmister, le chanteur de Motörhead.",
+      "wikipedia": "Hellfest"
+    },
+    {
+      "id": "musique-274",
+      "difficulty": 3,
+      "question": "Dans quelle ville bretonne se tiennent chaque décembre les Rencontres trans musicales, réputées pour dénicher de futurs talents ?",
+      "answer": "Rennes",
+      "accept": [],
+      "choices": [
+        "Brest",
+        "Nantes",
+        "Saint-Brieuc"
+      ],
+      "explanation": "Fondé en 1979 par Jean-Louis Brossard et Béatrice Macé, le festival a révélé en France de nombreux artistes avant leur succès.",
+      "wikipedia": "Rencontres trans musicales"
+    },
+    {
+      "id": "musique-275",
+      "difficulty": 2,
+      "question": "Quelle ville du Morbihan accueille chaque mois d'août le Festival interceltique ?",
+      "answer": "Lorient",
+      "accept": [],
+      "choices": [
+        "Vannes",
+        "Quimper",
+        "Auray"
+      ],
+      "explanation": "Le festival réunit les musiques des nations celtes : Bretagne, Écosse, Irlande, Galice, Asturies, pays de Galles, Cornouailles et île de Man.",
+      "wikipedia": "Festival interceltique de Lorient"
+    },
+    {
+      "id": "musique-276",
+      "difficulty": 2,
+      "question": "Quelle chanteuse surnommée « Lady Day » a chanté « Strange Fruit », réquisitoire contre les lynchages ?",
+      "answer": "Billie Holiday",
+      "accept": [
+        "Holiday"
+      ],
+      "choices": [
+        "Bessie Smith",
+        "Ella Fitzgerald",
+        "Sarah Vaughan"
+      ],
+      "explanation": "Le texte est un poème d'Abel Meeropol, enseignant new-yorkais, qui le publia sous le pseudonyme de Lewis Allan.",
+      "wikipedia": "Billie Holiday"
+    },
+    {
+      "id": "musique-277",
+      "difficulty": 2,
+      "question": "Quel saxophoniste soprano né à La Nouvelle-Orléans, installé en France, a composé « Petite Fleur » ?",
+      "answer": "Sidney Bechet",
+      "accept": [
+        "Bechet"
+      ],
+      "choices": [
+        "Barney Bigard",
+        "Johnny Hodges",
+        "Benny Goodman"
+      ],
+      "explanation": "Il fut une véritable idole en France dans les années 1950, où ses concerts déclenchaient parfois des émeutes.",
+      "wikipedia": "Sidney Bechet"
+    },
+    {
+      "id": "musique-278",
+      "difficulty": 2,
+      "question": "Quelle pianiste et chanteuse américaine, morte à Carry-le-Rouet, a chanté « My Baby Just Cares for Me » ?",
+      "answer": "Nina Simone",
+      "accept": [
+        "Simone"
+      ],
+      "choices": [
+        "Aretha Franklin",
+        "Roberta Flack",
+        "Dinah Washington"
+      ],
+      "explanation": "Née Eunice Waymon, elle rêvait d'être concertiste classique avant que le jazz et la lutte pour les droits civiques ne l'accaparent.",
+      "wikipedia": "Nina Simone"
+    },
+    {
+      "id": "musique-279",
+      "difficulty": 3,
+      "question": "Quel pianiste de jazz français, atteint de la maladie des os de verre, repose près de Chopin au Père-Lachaise ?",
+      "answer": "Michel Petrucciani",
+      "accept": [
+        "Petrucciani"
+      ],
+      "choices": [
+        "Martial Solal",
+        "Michel Legrand",
+        "Jacques Loussier"
+      ],
+      "explanation": "Mesurant environ un mètre, il fut le premier artiste non américain à signer un contrat avec le label Blue Note.",
+      "wikipedia": "Michel Petrucciani"
+    },
+    {
+      "id": "musique-280",
+      "difficulty": 2,
+      "question": "Quel trompettiste aux joues gonflées jouait d'une trompette au pavillon relevé vers le ciel ?",
+      "answer": "Dizzy Gillespie",
+      "accept": [
+        "Gillespie",
+        "Dizzy"
+      ],
+      "choices": [
+        "Clifford Brown",
+        "Roy Eldridge",
+        "Freddie Hubbard"
+      ],
+      "explanation": "Le pavillon de son instrument fut tordu accidentellement en 1953 ; séduit par le son, il conserva ensuite cette forme.",
+      "wikipedia": "Dizzy Gillespie"
+    },
+    {
+      "id": "musique-281",
+      "difficulty": 3,
+      "question": "Quel trompettiste et chanteur du jazz « cool » est mort en tombant d'une fenêtre d'hôtel à Amsterdam ?",
+      "answer": "Chet Baker",
+      "accept": [
+        "Baker"
+      ],
+      "choices": [
+        "Clifford Brown",
+        "Art Farmer",
+        "Lee Morgan"
+      ],
+      "explanation": "Son interprétation chantée de « My Funny Valentine » est devenue l'une des plus célèbres de ce standard.",
+      "wikipedia": "Chet Baker"
+    },
+    {
+      "id": "musique-282",
+      "difficulty": 1,
+      "question": "Quel bluesman a baptisé « Lucille » chacune de ses guitares ?",
+      "answer": "B.B. King",
+      "accept": [
+        "BB King",
+        "B. B. King"
+      ],
+      "choices": [
+        "John Lee Hooker",
+        "Muddy Waters",
+        "Buddy Guy"
+      ],
+      "explanation": "Il avait risqué sa vie pour sauver sa guitare d'un incendie, déclenché lors d'une bagarre causée par une femme prénommée Lucille.",
+      "wikipedia": "B. B. King"
+    },
+    {
+      "id": "musique-283",
+      "difficulty": 2,
+      "question": "Quel bluesman du Mississippi aurait, selon la légende, vendu son âme au diable à un carrefour ?",
+      "answer": "Robert Johnson",
+      "accept": [
+        "Johnson"
+      ],
+      "choices": [
+        "Son House",
+        "Charley Patton",
+        "Skip James"
+      ],
+      "explanation": "Mort à 27 ans, il n'a laissé qu'une trentaine de titres, dont « Cross Road Blues », repris par Eric Clapton.",
+      "wikipedia": "Robert Johnson"
+    },
+    {
+      "id": "musique-284",
+      "difficulty": 2,
+      "question": "Quel bluesman de Chicago a inspiré le nom des Rolling Stones avec son titre « Rollin' Stone » ?",
+      "answer": "Muddy Waters",
+      "accept": [],
+      "choices": [
+        "Howlin' Wolf",
+        "Willie Dixon",
+        "Elmore James"
+      ],
+      "explanation": "McKinley Morganfield devait son surnom à son goût, enfant, pour jouer dans la boue des bords du Mississippi.",
+      "wikipedia": "Muddy Waters"
+    },
+    {
+      "id": "musique-285",
+      "difficulty": 3,
+      "question": "Quel bluesman au physique imposant, rival de Muddy Waters, chantait « Smokestack Lightnin' » ?",
+      "answer": "Howlin' Wolf",
+      "accept": [
+        "Howlin Wolf"
+      ],
+      "choices": [
+        "John Lee Hooker",
+        "Elmore James",
+        "Lightnin' Hopkins"
+      ],
+      "explanation": "Chester Burnett devait son surnom, « loup hurlant », à son grand-père qui lui racontait des histoires de loups.",
+      "wikipedia": "Howlin' Wolf"
+    },
+    {
+      "id": "musique-286",
+      "difficulty": 2,
+      "question": "Quel instrument les bluesmen surnomment-ils « harp », Little Walter en étant un grand virtuose ?",
+      "answer": "Harmonica",
+      "accept": [],
+      "choices": [
+        "Guitare slide",
+        "Banjo",
+        "Contrebasse"
+      ],
+      "explanation": "Little Walter fut l'un des premiers à jouer de cet instrument dans un micro amplifié, en saturant le son.",
+      "wikipedia": "Little Walter"
+    },
+    {
+      "id": "musique-287",
+      "difficulty": 1,
+      "question": "Quel chanteur surnommé « le parrain de la soul » a chanté « I Got You (I Feel Good) » et « Sex Machine » ?",
+      "answer": "James Brown",
+      "accept": [],
+      "choices": [
+        "Otis Redding",
+        "Wilson Pickett",
+        "Sam Cooke"
+      ],
+      "explanation": "Le break de batterie de son morceau « Funky Drummer », joué par Clyde Stubblefield, est l'un des plus samplés du hip-hop.",
+      "wikipedia": "James Brown"
+    },
+    {
+      "id": "musique-288",
+      "difficulty": 1,
+      "question": "Quelle chanteuse surnommée « la reine de la soul » a fait de « Respect » un hymne féministe et des droits civiques ?",
+      "answer": "Aretha Franklin",
+      "accept": [
+        "Aretha"
+      ],
+      "choices": [
+        "Diana Ross",
+        "Tina Turner",
+        "Gladys Knight"
+      ],
+      "explanation": "Fille d'un célèbre pasteur de Detroit, elle avait commencé par chanter du gospel dans l'église de son père.",
+      "wikipedia": "Aretha Franklin"
+    },
+    {
+      "id": "musique-289",
+      "difficulty": 2,
+      "question": "Quel chanteur soul est mort dans un accident d'avion quelques jours après avoir enregistré « (Sittin' On) The Dock of the Bay » ?",
+      "answer": "Otis Redding",
+      "accept": [
+        "Redding"
+      ],
+      "choices": [
+        "Sam Cooke",
+        "Wilson Pickett",
+        "Marvin Gaye"
+      ],
+      "explanation": "Il est aussi l'auteur original de « Respect », que reprit Aretha Franklin en y ajoutant le fameux « R-E-S-P-E-C-T ».",
+      "wikipedia": "Otis Redding"
+    },
+    {
+      "id": "musique-290",
+      "difficulty": 1,
+      "question": "Quel chanteur aveugle, signé chez Motown dès l'enfance, a chanté « Superstition » et « Isn't She Lovely » ?",
+      "answer": "Stevie Wonder",
+      "accept": [],
+      "choices": [
+        "Ray Charles",
+        "Lionel Richie",
+        "Marvin Gaye"
+      ],
+      "explanation": "Il a milité, notamment avec sa chanson « Happy Birthday », pour faire de l'anniversaire de Martin Luther King un jour férié.",
+      "wikipedia": "Stevie Wonder"
+    },
+    {
+      "id": "musique-291",
+      "difficulty": 1,
+      "question": "Quelle chanteuse a mené les Supremes, trio vedette de Motown, avant une grande carrière solo ?",
+      "answer": "Diana Ross",
+      "accept": [],
+      "choices": [
+        "Martha Reeves",
+        "Gladys Knight",
+        "Mary Wells"
+      ],
+      "explanation": "Avec « Where Did Our Love Go » ou « Baby Love », les Supremes ont rivalisé avec les Beatles dans les années 1960.",
+      "wikipedia": "Diana Ross"
+    },
+    {
+      "id": "musique-292",
+      "difficulty": 2,
+      "question": "Quel pianiste aveugle surnommé « The Genius » a mêlé gospel et rhythm and blues dans « What'd I Say » ?",
+      "answer": "Ray Charles",
+      "accept": [],
+      "choices": [
+        "Stevie Wonder",
+        "Fats Domino",
+        "Little Richard"
+      ],
+      "explanation": "Sa version de « Georgia on My Mind » est devenue la chanson officielle de l'État de Géorgie.",
+      "wikipedia": "Ray Charles"
+    },
+    {
+      "id": "musique-293",
+      "difficulty": 3,
+      "question": "Quel producteur italien a composé « I Feel Love » pour Donna Summer, entièrement au synthétiseur ?",
+      "answer": "Giorgio Moroder",
+      "accept": [
+        "Moroder"
+      ],
+      "choices": [
+        "Cerrone",
+        "Pete Bellotte",
+        "Didier Marouani"
+      ],
+      "explanation": "Ce titre de 1977 a ouvert la voie à la musique électronique dansante, de la hi-NRG à la techno.",
+      "wikipedia": "I Feel Love"
+    },
+    {
+      "id": "musique-294",
+      "difficulty": 1,
+      "question": "Quel groupe des frères Gibb a signé la bande originale du film « La Fièvre du samedi soir » ?",
+      "answer": "Bee Gees",
+      "accept": [
+        "The Bee Gees"
+      ],
+      "choices": [
+        "Boney M.",
+        "Village People",
+        "Earth, Wind & Fire"
+      ],
+      "explanation": "Barry, Robin et Maurice Gibb, nés sur l'île de Man, ont grandi en Angleterre puis en Australie.",
+      "wikipedia": "Bee Gees"
+    },
+    {
+      "id": "musique-295",
+      "difficulty": 3,
+      "question": "Quel club new-yorkais du Bowery fut le berceau du punk, avec les Ramones, Television et Patti Smith ?",
+      "answer": "CBGB",
+      "accept": [],
+      "choices": [
+        "Max's Kansas City",
+        "Studio 54",
+        "Fillmore East"
+      ],
+      "explanation": "Son sigle signifie « Country, BlueGrass and Blues », la programmation qu'envisageait au départ son fondateur Hilly Kristal.",
+      "wikipedia": "CBGB"
+    },
+    {
+      "id": "musique-296",
+      "difficulty": 1,
+      "question": "Quelle chanteuse britannique a chanté « Rehab » sur l'album « Back to Black » ?",
+      "answer": "Amy Winehouse",
+      "accept": [
+        "Winehouse"
+      ],
+      "choices": [
+        "Adele",
+        "Duffy",
+        "Lily Allen"
+      ],
+      "explanation": "Le producteur Mark Ronson a donné à l'album sa couleur rétro, inspirée des groupes féminins des années 1960.",
+      "wikipedia": "Amy Winehouse"
+    },
+    {
+      "id": "musique-297",
+      "difficulty": 3,
+      "question": "Quelle chanteuse de gospel aurait soufflé à Martin Luther King de parler de son rêve, lors de la marche sur Washington ?",
+      "answer": "Mahalia Jackson",
+      "accept": [],
+      "choices": [
+        "Marian Anderson",
+        "Odetta",
+        "Sister Rosetta Tharpe"
+      ],
+      "explanation": "Surnommée « la reine du gospel », elle avait chanté juste avant lui devant le Lincoln Memorial.",
+      "wikipedia": "Mahalia Jackson"
+    },
+    {
+      "id": "musique-298",
+      "difficulty": 3,
+      "question": "Quel DJ d'origine jamaïcaine a eu l'idée d'enchaîner les passages instrumentaux de deux disques identiques ?",
+      "answer": "DJ Kool Herc",
+      "accept": [
+        "Kool Herc"
+      ],
+      "choices": [
+        "Grandmaster Flash",
+        "Afrika Bambaataa",
+        "Grand Wizzard Theodore"
+      ],
+      "explanation": "Ces « breaks » prolongés faisaient danser les « b-boys », d'où le nom de breakdance.",
+      "wikipedia": "DJ Kool Herc"
+    },
+    {
+      "id": "musique-299",
+      "difficulty": 2,
+      "question": "Quel trio a fait découvrir le rap au grand public en 1979 avec « Rapper's Delight » ?",
+      "answer": "The Sugarhill Gang",
+      "accept": [
+        "Sugarhill Gang"
+      ],
+      "choices": [
+        "Run-DMC",
+        "Public Enemy",
+        "Beastie Boys"
+      ],
+      "explanation": "Le morceau reprend la ligne de basse de « Good Times » du groupe Chic, ce qui valut un procès à son label.",
+      "wikipedia": "The Sugarhill Gang"
+    },
+    {
+      "id": "musique-300",
+      "difficulty": 2,
+      "question": "Quel trio de rap du Queens a repris « Walk This Way » avec le groupe de rock Aerosmith ?",
+      "answer": "Run-DMC",
+      "accept": [
+        "Run DMC"
+      ],
+      "choices": [
+        "Beastie Boys",
+        "Public Enemy",
+        "LL Cool J"
+      ],
+      "explanation": "Ils ont aussi popularisé les baskets Adidas sans lacets, célébrées dans leur titre « My Adidas ».",
+      "wikipedia": "Run–DMC"
+    },
+    {
+      "id": "musique-301",
+      "difficulty": 1,
+      "question": "Quel rappeur de Detroit s'est inventé l'alter ego provocateur Slim Shady ?",
+      "answer": "Eminem",
+      "accept": [
+        "Marshall Mathers"
+      ],
+      "choices": [
+        "50 Cent",
+        "Snoop Dogg",
+        "Kanye West"
+      ],
+      "explanation": "Son nom de scène vient de ses initiales, M et M, pour Marshall Mathers.",
+      "wikipedia": "Eminem"
+    },
+    {
+      "id": "musique-302",
+      "difficulty": 1,
+      "question": "De quelle ville vient le groupe IAM, auteur de l'album « L'École du micro d'argent » ?",
+      "answer": "Marseille",
+      "accept": [],
+      "choices": [
+        "Toulouse",
+        "Lyon",
+        "Nice"
+      ],
+      "explanation": "Ses membres ont adopté des noms inspirés de l'Égypte ancienne, comme Akhenaton, Kheops ou Imhotep.",
+      "wikipedia": "IAM"
+    },
+    {
+      "id": "musique-303",
+      "difficulty": 1,
+      "question": "Quel rappeur a chanté « Bouge de là » et « Caroline » au début des années 1990 ?",
+      "answer": "MC Solaar",
+      "accept": [
+        "Solaar"
+      ],
+      "choices": [
+        "Doc Gynéco",
+        "Oxmo Puccino",
+        "Passi"
+      ],
+      "explanation": "Né à Dakar, Claude M'Barali est réputé pour ses textes truffés de jeux de mots et de références littéraires.",
+      "wikipedia": "MC Solaar"
+    },
+    {
+      "id": "musique-304",
+      "difficulty": 2,
+      "question": "Quel duo de Saint-Denis, formé par JoeyStarr et Kool Shen, a chanté « Laisse pas traîner ton fils » ?",
+      "answer": "Suprême NTM",
+      "accept": [
+        "NTM"
+      ],
+      "choices": [
+        "IAM",
+        "Assassin",
+        "Ministère A.M.E.R."
+      ],
+      "explanation": "Le groupe est issu de la culture graffiti et des premières soirées hip-hop parisiennes des années 1980.",
+      "wikipedia": "Suprême NTM"
+    },
+    {
+      "id": "musique-305",
+      "difficulty": 3,
+      "question": "Quel DJ du Bronx, avec ses Furious Five, a sorti en 1982 le titre engagé « The Message » ?",
+      "answer": "Grandmaster Flash",
+      "accept": [],
+      "choices": [
+        "DJ Kool Herc",
+        "Afrika Bambaataa",
+        "Kurtis Blow"
+      ],
+      "explanation": "Le morceau décrit la misère des ghettos, ouvrant la voie à un rap plus social que festif.",
+      "wikipedia": "Grandmaster Flash"
+    },
+    {
+      "id": "musique-306",
+      "difficulty": 1,
+      "question": "Quelle chanteuse surnommée « la reine de la pop » a chanté « Like a Virgin » et « Vogue » ?",
+      "answer": "Madonna",
+      "accept": [],
+      "choices": [
+        "Cyndi Lauper",
+        "Kylie Minogue",
+        "Whitney Houston"
+      ],
+      "explanation": "« Vogue » s'inspire du voguing, danse imitant les poses de mannequins née dans les bals de Harlem.",
+      "wikipedia": "Madonna"
+    },
+    {
+      "id": "musique-307",
+      "difficulty": 2,
+      "question": "Quelle chanteuse country a écrit « I Will Always Love You », que Whitney Houston a reprise pour « Bodyguard » ?",
+      "answer": "Dolly Parton",
+      "accept": [
+        "Parton"
+      ],
+      "choices": [
+        "Patsy Cline",
+        "Tammy Wynette",
+        "Loretta Lynn"
+      ],
+      "explanation": "Elle l'avait écrite en 1973 pour annoncer son départ à son partenaire de scène, Porter Wagoner.",
+      "wikipedia": "I Will Always Love You"
+    },
+    {
+      "id": "musique-308",
+      "difficulty": 2,
+      "question": "Quel chanteur irlandais a lancé Band Aid, puis le double concert Live Aid contre la famine en Éthiopie ?",
+      "answer": "Bob Geldof",
+      "accept": [
+        "Geldof"
+      ],
+      "choices": [
+        "Bono",
+        "Midge Ure",
+        "Sinéad O'Connor"
+      ],
+      "explanation": "Le 13 juillet 1985, Live Aid se tint simultanément au stade de Wembley, à Londres, et à Philadelphie.",
+      "wikipedia": "Live Aid"
+    },
+    {
+      "id": "musique-309",
+      "difficulty": 1,
+      "question": "De quel pays vient la chanteuse Björk, révélée avec le groupe des Sugarcubes ?",
+      "answer": "Islande",
+      "accept": [],
+      "choices": [
+        "Norvège",
+        "Finlande",
+        "Danemark"
+      ],
+      "explanation": "Elle a aussi obtenu le prix d'interprétation féminine au Festival de Cannes pour « Dancer in the Dark » de Lars von Trier.",
+      "wikipedia": "Björk"
+    },
+    {
+      "id": "musique-310",
+      "difficulty": 2,
+      "question": "De quel roman d'Emily Brontë la chanteuse Kate Bush a-t-elle tiré le titre de son premier grand succès ?",
+      "answer": "Les Hauts de Hurlevent",
+      "accept": [
+        "Hauts de Hurlevent",
+        "Wuthering Heights"
+      ],
+      "choices": [
+        "Jane Eyre",
+        "Agnes Grey",
+        "Rebecca"
+      ],
+      "explanation": "Elle avait écrit la chanson à dix-huit ans, après avoir vu une adaptation télévisée du roman.",
+      "wikipedia": "Kate Bush"
+    },
+    {
+      "id": "musique-311",
+      "difficulty": 1,
+      "question": "Quelle chanteuse, née Anna Mae Bullock, a chanté « What's Love Got to Do with It » et « Simply the Best » ?",
+      "answer": "Tina Turner",
+      "accept": [],
+      "choices": [
+        "Diana Ross",
+        "Donna Summer",
+        "Gloria Gaynor"
+      ],
+      "explanation": "Installée en Suisse, au bord du lac de Zurich, elle en avait pris la nationalité.",
+      "wikipedia": "Tina Turner"
+    },
+    {
+      "id": "musique-312",
+      "difficulty": 1,
+      "question": "Quelle chanteuse cap-verdienne, surnommée « la diva aux pieds nus », a popularisé la morna ?",
+      "answer": "Cesária Évora",
+      "accept": [
+        "Cesaria Evora"
+      ],
+      "choices": [
+        "Miriam Makeba",
+        "Angélique Kidjo",
+        "Oumou Sangaré"
+      ],
+      "explanation": "Son titre « Sodade » évoque la nostalgie des Cap-Verdiens partis travailler loin de leur archipel.",
+      "wikipedia": "Cesária Évora"
+    },
+    {
+      "id": "musique-313",
+      "difficulty": 2,
+      "question": "Quel chanteur, légende du tango argentin, est mort dans un accident d'avion à Medellín, en Colombie ?",
+      "answer": "Carlos Gardel",
+      "accept": [
+        "Gardel"
+      ],
+      "choices": [
+        "Astor Piazzolla",
+        "Aníbal Troilo",
+        "Julio Sosa"
+      ],
+      "explanation": "Son lieu de naissance reste débattu : la plupart des historiens le situent à Toulouse, d'autres en Uruguay.",
+      "wikipedia": "Carlos Gardel"
+    },
+    {
+      "id": "musique-314",
+      "difficulty": 3,
+      "question": "Quel compositeur argentin, auteur de « Libertango », a révolutionné le tango avec le « tango nuevo » ?",
+      "answer": "Astor Piazzolla",
+      "accept": [
+        "Piazzolla"
+      ],
+      "choices": [
+        "Carlos Gardel",
+        "Osvaldo Pugliese",
+        "Alberto Ginastera"
+      ],
+      "explanation": "Il étudia à Paris auprès de Nadia Boulanger, qui l'encouragea à rester fidèle au tango plutôt qu'à la musique classique.",
+      "wikipedia": "Astor Piazzolla"
+    },
+    {
+      "id": "musique-315",
+      "difficulty": 2,
+      "question": "De quel instrument à soufflet, cousin de l'accordéon inventé en Allemagne, joue-t-on dans les orchestres de tango ?",
+      "answer": "Bandonéon",
+      "accept": [
+        "bandoneon"
+      ],
+      "choices": [
+        "Concertina",
+        "Mélodica",
+        "Harmonium"
+      ],
+      "explanation": "Il doit son nom à son inventeur présumé, le marchand d'instruments allemand Heinrich Band.",
+      "wikipedia": "Bandonéon"
+    },
+    {
+      "id": "musique-316",
+      "difficulty": 1,
+      "question": "Quel chanteur algérien, surnommé le « roi du raï », a chanté « Didi » et « Aïcha » ?",
+      "answer": "Khaled",
+      "accept": [
+        "Cheb Khaled"
+      ],
+      "choices": [
+        "Cheb Mami",
+        "Rachid Taha",
+        "Faudel"
+      ],
+      "explanation": "« Aïcha », son grand succès de 1996, a été écrite et composée par Jean-Jacques Goldman.",
+      "wikipedia": "Khaled (chanteur)"
+    },
+    {
+      "id": "musique-317",
+      "difficulty": 2,
+      "question": "De quelle ville algérienne le raï, chanté par les « chebs » et les « chabas », est-il originaire ?",
+      "answer": "Oran",
+      "accept": [],
+      "choices": [
+        "Alger",
+        "Constantine",
+        "Tlemcen"
+      ],
+      "explanation": "Le mot « raï » signifie « opinion » ou « avis » en arabe, une expression revenant souvent dans les chants.",
+      "wikipedia": "Raï"
+    },
+    {
+      "id": "musique-318",
+      "difficulty": 1,
+      "question": "Quel collectif de vieux musiciens cubains, réuni par Ry Cooder, a été filmé par Wim Wenders ?",
+      "answer": "Buena Vista Social Club",
+      "accept": [],
+      "choices": [
+        "Orquesta Aragón",
+        "Los Van Van",
+        "Irakere"
+      ],
+      "explanation": "Le nom vient d'un ancien club de La Havane ; Compay Segundo et Ibrahim Ferrer y furent redécouverts.",
+      "wikipedia": "Buena Vista Social Club (groupe)"
+    },
+    {
+      "id": "musique-319",
+      "difficulty": 2,
+      "question": "Quel musicien nigérian a inventé l'afrobeat et proclamé la « république de Kalakuta » à Lagos ?",
+      "answer": "Fela Kuti",
+      "accept": [
+        "Fela",
+        "Fela Anikulapo Kuti"
+      ],
+      "choices": [
+        "King Sunny Adé",
+        "Tony Allen",
+        "Manu Dibango"
+      ],
+      "explanation": "Saxophoniste et opposant aux régimes militaires, il mêlait jazz, funk et rythmes yorubas dans de très longs morceaux.",
+      "wikipedia": "Fela Kuti"
+    },
+    {
+      "id": "musique-320",
+      "difficulty": 2,
+      "question": "Quelle chanteuse sud-africaine, surnommée « Mama Africa », a chanté « Pata Pata » ?",
+      "answer": "Miriam Makeba",
+      "accept": [
+        "Makeba"
+      ],
+      "choices": [
+        "Brenda Fassie",
+        "Cesária Évora",
+        "Angélique Kidjo"
+      ],
+      "explanation": "Opposée à l'apartheid, elle vécut trente ans en exil avant de rentrer dans son pays en 1990.",
+      "wikipedia": "Miriam Makeba"
+    },
+    {
+      "id": "musique-321",
+      "difficulty": 2,
+      "question": "Quelle chanteuse égyptienne, surnommée « l'Astre de l'Orient », donnait des concerts de plusieurs heures ?",
+      "answer": "Oum Kalthoum",
+      "accept": [
+        "Oum Kalsoum",
+        "Umm Kulthum"
+      ],
+      "choices": [
+        "Fairouz",
+        "Warda",
+        "Asmahan"
+      ],
+      "explanation": "Ses concerts mensuels, retransmis à la radio, paralysaient le monde arabe ; une seule chanson pouvait durer près d'une heure.",
+      "wikipedia": "Oum Kalthoum"
+    },
+    {
+      "id": "musique-322",
+      "difficulty": 3,
+      "question": "Quel guitariste d'Algésiras a modernisé le flamenco, notamment avec la rumba « Entre dos aguas » ?",
+      "answer": "Paco de Lucía",
+      "accept": [
+        "Paco de Lucia"
+      ],
+      "choices": [
+        "Camarón de la Isla",
+        "Vicente Amigo",
+        "Tomatito"
+      ],
+      "explanation": "Il a introduit dans le flamenco le cajón, caisse percussive péruvienne découverte lors d'une tournée en Amérique du Sud.",
+      "wikipedia": "Paco de Lucía"
+    },
+    {
+      "id": "musique-323",
+      "difficulty": 2,
+      "question": "Quel chanteur installé à Antraigues-sur-Volane, en Ardèche, a chanté « La Montagne » ?",
+      "answer": "Jean Ferrat",
+      "accept": [
+        "Ferrat"
+      ],
+      "choices": [
+        "Léo Ferré",
+        "Georges Brassens",
+        "Allain Leprest"
+      ],
+      "explanation": "Grand admirateur d'Aragon, il a mis en musique de nombreux poèmes du poète, dont « Aimer à perdre la raison ».",
+      "wikipedia": "Jean Ferrat"
+    },
+    {
+      "id": "musique-324",
+      "difficulty": 3,
+      "question": "Quel guitariste malien de Niafunké, au bord du Niger, a été surnommé le « John Lee Hooker africain » ?",
+      "answer": "Ali Farka Touré",
+      "accept": [
+        "Ali Farka Toure"
+      ],
+      "choices": [
+        "Salif Keïta",
+        "Boubacar Traoré",
+        "Toumani Diabaté"
+      ],
+      "explanation": "Son album « Talking Timbuktu », enregistré avec Ry Cooder, a révélé au monde les liens entre musique malienne et blues.",
+      "wikipedia": "Ali Farka Touré"
+    },
+    {
+      "id": "musique-325",
+      "difficulty": 2,
+      "question": "Quel groupe Manu Chao a-t-il mené avant sa carrière solo, notamment avec « Mala Vida » ?",
+      "answer": "Mano Negra",
+      "accept": [],
+      "choices": [
+        "Les Négresses vertes",
+        "Les Wampas",
+        "Les Garçons Bouchers"
+      ],
+      "explanation": "En 1993, le groupe a traversé la Colombie à bord d'un train transformé en cirque ambulant.",
+      "wikipedia": "Mano Negra"
+    },
+    {
+      "id": "musique-326",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on le chant polyphonique corse à trois voix d'hommes, inscrit au patrimoine immatériel de l'Unesco ?",
+      "answer": "Paghjella",
+      "accept": [],
+      "choices": [
+        "Lamentu",
+        "Voceru",
+        "Chjam'è rispondi"
+      ],
+      "explanation": "Les trois voix portent des noms précis : a segonda mène le chant, u bassu le soutient et a terza l'orne d'aigus.",
+      "wikipedia": "Paghjella"
+    },
+    {
+      "id": "musique-327",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la fête de danse bretonne traditionnelle, inscrite au patrimoine immatériel de l'Unesco en 2012 ?",
+      "answer": "Fest-noz",
+      "accept": [
+        "fest noz",
+        "festoù-noz"
+      ],
+      "choices": [
+        "Pardon",
+        "Bal folk",
+        "Kermesse"
+      ],
+      "explanation": "Son nom signifie « fête de nuit » en breton ; on y danse en chaîne ou en cercle, au son du kan ha diskan.",
+      "wikipedia": "Fest-noz"
+    },
+    {
+      "id": "musique-328",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la musique traditionnelle des Juifs ashkénazes d'Europe de l'Est, où brille la clarinette ?",
+      "answer": "Klezmer",
+      "accept": [],
+      "choices": [
+        "Sevdah",
+        "Rebetiko",
+        "Manouche"
+      ],
+      "explanation": "Son nom vient de l'hébreu « kli zemer », « instrument de chant », qui désignait les musiciens itinérants.",
+      "wikipedia": "Klezmer"
+    },
+    {
+      "id": "musique-329",
+      "difficulty": 3,
+      "question": "Quel genre musical réunionnais, issu des chants d'esclaves, est inscrit au patrimoine immatériel de l'Unesco ?",
+      "answer": "Maloya",
+      "accept": [],
+      "choices": [
+        "Séga",
+        "Biguine",
+        "Gwoka"
+      ],
+      "explanation": "Longtemps marginalisé, il a été porté par des artistes comme Danyèl Waro et Firmin Viry.",
+      "wikipedia": "Maloya"
+    },
+    {
+      "id": "musique-330",
+      "difficulty": 1,
+      "question": "Quelle comédie musicale de Luc Plamondon et Richard Cocciante comprend la chanson « Belle » ?",
+      "answer": "Notre-Dame de Paris",
+      "accept": [],
+      "choices": [
+        "Starmania",
+        "Les Dix Commandements",
+        "Roméo et Juliette"
+      ],
+      "explanation": "Garou, Daniel Lavoie et Patrick Fiori y incarnaient Quasimodo, Frollo et Phœbus, tous trois amoureux d'Esmeralda.",
+      "wikipedia": "Notre-Dame de Paris (comédie musicale)"
+    },
+    {
+      "id": "musique-331",
+      "difficulty": 1,
+      "question": "Quel compositeur britannique a écrit « Cats », « Jesus Christ Superstar » et « Le Fantôme de l'Opéra » ?",
+      "answer": "Andrew Lloyd Webber",
+      "accept": [
+        "Lloyd Webber"
+      ],
+      "choices": [
+        "Tim Rice",
+        "Stephen Sondheim",
+        "Lionel Bart"
+      ],
+      "explanation": "« Cats » s'inspire d'un recueil de poèmes pour enfants de T. S. Eliot consacré aux chats.",
+      "wikipedia": "Andrew Lloyd Webber"
+    },
+    {
+      "id": "musique-332",
+      "difficulty": 2,
+      "question": "Quelle comédie musicale raconte la vie de l'épouse du président argentin Juan Perón ?",
+      "answer": "Evita",
+      "accept": [],
+      "choices": [
+        "Chicago",
+        "Cabaret",
+        "Gypsy"
+      ],
+      "explanation": "On y entend « Don't Cry for Me Argentina » ; Madonna a tenu le rôle-titre dans l'adaptation au cinéma d'Alan Parker.",
+      "wikipedia": "Evita (comédie musicale)"
+    },
+    {
+      "id": "musique-333",
+      "difficulty": 2,
+      "question": "Quel groupe californien des frères Wilson a sorti en 1966 l'album « Pet Sounds » ?",
+      "answer": "The Beach Boys",
+      "accept": [
+        "Beach Boys"
+      ],
+      "choices": [
+        "The Byrds",
+        "The Mamas and the Papas",
+        "The Monkees"
+      ],
+      "explanation": "Brian Wilson l'a conçu en réponse à « Rubber Soul » des Beatles, qui y répondirent à leur tour par « Sgt. Pepper's ».",
+      "wikipedia": "Pet Sounds"
+    },
+    {
+      "id": "musique-334",
+      "difficulty": 2,
+      "question": "Quelle comédie musicale de Kander et Ebb se déroule au Kit Kat Club, dans le Berlin des années 1930 ?",
+      "answer": "Cabaret",
+      "accept": [],
+      "choices": [
+        "Chicago",
+        "Evita",
+        "Gypsy"
+      ],
+      "explanation": "Liza Minnelli y incarne Sally Bowles dans l'adaptation de Bob Fosse au cinéma, qui remporta huit Oscars.",
+      "wikipedia": "Cabaret (comédie musicale)"
+    },
+    {
+      "id": "musique-335",
+      "difficulty": 1,
+      "question": "Quelle comédie musicale, bâtie sur les chansons d'ABBA, se déroule sur une petite île grecque ?",
+      "answer": "Mamma Mia!",
+      "accept": [
+        "Mamma Mia"
+      ],
+      "choices": [
+        "Dancing Queen",
+        "Chess",
+        "Waterloo"
+      ],
+      "explanation": "L'intrigue suit une jeune femme qui invite à son mariage les trois hommes susceptibles d'être son père.",
+      "wikipedia": "Mamma Mia!"
+    },
+    {
+      "id": "musique-336",
+      "difficulty": 3,
+      "question": "Quelle metteuse en scène a conçu les masques et marionnettes de la version scénique du « Roi lion » ?",
+      "answer": "Julie Taymor",
+      "accept": [
+        "Taymor"
+      ],
+      "choices": [
+        "Susan Stroman",
+        "Twyla Tharp",
+        "Ariane Mnouchkine"
+      ],
+      "explanation": "Ce travail lui a valu en 1998 le Tony Award des meilleurs costumes et celui de la meilleure mise en scène.",
+      "wikipedia": "Julie Taymor"
+    },
+    {
+      "id": "musique-337",
+      "difficulty": 2,
+      "question": "Quel album-concept de Serge Gainsbourg raconte la rencontre avec une jeune rousse qui roule à bicyclette ?",
+      "answer": "Histoire de Melody Nelson",
+      "accept": [
+        "Melody Nelson"
+      ],
+      "choices": [
+        "L'Homme à tête de chou",
+        "Rock around the Bunker",
+        "Vu de l'extérieur"
+      ],
+      "explanation": "Jane Birkin pose sur la pochette, et les arrangements de cordes sont signés Jean-Claude Vannier.",
+      "wikipedia": "Histoire de Melody Nelson"
+    },
+    {
+      "id": "musique-338",
+      "difficulty": 3,
+      "question": "Dans quelle rue londonienne des tailleurs les Beatles ont-ils donné leur dernier concert, sur un toit ?",
+      "answer": "Savile Row",
+      "accept": [],
+      "choices": [
+        "Abbey Road",
+        "Carnaby Street",
+        "Baker Street"
+      ],
+      "explanation": "Le 30 janvier 1969, ils jouèrent sur le toit de leur société Apple jusqu'à l'intervention de la police.",
+      "wikipedia": "The Beatles"
+    },
+    {
+      "id": "musique-339",
+      "difficulty": 1,
+      "question": "Comment s'appelle le manoir du Tennessee où vécut et repose Elvis Presley ?",
+      "answer": "Graceland",
+      "accept": [],
+      "choices": [
+        "Neverland",
+        "Paisley Park",
+        "Sunnyside"
+      ],
+      "explanation": "Paul Simon a aussi intitulé « Graceland » son album de 1986 enregistré avec des musiciens sud-africains.",
+      "wikipedia": "Graceland"
+    },
+    {
+      "id": "musique-340",
+      "difficulty": 2,
+      "question": "Sur quelle île de l'océan Indien est né Freddie Mercury, le chanteur de Queen ?",
+      "answer": "Zanzibar",
+      "accept": [],
+      "choices": [
+        "Maurice",
+        "Madagascar",
+        "Pemba"
+      ],
+      "explanation": "Farrokh Bulsara, issu d'une famille parsie, a ensuite fait ses études en Inde avant de s'installer en Angleterre.",
+      "wikipedia": "Freddie Mercury"
+    },
+    {
+      "id": "musique-341",
+      "difficulty": 1,
+      "question": "Quelle salle parisienne du boulevard des Capucines, dirigée par Bruno Coquatrix, est un temple du music-hall ?",
+      "answer": "Olympia",
+      "accept": [
+        "l'Olympia",
+        "Olympia de Paris"
+      ],
+      "choices": [
+        "Bobino",
+        "Zénith",
+        "Casino de Paris"
+      ],
+      "explanation": "Fondée en 1893 par Joseph Oller, créateur du Moulin-Rouge, c'est l'une des plus anciennes salles de spectacle de Paris encore en activité.",
+      "wikipedia": "Olympia (Paris)"
+    },
+    {
+      "id": "musique-342",
+      "difficulty": 3,
+      "question": "Quel chanteur de Pézenas, amateur de calembours, a chanté « Ta Katie t'a quitté » et « Aragon et Castille » ?",
+      "answer": "Boby Lapointe",
+      "accept": [
+        "Lapointe"
+      ],
+      "choices": [
+        "Bobby Lapointe",
+        "Ricet Barrier",
+        "Francis Blanche"
+      ],
+      "explanation": "Féru de mathématiques, il a inventé le « bibi-binaire », un système d'écriture des nombres en base seize.",
+      "wikipedia": "Boby Lapointe"
+    },
+    {
+      "id": "musique-343",
+      "difficulty": 2,
+      "question": "Quel chanteur surnommé « Monsieur 100 000 volts » a chanté « Et maintenant » et « L'important c'est la rose » ?",
+      "answer": "Gilbert Bécaud",
+      "accept": [
+        "Bécaud"
+      ],
+      "choices": [
+        "Sacha Distel",
+        "Charles Aznavour",
+        "Gilbert Montagné"
+      ],
+      "explanation": "Son surnom lui vient de l'énergie qu'il déployait sur scène lors de ses concerts à l'Olympia, où les fauteuils furent cassés.",
+      "wikipedia": "Gilbert Bécaud"
+    },
+    {
+      "id": "musique-344",
+      "difficulty": 3,
+      "question": "Quelle chanteuse grecque aux grandes lunettes a représenté le Luxembourg à l'Eurovision 1963 ?",
+      "answer": "Nana Mouskouri",
+      "accept": [
+        "Mouskouri"
+      ],
+      "choices": [
+        "Vicky Leandros",
+        "Dalida",
+        "Mireille Mathieu"
+      ],
+      "explanation": "Elle y chantait « À force de prier » ; elle a ensuite été élue députée européenne pour la Grèce.",
+      "wikipedia": "Nana Mouskouri"
+    },
+    {
+      "id": "musique-345",
+      "difficulty": 1,
+      "question": "Quelle chanteuse a connu le succès à quatorze ans avec « Joe le taxi » ?",
+      "answer": "Vanessa Paradis",
+      "accept": [
+        "Paradis"
+      ],
+      "choices": [
+        "Elsa",
+        "Lio",
+        "Jeanne Mas"
+      ],
+      "explanation": "La chanson évoque un chauffeur de taxi amateur de rumba et cite le saxophoniste Xavier Cugat.",
+      "wikipedia": "Vanessa Paradis"
+    },
+    {
+      "id": "musique-346",
+      "difficulty": 2,
+      "question": "Quel groupe toulousain a fait danser la France avec « Tomber la chemise » ?",
+      "answer": "Zebda",
+      "accept": [],
+      "choices": [
+        "Les Ogres de Barback",
+        "Massilia Sound System",
+        "Fabulous Trobadors"
+      ],
+      "explanation": "Le nom du groupe signifie « beurre » en arabe, un clin d'œil au mot « beur ».",
+      "wikipedia": "Zebda"
+    },
+    {
+      "id": "musique-347",
+      "difficulty": 3,
+      "question": "Quel groupe vocal a enregistré « Les Trois Cloches » avec Édith Piaf ?",
+      "answer": "Compagnons de la chanson",
+      "accept": [
+        "Les Compagnons de la chanson"
+      ],
+      "choices": [
+        "Les Frères Jacques",
+        "Les Quatre Barbus",
+        "Les Djinns"
+      ],
+      "explanation": "Écrite par le Suisse Jean Villard, dit Gilles, la chanson enregistrée en 1946 devint un succès international et révéla le groupe.",
+      "wikipedia": "Les Compagnons de la chanson"
+    },
+    {
+      "id": "musique-348",
+      "difficulty": 1,
+      "question": "Quel chanteur corse a créé « Petit Papa Noël » ?",
+      "answer": "Tino Rossi",
+      "accept": [
+        "Rossi"
+      ],
+      "choices": [
+        "Luis Mariano",
+        "André Claveau",
+        "Georges Guétary"
+      ],
+      "explanation": "La chanson fut créée au cinéma en 1946, dans le film « Destins », avant de devenir un classique des fêtes.",
+      "wikipedia": "Tino Rossi"
+    },
+    {
+      "id": "musique-349",
+      "difficulty": 1,
+      "question": "Quelle meneuse de revue chantait « J'ai deux amours, mon pays et Paris » ?",
+      "answer": "Joséphine Baker",
+      "accept": [
+        "Josephine Baker"
+      ],
+      "choices": [
+        "Mistinguett",
+        "Fréhel",
+        "Damia"
+      ],
+      "explanation": "Résistante pendant la Seconde Guerre mondiale, elle est entrée au Panthéon en 2021.",
+      "wikipedia": "Joséphine Baker"
+    },
+    {
+      "id": "musique-350",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le style de bal populaire parisien où domine l'accordéon, autour de la rue de Lappe ?",
+      "answer": "Musette",
+      "accept": [
+        "bal musette",
+        "valse musette"
+      ],
+      "choices": [
+        "Guinguette",
+        "Java",
+        "Cabaret"
+      ],
+      "explanation": "Le mot vient de la musette, petite cornemuse jouée par les Auvergnats de Paris avant que l'accordéon italien ne s'impose.",
+      "wikipedia": "Bal musette"
+    }
+  ]
+}
