@@ -1,807 +1,812 @@
 {
-  "category": "societe",
-  "questions": [
-    {
-      "id": "societe-001",
-      "difficulty": 1,
-      "question": "Quelle est la devise de la République française, inscrite au fronton des mairies ?",
-      "answer": "Liberté, Égalité, Fraternité",
-      "accept": [
-        "Liberté Égalité Fraternité",
-        "Liberte, Egalite, Fraternite"
-      ],
-      "choices": [
-        "Travail, Famille, Patrie",
-        "Unité, Progrès, Justice",
-        "Paix, Travail, Patrie"
-      ],
-      "explanation": "Héritée de la Révolution, elle n'est devenue officielle qu'en 1848 ; elle figure à l'article 2 de la Constitution de 1958.",
-      "wikipedia": "Liberté, Égalité, Fraternité"
-    },
-    {
-      "id": "societe-002",
-      "difficulty": 1,
-      "question": "Quel chant composé par Rouget de Lisle en 1792 est l'hymne national de la France ?",
-      "answer": "La Marseillaise",
-      "accept": [
-        "Marseillaise"
-      ],
-      "choices": [
-        "Le Chant du départ",
-        "L'Internationale",
-        "Ça ira"
-      ],
-      "explanation": "Écrit à Strasbourg pour l'armée du Rhin, il doit son nom aux fédérés marseillais qui le chantèrent en entrant à Paris.",
-      "wikipedia": "La Marseillaise"
-    },
-    {
-      "id": "societe-003",
-      "difficulty": 1,
-      "question": "Quelle figure féminine coiffée d'un bonnet phrygien symbolise la République française ?",
-      "answer": "Marianne",
-      "accept": [],
-      "choices": [
-        "Jeanne",
-        "Sabine",
-        "Victoire"
-      ],
-      "explanation": "Son buste trône dans les mairies et son profil orne les timbres ; le bonnet phrygien rappelait celui des esclaves affranchis dans l'Antiquité.",
-      "wikipedia": "Marianne"
-    },
-    {
-      "id": "societe-004",
-      "difficulty": 1,
-      "question": "Quel oiseau de basse-cour est l'un des emblèmes officieux de la France ?",
-      "answer": "coq",
-      "accept": [
-        "coq gaulois"
-      ],
-      "choices": [
-        "aigle",
-        "paon",
-        "faisan"
-      ],
-      "explanation": "Ce symbole doit beaucoup à un jeu de mots latin : gallus désigne à la fois le coq et le Gaulois.",
-      "wikipedia": "Coq gaulois"
-    },
-    {
-      "id": "societe-005",
-      "difficulty": 1,
-      "question": "Dans quelle ville française le Parlement européen tient-il ses sessions plénières ?",
-      "answer": "Strasbourg",
-      "accept": [],
-      "choices": [
-        "Bruxelles",
-        "Luxembourg",
-        "Lyon"
-      ],
-      "explanation": "Le Parlement se partage entre Strasbourg, où se tiennent les sessions plénières, Bruxelles pour les commissions et Luxembourg pour le secrétariat.",
-      "wikipedia": "Parlement européen"
-    },
-    {
-      "id": "societe-006",
-      "difficulty": 1,
-      "question": "Quelle organisation internationale a succédé en 1945 à la Société des Nations ?",
-      "answer": "ONU",
-      "accept": [
-        "Organisation des Nations unies",
-        "Nations unies"
-      ],
-      "choices": [
-        "OTAN",
-        "OCDE",
-        "UNESCO"
-      ],
-      "explanation": "Sa charte fut signée à San Francisco en juin 1945 ; son siège a ensuite été installé à New York, au bord de l'East River.",
-      "wikipedia": "Organisation des Nations unies"
-    },
-    {
-      "id": "societe-007",
-      "difficulty": 1,
-      "question": "Quelle monnaie a remplacé le franc dans les porte-monnaie des Français en 2002 ?",
-      "answer": "euro",
-      "accept": [
-        "l'euro"
-      ],
-      "choices": [
-        "écu",
-        "mark",
-        "florin"
-      ],
-      "explanation": "Un euro valait 6,55957 francs ; la monnaie existait déjà depuis 1999 pour les opérations financières, avant l'arrivée des pièces et billets.",
-      "wikipedia": "Euro"
-    },
-    {
-      "id": "societe-008",
-      "difficulty": 1,
-      "question": "Quelle est la monnaie officielle du Japon ?",
-      "answer": "yen",
-      "accept": [],
-      "choices": [
-        "won",
-        "yuan",
-        "baht"
-      ],
-      "explanation": "Le mot yen signifie « rond » en japonais ; il a été adopté en 1871, durant l'ère Meiji, en remplacement d'un système complexe.",
-      "wikipedia": "Yen"
-    },
-    {
-      "id": "societe-009",
-      "difficulty": 1,
-      "question": "Quelle est la monnaie du Royaume-Uni, symbolisée par un L barré ?",
-      "answer": "livre sterling",
-      "accept": [
-        "livre",
-        "pound"
-      ],
-      "choices": [
-        "shilling",
-        "guinée",
-        "couronne"
-      ],
-      "explanation": "Le symbole £ vient du latin libra ; jusqu'en 1971, une livre se divisait en vingt shillings de douze pence chacun.",
-      "wikipedia": "Livre sterling"
-    },
-    {
-      "id": "societe-010",
-      "difficulty": 1,
-      "question": "Quel palais parisien est la résidence officielle du président de la République française ?",
-      "answer": "Élysée",
-      "accept": [
-        "palais de l'Élysée",
-        "Elysee"
-      ],
-      "choices": [
-        "Matignon",
-        "Luxembourg",
-        "Bourbon"
-      ],
-      "explanation": "Construit au XVIIIe siècle, il appartint à la marquise de Pompadour ; le Premier ministre, lui, réside à l'hôtel de Matignon.",
-      "wikipedia": "Palais de l'Élysée"
-    },
-    {
-      "id": "societe-011",
-      "difficulty": 1,
-      "question": "Depuis 2002, combien d'années dure le mandat du président de la République française ?",
-      "answer": "cinq",
-      "accept": [
-        "5",
-        "cinq ans",
-        "5 ans"
-      ],
-      "choices": [
-        "sept",
-        "six",
-        "quatre"
-      ],
-      "explanation": "Le passage du septennat au quinquennat a été approuvé par référendum en 2000 ; Jacques Chirac fut le premier président élu pour cinq ans.",
-      "wikipedia": "Quinquennat"
-    },
-    {
-      "id": "societe-012",
-      "difficulty": 1,
-      "question": "Quel philosophe athénien, maître de Platon, fut condamné à boire la ciguë ?",
-      "answer": "Socrate",
-      "accept": [],
-      "choices": [
-        "Aristote",
-        "Diogène",
-        "Épicure"
-      ],
-      "explanation": "Socrate n'a laissé aucun écrit : on connaît sa pensée surtout par les dialogues de Platon et les récits de Xénophon.",
-      "wikipedia": "Socrate"
-    },
-    {
-      "id": "societe-013",
-      "difficulty": 1,
-      "question": "Quel sigle désigne l'alliance militaire fondée en 1949 entre l'Amérique du Nord et des pays d'Europe occidentale ?",
-      "answer": "OTAN",
-      "accept": [
-        "NATO",
-        "Organisation du traité de l'Atlantique nord"
-      ],
-      "choices": [
-        "ONU",
-        "OCDE",
-        "OSCE"
-      ],
-      "explanation": "Son article 5 prévoit qu'une attaque contre un membre est une attaque contre tous ; il a été invoqué pour la première fois après les attentats du 11 septembre 2001.",
-      "wikipedia": "Organisation du traité de l'Atlantique nord"
-    },
-    {
-      "id": "societe-014",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on la hausse générale et durable du niveau des prix ?",
-      "answer": "inflation",
-      "accept": [],
-      "choices": [
-        "déflation",
-        "récession",
-        "stagnation"
-      ],
-      "explanation": "Lorsqu'elle devient incontrôlable, on parle d'hyperinflation, comme en Allemagne en 1923 où il fallait des brouettes de billets pour acheter du pain.",
-      "wikipedia": "Inflation"
-    },
-    {
-      "id": "societe-015",
-      "difficulty": 1,
-      "question": "Quel sigle désigne l'indicateur mesurant la richesse produite sur le territoire d'un pays en une année ?",
-      "answer": "PIB",
-      "accept": [
-        "produit intérieur brut"
-      ],
-      "choices": [
-        "PNB",
-        "IDH",
-        "TVA"
-      ],
-      "explanation": "Il additionne les valeurs ajoutées produites dans le pays ; l'IDH, lui, combine revenu, santé et éducation pour mesurer le développement.",
-      "wikipedia": "Produit intérieur brut"
-    },
-    {
-      "id": "societe-016",
-      "difficulty": 1,
-      "question": "Quel diplôme, créé sous Napoléon Ier, sanctionne en France la fin des études secondaires ?",
-      "answer": "baccalauréat",
-      "accept": [
-        "bac",
-        "baccalaureat"
-      ],
-      "choices": [
-        "brevet",
-        "licence",
-        "certificat d'études"
-      ],
-      "explanation": "Instauré en 1808, il est aussi le premier grade universitaire ; son nom viendrait du latin bacca laurea, la baie de laurier.",
-      "wikipedia": "Baccalauréat en France"
-    },
-    {
-      "id": "societe-017",
-      "difficulty": 1,
-      "question": "Quel philosophe allemand est l'auteur du Capital et, avec Engels, du Manifeste du Parti communiste ?",
-      "answer": "Karl Marx",
-      "accept": [
-        "Marx"
-      ],
-      "choices": [
-        "Friedrich Hegel",
-        "Max Weber",
-        "Ludwig Feuerbach"
-      ],
-      "explanation": "Exilé, il rédigea l'essentiel du Capital à Londres, où il passa des années à travailler dans la salle de lecture du British Museum.",
-      "wikipedia": "Karl Marx"
-    },
-    {
-      "id": "societe-018",
-      "difficulty": 1,
-      "question": "Quel philosophe français a théorisé la séparation des pouvoirs dans De l'esprit des lois ?",
-      "answer": "Montesquieu",
-      "accept": [],
-      "choices": [
-        "Voltaire",
-        "Rousseau",
-        "Diderot"
-      ],
-      "explanation": "Publié en 1748, l'ouvrage distingue pouvoirs législatif, exécutif et judiciaire ; il a fortement inspiré la Constitution des États-Unis.",
-      "wikipedia": "Montesquieu"
-    },
-    {
-      "id": "societe-019",
-      "difficulty": 1,
-      "question": "Quel ministre a rendu l'école primaire gratuite, laïque et obligatoire dans les années 1880 ?",
-      "answer": "Jules Ferry",
-      "accept": [
-        "Ferry"
-      ],
-      "choices": [
-        "Jean Jaurès",
-        "Victor Duruy",
-        "François Guizot"
-      ],
-      "explanation": "Ses lois de 1881 et 1882 rendent l'instruction obligatoire de six à treize ans ; de nombreuses écoles françaises portent aujourd'hui son nom.",
-      "wikipedia": "Jules Ferry"
-    },
-    {
-      "id": "societe-020",
-      "difficulty": 1,
-      "question": "Quel sigle désigne en France le salaire minimum légal versé aux salariés ?",
-      "answer": "SMIC",
-      "accept": [
-        "Smic",
-        "salaire minimum interprofessionnel de croissance"
-      ],
-      "choices": [
-        "RSA",
-        "RMI",
-        "CSG"
-      ],
-      "explanation": "Il a remplacé en 1970 le SMIG, salaire minimum interprofessionnel garanti, en étant désormais indexé aussi sur la croissance économique.",
-      "wikipedia": "Salaire minimum interprofessionnel de croissance"
-    },
-    {
-      "id": "societe-021",
-      "difficulty": 2,
-      "question": "Quel numéro porte le régime républicain instauré en France en 1958 ?",
-      "answer": "cinquième",
-      "accept": [
-        "Ve",
-        "5e",
-        "Ve République"
-      ],
-      "choices": [
-        "quatrième",
-        "sixième",
-        "troisième"
-      ],
-      "explanation": "Elle a été fondée à l'initiative du général de Gaulle ; sa constitution a été révisée à de nombreuses reprises depuis son adoption.",
-      "wikipedia": "Cinquième République"
-    },
-    {
-      "id": "societe-022",
-      "difficulty": 2,
-      "question": "Quelle institution française de neuf membres nommés contrôle la conformité des lois à la loi fondamentale ?",
-      "answer": "Conseil constitutionnel",
-      "accept": [],
-      "choices": [
-        "Conseil d'État",
-        "Cour des comptes",
-        "Cour de cassation"
-      ],
-      "explanation": "Ses membres sont nommés pour neuf ans ; les anciens présidents de la République en sont membres de droit à vie.",
-      "wikipedia": "Conseil constitutionnel (France)"
-    },
-    {
-      "id": "societe-023",
-      "difficulty": 2,
-      "question": "Quelle juridiction est la plus haute de l'ordre judiciaire français, siégeant au palais de justice de Paris ?",
-      "answer": "Cour de cassation",
-      "accept": [
-        "cassation"
-      ],
-      "choices": [
-        "Conseil d'État",
-        "Cour d'appel",
-        "Cour des comptes"
-      ],
-      "explanation": "Elle ne rejuge pas les faits mais vérifie la bonne application du droit ; elle peut casser une décision et renvoyer l'affaire.",
-      "wikipedia": "Cour de cassation (France)"
-    },
-    {
-      "id": "societe-024",
-      "difficulty": 2,
-      "question": "Quelle juridiction française juge les crimes avec un jury de citoyens tirés au sort ?",
-      "answer": "cour d'assises",
-      "accept": [
-        "assises"
-      ],
-      "choices": [
-        "tribunal correctionnel",
-        "tribunal de police",
-        "cour d'appel"
-      ],
-      "explanation": "Les délits relèvent du tribunal correctionnel ; le jury populaire, héritage de la Révolution, siège aux côtés de magistrats professionnels.",
-      "wikipedia": "Cour d'assises (France)"
-    },
-    {
-      "id": "societe-025",
-      "difficulty": 2,
-      "question": "Dans quelle ville néerlandaise a été signé en 1992 le traité instituant l'Union européenne ?",
-      "answer": "Maastricht",
-      "accept": [
-        "traité de Maastricht"
-      ],
-      "choices": [
-        "Amsterdam",
-        "Rotterdam",
-        "La Haye"
-      ],
-      "explanation": "En France, il fut ratifié par référendum en septembre 1992 avec une très courte majorité d'environ 51 % de oui.",
-      "wikipedia": "Traité de Maastricht"
-    },
-    {
-      "id": "societe-026",
-      "difficulty": 2,
-      "question": "Quelle institution, siégeant à Francfort, conduit la politique monétaire de la zone euro ?",
-      "answer": "BCE",
-      "accept": [
-        "Banque centrale européenne"
-      ],
-      "choices": [
-        "FMI",
-        "BEI",
-        "BRI"
-      ],
-      "explanation": "Créée en 1998, elle a pour mission principale la stabilité des prix ; elle est la seule à pouvoir autoriser l'émission de billets en euros.",
-      "wikipedia": "Banque centrale européenne"
-    },
-    {
-      "id": "societe-027",
-      "difficulty": 2,
-      "question": "Dans quelle ville siège la Cour internationale de justice, organe judiciaire de l'ONU ?",
-      "answer": "La Haye",
-      "accept": [
-        "Den Haag"
-      ],
-      "choices": [
-        "Genève",
-        "Strasbourg",
-        "Luxembourg"
-      ],
-      "explanation": "Elle siège au palais de la Paix ; elle tranche des différends entre États, alors que la Cour pénale internationale juge des individus.",
-      "wikipedia": "Cour internationale de justice"
-    },
-    {
-      "id": "societe-028",
-      "difficulty": 2,
-      "question": "Combien de membres permanents disposant d'un droit de veto compte le Conseil de sécurité de l'ONU ?",
-      "answer": "cinq",
-      "accept": [
-        "5"
-      ],
-      "choices": [
-        "trois",
-        "sept",
-        "dix"
-      ],
-      "explanation": "Ce sont la Chine, les États-Unis, la France, le Royaume-Uni et la Russie ; dix autres membres sont élus pour deux ans.",
-      "wikipedia": "Conseil de sécurité des Nations unies"
-    },
-    {
-      "id": "societe-029",
-      "difficulty": 2,
-      "question": "Quel économiste écossais a écrit La Richesse des nations et évoqué la « main invisible » du marché ?",
-      "answer": "Adam Smith",
-      "accept": [
-        "Smith"
-      ],
-      "choices": [
-        "David Ricardo",
-        "David Hume",
-        "Thomas Malthus"
-      ],
-      "explanation": "Il y décrit notamment la division du travail à partir de l'exemple d'une manufacture d'épingles ; l'ouvrage parut en 1776.",
-      "wikipedia": "Adam Smith"
-    },
-    {
-      "id": "societe-030",
-      "difficulty": 2,
-      "question": "Quel économiste britannique a prôné l'intervention de l'État pour relancer la demande face à la crise des années 1930 ?",
-      "answer": "John Maynard Keynes",
-      "accept": [
-        "Keynes"
-      ],
-      "choices": [
-        "Milton Friedman",
-        "Friedrich Hayek",
-        "Alfred Marshall"
-      ],
-      "explanation": "Sa Théorie générale de l'emploi, de l'intérêt et de la monnaie parut en 1936 ; il participa aussi à la conférence de Bretton Woods.",
-      "wikipedia": "John Maynard Keynes"
-    },
-    {
-      "id": "societe-031",
-      "difficulty": 2,
-      "question": "Comment appelle-t-on une situation de marché où une seule entreprise est l'unique vendeur d'un bien ?",
-      "answer": "monopole",
-      "accept": [],
-      "choices": [
-        "oligopole",
-        "monopsone",
-        "duopole"
-      ],
-      "explanation": "Le monopsone est le cas inverse, avec un seul acheteur ; quelques vendeurs seulement forment un oligopole.",
-      "wikipedia": "Monopole"
-    },
-    {
-      "id": "societe-032",
-      "difficulty": 2,
-      "question": "Comment se nommait la monnaie de la République fédérale d'Allemagne avant l'euro ?",
-      "answer": "Deutsche Mark",
-      "accept": [
-        "mark",
-        "Deutschemark",
-        "DM"
-      ],
-      "choices": [
-        "florin",
-        "thaler",
-        "schilling"
-      ],
-      "explanation": "Introduit en 1948 dans les zones d'occupation occidentales, il devint un symbole de la stabilité et du miracle économique allemand.",
-      "wikipedia": "Deutsche Mark"
-    },
-    {
-      "id": "societe-033",
-      "difficulty": 2,
-      "question": "Quel philosophe de Königsberg a écrit la Critique de la raison pure ?",
-      "answer": "Emmanuel Kant",
-      "accept": [
-        "Kant"
-      ],
-      "choices": [
-        "Friedrich Hegel",
-        "Arthur Schopenhauer",
-        "Johann Fichte"
-      ],
-      "explanation": "On raconte que ses promenades quotidiennes étaient si régulières que les habitants de Königsberg réglaient leur montre sur son passage.",
-      "wikipedia": "Emmanuel Kant"
-    },
-    {
-      "id": "societe-034",
-      "difficulty": 2,
-      "question": "Dans quel lieu sombre Platon place-t-il des prisonniers qui ne voient que des ombres projetées sur une paroi ?",
-      "answer": "caverne",
-      "accept": [
-        "allégorie de la caverne",
-        "mythe de la caverne",
-        "grotte"
-      ],
-      "choices": [
-        "labyrinthe",
-        "crypte",
-        "tour"
-      ],
-      "explanation": "Cette allégorie figure au livre VII de La République ; elle illustre le passage de l'opinion à la connaissance véritable.",
-      "wikipedia": "Allégorie de la caverne"
-    },
-    {
-      "id": "societe-035",
-      "difficulty": 2,
-      "question": "Quel penseur florentin a écrit Le Prince, traité sur la conquête et la conservation du pouvoir ?",
-      "answer": "Machiavel",
-      "accept": [
-        "Nicolas Machiavel",
-        "Niccolò Machiavelli"
-      ],
-      "choices": [
-        "Dante",
-        "Guichardin",
-        "Savonarole"
-      ],
-      "explanation": "Rédigé en 1513 et dédié à Laurent de Médicis, l'ouvrage a donné l'adjectif machiavélique, souvent synonyme de manipulateur.",
-      "wikipedia": "Nicolas Machiavel"
-    },
-    {
-      "id": "societe-036",
-      "difficulty": 2,
-      "question": "Quel nom, issu du théologien Robert de Sorbon, désigne l'ancienne université de Paris ?",
-      "answer": "Sorbonne",
-      "accept": [
-        "la Sorbonne"
-      ],
-      "choices": [
-        "Collège de France",
-        "Panthéon",
-        "Saint-Germain"
-      ],
-      "explanation": "Robert de Sorbon fonda au XIIIe siècle un collège pour étudiants pauvres en théologie ; son nom finit par désigner toute l'université.",
-      "wikipedia": "Sorbonne"
-    },
-    {
-      "id": "societe-037",
-      "difficulty": 2,
-      "question": "Quelle procédure permet à l'Assemblée nationale de renverser le gouvernement par un vote ?",
-      "answer": "motion de censure",
-      "accept": [
-        "censure"
-      ],
-      "choices": [
-        "question de confiance",
-        "dissolution",
-        "référendum"
-      ],
-      "explanation": "Elle doit être signée par au moins un dixième des députés, puis adoptée à la majorité absolue des membres composant l'Assemblée.",
-      "wikipedia": "Motion de censure"
-    },
-    {
-      "id": "societe-038",
-      "difficulty": 2,
-      "question": "Quel principe, consacré par la loi de 1905, garantit la neutralité de l'État envers les religions ?",
-      "answer": "laïcité",
-      "accept": [
-        "laicite"
-      ],
-      "choices": [
-        "concordat",
-        "tolérance",
-        "gallicanisme"
-      ],
-      "explanation": "La loi de séparation des Églises et de l'État a mis fin au Concordat de 1801, qui reste toutefois appliqué en Alsace-Moselle.",
-      "wikipedia": "Laïcité en France"
-    },
-    {
-      "id": "societe-039",
-      "difficulty": 2,
-      "question": "Quel garde des Sceaux a porté l'abolition de la peine de mort en France en 1981 ?",
-      "answer": "Robert Badinter",
-      "accept": [
-        "Badinter"
-      ],
-      "choices": [
-        "Simone Veil",
-        "Gaston Defferre",
-        "Pierre Mauroy"
-      ],
-      "explanation": "Son discours devant l'Assemblée nationale est resté célèbre ; il présida ensuite le Conseil constitutionnel de 1986 à 1995.",
-      "wikipedia": "Robert Badinter"
-    },
-    {
-      "id": "societe-040",
-      "difficulty": 2,
-      "question": "Quelle entreprise clermontoise de pneumatiques a créé un célèbre guide gastronomique décernant des étoiles ?",
-      "answer": "Michelin",
-      "accept": [],
-      "choices": [
-        "Dunlop",
-        "Kléber",
-        "Goodyear"
-      ],
-      "explanation": "Le premier guide, paru en 1900, était offert aux automobilistes pour les inciter à rouler davantage ; sa mascotte se nomme Bibendum.",
-      "wikipedia": "Michelin"
-    },
-    {
-      "id": "societe-041",
-      "difficulty": 3,
-      "question": "Quelle expression latine exprime le principe selon lequel nul ne peut être jugé deux fois pour les mêmes faits ?",
-      "answer": "non bis in idem",
-      "accept": [
-        "ne bis in idem"
-      ],
-      "choices": [
-        "nulla poena sine lege",
-        "habeas corpus",
-        "dura lex sed lex"
-      ],
-      "explanation": "Ce principe figure notamment dans la Convention européenne des droits de l'homme ; on le résume aussi par l'autorité de la chose jugée.",
-      "wikipedia": "Non bis in idem"
-    },
-    {
-      "id": "societe-042",
-      "difficulty": 3,
-      "question": "Quel philosophe anglais a comparé l'État souverain à un monstre biblique dans un traité publié en 1651 ?",
-      "answer": "Thomas Hobbes",
-      "accept": [
-        "Hobbes"
-      ],
-      "choices": [
-        "John Locke",
-        "Francis Bacon",
-        "David Hume"
-      ],
-      "explanation": "Le Léviathan décrit l'état de nature comme une guerre de tous contre tous, que seul un souverain absolu, institué par contrat, peut faire cesser.",
-      "wikipedia": "Thomas Hobbes"
-    },
-    {
-      "id": "societe-043",
-      "difficulty": 3,
-      "question": "Quel économiste autrichien a popularisé l'idée de « destruction créatrice » pour décrire l'innovation ?",
-      "answer": "Joseph Schumpeter",
-      "accept": [
-        "Schumpeter"
-      ],
-      "choices": [
-        "Friedrich Hayek",
-        "Ludwig von Mises",
-        "Carl Menger"
-      ],
-      "explanation": "Pour lui, l'entrepreneur innovant est le moteur du capitalisme ; il exposa cette idée dans Capitalisme, socialisme et démocratie en 1942.",
-      "wikipedia": "Joseph Schumpeter"
-    },
-    {
-      "id": "societe-044",
-      "difficulty": 3,
-      "question": "Quel financier anglais a donné son nom à la loi selon laquelle la mauvaise monnaie chasse la bonne ?",
-      "answer": "Gresham",
-      "accept": [
-        "Thomas Gresham",
-        "loi de Gresham"
-      ],
-      "choices": [
-        "Ricardo",
-        "Law",
-        "Newton"
-      ],
-      "explanation": "Lorsque deux monnaies de même valeur légale circulent, on thésaurise la meilleure et on dépense la moins bonne ; Copernic avait déjà fait ce constat.",
-      "wikipedia": "Loi de Gresham"
-    },
-    {
-      "id": "societe-045",
-      "difficulty": 3,
-      "question": "Quel économiste italien a donné son nom au principe dit des 80/20 ?",
-      "answer": "Vilfredo Pareto",
-      "accept": [
-        "Pareto"
-      ],
-      "choices": [
-        "Enrico Barone",
-        "Piero Sraffa",
-        "Luigi Einaudi"
-      ],
-      "explanation": "Il avait observé qu'environ 80 % des terres italiennes appartenaient à 20 % de la population ; il étudia aussi l'optimum qui porte son nom.",
-      "wikipedia": "Principe de Pareto"
-    },
-    {
-      "id": "societe-046",
-      "difficulty": 3,
-      "question": "Quel philosophe grec a fondé à Athènes l'école du Portique, à l'origine du stoïcisme ?",
-      "answer": "Zénon de Citium",
-      "accept": [
-        "Zénon",
-        "Zenon de Citium",
-        "Zénon de Kition"
-      ],
-      "choices": [
-        "Épicure",
-        "Chrysippe",
-        "Antisthène"
-      ],
-      "explanation": "Le mot stoïcisme vient du grec stoa, le portique peint de l'agora où il enseignait ; à ne pas confondre avec Zénon d'Élée et ses paradoxes.",
-      "wikipedia": "Zénon de Kition"
-    },
-    {
-      "id": "societe-047",
-      "difficulty": 3,
-      "question": "Quel théologien anglais a donné son nom au principe de parcimonie privilégiant les hypothèses les plus simples ?",
-      "answer": "Guillaume d'Ockham",
-      "accept": [
-        "Ockham",
-        "Occam",
-        "Guillaume d'Occam"
-      ],
-      "choices": [
-        "Roger Bacon",
-        "Duns Scot",
-        "Thomas More"
-      ],
-      "explanation": "Ce principe est appelé rasoir parce qu'il élimine les explications superflues ; ce franciscain a inspiré le Guillaume de Baskerville du roman Le Nom de la rose.",
-      "wikipedia": "Rasoir d'Ockham"
-    },
-    {
-      "id": "societe-048",
-      "difficulty": 3,
-      "question": "Quel philosophe utilitariste britannique a imaginé une prison circulaire appelée panoptique ?",
-      "answer": "Jeremy Bentham",
-      "accept": [
-        "Bentham"
-      ],
-      "choices": [
-        "John Stuart Mill",
-        "James Mill",
-        "Herbert Spencer"
-      ],
-      "explanation": "Un surveillant central y voit tous les détenus sans être vu ; Michel Foucault en a fait une figure du pouvoir dans Surveiller et punir.",
-      "wikipedia": "Jeremy Bentham"
-    },
-    {
-      "id": "societe-049",
-      "difficulty": 3,
-      "question": "Quel sociologue français, auteur du Suicide, est considéré comme l'un des fondateurs de la sociologie ?",
-      "answer": "Émile Durkheim",
-      "accept": [
-        "Durkheim",
-        "Emile Durkheim"
-      ],
-      "choices": [
-        "Auguste Comte",
-        "Marcel Mauss",
-        "Gabriel Tarde"
-      ],
-      "explanation": "Publié en 1897, Le Suicide montre qu'un acte individuel obéit à des causes sociales ; Marcel Mauss était son neveu.",
-      "wikipedia": "Émile Durkheim"
-    },
-    {
-      "id": "societe-050",
-      "difficulty": 3,
-      "question": "Quelle expression latine désigne la garantie, née en Angleterre, contre la détention arbitraire ?",
-      "answer": "habeas corpus",
-      "accept": [],
-      "choices": [
-        "non bis in idem",
-        "nulla poena sine lege",
-        "in dubio pro reo"
-      ],
-      "explanation": "L'Habeas Corpus Act de 1679 impose de présenter tout détenu devant un juge ; l'expression signifie « que tu aies le corps ».",
-      "wikipedia": "Habeas corpus"
-    }
-  ]
+ "category": "societe",
+ "questions": [
+  {
+   "id": "societe-001",
+   "difficulty": 1,
+   "question": "Quelle est la devise de la République française, inscrite au fronton des mairies ?",
+   "answer": "Liberté, Égalité, Fraternité",
+   "accept": [
+    "Liberté Égalité Fraternité",
+    "Liberte, Egalite, Fraternite"
+   ],
+   "choices": [
+    "Travail, Famille, Patrie",
+    "Unité, Progrès, Justice",
+    "Paix, Travail, Patrie"
+   ],
+   "explanation": "Héritée de la Révolution, elle n'est devenue officielle qu'en 1848 ; elle figure à l'article 2 de la Constitution de 1958.",
+   "wikipedia": "Liberté, Égalité, Fraternité"
+  },
+  {
+   "id": "societe-002",
+   "difficulty": 1,
+   "question": "Quel animal, perché sur les monuments aux morts et les maillots des Bleus, est un emblème officieux de la France ?",
+   "answer": "coq",
+   "accept": [
+    "coq gaulois",
+    "le coq gaulois"
+   ],
+   "choices": [
+    "aigle",
+    "lion",
+    "ours"
+   ],
+   "explanation": "Le jeu de mots latin gallus, qui signifie à la fois « coq » et « Gaulois », explique en partie ce symbole adopté sous la Révolution.",
+   "wikipedia": "Coq gaulois"
+  },
+  {
+   "id": "societe-003",
+   "difficulty": 1,
+   "question": "Quelle figure féminine coiffée d'un bonnet phrygien symbolise la République française ?",
+   "answer": "Marianne",
+   "accept": [],
+   "choices": [
+    "Jeanne",
+    "Sabine",
+    "Victoire"
+   ],
+   "explanation": "Son buste trône dans les mairies et son profil orne les timbres ; le bonnet phrygien rappelait celui des esclaves affranchis dans l'Antiquité.",
+   "wikipedia": "Marianne"
+  },
+  {
+   "id": "societe-004",
+   "difficulty": 1,
+   "question": "Quel oiseau de basse-cour est l'un des emblèmes officieux de la France ?",
+   "answer": "coq",
+   "accept": [
+    "coq gaulois"
+   ],
+   "choices": [
+    "aigle",
+    "paon",
+    "faisan"
+   ],
+   "explanation": "Ce symbole doit beaucoup à un jeu de mots latin : gallus désigne à la fois le coq et le Gaulois.",
+   "wikipedia": "Coq gaulois"
+  },
+  {
+   "id": "societe-005",
+   "difficulty": 1,
+   "question": "Dans quelle ville française le Parlement européen tient-il ses sessions plénières ?",
+   "answer": "Strasbourg",
+   "accept": [],
+   "choices": [
+    "Bruxelles",
+    "Luxembourg",
+    "Lyon"
+   ],
+   "explanation": "Le Parlement se partage entre Strasbourg, où se tiennent les sessions plénières, Bruxelles pour les commissions et Luxembourg pour le secrétariat.",
+   "wikipedia": "Parlement européen"
+  },
+  {
+   "id": "societe-006",
+   "difficulty": 1,
+   "question": "Quelle organisation internationale a succédé en 1945 à la Société des Nations ?",
+   "answer": "ONU",
+   "accept": [
+    "Organisation des Nations unies",
+    "Nations unies"
+   ],
+   "choices": [
+    "OTAN",
+    "OCDE",
+    "UNESCO"
+   ],
+   "explanation": "Sa charte fut signée à San Francisco en juin 1945 ; son siège a ensuite été installé à New York, au bord de l'East River.",
+   "wikipedia": "Organisation des Nations unies"
+  },
+  {
+   "id": "societe-007",
+   "difficulty": 1,
+   "question": "Quelle monnaie a remplacé le franc dans les porte-monnaie des Français en 2002 ?",
+   "answer": "euro",
+   "accept": [
+    "l'euro"
+   ],
+   "choices": [
+    "écu",
+    "mark",
+    "florin"
+   ],
+   "explanation": "Un euro valait 6,55957 francs ; la monnaie existait déjà depuis 1999 pour les opérations financières, avant l'arrivée des pièces et billets.",
+   "wikipedia": "Euro"
+  },
+  {
+   "id": "societe-008",
+   "difficulty": 1,
+   "question": "Comment s'appelle la banque centrale des États-Unis, souvent surnommée « la Fed » ?",
+   "answer": "Réserve fédérale",
+   "accept": [
+    "Federal Reserve",
+    "Fed",
+    "Système fédéral de réserve"
+   ],
+   "choices": [
+    "Banque mondiale",
+    "Trésor américain",
+    "Wall Street"
+   ],
+   "explanation": "Créée en 1913 après plusieurs paniques bancaires, elle est dirigée par un conseil des gouverneurs siégeant à Washington.",
+   "wikipedia": "Réserve fédérale des États-Unis"
+  },
+  {
+   "id": "societe-009",
+   "difficulty": 1,
+   "question": "Quelle est la monnaie du Royaume-Uni, symbolisée par un L barré ?",
+   "answer": "livre sterling",
+   "accept": [
+    "livre",
+    "pound"
+   ],
+   "choices": [
+    "shilling",
+    "guinée",
+    "couronne"
+   ],
+   "explanation": "Le symbole £ vient du latin libra ; jusqu'en 1971, une livre se divisait en vingt shillings de douze pence chacun.",
+   "wikipedia": "Livre sterling"
+  },
+  {
+   "id": "societe-010",
+   "difficulty": 1,
+   "question": "Quel palais parisien est la résidence officielle du président de la République française ?",
+   "answer": "Élysée",
+   "accept": [
+    "palais de l'Élysée",
+    "Elysee"
+   ],
+   "choices": [
+    "Matignon",
+    "Luxembourg",
+    "Bourbon"
+   ],
+   "explanation": "Construit au XVIIIe siècle, il appartint à la marquise de Pompadour ; le Premier ministre, lui, réside à l'hôtel de Matignon.",
+   "wikipedia": "Palais de l'Élysée"
+  },
+  {
+   "id": "societe-011",
+   "difficulty": 1,
+   "question": "Depuis 2002, combien d'années dure le mandat du président de la République française ?",
+   "answer": "cinq",
+   "accept": [
+    "5",
+    "cinq ans",
+    "5 ans"
+   ],
+   "choices": [
+    "sept",
+    "six",
+    "quatre"
+   ],
+   "explanation": "Le passage du septennat au quinquennat a été approuvé par référendum en 2000 ; Jacques Chirac fut le premier président élu pour cinq ans.",
+   "wikipedia": "Quinquennat"
+  },
+  {
+   "id": "societe-012",
+   "difficulty": 1,
+   "question": "Quel philosophe athénien, maître de Platon, fut condamné à boire la ciguë ?",
+   "answer": "Socrate",
+   "accept": [],
+   "choices": [
+    "Aristote",
+    "Diogène",
+    "Épicure"
+   ],
+   "explanation": "Socrate n'a laissé aucun écrit : on connaît sa pensée surtout par les dialogues de Platon et les récits de Xénophon.",
+   "wikipedia": "Socrate"
+  },
+  {
+   "id": "societe-013",
+   "difficulty": 1,
+   "question": "Quel sigle désigne l'alliance militaire fondée en 1949 entre l'Amérique du Nord et des pays d'Europe occidentale ?",
+   "answer": "OTAN",
+   "accept": [
+    "NATO",
+    "Organisation du traité de l'Atlantique nord"
+   ],
+   "choices": [
+    "ONU",
+    "OCDE",
+    "OSCE"
+   ],
+   "explanation": "Son article 5 prévoit qu'une attaque contre un membre est une attaque contre tous ; il a été invoqué pour la première fois après les attentats du 11 septembre 2001.",
+   "wikipedia": "Organisation du traité de l'Atlantique nord"
+  },
+  {
+   "id": "societe-014",
+   "difficulty": 1,
+   "question": "Comment appelle-t-on la hausse générale et durable du niveau des prix ?",
+   "answer": "inflation",
+   "accept": [],
+   "choices": [
+    "déflation",
+    "récession",
+    "stagnation"
+   ],
+   "explanation": "Lorsqu'elle devient incontrôlable, on parle d'hyperinflation, comme en Allemagne en 1923 où il fallait des brouettes de billets pour acheter du pain.",
+   "wikipedia": "Inflation"
+  },
+  {
+   "id": "societe-015",
+   "difficulty": 1,
+   "question": "Quel sigle désigne l'indicateur mesurant la richesse produite sur le territoire d'un pays en une année ?",
+   "answer": "PIB",
+   "accept": [
+    "produit intérieur brut"
+   ],
+   "choices": [
+    "PNB",
+    "IDH",
+    "TVA"
+   ],
+   "explanation": "Il additionne les valeurs ajoutées produites dans le pays ; l'IDH, lui, combine revenu, santé et éducation pour mesurer le développement.",
+   "wikipedia": "Produit intérieur brut"
+  },
+  {
+   "id": "societe-016",
+   "difficulty": 1,
+   "question": "Quel diplôme, créé sous Napoléon Ier, sanctionne en France la fin des études secondaires ?",
+   "answer": "baccalauréat",
+   "accept": [
+    "bac",
+    "baccalaureat"
+   ],
+   "choices": [
+    "brevet",
+    "licence",
+    "certificat d'études"
+   ],
+   "explanation": "Instauré en 1808, il est aussi le premier grade universitaire ; son nom viendrait du latin bacca laurea, la baie de laurier.",
+   "wikipedia": "Baccalauréat en France"
+  },
+  {
+   "id": "societe-017",
+   "difficulty": 1,
+   "question": "Quel philosophe allemand est l'auteur du Capital et, avec Engels, du Manifeste du Parti communiste ?",
+   "answer": "Karl Marx",
+   "accept": [
+    "Marx"
+   ],
+   "choices": [
+    "Friedrich Hegel",
+    "Max Weber",
+    "Ludwig Feuerbach"
+   ],
+   "explanation": "Exilé, il rédigea l'essentiel du Capital à Londres, où il passa des années à travailler dans la salle de lecture du British Museum.",
+   "wikipedia": "Karl Marx"
+  },
+  {
+   "id": "societe-018",
+   "difficulty": 1,
+   "question": "Quel philosophe français a théorisé la séparation des pouvoirs dans De l'esprit des lois ?",
+   "answer": "Montesquieu",
+   "accept": [],
+   "choices": [
+    "Voltaire",
+    "Rousseau",
+    "Diderot"
+   ],
+   "explanation": "Publié en 1748, l'ouvrage distingue pouvoirs législatif, exécutif et judiciaire ; il a fortement inspiré la Constitution des États-Unis.",
+   "wikipedia": "Montesquieu"
+  },
+  {
+   "id": "societe-019",
+   "difficulty": 1,
+   "question": "Quel ministre a rendu l'école primaire gratuite, laïque et obligatoire dans les années 1880 ?",
+   "answer": "Jules Ferry",
+   "accept": [
+    "Ferry"
+   ],
+   "choices": [
+    "Jean Jaurès",
+    "Victor Duruy",
+    "François Guizot"
+   ],
+   "explanation": "Ses lois de 1881 et 1882 rendent l'instruction obligatoire de six à treize ans ; de nombreuses écoles françaises portent aujourd'hui son nom.",
+   "wikipedia": "Jules Ferry"
+  },
+  {
+   "id": "societe-020",
+   "difficulty": 1,
+   "question": "Quel sigle désigne en France le salaire minimum légal versé aux salariés ?",
+   "answer": "SMIC",
+   "accept": [
+    "Smic",
+    "salaire minimum interprofessionnel de croissance"
+   ],
+   "choices": [
+    "RSA",
+    "RMI",
+    "CSG"
+   ],
+   "explanation": "Il a remplacé en 1970 le SMIG, salaire minimum interprofessionnel garanti, en étant désormais indexé aussi sur la croissance économique.",
+   "wikipedia": "Salaire minimum interprofessionnel de croissance"
+  },
+  {
+   "id": "societe-021",
+   "difficulty": 2,
+   "question": "Quel numéro porte le régime républicain instauré en France en 1958 ?",
+   "answer": "cinquième",
+   "accept": [
+    "Ve",
+    "5e",
+    "Ve République"
+   ],
+   "choices": [
+    "quatrième",
+    "sixième",
+    "troisième"
+   ],
+   "explanation": "Elle a été fondée à l'initiative du général de Gaulle ; sa constitution a été révisée à de nombreuses reprises depuis son adoption.",
+   "wikipedia": "Cinquième République"
+  },
+  {
+   "id": "societe-022",
+   "difficulty": 2,
+   "question": "Quelle institution française de neuf membres nommés contrôle la conformité des lois à la loi fondamentale ?",
+   "answer": "Conseil constitutionnel",
+   "accept": [],
+   "choices": [
+    "Conseil d'État",
+    "Cour des comptes",
+    "Cour de cassation"
+   ],
+   "explanation": "Ses membres sont nommés pour neuf ans ; les anciens présidents de la République en sont membres de droit à vie.",
+   "wikipedia": "Conseil constitutionnel (France)"
+  },
+  {
+   "id": "societe-023",
+   "difficulty": 2,
+   "question": "Quelle juridiction est la plus haute de l'ordre judiciaire français, siégeant au palais de justice de Paris ?",
+   "answer": "Cour de cassation",
+   "accept": [
+    "cassation"
+   ],
+   "choices": [
+    "Conseil d'État",
+    "Cour d'appel",
+    "Cour des comptes"
+   ],
+   "explanation": "Elle ne rejuge pas les faits mais vérifie la bonne application du droit ; elle peut casser une décision et renvoyer l'affaire.",
+   "wikipedia": "Cour de cassation (France)"
+  },
+  {
+   "id": "societe-024",
+   "difficulty": 2,
+   "question": "Quelle juridiction française juge les crimes avec un jury de citoyens tirés au sort ?",
+   "answer": "cour d'assises",
+   "accept": [
+    "assises"
+   ],
+   "choices": [
+    "tribunal correctionnel",
+    "tribunal de police",
+    "cour d'appel"
+   ],
+   "explanation": "Les délits relèvent du tribunal correctionnel ; le jury populaire, héritage de la Révolution, siège aux côtés de magistrats professionnels.",
+   "wikipedia": "Cour d'assises (France)"
+  },
+  {
+   "id": "societe-025",
+   "difficulty": 2,
+   "question": "Dans quelle ville néerlandaise a été signé en 1992 le traité instituant l'Union européenne ?",
+   "answer": "Maastricht",
+   "accept": [
+    "traité de Maastricht"
+   ],
+   "choices": [
+    "Amsterdam",
+    "Rotterdam",
+    "La Haye"
+   ],
+   "explanation": "En France, il fut ratifié par référendum en septembre 1992 avec une très courte majorité d'environ 51 % de oui.",
+   "wikipedia": "Traité de Maastricht"
+  },
+  {
+   "id": "societe-026",
+   "difficulty": 2,
+   "question": "Quelle institution, siégeant à Francfort, conduit la politique monétaire de la zone euro ?",
+   "answer": "BCE",
+   "accept": [
+    "Banque centrale européenne"
+   ],
+   "choices": [
+    "FMI",
+    "BEI",
+    "BRI"
+   ],
+   "explanation": "Créée en 1998, elle a pour mission principale la stabilité des prix ; elle est la seule à pouvoir autoriser l'émission de billets en euros.",
+   "wikipedia": "Banque centrale européenne"
+  },
+  {
+   "id": "societe-027",
+   "difficulty": 2,
+   "question": "Dans quelle ville siège la Cour internationale de justice, organe judiciaire de l'ONU ?",
+   "answer": "La Haye",
+   "accept": [
+    "Den Haag"
+   ],
+   "choices": [
+    "Genève",
+    "Strasbourg",
+    "Luxembourg"
+   ],
+   "explanation": "Elle siège au palais de la Paix ; elle tranche des différends entre États, alors que la Cour pénale internationale juge des individus.",
+   "wikipedia": "Cour internationale de justice"
+  },
+  {
+   "id": "societe-028",
+   "difficulty": 2,
+   "question": "Combien de membres permanents disposant d'un droit de veto compte le Conseil de sécurité de l'ONU ?",
+   "answer": "cinq",
+   "accept": [
+    "5"
+   ],
+   "choices": [
+    "trois",
+    "sept",
+    "dix"
+   ],
+   "explanation": "Ce sont la Chine, les États-Unis, la France, le Royaume-Uni et la Russie ; dix autres membres sont élus pour deux ans.",
+   "wikipedia": "Conseil de sécurité des Nations unies"
+  },
+  {
+   "id": "societe-029",
+   "difficulty": 2,
+   "question": "Quel économiste écossais a écrit La Richesse des nations et évoqué la « main invisible » du marché ?",
+   "answer": "Adam Smith",
+   "accept": [
+    "Smith"
+   ],
+   "choices": [
+    "David Ricardo",
+    "David Hume",
+    "Thomas Malthus"
+   ],
+   "explanation": "Il y décrit notamment la division du travail à partir de l'exemple d'une manufacture d'épingles ; l'ouvrage parut en 1776.",
+   "wikipedia": "Adam Smith"
+  },
+  {
+   "id": "societe-030",
+   "difficulty": 2,
+   "question": "Quel économiste britannique a prôné l'intervention de l'État pour relancer la demande face à la crise des années 1930 ?",
+   "answer": "John Maynard Keynes",
+   "accept": [
+    "Keynes"
+   ],
+   "choices": [
+    "Milton Friedman",
+    "Friedrich Hayek",
+    "Alfred Marshall"
+   ],
+   "explanation": "Sa Théorie générale de l'emploi, de l'intérêt et de la monnaie parut en 1936 ; il participa aussi à la conférence de Bretton Woods.",
+   "wikipedia": "John Maynard Keynes"
+  },
+  {
+   "id": "societe-031",
+   "difficulty": 2,
+   "question": "Comment appelle-t-on une situation de marché où une seule entreprise est l'unique vendeur d'un bien ?",
+   "answer": "monopole",
+   "accept": [],
+   "choices": [
+    "oligopole",
+    "monopsone",
+    "duopole"
+   ],
+   "explanation": "Le monopsone est le cas inverse, avec un seul acheteur ; quelques vendeurs seulement forment un oligopole.",
+   "wikipedia": "Monopole"
+  },
+  {
+   "id": "societe-032",
+   "difficulty": 2,
+   "question": "Comment se nommait la monnaie de la République fédérale d'Allemagne avant l'euro ?",
+   "answer": "Deutsche Mark",
+   "accept": [
+    "mark",
+    "Deutschemark",
+    "DM"
+   ],
+   "choices": [
+    "florin",
+    "thaler",
+    "schilling"
+   ],
+   "explanation": "Introduit en 1948 dans les zones d'occupation occidentales, il devint un symbole de la stabilité et du miracle économique allemand.",
+   "wikipedia": "Deutsche Mark"
+  },
+  {
+   "id": "societe-033",
+   "difficulty": 2,
+   "question": "Quel philosophe de Königsberg a écrit la Critique de la raison pure ?",
+   "answer": "Emmanuel Kant",
+   "accept": [
+    "Kant"
+   ],
+   "choices": [
+    "Friedrich Hegel",
+    "Arthur Schopenhauer",
+    "Johann Fichte"
+   ],
+   "explanation": "On raconte que ses promenades quotidiennes étaient si régulières que les habitants de Königsberg réglaient leur montre sur son passage.",
+   "wikipedia": "Emmanuel Kant"
+  },
+  {
+   "id": "societe-034",
+   "difficulty": 2,
+   "question": "Dans quel lieu sombre Platon place-t-il des prisonniers qui ne voient que des ombres projetées sur une paroi ?",
+   "answer": "caverne",
+   "accept": [
+    "allégorie de la caverne",
+    "mythe de la caverne",
+    "grotte"
+   ],
+   "choices": [
+    "labyrinthe",
+    "crypte",
+    "tour"
+   ],
+   "explanation": "Cette allégorie figure au livre VII de La République ; elle illustre le passage de l'opinion à la connaissance véritable.",
+   "wikipedia": "Allégorie de la caverne"
+  },
+  {
+   "id": "societe-035",
+   "difficulty": 2,
+   "question": "Quel penseur florentin a écrit Le Prince, traité sur la conquête et la conservation du pouvoir ?",
+   "answer": "Machiavel",
+   "accept": [
+    "Nicolas Machiavel",
+    "Niccolò Machiavelli"
+   ],
+   "choices": [
+    "Dante",
+    "Guichardin",
+    "Savonarole"
+   ],
+   "explanation": "Rédigé en 1513 et dédié à Laurent de Médicis, l'ouvrage a donné l'adjectif machiavélique, souvent synonyme de manipulateur.",
+   "wikipedia": "Nicolas Machiavel"
+  },
+  {
+   "id": "societe-036",
+   "difficulty": 2,
+   "question": "Quel nom, issu du théologien Robert de Sorbon, désigne l'ancienne université de Paris ?",
+   "answer": "Sorbonne",
+   "accept": [
+    "la Sorbonne"
+   ],
+   "choices": [
+    "Collège de France",
+    "Panthéon",
+    "Saint-Germain"
+   ],
+   "explanation": "Robert de Sorbon fonda au XIIIe siècle un collège pour étudiants pauvres en théologie ; son nom finit par désigner toute l'université.",
+   "wikipedia": "Sorbonne"
+  },
+  {
+   "id": "societe-037",
+   "difficulty": 2,
+   "question": "Quelle procédure permet à l'Assemblée nationale de renverser le gouvernement par un vote ?",
+   "answer": "motion de censure",
+   "accept": [
+    "censure"
+   ],
+   "choices": [
+    "question de confiance",
+    "dissolution",
+    "référendum"
+   ],
+   "explanation": "Elle doit être signée par au moins un dixième des députés, puis adoptée à la majorité absolue des membres composant l'Assemblée.",
+   "wikipedia": "Motion de censure"
+  },
+  {
+   "id": "societe-038",
+   "difficulty": 2,
+   "question": "Quel principe, consacré par la loi de 1905, garantit la neutralité de l'État envers les religions ?",
+   "answer": "laïcité",
+   "accept": [
+    "laicite"
+   ],
+   "choices": [
+    "concordat",
+    "tolérance",
+    "gallicanisme"
+   ],
+   "explanation": "La loi de séparation des Églises et de l'État a mis fin au Concordat de 1801, qui reste toutefois appliqué en Alsace-Moselle.",
+   "wikipedia": "Laïcité en France"
+  },
+  {
+   "id": "societe-039",
+   "difficulty": 2,
+   "question": "Quel garde des Sceaux a porté l'abolition de la peine de mort en France en 1981 ?",
+   "answer": "Robert Badinter",
+   "accept": [
+    "Badinter"
+   ],
+   "choices": [
+    "Simone Veil",
+    "Gaston Defferre",
+    "Pierre Mauroy"
+   ],
+   "explanation": "Son discours devant l'Assemblée nationale est resté célèbre ; il présida ensuite le Conseil constitutionnel de 1986 à 1995.",
+   "wikipedia": "Robert Badinter"
+  },
+  {
+   "id": "societe-040",
+   "difficulty": 2,
+   "question": "Quelle entreprise clermontoise de pneumatiques a créé un célèbre guide gastronomique décernant des étoiles ?",
+   "answer": "Michelin",
+   "accept": [],
+   "choices": [
+    "Dunlop",
+    "Kléber",
+    "Goodyear"
+   ],
+   "explanation": "Le premier guide, paru en 1900, était offert aux automobilistes pour les inciter à rouler davantage ; sa mascotte se nomme Bibendum.",
+   "wikipedia": "Michelin"
+  },
+  {
+   "id": "societe-041",
+   "difficulty": 3,
+   "question": "Quelle expression latine exprime le principe selon lequel nul ne peut être jugé deux fois pour les mêmes faits ?",
+   "answer": "non bis in idem",
+   "accept": [
+    "ne bis in idem"
+   ],
+   "choices": [
+    "nulla poena sine lege",
+    "habeas corpus",
+    "dura lex sed lex"
+   ],
+   "explanation": "Ce principe figure notamment dans la Convention européenne des droits de l'homme ; on le résume aussi par l'autorité de la chose jugée.",
+   "wikipedia": "Non bis in idem"
+  },
+  {
+   "id": "societe-042",
+   "difficulty": 3,
+   "question": "Quel philosophe anglais a comparé l'État souverain à un monstre biblique dans un traité publié en 1651 ?",
+   "answer": "Thomas Hobbes",
+   "accept": [
+    "Hobbes"
+   ],
+   "choices": [
+    "John Locke",
+    "Francis Bacon",
+    "David Hume"
+   ],
+   "explanation": "Le Léviathan décrit l'état de nature comme une guerre de tous contre tous, que seul un souverain absolu, institué par contrat, peut faire cesser.",
+   "wikipedia": "Thomas Hobbes"
+  },
+  {
+   "id": "societe-043",
+   "difficulty": 3,
+   "question": "Quel économiste autrichien a popularisé l'idée de « destruction créatrice » pour décrire l'innovation ?",
+   "answer": "Joseph Schumpeter",
+   "accept": [
+    "Schumpeter"
+   ],
+   "choices": [
+    "Friedrich Hayek",
+    "Ludwig von Mises",
+    "Carl Menger"
+   ],
+   "explanation": "Pour lui, l'entrepreneur innovant est le moteur du capitalisme ; il exposa cette idée dans Capitalisme, socialisme et démocratie en 1942.",
+   "wikipedia": "Joseph Schumpeter"
+  },
+  {
+   "id": "societe-044",
+   "difficulty": 3,
+   "question": "Quel financier anglais a donné son nom à la loi selon laquelle la mauvaise monnaie chasse la bonne ?",
+   "answer": "Gresham",
+   "accept": [
+    "Thomas Gresham",
+    "loi de Gresham"
+   ],
+   "choices": [
+    "Ricardo",
+    "Law",
+    "Newton"
+   ],
+   "explanation": "Lorsque deux monnaies de même valeur légale circulent, on thésaurise la meilleure et on dépense la moins bonne ; Copernic avait déjà fait ce constat.",
+   "wikipedia": "Loi de Gresham"
+  },
+  {
+   "id": "societe-045",
+   "difficulty": 3,
+   "question": "Quel économiste italien a donné son nom au principe dit des 80/20 ?",
+   "answer": "Vilfredo Pareto",
+   "accept": [
+    "Pareto"
+   ],
+   "choices": [
+    "Enrico Barone",
+    "Piero Sraffa",
+    "Luigi Einaudi"
+   ],
+   "explanation": "Il avait observé qu'environ 80 % des terres italiennes appartenaient à 20 % de la population ; il étudia aussi l'optimum qui porte son nom.",
+   "wikipedia": "Principe de Pareto"
+  },
+  {
+   "id": "societe-046",
+   "difficulty": 3,
+   "question": "Quel philosophe grec a fondé à Athènes l'école du Portique, à l'origine du stoïcisme ?",
+   "answer": "Zénon de Citium",
+   "accept": [
+    "Zénon",
+    "Zenon de Citium",
+    "Zénon de Kition"
+   ],
+   "choices": [
+    "Épicure",
+    "Chrysippe",
+    "Antisthène"
+   ],
+   "explanation": "Le mot stoïcisme vient du grec stoa, le portique peint de l'agora où il enseignait ; à ne pas confondre avec Zénon d'Élée et ses paradoxes.",
+   "wikipedia": "Zénon de Kition"
+  },
+  {
+   "id": "societe-047",
+   "difficulty": 3,
+   "question": "Quel théologien anglais a donné son nom au principe de parcimonie privilégiant les hypothèses les plus simples ?",
+   "answer": "Guillaume d'Ockham",
+   "accept": [
+    "Ockham",
+    "Occam",
+    "Guillaume d'Occam"
+   ],
+   "choices": [
+    "Roger Bacon",
+    "Duns Scot",
+    "Thomas More"
+   ],
+   "explanation": "Ce principe est appelé rasoir parce qu'il élimine les explications superflues ; ce franciscain a inspiré le Guillaume de Baskerville du roman Le Nom de la rose.",
+   "wikipedia": "Rasoir d'Ockham"
+  },
+  {
+   "id": "societe-048",
+   "difficulty": 3,
+   "question": "Quel philosophe utilitariste britannique a imaginé une prison circulaire appelée panoptique ?",
+   "answer": "Jeremy Bentham",
+   "accept": [
+    "Bentham"
+   ],
+   "choices": [
+    "John Stuart Mill",
+    "James Mill",
+    "Herbert Spencer"
+   ],
+   "explanation": "Un surveillant central y voit tous les détenus sans être vu ; Michel Foucault en a fait une figure du pouvoir dans Surveiller et punir.",
+   "wikipedia": "Jeremy Bentham"
+  },
+  {
+   "id": "societe-049",
+   "difficulty": 3,
+   "question": "Quel sociologue français, auteur du Suicide, est considéré comme l'un des fondateurs de la sociologie ?",
+   "answer": "Émile Durkheim",
+   "accept": [
+    "Durkheim",
+    "Emile Durkheim"
+   ],
+   "choices": [
+    "Auguste Comte",
+    "Marcel Mauss",
+    "Gabriel Tarde"
+   ],
+   "explanation": "Publié en 1897, Le Suicide montre qu'un acte individuel obéit à des causes sociales ; Marcel Mauss était son neveu.",
+   "wikipedia": "Émile Durkheim"
+  },
+  {
+   "id": "societe-050",
+   "difficulty": 3,
+   "question": "Quelle expression latine désigne la garantie, née en Angleterre, contre la détention arbitraire ?",
+   "answer": "habeas corpus",
+   "accept": [],
+   "choices": [
+    "non bis in idem",
+    "nulla poena sine lege",
+    "in dubio pro reo"
+   ],
+   "explanation": "L'Habeas Corpus Act de 1679 impose de présenter tout détenu devant un juge ; l'expression signifie « que tu aies le corps ».",
+   "wikipedia": "Habeas corpus"
+  }
+ ]
 }

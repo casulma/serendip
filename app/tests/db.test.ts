@@ -48,7 +48,7 @@ describe("pack import", () => {
     const real = fakeDb();
     await migrate(real);
     await importPackIfNeeded(real);
-    expect((await repo.overview(real)).total).toBeGreaterThanOrEqual(0);
+    expect((await repo.overview(real)).total).toBeGreaterThanOrEqual(1000);
   });
 });
 
