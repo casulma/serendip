@@ -1,0 +1,805 @@
+{
+  "category": "sport",
+  "questions": [
+    {
+      "id": "sport-001",
+      "difficulty": 1,
+      "question": "Quel tournoi du Grand Chelem de tennis est le seul à se disputer sur gazon ?",
+      "answer": "Wimbledon",
+      "accept": ["tournoi de Wimbledon"],
+      "choices": ["Roland-Garros", "US Open", "Open d'Australie"],
+      "explanation": "Créé en 1877 dans la banlieue de Londres, c'est le plus ancien tournoi de tennis du monde ; il impose aux joueurs une tenue presque entièrement blanche.",
+      "wikipedia": "Tournoi de Wimbledon"
+    },
+    {
+      "id": "sport-002",
+      "difficulty": 1,
+      "question": "De quelle couleur est le maillot porté par le leader du classement général du Tour de France ?",
+      "answer": "jaune",
+      "accept": ["maillot jaune"],
+      "choices": ["vert", "blanc", "rose"],
+      "explanation": "Cette couleur rappelle celle du papier du journal L'Auto, organisateur de la course ; le maillot jaune a été introduit en 1919.",
+      "wikipedia": "Maillot jaune"
+    },
+    {
+      "id": "sport-003",
+      "difficulty": 1,
+      "question": "Au rugby à XV, combien de points rapporte un essai, avant la tentative de transformation ?",
+      "answer": "cinq",
+      "accept": ["5", "5 points", "cinq points"],
+      "choices": ["trois", "quatre", "six"],
+      "explanation": "Sa valeur a augmenté au fil du temps pour encourager le jeu offensif ; la transformation réussie qui le suit ajoute deux points supplémentaires.",
+      "wikipedia": "Essai (rugby)"
+    },
+    {
+      "id": "sport-004",
+      "difficulty": 1,
+      "question": "Quelle pièce du jeu d'échecs se déplace en forme de L et peut sauter par-dessus les autres ?",
+      "answer": "cavalier",
+      "accept": ["le cavalier"],
+      "choices": ["fou", "tour", "pion"],
+      "explanation": "Un cavalier peut visiter toutes les cases de l'échiquier en ne passant qu'une fois sur chacune : c'est le célèbre problème du cavalier, étudié notamment par Euler.",
+      "wikipedia": "Cavalier (échecs)"
+    },
+    {
+      "id": "sport-005",
+      "difficulty": 1,
+      "question": "Dans quel sport le strike consiste-t-il à renverser les dix quilles d'un seul lancer ?",
+      "answer": "bowling",
+      "accept": [],
+      "choices": ["billard", "pétanque", "curling"],
+      "explanation": "Une partie compte dix frames ; une partie parfaite, composée uniquement de strikes, atteint le score maximal de 300 points.",
+      "wikipedia": "Bowling"
+    },
+    {
+      "id": "sport-006",
+      "difficulty": 1,
+      "question": "Dans quel jeu de société faut-il découvrir le coupable, l'arme et la pièce du crime ?",
+      "answer": "Cluedo",
+      "accept": ["Clue"],
+      "choices": ["Scotland Yard", "Mysterium", "Risk"],
+      "explanation": "Inventé par l'Anglais Anthony Pratt pendant la Seconde Guerre mondiale, il met en scène un meurtre dans un manoir, avec des suspects comme le colonel Moutarde.",
+      "wikipedia": "Cluedo"
+    },
+    {
+      "id": "sport-007",
+      "difficulty": 1,
+      "question": "Au Scrabble, combien de lettres chaque joueur dispose-t-il sur son chevalet au début de son tour ?",
+      "answer": "sept",
+      "accept": ["7"],
+      "choices": ["six", "huit", "neuf"],
+      "explanation": "La version française du jeu compte 102 jetons, dont deux jokers blancs ; le K, le W, le X, le Y et le Z y valent 10 points.",
+      "wikipedia": "Scrabble"
+    },
+    {
+      "id": "sport-008",
+      "difficulty": 1,
+      "question": "De combien de cases blanches et noires se compose un échiquier classique ?",
+      "answer": "64",
+      "accept": ["soixante-quatre"],
+      "choices": ["49", "81", "100"],
+      "explanation": "Selon une légende indienne, l'inventeur des échecs demanda un grain sur la première case, deux sur la deuxième et ainsi de suite en doublant : une quantité astronomique.",
+      "wikipedia": "Échiquier"
+    },
+    {
+      "id": "sport-009",
+      "difficulty": 1,
+      "question": "Quel art martial japonais, fondé par Jigoro Kano, signifie « voie de la souplesse » ?",
+      "answer": "judo",
+      "accept": [],
+      "choices": ["karaté", "aïkido", "kendo"],
+      "explanation": "Créé à la fin du XIXe siècle à partir du jiu-jitsu, le judo est devenu sport olympique lors des Jeux de Tokyo, en 1964.",
+      "wikipedia": "Judo"
+    },
+    {
+      "id": "sport-010",
+      "difficulty": 1,
+      "question": "Quel baron français est à l'origine de la rénovation des Jeux olympiques à l'époque moderne ?",
+      "answer": "Pierre de Coubertin",
+      "accept": ["Coubertin", "de Coubertin"],
+      "choices": ["Jules Rimet", "Henri Desgrange", "Georges Hébert"],
+      "explanation": "Il fonda en 1894 le Comité international olympique lors d'un congrès à la Sorbonne ; les premiers Jeux modernes eurent lieu à Athènes deux ans plus tard.",
+      "wikipedia": "Pierre de Coubertin"
+    },
+    {
+      "id": "sport-011",
+      "difficulty": 1,
+      "question": "Sur quelle célèbre avenue parisienne se termine traditionnellement la dernière étape du Tour de France ?",
+      "answer": "Champs-Élysées",
+      "accept": ["avenue des Champs-Élysées", "Champs Élysées", "Champs-Elysées"],
+      "choices": ["avenue Foch", "rue de Rivoli", "boulevard Haussmann"],
+      "explanation": "Cette arrivée est une tradition depuis 1975 ; auparavant, le Tour se terminait notamment au vélodrome du Parc des Princes puis à la Cipale de Vincennes.",
+      "wikipedia": "Avenue des Champs-Élysées"
+    },
+    {
+      "id": "sport-012",
+      "difficulty": 1,
+      "question": "Sur quelle surface de couleur ocre se dispute le tournoi de tennis de Roland-Garros ?",
+      "answer": "terre battue",
+      "accept": [],
+      "choices": ["gazon", "dur", "moquette"],
+      "explanation": "Cette surface lente fait rebondir la balle plus haut et favorise les longs échanges ; sa couleur vient d'une fine couche de brique pilée.",
+      "wikipedia": "Internationaux de France de tennis"
+    },
+    {
+      "id": "sport-013",
+      "difficulty": 1,
+      "question": "Quel joueur de tennis français, surnommé « le Crocodile », a donné son nom à une marque de polos ?",
+      "answer": "René Lacoste",
+      "accept": ["Lacoste"],
+      "choices": ["Henri Cochet", "Jean Borotra", "Yannick Noah"],
+      "explanation": "Membre des « Mousquetaires » qui remportèrent la Coupe Davis pour la France en 1927, il a aussi inventé une machine à lancer les balles de tennis.",
+      "wikipedia": "René Lacoste"
+    },
+    {
+      "id": "sport-014",
+      "difficulty": 1,
+      "question": "Quel sport de combat traditionnel japonais oppose deux lutteurs très lourds dans un cercle de terre battue ?",
+      "answer": "sumo",
+      "accept": ["sumō"],
+      "choices": ["judo", "kendo", "aïkido"],
+      "explanation": "Perd le combat le premier lutteur qui sort du cercle ou touche le sol avec une autre partie du corps que la plante des pieds.",
+      "wikipedia": "Sumo"
+    },
+    {
+      "id": "sport-015",
+      "difficulty": 1,
+      "question": "Dans quel pays est né le golf moderne, dont le club de St Andrews est considéré comme le berceau ?",
+      "answer": "Écosse",
+      "accept": ["Ecosse"],
+      "choices": ["Angleterre", "Irlande", "Pays-Bas"],
+      "explanation": "Au XVe siècle, des rois d'Écosse interdirent même le golf, accusé de détourner les hommes de l'entraînement au tir à l'arc.",
+      "wikipedia": "Golf"
+    },
+    {
+      "id": "sport-016",
+      "difficulty": 1,
+      "question": "Quel sport d'hiver consiste à faire glisser des pierres de granit vers une cible en balayant la glace devant elles ?",
+      "answer": "curling",
+      "accept": [],
+      "choices": ["hockey sur glace", "bobsleigh", "patinage de vitesse"],
+      "explanation": "Le balayage réchauffe très légèrement la glace, ce qui réduit le frottement et permet d'allonger ou d'infléchir la trajectoire de la pierre.",
+      "wikipedia": "Curling"
+    },
+    {
+      "id": "sport-017",
+      "difficulty": 1,
+      "question": "Quel sport d'hiver olympique associe le ski de fond et le tir à la carabine ?",
+      "answer": "biathlon",
+      "accept": [],
+      "choices": ["combiné nordique", "skeleton", "ski-alpinisme"],
+      "explanation": "Chaque cible manquée est sanctionnée par une boucle de pénalité ou une minute ajoutée ; la discipline descend des patrouilles militaires à ski des pays nordiques.",
+      "wikipedia": "Biathlon"
+    },
+    {
+      "id": "sport-018",
+      "difficulty": 1,
+      "question": "Quelle est la distance officielle d'une course de marathon, exprimée en kilomètres ?",
+      "answer": "42,195 km",
+      "accept": ["42,195", "42,195 kilomètres", "42 195 m", "42 km 195"],
+      "choices": ["40 km", "42 km", "45 km"],
+      "explanation": "Cette distance curieuse a été fixée lors des Jeux de Londres de 1908, pour que la course parte du château de Windsor et s'achève devant la loge royale.",
+      "wikipedia": "Marathon (sport)"
+    },
+    {
+      "id": "sport-019",
+      "difficulty": 1,
+      "question": "Quel boxeur américain, né Cassius Clay, promettait de « voler comme un papillon et piquer comme une abeille » ?",
+      "answer": "Mohamed Ali",
+      "accept": ["Muhammad Ali", "Ali"],
+      "choices": ["Joe Frazier", "George Foreman", "Sonny Liston"],
+      "explanation": "Trois fois champion du monde des poids lourds, il fut privé de sa licence pendant plus de trois ans pour avoir refusé d'aller combattre au Viêt Nam.",
+      "wikipedia": "Mohamed Ali"
+    },
+    {
+      "id": "sport-020",
+      "difficulty": 1,
+      "question": "Quel footballeur brésilien est le seul joueur à avoir remporté trois fois la Coupe du monde ?",
+      "answer": "Pelé",
+      "accept": ["Pele", "Edson Arantes do Nascimento"],
+      "choices": ["Garrincha", "Ronaldo", "Zico"],
+      "explanation": "Surnommé « le Roi », il remporta le premier de ses trois titres en Suède, à seulement 17 ans, en marquant deux buts en finale.",
+      "wikipedia": "Pelé"
+    },
+    {
+      "id": "sport-021",
+      "difficulty": 1,
+      "question": "Quel athlète noir américain remporta quatre médailles d'or aux Jeux de Berlin, sous les yeux d'Hitler ?",
+      "answer": "Jesse Owens",
+      "accept": ["Owens"],
+      "choices": ["Jim Thorpe", "Ralph Metcalfe", "Eddie Tolan"],
+      "explanation": "Il s'imposa sur 100 m, sur 200 m, au saut en longueur et au relais 4 × 100 m ; Carl Lewis réussit le même quadruplé en 1984.",
+      "wikipedia": "Jesse Owens"
+    },
+    {
+      "id": "sport-022",
+      "difficulty": 1,
+      "question": "Quel coureur cycliste belge, surnommé « le Cannibale », a remporté cinq fois le Tour de France ?",
+      "answer": "Eddy Merckx",
+      "accept": ["Merckx"],
+      "choices": ["Bernard Hinault", "Miguel Indurain", "Rik Van Looy"],
+      "explanation": "Son surnom vient de son insatiable appétit de victoires : il gagna aussi cinq Tours d'Italie et établit le record de l'heure à Mexico en 1972.",
+      "wikipedia": "Eddy Merckx"
+    },
+    {
+      "id": "sport-023",
+      "difficulty": 1,
+      "question": "Au football, quelle faute commet un attaquant plus proche du but adverse que l'avant-dernier défenseur au moment de la passe ?",
+      "answer": "hors-jeu",
+      "accept": ["hors jeu"],
+      "choices": ["main", "obstruction", "charge irrégulière"],
+      "explanation": "La règle ne s'applique pas sur une rentrée de touche, un coup de pied de but ou un corner, ni si le joueur se trouve dans sa propre moitié de terrain.",
+      "wikipedia": "Hors-jeu (football)"
+    },
+    {
+      "id": "sport-024",
+      "difficulty": 1,
+      "question": "Comment s'appelle la danse guerrière maorie que les All Blacks exécutent avant leurs matchs ?",
+      "answer": "haka",
+      "accept": [],
+      "choices": ["siva tau", "cibi", "sipi tau"],
+      "explanation": "Le plus célèbre, Ka Mate, aurait été composé au début du XIXe siècle par le chef maori Te Rauparaha pour célébrer le fait d'avoir échappé à ses ennemis.",
+      "wikipedia": "Haka"
+    },
+    {
+      "id": "sport-025",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on, aux échecs, le coup spécial où le roi et une tour se déplacent en même temps ?",
+      "answer": "roque",
+      "accept": ["le roque", "roquer"],
+      "choices": ["promotion", "clouage", "fourchette"],
+      "explanation": "Il est interdit si le roi est en échec, s'il traverse une case attaquée, ou si le roi ou la tour concernée ont déjà bougé pendant la partie.",
+      "wikipedia": "Roque (échecs)"
+    },
+    {
+      "id": "sport-026",
+      "difficulty": 1,
+      "question": "Quel champion du monde d'échecs russe fut battu en match par l'ordinateur Deep Blue d'IBM ?",
+      "answer": "Garry Kasparov",
+      "accept": ["Kasparov", "Garri Kasparov"],
+      "choices": ["Anatoli Karpov", "Vladimir Kramnik", "Boris Spassky"],
+      "explanation": "Il avait remporté un premier match contre la machine ; sa défaite lors de la revanche, en 1997, fut un tournant symbolique pour l'intelligence artificielle.",
+      "wikipedia": "Garry Kasparov"
+    },
+    {
+      "id": "sport-027",
+      "difficulty": 1,
+      "question": "Quel casse-tête aux faces colorées a été inventé par un professeur d'architecture hongrois dans les années 1970 ?",
+      "answer": "Rubik's Cube",
+      "accept": ["cube de Rubik", "Rubik", "Rubik's cube"],
+      "choices": ["Tangram", "Pyraminx", "Taquin"],
+      "explanation": "Le cube classique offre plus de 43 milliards de milliards de configurations, mais n'importe laquelle peut être résolue en vingt mouvements au plus.",
+      "wikipedia": "Rubik's Cube"
+    },
+    {
+      "id": "sport-028",
+      "difficulty": 1,
+      "question": "Quelle classique cycliste, surnommée « l'Enfer du Nord », est célèbre pour ses secteurs pavés ?",
+      "answer": "Paris-Roubaix",
+      "accept": ["Paris Roubaix"],
+      "choices": ["Tour des Flandres", "Milan-San Remo", "Liège-Bastogne-Liège"],
+      "explanation": "Le vainqueur reçoit en trophée un pavé ; l'arrivée est jugée après quelques tours de piste dans le vélodrome de Roubaix.",
+      "wikipedia": "Paris-Roubaix"
+    },
+    {
+      "id": "sport-029",
+      "difficulty": 1,
+      "question": "Quel basketteur des Chicago Bulls a remporté six titres de champion NBA dans les années 1990 ?",
+      "answer": "Michael Jordan",
+      "accept": ["Jordan"],
+      "choices": ["Magic Johnson", "Larry Bird", "Kareem Abdul-Jabbar"],
+      "explanation": "Surnommé « Air Jordan » pour ses envolées, il s'est aussi essayé au baseball professionnel entre deux périodes passées avec les Bulls.",
+      "wikipedia": "Michael Jordan"
+    },
+    {
+      "id": "sport-030",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le fait, pour un même joueur, de marquer trois buts au cours d'un même match ?",
+      "answer": "coup du chapeau",
+      "accept": ["triplé", "hat-trick", "hat trick"],
+      "choices": ["doublé", "grand chelem", "carton plein"],
+      "explanation": "L'expression vient du cricket : au XIXe siècle, un lanceur qui éliminait trois batteurs sur trois lancers consécutifs se voyait offrir un chapeau.",
+      "wikipedia": "Coup du chapeau"
+    },
+    {
+      "id": "sport-031",
+      "difficulty": 1,
+      "question": "Quel footballeur français a remporté le Ballon d'or trois années de suite, au milieu des années 1980 ?",
+      "answer": "Michel Platini",
+      "accept": ["Platini"],
+      "choices": ["Zinédine Zidane", "Jean-Pierre Papin", "Raymond Kopa"],
+      "explanation": "Meneur de jeu de la Juventus, il fut aussi le héros de l'Euro 1984 remporté par la France, avec neuf buts inscrits en cinq matchs.",
+      "wikipedia": "Michel Platini"
+    },
+    {
+      "id": "sport-032",
+      "difficulty": 1,
+      "question": "Quel casse-tête consiste à remplir une grille de neuf cases sur neuf sans répéter un chiffre par ligne, colonne ou carré ?",
+      "answer": "sudoku",
+      "accept": [],
+      "choices": ["kakuro", "carré magique", "nonogramme"],
+      "explanation": "Malgré son nom japonais, qui signifie à peu près « chiffre unique », le jeu descend d'un casse-tête américain publié sous le nom de Number Place.",
+      "wikipedia": "Sudoku"
+    },
+    {
+      "id": "sport-033",
+      "difficulty": 2,
+      "question": "Quel élève anglais aurait, selon la légende, inventé un nouveau sport en courant avec le ballon dans les mains ?",
+      "answer": "William Webb Ellis",
+      "accept": ["Webb Ellis"],
+      "choices": ["Thomas Arnold", "Thomas Hughes", "Walter Camp"],
+      "explanation": "Le trophée de la Coupe du monde de rugby porte son nom, même si les historiens doutent fortement de cette anecdote, rapportée plusieurs décennies après les faits.",
+      "wikipedia": "William Webb Ellis"
+    },
+    {
+      "id": "sport-034",
+      "difficulty": 2,
+      "question": "Quel professeur d'éducation physique canadien a inventé le basket-ball pour occuper ses élèves pendant l'hiver ?",
+      "answer": "James Naismith",
+      "accept": ["Naismith"],
+      "choices": ["William Morgan", "Walter Camp", "Abner Doubleday"],
+      "explanation": "Les premiers paniers étaient de vrais paniers à pêches fixés à un balcon : il fallait aller récupérer le ballon après chaque tir réussi.",
+      "wikipedia": "James Naismith"
+    },
+    {
+      "id": "sport-035",
+      "difficulty": 2,
+      "question": "Quel dirigeant français, longtemps président de la FIFA, est à l'origine de la Coupe du monde de football ?",
+      "answer": "Jules Rimet",
+      "accept": ["Rimet"],
+      "choices": ["Gabriel Hanot", "Robert Guérin", "Jacques Goddet"],
+      "explanation": "Le premier trophée portait son nom ; attribué définitivement au Brésil après sa troisième victoire, il fut volé à Rio de Janeiro et jamais retrouvé.",
+      "wikipedia": "Jules Rimet"
+    },
+    {
+      "id": "sport-036",
+      "difficulty": 2,
+      "question": "Quel journaliste, directeur du quotidien L'Auto, a créé le Tour de France ?",
+      "answer": "Henri Desgrange",
+      "accept": ["Desgrange"],
+      "choices": ["Jacques Goddet", "Pierre Giffard", "Victor Breyer"],
+      "explanation": "Le premier Tour, en 1903, devait surtout faire vendre son journal ; ses initiales, H.D., ont longtemps figuré sur le maillot jaune en son hommage.",
+      "wikipedia": "Henri Desgrange"
+    },
+    {
+      "id": "sport-037",
+      "difficulty": 2,
+      "question": "Dans quel massif montagneux se trouve le col du Tourmalet, l'un des plus célèbres du Tour de France ?",
+      "answer": "Pyrénées",
+      "accept": ["Pyrenées"],
+      "choices": ["Alpes", "Massif central", "Vosges"],
+      "explanation": "Culminant à plus de 2 100 mètres, il relie les vallées de Barèges et de Campan ; une statue de cycliste, le Géant du Tourmalet, est installée à son sommet.",
+      "wikipedia": "Col du Tourmalet"
+    },
+    {
+      "id": "sport-038",
+      "difficulty": 2,
+      "question": "Quel métier exerçait Roland Garros, qui a donné son nom au stade parisien de tennis ?",
+      "answer": "aviateur",
+      "accept": ["pilote", "pilote d'avion"],
+      "choices": ["joueur de tennis", "architecte", "journaliste"],
+      "explanation": "Pionnier de l'aviation, il réussit en 1913 la première traversée de la Méditerranée en avion ; il mourut en combat aérien en 1918.",
+      "wikipedia": "Roland Garros (aviateur)"
+    },
+    {
+      "id": "sport-039",
+      "difficulty": 2,
+      "question": "Combien de joueurs, gardien compris, chaque équipe de handball aligne-t-elle sur le terrain ?",
+      "answer": "sept",
+      "accept": ["7"],
+      "choices": ["six", "cinq", "huit"],
+      "explanation": "Le handball à onze, joué en plein air sur un terrain de football, a précédé la version en salle ; il figura au programme des Jeux de Berlin.",
+      "wikipedia": "Handball"
+    },
+    {
+      "id": "sport-040",
+      "difficulty": 2,
+      "question": "Quel ancêtre du tennis, très populaire en France sous l'Ancien Régime, se pratiquait d'abord à main nue ?",
+      "answer": "jeu de paume",
+      "accept": ["paume"],
+      "choices": ["mail", "crosse", "croquet"],
+      "explanation": "Le mot anglais tennis viendrait de l'exclamation « Tenez ! » lancée par le serveur ; c'est aussi dans une salle de ce jeu que fut prêté un serment célèbre en 1789.",
+      "wikipedia": "Jeu de paume"
+    },
+    {
+      "id": "sport-041",
+      "difficulty": 2,
+      "question": "La course du marathon commémore le messager grec venu annoncer une victoire sur quel peuple ?",
+      "answer": "Perses",
+      "accept": ["les Perses", "Perse"],
+      "choices": ["Romains", "Troyens", "Carthaginois"],
+      "explanation": "Selon la légende, le messager courut de Marathon jusqu'à Athènes et mourut d'épuisement après avoir annoncé la victoire ; le récit est probablement embelli.",
+      "wikipedia": "Marathon (sport)"
+    },
+    {
+      "id": "sport-042",
+      "difficulty": 2,
+      "question": "En escrime, quelle arme permet de toucher avec le tranchant de la lame, et pas seulement avec la pointe ?",
+      "answer": "sabre",
+      "accept": ["le sabre"],
+      "choices": ["fleuret", "épée", "rapière"],
+      "explanation": "Au sabre, seule la partie du corps située au-dessus de la taille, tête et bras compris, est une surface valable, héritage des combats de cavalerie.",
+      "wikipedia": "Sabre (escrime)"
+    },
+    {
+      "id": "sport-043",
+      "difficulty": 2,
+      "question": "Quelle gymnaste roumaine fut la première à obtenir la note parfaite de 10 aux Jeux olympiques ?",
+      "answer": "Nadia Comăneci",
+      "accept": ["Nadia Comaneci", "Comaneci", "Comăneci"],
+      "choices": ["Olga Korbut", "Věra Čáslavská", "Ecaterina Szabo"],
+      "explanation": "Aux Jeux de Montréal en 1976, le tableau d'affichage, qui ne prévoyait pas de note à deux chiffres, indiqua « 1.00 ».",
+      "wikipedia": "Nadia Comăneci"
+    },
+    {
+      "id": "sport-044",
+      "difficulty": 2,
+      "question": "Quel coureur normand fut le premier à remporter cinq fois le Tour de France ?",
+      "answer": "Jacques Anquetil",
+      "accept": ["Anquetil"],
+      "choices": ["Louison Bobet", "Bernard Hinault", "Bernard Thévenet"],
+      "explanation": "Spécialiste du contre-la-montre, il a aussi gagné deux Tours d'Italie ; sa rivalité avec Raymond Poulidor a passionné la France des années 1960.",
+      "wikipedia": "Jacques Anquetil"
+    },
+    {
+      "id": "sport-045",
+      "difficulty": 2,
+      "question": "Quel coureur cycliste, surnommé « l'éternel second », n'a jamais porté le maillot jaune malgré huit podiums sur le Tour ?",
+      "answer": "Raymond Poulidor",
+      "accept": ["Poulidor", "Poupou"],
+      "choices": ["Joop Zoetemelk", "Laurent Fignon", "Luis Ocaña"],
+      "explanation": "Très populaire, « Poupou » était souvent plus acclamé que les vainqueurs ; son petit-fils, Mathieu van der Poel, est lui aussi devenu un grand champion cycliste.",
+      "wikipedia": "Raymond Poulidor"
+    },
+    {
+      "id": "sport-046",
+      "difficulty": 2,
+      "question": "Quel pays a organisé et remporté la toute première Coupe du monde de football ?",
+      "answer": "Uruguay",
+      "accept": ["l'Uruguay"],
+      "choices": ["Brésil", "Argentine", "Italie"],
+      "explanation": "En 1930, seules treize équipes y participaient ; le pays hôte, double champion olympique en titre, battit l'Argentine en finale à Montevideo.",
+      "wikipedia": "Coupe du monde de football 1930"
+    },
+    {
+      "id": "sport-047",
+      "difficulty": 2,
+      "question": "Quelle « récompense » symbolique désigne l'équipe qui perd tous ses matchs du Tournoi des Six Nations ?",
+      "answer": "cuillère de bois",
+      "accept": ["cuiller de bois"],
+      "choices": ["bonnet d'âne", "Triple Couronne", "plat d'étain"],
+      "explanation": "L'expression vient de l'université de Cambridge, où une grande cuillère en bois était remise à l'étudiant le moins bien classé à l'examen de mathématiques.",
+      "wikipedia": "Cuillère de bois"
+    },
+    {
+      "id": "sport-048",
+      "difficulty": 2,
+      "question": "Quelle compétition de golf oppose tous les deux ans une équipe masculine européenne à une équipe américaine ?",
+      "answer": "Ryder Cup",
+      "accept": ["coupe Ryder"],
+      "choices": ["Presidents Cup", "Solheim Cup", "Walker Cup"],
+      "explanation": "Elle doit son nom à Samuel Ryder, un marchand de graines anglais qui offrit le trophée ; jusqu'en 1977, seuls la Grande-Bretagne et l'Irlande affrontaient les Américains.",
+      "wikipedia": "Ryder Cup"
+    },
+    {
+      "id": "sport-049",
+      "difficulty": 2,
+      "question": "Quelle compétition de tennis masculin par nations porte le nom de l'étudiant américain qui offrit son trophée ?",
+      "answer": "Coupe Davis",
+      "accept": ["Davis Cup"],
+      "choices": ["Laver Cup", "Hopman Cup", "Coupe Galea"],
+      "explanation": "Dwight Davis, étudiant à Harvard, offrit le saladier d'argent en 1900 ; la France l'emporta pour la première fois en 1927 grâce aux Mousquetaires.",
+      "wikipedia": "Coupe Davis"
+    },
+    {
+      "id": "sport-050",
+      "difficulty": 2,
+      "question": "Quel sauteur américain a popularisé la technique de saut en hauteur dos à la barre, qui porte son nom ?",
+      "answer": "Dick Fosbury",
+      "accept": ["Fosbury"],
+      "choices": ["Valeri Brumel", "John Thomas", "Bob Beamon"],
+      "explanation": "Il remporta l'or aux Jeux de Mexico en 1968 avec ce saut alors jugé étrange ; quelques années plus tard, presque tous les sauteurs l'avaient adopté.",
+      "wikipedia": "Dick Fosbury"
+    },
+    {
+      "id": "sport-051",
+      "difficulty": 2,
+      "question": "Aux échecs, quelle règle permet à un pion de capturer un pion adverse qui vient d'avancer de deux cases à côté de lui ?",
+      "answer": "prise en passant",
+      "accept": ["en passant"],
+      "choices": ["promotion", "enfilade", "gambit"],
+      "explanation": "Cette prise n'est possible qu'au coup immédiatement suivant ; elle est apparue quand les pions ont obtenu le droit d'avancer de deux cases lors de leur premier mouvement.",
+      "wikipedia": "Prise en passant"
+    },
+    {
+      "id": "sport-052",
+      "difficulty": 2,
+      "question": "Aux échecs, comment appelle-t-on la situation où un joueur, dont le roi n'est pas attaqué, ne peut jouer aucun coup légal ?",
+      "answer": "pat",
+      "accept": ["le pat"],
+      "choices": ["mat", "échec perpétuel", "enfilade"],
+      "explanation": "Le pat entraîne la partie nulle, ce qui permet parfois au camp le plus faible de sauver une position pourtant désespérée.",
+      "wikipedia": "Pat (échecs)"
+    },
+    {
+      "id": "sport-053",
+      "difficulty": 2,
+      "question": "Quel joueur américain mit fin à la domination soviétique en devenant champion du monde d'échecs à Reykjavik ?",
+      "answer": "Bobby Fischer",
+      "accept": ["Fischer"],
+      "choices": ["Paul Morphy", "Reuben Fine", "Samuel Reshevsky"],
+      "explanation": "En pleine guerre froide, son match de 1972 contre Boris Spassky fut surnommé « le match du siècle » ; il refusa ensuite de défendre son titre.",
+      "wikipedia": "Bobby Fischer"
+    },
+    {
+      "id": "sport-054",
+      "difficulty": 2,
+      "question": "Quel jeu de stratégie d'origine chinoise consiste à encercler des territoires avec des pierres noires et blanches ?",
+      "answer": "go",
+      "accept": ["jeu de go", "weiqi", "igo", "baduk"],
+      "choices": ["othello", "mah-jong", "xiangqi"],
+      "explanation": "En 2016, le programme AlphaGo battit le champion sud-coréen Lee Sedol, une étape que l'on croyait encore lointaine pour l'intelligence artificielle.",
+      "wikipedia": "Go (jeu)"
+    },
+    {
+      "id": "sport-055",
+      "difficulty": 2,
+      "question": "Combien de cases compte au total le damier du jeu de dames international ?",
+      "answer": "100",
+      "accept": ["cent"],
+      "choices": ["64", "81", "144"],
+      "explanation": "Chaque joueur dispose de vingt pions ; un pion qui atteint la dernière rangée devient une dame, capable de parcourir toute la longueur d'une diagonale.",
+      "wikipedia": "Dames"
+    },
+    {
+      "id": "sport-056",
+      "difficulty": 2,
+      "question": "Quel jeu de cartes se joue à quatre, par équipes de deux, avec des enchères et un partenaire appelé « le mort » ?",
+      "answer": "bridge",
+      "accept": [],
+      "choices": ["tarot", "belote", "rami"],
+      "explanation": "Descendant du whist, il se joue avec un jeu de 52 cartes ; le mort étale ses cartes sur la table et c'est son partenaire, le déclarant, qui les joue.",
+      "wikipedia": "Bridge"
+    },
+    {
+      "id": "sport-057",
+      "difficulty": 2,
+      "question": "Quel plateau de parcours traditionnel compte 63 cases, dont un puits, une prison et un labyrinthe ?",
+      "answer": "jeu de l'oie",
+      "accept": ["l'oie"],
+      "choices": ["petits chevaux", "serpents et échelles", "Mille Bornes"],
+      "explanation": "Tomber sur une case ornée d'un oiseau permet de doubler son déplacement, tandis que la case 58, la mort, renvoie le joueur au départ.",
+      "wikipedia": "Jeu de l'oie"
+    },
+    {
+      "id": "sport-058",
+      "difficulty": 2,
+      "question": "Dans quelle ville des Bouches-du-Rhône la pétanque aurait-elle été inventée, au début du XXe siècle ?",
+      "answer": "La Ciotat",
+      "accept": ["Ciotat"],
+      "choices": ["Marseille", "Aubagne", "Aix-en-Provence"],
+      "explanation": "Un joueur de jeu provençal, gêné par des rhumatismes, aurait joué sans élan, les pieds immobiles : « pès tancats », pieds ancrés en provençal, a donné le mot.",
+      "wikipedia": "Pétanque"
+    },
+    {
+      "id": "sport-059",
+      "difficulty": 2,
+      "question": "Quelle station de Haute-Savoie a accueilli les tout premiers Jeux olympiques d'hiver ?",
+      "answer": "Chamonix",
+      "accept": ["Chamonix-Mont-Blanc"],
+      "choices": ["Megève", "Morzine", "Albertville"],
+      "explanation": "Organisée en 1924, cette « Semaine internationale des sports d'hiver » n'a été reconnue qu'après coup comme les premiers Jeux olympiques d'hiver.",
+      "wikipedia": "Jeux olympiques d'hiver de 1924"
+    },
+    {
+      "id": "sport-060",
+      "difficulty": 2,
+      "question": "Quel coureur éthiopien remporta pieds nus le marathon olympique de Rome ?",
+      "answer": "Abebe Bikila",
+      "accept": ["Bikila"],
+      "choices": ["Mamo Wolde", "Haile Gebreselassie", "Miruts Yifter"],
+      "explanation": "Premier champion olympique d'Afrique subsaharienne, il conserva son titre quatre ans plus tard à Tokyo, cette fois chaussé.",
+      "wikipedia": "Abebe Bikila"
+    },
+    {
+      "id": "sport-061",
+      "difficulty": 2,
+      "question": "Quelle joueuse française, surnommée « la Divine », domina le tennis féminin dans les années 1920 ?",
+      "answer": "Suzanne Lenglen",
+      "accept": ["Lenglen"],
+      "choices": ["Simonne Mathieu", "Françoise Dürr", "Helen Wills"],
+      "explanation": "Elle remporta six fois Wimbledon en simple ; à Roland-Garros, le deuxième court et la coupe remise à la gagnante du simple portent son nom.",
+      "wikipedia": "Suzanne Lenglen"
+    },
+    {
+      "id": "sport-062",
+      "difficulty": 2,
+      "question": "Comment surnomme-t-on le coureur classé dernier du classement général du Tour de France ?",
+      "answer": "lanterne rouge",
+      "accept": [],
+      "choices": ["voiture-balai", "gruppetto", "porteur d'eau"],
+      "explanation": "L'expression vient de la lanterne accrochée au dernier wagon des trains ; ce rang assurait parfois une petite notoriété et des contrats dans les critériums.",
+      "wikipedia": "Lanterne rouge"
+    },
+    {
+      "id": "sport-063",
+      "difficulty": 2,
+      "question": "Sur un dé à jouer classique, quelle est toujours la somme des points de deux faces opposées ?",
+      "answer": "sept",
+      "accept": ["7"],
+      "choices": ["six", "huit", "neuf"],
+      "explanation": "Le 1 fait face au 6, le 2 au 5 et le 3 au 4 ; il reste alors deux façons de disposer les faces, qui donnent des dés symétriques l'un de l'autre.",
+      "wikipedia": "Dé"
+    },
+    {
+      "id": "sport-064",
+      "difficulty": 2,
+      "question": "Quel skieur français remporta les trois épreuves de ski alpin aux Jeux olympiques de Grenoble ?",
+      "answer": "Jean-Claude Killy",
+      "accept": ["Killy"],
+      "choices": ["Guy Périllat", "Léo Lacroix", "Henri Oreiller"],
+      "explanation": "Il égalait ainsi l'exploit de l'Autrichien Toni Sailer ; il fut plus tard coprésident du comité d'organisation des Jeux d'Albertville, avec Michel Barnier.",
+      "wikipedia": "Jean-Claude Killy"
+    },
+    {
+      "id": "sport-065",
+      "difficulty": 3,
+      "question": "Au tarot, comment appelle-t-on ensemble le petit, le 21 et l'excuse, qui déterminent les points à réaliser ?",
+      "answer": "bouts",
+      "accept": ["les bouts", "oudlers", "bout"],
+      "choices": ["honneurs", "atouts", "figures"],
+      "explanation": "Avec trois de ces cartes, le preneur n'a besoin que de 36 points pour réussir son contrat, contre 56 s'il n'en possède aucune.",
+      "wikipedia": "Tarot français"
+    },
+    {
+      "id": "sport-066",
+      "difficulty": 3,
+      "question": "Quel jeu de balle médiéval, disputé entre villages de Normandie, de Picardie ou de Bretagne, est considéré comme un ancêtre du rugby ?",
+      "answer": "soule",
+      "accept": ["choule", "la soule"],
+      "choices": ["crosse", "mail", "pelote"],
+      "explanation": "Les parties pouvaient opposer des paroisses entières sur des kilomètres, sans terrain délimité ; leur violence valut au jeu plusieurs interdictions royales.",
+      "wikipedia": "Soule (sport)"
+    },
+    {
+      "id": "sport-067",
+      "difficulty": 3,
+      "question": "Quelle course clôt la seconde journée d'épreuves du décathlon masculin ?",
+      "answer": "1 500 mètres",
+      "accept": ["1500 m", "1 500 m", "1500 mètres", "1500", "1 500"],
+      "choices": ["400 mètres", "110 mètres haies", "800 mètres"],
+      "explanation": "La première journée s'achève par le 400 m ; le vainqueur du décathlon olympique est souvent présenté comme le plus grand athlète complet du monde.",
+      "wikipedia": "Décathlon"
+    },
+    {
+      "id": "sport-068",
+      "difficulty": 3,
+      "question": "Quel trophée l'Angleterre et l'Écosse se disputent-elles lors de leur affrontement annuel du Tournoi des Six Nations ?",
+      "answer": "Calcutta Cup",
+      "accept": ["coupe de Calcutta"],
+      "choices": ["Triple Couronne", "Trophée Garibaldi", "Bledisloe Cup"],
+      "explanation": "Il fut fabriqué en faisant fondre les roupies d'argent restantes d'un club de rugby de Calcutta dissous, d'où son nom et son style indien.",
+      "wikipedia": "Calcutta Cup"
+    },
+    {
+      "id": "sport-069",
+      "difficulty": 3,
+      "question": "Dans une épreuve de quatre nages individuelle, quelle nage le nageur effectue-t-il en premier ?",
+      "answer": "papillon",
+      "accept": ["le papillon"],
+      "choices": ["dos", "brasse", "crawl"],
+      "explanation": "L'ordre est papillon, dos, brasse puis nage libre ; en relais quatre nages, il change et commence par le dos, dont le départ se prend dans l'eau.",
+      "wikipedia": "Quatre nages"
+    },
+    {
+      "id": "sport-070",
+      "difficulty": 3,
+      "question": "Aux échecs, comment appelle-t-on la situation où tout coup joué affaiblit sa position, alors qu'on préférerait passer son tour ?",
+      "answer": "zugzwang",
+      "accept": [],
+      "choices": ["fianchetto", "clouage", "gambit"],
+      "explanation": "Ce mot allemand signifie « obligation de jouer » ; la notion joue un rôle central dans les finales, en particulier celles de rois et de pions.",
+      "wikipedia": "Zugzwang"
+    },
+    {
+      "id": "sport-071",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on, aux échecs, le développement d'un fou sur une grande diagonale après l'avance d'une case du pion voisin ?",
+      "answer": "fianchetto",
+      "accept": [],
+      "choices": ["gambit", "roque", "enfilade"],
+      "explanation": "Ce terme italien signifie « petit flanc » ; ce schéma est typique d'ouvertures comme la défense est-indienne ou l'attaque catalane.",
+      "wikipedia": "Fianchetto"
+    },
+    {
+      "id": "sport-072",
+      "difficulty": 3,
+      "question": "Quelle variante japonaise du jeu d'échecs permet de remettre en jeu, pour son propre camp, les pièces capturées ?",
+      "answer": "shogi",
+      "accept": ["shōgi"],
+      "choices": ["xiangqi", "makruk", "janggi"],
+      "explanation": "Les pièces, plates et en forme de pentagone, ne sont pas colorées : c'est leur orientation qui indique leur propriétaire, ce qui permet de les retourner contre l'ancien camp.",
+      "wikipedia": "Shogi"
+    },
+    {
+      "id": "sport-073",
+      "difficulty": 3,
+      "question": "Au Scrabble, quelle prime obtient-on en posant toutes les lettres de son chevalet en un seul coup ?",
+      "answer": "50 points",
+      "accept": ["50", "cinquante points", "cinquante"],
+      "choices": ["30 points", "40 points", "100 points"],
+      "explanation": "En compétition francophone, on joue surtout en duplicate : tous les joueurs disposent du même tirage, ce qui élimine presque toute la part de chance.",
+      "wikipedia": "Scrabble"
+    },
+    {
+      "id": "sport-074",
+      "difficulty": 3,
+      "question": "Quel coureur tchécoslovaque, surnommé « la locomotive humaine », gagna le 5 000 m, le 10 000 m et le marathon aux mêmes Jeux ?",
+      "answer": "Emil Zátopek",
+      "accept": ["Zatopek", "Emil Zatopek", "Zátopek"],
+      "choices": ["Vladimir Kuts", "Lasse Virén", "Gaston Reiff"],
+      "explanation": "Il réussit ce triplé à Helsinki en 1952 en courant le premier marathon de sa vie ; sa femme Dana y gagna le javelot le jour même de son 5 000 m.",
+      "wikipedia": "Emil Zátopek"
+    },
+    {
+      "id": "sport-075",
+      "difficulty": 3,
+      "question": "Quel coureur de fond, surnommé le « Finlandais volant », a remporté neuf titres olympiques dans les années 1920 ?",
+      "answer": "Paavo Nurmi",
+      "accept": ["Nurmi"],
+      "choices": ["Hannes Kolehmainen", "Ville Ritola", "Lasse Virén"],
+      "explanation": "Il courait un chronomètre à la main pour contrôler son allure ; accusé de professionnalisme, il fut écarté des Jeux de Los Angeles en 1932.",
+      "wikipedia": "Paavo Nurmi"
+    },
+    {
+      "id": "sport-076",
+      "difficulty": 3,
+      "question": "Quel saut de patinage artistique est le seul à s'élancer vers l'avant, ce qui lui ajoute un demi-tour de rotation ?",
+      "answer": "axel",
+      "accept": ["l'axel"],
+      "choices": ["lutz", "salchow", "boucle"],
+      "explanation": "Il doit son nom au Norvégien Axel Paulsen, qui l'exécuta le premier en 1882 ; le triple axel compte ainsi trois rotations et demie.",
+      "wikipedia": "Axel (patinage artistique)"
+    },
+    {
+      "id": "sport-077",
+      "difficulty": 3,
+      "question": "Au golf, comment appelle-t-on un trou réussi en trois coups de moins que le par ?",
+      "answer": "albatros",
+      "accept": ["double eagle"],
+      "choices": ["eagle", "birdie", "condor"],
+      "explanation": "Plus rare encore que le trou en un, il prolonge la série des noms d'oiseaux : birdie pour un coup sous le par, eagle pour deux.",
+      "wikipedia": "Par (golf)"
+    },
+    {
+      "id": "sport-078",
+      "difficulty": 3,
+      "question": "Sur quel hippodrome se dispute le Prix d'Amérique, la plus prestigieuse course de trot attelé ?",
+      "answer": "Vincennes",
+      "accept": ["hippodrome de Vincennes"],
+      "choices": ["Longchamp", "Chantilly", "Auteuil"],
+      "explanation": "Couru fin janvier, il doit son nom à l'hommage rendu aux soldats américains venus combattre en France pendant la Première Guerre mondiale.",
+      "wikipedia": "Prix d'Amérique"
+    },
+    {
+      "id": "sport-079",
+      "difficulty": 3,
+      "question": "Au judo, comment appelle-t-on l'avantage décisif qui met immédiatement fin au combat ?",
+      "answer": "ippon",
+      "accept": [],
+      "choices": ["waza-ari", "yuko", "shido"],
+      "explanation": "Il s'obtient notamment par une projection nette et puissante sur le dos, une immobilisation suffisamment longue ou l'abandon de l'adversaire sur une clé ou un étranglement.",
+      "wikipedia": "Ippon"
+    },
+    {
+      "id": "sport-080",
+      "difficulty": 3,
+      "question": "Quel coureur français, longtemps devancé par son ami tchécoslovaque, remporta enfin le marathon olympique de Melbourne ?",
+      "answer": "Alain Mimoun",
+      "accept": ["Mimoun"],
+      "choices": ["Michel Jazy", "Jean Bouin", "Joseph Mahmoud"],
+      "explanation": "Né en Algérie, il avait obtenu trois médailles d'argent olympiques derrière Zátopek avant ce titre de 1956, conquis sous une forte chaleur.",
+      "wikipedia": "Alain Mimoun"
+    }
+  ]
+}

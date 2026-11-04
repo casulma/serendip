@@ -1,0 +1,890 @@
+{
+  "category": "gastronomie",
+  "questions": [
+    {
+      "id": "gastronomie-001",
+      "difficulty": 1,
+      "question": "Quel fromage normand à pâte molle porte le nom d'un village de l'Orne ?",
+      "answer": "camembert",
+      "accept": [],
+      "choices": [
+        "livarot",
+        "pont-l'évêque",
+        "neufchâtel"
+      ],
+      "explanation": "Sa célèbre boîte ronde en bois de peuplier, apparue à la fin du XIXe siècle, lui a permis de voyager loin de la Normandie.",
+      "wikipedia": "Camembert (fromage)"
+    },
+    {
+      "id": "gastronomie-002",
+      "difficulty": 1,
+      "question": "Quel plat niçois mijoté réunit aubergines, courgettes, poivrons, tomates et oignons ?",
+      "answer": "ratatouille",
+      "accept": [],
+      "choices": [
+        "piperade",
+        "tian",
+        "caponata"
+      ],
+      "explanation": "Son nom vient de l'occitan « ratatolha » ; elle a donné son titre à un film d'animation de Pixar mettant en scène un rat cuisinier.",
+      "wikipedia": "Ratatouille"
+    },
+    {
+      "id": "gastronomie-003",
+      "difficulty": 1,
+      "question": "Quelle soupe de poissons de roche est la spécialité emblématique de Marseille ?",
+      "answer": "bouillabaisse",
+      "accept": [],
+      "choices": [
+        "bourride",
+        "cotriade",
+        "chaudrée"
+      ],
+      "explanation": "Elle est servie en deux temps, le bouillon d'un côté et les poissons de l'autre, accompagnée de croûtons et de rouille.",
+      "wikipedia": "Bouillabaisse"
+    },
+    {
+      "id": "gastronomie-004",
+      "difficulty": 1,
+      "question": "Quelle pâtisserie en couronne garnie de crème pralinée célèbre une course cycliste ?",
+      "answer": "Paris-Brest",
+      "accept": [],
+      "choices": [
+        "Saint-Honoré",
+        "Opéra",
+        "Mille-feuille"
+      ],
+      "explanation": "Elle fut créée par le pâtissier Louis Durand, de Maisons-Laffitte, sa forme rappelant une roue de bicyclette.",
+      "wikipedia": "Paris-brest"
+    },
+    {
+      "id": "gastronomie-005",
+      "difficulty": 1,
+      "question": "Quelle pâtisserie, souvent fourrée à la frangipane, cache une fève et se partage à l'Épiphanie ?",
+      "answer": "galette des rois",
+      "accept": [
+        "galette"
+      ],
+      "choices": [
+        "bûche de Noël",
+        "bugne",
+        "kouglof"
+      ],
+      "explanation": "Le plus jeune convive se glisse traditionnellement sous la table pour désigner à qui revient chaque part, afin que le hasard soit respecté.",
+      "wikipedia": "Galette des rois"
+    },
+    {
+      "id": "gastronomie-006",
+      "difficulty": 1,
+      "question": "Quelle épice très coûteuse provient des stigmates séchés d'une fleur de crocus ?",
+      "answer": "safran",
+      "accept": [],
+      "choices": [
+        "vanille",
+        "cardamome",
+        "curcuma"
+      ],
+      "explanation": "Il faut récolter à la main plus de cent mille fleurs pour obtenir un seul kilogramme de cette épice, d'où son prix élevé.",
+      "wikipedia": "Safran (épice)"
+    },
+    {
+      "id": "gastronomie-007",
+      "difficulty": 1,
+      "question": "De quelle ville italienne la pizza Margherita est-elle originaire ?",
+      "answer": "Naples",
+      "accept": [],
+      "choices": [
+        "Rome",
+        "Milan",
+        "Palerme"
+      ],
+      "explanation": "Ses couleurs, tomate, mozzarella et basilic, évoqueraient le drapeau italien ; elle aurait été nommée en l'honneur de la reine Marguerite de Savoie.",
+      "wikipedia": "Pizza Margherita"
+    },
+    {
+      "id": "gastronomie-008",
+      "difficulty": 1,
+      "question": "Quelle boisson est obtenue par la fermentation du jus de pomme ?",
+      "answer": "cidre",
+      "accept": [],
+      "choices": [
+        "poiré",
+        "hydromel",
+        "kéfir"
+      ],
+      "explanation": "La Normandie et la Bretagne en sont les grandes régions productrices en France ; distillé, il donne le calvados.",
+      "wikipedia": "Cidre"
+    },
+    {
+      "id": "gastronomie-009",
+      "difficulty": 1,
+      "question": "Quelle viennoiserie est appelée « chocolatine » dans le Sud-Ouest de la France ?",
+      "answer": "pain au chocolat",
+      "accept": [],
+      "choices": [
+        "croissant",
+        "pain aux raisins",
+        "chausson aux pommes"
+      ],
+      "explanation": "La querelle entre les deux noms est un sujet de plaisanterie récurrent ; « chocolatine » est aussi employé au Québec.",
+      "wikipedia": "Pain au chocolat"
+    },
+    {
+      "id": "gastronomie-010",
+      "difficulty": 1,
+      "question": "Quelle sauce froide émulsionnée associe jaune d'œuf, moutarde et huile ?",
+      "answer": "mayonnaise",
+      "accept": [],
+      "choices": [
+        "béarnaise",
+        "hollandaise",
+        "vinaigrette"
+      ],
+      "explanation": "L'origine de son nom est discutée ; l'hypothèse la plus répandue la rattache à la prise de Port-Mahon, à Minorque, par le duc de Richelieu.",
+      "wikipedia": "Mayonnaise"
+    },
+    {
+      "id": "gastronomie-011",
+      "difficulty": 1,
+      "question": "Quel légume racine donne sa couleur rouge à la soupe bortsch ?",
+      "answer": "betterave",
+      "accept": [],
+      "choices": [
+        "carotte",
+        "radis",
+        "chou rouge"
+      ],
+      "explanation": "Ce potage est un plat national en Ukraine, où sa préparation a été inscrite au patrimoine culturel immatériel de l'UNESCO.",
+      "wikipedia": "Bortsch"
+    },
+    {
+      "id": "gastronomie-012",
+      "difficulty": 1,
+      "question": "Quel pain français long et fin, à la croûte croustillante, est inscrit au patrimoine immatériel de l'UNESCO ?",
+      "answer": "baguette",
+      "accept": [],
+      "choices": [
+        "ficelle",
+        "bâtard",
+        "fougasse"
+      ],
+      "explanation": "C'est le savoir-faire artisanal et la culture qui l'entourent qui ont été inscrits, et non le pain lui-même.",
+      "wikipedia": "Baguette (pain)"
+    },
+    {
+      "id": "gastronomie-013",
+      "difficulty": 1,
+      "question": "Quel fromage savoyard sert de base à la tartiflette ?",
+      "answer": "reblochon",
+      "accept": [],
+      "choices": [
+        "beaufort",
+        "tomme de Savoie",
+        "abondance"
+      ],
+      "explanation": "La tartiflette est une recette récente, popularisée dans les années 1980 par l'interprofession du fromage pour en relancer les ventes.",
+      "wikipedia": "Tartiflette"
+    },
+    {
+      "id": "gastronomie-014",
+      "difficulty": 1,
+      "question": "Quelle eau-de-vie de vin porte le nom d'une ville de Charente ?",
+      "answer": "cognac",
+      "accept": [],
+      "choices": [
+        "armagnac",
+        "calvados",
+        "marc"
+      ],
+      "explanation": "Elle vieillit en fûts de chêne ; la part qui s'évapore chaque année est poétiquement appelée « la part des anges ».",
+      "wikipedia": "Cognac (eau-de-vie)"
+    },
+    {
+      "id": "gastronomie-015",
+      "difficulty": 1,
+      "question": "Quel dessert aux pommes caramélisées, cuit à l'envers, doit son nom à deux sœurs de Lamotte-Beuvron ?",
+      "answer": "tarte Tatin",
+      "accept": [
+        "Tatin"
+      ],
+      "choices": [
+        "clafoutis",
+        "tarte Bourdaloue",
+        "crumble"
+      ],
+      "explanation": "Stéphanie et Caroline Tatin tenaient un hôtel en Sologne ; la légende veut que la tarte soit née d'une maladresse.",
+      "wikipedia": "Tarte Tatin"
+    },
+    {
+      "id": "gastronomie-016",
+      "difficulty": 1,
+      "question": "Quel dessert italien au mascarpone et au café signifie « tire-moi vers le haut » ?",
+      "answer": "tiramisu",
+      "accept": [],
+      "choices": [
+        "panna cotta",
+        "cannoli",
+        "zabaglione"
+      ],
+      "explanation": "Il est originaire de Vénétie, et le Frioul revendique aussi sa paternité ; ses biscuits sont trempés dans le café.",
+      "wikipedia": "Tiramisu"
+    },
+    {
+      "id": "gastronomie-017",
+      "difficulty": 1,
+      "question": "Quel village basque a donné son nom à un piment protégé par une AOP ?",
+      "answer": "Espelette",
+      "accept": [
+        "piment d'Espelette"
+      ],
+      "choices": [
+        "Ainhoa",
+        "Sare",
+        "Cambo-les-Bains"
+      ],
+      "explanation": "En automne, les façades des maisons sont décorées de cordes de piments mis à sécher au soleil.",
+      "wikipedia": "Piment d'Espelette"
+    },
+    {
+      "id": "gastronomie-018",
+      "difficulty": 1,
+      "question": "Quel champignon souterrain est surnommé « le diamant noir » du Périgord ?",
+      "answer": "truffe",
+      "accept": [
+        "truffe noire"
+      ],
+      "choices": [
+        "morille",
+        "cèpe",
+        "girolle"
+      ],
+      "explanation": "On la cherche traditionnellement avec un chien ou une truie dressés, ou en repérant la mouche qui pond au-dessus.",
+      "wikipedia": "Truffe noire"
+    },
+    {
+      "id": "gastronomie-019",
+      "difficulty": 1,
+      "question": "Quel plat en terre cuite à couvercle conique donne son nom à un mets marocain ?",
+      "answer": "tajine",
+      "accept": [
+        "tagine"
+      ],
+      "choices": [
+        "couscoussier",
+        "cassole",
+        "diable"
+      ],
+      "explanation": "Le couvercle conique fait condenser la vapeur, qui retombe sur les aliments et les cuit lentement sans les dessécher.",
+      "wikipedia": "Tajine"
+    },
+    {
+      "id": "gastronomie-020",
+      "difficulty": 1,
+      "question": "Quel agronome a popularisé la pomme de terre en France au XVIIIe siècle ?",
+      "answer": "Parmentier",
+      "accept": [
+        "Antoine Parmentier"
+      ],
+      "choices": [
+        "Olivier de Serres",
+        "Lavoisier",
+        "Buffon"
+      ],
+      "explanation": "Selon une anecdote célèbre, il fit garder un champ de pommes de terre par des soldats le jour pour attiser la curiosité des Parisiens, qui venaient les voler la nuit.",
+      "wikipedia": "Antoine Parmentier"
+    },
+    {
+      "id": "gastronomie-021",
+      "difficulty": 1,
+      "question": "Que mange-t-on traditionnellement en France le jour de la Chandeleur ?",
+      "answer": "crêpes",
+      "accept": [
+        "crêpe"
+      ],
+      "choices": [
+        "gaufres",
+        "beignets",
+        "bugnes"
+      ],
+      "explanation": "La coutume veut qu'on les fasse sauter en tenant une pièce dans l'autre main pour s'assurer la prospérité toute l'année.",
+      "wikipedia": "Chandeleur"
+    },
+    {
+      "id": "gastronomie-022",
+      "difficulty": 1,
+      "question": "Quel aliment doit son nom à un comte anglais qui ne voulait pas quitter sa table de jeu ?",
+      "answer": "sandwich",
+      "accept": [],
+      "choices": [
+        "hamburger",
+        "croque-monsieur",
+        "hot-dog"
+      ],
+      "explanation": "John Montagu, comte de Sandwich, aurait demandé de la viande entre deux tranches de pain pour manger sans lâcher ses cartes.",
+      "wikipedia": "Sandwich"
+    },
+    {
+      "id": "gastronomie-023",
+      "difficulty": 1,
+      "question": "Quelle plante, appelée aussi blé noir, sert à préparer les galettes bretonnes ?",
+      "answer": "sarrasin",
+      "accept": [],
+      "choices": [
+        "seigle",
+        "épeautre",
+        "orge"
+      ],
+      "explanation": "Malgré son surnom, ce n'est pas une céréale mais une plante de la famille de l'oseille et de la rhubarbe, sans gluten.",
+      "wikipedia": "Sarrasin commun"
+    },
+    {
+      "id": "gastronomie-024",
+      "difficulty": 1,
+      "question": "Quel village de l'Aveyron a donné son nom à un célèbre couteau orné d'une abeille ?",
+      "answer": "Laguiole",
+      "accept": [],
+      "choices": [
+        "Thiers",
+        "Nontron",
+        "Espalion"
+      ],
+      "explanation": "Le nom désigne un modèle plus qu'une origine : de nombreux couteaux de ce type sont fabriqués ailleurs, notamment dans la cité coutelière de Thiers.",
+      "wikipedia": "Laguiole (couteau)"
+    },
+    {
+      "id": "gastronomie-025",
+      "difficulty": 2,
+      "question": "Quel fromage bleu au lait de brebis est affiné dans les caves du Combalou ?",
+      "answer": "roquefort",
+      "accept": [],
+      "choices": [
+        "bleu d'Auvergne",
+        "fourme d'Ambert",
+        "bleu des Causses"
+      ],
+      "explanation": "Ce fut le premier fromage français à obtenir une protection légale de son appellation, en 1925.",
+      "wikipedia": "Roquefort (fromage)"
+    },
+    {
+      "id": "gastronomie-026",
+      "difficulty": 2,
+      "question": "Quel fromage du Jura se reconnaît à la fine raie de cendre qui le traverse ?",
+      "answer": "morbier",
+      "accept": [],
+      "choices": [
+        "comté",
+        "mont-d'or",
+        "bleu de Gex"
+      ],
+      "explanation": "Autrefois, le fromager protégeait le caillé du matin avec de la suie avant d'y ajouter celui du soir ; la raie est aujourd'hui végétale.",
+      "wikipedia": "Morbier (fromage)"
+    },
+    {
+      "id": "gastronomie-027",
+      "difficulty": 2,
+      "question": "Quel fromage néerlandais en boule est reconnaissable à sa croûte de paraffine rouge ?",
+      "answer": "édam",
+      "accept": [
+        "edam"
+      ],
+      "choices": [
+        "gouda",
+        "mimolette",
+        "leerdammer"
+      ],
+      "explanation": "Il porte le nom d'une petite ville de Hollande-Septentrionale ; la couleur rouge de sa croûte viendrait des fûts de vin de Bordeaux dans lesquels on le transportait.",
+      "wikipedia": "Édam (fromage)"
+    },
+    {
+      "id": "gastronomie-028",
+      "difficulty": 2,
+      "question": "Quel vignoble bordelais produit des vins blancs liquoreux grâce à la pourriture noble ?",
+      "answer": "sauternes",
+      "accept": [],
+      "choices": [
+        "pomerol",
+        "médoc",
+        "entre-deux-mers"
+      ],
+      "explanation": "Le champignon Botrytis cinerea concentre les sucres du raisin ; les vendanges se font par tris successifs, grain par grain.",
+      "wikipedia": "Sauternes (AOC)"
+    },
+    {
+      "id": "gastronomie-029",
+      "difficulty": 2,
+      "question": "Quel cépage rouge à jus blanc donne les vins du Beaujolais ?",
+      "answer": "gamay",
+      "accept": [],
+      "choices": [
+        "syrah",
+        "grenache",
+        "cabernet franc"
+      ],
+      "explanation": "Philippe le Hardi, duc de Bourgogne, l'avait banni de ses terres au XIVe siècle, le jugeant indigne face au pinot noir.",
+      "wikipedia": "Gamay"
+    },
+    {
+      "id": "gastronomie-030",
+      "difficulty": 2,
+      "question": "Quel apéritif de vin blanc et crème de cassis porte le nom d'un chanoine dijonnais ?",
+      "answer": "kir",
+      "accept": [],
+      "choices": [
+        "spritz",
+        "picon",
+        "américano"
+      ],
+      "explanation": "Le chanoine Félix Kir, maire de Dijon et député, servait ce mélange lors des réceptions officielles de la mairie.",
+      "wikipedia": "Kir"
+    },
+    {
+      "id": "gastronomie-031",
+      "difficulty": 2,
+      "question": "Quelle ville de la Meuse est associée à la madeleine ?",
+      "answer": "Commercy",
+      "accept": [],
+      "choices": [
+        "Verdun",
+        "Bar-le-Duc",
+        "Saint-Mihiel"
+      ],
+      "explanation": "Le gâteau est indissociable de Marcel Proust, dont le narrateur retrouve son enfance en trempant une madeleine dans du thé.",
+      "wikipedia": "Madeleine (pâtisserie)"
+    },
+    {
+      "id": "gastronomie-032",
+      "difficulty": 2,
+      "question": "Quelle pâtisserie bretonne a un nom signifiant « gâteau au beurre » en breton ?",
+      "answer": "kouign-amann",
+      "accept": [
+        "kouign amann"
+      ],
+      "choices": [
+        "far breton",
+        "gâteau breton",
+        "crêpe dentelle"
+      ],
+      "explanation": "Elle serait née à Douarnenez vers 1860 ; sa pâte feuilletée est enrichie de beaucoup de beurre et de sucre qui caramélise.",
+      "wikipedia": "Kouign-amann"
+    },
+    {
+      "id": "gastronomie-033",
+      "difficulty": 2,
+      "question": "Quelle préparation, desséchée d'abord dans une casserole, sert à confectionner éclairs et profiteroles ?",
+      "answer": "pâte à choux",
+      "accept": [
+        "choux"
+      ],
+      "choices": [
+        "pâte feuilletée",
+        "pâte brisée",
+        "pâte sablée"
+      ],
+      "explanation": "Elle gonfle au four grâce à la vapeur d'eau dégagée par la pâte, ce qui crée la cavité que l'on garnit ensuite de crème.",
+      "wikipedia": "Pâte à choux"
+    },
+    {
+      "id": "gastronomie-034",
+      "difficulty": 2,
+      "question": "Quelle épice est le bouton floral séché d'un arbre originaire des Moluques ?",
+      "answer": "clou de girofle",
+      "accept": [
+        "girofle"
+      ],
+      "choices": [
+        "poivre",
+        "muscade",
+        "cardamome"
+      ],
+      "explanation": "Sa forme évoque un petit clou, d'où son nom ; il contient de l'eugénol, un composé utilisé en dentisterie pour ses vertus antiseptiques.",
+      "wikipedia": "Clou de girofle"
+    },
+    {
+      "id": "gastronomie-035",
+      "difficulty": 2,
+      "question": "Quel légume est, avec la pomme de terre, la base de la soupe vichyssoise ?",
+      "answer": "poireau",
+      "accept": [],
+      "choices": [
+        "oignon",
+        "céleri",
+        "navet"
+      ],
+      "explanation": "Malgré son nom, cette soupe froide fut créée aux États-Unis par le cuisinier français Louis Diat, originaire de l'Allier.",
+      "wikipedia": "Vichyssoise"
+    },
+    {
+      "id": "gastronomie-036",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la fine passoire conique utilisée pour filtrer sauces et coulis ?",
+      "answer": "chinois",
+      "accept": [],
+      "choices": [
+        "tamis",
+        "mandoline",
+        "écumoire"
+      ],
+      "explanation": "Son nom viendrait de sa ressemblance avec les chapeaux coniques portés en Asie ; on l'utilise souvent avec un pilon.",
+      "wikipedia": "Chinois (ustensile)"
+    },
+    {
+      "id": "gastronomie-037",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le fait de mouiller une poêle pour dissoudre les sucs de cuisson ?",
+      "answer": "déglaçage",
+      "accept": [
+        "déglacer"
+      ],
+      "choices": [
+        "flamber",
+        "blanchir",
+        "réduire"
+      ],
+      "explanation": "On utilise du vin, du bouillon ou du vinaigre, et les sucs ainsi récupérés servent de base à une sauce.",
+      "wikipedia": "Déglaçage (cuisine)"
+    },
+    {
+      "id": "gastronomie-038",
+      "difficulty": 2,
+      "question": "Quel confiseur français inventa la conservation des aliments dans des bocaux chauffés ?",
+      "answer": "Nicolas Appert",
+      "accept": [
+        "Appert"
+      ],
+      "choices": [
+        "Denis Papin",
+        "Louis Pasteur",
+        "Antoine Parmentier"
+      ],
+      "explanation": "Il ignorait pourquoi son procédé fonctionnait : c'est Pasteur qui expliqua plus tard le rôle des micro-organismes détruits par la chaleur.",
+      "wikipedia": "Nicolas Appert"
+    },
+    {
+      "id": "gastronomie-039",
+      "difficulty": 2,
+      "question": "Quelle entreprise française doit son nom à la contraction de Téflon et d'aluminium ?",
+      "answer": "Tefal",
+      "accept": [],
+      "choices": [
+        "Seb",
+        "Moulinex",
+        "Le Creuset"
+      ],
+      "explanation": "L'ingénieur Marc Grégoire, qui enduisait de Téflon ses cannes à pêche, eut l'idée d'appliquer le procédé aux poêles en aluminium ; l'entreprise fut fondée en 1956.",
+      "wikipedia": "Tefal"
+    },
+    {
+      "id": "gastronomie-040",
+      "difficulty": 2,
+      "question": "Quel pays est à l'origine du kiwi, avant sa culture en Nouvelle-Zélande ?",
+      "answer": "Chine",
+      "accept": [],
+      "choices": [
+        "Japon",
+        "Australie",
+        "Chili"
+      ],
+      "explanation": "Les Néo-Zélandais l'appelaient « groseille de Chine » avant de le rebaptiser du nom de leur oiseau emblématique pour l'exporter.",
+      "wikipedia": "Kiwi"
+    },
+    {
+      "id": "gastronomie-041",
+      "difficulty": 2,
+      "question": "Quelle spécialité de l'Aubrac associe purée de pommes de terre et tomme fraîche filante ?",
+      "answer": "aligot",
+      "accept": [],
+      "choices": [
+        "truffade",
+        "pounti",
+        "farçous"
+      ],
+      "explanation": "Il était préparé autrefois par les moines pour nourrir les pèlerins de Saint-Jacques ; on le travaille longuement à la spatule pour qu'il file.",
+      "wikipedia": "Aligot"
+    },
+    {
+      "id": "gastronomie-042",
+      "difficulty": 2,
+      "question": "Quel plat de poisson cru mariné au citron vert est inscrit à l'UNESCO au titre de la cuisine péruvienne ?",
+      "answer": "ceviche",
+      "accept": [
+        "cebiche",
+        "seviche"
+      ],
+      "choices": [
+        "poke",
+        "carpaccio",
+        "gravlax"
+      ],
+      "explanation": "L'acidité du citron « cuit » les protéines du poisson ; le jus de marinade restant est appelé « leche de tigre ».",
+      "wikipedia": "Ceviche"
+    },
+    {
+      "id": "gastronomie-043",
+      "difficulty": 2,
+      "question": "Dans quelle région sert-on traditionnellement treize desserts à Noël ?",
+      "answer": "Provence",
+      "accept": [],
+      "choices": [
+        "Alsace",
+        "Bretagne",
+        "Savoie"
+      ],
+      "explanation": "Ils représenteraient le Christ et les douze apôtres ; on y trouve notamment les « quatre mendiants » et la pompe à l'huile.",
+      "wikipedia": "Treize desserts"
+    },
+    {
+      "id": "gastronomie-044",
+      "difficulty": 2,
+      "question": "Quelle boisson sud-américaine se boit dans une calebasse avec une paille métallique appelée bombilla ?",
+      "answer": "maté",
+      "accept": [
+        "mate"
+      ],
+      "choices": [
+        "guarana",
+        "rooibos",
+        "chicha"
+      ],
+      "explanation": "En Argentine et en Uruguay, partager le maté est un rituel de convivialité : la même calebasse passe de main en main.",
+      "wikipedia": "Maté"
+    },
+    {
+      "id": "gastronomie-045",
+      "difficulty": 2,
+      "question": "Quel objet d'écriture a été mis au point par le journaliste hongrois László Bíró ?",
+      "answer": "stylo à bille",
+      "accept": [
+        "stylo-bille",
+        "stylo bille"
+      ],
+      "choices": [
+        "stylo plume",
+        "feutre",
+        "porte-mine"
+      ],
+      "explanation": "Le Français Marcel Bich racheta le brevet et commercialisa avec succès le Bic Cristal, devenu un objet du quotidien universel.",
+      "wikipedia": "Stylo à bille"
+    },
+    {
+      "id": "gastronomie-046",
+      "difficulty": 2,
+      "question": "Quelle ville italienne a donné son nom au jean, pantalon de toile robuste ?",
+      "answer": "Gênes",
+      "accept": [],
+      "choices": [
+        "Nîmes",
+        "Milan",
+        "Turin"
+      ],
+      "explanation": "Les marins génois portaient une toile solide teinte en bleu, et le mot anglais « jeans » viendrait du nom français de leur ville.",
+      "wikipedia": "Jean (tissu)"
+    },
+    {
+      "id": "gastronomie-047",
+      "difficulty": 2,
+      "question": "Quelle ville du Nord est célèbre pour ses bêtises, bonbons nés d'une erreur ?",
+      "answer": "Cambrai",
+      "accept": [],
+      "choices": [
+        "Vichy",
+        "Montélimar",
+        "Lille"
+      ],
+      "explanation": "Selon la légende, un apprenti confiseur se trompa de dosage ; la menthe acidulée et rayée de sucre caramélisé devint la spécialité de la ville.",
+      "wikipedia": "Bêtise de Cambrai"
+    },
+    {
+      "id": "gastronomie-048",
+      "difficulty": 2,
+      "question": "Quelle appellation bordelaise de la rive droite est célèbre pour son village médiéval classé à l'UNESCO ?",
+      "answer": "Saint-Émilion",
+      "accept": [],
+      "choices": [
+        "Pomerol",
+        "Fronsac",
+        "Margaux"
+      ],
+      "explanation": "Sa juridiction fut le premier vignoble inscrit au patrimoine mondial, en tant que paysage culturel ; on y visite une église monolithe creusée dans la roche.",
+      "wikipedia": "Saint-Émilion"
+    },
+    {
+      "id": "gastronomie-049",
+      "difficulty": 3,
+      "question": "Quel vin effervescent de l'Aude revendique une antériorité sur le champagne ?",
+      "answer": "blanquette de Limoux",
+      "accept": [
+        "blanquette"
+      ],
+      "choices": [
+        "clairette de Die",
+        "crémant de Loire",
+        "vouvray"
+      ],
+      "explanation": "Des moines de l'abbaye de Saint-Hilaire y auraient produit des vins effervescents dès le XVIe siècle, avant la méthode champenoise.",
+      "wikipedia": "Blanquette de Limoux"
+    },
+    {
+      "id": "gastronomie-050",
+      "difficulty": 3,
+      "question": "Comment s'appelle la bouteille trapue de 62 centilitres réservée au vin jaune du Jura ?",
+      "answer": "clavelin",
+      "accept": [],
+      "choices": [
+        "fillette",
+        "magnum",
+        "jéroboam"
+      ],
+      "explanation": "Ce volume correspondrait à ce qui reste d'un litre de vin après six ans et trois mois de vieillissement en fût, une fois l'évaporation passée.",
+      "wikipedia": "Clavelin"
+    },
+    {
+      "id": "gastronomie-051",
+      "difficulty": 3,
+      "question": "Quel fromage frais corse à base de lactosérum entre dans la recette du fiadone ?",
+      "answer": "brocciu",
+      "accept": [
+        "broccio"
+      ],
+      "choices": [
+        "ricotta",
+        "sérac",
+        "niolo"
+      ],
+      "explanation": "Protégé par une appellation d'origine, il est obtenu en chauffant le petit-lait de brebis ou de chèvre ; on le consomme frais ou affiné.",
+      "wikipedia": "Brocciu"
+    },
+    {
+      "id": "gastronomie-052",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la découpe de légumes en très petits dés réguliers ?",
+      "answer": "brunoise",
+      "accept": [],
+      "choices": [
+        "julienne",
+        "macédoine",
+        "chiffonnade"
+      ],
+      "explanation": "On l'obtient en taillant d'abord les légumes en julienne, puis en recoupant ces bâtonnets en minuscules cubes de un à deux millimètres.",
+      "wikipedia": "Brunoise"
+    },
+    {
+      "id": "gastronomie-053",
+      "difficulty": 3,
+      "question": "Quel hachis de champignons et d'échalotes doit son nom à un marquis ?",
+      "answer": "duxelles",
+      "accept": [],
+      "choices": [
+        "persillade",
+        "mirepoix",
+        "chiffonnade"
+      ],
+      "explanation": "Il honorerait le marquis d'Uxelles, dont le cuisinier était François Pierre de La Varenne ; on l'utilise dans le bœuf Wellington.",
+      "wikipedia": "Duxelles"
+    },
+    {
+      "id": "gastronomie-054",
+      "difficulty": 3,
+      "question": "Quel cuisinier a codifié la cuisine française dans l'ouvrage « Le Guide culinaire » ?",
+      "answer": "Auguste Escoffier",
+      "accept": [
+        "Escoffier"
+      ],
+      "choices": [
+        "Antonin Carême",
+        "Paul Bocuse",
+        "Fernand Point"
+      ],
+      "explanation": "Associé à César Ritz, il dirigea les cuisines du Savoy de Londres puis du Ritz de Paris, et créa la pêche Melba en l'honneur d'une cantatrice.",
+      "wikipedia": "Auguste Escoffier"
+    },
+    {
+      "id": "gastronomie-055",
+      "difficulty": 3,
+      "question": "Quel cuisinier et pâtissier de Talleyrand est célèbre pour ses pièces montées architecturales ?",
+      "answer": "Antonin Carême",
+      "accept": [
+        "Carême",
+        "Marie-Antoine Carême"
+      ],
+      "choices": [
+        "Auguste Escoffier",
+        "François Vatel",
+        "La Varenne"
+      ],
+      "explanation": "Abandonné enfant en pleine Révolution, il s'inspirait des gravures d'architecture de la Bibliothèque nationale pour concevoir ses pièces montées.",
+      "wikipedia": "Marie-Antoine Carême"
+    },
+    {
+      "id": "gastronomie-056",
+      "difficulty": 3,
+      "question": "Sous quel surnom connaît-on Guillaume Tirel, maître queux du roi Charles V ?",
+      "answer": "Taillevent",
+      "accept": [],
+      "choices": [
+        "Vatel",
+        "La Varenne",
+        "Carême"
+      ],
+      "explanation": "On lui attribue « Le Viandier », l'un des plus anciens livres de cuisine en français ; un restaurant parisien prestigieux porte son nom.",
+      "wikipedia": "Guillaume Tirel"
+    },
+    {
+      "id": "gastronomie-057",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on l'enveloppe rouge de la noix de muscade, utilisée comme épice ?",
+      "answer": "macis",
+      "accept": [],
+      "choices": [
+        "badiane",
+        "carvi",
+        "cubèbe"
+      ],
+      "explanation": "Elle entoure la coque de la graine ; une fois séchée, elle prend une teinte orangée et un parfum plus délicat que la muscade.",
+      "wikipedia": "Macis"
+    },
+    {
+      "id": "gastronomie-058",
+      "difficulty": 3,
+      "question": "Quel fromage de chèvre AOP du Berry a la forme d'une pyramide tronquée ?",
+      "answer": "valençay",
+      "accept": [],
+      "choices": [
+        "sainte-maure-de-touraine",
+        "crottin de Chavignol",
+        "selles-sur-cher"
+      ],
+      "explanation": "Selon la légende, Talleyrand, propriétaire du château de Valençay, aurait fait couper le sommet pour ne pas rappeler à Napoléon la campagne d'Égypte.",
+      "wikipedia": "Valençay (fromage)"
+    },
+    {
+      "id": "gastronomie-059",
+      "difficulty": 3,
+      "question": "Quelle marque d'électroménager est née du moulin à légumes breveté par Jean Mantelet ?",
+      "answer": "Moulinex",
+      "accept": [],
+      "choices": [
+        "Seb",
+        "Calor",
+        "Rowenta"
+      ],
+      "explanation": "Le succès du moulin-légumes, inventé dans les années 1930, permit à Mantelet de fonder l'entreprise, connue pour le slogan « Moulinex libère la femme ».",
+      "wikipedia": "Moulinex"
+    },
+    {
+      "id": "gastronomie-060",
+      "difficulty": 3,
+      "question": "Quelle Allemande inventa le filtre à café en papier au début du XXe siècle ?",
+      "answer": "Melitta Bentz",
+      "accept": [
+        "Melitta"
+      ],
+      "choices": [
+        "Margarete Steiff",
+        "Bertha Benz",
+        "Josephine Cochrane"
+      ],
+      "explanation": "Elle perça de trous un pot en cuivre et y plaça du papier buvard pris dans les cahiers d'écolier de son fils ; l'entreprise qu'elle fonda porte son prénom.",
+      "wikipedia": "Melitta Bentz"
+    }
+  ]
+}

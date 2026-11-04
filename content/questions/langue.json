@@ -1,0 +1,1085 @@
+{
+  "category": "langue",
+  "questions": [
+    {
+      "id": "langue-001",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on en français le signe @ utilisé dans les adresses électroniques ?",
+      "answer": "Arobase",
+      "accept": [
+        "arrobase",
+        "arobas",
+        "arrobe"
+      ],
+      "choices": [
+        "Esperluette",
+        "Dièse",
+        "Astérisque"
+      ],
+      "explanation": "Le signe servait déjà d'unité de mesure, l'arroba, dans le commerce espagnol et portugais ; l'ingénieur Ray Tomlinson le choisit pour les courriels en 1971.",
+      "wikipedia": "Arobase"
+    },
+    {
+      "id": "langue-002",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le petit signe placé sous le c de « garçon » pour lui donner le son s ?",
+      "answer": "Cédille",
+      "accept": [
+        "cedille"
+      ],
+      "choices": [
+        "Tréma",
+        "Accent grave",
+        "Apostrophe"
+      ],
+      "explanation": "Venue de l'espagnol, son nom signifie « petit z » ; elle fut introduite dans l'imprimerie française au XVIe siècle, notamment par Geoffroy Tory.",
+      "wikipedia": "Cédille"
+    },
+    {
+      "id": "langue-003",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les deux points placés sur une voyelle, comme dans « Noël » ou « maïs » ?",
+      "answer": "Tréma",
+      "accept": [
+        "trema"
+      ],
+      "choices": [
+        "Cédille",
+        "Accent circonflexe",
+        "Macron"
+      ],
+      "explanation": "Il indique que la voyelle se prononce séparément de la précédente ; les rectifications de 1990 autorisent à le déplacer, comme dans « aigüe » au lieu de « aiguë ».",
+      "wikipedia": "Tréma"
+    },
+    {
+      "id": "langue-004",
+      "difficulty": 1,
+      "question": "Quel accent rappelle souvent la disparition d'un s, comme dans « forêt », « hôpital » ou « île » ?",
+      "answer": "Circonflexe",
+      "accept": [
+        "accent circonflexe"
+      ],
+      "choices": [
+        "Grave",
+        "Aigu",
+        "Tréma"
+      ],
+      "explanation": "On retrouve souvent le s disparu dans des mots de la même famille, comme forestier, hospitalier ou insulaire, ainsi qu'en anglais avec forest ou hospital.",
+      "wikipedia": "Accent circonflexe"
+    },
+    {
+      "id": "langue-005",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un mot ou une phrase qui se lit de la même façon dans les deux sens, comme « kayak » ?",
+      "answer": "Palindrome",
+      "accept": [],
+      "choices": [
+        "Anagramme",
+        "Homonyme",
+        "Acrostiche"
+      ],
+      "explanation": "Le plus célèbre en français est « Ésope reste ici et se repose » ; Georges Perec a composé un palindrome de plus de mille mots.",
+      "wikipedia": "Palindrome"
+    },
+    {
+      "id": "langue-006",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un mot formé en réarrangeant les lettres d'un autre, comme « chien » et « niche » ?",
+      "answer": "Anagramme",
+      "accept": [],
+      "choices": [
+        "Palindrome",
+        "Contrepèterie",
+        "Verlan"
+      ],
+      "explanation": "André Breton surnomma Salvador Dalí « Avida Dollars », anagramme moqueuse de son nom ; de même, « Marie » donne « aimer ».",
+      "wikipedia": "Anagramme"
+    },
+    {
+      "id": "langue-007",
+      "difficulty": 1,
+      "question": "Quel argot français inverse les syllabes des mots, comme dans « meuf » pour « femme » ?",
+      "answer": "Verlan",
+      "accept": [],
+      "choices": [
+        "Javanais",
+        "Louchébem",
+        "Largonji"
+      ],
+      "explanation": "Son nom est lui-même formé à l'envers à partir de « l'envers » ; le procédé est ancien, mais il s'est surtout popularisé dans les banlieues à partir des années 1970.",
+      "wikipedia": "Verlan"
+    },
+    {
+      "id": "langue-008",
+      "difficulty": 1,
+      "question": "Quelle figure de style consiste à exagérer pour frapper les esprits, comme dans « mourir de rire » ?",
+      "answer": "Hyperbole",
+      "accept": [],
+      "choices": [
+        "Litote",
+        "Euphémisme",
+        "Métaphore"
+      ],
+      "explanation": "Le mot vient du grec hyperbolê, « action de jeter au-delà » ; c'est un procédé favori de la publicité et du langage familier, avec des formules comme « mille fois merci ».",
+      "wikipedia": "Hyperbole (rhétorique)"
+    },
+    {
+      "id": "langue-009",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un mot qui imite un bruit, comme « cocorico », « tic-tac » ou « boum » ?",
+      "answer": "Onomatopée",
+      "accept": [
+        "onomatopee"
+      ],
+      "choices": [
+        "Néologisme",
+        "Barbarisme",
+        "Diminutif"
+      ],
+      "explanation": "Les onomatopées varient selon les langues : le coq français chante « cocorico », tandis que son cousin anglais fait « cock-a-doodle-doo ».",
+      "wikipedia": "Onomatopée"
+    },
+    {
+      "id": "langue-010",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une répétition inutile de sens, comme dans « monter en haut » ou « prévoir à l'avance » ?",
+      "answer": "Pléonasme",
+      "accept": [
+        "pleonasme"
+      ],
+      "choices": [
+        "Oxymore",
+        "Barbarisme",
+        "Solécisme"
+      ],
+      "explanation": "Il peut aussi être un effet de style voulu, comme le célèbre « Je l'ai vu, dis-je, vu, de mes propres yeux vu » d'Orgon dans le Tartuffe de Molière.",
+      "wikipedia": "Pléonasme"
+    },
+    {
+      "id": "langue-011",
+      "difficulty": 1,
+      "question": "Quel héros grec a donné son nom à une expression désignant le point faible d'une personne ?",
+      "answer": "Achille",
+      "accept": [],
+      "choices": [
+        "Ulysse",
+        "Hector",
+        "Héraclès"
+      ],
+      "explanation": "Sa mère Thétis l'avait plongé dans le Styx pour le rendre invulnérable, en le tenant par le talon ; c'est là que la flèche de Pâris l'atteignit.",
+      "wikipedia": "Talon d'Achille"
+    },
+    {
+      "id": "langue-012",
+      "difficulty": 1,
+      "question": "Quelle première femme de la mythologie grecque ouvrit la jarre qui libéra tous les maux sur l'humanité ?",
+      "answer": "Pandore",
+      "accept": [],
+      "choices": [
+        "Perséphone",
+        "Psyché",
+        "Cassandre"
+      ],
+      "explanation": "Seule l'Espérance resta au fond ; le récit d'Hésiode parle d'une jarre, devenue « boîte » à la suite d'une erreur de traduction attribuée à Érasme.",
+      "wikipedia": "Pandore"
+    },
+    {
+      "id": "langue-013",
+      "difficulty": 1,
+      "question": "Quel petit fleuve Jules César franchit-il en 49 av. J.-C., donnant une expression synonyme de décision irrévocable ?",
+      "answer": "Rubicon",
+      "accept": [],
+      "choices": [
+        "Tibre",
+        "Pô",
+        "Arno"
+      ],
+      "explanation": "Il marquait la frontière entre la Gaule cisalpine et l'Italie, qu'un général ne pouvait franchir en armes ; César aurait alors prononcé « Alea jacta est ».",
+      "wikipedia": "Rubicon"
+    },
+    {
+      "id": "langue-014",
+      "difficulty": 1,
+      "question": "Quel roi de Lydie, à la fortune proverbiale, est cité dans une expression désignant un homme très riche ?",
+      "answer": "Crésus",
+      "accept": [
+        "Cresus"
+      ],
+      "choices": [
+        "Midas",
+        "Darius",
+        "Salomon"
+      ],
+      "explanation": "On attribue à son royaume les premières monnaies d'or et d'argent ; le Pactole, rivière qui charriait des paillettes d'or, coulait sur ses terres.",
+      "wikipedia": "Crésus"
+    },
+    {
+      "id": "langue-015",
+      "difficulty": 1,
+      "question": "Quelle rivière, franchie dans la douleur par la Grande Armée en 1812, désigne aujourd'hui une déroute ?",
+      "answer": "Bérézina",
+      "accept": [
+        "Berezina"
+      ],
+      "choices": [
+        "Niémen",
+        "Moskova",
+        "Dniepr"
+      ],
+      "explanation": "Les pontonniers du général Éblé construisirent des ponts dans l'eau glacée ; paradoxalement, ce passage permit à l'armée d'échapper à l'encerclement russe.",
+      "wikipedia": "Bataille de la Bérézina"
+    },
+    {
+      "id": "langue-016",
+      "difficulty": 1,
+      "question": "Quel préfet de la Seine a donné son nom aux récipients à ordures imposés aux Parisiens en 1884 ?",
+      "answer": "Poubelle",
+      "accept": [
+        "Eugène Poubelle"
+      ],
+      "choices": [
+        "Haussmann",
+        "Rambuteau",
+        "Lépine"
+      ],
+      "explanation": "Son arrêté prévoyait déjà un tri sommaire des déchets ; les Parisiens baptisèrent ironiquement ces boîtes du nom du préfet qui les leur imposait.",
+      "wikipedia": "Eugène Poubelle"
+    },
+    {
+      "id": "langue-017",
+      "difficulty": 1,
+      "question": "Quel médecin et député a donné son nom à la machine d'exécution adoptée sous la Révolution, sans l'avoir inventée ?",
+      "answer": "Guillotin",
+      "accept": [
+        "Joseph Guillotin",
+        "Joseph-Ignace Guillotin",
+        "Joseph Ignace Guillotin"
+      ],
+      "choices": [
+        "Antoine Louis",
+        "Charles-Henri Sanson",
+        "Jean-Paul Marat"
+      ],
+      "explanation": "Il avait proposé une mort identique et sans souffrance pour tous les condamnés ; la machine fut d'abord surnommée « louisette », du nom du chirurgien Antoine Louis.",
+      "wikipedia": "Guillotine"
+    },
+    {
+      "id": "langue-018",
+      "difficulty": 1,
+      "question": "De quelle langue vient le mot « algèbre », tiré du titre d'un traité du mathématicien al-Khwârizmî ?",
+      "answer": "Arabe",
+      "accept": [],
+      "choices": [
+        "Persan",
+        "Grec",
+        "Hébreu"
+      ],
+      "explanation": "Le mot vient d'al-jabr, « la restauration » ; le nom même d'al-Khwârizmî a donné, par déformation, le mot « algorithme ».",
+      "wikipedia": "Algèbre"
+    },
+    {
+      "id": "langue-019",
+      "difficulty": 1,
+      "question": "Quelle langue construite, publiée par Ludwik Zamenhof en 1887, se voulait une langue internationale ?",
+      "answer": "Espéranto",
+      "accept": [
+        "Esperanto"
+      ],
+      "choices": [
+        "Volapük",
+        "Ido",
+        "Interlingua"
+      ],
+      "explanation": "Son nom vient du pseudonyme de Zamenhof, Doktoro Esperanto, « le docteur qui espère » ; sa grammaire régulière repose sur seize règles de base.",
+      "wikipedia": "Espéranto"
+    },
+    {
+      "id": "langue-020",
+      "difficulty": 1,
+      "question": "Quel cardinal, principal ministre de Louis XIII, fonda l'Académie française en 1635 ?",
+      "answer": "Richelieu",
+      "accept": [
+        "Cardinal de Richelieu"
+      ],
+      "choices": [
+        "Mazarin",
+        "Fleury",
+        "Dubois"
+      ],
+      "explanation": "Chargée de fixer la langue, l'Académie publia la première édition de son dictionnaire en 1694 ; elle siège quai de Conti, sous la Coupole.",
+      "wikipedia": "Académie française"
+    },
+    {
+      "id": "langue-021",
+      "difficulty": 1,
+      "question": "Quel surnom donne-t-on aux quarante membres de l'Académie française, qui portent l'habit vert ?",
+      "answer": "Immortels",
+      "accept": [
+        "les Immortels"
+      ],
+      "choices": [
+        "Sages",
+        "Éternels",
+        "Illustres"
+      ],
+      "explanation": "Le surnom vient de la devise « À l'immortalité », gravée sur le sceau donné par Richelieu ; elle visait la langue française plutôt que les académiciens.",
+      "wikipedia": "Académie française"
+    },
+    {
+      "id": "langue-022",
+      "difficulty": 1,
+      "question": "À quel temps de l'indicatif est conjugué le verbe dans « nous chantâmes » ?",
+      "answer": "Passé simple",
+      "accept": [],
+      "choices": [
+        "Passé composé",
+        "Imparfait",
+        "Passé antérieur"
+      ],
+      "explanation": "Temps du récit littéraire, il a presque disparu de l'oral ; aux deux premières personnes du pluriel, il porte toujours un accent circonflexe.",
+      "wikipedia": "Passé simple"
+    },
+    {
+      "id": "langue-023",
+      "difficulty": 1,
+      "question": "À quelle classe grammaticale appartiennent les mots « mais », « ou », « et », « donc », « or », « ni » et « car » ?",
+      "answer": "Conjonction de coordination",
+      "accept": [
+        "conjonctions de coordination",
+        "conjonction"
+      ],
+      "choices": [
+        "Préposition",
+        "Adverbe",
+        "Pronom relatif"
+      ],
+      "explanation": "On les retient grâce à la phrase « Mais où est donc Ornicar ? » ; certains grammairiens classent toutefois « donc » parmi les adverbes.",
+      "wikipedia": "Conjonction de coordination en français"
+    },
+    {
+      "id": "langue-024",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le signe ondulé placé sur le n espagnol de « mañana » ?",
+      "answer": "Tilde",
+      "accept": [],
+      "choices": [
+        "Cédille",
+        "Tréma",
+        "Macron"
+      ],
+      "explanation": "En portugais, il se place sur certaines voyelles pour marquer la nasalisation, comme dans « São Paulo » ; en informatique, il désigne souvent le dossier personnel.",
+      "wikipedia": "Tilde"
+    },
+    {
+      "id": "langue-025",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la peur irraisonnée des araignées, l'une des phobies les plus répandues ?",
+      "answer": "Arachnophobie",
+      "accept": [],
+      "choices": [
+        "Agoraphobie",
+        "Claustrophobie",
+        "Acrophobie"
+      ],
+      "explanation": "Le mot vient du grec arachnê, « araignée » ; dans la mythologie, Arachné était une tisserande changée en araignée par Athéna pour l'avoir défiée.",
+      "wikipedia": "Arachnophobie"
+    },
+    {
+      "id": "langue-026",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une personne qui collectionne et étudie les timbres-poste ?",
+      "answer": "Philatéliste",
+      "accept": [
+        "philateliste"
+      ],
+      "choices": [
+        "Numismate",
+        "Cartophile",
+        "Bibliophile"
+      ],
+      "explanation": "Le mot fut forgé en 1864 par Georges Herpin à partir du grec philos, « ami », et atelês, « exempt de taxe », le timbre attestant le port payé.",
+      "wikipedia": "Philatélie"
+    },
+    {
+      "id": "langue-027",
+      "difficulty": 1,
+      "question": "Quel patriarche biblique, qui aurait vécu 969 ans, est cité dans l'expression « vieux comme… » ?",
+      "answer": "Mathusalem",
+      "accept": [],
+      "choices": [
+        "Noé",
+        "Abraham",
+        "Moïse"
+      ],
+      "explanation": "Grand-père de Noé selon la Genèse, il a aussi donné son nom à une grande bouteille de champagne équivalant à huit bouteilles ordinaires.",
+      "wikipedia": "Mathusalem"
+    },
+    {
+      "id": "langue-028",
+      "difficulty": 1,
+      "question": "Quelle locution latine du poète Horace invite à profiter pleinement du jour présent ?",
+      "answer": "Carpe diem",
+      "accept": [],
+      "choices": [
+        "Tempus fugit",
+        "Alea jacta est",
+        "Veni, vidi, vici"
+      ],
+      "explanation": "Elle signifie littéralement « cueille le jour » ; le vers complet des Odes est « carpe diem quam minimum credula postero ».",
+      "wikipedia": "Carpe diem"
+    },
+    {
+      "id": "langue-029",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le signe « & », issu d'une ligature des lettres e et t du latin ?",
+      "answer": "Esperluette",
+      "accept": [
+        "perluette"
+      ],
+      "choices": [
+        "Astérisque",
+        "Obèle",
+        "Astérisme"
+      ],
+      "explanation": "Le signe a longtemps été récité comme une lettre supplémentaire à la fin des abécédaires ; en anglais, on l'appelle ampersand.",
+      "wikipedia": "Esperluette"
+    },
+    {
+      "id": "langue-030",
+      "difficulty": 2,
+      "question": "Quelle figure de style dit moins pour suggérer davantage, comme « ce n'est pas mauvais » pour « c'est très bon » ?",
+      "answer": "Litote",
+      "accept": [],
+      "choices": [
+        "Euphémisme",
+        "Hyperbole",
+        "Antiphrase"
+      ],
+      "explanation": "Contrairement à l'euphémisme, qui adoucit une réalité, la litote atténue l'expression pour renforcer l'idée ; son nom vient du grec signifiant « simplicité ».",
+      "wikipedia": "Litote"
+    },
+    {
+      "id": "langue-031",
+      "difficulty": 2,
+      "question": "Quelle figure de style associe deux termes contradictoires, comme « un silence assourdissant » ou « une douce violence » ?",
+      "answer": "Oxymore",
+      "accept": [
+        "oxymoron"
+      ],
+      "choices": [
+        "Antithèse",
+        "Chiasme",
+        "Paradoxe"
+      ],
+      "explanation": "Le mot grec associe oxus, « pointu, fin », et môros, « sot » : il constitue donc lui-même un exemple de la figure qu'il désigne.",
+      "wikipedia": "Oxymore"
+    },
+    {
+      "id": "langue-032",
+      "difficulty": 2,
+      "question": "Quelle figure de style répète une même consonne, comme dans « Pour qui sont ces serpents qui sifflent sur vos têtes » ?",
+      "answer": "Allitération",
+      "accept": [
+        "alliteration"
+      ],
+      "choices": [
+        "Assonance",
+        "Anaphore",
+        "Paronomase"
+      ],
+      "explanation": "Ce vers de l'Andromaque de Racine imite le sifflement des serpents ; la répétition d'un même son voyelle s'appelle, elle, l'assonance.",
+      "wikipedia": "Allitération"
+    },
+    {
+      "id": "langue-033",
+      "difficulty": 2,
+      "question": "Quelle figure de style désigne une chose par une autre qui lui est liée, comme dans « boire un verre » ?",
+      "answer": "Métonymie",
+      "accept": [
+        "metonymie"
+      ],
+      "choices": [
+        "Métaphore",
+        "Synecdoque",
+        "Allégorie"
+      ],
+      "explanation": "On l'emploie aussi pour désigner une institution par son lieu, comme « l'Élysée » pour la présidence, ou une œuvre par son auteur : « lire un Zola ».",
+      "wikipedia": "Métonymie"
+    },
+    {
+      "id": "langue-034",
+      "difficulty": 2,
+      "question": "Quelle figure de style remplace un mot par une expression qui le décrit, comme « la Ville Lumière » pour Paris ?",
+      "answer": "Périphrase",
+      "accept": [
+        "periphrase"
+      ],
+      "choices": [
+        "Métaphore",
+        "Euphémisme",
+        "Pléonasme"
+      ],
+      "explanation": "Les précieuses du XVIIe siècle en abusaient, appelant par exemple les fauteuils « les commodités de la conversation », ce dont Molière se moqua.",
+      "wikipedia": "Périphrase"
+    },
+    {
+      "id": "langue-035",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'inversion de sons dans une phrase pour en former une autre, souvent grivoise ?",
+      "answer": "Contrepèterie",
+      "accept": [
+        "contrepet",
+        "contrepeterie"
+      ],
+      "choices": [
+        "Calembour",
+        "Charade",
+        "Rébus"
+      ],
+      "explanation": "Rabelais en livra une célèbre dans Pantagruel, « femme folle à la messe » ; Le Canard enchaîné en publie chaque semaine dans « Sur l'album de la comtesse ».",
+      "wikipedia": "Contrepèterie"
+    },
+    {
+      "id": "langue-036",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un mot formé par la fusion de deux autres, comme « franglais » ou « courriel » ?",
+      "answer": "Mot-valise",
+      "accept": [
+        "mot valise"
+      ],
+      "choices": [
+        "Acronyme",
+        "Barbarisme",
+        "Calque"
+      ],
+      "explanation": "Le terme traduit l'anglais portmanteau, employé par Lewis Carroll dans De l'autre côté du miroir pour expliquer des mots inventés comme slithy.",
+      "wikipedia": "Mot-valise"
+    },
+    {
+      "id": "langue-037",
+      "difficulty": 2,
+      "question": "Quel roman de Georges Perec, publié en 1969, est entièrement écrit sans utiliser la lettre e ?",
+      "answer": "La Disparition",
+      "accept": [
+        "Disparition"
+      ],
+      "choices": [
+        "Les Revenentes",
+        "La Vie mode d'emploi",
+        "Les Choses"
+      ],
+      "explanation": "C'est un lipogramme de près de trois cents pages ; Perec publia ensuite Les Revenentes, où la seule voyelle employée est justement le e.",
+      "wikipedia": "Lipogramme"
+    },
+    {
+      "id": "langue-038",
+      "difficulty": 2,
+      "question": "Quel groupe d'écrivains, fondé par Raymond Queneau et François Le Lionnais, explore la littérature sous contrainte ?",
+      "answer": "Oulipo",
+      "accept": [
+        "OuLiPo",
+        "Ouvroir de littérature potentielle"
+      ],
+      "choices": [
+        "Nouveau roman",
+        "Groupe de Médan",
+        "Collège de 'Pataphysique"
+      ],
+      "explanation": "Son nom signifie Ouvroir de littérature potentielle ; Queneau y publia Cent mille milliards de poèmes, dix sonnets dont les vers sont interchangeables.",
+      "wikipedia": "Oulipo"
+    },
+    {
+      "id": "langue-039",
+      "difficulty": 2,
+      "question": "Quel roi mythologique a donné son nom au supplice de voir sans pouvoir atteindre ce que l'on désire ?",
+      "answer": "Tantale",
+      "accept": [],
+      "choices": [
+        "Sisyphe",
+        "Prométhée",
+        "Ixion"
+      ],
+      "explanation": "Plongé aux Enfers dans l'eau jusqu'au cou, il voit l'eau se retirer quand il veut boire, et les fruits s'élever quand il veut les cueillir.",
+      "wikipedia": "Tantale"
+    },
+    {
+      "id": "langue-040",
+      "difficulty": 2,
+      "question": "Quel roi d'Épire a donné son nom à une victoire obtenue au prix de pertes ruineuses ?",
+      "answer": "Pyrrhus",
+      "accept": [
+        "Pyrrhus Ier"
+      ],
+      "choices": [
+        "Alexandre",
+        "Philippe",
+        "Hannibal"
+      ],
+      "explanation": "Après ses victoires coûteuses contre Rome à Héraclée et Ausculum, il aurait déclaré : « Encore une victoire comme celle-là et je suis perdu. »",
+      "wikipedia": "Victoire à la Pyrrhus"
+    },
+    {
+      "id": "langue-041",
+      "difficulty": 2,
+      "question": "Quel gentilhomme a donné son nom à un coup inattendu, porté au jarret lors d'un duel célèbre en 1547 ?",
+      "answer": "Jarnac",
+      "accept": [
+        "Guy de Jarnac",
+        "Guy Chabot de Jarnac"
+      ],
+      "choices": [
+        "La Châtaigneraie",
+        "Bayard",
+        "Bussy d'Amboise"
+      ],
+      "explanation": "Le coup, parfaitement loyal, surprit son adversaire La Châtaigneraie devant le roi Henri II ; l'expression a pris ensuite le sens de manœuvre perfide.",
+      "wikipedia": "Coup de Jarnac"
+    },
+    {
+      "id": "langue-042",
+      "difficulty": 2,
+      "question": "Dans quelle ville le général Joffre assigna-t-il en 1914 des officiers jugés incapables, d'où un verbe célèbre ?",
+      "answer": "Limoges",
+      "accept": [],
+      "choices": [
+        "Vichy",
+        "Bourges",
+        "Poitiers"
+      ],
+      "explanation": "Ces généraux relevés de leur commandement furent affectés à l'arrière, loin du front ; « limoger » signifie depuis écarter quelqu'un de son poste.",
+      "wikipedia": "Limogeage"
+    },
+    {
+      "id": "langue-043",
+      "difficulty": 2,
+      "question": "Quel contrôleur général des finances de Louis XV, vite impopulaire, a donné son nom à un dessin de profil ?",
+      "answer": "Silhouette",
+      "accept": [
+        "Étienne de Silhouette"
+      ],
+      "choices": [
+        "Turgot",
+        "Necker",
+        "Calonne"
+      ],
+      "explanation": "Ses mesures d'économie furent tournées en dérision : « à la Silhouette » désigna des choses sommaires, comme ces portraits réduits au contour d'une ombre.",
+      "wikipedia": "Étienne de Silhouette"
+    },
+    {
+      "id": "langue-044",
+      "difficulty": 2,
+      "question": "Quel soldat de l'Empire, sans doute imaginaire, a donné son nom au patriotisme exalté et étroit ?",
+      "answer": "Chauvin",
+      "accept": [
+        "Nicolas Chauvin"
+      ],
+      "choices": [
+        "Cambronne",
+        "Fanfan la Tulipe",
+        "Lasalle"
+      ],
+      "explanation": "Ce grognard fanatique de Napoléon fut popularisé par des vaudevilles comme La Cocarde tricolore des frères Cogniard, joué en 1831.",
+      "wikipedia": "Chauvinisme"
+    },
+    {
+      "id": "langue-045",
+      "difficulty": 2,
+      "question": "Quel maréchal, tué à la bataille de Pavie, a donné son nom aux vérités d'une évidence niaise ?",
+      "answer": "La Palice",
+      "accept": [
+        "La Palisse",
+        "Jacques de La Palice"
+      ],
+      "choices": [
+        "Bayard",
+        "Gaston de Foix",
+        "Anne de Montmorency"
+      ],
+      "explanation": "Son épitaphe « s'il n'était pas mort, il ferait encore envie » fut lue « il serait encore en vie », d'où une chanson moqueuse.",
+      "wikipedia": "Lapalissade"
+    },
+    {
+      "id": "langue-046",
+      "difficulty": 2,
+      "question": "Quel mot vient du nom d'un régisseur irlandais mis en quarantaine en 1880 par les fermiers qu'il exploitait ?",
+      "answer": "Boycott",
+      "accept": [
+        "boycottage"
+      ],
+      "choices": [
+        "Lynchage",
+        "Embargo",
+        "Grève"
+      ],
+      "explanation": "Charles Boycott refusa de baisser les fermages ; la Land League organisa alors son isolement total, plus personne ne voulant travailler ou commercer avec lui.",
+      "wikipedia": "Boycott"
+    },
+    {
+      "id": "langue-047",
+      "difficulty": 2,
+      "question": "Quel mot japonais, signifiant littéralement « vent divin », désigne les pilotes suicides de la Seconde Guerre mondiale ?",
+      "answer": "Kamikaze",
+      "accept": [],
+      "choices": [
+        "Banzaï",
+        "Hara-kiri",
+        "Samouraï"
+      ],
+      "explanation": "Le nom évoque les typhons qui, selon la tradition, anéantirent les flottes mongoles de Kubilai Khan lancées contre le Japon au XIIIe siècle.",
+      "wikipedia": "Kamikaze"
+    },
+    {
+      "id": "langue-048",
+      "difficulty": 2,
+      "question": "Quelle langue isolée, sans parenté connue, est parlée de part et d'autre des Pyrénées occidentales ?",
+      "answer": "Basque",
+      "accept": [
+        "euskara"
+      ],
+      "choices": [
+        "Catalan",
+        "Occitan",
+        "Aragonais"
+      ],
+      "explanation": "Appelée euskara par ses locuteurs, c'est la seule langue non indo-européenne encore vivante d'Europe de l'Ouest ; elle serait antérieure à l'arrivée des Indo-Européens.",
+      "wikipedia": "Basque"
+    },
+    {
+      "id": "langue-049",
+      "difficulty": 2,
+      "question": "Quelle ordonnance de François Ier imposa en 1539 le français dans les actes de justice et d'administration ?",
+      "answer": "Villers-Cotterêts",
+      "accept": [
+        "Villers-Cotterets",
+        "Ordonnance de Villers-Cotterêts"
+      ],
+      "choices": [
+        "Blois",
+        "Moulins",
+        "Amboise"
+      ],
+      "explanation": "Elle est le plus ancien texte législatif encore en vigueur en France ; elle imposa aussi la tenue de registres de baptêmes, ancêtres de l'état civil.",
+      "wikipedia": "Ordonnance de Villers-Cotterêts"
+    },
+    {
+      "id": "langue-050",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un poème dont les initiales des vers, lues verticalement, forment un mot ?",
+      "answer": "Acrostiche",
+      "accept": [],
+      "choices": [
+        "Calligramme",
+        "Tautogramme",
+        "Épigramme"
+      ],
+      "explanation": "Le procédé est très ancien : on en trouve dans les psaumes hébreux, et François Villon a caché son nom de cette façon dans plusieurs ballades.",
+      "wikipedia": "Acrostiche"
+    },
+    {
+      "id": "langue-051",
+      "difficulty": 2,
+      "question": "Quelle locution latine signifiant « souviens-toi que tu vas mourir » a inspiré les tableaux de vanités ?",
+      "answer": "Memento mori",
+      "accept": [],
+      "choices": [
+        "Requiescat in pace",
+        "Tempus fugit",
+        "Vanitas vanitatum"
+      ],
+      "explanation": "Selon une tradition, un esclave la murmurait à l'oreille du général romain lors de son triomphe, pour lui rappeler qu'il n'était qu'un homme.",
+      "wikipedia": "Memento mori"
+    },
+    {
+      "id": "langue-052",
+      "difficulty": 2,
+      "question": "Quel mot latin signifiant « glissement » désigne une erreur involontaire de langage, un mot en remplaçant un autre ?",
+      "answer": "Lapsus",
+      "accept": [
+        "lapsus linguae"
+      ],
+      "choices": [
+        "Errata",
+        "Quiproquo",
+        "Solécisme"
+      ],
+      "explanation": "Freud en fit un objet d'étude dans Psychopathologie de la vie quotidienne, y voyant l'expression d'un désir inconscient ; le lapsus calami est une erreur d'écriture.",
+      "wikipedia": "Lapsus"
+    },
+    {
+      "id": "langue-053",
+      "difficulty": 2,
+      "question": "Quel mot latin, signifiant « quelque chose pour quelque chose », désigne une méprise sur une personne ou une chose ?",
+      "answer": "Quiproquo",
+      "accept": [
+        "quid pro quo"
+      ],
+      "choices": [
+        "Imbroglio",
+        "Statu quo",
+        "Ex aequo"
+      ],
+      "explanation": "Il désignait à l'origine l'erreur d'un apothicaire donnant un remède pour un autre ; c'est un ressort essentiel de la comédie et du vaudeville.",
+      "wikipedia": "Quiproquo"
+    },
+    {
+      "id": "langue-054",
+      "difficulty": 2,
+      "question": "De quelle couleur était l'éminence qui désignait le père Joseph, conseiller influent de Richelieu ?",
+      "answer": "Grise",
+      "accept": [
+        "gris"
+      ],
+      "choices": [
+        "Rouge",
+        "Noire",
+        "Blanche"
+      ],
+      "explanation": "Ce capucin vêtu de bure s'opposait à Richelieu, l'Éminence rouge ; l'expression désigne depuis un conseiller qui agit dans l'ombre d'un puissant.",
+      "wikipedia": "Éminence grise"
+    },
+    {
+      "id": "langue-055",
+      "difficulty": 2,
+      "question": "De quelle langue vient le mot « robot », popularisé en 1920 par une pièce de Karel Čapek ?",
+      "answer": "Tchèque",
+      "accept": [
+        "tcheque"
+      ],
+      "choices": [
+        "Polonais",
+        "Russe",
+        "Slovaque"
+      ],
+      "explanation": "Il dérive de robota, « corvée, travail forcé » ; c'est le frère de l'écrivain, le peintre Josef Čapek, qui lui suggéra ce mot.",
+      "wikipedia": "Robot"
+    },
+    {
+      "id": "langue-056",
+      "difficulty": 2,
+      "question": "Quelle langue bantoue sert de langue véhiculaire en Afrique de l'Est, notamment au Kenya et en Tanzanie ?",
+      "answer": "Swahili",
+      "accept": [
+        "kiswahili"
+      ],
+      "choices": [
+        "Amharique",
+        "Haoussa",
+        "Zoulou"
+      ],
+      "explanation": "Son vocabulaire compte de nombreux mots d'origine arabe ; le mot safari, qui signifie « voyage » en swahili, est passé dans de nombreuses langues.",
+      "wikipedia": "Swahili"
+    },
+    {
+      "id": "langue-057",
+      "difficulty": 3,
+      "question": "Quel nom porte le signe typographique ¶, employé pour marquer un paragraphe ?",
+      "answer": "Pied-de-mouche",
+      "accept": [
+        "pied de mouche"
+      ],
+      "choices": [
+        "Esperluette",
+        "Obèle",
+        "Astérisme"
+      ],
+      "explanation": "Les traitements de texte l'affichent pour révéler les fins de paragraphe ; au Moyen Âge, les copistes le traçaient souvent à l'encre rouge.",
+      "wikipedia": "Pied-de-mouche"
+    },
+    {
+      "id": "langue-058",
+      "difficulty": 3,
+      "question": "Quel argot des bouchers parisiens remplace la première consonne d'un mot par un l et la rejette à la fin ?",
+      "answer": "Louchébem",
+      "accept": [
+        "loucherbem",
+        "louchebem"
+      ],
+      "choices": [
+        "Javanais",
+        "Verlan",
+        "Jobelin"
+      ],
+      "explanation": "Son nom déforme le mot « boucher » ; « fou » y devient « louf », d'où le mot loufoque, passé dans la langue courante.",
+      "wikipedia": "Largonji"
+    },
+    {
+      "id": "langue-059",
+      "difficulty": 3,
+      "question": "Quelle figure de style dispose deux groupes de mots en ordre croisé, comme « Il faut manger pour vivre et non vivre pour manger » ?",
+      "answer": "Chiasme",
+      "accept": [],
+      "choices": [
+        "Zeugma",
+        "Antithèse",
+        "Anacoluthe"
+      ],
+      "explanation": "Son nom vient de la lettre grecque chi, en forme de X, qui évoque le croisement ; cette phrase est prononcée par Valère dans L'Avare de Molière.",
+      "wikipedia": "Chiasme"
+    },
+    {
+      "id": "langue-060",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la suppression de la fin d'un mot, comme « ciné » pour « cinéma » ou « prof » pour « professeur » ?",
+      "answer": "Apocope",
+      "accept": [],
+      "choices": [
+        "Aphérèse",
+        "Syncope",
+        "Élision"
+      ],
+      "explanation": "Le procédé abonde dans le langage familier, avec « resto » ou « appart » ; le mot vient du grec apokopê, qui signifie « retranchement ».",
+      "wikipedia": "Apocope"
+    },
+    {
+      "id": "langue-061",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la suppression du début d'un mot, comme « bus » pour « autobus » ?",
+      "answer": "Aphérèse",
+      "accept": [
+        "apherese"
+      ],
+      "choices": [
+        "Apocope",
+        "Syncope",
+        "Épenthèse"
+      ],
+      "explanation": "Autres exemples : « Colas » pour Nicolas ou « pitaine » pour capitaine ; le terme vient du grec aphairesis, « action d'enlever ».",
+      "wikipedia": "Aphérèse"
+    },
+    {
+      "id": "langue-062",
+      "difficulty": 3,
+      "question": "Dans quel château d'Italie l'empereur Henri IV vint-il s'humilier devant le pape Grégoire VII en 1077 ?",
+      "answer": "Canossa",
+      "accept": [],
+      "choices": [
+        "Anagni",
+        "Ravenne",
+        "Pavie"
+      ],
+      "explanation": "Il y attendit trois jours dans la neige pour obtenir la levée de son excommunication ; « aller à Canossa » signifie céder humblement devant un adversaire.",
+      "wikipedia": "Canossa"
+    },
+    {
+      "id": "langue-063",
+      "difficulty": 3,
+      "question": "Quel défilé d'Italie, où une armée romaine dut passer sous le joug des Samnites, a donné une expression d'humiliation ?",
+      "answer": "Fourches Caudines",
+      "accept": [
+        "Fourches caudines"
+      ],
+      "choices": [
+        "Thermopyles",
+        "Roncevaux",
+        "Pas de Suse"
+      ],
+      "explanation": "En 321 av. J.-C., les légions piégées durent défiler désarmées sous un joug de lances ; l'expression évoque depuis l'acceptation de conditions humiliantes.",
+      "wikipedia": "Bataille des Fourches Caudines"
+    },
+    {
+      "id": "langue-064",
+      "difficulty": 3,
+      "question": "Quel mot japonais désignant un raz-de-marée signifie littéralement « vague du port » ?",
+      "answer": "Tsunami",
+      "accept": [],
+      "choices": [
+        "Seiche",
+        "Mascaret",
+        "Typhon"
+      ],
+      "explanation": "Au large, la vague est presque imperceptible ; elle ne prend sa hauteur destructrice qu'en approchant des côtes, d'où le constat des pêcheurs rentrant au port.",
+      "wikipedia": "Tsunami"
+    },
+    {
+      "id": "langue-065",
+      "difficulty": 3,
+      "question": "De quelle langue aztèque viennent les mots « chocolat », « tomate » et « avocat », désignant le fruit ?",
+      "answer": "Nahuatl",
+      "accept": [
+        "Náhuatl"
+      ],
+      "choices": [
+        "Quechua",
+        "Maya",
+        "Guarani"
+      ],
+      "explanation": "« Avocat » vient d'ahuacatl et « tomate » de tomatl ; cette langue est encore parlée aujourd'hui par plus d'un million de Mexicains.",
+      "wikipedia": "Nahuatl"
+    },
+    {
+      "id": "langue-066",
+      "difficulty": 3,
+      "question": "Quel alphabet coréen fut créé au XVe siècle sous le règne du roi Sejong le Grand ?",
+      "answer": "Hangeul",
+      "accept": [
+        "Hangul",
+        "Han'gŭl"
+      ],
+      "choices": [
+        "Hiragana",
+        "Katakana",
+        "Kanji"
+      ],
+      "explanation": "Conçu pour permettre au peuple d'apprendre facilement à lire, il est célébré chaque 9 octobre en Corée du Sud lors du jour qui lui est consacré.",
+      "wikipedia": "Hangeul"
+    },
+    {
+      "id": "langue-067",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on un mot dont on ne connaît qu'une seule occurrence dans un corpus ou chez un auteur ?",
+      "answer": "Hapax",
+      "accept": [],
+      "choices": [
+        "Néologisme",
+        "Archaïsme",
+        "Barbarisme"
+      ],
+      "explanation": "Le terme vient du grec hapax legomenon, « dit une seule fois » ; les spécialistes de la Bible et d'Homère en recensent de nombreux, souvent difficiles à traduire.",
+      "wikipedia": "Hapax"
+    },
+    {
+      "id": "langue-068",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on une phrase contenant toutes les lettres de l'alphabet, comme « Portez ce vieux whisky au juge blond qui fume » ?",
+      "answer": "Pangramme",
+      "accept": [],
+      "choices": [
+        "Lipogramme",
+        "Tautogramme",
+        "Calligramme"
+      ],
+      "explanation": "Les pangrammes servent à tester les polices de caractères et les claviers ; en anglais, le plus connu est « The quick brown fox jumps over the lazy dog ».",
+      "wikipedia": "Pangramme"
+    },
+    {
+      "id": "langue-069",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la collection des capsules qui coiffent les bouchons de champagne ?",
+      "answer": "Placomusophilie",
+      "accept": [],
+      "choices": [
+        "Tyrosémiophilie",
+        "Cartophilie",
+        "Glycophilie"
+      ],
+      "explanation": "Le mot vient de « plaque de muselet », nom de la petite capsule métallique ; la tyrosémiophilie, elle, concerne les étiquettes de fromage.",
+      "wikipedia": "Placomusophilie"
+    },
+    {
+      "id": "langue-070",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les habitants de Pont-à-Mousson, en Meurthe-et-Moselle ?",
+      "answer": "Mussipontains",
+      "accept": [
+        "Mussipontain"
+      ],
+      "choices": [
+        "Pontissaliens",
+        "Mousseurs",
+        "Pontois"
+      ],
+      "explanation": "Ce gentilé savant vient du nom latin de la ville, Mussipontum ; de même, les habitants de Charleville-Mézières sont appelés Carolomacériens.",
+      "wikipedia": "Pont-à-Mousson"
+    }
+  ]
+}

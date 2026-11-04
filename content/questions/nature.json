@@ -1,0 +1,905 @@
+{
+  "category": "nature",
+  "questions": [
+    {
+      "id": "nature-001",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le petit de la chèvre domestique ?",
+      "answer": "chevreau",
+      "accept": ["chevrette"],
+      "choices": ["agneau", "poulain", "veau"],
+      "explanation": "La peau tannée du chevreau donne un cuir très fin et souple, longtemps recherché pour la ganterie de luxe et la reliure.",
+      "wikipedia": "Chèvre"
+    },
+    {
+      "id": "nature-002",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le cri puissant que pousse le cerf pendant la saison des amours ?",
+      "answer": "brame",
+      "accept": ["bramement", "bramer"],
+      "choices": ["barrissement", "mugissement", "hennissement"],
+      "explanation": "Le brame retentit surtout en septembre et octobre : les mâles marquent ainsi leur présence et défient leurs rivaux pour s'assurer un harem de biches.",
+      "wikipedia": "Cerf élaphe"
+    },
+    {
+      "id": "nature-003",
+      "difficulty": 1,
+      "question": "Quel est le plus grand animal ayant jamais vécu sur Terre, dinosaures compris ?",
+      "answer": "baleine bleue",
+      "accept": ["rorqual bleu"],
+      "choices": ["cachalot", "rorqual commun", "argentinosaure"],
+      "explanation": "Ce géant, qui peut dépasser 30 mètres de long, se nourrit presque exclusivement de krill, de minuscules crustacés qu'il filtre grâce à ses fanons.",
+      "wikipedia": "Rorqual bleu"
+    },
+    {
+      "id": "nature-004",
+      "difficulty": 1,
+      "question": "Comment qualifie-t-on un animal qui se nourrit exclusivement de végétaux ?",
+      "answer": "herbivore",
+      "accept": ["phytophage"],
+      "choices": ["carnivore", "omnivore", "insectivore"],
+      "explanation": "Les grands herbivores comme la vache ou la girafe hébergent dans leur tube digestif des micro-organismes capables de digérer la cellulose, qu'ils ne peuvent dégrader seuls.",
+      "wikipedia": "Herbivore"
+    },
+    {
+      "id": "nature-005",
+      "difficulty": 1,
+      "question": "Combien de pattes articulées possède un insecte à l'âge adulte ?",
+      "answer": "six",
+      "accept": ["6"],
+      "choices": ["quatre", "huit", "dix"],
+      "explanation": "Les six pattes sont toutes fixées au thorax. Les araignées, qui en ont huit, ne sont donc pas des insectes mais des arachnides.",
+      "wikipedia": "Insecte"
+    },
+    {
+      "id": "nature-006",
+      "difficulty": 1,
+      "question": "Quel est le seul mammifère capable d'un véritable vol battu, et non d'un simple vol plané ?",
+      "answer": "chauve-souris",
+      "accept": ["chauves-souris", "chiroptère", "chiroptères"],
+      "choices": ["écureuil volant", "colugo", "phalanger volant"],
+      "explanation": "Son aile est une membrane de peau tendue entre des doigts très allongés, d'où le nom savant de chiroptères, qui signifie « mains ailées ».",
+      "wikipedia": "Chiroptera"
+    },
+    {
+      "id": "nature-007",
+      "difficulty": 1,
+      "question": "Quel félin est l'animal terrestre le plus rapide, capable de dépasser 100 km/h en pointe ?",
+      "answer": "guépard",
+      "accept": [],
+      "choices": ["lion", "léopard", "jaguar"],
+      "explanation": "Contrairement aux autres félins, le guépard ne peut pas rétracter complètement ses griffes, qui lui servent de crampons pendant ses courtes accélérations.",
+      "wikipedia": "Guépard"
+    },
+    {
+      "id": "nature-008",
+      "difficulty": 1,
+      "question": "Quel est le plus grand et le plus lourd des oiseaux vivants ?",
+      "answer": "autruche",
+      "accept": ["autruche d'Afrique"],
+      "choices": ["émeu", "casoar", "nandou"],
+      "explanation": "L'autruche pond les plus gros œufs du monde actuel, qui sont pourtant parmi les plus petits par rapport à la taille de la mère.",
+      "wikipedia": "Autruche d'Afrique"
+    },
+    {
+      "id": "nature-009",
+      "difficulty": 1,
+      "question": "Comment qualifie-t-on un animal dont les petits se développent dans des œufs pondus hors du corps de la mère ?",
+      "answer": "ovipare",
+      "accept": ["ovipares"],
+      "choices": ["vivipare", "ovovivipare", "marsupial"],
+      "explanation": "Oiseaux, insectes et la plupart des reptiles et poissons sont ovipares ; parmi les mammifères, seuls l'ornithorynque et les échidnés pondent des œufs.",
+      "wikipedia": "Oviparité"
+    },
+    {
+      "id": "nature-010",
+      "difficulty": 1,
+      "question": "Quel rongeur construit des barrages de branches et de boue en travers des cours d'eau ?",
+      "answer": "castor",
+      "accept": [],
+      "choices": ["ragondin", "rat musqué", "marmotte"],
+      "explanation": "Ses incisives orange, renforcées par du fer, poussent toute sa vie : il peut ainsi abattre des arbres sans jamais user ses dents jusqu'à la racine.",
+      "wikipedia": "Castor (genre)"
+    },
+    {
+      "id": "nature-011",
+      "difficulty": 1,
+      "question": "Quelle plante à fleurs jaunes donne des boules de graines munies d'aigrettes que l'on aime souffler ?",
+      "answer": "pissenlit",
+      "accept": ["dent-de-lion"],
+      "choices": ["bouton d'or", "pâquerette", "jonquille"],
+      "explanation": "Son nom évoque ses propriétés diurétiques ; en anglais, « dandelion » vient du français « dent-de-lion », en référence à ses feuilles profondément dentées.",
+      "wikipedia": "Pissenlit"
+    },
+    {
+      "id": "nature-012",
+      "difficulty": 1,
+      "question": "Quel marsupial d'Australie se déplace en bondissant sur ses puissantes pattes arrière ?",
+      "answer": "kangourou",
+      "accept": [],
+      "choices": ["koala", "wombat", "diable de Tasmanie"],
+      "explanation": "Sa longue queue musclée lui sert de balancier pendant les sauts et de cinquième appui lorsqu'il se déplace lentement.",
+      "wikipedia": "Kangourou"
+    },
+    {
+      "id": "nature-013",
+      "difficulty": 1,
+      "question": "Quel petit oiseau nectarivore, capable de faire du surplace, peut aussi voler en marche arrière ?",
+      "answer": "colibri",
+      "accept": ["colibris", "oiseau-mouche"],
+      "choices": ["martinet", "roitelet", "martin-pêcheur"],
+      "explanation": "Ses ailes battent si vite qu'elles produisent un bourdonnement, d'où son nom anglais de « hummingbird » ; il visite des centaines de fleurs par jour.",
+      "wikipedia": "Trochilidae"
+    },
+    {
+      "id": "nature-014",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le petit du sanglier, reconnaissable à son pelage rayé ?",
+      "answer": "marcassin",
+      "accept": [],
+      "choices": ["porcelet", "faon", "louveteau"],
+      "explanation": "Ses rayures claires, qui le camouflent dans les sous-bois, disparaissent vers l'âge de six mois ; on parle alors de bête rousse.",
+      "wikipedia": "Sanglier"
+    },
+    {
+      "id": "nature-015",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le cri prolongé qu'émet le loup, notamment pour rassembler sa meute ?",
+      "answer": "hurlement",
+      "accept": ["hurler", "hurlements"],
+      "choices": ["glapissement", "feulement", "rugissement"],
+      "explanation": "Contrairement à une idée reçue, le loup ne hurle pas à la lune : ce cri porte à plusieurs kilomètres et sert à communiquer entre membres d'une meute.",
+      "wikipedia": "Loup gris"
+    },
+    {
+      "id": "nature-016",
+      "difficulty": 1,
+      "question": "Quel animal marin, le plus souvent à cinq bras, est capable de régénérer un bras perdu ?",
+      "answer": "étoile de mer",
+      "accept": ["étoiles de mer", "astérie"],
+      "choices": ["oursin", "méduse", "anémone de mer"],
+      "explanation": "Pour manger une moule, elle écarte les valves avec ses bras puis fait sortir son estomac par sa bouche pour digérer la proie directement à l'extérieur.",
+      "wikipedia": "Asteroidea"
+    },
+    {
+      "id": "nature-017",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la larve aquatique de la grenouille, qui respire grâce à des branchies ?",
+      "answer": "têtard",
+      "accept": ["têtards"],
+      "choices": ["alevin", "asticot", "chenille"],
+      "explanation": "Pendant sa métamorphose, le têtard voit sa queue régresser, ses pattes apparaître et ses branchies laisser place à des poumons.",
+      "wikipedia": "Têtard"
+    },
+    {
+      "id": "nature-018",
+      "difficulty": 1,
+      "question": "Quel arbre a donné la feuille rouge qui orne le drapeau du Canada ?",
+      "answer": "érable",
+      "accept": ["érable à sucre"],
+      "choices": ["chêne", "bouleau", "platane"],
+      "explanation": "La sève de l'érable à sucre, recueillie à la fin de l'hiver puis concentrée par ébullition, donne le sirop d'érable, spécialité emblématique du Québec.",
+      "wikipedia": "Érable"
+    },
+    {
+      "id": "nature-019",
+      "difficulty": 1,
+      "question": "Quel est le plus grand poisson actuel, un géant inoffensif qui filtre le plancton ?",
+      "answer": "requin-baleine",
+      "accept": ["requin baleine"],
+      "choices": ["requin pèlerin", "grand requin blanc", "raie manta"],
+      "explanation": "Malgré une taille qui peut dépasser douze mètres, il se nourrit de plancton et de petits poissons qu'il filtre en nageant la gueule grande ouverte.",
+      "wikipedia": "Requin-baleine"
+    },
+    {
+      "id": "nature-020",
+      "difficulty": 1,
+      "question": "Quel mammifère semi-aquatique d'Australie, au bec de canard, pond des œufs ?",
+      "answer": "ornithorynque",
+      "accept": [],
+      "choices": ["loutre", "wombat", "koala"],
+      "explanation": "Le mâle porte sur les pattes arrière un éperon venimeux, ce qui fait de l'ornithorynque l'un des très rares mammifères venimeux.",
+      "wikipedia": "Ornithorynque"
+    },
+    {
+      "id": "nature-021",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le stade immobile qui sépare la chenille du papillon adulte ?",
+      "answer": "chrysalide",
+      "accept": ["nymphe"],
+      "choices": ["larve", "imago", "mue"],
+      "explanation": "À l'intérieur de la chrysalide, les tissus de la chenille sont en grande partie dissous puis réorganisés pour former les ailes, les antennes et les pattes du papillon.",
+      "wikipedia": "Chrysalide"
+    },
+    {
+      "id": "nature-022",
+      "difficulty": 1,
+      "question": "Quelle fleur blanche en clochettes offre-t-on traditionnellement en France le 1er mai ?",
+      "answer": "muguet",
+      "accept": [],
+      "choices": ["lilas", "jonquille", "violette"],
+      "explanation": "Malgré son image de porte-bonheur, le muguet est une plante entièrement toxique, y compris ses petites baies rouges.",
+      "wikipedia": "Muguet"
+    },
+    {
+      "id": "nature-023",
+      "difficulty": 1,
+      "question": "Quel reptile, réputé pour changer de couleur, peut orienter ses deux yeux indépendamment l'un de l'autre ?",
+      "answer": "caméléon",
+      "accept": ["caméléons"],
+      "choices": ["gecko", "iguane", "varan"],
+      "explanation": "Il capture ses proies avec une langue projetable d'une vitesse fulgurante, qui peut atteindre la longueur de son propre corps.",
+      "wikipedia": "Chamaeleonidae"
+    },
+    {
+      "id": "nature-024",
+      "difficulty": 1,
+      "question": "Quel champignon toxique, au chapeau rouge vif parsemé de flocons blancs, illustre souvent les contes ?",
+      "answer": "amanite tue-mouches",
+      "accept": ["fausse oronge", "tue-mouches"],
+      "choices": ["russule émétique", "bolet de Satan", "lépiote élevée"],
+      "explanation": "On l'émiettait autrefois dans du lait pour attirer et empoisonner les mouches, d'où son nom ; elle est aussi surnommée fausse oronge.",
+      "wikipedia": "Amanite tue-mouches"
+    },
+    {
+      "id": "nature-025",
+      "difficulty": 1,
+      "question": "Quel arbre d'Afrique et de Madagascar, au tronc massif, stocke de grandes réserves d'eau ?",
+      "answer": "baobab",
+      "accept": ["baobabs"],
+      "choices": ["acacia", "fromager", "dragonnier"],
+      "explanation": "Ses fruits, surnommés « pain de singe », renferment une pulpe acidulée riche en vitamine C, consommée en boisson dans une grande partie de l'Afrique.",
+      "wikipedia": "Baobab"
+    },
+    {
+      "id": "nature-026",
+      "difficulty": 1,
+      "question": "Quel gros oiseau incapable de voler, disparu de l'île Maurice au XVIIe siècle, symbolise l'extinction des espèces ?",
+      "answer": "dodo",
+      "accept": ["dronte", "dronte de Maurice"],
+      "choices": ["moa", "grand pingouin", "pigeon migrateur"],
+      "explanation": "Sans prédateurs avant l'arrivée des marins européens, il ne craignait pas l'homme ; la chasse et les animaux introduits l'ont exterminé en moins d'un siècle.",
+      "wikipedia": "Dronte de Maurice"
+    },
+    {
+      "id": "nature-027",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le petit du chevreuil, dont le pelage est tacheté de blanc ?",
+      "answer": "faon",
+      "accept": [],
+      "choices": ["chevreau", "louveteau", "daguet"],
+      "explanation": "Un faon trouvé seul n'est généralement pas abandonné : sa mère le laisse caché dans les herbes et revient l'allaiter. Il ne faut surtout pas le toucher.",
+      "wikipedia": "Chevreuil européen"
+    },
+    {
+      "id": "nature-028",
+      "difficulty": 1,
+      "question": "Quel cétacé de l'Arctique porte une longue défense torsadée, qui a nourri la légende de la licorne ?",
+      "answer": "narval",
+      "accept": [],
+      "choices": ["morse", "béluga", "dugong"],
+      "explanation": "Cette défense, présente surtout chez le mâle, est en réalité une dent qui traverse la lèvre supérieure et peut dépasser deux mètres de long.",
+      "wikipedia": "Narval"
+    },
+    {
+      "id": "nature-029",
+      "difficulty": 1,
+      "question": "Quel phénomène lumineux coloré apparaît dans le ciel des hautes latitudes quand le vent solaire atteint l'atmosphère ?",
+      "answer": "aurore polaire",
+      "accept": ["aurores polaires", "aurore boréale", "aurores boréales", "aurore australe"],
+      "choices": ["halo solaire", "rayon vert", "feu de Saint-Elme"],
+      "explanation": "On parle d'aurore boréale dans l'hémisphère Nord et d'aurore australe dans l'hémisphère Sud ; la couleur verte dominante vient de l'oxygène excité en haute altitude.",
+      "wikipedia": "Aurore polaire"
+    },
+    {
+      "id": "nature-030",
+      "difficulty": 1,
+      "question": "Quel petit insecte rouge à points noirs est surnommé « bête à bon Dieu » ?",
+      "answer": "coccinelle",
+      "accept": ["coccinelles"],
+      "choices": ["luciole", "hanneton", "gendarme"],
+      "explanation": "Grande dévoreuse de pucerons, la coccinelle est utilisée en lutte biologique dans les jardins et les serres, à la place des insecticides.",
+      "wikipedia": "Coccinellidae"
+    },
+    {
+      "id": "nature-031",
+      "difficulty": 1,
+      "question": "Quel insecte prédateur doit son nom à ses pattes avant repliées, qui lui donnent l'air de prier ?",
+      "answer": "mante religieuse",
+      "accept": ["mante"],
+      "choices": ["phasme", "sauterelle", "criquet"],
+      "explanation": "La femelle dévore parfois le mâle pendant ou après l'accouplement, un comportement surtout observé en captivité et plus rare dans la nature.",
+      "wikipedia": "Mante religieuse"
+    },
+    {
+      "id": "nature-032",
+      "difficulty": 1,
+      "question": "Quel oiseau pond ses œufs dans le nid d'autres espèces, qui élèvent ensuite ses petits à sa place ?",
+      "answer": "coucou",
+      "accept": ["coucou gris"],
+      "choices": ["pie bavarde", "geai des chênes", "étourneau"],
+      "explanation": "À peine éclos, le jeune coucou pousse hors du nid les œufs ou les oisillons de ses hôtes pour être nourri seul : on parle de parasitisme de couvée.",
+      "wikipedia": "Coucou gris"
+    },
+    {
+      "id": "nature-033",
+      "difficulty": 1,
+      "question": "Quel rapace devient l'animal le plus rapide du monde lorsqu'il fond en piqué sur ses proies ?",
+      "answer": "faucon pèlerin",
+      "accept": ["pèlerin"],
+      "choices": ["aigle royal", "épervier d'Europe", "autour des palombes"],
+      "explanation": "En piqué, il peut dépasser 300 km/h. Il chasse surtout des oiseaux en plein vol, qu'il percute avec ses serres refermées.",
+      "wikipedia": "Faucon pèlerin"
+    },
+    {
+      "id": "nature-034",
+      "difficulty": 1,
+      "question": "Quel est le plus grand lézard du monde, qui ne vit que sur quelques îles d'Indonésie ?",
+      "answer": "dragon de Komodo",
+      "accept": ["varan de Komodo", "Komodo"],
+      "choices": ["iguane vert", "varan du Nil", "monstre de Gila"],
+      "explanation": "Sa morsure injecte un venin anticoagulant : il peut ainsi venir à bout de grandes proies comme des cerfs, qu'il suit jusqu'à ce qu'elles s'affaiblissent.",
+      "wikipedia": "Dragon de Komodo"
+    },
+    {
+      "id": "nature-035",
+      "difficulty": 1,
+      "question": "Quel oiseau incapable de voler, dont les narines sont au bout du bec, est l'emblème de la Nouvelle-Zélande ?",
+      "answer": "kiwi",
+      "accept": ["aptéryx"],
+      "choices": ["kakapo", "émeu", "casoar"],
+      "explanation": "Oiseau nocturne, il débusque vers et insectes grâce à son odorat, fait rare chez les oiseaux. Le fruit a été baptisé ainsi plus tard par des exportateurs néo-zélandais.",
+      "wikipedia": "Kiwi (oiseau)"
+    },
+    {
+      "id": "nature-036",
+      "difficulty": 1,
+      "question": "Quel insecte, emblème de la Provence, produit son chant estival grâce à des membranes appelées cymbales ?",
+      "answer": "cigale",
+      "accept": ["cigales"],
+      "choices": ["grillon", "criquet", "sauterelle"],
+      "explanation": "Seuls les mâles chantent. Les larves vivent plusieurs années sous terre en suçant la sève des racines avant de remonter pour leur dernière mue.",
+      "wikipedia": "Cicadidae"
+    },
+    {
+      "id": "nature-037",
+      "difficulty": 2,
+      "question": "Quel conifère des montagnes européennes perd toutes ses aiguilles chaque automne ?",
+      "answer": "mélèze",
+      "accept": ["mélèze d'Europe"],
+      "choices": ["épicéa", "pin cembro", "sapin pectiné"],
+      "explanation": "Avant de tomber, ses aiguilles virent au jaune d'or et colorent les versants alpins ; son bois résineux, très durable, sert traditionnellement aux bardeaux et aux chalets.",
+      "wikipedia": "Mélèze"
+    },
+    {
+      "id": "nature-038",
+      "difficulty": 2,
+      "question": "Quel papillon de nuit, domestiqué en Chine depuis des millénaires, file un cocon dont on tire la soie ?",
+      "answer": "bombyx",
+      "accept": ["bombyx du mûrier"],
+      "choices": ["sphinx", "pyrale", "paon de nuit"],
+      "explanation": "Chaque cocon est formé d'un seul fil continu long de plusieurs centaines de mètres ; l'espèce, entièrement domestiquée, n'existe plus à l'état sauvage.",
+      "wikipedia": "Bombyx du mûrier"
+    },
+    {
+      "id": "nature-039",
+      "difficulty": 2,
+      "question": "Combien de cœurs fait battre une pieuvre pour faire circuler son sang bleu ?",
+      "answer": "trois",
+      "accept": ["3"],
+      "choices": ["un", "deux", "quatre"],
+      "explanation": "Deux cœurs envoient le sang vers les branchies et un troisième le distribue dans le corps ; sa couleur bleue vient de l'hémocyanine, un pigment riche en cuivre.",
+      "wikipedia": "Octopoda"
+    },
+    {
+      "id": "nature-040",
+      "difficulty": 2,
+      "question": "Quel champignon au chapeau verdâtre cause la grande majorité des empoisonnements mortels par les champignons ?",
+      "answer": "amanite phalloïde",
+      "accept": ["phalloïde"],
+      "choices": ["cortinaire des montagnes", "lépiote brune", "bolet de Satan"],
+      "explanation": "Ses toxines détruisent le foie, et les premiers symptômes n'apparaissent que de longues heures après le repas, ce qui retarde souvent la prise en charge.",
+      "wikipedia": "Amanite phalloïde"
+    },
+    {
+      "id": "nature-041",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le réseau de filaments souterrains qui constitue la partie principale d'un champignon ?",
+      "answer": "mycélium",
+      "accept": ["mycéliums"],
+      "choices": ["sporophore", "rhizome", "lamelle"],
+      "explanation": "Ce que l'on cueille n'est que l'organe reproducteur ; certains mycéliums s'étendent sur des hectares et comptent parmi les plus grands organismes vivants connus.",
+      "wikipedia": "Mycélium"
+    },
+    {
+      "id": "nature-042",
+      "difficulty": 2,
+      "question": "Quel arbre, surnommé « arbre aux quarante écus », est considéré comme un fossile vivant ?",
+      "answer": "ginkgo",
+      "accept": ["ginkgo biloba", "gingko"],
+      "choices": ["séquoia géant", "araucaria", "tulipier"],
+      "explanation": "Seul survivant d'un groupe apparu il y a plus de 200 millions d'années, il a même résisté à Hiroshima, où des ginkgos proches de l'explosion ont repoussé.",
+      "wikipedia": "Ginkgo biloba"
+    },
+    {
+      "id": "nature-043",
+      "difficulty": 2,
+      "question": "Quel conifère de Californie détient le record de l'arbre le plus haut du monde, à plus de cent mètres ?",
+      "answer": "séquoia",
+      "accept": ["séquoia à feuilles d'if", "sequoia sempervirens", "séquoia toujours vert"],
+      "choices": ["douglas", "épicéa de Sitka", "pin à sucre"],
+      "explanation": "Son cousin le séquoia géant, de la Sierra Nevada, est moins haut mais plus massif : c'est l'arbre qui renferme le plus grand volume de bois au monde.",
+      "wikipedia": "Sequoia sempervirens"
+    },
+    {
+      "id": "nature-044",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le cri caractéristique des chouettes et des hiboux ?",
+      "answer": "hululement",
+      "accept": ["ululement", "hululer", "ululer", "hulule"],
+      "choices": ["croassement", "jacassement", "roucoulement"],
+      "explanation": "Contrairement à une idée répandue, le hibou se distingue de la chouette non par son cri mais par ses aigrettes, ces touffes de plumes en forme d'oreilles.",
+      "wikipedia": "Hululement"
+    },
+    {
+      "id": "nature-045",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le cri de la grenouille, à ne pas confondre avec celui du corbeau ?",
+      "answer": "coassement",
+      "accept": ["coasser", "coasse"],
+      "choices": ["croassement", "stridulation", "chuintement"],
+      "explanation": "Chez de nombreuses espèces, le mâle amplifie son chant grâce à des sacs vocaux qui se gonflent comme des bulles de part et d'autre de la gorge.",
+      "wikipedia": "Grenouille"
+    },
+    {
+      "id": "nature-046",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la femelle du lièvre, dont les petits sont des levrauts ?",
+      "answer": "hase",
+      "accept": [],
+      "choices": ["lapine", "laie", "chevrette"],
+      "explanation": "Contrairement à la lapine, elle met bas des petits déjà couverts de poils et les yeux ouverts, à même le sol, dans un simple creux appelé gîte.",
+      "wikipedia": "Lièvre d'Europe"
+    },
+    {
+      "id": "nature-047",
+      "difficulty": 2,
+      "question": "Chez quel poisson marin est-ce le mâle qui porte les œufs dans une poche ventrale jusqu'à la naissance ?",
+      "answer": "hippocampe",
+      "accept": ["hippocampes"],
+      "choices": ["poisson-clown", "murène", "rascasse"],
+      "explanation": "Son nom vient du grec hippos, « cheval », et kampos, « monstre marin » ; il nage en position verticale en ondulant sa petite nageoire dorsale.",
+      "wikipedia": "Hippocampe (poisson)"
+    },
+    {
+      "id": "nature-048",
+      "difficulty": 2,
+      "question": "Quel est le plus grand des cétacés à dents, célèbre pour ses plongées à plus de mille mètres ?",
+      "answer": "cachalot",
+      "accept": [],
+      "choices": ["orque", "narval", "béluga"],
+      "explanation": "Il possède le plus gros cerveau du règne animal, et c'est un cachalot blanc qui a inspiré à Herman Melville son roman Moby Dick.",
+      "wikipedia": "Cachalot"
+    },
+    {
+      "id": "nature-049",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la production de lumière par des êtres vivants comme les lucioles ou les poissons abyssaux ?",
+      "answer": "bioluminescence",
+      "accept": [],
+      "choices": ["phosphorescence", "fluorescence", "irisation"],
+      "explanation": "Elle repose le plus souvent sur une réaction chimique entre une molécule, la luciférine, et une enzyme, la luciférase, qui produit une lumière froide.",
+      "wikipedia": "Bioluminescence"
+    },
+    {
+      "id": "nature-050",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'immense forêt de conifères qui couvre le nord de la Russie, de la Scandinavie et du Canada ?",
+      "answer": "taïga",
+      "accept": ["taiga", "forêt boréale"],
+      "choices": ["toundra", "steppe", "pampa"],
+      "explanation": "Le mot vient du russe ; plus au nord, le froid devient trop intense pour les arbres, qui laissent place à la végétation rase de la toundra.",
+      "wikipedia": "Taïga"
+    },
+    {
+      "id": "nature-051",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la forêt littorale tropicale dont les arbres, les palétuviers, poussent les pieds dans l'eau salée ?",
+      "answer": "mangrove",
+      "accept": ["mangroves"],
+      "choices": ["ripisylve", "maquis", "garrigue"],
+      "explanation": "Les racines aériennes des palétuviers stabilisent les côtes, amortissent les vagues des tempêtes et servent de nurserie à de nombreux poissons.",
+      "wikipedia": "Mangrove"
+    },
+    {
+      "id": "nature-052",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un sol qui reste gelé en permanence pendant au moins deux années consécutives ?",
+      "answer": "pergélisol",
+      "accept": ["permafrost", "permagel"],
+      "choices": ["toundra", "moraine", "lœss"],
+      "explanation": "Très étendu en Sibérie et au Canada, il renferme d'énormes quantités de carbone organique qui risquent d'être libérées lorsqu'il dégèle.",
+      "wikipedia": "Pergélisol"
+    },
+    {
+      "id": "nature-053",
+      "difficulty": 2,
+      "question": "Quelle plante carnivore referme ses feuilles en mâchoires dentées sur les insectes qui les effleurent ?",
+      "answer": "dionée",
+      "accept": ["dionée attrape-mouche", "dionaea"],
+      "choices": ["népenthès", "drosera", "sarracénie"],
+      "explanation": "Le piège ne se referme que si des poils sensibles sont touchés deux fois en peu de temps, ce qui lui évite de se fermer pour une simple goutte de pluie.",
+      "wikipedia": "Dionée attrape-mouche"
+    },
+    {
+      "id": "nature-054",
+      "difficulty": 2,
+      "question": "Quelle épice très coûteuse est obtenue en récoltant à la main les stigmates d'une fleur de crocus ?",
+      "answer": "safran",
+      "accept": [],
+      "choices": ["curcuma", "cardamome", "muscade"],
+      "explanation": "Chaque fleur ne porte que trois stigmates : il faut donc plus de cent mille fleurs pour obtenir un seul kilo de safran sec.",
+      "wikipedia": "Safran (épice)"
+    },
+    {
+      "id": "nature-055",
+      "difficulty": 2,
+      "question": "De quel arbre originaire d'Amazonie récolte-t-on le latex servant à fabriquer le caoutchouc naturel ?",
+      "answer": "hévéa",
+      "accept": ["hevea"],
+      "choices": ["acajou", "teck", "palmier à huile"],
+      "explanation": "À la fin du XIXe siècle, des graines ont été emportées vers l'Asie du Sud-Est, devenue depuis la principale région productrice de caoutchouc naturel.",
+      "wikipedia": "Hévéa"
+    },
+    {
+      "id": "nature-056",
+      "difficulty": 2,
+      "question": "À quelle classe d'arthropodes appartiennent à la fois les araignées, les scorpions et les acariens ?",
+      "answer": "arachnides",
+      "accept": ["arachnide", "arachnida"],
+      "choices": ["insectes", "crustacés", "myriapodes"],
+      "explanation": "Les arachnides ont huit pattes et un corps en deux parties ; ils ne possèdent ni antennes ni ailes, contrairement aux insectes.",
+      "wikipedia": "Arachnida"
+    },
+    {
+      "id": "nature-057",
+      "difficulty": 2,
+      "question": "Quel oiseau marin possède la plus grande envergure de tous les oiseaux vivants, pouvant dépasser trois mètres ?",
+      "answer": "albatros hurleur",
+      "accept": ["grand albatros", "albatros"],
+      "choices": ["pélican blanc", "fou de Bassan", "frégate superbe"],
+      "explanation": "En exploitant les différences de vitesse du vent au-dessus des vagues, il parcourt des milliers de kilomètres presque sans battre des ailes.",
+      "wikipedia": "Albatros hurleur"
+    },
+    {
+      "id": "nature-058",
+      "difficulty": 2,
+      "question": "Quel oiseau de l'Antarctique, le plus grand des Sphéniscidés, couve son œuf sur ses pattes en plein hiver polaire ?",
+      "answer": "manchot empereur",
+      "accept": [],
+      "choices": ["manchot royal", "manchot Adélie", "manchot papou"],
+      "explanation": "C'est le mâle qui couve l'unique œuf pendant environ deux mois sans s'alimenter, serré contre les autres pour résister au blizzard.",
+      "wikipedia": "Manchot empereur"
+    },
+    {
+      "id": "nature-059",
+      "difficulty": 2,
+      "question": "Quel animal microscopique, surnommé « ourson d'eau », a survécu à une exposition au vide spatial ?",
+      "answer": "tardigrade",
+      "accept": ["tardigrades"],
+      "choices": ["rotifère", "copépode", "daphnie"],
+      "explanation": "Déshydraté, il entre en cryptobiose, un état de vie suspendue qui lui permet de résister au froid extrême, aux radiations et à des années sans eau.",
+      "wikipedia": "Tardigrada"
+    },
+    {
+      "id": "nature-060",
+      "difficulty": 2,
+      "question": "Quel amphibien mexicain conserve toute sa vie ses branchies externes et son aspect de larve ?",
+      "answer": "axolotl",
+      "accept": [],
+      "choices": ["triton", "salamandre", "cécilie"],
+      "explanation": "Ce phénomène s'appelle la néoténie. L'axolotl est aussi très étudié pour son étonnante capacité à régénérer ses membres et même certains organes.",
+      "wikipedia": "Axolotl"
+    },
+    {
+      "id": "nature-061",
+      "difficulty": 2,
+      "question": "Quel mammifère des forêts du Congo, aux pattes rayées de blanc, est le plus proche parent vivant de la girafe ?",
+      "answer": "okapi",
+      "accept": [],
+      "choices": ["bongo", "tapir", "sitatunga"],
+      "explanation": "Comme la girafe, l'okapi possède une très longue langue préhensile, capable d'arracher les feuilles et même de lui nettoyer les oreilles.",
+      "wikipedia": "Okapi"
+    },
+    {
+      "id": "nature-062",
+      "difficulty": 2,
+      "question": "Quel mammifère d'Afrique et d'Asie, entièrement couvert d'écailles, se nourrit de fourmis et de termites ?",
+      "answer": "pangolin",
+      "accept": ["pangolins"],
+      "choices": ["tatou", "oryctérope", "échidné"],
+      "explanation": "Ses écailles sont faites de kératine, comme nos ongles ; menacé, il se roule en boule, ce qui le protège de la plupart des prédateurs.",
+      "wikipedia": "Pangolin"
+    },
+    {
+      "id": "nature-063",
+      "difficulty": 2,
+      "question": "Chez quelle espèce de cervidé les femelles portent-elles des bois, tout comme les mâles ?",
+      "answer": "renne",
+      "accept": ["caribou"],
+      "choices": ["élan", "daim", "chevreuil"],
+      "explanation": "Appelé caribou en Amérique du Nord, le renne a été domestiqué par plusieurs peuples arctiques, comme les Samis, pour sa viande, son lait et le transport.",
+      "wikipedia": "Renne"
+    },
+    {
+      "id": "nature-064",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la faculté de s'orienter grâce aux ultrasons réfléchis, utilisée par les dauphins et la plupart des chauves-souris ?",
+      "answer": "écholocalisation",
+      "accept": ["écholocation"],
+      "choices": ["magnétoréception", "électroréception", "thermoréception"],
+      "explanation": "L'animal émet des cris très aigus et analyse le retour de leur écho pour localiser obstacles et proies, sur le même principe que le sonar des sous-marins.",
+      "wikipedia": "Écholocalisation"
+    },
+    {
+      "id": "nature-065",
+      "difficulty": 2,
+      "question": "Quel est le plus grand reptile actuel, capable de nager en haute mer entre les îles d'Asie et d'Océanie ?",
+      "answer": "crocodile marin",
+      "accept": ["crocodile de mer"],
+      "choices": ["alligator d'Amérique", "anaconda vert", "gavial du Gange"],
+      "explanation": "Les grands mâles dépassent cinq mètres de long. Il supporte l'eau salée grâce à des glandes situées sur la langue qui éliminent l'excès de sel.",
+      "wikipedia": "Crocodile marin"
+    },
+    {
+      "id": "nature-066",
+      "difficulty": 2,
+      "question": "De quel tissu est constitué le squelette des requins et des raies ?",
+      "answer": "cartilage",
+      "accept": ["cartilagineux", "cartilages"],
+      "choices": ["os", "chitine", "kératine"],
+      "explanation": "Plus léger que l'os, le cartilage aide ces poissons, dépourvus de vessie natatoire, à se maintenir dans l'eau, tout comme leur gros foie riche en huile.",
+      "wikipedia": "Chondrichthyes"
+    },
+    {
+      "id": "nature-067",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la vague qui remonte certains fleuves, comme la Dordogne, lors des grandes marées ?",
+      "answer": "mascaret",
+      "accept": ["mascarets"],
+      "choices": ["ressac", "clapot", "houle"],
+      "explanation": "Il naît quand la marée montante, freinée par le courant du fleuve, forme un front d'eau ; des surfeurs le chevauchent parfois sur plusieurs kilomètres.",
+      "wikipedia": "Mascaret"
+    },
+    {
+      "id": "nature-068",
+      "difficulty": 2,
+      "question": "Botaniquement, quel organe de réserve souterrain la pomme de terre est-elle ?",
+      "answer": "tubercule",
+      "accept": ["tubercules"],
+      "choices": ["racine", "bulbe", "rhizome"],
+      "explanation": "C'est une tige souterraine renflée et non une racine : les « yeux » de la pomme de terre sont des bourgeons capables de donner de nouvelles tiges.",
+      "wikipedia": "Pomme de terre"
+    },
+    {
+      "id": "nature-069",
+      "difficulty": 2,
+      "question": "Quel moustique transmet à l'homme le parasite responsable du paludisme ?",
+      "answer": "anophèle",
+      "accept": ["anophèles", "anopheles"],
+      "choices": ["moustique tigre", "culex", "phlébotome"],
+      "explanation": "Seules les femelles piquent, car elles ont besoin de sang pour produire leurs œufs ; le parasite transmis, le plasmodium, se multiplie ensuite dans le foie puis le sang.",
+      "wikipedia": "Anopheles"
+    },
+    {
+      "id": "nature-070",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le mâle de l'abeille domestique, dont le seul rôle est de féconder une reine ?",
+      "answer": "faux-bourdon",
+      "accept": ["faux bourdon", "faux-bourdons"],
+      "choices": ["frelon", "ouvrier", "guêpe"],
+      "explanation": "Né d'un œuf non fécondé, il ne possède pas de dard ; ceux qui survivent à la saison des amours sont chassés de la ruche à l'approche de l'hiver.",
+      "wikipedia": "Faux-bourdon"
+    },
+    {
+      "id": "nature-071",
+      "difficulty": 2,
+      "question": "Quel papillon orange et noir migre chaque année sur des milliers de kilomètres entre le Canada et le Mexique ?",
+      "answer": "monarque",
+      "accept": [],
+      "choices": ["vulcain", "machaon", "paon-du-jour"],
+      "explanation": "Aucun individu ne fait l'aller-retour : il faut plusieurs générations successives pour boucler le cycle migratoire, guidées notamment par la position du soleil.",
+      "wikipedia": "Monarque (papillon)"
+    },
+    {
+      "id": "nature-072",
+      "difficulty": 2,
+      "question": "Le ver luisant, qui brille l'été dans l'herbe, est en réalité la femelle de quel type d'insecte ?",
+      "answer": "coléoptère",
+      "accept": ["coléoptères", "lampyre"],
+      "choices": ["diptère", "lépidoptère", "hyménoptère"],
+      "explanation": "La femelle du lampyre, dépourvue d'ailes, illumine l'extrémité de son abdomen pour attirer les mâles, qui eux sont capables de voler.",
+      "wikipedia": "Lampyris noctiluca"
+    },
+    {
+      "id": "nature-073",
+      "difficulty": 3,
+      "question": "Comment qualifie-t-on le feuillage d'un arbre, comme le chêne pubescent, qui conserve ses feuilles mortes jusqu'au printemps ?",
+      "answer": "marcescent",
+      "accept": ["marcescente", "marcescence"],
+      "choices": ["caduc", "persistant", "sempervirent"],
+      "explanation": "Le charme et le jeune hêtre présentent aussi ce caractère : leurs feuilles sèches ne tombent qu'à l'arrivée des nouveaux bourgeons, ce qui en fait de bonnes haies d'hiver.",
+      "wikipedia": "Marcescence"
+    },
+    {
+      "id": "nature-074",
+      "difficulty": 3,
+      "question": "Quel oiseau marin effectue chaque année la plus longue migration connue, en reliant les deux régions polaires ?",
+      "answer": "sterne arctique",
+      "accept": [],
+      "choices": ["puffin fuligineux", "bécasseau maubèche", "labbe parasite"],
+      "explanation": "En suivant l'été d'un pôle à l'autre, elle profite de plus de lumière du jour que tout autre animal et parcourt des dizaines de milliers de kilomètres par an.",
+      "wikipedia": "Sterne arctique"
+    },
+    {
+      "id": "nature-075",
+      "difficulty": 3,
+      "question": "Quel oiseau européen peut rester en vol sans se poser pendant près de dix mois d'affilée ?",
+      "answer": "martinet noir",
+      "accept": ["martinet"],
+      "choices": ["hirondelle rustique", "guêpier d'Europe", "engoulevent d'Europe"],
+      "explanation": "Il mange, boit et dort en vol ; ses pattes minuscules lui servent surtout à s'accrocher, d'où son nom scientifique Apus, « sans pieds » en grec.",
+      "wikipedia": "Martinet noir"
+    },
+    {
+      "id": "nature-076",
+      "difficulty": 3,
+      "question": "Quel est le plus long serpent venimeux du monde, qui se nourrit principalement d'autres serpents ?",
+      "answer": "cobra royal",
+      "accept": ["hamadryade"],
+      "choices": ["mamba noir", "taïpan du désert", "vipère du Gabon"],
+      "explanation": "Il peut dépasser cinq mètres et dresser le tiers avant de son corps ; son nom scientifique, Ophiophagus hannah, signifie « mangeur de serpents ».",
+      "wikipedia": "Cobra royal"
+    },
+    {
+      "id": "nature-077",
+      "difficulty": 3,
+      "question": "Quel vent chaud et sec dévale les vallées alpines après avoir déchargé son humidité sur l'autre versant ?",
+      "answer": "foehn",
+      "accept": ["föhn", "fœhn"],
+      "choices": ["mistral", "sirocco", "tramontane"],
+      "explanation": "En descendant, l'air asséché se réchauffe par compression plus vite qu'il ne s'était refroidi en montant ; en allemand, le sèche-cheveux porte d'ailleurs son nom.",
+      "wikipedia": "Effet de foehn"
+    },
+    {
+      "id": "nature-078",
+      "difficulty": 3,
+      "question": "Quelle plante parasite d'Indonésie produit la plus grande fleur individuelle du monde, à l'odeur de viande pourrie ?",
+      "answer": "Rafflesia",
+      "accept": ["rafflésie", "Rafflesia arnoldii", "rafflésia"],
+      "choices": ["Victoria amazonica", "lotus sacré", "magnolia"],
+      "explanation": "Dépourvue de feuilles, de tiges et de racines, elle vit à l'intérieur d'une liane dont elle puise la sève ; sa fleur peut approcher un mètre de diamètre.",
+      "wikipedia": "Rafflesia arnoldii"
+    },
+    {
+      "id": "nature-079",
+      "difficulty": 3,
+      "question": "À quelle famille de plantes appartient le vanillier, dont les gousses fermentées donnent la vanille ?",
+      "answer": "orchidées",
+      "accept": ["orchidée", "orchidaceae", "orchidacées"],
+      "choices": ["liliacées", "fabacées", "rosacées"],
+      "explanation": "Hors du Mexique, sa fleur doit être pollinisée à la main : le procédé a été mis au point en 1841 par Edmond Albius, un jeune esclave de l'île de La Réunion.",
+      "wikipedia": "Vanille"
+    },
+    {
+      "id": "nature-080",
+      "difficulty": 3,
+      "question": "À quel groupe d'animaux appartient le cloporte, petit habitant des lieux humides et sombres ?",
+      "answer": "crustacés",
+      "accept": ["crustacé"],
+      "choices": ["insectes", "myriapodes", "arachnides"],
+      "explanation": "Cousins des crabes et des crevettes, les cloportes respirent grâce à des appendices dérivés de branchies, ce qui explique leur besoin d'humidité.",
+      "wikipedia": "Oniscidea"
+    },
+    {
+      "id": "nature-081",
+      "difficulty": 3,
+      "question": "Comment qualifie-t-on une plante dont le pollen est transporté d'une fleur à l'autre par les insectes ?",
+      "answer": "entomophile",
+      "accept": ["entomophiles", "entomogame"],
+      "choices": ["anémophile", "hydrophile", "ornithophile"],
+      "explanation": "Les plantes pollinisées par le vent ont souvent des fleurs discrètes ; celles qui dépendent des insectes les attirent par leurs couleurs, leur parfum et leur nectar.",
+      "wikipedia": "Entomophilie"
+    },
+    {
+      "id": "nature-082",
+      "difficulty": 3,
+      "question": "Quelle petite méduse est dite « immortelle » car elle peut retourner à son stade juvénile de polype ?",
+      "answer": "Turritopsis",
+      "accept": ["Turritopsis dohrnii", "Turritopsis nutricula"],
+      "choices": ["Aurelia aurita", "Pelagia noctiluca", "Chrysaora"],
+      "explanation": "En cas de stress ou de vieillissement, elle transforme ses cellules et redevient polype, recommençant ainsi son cycle de vie, en théorie indéfiniment.",
+      "wikipedia": "Turritopsis dohrnii"
+    },
+    {
+      "id": "nature-083",
+      "difficulty": 3,
+      "question": "Quel est le plus grand des chéloniens marins, dont la carapace souple est recouverte d'une peau coriace ?",
+      "answer": "tortue luth",
+      "accept": ["luth"],
+      "choices": ["tortue verte", "caouanne", "tortue imbriquée"],
+      "explanation": "Grande consommatrice de méduses, elle confond parfois les sacs plastiques avec ses proies ; elle est aussi capable de plonger à plus de mille mètres.",
+      "wikipedia": "Tortue luth"
+    },
+    {
+      "id": "nature-084",
+      "difficulty": 3,
+      "question": "Dans quelle région de l'Atlantique Nord les anguilles d'Europe partent-elles se reproduire ?",
+      "answer": "mer des Sargasses",
+      "accept": ["Sargasses"],
+      "choices": ["mer des Caraïbes", "mer d'Irlande", "mer du Labrador"],
+      "explanation": "Les larves, transparentes et en forme de feuille, dérivent ensuite pendant des mois avec les courants avant de remonter les rivières sous forme de civelles.",
+      "wikipedia": "Anguille d'Europe"
+    },
+    {
+      "id": "nature-085",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on une plante qui pousse sur une autre plante sans la parasiter, comme beaucoup de broméliacées ?",
+      "answer": "épiphyte",
+      "accept": ["épiphytes", "plante épiphyte"],
+      "choices": ["saprophyte", "halophyte", "xérophyte"],
+      "explanation": "Perchées sur les branches des forêts tropicales, ces plantes captent la lumière et puisent l'eau dans la pluie et l'humidité de l'air, non dans leur support.",
+      "wikipedia": "Épiphyte"
+    },
+    {
+      "id": "nature-086",
+      "difficulty": 3,
+      "question": "À quelle famille botanique appartiennent à la fois la tomate, la pomme de terre et l'aubergine ?",
+      "answer": "Solanacées",
+      "accept": ["solanaceae", "solanacée"],
+      "choices": ["Cucurbitacées", "Brassicacées", "Fabacées"],
+      "explanation": "Cette famille compte aussi des plantes très toxiques comme la belladone ou la mandragore, ce qui explique la méfiance initiale des Européens envers la tomate.",
+      "wikipedia": "Solanaceae"
+    },
+    {
+      "id": "nature-087",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on le fruit rouge de l'églantier, surnommé gratte-cul par les enfants ?",
+      "answer": "cynorhodon",
+      "accept": ["cynorrhodon"],
+      "choices": ["prunelle", "cenelle", "sorbe"],
+      "explanation": "Ses poils irritants ont longtemps servi de poil à gratter ; débarrassé de ses graines, il donne une confiture très riche en vitamine C.",
+      "wikipedia": "Cynorhodon"
+    },
+    {
+      "id": "nature-088",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les petits grains visibles à la surface d'une fraise, qui en sont les véritables fruits ?",
+      "answer": "akènes",
+      "accept": ["akène"],
+      "choices": ["drupes", "pépins", "baies"],
+      "explanation": "La partie charnue de la fraise est un réceptacle floral gonflé : botaniquement, c'est un faux fruit qui porte de nombreux petits fruits secs contenant chacun une graine.",
+      "wikipedia": "Akène"
+    },
+    {
+      "id": "nature-089",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on un groupe de sangliers formé de laies et de leurs jeunes ?",
+      "answer": "compagnie",
+      "accept": ["compagnies"],
+      "choices": ["harde", "meute", "horde"],
+      "explanation": "Les mâles adultes vivent le plus souvent à l'écart : on les appelle des solitaires, et ils ne rejoignent les femelles qu'à la période du rut.",
+      "wikipedia": "Sanglier"
+    },
+    {
+      "id": "nature-090",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la poche ventrale dans laquelle la femelle kangourou porte et allaite son petit ?",
+      "answer": "marsupium",
+      "accept": ["poche marsupiale"],
+      "choices": ["jabot", "cloaque", "patagium"],
+      "explanation": "Le petit naît minuscule après environ un mois de gestation, puis grimpe seul jusqu'à la poche où il s'accroche à une tétine pour poursuivre son développement.",
+      "wikipedia": "Marsupialia"
+    }
+  ]
+}

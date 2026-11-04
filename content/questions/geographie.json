@@ -1,0 +1,1793 @@
+{
+  "category": "geographie",
+  "questions": [
+    {
+      "id": "geographie-001",
+      "difficulty": 1,
+      "question": "Quel est le plus long fleuve coulant entièrement en France ?",
+      "answer": "Loire",
+      "accept": [],
+      "choices": [
+        "Seine",
+        "Rhône",
+        "Garonne"
+      ],
+      "explanation": "Elle prend sa source au mont Gerbier-de-Jonc, en Ardèche, et se jette dans l'Atlantique à Saint-Nazaire après avoir traversé Orléans, Tours et Nantes.",
+      "wikipedia": "Loire"
+    },
+    {
+      "id": "geographie-002",
+      "difficulty": 1,
+      "question": "Quel est le point culminant de la chaîne des Alpes ?",
+      "answer": "Mont Blanc",
+      "accept": [
+        "mont-Blanc"
+      ],
+      "choices": [
+        "Cervin",
+        "Mont Rose",
+        "Grand Paradis"
+      ],
+      "explanation": "Sa première ascension fut réalisée en 1786 par Jacques Balmat et le médecin Michel Paccard, partis de Chamonix.",
+      "wikipedia": "Mont Blanc"
+    },
+    {
+      "id": "geographie-003",
+      "difficulty": 1,
+      "question": "Quel détroit sépare la péninsule Ibérique du Maroc ?",
+      "answer": "Gibraltar",
+      "accept": [
+        "détroit de Gibraltar"
+      ],
+      "choices": [
+        "Bosphore",
+        "Messine",
+        "Ormuz"
+      ],
+      "explanation": "Dans l'Antiquité, ses deux rives étaient appelées les colonnes d'Hercule, marquant la limite du monde connu des Grecs.",
+      "wikipedia": "Détroit de Gibraltar"
+    },
+    {
+      "id": "geographie-004",
+      "difficulty": 1,
+      "question": "Quelle ville est surnommée « la Ville rose » en raison de la couleur de ses briques ?",
+      "answer": "Toulouse",
+      "accept": [],
+      "choices": [
+        "Albi",
+        "Montauban",
+        "Carcassonne"
+      ],
+      "explanation": "Faute de pierre dans la plaine garonnaise, la ville a été bâtie en briques de terre cuite, dont la teinte varie du rose à l'orangé.",
+      "wikipedia": "Toulouse"
+    },
+    {
+      "id": "geographie-005",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Saint-Étienne, dans la Loire ?",
+      "answer": "Stéphanois",
+      "accept": [],
+      "choices": [
+        "Ligériens",
+        "Forésiens",
+        "Gaga"
+      ],
+      "explanation": "Le gentilé vient de Stephanus, forme latine du prénom Étienne, d'où aussi le nom du club de football de l'AS Saint-Étienne, les Verts.",
+      "wikipedia": "Saint-Étienne"
+    },
+    {
+      "id": "geographie-006",
+      "difficulty": 1,
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "answer": "Sahara",
+      "accept": [],
+      "choices": [
+        "Kalahari",
+        "Gobi",
+        "Atacama"
+      ],
+      "explanation": "Son nom vient de l'arabe « ṣaḥrāʾ », qui signifie simplement « désert » : dire « désert du Sahara » est donc un pléonasme.",
+      "wikipedia": "Sahara"
+    },
+    {
+      "id": "geographie-007",
+      "difficulty": 1,
+      "question": "Quelle est la monnaie officielle du Japon ?",
+      "answer": "yen",
+      "accept": [],
+      "choices": [
+        "won",
+        "yuan",
+        "ringgit"
+      ],
+      "explanation": "Son nom signifie « objet rond » ; le yuan chinois et le won coréen partagent la même origine, le caractère désignant une pièce ronde.",
+      "wikipedia": "Yen"
+    },
+    {
+      "id": "geographie-008",
+      "difficulty": 1,
+      "question": "Dans quel pays se trouve la cité inca du Machu Picchu ?",
+      "answer": "Pérou",
+      "accept": [],
+      "choices": [
+        "Bolivie",
+        "Équateur",
+        "Chili"
+      ],
+      "explanation": "Perchée dans la cordillère des Andes au-dessus de la vallée de l'Urubamba, elle fut révélée au grand public par l'Américain Hiram Bingham en 1911.",
+      "wikipedia": "Machu Picchu"
+    },
+    {
+      "id": "geographie-009",
+      "difficulty": 1,
+      "question": "Quelle chaîne de montagnes forme une frontière naturelle entre la France et l'Espagne ?",
+      "answer": "Pyrénées",
+      "accept": [],
+      "choices": [
+        "Alpes",
+        "Cévennes",
+        "Monts Cantabriques"
+      ],
+      "explanation": "La petite principauté d'Andorre est nichée au cœur de cette chaîne, qui s'étend de l'Atlantique à la Méditerranée.",
+      "wikipedia": "Pyrénées"
+    },
+    {
+      "id": "geographie-010",
+      "difficulty": 1,
+      "question": "Dans quelle ville brésilienne la statue du Christ Rédempteur domine-t-elle la baie ?",
+      "answer": "Rio de Janeiro",
+      "accept": [
+        "Rio"
+      ],
+      "choices": [
+        "São Paulo",
+        "Brasília",
+        "Salvador"
+      ],
+      "explanation": "La statue se dresse au sommet du Corcovado ; sa tête et ses mains ont été sculptées par le Français Paul Landowski.",
+      "wikipedia": "Statue du Christ Rédempteur"
+    },
+    {
+      "id": "geographie-011",
+      "difficulty": 1,
+      "question": "Quelle île française de la Méditerranée est surnommée « l'île de Beauté » ?",
+      "answer": "Corse",
+      "accept": [],
+      "choices": [
+        "Sardaigne",
+        "Porquerolles",
+        "Île d'Elbe"
+      ],
+      "explanation": "Son point culminant, le Monte Cinto, dépasse 2 700 mètres : c'est l'île la plus montagneuse de la Méditerranée occidentale.",
+      "wikipedia": "Corse"
+    },
+    {
+      "id": "geographie-012",
+      "difficulty": 1,
+      "question": "Quel est le plus long fleuve d'Afrique ?",
+      "answer": "Nil",
+      "accept": [],
+      "choices": [
+        "Congo",
+        "Niger",
+        "Zambèze"
+      ],
+      "explanation": "Il naît de la réunion du Nil Blanc et du Nil Bleu à Khartoum, au Soudan, avant de traverser l'Égypte jusqu'à la Méditerranée.",
+      "wikipedia": "Nil"
+    },
+    {
+      "id": "geographie-013",
+      "difficulty": 1,
+      "question": "Quelle ville est la capitale de l'Australie ?",
+      "answer": "Canberra",
+      "accept": [],
+      "choices": [
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "explanation": "Créée de toutes pièces pour départager Sydney et Melbourne, qui se disputaient le titre, elle fut dessinée par les architectes américains Walter et Marion Griffin.",
+      "wikipedia": "Canberra"
+    },
+    {
+      "id": "geographie-014",
+      "difficulty": 1,
+      "question": "Quelle ville est la capitale du Canada ?",
+      "answer": "Ottawa",
+      "accept": [],
+      "choices": [
+        "Toronto",
+        "Montréal",
+        "Québec"
+      ],
+      "explanation": "Située en Ontario, à la frontière du Québec, elle fut choisie par la reine Victoria, notamment parce qu'elle était éloignée de la frontière américaine.",
+      "wikipedia": "Ottawa"
+    },
+    {
+      "id": "geographie-015",
+      "difficulty": 1,
+      "question": "Quel monument parisien fut bâti pour l'Exposition universelle de 1889 ?",
+      "answer": "tour Eiffel",
+      "accept": [],
+      "choices": [
+        "Arc de Triomphe",
+        "Grand Palais",
+        "Sacré-Cœur"
+      ],
+      "explanation": "Elle devait être démontée au bout de vingt ans ; son utilité pour la télégraphie sans fil contribua à la sauver.",
+      "wikipedia": "Tour Eiffel"
+    },
+    {
+      "id": "geographie-016",
+      "difficulty": 1,
+      "question": "Quel sommet de l'Himalaya est le plus haut du monde ?",
+      "answer": "Everest",
+      "accept": [
+        "mont Everest"
+      ],
+      "choices": [
+        "K2",
+        "Kangchenjunga",
+        "Lhotse"
+      ],
+      "explanation": "Les Tibétains l'appellent Chomolungma ; son nom occidental honore George Everest, ancien responsable du service géographique de l'Inde.",
+      "wikipedia": "Everest"
+    },
+    {
+      "id": "geographie-017",
+      "difficulty": 1,
+      "question": "Quel canal égyptien relie la mer Méditerranée à la mer Rouge ?",
+      "answer": "Suez",
+      "accept": [
+        "canal de Suez"
+      ],
+      "choices": [
+        "Panama",
+        "Corinthe",
+        "Kiel"
+      ],
+      "explanation": "Il fut percé sous la direction du Français Ferdinand de Lesseps et permet d'éviter le contournement de l'Afrique par le cap de Bonne-Espérance.",
+      "wikipedia": "Canal de Suez"
+    },
+    {
+      "id": "geographie-018",
+      "difficulty": 1,
+      "question": "Quel pays d'Asie est surnommé « le pays du Soleil-Levant » ?",
+      "answer": "Japon",
+      "accept": [],
+      "choices": [
+        "Chine",
+        "Corée du Sud",
+        "Taïwan"
+      ],
+      "explanation": "Le nom japonais du pays, Nihon ou Nippon, signifie littéralement « origine du soleil », car il se trouve à l'est de la Chine.",
+      "wikipedia": "Japon"
+    },
+    {
+      "id": "geographie-019",
+      "difficulty": 1,
+      "question": "Quel fleuve forme un delta en Camargue avant de se jeter dans la Méditerranée ?",
+      "answer": "Rhône",
+      "accept": [],
+      "choices": [
+        "Var",
+        "Hérault",
+        "Aude"
+      ],
+      "explanation": "Il se divise à Arles en deux bras, le Grand et le Petit Rhône, qui enserrent la Camargue et ses étangs.",
+      "wikipedia": "Camargue"
+    },
+    {
+      "id": "geographie-020",
+      "difficulty": 1,
+      "question": "Quelle terre arctique est considérée comme la plus grande île du monde ?",
+      "answer": "Groenland",
+      "accept": [],
+      "choices": [
+        "Nouvelle-Guinée",
+        "Bornéo",
+        "Madagascar"
+      ],
+      "explanation": "Son nom signifie « terre verte » : le Viking Erik le Rouge l'aurait choisi pour attirer des colons, alors que l'île est presque entièrement couverte de glace.",
+      "wikipedia": "Groenland"
+    },
+    {
+      "id": "geographie-021",
+      "difficulty": 1,
+      "question": "Quelle ville du Vaucluse est surnommée « la Cité des papes » ?",
+      "answer": "Avignon",
+      "accept": [],
+      "choices": [
+        "Orange",
+        "Arles",
+        "Carpentras"
+      ],
+      "explanation": "Plusieurs papes y résidèrent au XIVe siècle ; leur palais est l'un des plus grands édifices gothiques du monde.",
+      "wikipedia": "Avignon"
+    },
+    {
+      "id": "geographie-022",
+      "difficulty": 1,
+      "question": "Quelle étendue d'eau très salée, bordée par Israël et la Jordanie, permet de flotter sans effort ?",
+      "answer": "mer Morte",
+      "accept": [],
+      "choices": [
+        "mer Rouge",
+        "mer de Galilée",
+        "mer Caspienne"
+      ],
+      "explanation": "Ses rives constituent le point le plus bas des terres émergées, plus de 400 mètres sous le niveau de la mer.",
+      "wikipedia": "Mer Morte"
+    },
+    {
+      "id": "geographie-023",
+      "difficulty": 1,
+      "question": "Sur quelle île d'outre-mer se trouve le volcan du piton de la Fournaise ?",
+      "answer": "La Réunion",
+      "accept": [
+        "Réunion"
+      ],
+      "choices": [
+        "Martinique",
+        "Guadeloupe",
+        "Mayotte"
+      ],
+      "explanation": "C'est l'un des volcans les plus actifs du monde ; ses coulées de lave atteignent régulièrement l'océan dans le secteur du Grand Brûlé.",
+      "wikipedia": "Piton de la Fournaise"
+    },
+    {
+      "id": "geographie-024",
+      "difficulty": 1,
+      "question": "Quel pays nordique est surnommé « le pays des mille lacs » ?",
+      "answer": "Finlande",
+      "accept": [],
+      "choices": [
+        "Suède",
+        "Norvège",
+        "Estonie"
+      ],
+      "explanation": "Le surnom est même modeste : le pays compte en réalité des dizaines de milliers de lacs, issus du retrait des glaciers.",
+      "wikipedia": "Finlande"
+    },
+    {
+      "id": "geographie-025",
+      "difficulty": 1,
+      "question": "Quel grand fleuve européen traverse Vienne, Budapest et Belgrade ?",
+      "answer": "Danube",
+      "accept": [],
+      "choices": [
+        "Rhin",
+        "Elbe",
+        "Vistule"
+      ],
+      "explanation": "Il prend sa source dans la Forêt-Noire allemande et se jette dans la mer Noire par un vaste delta en Roumanie.",
+      "wikipedia": "Danube"
+    },
+    {
+      "id": "geographie-026",
+      "difficulty": 1,
+      "question": "Quelle ville est la capitale de l'Écosse ?",
+      "answer": "Édimbourg",
+      "accept": [
+        "Edinburgh"
+      ],
+      "choices": [
+        "Glasgow",
+        "Aberdeen",
+        "Dundee"
+      ],
+      "explanation": "Son château est perché sur un ancien volcan, et chaque été la ville accueille le plus grand festival des arts du spectacle du monde.",
+      "wikipedia": "Édimbourg"
+    },
+    {
+      "id": "geographie-027",
+      "difficulty": 1,
+      "question": "Quel pays d'Amérique du Sud doit son nom à la ligne imaginaire qui le traverse ?",
+      "answer": "Équateur",
+      "accept": [],
+      "choices": [
+        "Colombie",
+        "Pérou",
+        "Venezuela"
+      ],
+      "explanation": "Il possède aussi les îles Galápagos, dont la faune inspira à Charles Darwin sa théorie de l'évolution.",
+      "wikipedia": "Équateur (pays)"
+    },
+    {
+      "id": "geographie-028",
+      "difficulty": 1,
+      "question": "Quel fleuve d'Amérique du Sud est le plus puissant du monde par son débit ?",
+      "answer": "Amazone",
+      "accept": [],
+      "choices": [
+        "Orénoque",
+        "Paraná",
+        "São Francisco"
+      ],
+      "explanation": "Son nom viendrait des femmes guerrières que l'explorateur espagnol Francisco de Orellana affirma avoir combattues sur ses rives.",
+      "wikipedia": "Amazone (fleuve)"
+    },
+    {
+      "id": "geographie-029",
+      "difficulty": 1,
+      "question": "Quel désert s'étend sur le sud de la Mongolie et le nord de la Chine ?",
+      "answer": "Gobi",
+      "accept": [
+        "désert de Gobi"
+      ],
+      "choices": [
+        "Taklamakan",
+        "Thar",
+        "Kyzylkoum"
+      ],
+      "explanation": "Ce désert froid est riche en fossiles : l'expédition américaine de Roy Chapman Andrews y découvrit dans les années 1920 des nids d'œufs de dinosaures.",
+      "wikipedia": "Désert de Gobi"
+    },
+    {
+      "id": "geographie-030",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de la principauté de Monaco ?",
+      "answer": "Monégasques",
+      "accept": [
+        "Monegasques"
+      ],
+      "choices": [
+        "Monaciens",
+        "Monacais",
+        "Mentonnais"
+      ],
+      "explanation": "Les Monégasques de nationalité sont minoritaires dans la principauté, et ils ne paient pas d'impôt sur le revenu.",
+      "wikipedia": "Monaco"
+    },
+    {
+      "id": "geographie-031",
+      "difficulty": 1,
+      "question": "Quelle montagne de Tanzanie est le point culminant de l'Afrique ?",
+      "answer": "Kilimandjaro",
+      "accept": [],
+      "choices": [
+        "Mont Kenya",
+        "Ruwenzori",
+        "Mont Cameroun"
+      ],
+      "explanation": "Ce volcan isolé est couronné de glaciers malgré sa proximité avec l'équateur, mais ils reculent rapidement.",
+      "wikipedia": "Kilimandjaro"
+    },
+    {
+      "id": "geographie-032",
+      "difficulty": 1,
+      "question": "Quel pays est surnommé « l'île d'Émeraude » en raison de ses paysages verdoyants ?",
+      "answer": "Irlande",
+      "accept": [],
+      "choices": [
+        "Écosse",
+        "Pays de Galles",
+        "Islande"
+      ],
+      "explanation": "Le trèfle, symbole national, serait lié à saint Patrick, qui l'aurait utilisé pour expliquer la Trinité aux Irlandais.",
+      "wikipedia": "Irlande (pays)"
+    },
+    {
+      "id": "geographie-033",
+      "difficulty": 1,
+      "question": "Quel détroit sépare l'Europe de l'Asie au cœur d'Istanbul ?",
+      "answer": "Bosphore",
+      "accept": [],
+      "choices": [
+        "Dardanelles",
+        "Ormuz",
+        "Messine"
+      ],
+      "explanation": "Il relie la mer Noire à la mer de Marmara ; son nom grec signifierait « passage de la vache », en référence au mythe d'Io.",
+      "wikipedia": "Bosphore"
+    },
+    {
+      "id": "geographie-034",
+      "difficulty": 1,
+      "question": "Quel fleuve sacré de l'Inde arrose la ville de Varanasi, ou Bénarès ?",
+      "answer": "Gange",
+      "accept": [],
+      "choices": [
+        "Indus",
+        "Brahmapoutre",
+        "Yamuna"
+      ],
+      "explanation": "Les hindous viennent s'y baigner pour se purifier et y disperser les cendres des défunts, le long de grands escaliers appelés ghats.",
+      "wikipedia": "Gange"
+    },
+    {
+      "id": "geographie-035",
+      "difficulty": 1,
+      "question": "Quelle chaîne de montagnes marque traditionnellement la limite entre l'Europe et l'Asie en Russie ?",
+      "answer": "Oural",
+      "accept": [],
+      "choices": [
+        "Caucase",
+        "Altaï",
+        "Carpates"
+      ],
+      "explanation": "Ces montagnes anciennes et érodées sont riches en minerais ; des stèles y signalent aux voyageurs le passage d'un continent à l'autre.",
+      "wikipedia": "Oural"
+    },
+    {
+      "id": "geographie-036",
+      "difficulty": 1,
+      "question": "Quelle cordillère longe toute la côte occidentale de l'Amérique du Sud ?",
+      "answer": "Andes",
+      "accept": [
+        "cordillère des Andes"
+      ],
+      "choices": [
+        "Rocheuses",
+        "Sierra Madre",
+        "Appalaches"
+      ],
+      "explanation": "C'est la plus longue chaîne de montagnes continentale du monde ; elle traverse sept pays, du Venezuela à la Terre de Feu.",
+      "wikipedia": "Cordillère des Andes"
+    },
+    {
+      "id": "geographie-037",
+      "difficulty": 1,
+      "question": "Quel détroit sépare l'Asie de l'Amérique du Nord ?",
+      "answer": "Béring",
+      "accept": [
+        "détroit de Béring"
+      ],
+      "choices": [
+        "Magellan",
+        "Hudson",
+        "Davis"
+      ],
+      "explanation": "Lors des glaciations, la baisse du niveau des mers le transforma en un pont terrestre par lequel les premiers humains gagnèrent l'Amérique.",
+      "wikipedia": "Détroit de Béring"
+    },
+    {
+      "id": "geographie-038",
+      "difficulty": 1,
+      "question": "Quel volcan a enseveli les villes romaines de Pompéi et d'Herculanum ?",
+      "answer": "Vésuve",
+      "accept": [],
+      "choices": [
+        "Etna",
+        "Stromboli",
+        "Vulcano"
+      ],
+      "explanation": "Pline le Jeune décrivit l'éruption dans ses lettres, d'où le nom d'éruption « plinienne » donné aux explosions de ce type.",
+      "wikipedia": "Vésuve"
+    },
+    {
+      "id": "geographie-039",
+      "difficulty": 1,
+      "question": "Quelle île de l'océan Indien est surnommée « l'île Rouge » ?",
+      "answer": "Madagascar",
+      "accept": [],
+      "choices": [
+        "Maurice",
+        "Sri Lanka",
+        "Zanzibar"
+      ],
+      "explanation": "Le surnom vient de la latérite, une terre rouge qui colore ses sols et ses fleuves ; ses habitants sont les Malgaches.",
+      "wikipedia": "Madagascar"
+    },
+    {
+      "id": "geographie-040",
+      "difficulty": 1,
+      "question": "Quelle abbaye normande se dresse sur un îlot rocheux au cœur d'une baie à fortes marées ?",
+      "answer": "Mont-Saint-Michel",
+      "accept": [
+        "le Mont-Saint-Michel"
+      ],
+      "choices": [
+        "Jumièges",
+        "Fécamp",
+        "Saint-Wandrille"
+      ],
+      "explanation": "Le Couesnon, qui se jette dans la baie, marque la frontière entre la Normandie et la Bretagne, ce qui alimente une rivalité ancienne.",
+      "wikipedia": "Le Mont-Saint-Michel"
+    },
+    {
+      "id": "geographie-041",
+      "difficulty": 1,
+      "question": "Quel château de la Loire possède un célèbre escalier à double révolution ?",
+      "answer": "Chambord",
+      "accept": [
+        "château de Chambord"
+      ],
+      "choices": [
+        "Chenonceau",
+        "Amboise",
+        "Blois"
+      ],
+      "explanation": "Ses deux rampes s'enroulent l'une autour de l'autre sans jamais se croiser ; l'idée est souvent attribuée à Léonard de Vinci.",
+      "wikipedia": "Château de Chambord"
+    },
+    {
+      "id": "geographie-042",
+      "difficulty": 1,
+      "question": "Quel gouffre sous-marin du Pacifique ouest est le plus profond connu ?",
+      "answer": "fosse des Mariannes",
+      "accept": [
+        "Mariannes"
+      ],
+      "choices": [
+        "fosse des Tonga",
+        "fosse des Kouriles",
+        "fosse de Porto Rico"
+      ],
+      "explanation": "Son point le plus profond, le Challenger Deep, fut atteint pour la première fois en 1960 par le bathyscaphe Trieste.",
+      "wikipedia": "Fosse des Mariannes"
+    },
+    {
+      "id": "geographie-043",
+      "difficulty": 1,
+      "question": "Quel grand lac d'altitude des Andes est partagé entre le Pérou et la Bolivie ?",
+      "answer": "Titicaca",
+      "accept": [
+        "lac Titicaca"
+      ],
+      "choices": [
+        "Poopó",
+        "Atitlán",
+        "Junín"
+      ],
+      "explanation": "Le peuple uros y vit sur des îles flottantes fabriquées à partir de roseaux appelés totoras.",
+      "wikipedia": "Lac Titicaca"
+    },
+    {
+      "id": "geographie-044",
+      "difficulty": 1,
+      "question": "Quel massif montagneux sépare l'Alsace de la Lorraine ?",
+      "answer": "Vosges",
+      "accept": [
+        "massif des Vosges"
+      ],
+      "choices": [
+        "Jura",
+        "Morvan",
+        "Ardennes"
+      ],
+      "explanation": "Ses sommets arrondis sont appelés « ballons » ; la route des Crêtes fut tracée pendant la Première Guerre mondiale.",
+      "wikipedia": "Massif des Vosges"
+    },
+    {
+      "id": "geographie-045",
+      "difficulty": 1,
+      "question": "Quelle ville est surnommée « la Cité phocéenne » ?",
+      "answer": "Marseille",
+      "accept": [],
+      "choices": [
+        "Nice",
+        "Toulon",
+        "Sète"
+      ],
+      "explanation": "Elle fut fondée vers 600 av. J.-C. par des marins grecs venus de Phocée, en Asie Mineure, sous le nom de Massalia.",
+      "wikipedia": "Marseille"
+    },
+    {
+      "id": "geographie-046",
+      "difficulty": 1,
+      "question": "Quelle ville est surnommée « la capitale des Gaules » ?",
+      "answer": "Lyon",
+      "accept": [],
+      "choices": [
+        "Autun",
+        "Vienne",
+        "Reims"
+      ],
+      "explanation": "Fondée sous le nom de Lugdunum, elle fut la capitale de la Gaule lyonnaise et la ville natale de l'empereur Claude.",
+      "wikipedia": "Lyon"
+    },
+    {
+      "id": "geographie-047",
+      "difficulty": 1,
+      "question": "Dans quel département se trouve le parc du Puy du Fou ?",
+      "answer": "Vendée",
+      "accept": [],
+      "choices": [
+        "Charente-Maritime",
+        "Deux-Sèvres",
+        "Maine-et-Loire"
+      ],
+      "explanation": "Le parc est né d'un spectacle nocturne, la Cinéscénie, joué par des bénévoles devant le château en ruine du Puy du Fou.",
+      "wikipedia": "Puy du Fou"
+    },
+    {
+      "id": "geographie-048",
+      "difficulty": 1,
+      "question": "Quel fleuve traverse Bordeaux avant de rejoindre l'estuaire de la Gironde ?",
+      "answer": "Garonne",
+      "accept": [],
+      "choices": [
+        "Dordogne",
+        "Charente",
+        "Adour"
+      ],
+      "explanation": "Elle prend sa source en Espagne, dans le val d'Aran, et traverse Toulouse avant d'arriver à Bordeaux.",
+      "wikipedia": "Garonne"
+    },
+    {
+      "id": "geographie-049",
+      "difficulty": 2,
+      "question": "Quel fleuve d'Afrique de l'Ouest décrit une grande boucle passant près de Tombouctou ?",
+      "answer": "Niger",
+      "accept": [],
+      "choices": [
+        "Sénégal",
+        "Volta",
+        "Congo"
+      ],
+      "explanation": "Il prend sa source en Guinée, tout près de l'océan, mais s'en éloigne vers l'intérieur des terres avant de rejoindre le golfe de Guinée au Nigeria.",
+      "wikipedia": "Niger (fleuve)"
+    },
+    {
+      "id": "geographie-050",
+      "difficulty": 2,
+      "question": "Quel petit royaume est entièrement enclavé dans le territoire de l'Afrique du Sud ?",
+      "answer": "Lesotho",
+      "accept": [],
+      "choices": [
+        "Eswatini",
+        "Botswana",
+        "Namibie"
+      ],
+      "explanation": "Tout son territoire est situé à plus de 1 000 mètres d'altitude, ce qui lui vaut le surnom de « royaume dans le ciel ».",
+      "wikipedia": "Lesotho"
+    },
+    {
+      "id": "geographie-051",
+      "difficulty": 2,
+      "question": "Quel est le plus long fleuve d'Europe ?",
+      "answer": "Volga",
+      "accept": [],
+      "choices": [
+        "Danube",
+        "Dniepr",
+        "Rhin"
+      ],
+      "explanation": "Elle coule entièrement en Russie et se jette dans la mer Caspienne, une mer fermée sans communication avec l'océan.",
+      "wikipedia": "Volga"
+    },
+    {
+      "id": "geographie-052",
+      "difficulty": 2,
+      "question": "Quelle est la plus vaste terre insulaire bretonne, au large de Quiberon ?",
+      "answer": "Belle-Île-en-Mer",
+      "accept": [
+        "Belle-Île",
+        "Belle-Ile"
+      ],
+      "choices": [
+        "Ouessant",
+        "Groix",
+        "Bréhat"
+      ],
+      "explanation": "Ses habitants sont les Bellilois ; la comédienne Sarah Bernhardt y acheta un ancien fort où elle passa de nombreux étés.",
+      "wikipedia": "Belle-Île-en-Mer"
+    },
+    {
+      "id": "geographie-053",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les habitants de Besançon, chef-lieu du Doubs ?",
+      "answer": "Bisontins",
+      "accept": [],
+      "choices": [
+        "Bisonniens",
+        "Comtois",
+        "Doubiens"
+      ],
+      "explanation": "Le gentilé vient de Vesontio, nom antique de la ville cité par Jules César dans La Guerre des Gaules.",
+      "wikipedia": "Besançon"
+    },
+    {
+      "id": "geographie-054",
+      "difficulty": 2,
+      "question": "Quelle ville marocaine est surnommée « la Ville rouge » pour la couleur de ses remparts ?",
+      "answer": "Marrakech",
+      "accept": [],
+      "choices": [
+        "Fès",
+        "Meknès",
+        "Rabat"
+      ],
+      "explanation": "Sa place Jemaa el-Fna, animée de conteurs et de musiciens, a inspiré la création de la liste du patrimoine culturel immatériel de l'UNESCO.",
+      "wikipedia": "Marrakech"
+    },
+    {
+      "id": "geographie-055",
+      "difficulty": 2,
+      "question": "Quelle ville sud-africaine est dominée par la montagne de la Table ?",
+      "answer": "Le Cap",
+      "accept": [
+        "Cape Town"
+      ],
+      "choices": [
+        "Durban",
+        "Johannesburg",
+        "Port Elizabeth"
+      ],
+      "explanation": "Le sommet plat de la montagne est souvent recouvert d'un nuage étalé que les habitants appellent « la nappe ».",
+      "wikipedia": "Montagne de la Table"
+    },
+    {
+      "id": "geographie-056",
+      "difficulty": 2,
+      "question": "Quel sommet est le point culminant des Pyrénées ?",
+      "answer": "Aneto",
+      "accept": [
+        "pic d'Aneto"
+      ],
+      "choices": [
+        "Vignemale",
+        "Mont Perdu",
+        "Pic du Midi d'Ossau"
+      ],
+      "explanation": "Il se trouve en Espagne, dans le massif de la Maladeta, et porte le plus grand glacier de la chaîne.",
+      "wikipedia": "Aneto"
+    },
+    {
+      "id": "geographie-057",
+      "difficulty": 2,
+      "question": "Quel sommet volcanique est le point culminant du Massif central ?",
+      "answer": "puy de Sancy",
+      "accept": [
+        "Sancy"
+      ],
+      "choices": [
+        "puy de Dôme",
+        "plomb du Cantal",
+        "puy Mary"
+      ],
+      "explanation": "La Dordogne prend sa source sur ses pentes ; selon une étymologie populaire, son nom unirait deux ruisseaux, la Dore et la Dogne.",
+      "wikipedia": "Puy de Sancy"
+    },
+    {
+      "id": "geographie-058",
+      "difficulty": 2,
+      "question": "Quelle rivière rejoint la Garonne au bec d'Ambès pour former l'estuaire de la Gironde ?",
+      "answer": "Dordogne",
+      "accept": [],
+      "choices": [
+        "Lot",
+        "Tarn",
+        "Charente"
+      ],
+      "explanation": "L'estuaire ainsi formé est le plus vaste d'Europe occidentale ; il est remonté par un mascaret lors des grandes marées.",
+      "wikipedia": "Gironde (estuaire)"
+    },
+    {
+      "id": "geographie-059",
+      "difficulty": 2,
+      "question": "Quel grand lac traversé par le Rhône est partagé entre la France et la Suisse ?",
+      "answer": "Léman",
+      "accept": [
+        "lac Léman",
+        "lac de Genève"
+      ],
+      "choices": [
+        "lac d'Annecy",
+        "lac du Bourget",
+        "lac de Neuchâtel"
+      ],
+      "explanation": "Le jet d'eau de Genève, qui projette son eau à 140 mètres de hauteur, est devenu l'emblème de la ville.",
+      "wikipedia": "Léman"
+    },
+    {
+      "id": "geographie-060",
+      "difficulty": 2,
+      "question": "Quelle est la plus vaste étendue d'eau d'origine glaciaire entièrement située en France ?",
+      "answer": "lac du Bourget",
+      "accept": [
+        "Bourget"
+      ],
+      "choices": [
+        "lac d'Annecy",
+        "lac d'Hourtin-Carcans",
+        "lac de Serre-Ponçon"
+      ],
+      "explanation": "Situé en Savoie près d'Aix-les-Bains, il inspira à Lamartine son poème « Le Lac » ; contrairement à une idée reçue, ce n'est pas le plus grand lac naturel de France.",
+      "wikipedia": "Lac du Bourget"
+    },
+    {
+      "id": "geographie-061",
+      "difficulty": 2,
+      "question": "Quelle est la monnaie officielle de la Pologne ?",
+      "answer": "złoty",
+      "accept": [
+        "zloty"
+      ],
+      "choices": [
+        "forint",
+        "couronne",
+        "leu"
+      ],
+      "explanation": "Son nom signifie « doré » en polonais ; il est divisé en cent groszy. La Pologne n'a pas adopté l'euro.",
+      "wikipedia": "Złoty"
+    },
+    {
+      "id": "geographie-062",
+      "difficulty": 2,
+      "question": "Dans quel pays se trouve la cité antique de Pétra, taillée dans le grès rose ?",
+      "answer": "Jordanie",
+      "accept": [],
+      "choices": [
+        "Syrie",
+        "Liban",
+        "Israël"
+      ],
+      "explanation": "Capitale des Nabatéens, elle doit sa prospérité aux caravanes ; sa façade du Khazneh apparaît dans Indiana Jones et la Dernière Croisade.",
+      "wikipedia": "Pétra"
+    },
+    {
+      "id": "geographie-063",
+      "difficulty": 2,
+      "question": "Dans quel pays se trouvent les temples d'Angkor ?",
+      "answer": "Cambodge",
+      "accept": [],
+      "choices": [
+        "Thaïlande",
+        "Laos",
+        "Viêt Nam"
+      ],
+      "explanation": "Le temple d'Angkor Vat figure sur le drapeau du pays, un cas rare de monument représenté sur un drapeau national.",
+      "wikipedia": "Angkor"
+    },
+    {
+      "id": "geographie-064",
+      "difficulty": 2,
+      "question": "Dans quelle ville andalouse se trouve le palais de l'Alhambra ?",
+      "answer": "Grenade",
+      "accept": [],
+      "choices": [
+        "Séville",
+        "Cordoue",
+        "Malaga"
+      ],
+      "explanation": "Ce palais fut la résidence des derniers souverains musulmans d'Espagne, les Nasrides, jusqu'à la prise de la ville par les Rois catholiques en 1492.",
+      "wikipedia": "Alhambra (Grenade)"
+    },
+    {
+      "id": "geographie-065",
+      "difficulty": 2,
+      "question": "Quel département français a pour préfecture la ville d'Ajaccio ?",
+      "answer": "Corse-du-Sud",
+      "accept": [],
+      "choices": [
+        "Haute-Corse",
+        "Var",
+        "Alpes-Maritimes"
+      ],
+      "explanation": "La Corse fut divisée en deux départements en 1976 ; ceux-ci ont été numérotés 2A et 2B pour conserver le numéro 20.",
+      "wikipedia": "Corse-du-Sud"
+    },
+    {
+      "id": "geographie-066",
+      "difficulty": 2,
+      "question": "Quel département breton doit son nom à l'expression latine « finis terrae », la fin de la terre ?",
+      "answer": "Finistère",
+      "accept": [],
+      "choices": [
+        "Morbihan",
+        "Côtes-d'Armor",
+        "Ille-et-Vilaine"
+      ],
+      "explanation": "En breton, il s'appelle Penn-ar-Bed, qui signifie « le bout du monde » ; il compte le plus long littoral des départements métropolitains.",
+      "wikipedia": "Finistère"
+    },
+    {
+      "id": "geographie-067",
+      "difficulty": 2,
+      "question": "Quel département doit son nom à un golfe breton signifiant « petite mer » ?",
+      "answer": "Morbihan",
+      "accept": [],
+      "choices": [
+        "Finistère",
+        "Côtes-d'Armor",
+        "Loire-Atlantique"
+      ],
+      "explanation": "Selon la légende, le golfe compterait autant d'îles qu'il y a de jours dans l'année ; les plus grandes sont l'île aux Moines et l'île d'Arz.",
+      "wikipedia": "Morbihan"
+    },
+    {
+      "id": "geographie-068",
+      "difficulty": 2,
+      "question": "Quelle région regroupe notamment les départements du Nord, de la Somme et de l'Aisne ?",
+      "answer": "Hauts-de-France",
+      "accept": [],
+      "choices": [
+        "Normandie",
+        "Grand Est",
+        "Île-de-France"
+      ],
+      "explanation": "Elle est née en 2016 de la fusion du Nord-Pas-de-Calais et de la Picardie, et a pour chef-lieu Lille.",
+      "wikipedia": "Hauts-de-France"
+    },
+    {
+      "id": "geographie-069",
+      "difficulty": 2,
+      "question": "Quel grand fleuve traverse Bagdad, la capitale irakienne ?",
+      "answer": "Tigre",
+      "accept": [],
+      "choices": [
+        "Euphrate",
+        "Jourdain",
+        "Oronte"
+      ],
+      "explanation": "Avec l'Euphrate, il délimite la Mésopotamie, dont le nom grec signifie justement « le pays entre les fleuves ».",
+      "wikipedia": "Tigre (fleuve)"
+    },
+    {
+      "id": "geographie-070",
+      "difficulty": 2,
+      "question": "Quel est le plus long fleuve d'Asie ?",
+      "answer": "Yangzi Jiang",
+      "accept": [
+        "Yangzi",
+        "Yangtsé",
+        "Yang-Tsé-Kiang",
+        "Chang Jiang",
+        "fleuve Bleu"
+      ],
+      "choices": [
+        "Mékong",
+        "Huang He",
+        "Gange"
+      ],
+      "explanation": "Il est barré par le barrage des Trois-Gorges, la plus puissante centrale hydroélectrique du monde.",
+      "wikipedia": "Yangtsé"
+    },
+    {
+      "id": "geographie-071",
+      "difficulty": 2,
+      "question": "Quel désert côtier du nord du Chili est réputé l'un des plus arides du monde ?",
+      "answer": "Atacama",
+      "accept": [
+        "désert d'Atacama"
+      ],
+      "choices": [
+        "Namib",
+        "Sonora",
+        "Mojave"
+      ],
+      "explanation": "Son ciel très pur en fait l'un des meilleurs sites d'observation astronomique : l'Europe y a installé plusieurs grands télescopes.",
+      "wikipedia": "Désert d'Atacama"
+    },
+    {
+      "id": "geographie-072",
+      "difficulty": 2,
+      "question": "Quelle ville américaine est surnommée « la Ville des vents » ?",
+      "answer": "Chicago",
+      "accept": [],
+      "choices": [
+        "Boston",
+        "Détroit",
+        "Cleveland"
+      ],
+      "explanation": "Située au bord du lac Michigan, elle vit naître les premiers gratte-ciel après le grand incendie de 1871.",
+      "wikipedia": "Chicago"
+    },
+    {
+      "id": "geographie-073",
+      "difficulty": 2,
+      "question": "Quel détroit relie le golfe Persique au golfe d'Oman ?",
+      "answer": "Ormuz",
+      "accept": [
+        "détroit d'Ormuz"
+      ],
+      "choices": [
+        "Bab-el-Mandeb",
+        "Malacca",
+        "Bosphore"
+      ],
+      "explanation": "Une part considérable du pétrole mondial transite par ce passage étroit bordé par l'Iran et le sultanat d'Oman.",
+      "wikipedia": "Détroit d'Ormuz"
+    },
+    {
+      "id": "geographie-074",
+      "difficulty": 2,
+      "question": "Quel détroit du sud de l'Amérique porte le nom d'un navigateur portugais ?",
+      "answer": "Magellan",
+      "accept": [
+        "détroit de Magellan"
+      ],
+      "choices": [
+        "Drake",
+        "Béring",
+        "Le Maire"
+      ],
+      "explanation": "Magellan le franchit en 1520 lors du premier tour du monde, expédition qu'il ne termina pas puisqu'il fut tué aux Philippines.",
+      "wikipedia": "Détroit de Magellan"
+    },
+    {
+      "id": "geographie-075",
+      "difficulty": 2,
+      "question": "Quel petit État est enclavé dans l'Italie, outre le Vatican ?",
+      "answer": "Saint-Marin",
+      "accept": [],
+      "choices": [
+        "Monaco",
+        "Andorre",
+        "Malte"
+      ],
+      "explanation": "Perchée sur le mont Titano, cette république revendique le titre de plus ancienne république du monde encore existante.",
+      "wikipedia": "Saint-Marin"
+    },
+    {
+      "id": "geographie-076",
+      "difficulty": 2,
+      "question": "Quelle principauté pyrénéenne a pour coprinces un évêque espagnol et le président français ?",
+      "answer": "Andorre",
+      "accept": [],
+      "choices": [
+        "Monaco",
+        "Liechtenstein",
+        "Saint-Marin"
+      ],
+      "explanation": "Son évêque coprince est celui d'Urgell, en Catalogne ; la langue officielle de la principauté est le catalan.",
+      "wikipedia": "Andorre"
+    },
+    {
+      "id": "geographie-077",
+      "difficulty": 2,
+      "question": "Quelle langue romane est la quatrième langue nationale de la Suisse ?",
+      "answer": "romanche",
+      "accept": [],
+      "choices": [
+        "ladin",
+        "frioulan",
+        "occitan"
+      ],
+      "explanation": "Elle est surtout parlée dans le canton des Grisons, où elle se divise en plusieurs idiomes régionaux.",
+      "wikipedia": "Romanche"
+    },
+    {
+      "id": "geographie-078",
+      "difficulty": 2,
+      "question": "Avec quel royaume européen la France partage-t-elle l'île antillaise de Saint-Martin ?",
+      "answer": "Pays-Bas",
+      "accept": [],
+      "choices": [
+        "Royaume-Uni",
+        "Espagne",
+        "Danemark"
+      ],
+      "explanation": "La partie méridionale de l'île, Sint Maarten, est un État autonome du royaume des Pays-Bas ; la frontière est ouverte depuis le XVIIe siècle.",
+      "wikipedia": "Saint-Martin (île)"
+    },
+    {
+      "id": "geographie-079",
+      "difficulty": 2,
+      "question": "Quel cap sud-africain fut d'abord baptisé « cap des Tempêtes » ?",
+      "answer": "Bonne-Espérance",
+      "accept": [
+        "cap de Bonne-Espérance"
+      ],
+      "choices": [
+        "cap des Aiguilles",
+        "cap Vert",
+        "cap Guardafui"
+      ],
+      "explanation": "Bartolomeu Dias le doubla en 1488 ; le roi du Portugal lui donna son nom définitif, car il ouvrait la route des Indes.",
+      "wikipedia": "Cap de Bonne-Espérance"
+    },
+    {
+      "id": "geographie-080",
+      "difficulty": 2,
+      "question": "Quel promontoire de Terre de Feu marque traditionnellement l'extrémité sud de l'Amérique ?",
+      "answer": "cap Horn",
+      "accept": [
+        "Horn"
+      ],
+      "choices": [
+        "cap Froward",
+        "cap Finisterre",
+        "cap Nord"
+      ],
+      "explanation": "Son nom vient de la ville néerlandaise de Hoorn, patrie du navigateur Willem Schouten qui le franchit en 1616.",
+      "wikipedia": "Cap Horn"
+    },
+    {
+      "id": "geographie-081",
+      "difficulty": 2,
+      "question": "Quel archipel portugais de l'Atlantique a donné son nom à un célèbre anticyclone ?",
+      "answer": "Açores",
+      "accept": [],
+      "choices": [
+        "Madère",
+        "Canaries",
+        "Cap-Vert"
+      ],
+      "explanation": "Cette zone de hautes pressions, centrée en moyenne sur l'archipel, conditionne largement le temps estival de l'Europe de l'Ouest.",
+      "wikipedia": "Anticyclone des Açores"
+    },
+    {
+      "id": "geographie-082",
+      "difficulty": 2,
+      "question": "Quelle île des Grandes Antilles est partagée entre Haïti et la République dominicaine ?",
+      "answer": "Hispaniola",
+      "accept": [
+        "Saint-Domingue"
+      ],
+      "choices": [
+        "Cuba",
+        "Porto Rico",
+        "Jamaïque"
+      ],
+      "explanation": "Christophe Colomb y aborda lors de son premier voyage en 1492 et la baptisa « La Isla Española ».",
+      "wikipedia": "Hispaniola"
+    },
+    {
+      "id": "geographie-083",
+      "difficulty": 2,
+      "question": "Quelle île méditerranéenne est divisée de fait entre une partie grecque et une partie turque ?",
+      "answer": "Chypre",
+      "accept": [],
+      "choices": [
+        "Crète",
+        "Rhodes",
+        "Malte"
+      ],
+      "explanation": "Une zone tampon gérée par l'ONU, la « ligne verte », coupe l'île et sa capitale Nicosie depuis 1974.",
+      "wikipedia": "Chypre (pays)"
+    },
+    {
+      "id": "geographie-084",
+      "difficulty": 2,
+      "question": "À quel pays appartient l'île de Pâques, célèbre pour ses statues moaï ?",
+      "answer": "Chili",
+      "accept": [],
+      "choices": [
+        "Pérou",
+        "Équateur",
+        "Nouvelle-Zélande"
+      ],
+      "explanation": "Le navigateur hollandais Jakob Roggeveen la découvrit un dimanche de Pâques, en 1722, d'où son nom ; ses habitants l'appellent Rapa Nui.",
+      "wikipedia": "Île de Pâques"
+    },
+    {
+      "id": "geographie-085",
+      "difficulty": 2,
+      "question": "Quel château de la Loire enjambe le Cher grâce à une galerie bâtie sur un pont ?",
+      "answer": "Chenonceau",
+      "accept": [
+        "château de Chenonceau"
+      ],
+      "choices": [
+        "Azay-le-Rideau",
+        "Villandry",
+        "Ussé"
+      ],
+      "explanation": "Il est surnommé « le château des Dames », car plusieurs femmes l'ont façonné, dont Diane de Poitiers et Catherine de Médicis.",
+      "wikipedia": "Château de Chenonceau"
+    },
+    {
+      "id": "geographie-086",
+      "difficulty": 2,
+      "question": "Quelle cathédrale gothique possède la plus haute flèche de France ?",
+      "answer": "Rouen",
+      "accept": [
+        "cathédrale de Rouen"
+      ],
+      "choices": [
+        "Strasbourg",
+        "Chartres",
+        "Amiens"
+      ],
+      "explanation": "Sa flèche en fonte fut ajoutée au XIXe siècle ; Claude Monet a peint la façade de la cathédrale dans une célèbre série de toiles.",
+      "wikipedia": "Cathédrale Notre-Dame de Rouen"
+    },
+    {
+      "id": "geographie-087",
+      "difficulty": 2,
+      "question": "Quelles chutes du Zambèze les populations locales appellent-elles « la fumée qui gronde » ?",
+      "answer": "Victoria",
+      "accept": [
+        "chutes Victoria"
+      ],
+      "choices": [
+        "Iguazú",
+        "Niagara",
+        "Kaieteur"
+      ],
+      "explanation": "L'explorateur écossais David Livingstone fut le premier Européen à les décrire et les nomma en l'honneur de sa reine.",
+      "wikipedia": "Chutes Victoria"
+    },
+    {
+      "id": "geographie-088",
+      "difficulty": 2,
+      "question": "Dans quel département se trouve la dune du Pilat ?",
+      "answer": "Gironde",
+      "accept": [],
+      "choices": [
+        "Landes",
+        "Charente-Maritime",
+        "Vendée"
+      ],
+      "explanation": "Cette dune, la plus haute d'Europe, avance chaque année de quelques mètres vers l'intérieur des terres, engloutissant la forêt.",
+      "wikipedia": "Dune du Pilat"
+    },
+    {
+      "id": "geographie-089",
+      "difficulty": 2,
+      "question": "Quel nom l'écrivain Stéphen Liégeard donna-t-il au littoral de Nice, Cannes et Menton ?",
+      "answer": "Côte d'Azur",
+      "accept": [],
+      "choices": [
+        "Côte Vermeille",
+        "Riviera ligure",
+        "Côte Bleue"
+      ],
+      "explanation": "Liégeard, poète bourguignon, forgea l'expression dans un ouvrage paru en 1887, en clin d'œil à la Côte-d'Or, son département natal.",
+      "wikipedia": "Côte d'Azur"
+    },
+    {
+      "id": "geographie-090",
+      "difficulty": 2,
+      "question": "Quel glacier du massif du Mont-Blanc est le plus grand de France ?",
+      "answer": "Mer de Glace",
+      "accept": [],
+      "choices": [
+        "glacier d'Argentière",
+        "glacier des Bossons",
+        "glacier de Bionnassay"
+      ],
+      "explanation": "Ce complexe glaciaire est le troisième des Alpes en superficie, après les glaciers suisses d'Aletsch et du Gorner ; on l'atteint depuis Chamonix par le train du Montenvers.",
+      "wikipedia": "Mer de Glace"
+    },
+    {
+      "id": "geographie-091",
+      "difficulty": 2,
+      "question": "Quelle étendue d'eau salée d'Asie centrale a presque disparu à cause de l'irrigation du coton ?",
+      "answer": "mer d'Aral",
+      "accept": [
+        "Aral"
+      ],
+      "choices": [
+        "mer Caspienne",
+        "lac Balkhach",
+        "lac Issyk-Koul"
+      ],
+      "explanation": "Les fleuves Amou-Daria et Syr-Daria qui l'alimentaient ont été détournés à l'époque soviétique ; des bateaux échoués gisent aujourd'hui dans le désert.",
+      "wikipedia": "Mer d'Aral"
+    },
+    {
+      "id": "geographie-092",
+      "difficulty": 2,
+      "question": "Quel lac de Sibérie est le plus profond du monde ?",
+      "answer": "Baïkal",
+      "accept": [
+        "lac Baïkal"
+      ],
+      "choices": [
+        "Tanganyika",
+        "lac Supérieur",
+        "Ladoga"
+      ],
+      "explanation": "Il contient environ un cinquième de l'eau douce liquide de surface de la planète et abrite un phoque d'eau douce endémique, le nerpa.",
+      "wikipedia": "Lac Baïkal"
+    },
+    {
+      "id": "geographie-093",
+      "difficulty": 2,
+      "question": "Quel archipel disputé par l'Argentine et le Royaume-Uni doit son nom français aux marins de Saint-Malo ?",
+      "answer": "Malouines",
+      "accept": [
+        "îles Malouines",
+        "Falkland"
+      ],
+      "choices": [
+        "Orcades du Sud",
+        "Shetland du Sud",
+        "Géorgie du Sud"
+      ],
+      "explanation": "Les Argentins les appellent Malvinas et les Britanniques Falkland ; elles furent au cœur d'une guerre entre les deux pays en 1982.",
+      "wikipedia": "Îles Malouines"
+    },
+    {
+      "id": "geographie-094",
+      "difficulty": 2,
+      "question": "Quelle zone humide de l'Ouest de la France est surnommée « la Venise verte » ?",
+      "answer": "Marais poitevin",
+      "accept": [],
+      "choices": [
+        "Brière",
+        "Camargue",
+        "Dombes"
+      ],
+      "explanation": "On y circule en barque à fond plat dans un dédale de canaux bordés de frênes têtards, appelés « conches » et « rigoles ».",
+      "wikipedia": "Marais poitevin"
+    },
+    {
+      "id": "geographie-095",
+      "difficulty": 2,
+      "question": "Quelle ville est surnommée « le port de la Lune » en raison du méandre du fleuve qui la traverse ?",
+      "answer": "Bordeaux",
+      "accept": [],
+      "choices": [
+        "Nantes",
+        "Rouen",
+        "Bayonne"
+      ],
+      "explanation": "Le croissant formé par la Garonne figure sur ses armoiries ; ce port de la Lune est inscrit au patrimoine mondial depuis 2007.",
+      "wikipedia": "Bordeaux"
+    },
+    {
+      "id": "geographie-096",
+      "difficulty": 2,
+      "question": "Quel était le nom grec de la ville qui devint ensuite Constantinople puis Istanbul ?",
+      "answer": "Byzance",
+      "accept": [],
+      "choices": [
+        "Nicée",
+        "Chalcédoine",
+        "Smyrne"
+      ],
+      "explanation": "Selon la tradition, elle fut fondée par des colons de Mégare menés par Byzas ; l'Empire byzantin lui doit son nom.",
+      "wikipedia": "Byzance"
+    },
+    {
+      "id": "geographie-097",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les habitants de Charleville-Mézières, dans les Ardennes ?",
+      "answer": "Carolomacériens",
+      "accept": [],
+      "choices": [
+        "Carolomézièrois",
+        "Ardennais",
+        "Sedanais"
+      ],
+      "explanation": "Le gentilé associe Carolus, pour Charles de Gonzague, fondateur de Charleville, et Maceriae, nom latin de Mézières, deux villes fusionnées en 1966.",
+      "wikipedia": "Charleville-Mézières"
+    },
+    {
+      "id": "geographie-098",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les habitants du Puy-en-Velay, en Haute-Loire ?",
+      "answer": "Ponots",
+      "accept": [],
+      "choices": [
+        "Podots",
+        "Vellaves",
+        "Aniciens"
+      ],
+      "explanation": "La ville, étape majeure vers Saint-Jacques-de-Compostelle, est aussi réputée pour sa dentelle et sa lentille verte.",
+      "wikipedia": "Le Puy-en-Velay"
+    },
+    {
+      "id": "geographie-099",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les habitants de Pont-à-Mousson, en Meurthe-et-Moselle ?",
+      "answer": "Mussipontains",
+      "accept": [],
+      "choices": [
+        "Pontissaliens",
+        "Mousseloniens",
+        "Pontois"
+      ],
+      "explanation": "Le gentilé latinise le nom de la ville, Mussipontum ; la commune lorraine abrite l'ancienne abbaye des Prémontrés.",
+      "wikipedia": "Pont-à-Mousson"
+    },
+    {
+      "id": "geographie-100",
+      "difficulty": 3,
+      "question": "Avec quel pays la France partage-t-elle sa plus longue frontière terrestre ?",
+      "answer": "Brésil",
+      "accept": [],
+      "choices": [
+        "Espagne",
+        "Belgique",
+        "Suisse"
+      ],
+      "explanation": "La frontière franco-brésilienne sépare la Guyane de l'État d'Amapá ; elle suit notamment le fleuve Oyapock, franchi par un pont.",
+      "wikipedia": "Frontière entre le Brésil et la France"
+    },
+    {
+      "id": "geographie-101",
+      "difficulty": 3,
+      "question": "Quel pays est le seul à être traversé à la fois par l'équateur et par un tropique ?",
+      "answer": "Brésil",
+      "accept": [],
+      "choices": [
+        "Indonésie",
+        "Kenya",
+        "Colombie"
+      ],
+      "explanation": "L'équateur passe près de l'embouchure de l'Amazone, tandis que le tropique du Capricorne passe tout près de São Paulo.",
+      "wikipedia": "Tropique du Capricorne"
+    },
+    {
+      "id": "geographie-102",
+      "difficulty": 3,
+      "question": "Quel cap du Finistère est le point le plus occidental de la France continentale ?",
+      "answer": "pointe de Corsen",
+      "accept": [
+        "Corsen"
+      ],
+      "choices": [
+        "pointe du Raz",
+        "pointe Saint-Mathieu",
+        "pointe de Penmarc'h"
+      ],
+      "explanation": "Située sur la commune de Plouarzel, elle est moins connue que la pointe du Raz, souvent considérée à tort comme le bout de la France.",
+      "wikipedia": "Pointe de Corsen"
+    },
+    {
+      "id": "geographie-103",
+      "difficulty": 3,
+      "question": "Le long de quel État australien s'étend la Grande Barrière de corail ?",
+      "answer": "Queensland",
+      "accept": [],
+      "choices": [
+        "Nouvelle-Galles du Sud",
+        "Australie-Occidentale",
+        "Territoire du Nord"
+      ],
+      "explanation": "Ce récif, le plus grand ensemble corallien du monde, est visible depuis l'espace et souffre de blanchissements dus au réchauffement des eaux.",
+      "wikipedia": "Grande Barrière de corail"
+    },
+    {
+      "id": "geographie-104",
+      "difficulty": 3,
+      "question": "Quelle ville nouvelle est la capitale de la Birmanie depuis 2005 ?",
+      "answer": "Naypyidaw",
+      "accept": [
+        "Nay Pyi Taw",
+        "Naypyitaw"
+      ],
+      "choices": [
+        "Rangoun",
+        "Mandalay",
+        "Bagan"
+      ],
+      "explanation": "La junte militaire y transféra les ministères en secret depuis Rangoun ; son nom signifie « demeure des rois ».",
+      "wikipedia": "Naypyidaw"
+    },
+    {
+      "id": "geographie-105",
+      "difficulty": 3,
+      "question": "Quelle ville est la capitale de la Mongolie ?",
+      "answer": "Oulan-Bator",
+      "accept": [
+        "Oulan Bator",
+        "Ulaanbaatar"
+      ],
+      "choices": [
+        "Karakorum",
+        "Erdenet",
+        "Darkhan"
+      ],
+      "explanation": "Son nom signifie « héros rouge » ; on la cite souvent comme la capitale la plus froide du monde.",
+      "wikipedia": "Oulan-Bator"
+    },
+    {
+      "id": "geographie-106",
+      "difficulty": 3,
+      "question": "Quel détroit de Charente-Maritime sépare l'île de Ré de l'île d'Oléron ?",
+      "answer": "pertuis d'Antioche",
+      "accept": [
+        "Antioche"
+      ],
+      "choices": [
+        "pertuis de Maumusson",
+        "pertuis Breton",
+        "goulet de Fromentine"
+      ],
+      "explanation": "Le fort Boyard, achevé sous Napoléon III, se dresse au milieu de ce bras de mer, entre l'île d'Aix et l'île d'Oléron.",
+      "wikipedia": "Pertuis d'Antioche"
+    },
+    {
+      "id": "geographie-107",
+      "difficulty": 3,
+      "question": "Quel volcan des Canaries est le point culminant de l'Espagne ?",
+      "answer": "Teide",
+      "accept": [
+        "pic du Teide"
+      ],
+      "choices": [
+        "Mulhacén",
+        "Aneto",
+        "Veleta"
+      ],
+      "explanation": "Il se dresse sur l'île de Tenerife et son parc national figure parmi les plus visités d'Europe ; il dépasse 3 700 mètres.",
+      "wikipedia": "Teide"
+    },
+    {
+      "id": "geographie-108",
+      "difficulty": 3,
+      "question": "Quel sommet du Yukon est le plus haut du Canada ?",
+      "answer": "mont Logan",
+      "accept": [
+        "Logan"
+      ],
+      "choices": [
+        "mont Robson",
+        "mont Waddington",
+        "mont Columbia"
+      ],
+      "explanation": "Il porte le nom du géologue William Edmond Logan, fondateur de la Commission géologique du Canada ; il fut gravi pour la première fois en 1925.",
+      "wikipedia": "Mont Logan"
+    },
+    {
+      "id": "geographie-109",
+      "difficulty": 3,
+      "question": "Quelle ville est le chef-lieu de la Lozère ?",
+      "answer": "Mende",
+      "accept": [],
+      "choices": [
+        "Rodez",
+        "Privas",
+        "Florac"
+      ],
+      "explanation": "Petite préfecture du département le moins peuplé de France, elle est dominée par sa cathédrale gothique aux deux clochers inégaux.",
+      "wikipedia": "Mende"
+    },
+    {
+      "id": "geographie-110",
+      "difficulty": 3,
+      "question": "Quel désert chinois, situé dans le bassin du Tarim, est surnommé « la mer de la mort » ?",
+      "answer": "Taklamakan",
+      "accept": [
+        "Taklimakan",
+        "désert du Taklamakan"
+      ],
+      "choices": [
+        "Gobi",
+        "Lop Nor",
+        "Ordos"
+      ],
+      "explanation": "L'étymologie de son nom est incertaine ; les caravanes de la route de la soie le contournaient par des chapelets d'oasis au nord et au sud.",
+      "wikipedia": "Désert du Taklamakan"
+    },
+    {
+      "id": "geographie-111",
+      "difficulty": 3,
+      "question": "Quelle est la monnaie officielle du Viêt Nam ?",
+      "answer": "dong",
+      "accept": [
+        "đồng"
+      ],
+      "choices": [
+        "kip",
+        "riel",
+        "baht"
+      ],
+      "explanation": "Son nom signifie « cuivre » ou « bronze », en souvenir des anciennes pièces ; les billets sont aujourd'hui imprimés sur polymère.",
+      "wikipedia": "Dong (monnaie)"
+    },
+    {
+      "id": "geographie-112",
+      "difficulty": 3,
+      "question": "Quelle est la monnaie officielle de la Hongrie ?",
+      "answer": "forint",
+      "accept": [],
+      "choices": [
+        "lev",
+        "leu",
+        "kuna"
+      ],
+      "explanation": "Son nom vient de Florence, dont le florin d'or circulait au Moyen Âge dans toute l'Europe ; la Hongrie n'a pas adopté l'euro.",
+      "wikipedia": "Forint"
+    },
+    {
+      "id": "geographie-113",
+      "difficulty": 3,
+      "question": "Dans quel pays l'amharique est-il la principale langue de travail de l'État fédéral ?",
+      "answer": "Éthiopie",
+      "accept": [],
+      "choices": [
+        "Érythrée",
+        "Somalie",
+        "Soudan"
+      ],
+      "explanation": "Cette langue sémitique s'écrit avec un alphasyllabaire propre, le guèze, dont chaque signe note une consonne suivie d'une voyelle.",
+      "wikipedia": "Amharique"
+    },
+    {
+      "id": "geographie-114",
+      "difficulty": 3,
+      "question": "Quelle langue est, avec l'anglais, la langue officielle du Pakistan ?",
+      "answer": "ourdou",
+      "accept": [
+        "urdu"
+      ],
+      "choices": [
+        "hindi",
+        "pendjabi",
+        "pachto"
+      ],
+      "explanation": "Très proche du hindi à l'oral, il s'écrit pourtant avec un alphabet dérivé de l'arabe et du persan, de droite à gauche.",
+      "wikipedia": "Ourdou"
+    },
+    {
+      "id": "geographie-115",
+      "difficulty": 3,
+      "question": "Quelle langue amérindienne est, avec l'espagnol, officielle au Paraguay ?",
+      "answer": "guarani",
+      "accept": [],
+      "choices": [
+        "quechua",
+        "aymara",
+        "nahuatl"
+      ],
+      "explanation": "Le Paraguay est l'un des rares pays d'Amérique où une langue autochtone est parlée par la majorité de la population.",
+      "wikipedia": "Guarani (langue)"
+    },
+    {
+      "id": "geographie-116",
+      "difficulty": 3,
+      "question": "Quel bras de mer sépare l'Australie continentale de la Tasmanie ?",
+      "answer": "Bass",
+      "accept": [
+        "détroit de Bass"
+      ],
+      "choices": [
+        "Torres",
+        "Cook",
+        "Malacca"
+      ],
+      "explanation": "Il porte le nom du chirurgien de marine George Bass, qui prouva avec Matthew Flinders que la Tasmanie était une île.",
+      "wikipedia": "Détroit de Bass"
+    },
+    {
+      "id": "geographie-117",
+      "difficulty": 3,
+      "question": "Quel archipel des Terres australes françaises est surnommé « les îles de la Désolation » ?",
+      "answer": "Kerguelen",
+      "accept": [
+        "îles Kerguelen"
+      ],
+      "choices": [
+        "Crozet",
+        "Saint-Paul",
+        "Amsterdam"
+      ],
+      "explanation": "Découvertes par le navigateur breton Yves de Kerguelen en 1772, elles n'abritent que des scientifiques et des militaires, sans habitants permanents.",
+      "wikipedia": "Îles Kerguelen"
+    },
+    {
+      "id": "geographie-118",
+      "difficulty": 3,
+      "question": "Quel plateau aride du sud d'Israël occupe plus de la moitié du territoire du pays ?",
+      "answer": "Néguev",
+      "accept": [
+        "Negev"
+      ],
+      "choices": [
+        "Sinaï",
+        "Golan",
+        "Judée"
+      ],
+      "explanation": "David Ben Gourion, qui rêvait de le mettre en valeur, se retira dans un kibboutz de ce désert, à Sde Boker.",
+      "wikipedia": "Néguev"
+    },
+    {
+      "id": "geographie-119",
+      "difficulty": 3,
+      "question": "Dans quel pays se trouvent les ruines de Persépolis, capitale des rois achéménides ?",
+      "answer": "Iran",
+      "accept": [],
+      "choices": [
+        "Irak",
+        "Turquie",
+        "Syrie"
+      ],
+      "explanation": "Fondée par Darius Ier, la cité fut incendiée par Alexandre le Grand lors de sa conquête de l'Empire perse.",
+      "wikipedia": "Persépolis"
+    },
+    {
+      "id": "geographie-120",
+      "difficulty": 3,
+      "question": "Quelle rivière franchit l'aqueduc romain du pont du Gard ?",
+      "answer": "Gardon",
+      "accept": [
+        "Gard"
+      ],
+      "choices": [
+        "Hérault",
+        "Vidourle",
+        "Cèze"
+      ],
+      "explanation": "Cet aqueduc à trois niveaux d'arches acheminait l'eau d'Uzès jusqu'à Nîmes, avec une pente moyenne de quelques centimètres par kilomètre.",
+      "wikipedia": "Pont du Gard"
+    }
+  ]
+}

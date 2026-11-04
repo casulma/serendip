@@ -1,0 +1,1604 @@
+{
+  "category": "arts-litterature",
+  "questions": [
+    {
+      "id": "arts-litterature-001",
+      "difficulty": 1,
+      "question": "Quel chevalier errant imaginé par Cervantes combat des moulins à vent qu'il prend pour des géants ?",
+      "answer": "Don Quichotte",
+      "accept": [],
+      "choices": [
+        "Sancho Panza",
+        "Lazarillo de Tormes",
+        "Don Juan"
+      ],
+      "explanation": "Le roman de Miguel de Cervantes, publié en deux parties en 1605 et 1615, parodie les romans de chevalerie et passe pour l'un des premiers romans modernes.",
+      "wikipedia": "Don Quichotte"
+    },
+    {
+      "id": "arts-litterature-002",
+      "difficulty": 1,
+      "question": "Quel maître de la Renaissance italienne a peint le portrait de Mona Lisa, dit La Joconde ?",
+      "answer": "Léonard de Vinci",
+      "accept": [
+        "Vinci",
+        "Leonard de Vinci"
+      ],
+      "choices": [
+        "Michel-Ange",
+        "Raphaël",
+        "Titien"
+      ],
+      "explanation": "Peinte au début du XVIe siècle, La Joconde fut volée au Louvre en 1911 par Vincenzo Peruggia et ne fut retrouvée que deux ans plus tard, à Florence.",
+      "wikipedia": "La Joconde"
+    },
+    {
+      "id": "arts-litterature-003",
+      "difficulty": 1,
+      "question": "Quel écrivain écossais a créé le détective Sherlock Holmes et son fidèle compagnon, le docteur Watson ?",
+      "answer": "Arthur Conan Doyle",
+      "accept": [
+        "Conan Doyle"
+      ],
+      "choices": [
+        "Edgar Allan Poe",
+        "Wilkie Collins",
+        "Robert Louis Stevenson"
+      ],
+      "explanation": "Médecin de formation, Conan Doyle tenta de faire mourir son héros dans les chutes du Reichenbach, avant de le ressusciter sous la pression des lecteurs.",
+      "wikipedia": "Arthur Conan Doyle"
+    },
+    {
+      "id": "arts-litterature-004",
+      "difficulty": 1,
+      "question": "Quel personnage de Saint-Exupéry, venu de l'astéroïde B 612, rencontre un renard et un aviateur dans le désert ?",
+      "answer": "Petit Prince",
+      "accept": [
+        "Le Petit Prince"
+      ],
+      "choices": [
+        "Petit Chose",
+        "Grand Meaulnes",
+        "Petit Poucet"
+      ],
+      "explanation": "Publié en 1943 à New York, le conte est illustré d'aquarelles de l'auteur et compte parmi les livres les plus traduits au monde.",
+      "wikipedia": "Le Petit Prince"
+    },
+    {
+      "id": "arts-litterature-005",
+      "difficulty": 1,
+      "question": "Quel peintre néerlandais s'est tranché une partie de l'oreille gauche à Arles en décembre 1888 ?",
+      "answer": "Vincent van Gogh",
+      "accept": [
+        "Van Gogh"
+      ],
+      "choices": [
+        "Paul Gauguin",
+        "Piet Mondrian",
+        "Johannes Vermeer"
+      ],
+      "explanation": "La crise survint après une dispute avec Paul Gauguin, venu le rejoindre dans la Maison jaune ; Van Gogh connut très peu de succès de son vivant.",
+      "wikipedia": "Vincent van Gogh"
+    },
+    {
+      "id": "arts-litterature-006",
+      "difficulty": 1,
+      "question": "Quel mouvement pictural doit son nom à une toile de Claude Monet représentant le port du Havre au lever du jour ?",
+      "answer": "Impressionnisme",
+      "accept": [
+        "impressionnistes"
+      ],
+      "choices": [
+        "Fauvisme",
+        "Pointillisme",
+        "Réalisme"
+      ],
+      "explanation": "Le terme fut d'abord moqueur : le critique Louis Leroy l'employa en 1874 pour railler l'exposition organisée dans l'ancien atelier du photographe Nadar.",
+      "wikipedia": "Impressionnisme"
+    },
+    {
+      "id": "arts-litterature-007",
+      "difficulty": 1,
+      "question": "Quel ancien forçat des Misérables, condamné pour avoir volé du pain, est poursuivi sans relâche par l'inspecteur Javert ?",
+      "answer": "Jean Valjean",
+      "accept": [
+        "Valjean"
+      ],
+      "choices": [
+        "Marius Pontmercy",
+        "Enjolras",
+        "Monseigneur Myriel"
+      ],
+      "explanation": "Valjean passe dix-neuf ans au bagne de Toulon ; il devient ensuite, sous le nom de M. Madeleine, un industriel respecté et maire de Montreuil-sur-Mer.",
+      "wikipedia": "Jean Valjean"
+    },
+    {
+      "id": "arts-litterature-008",
+      "difficulty": 1,
+      "question": "Quel dramaturge anglais de l'époque élisabéthaine a écrit Roméo et Juliette et Le Songe d'une nuit d'été ?",
+      "answer": "William Shakespeare",
+      "accept": [
+        "Shakespeare"
+      ],
+      "choices": [
+        "Christopher Marlowe",
+        "Ben Jonson",
+        "John Milton"
+      ],
+      "explanation": "Ses pièces furent jouées au théâtre du Globe, à Londres ; on lui doit aussi 154 sonnets et de nombreux mots entrés dans la langue anglaise.",
+      "wikipedia": "William Shakespeare"
+    },
+    {
+      "id": "arts-litterature-009",
+      "difficulty": 1,
+      "question": "Quel sculpteur français a réalisé Le Penseur, figure conçue à l'origine pour couronner La Porte de l'Enfer ?",
+      "answer": "Auguste Rodin",
+      "accept": [
+        "Rodin"
+      ],
+      "choices": [
+        "Camille Claudel",
+        "Auguste Bartholdi",
+        "Aristide Maillol"
+      ],
+      "explanation": "La figure devait d'abord représenter Dante méditant sur son poème au-dessus des damnés ; elle fut ensuite agrandie et exposée comme une œuvre indépendante.",
+      "wikipedia": "Le Penseur"
+    },
+    {
+      "id": "arts-litterature-010",
+      "difficulty": 1,
+      "question": "Comment s'appelle le fox-terrier blanc qui accompagne le jeune reporter Tintin dans toutes ses aventures ?",
+      "answer": "Milou",
+      "accept": [],
+      "choices": [
+        "Idéfix",
+        "Rantanplan",
+        "Pif"
+      ],
+      "explanation": "Milou apparaît dès le premier album, Tintin au pays des Soviets, en 1929 ; dans les traductions anglaises, il porte le nom de Snowy.",
+      "wikipedia": "Milou"
+    },
+    {
+      "id": "arts-litterature-011",
+      "difficulty": 1,
+      "question": "Quel druide du village d'Astérix prépare la potion magique qui donne une force surhumaine aux Gaulois ?",
+      "answer": "Panoramix",
+      "accept": [],
+      "choices": [
+        "Abraracourcix",
+        "Assurancetourix",
+        "Agecanonix"
+      ],
+      "explanation": "Panoramix cueille le gui avec une serpe d'or ; seul Obélix est privé de potion, car il est tombé dedans quand il était petit.",
+      "wikipedia": "Panoramix"
+    },
+    {
+      "id": "arts-litterature-012",
+      "difficulty": 1,
+      "question": "Quel ingénieur a donné son nom à la tour de fer construite pour l'Exposition universelle de 1889 à Paris ?",
+      "answer": "Gustave Eiffel",
+      "accept": [
+        "Eiffel"
+      ],
+      "choices": [
+        "Maurice Koechlin",
+        "Ferdinand de Lesseps",
+        "Victor Baltard"
+      ],
+      "explanation": "Les premiers plans sont dus aux ingénieurs Maurice Koechlin et Émile Nouguier ; prévue pour durer vingt ans, la tour fut sauvée notamment par son utilité pour la radiotélégraphie.",
+      "wikipedia": "Tour Eiffel"
+    },
+    {
+      "id": "arts-litterature-013",
+      "difficulty": 1,
+      "question": "Quel artiste de la Renaissance a peint la voûte de la chapelle Sixtine, au Vatican, à la demande du pape Jules II ?",
+      "answer": "Michel-Ange",
+      "accept": [
+        "Michel Ange",
+        "Michelangelo"
+      ],
+      "choices": [
+        "Raphaël",
+        "Titien",
+        "Giotto"
+      ],
+      "explanation": "Michel-Ange peignit la voûte entre 1508 et 1512, puis revint plus de vingt ans après réaliser Le Jugement dernier sur le mur de l'autel.",
+      "wikipedia": "Chapelle Sixtine"
+    },
+    {
+      "id": "arts-litterature-014",
+      "difficulty": 1,
+      "question": "Quel fabuliste français a écrit Le Corbeau et le Renard et La Cigale et la Fourmi ?",
+      "answer": "Jean de La Fontaine",
+      "accept": [
+        "La Fontaine"
+      ],
+      "choices": [
+        "Jean-Pierre Claris de Florian",
+        "Charles Perrault",
+        "Nicolas Boileau"
+      ],
+      "explanation": "La Fontaine s'inspira largement des fabulistes antiques Ésope et Phèdre ; son premier recueil de fables fut dédié au Dauphin, fils de Louis XIV.",
+      "wikipedia": "Jean de La Fontaine"
+    },
+    {
+      "id": "arts-litterature-015",
+      "difficulty": 1,
+      "question": "Dans quel conte de Charles Perrault une jeune fille perd-elle sa pantoufle de verre en quittant le bal ?",
+      "answer": "Cendrillon",
+      "accept": [],
+      "choices": [
+        "Peau d'âne",
+        "La Belle au bois dormant",
+        "Le Petit Chaperon rouge"
+      ],
+      "explanation": "Le conte paraît en 1697 dans les Histoires ou contes du temps passé ; dans la version des frères Grimm, la marraine fée est remplacée par un arbre magique.",
+      "wikipedia": "Cendrillon"
+    },
+    {
+      "id": "arts-litterature-016",
+      "difficulty": 1,
+      "question": "Quel peintre a représenté en 1937 le bombardement d'une petite ville basque dans une immense toile en noir et blanc ?",
+      "answer": "Picasso",
+      "accept": [
+        "Pablo Picasso"
+      ],
+      "choices": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "Juan Gris"
+      ],
+      "explanation": "Commandée pour le pavillon espagnol de l'Exposition internationale de Paris, Guernica est conservée depuis 1992 au musée Reina Sofía de Madrid.",
+      "wikipedia": "Pablo Picasso"
+    },
+    {
+      "id": "arts-litterature-017",
+      "difficulty": 1,
+      "question": "Quel jeune cadet de Gascogne se lie d'amitié avec Athos, Porthos et Aramis dans le roman d'Alexandre Dumas ?",
+      "answer": "d'Artagnan",
+      "accept": [
+        "Artagnan",
+        "D'Artagnan"
+      ],
+      "choices": [
+        "Rochefort",
+        "Planchet",
+        "Tréville"
+      ],
+      "explanation": "Dumas s'inspira des Mémoires de M. d'Artagnan de Courtilz de Sandras, consacrés à un authentique officier des mousquetaires de Louis XIV.",
+      "wikipedia": "Les Trois Mousquetaires"
+    },
+    {
+      "id": "arts-litterature-018",
+      "difficulty": 1,
+      "question": "Quel sonneur de cloches bossu est amoureux de la bohémienne Esmeralda dans le roman de Victor Hugo ?",
+      "answer": "Quasimodo",
+      "accept": [],
+      "choices": [
+        "Claude Frollo",
+        "Pierre Gringoire",
+        "Phœbus"
+      ],
+      "explanation": "Recueilli enfant par l'archidiacre Frollo, il doit son nom au dimanche de Quasimodo, jour où il fut trouvé abandonné sur le parvis de la cathédrale.",
+      "wikipedia": "Quasimodo"
+    },
+    {
+      "id": "arts-litterature-019",
+      "difficulty": 1,
+      "question": "Quel roman de Gustave Flaubert raconte l'ennui et les rêves romanesques de l'épouse d'un médecin normand ?",
+      "answer": "Madame Bovary",
+      "accept": [],
+      "choices": [
+        "L'Éducation sentimentale",
+        "Salammbô",
+        "Une vie"
+      ],
+      "explanation": "À sa parution en 1857, le roman valut à Flaubert un procès pour outrage à la morale publique, qui se conclut par un acquittement.",
+      "wikipedia": "Madame Bovary"
+    },
+    {
+      "id": "arts-litterature-020",
+      "difficulty": 1,
+      "question": "Quel poète, condamné pour outrage à la morale publique, est l'auteur du recueil Les Fleurs du mal ?",
+      "answer": "Charles Baudelaire",
+      "accept": [
+        "Baudelaire"
+      ],
+      "choices": [
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Stéphane Mallarmé"
+      ],
+      "explanation": "Six poèmes jugés obscènes durent être retirés du recueil après le procès ; la condamnation ne fut annulée par la Cour de cassation qu'en 1949.",
+      "wikipedia": "Les Fleurs du mal"
+    },
+    {
+      "id": "arts-litterature-021",
+      "difficulty": 1,
+      "question": "Quelle marionnette de bois, imaginée par Carlo Collodi, voit son nez s'allonger à chaque mensonge ?",
+      "answer": "Pinocchio",
+      "accept": [],
+      "choices": [
+        "Geppetto",
+        "Polichinelle",
+        "Guignol"
+      ],
+      "explanation": "Le roman de Collodi parut d'abord en feuilleton à partir de 1881 ; le pantin y est sculpté par le vieux Geppetto dans une bûche qui parle.",
+      "wikipedia": "Pinocchio"
+    },
+    {
+      "id": "arts-litterature-022",
+      "difficulty": 1,
+      "question": "Quel peintre surréaliste catalan a peint les montres molles de La Persistance de la mémoire ?",
+      "answer": "Salvador Dalí",
+      "accept": [
+        "Dali",
+        "Dalí",
+        "Salvador Dali"
+      ],
+      "choices": [
+        "René Magritte",
+        "Joan Miró",
+        "Max Ernst"
+      ],
+      "explanation": "Excentrique à la moustache célèbre, Dalí créa dans sa ville natale de Figueras un théâtre-musée, sous lequel il est inhumé.",
+      "wikipedia": "Salvador Dalí"
+    },
+    {
+      "id": "arts-litterature-023",
+      "difficulty": 1,
+      "question": "Dans quelle tragédie de Shakespeare le prince de Danemark prononce-t-il le monologue « Être ou ne pas être » ?",
+      "answer": "Hamlet",
+      "accept": [],
+      "choices": [
+        "Macbeth",
+        "Othello",
+        "Le Roi Lear"
+      ],
+      "explanation": "Le héros veut venger son père, assassiné par son oncle Claudius ; la pièce se déroule à Elseneur, où se dresse le château de Kronborg.",
+      "wikipedia": "Hamlet"
+    },
+    {
+      "id": "arts-litterature-024",
+      "difficulty": 1,
+      "question": "Quel poète gascon au long nez, héros d'Edmond Rostand, écrit des lettres d'amour à Roxane pour le compte de Christian ?",
+      "answer": "Cyrano de Bergerac",
+      "accept": [
+        "Cyrano"
+      ],
+      "choices": [
+        "Chantecler",
+        "L'Aiglon",
+        "Don César de Bazan"
+      ],
+      "explanation": "Rostand s'inspira d'un écrivain réel du XVIIe siècle, Savinien de Cyrano de Bergerac ; la pièce fut un triomphe dès sa création en 1897.",
+      "wikipedia": "Edmond Rostand"
+    },
+    {
+      "id": "arts-litterature-025",
+      "difficulty": 1,
+      "question": "Quelle basilique de Barcelone, commencée en 1882, est l'œuvre la plus célèbre de l'architecte Antoni Gaudí ?",
+      "answer": "Sagrada Família",
+      "accept": [
+        "Sagrada Familia"
+      ],
+      "choices": [
+        "Casa Milà",
+        "Park Güell",
+        "Palau Güell"
+      ],
+      "explanation": "Gaudí y consacra plus de quarante ans et y est enterré ; à sa mort en 1926, seule une petite partie de l'édifice était achevée.",
+      "wikipedia": "Sagrada Família"
+    },
+    {
+      "id": "arts-litterature-026",
+      "difficulty": 1,
+      "question": "Quel hobbit doit détruire l'Anneau unique dans la Montagne du Destin, dans Le Seigneur des anneaux de Tolkien ?",
+      "answer": "Frodon",
+      "accept": [
+        "Frodon Sacquet",
+        "Frodo"
+      ],
+      "choices": [
+        "Bilbon",
+        "Pippin",
+        "Merry"
+      ],
+      "explanation": "Frodon hérite de l'Anneau de son cousin Bilbon ; il est accompagné tout au long de sa quête par son fidèle jardinier, Samsagace Gamegie.",
+      "wikipedia": "Frodo Bessac"
+    },
+    {
+      "id": "arts-litterature-027",
+      "difficulty": 1,
+      "question": "Quelle œuvre monumentale, offerte par la France aux États-Unis, a été réalisée par le sculpteur Auguste Bartholdi ?",
+      "answer": "Statue de la Liberté",
+      "accept": [
+        "La Liberté éclairant le monde"
+      ],
+      "choices": [
+        "Le Lion de Belfort",
+        "Le Génie de la Bastille",
+        "Le Christ Rédempteur"
+      ],
+      "explanation": "Son nom officiel est La Liberté éclairant le monde ; sa structure métallique interne fut conçue par les ateliers de Gustave Eiffel.",
+      "wikipedia": "Statue de la Liberté"
+    },
+    {
+      "id": "arts-litterature-028",
+      "difficulty": 1,
+      "question": "Quel naufragé de Daniel Defoe survit des années sur une île déserte avant de rencontrer Vendredi ?",
+      "answer": "Robinson Crusoé",
+      "accept": [
+        "Robinson"
+      ],
+      "choices": [
+        "Lemuel Gulliver",
+        "Long John Silver",
+        "Tom Sawyer"
+      ],
+      "explanation": "Defoe s'inspira probablement du marin écossais Alexander Selkirk, qui vécut seul plus de quatre ans sur une île de l'archipel Juan Fernández.",
+      "wikipedia": "Robinson Crusoé"
+    },
+    {
+      "id": "arts-litterature-029",
+      "difficulty": 1,
+      "question": "Quel peintre a représenté inlassablement les nénuphars du bassin de son jardin de Giverny ?",
+      "answer": "Claude Monet",
+      "accept": [
+        "Monet"
+      ],
+      "choices": [
+        "Auguste Renoir",
+        "Édouard Manet",
+        "Camille Pissarro"
+      ],
+      "explanation": "Les grands panneaux des Nymphéas, offerts à l'État au lendemain de l'armistice de 1918, sont exposés dans deux salles ovales du musée de l'Orangerie.",
+      "wikipedia": "Les Nymphéas"
+    },
+    {
+      "id": "arts-litterature-030",
+      "difficulty": 1,
+      "question": "Quel marin colérique des aventures de Tintin s'écrie « Mille millions de mille sabords ! » ?",
+      "answer": "Capitaine Haddock",
+      "accept": [
+        "Haddock",
+        "Archibald Haddock"
+      ],
+      "choices": [
+        "Professeur Tournesol",
+        "Séraphin Lampion",
+        "Nestor"
+      ],
+      "explanation": "Il apparaît dans Le Crabe aux pinces d'or ; son prénom, Archibald, n'est révélé que dans le dernier album achevé, Tintin et les Picaros.",
+      "wikipedia": "Capitaine Haddock"
+    },
+    {
+      "id": "arts-litterature-031",
+      "difficulty": 1,
+      "question": "Quel roman de George Orwell décrit une société totalitaire placée sous la surveillance de Big Brother ?",
+      "answer": "1984",
+      "accept": [
+        "Mil neuf cent quatre-vingt-quatre"
+      ],
+      "choices": [
+        "La Ferme des animaux",
+        "Le Meilleur des mondes",
+        "Fahrenheit 451"
+      ],
+      "explanation": "Publié en 1949, le roman a popularisé la novlangue et la police de la pensée ; Orwell est le pseudonyme d'Eric Arthur Blair.",
+      "wikipedia": "1984 (roman)"
+    },
+    {
+      "id": "arts-litterature-032",
+      "difficulty": 1,
+      "question": "Quel cow-boy solitaire de la bande dessinée, créé par Morris, tire plus vite que son ombre ?",
+      "answer": "Lucky Luke",
+      "accept": [],
+      "choices": [
+        "Blueberry",
+        "Jerry Spring",
+        "Buddy Longway"
+      ],
+      "explanation": "René Goscinny en fut le scénariste pendant une vingtaine d'années ; le héros a fini par troquer sa cigarette contre un brin d'herbe.",
+      "wikipedia": "Lucky Luke"
+    },
+    {
+      "id": "arts-litterature-033",
+      "difficulty": 1,
+      "question": "Quel peintre norvégien a peint Le Cri, une figure angoissée sur un pont sous un ciel rouge sang ?",
+      "answer": "Edvard Munch",
+      "accept": [
+        "Munch"
+      ],
+      "choices": [
+        "Egon Schiele",
+        "James Ensor",
+        "Emil Nolde"
+      ],
+      "explanation": "Munch en réalisa plusieurs versions ; deux d'entre elles furent volées à Oslo, en 1994 puis en 2004, avant d'être retrouvées.",
+      "wikipedia": "Le Cri"
+    },
+    {
+      "id": "arts-litterature-034",
+      "difficulty": 1,
+      "question": "Quel philosophe des Lumières a écrit le conte Candide ou l'Optimisme, publié anonymement en 1759 ?",
+      "answer": "Voltaire",
+      "accept": [],
+      "choices": [
+        "Jean-Jacques Rousseau",
+        "Denis Diderot",
+        "Montesquieu"
+      ],
+      "explanation": "Voltaire, de son vrai nom François-Marie Arouet, y raille l'optimisme de Leibniz ; le conte se termine par « il faut cultiver notre jardin ».",
+      "wikipedia": "Candide"
+    },
+    {
+      "id": "arts-litterature-035",
+      "difficulty": 1,
+      "question": "Quel philosophe a formulé « Je pense, donc je suis » dans son Discours de la méthode ?",
+      "answer": "René Descartes",
+      "accept": [
+        "Descartes"
+      ],
+      "choices": [
+        "Blaise Pascal",
+        "Baruch Spinoza",
+        "Gottfried Wilhelm Leibniz"
+      ],
+      "explanation": "Le Discours fut écrit en français et non en latin ; la formule latine « cogito, ergo sum » n'apparaît que plus tard, dans les Principes de la philosophie.",
+      "wikipedia": "René Descartes"
+    },
+    {
+      "id": "arts-litterature-036",
+      "difficulty": 1,
+      "question": "Quel poète grec est traditionnellement considéré comme l'auteur de L'Iliade et de L'Odyssée ?",
+      "answer": "Homère",
+      "accept": [],
+      "choices": [
+        "Hésiode",
+        "Sophocle",
+        "Pindare"
+      ],
+      "explanation": "La tradition le représente aveugle ; son existence même est discutée, et l'on parle de « question homérique » à propos de l'origine de ces épopées.",
+      "wikipedia": "Homère"
+    },
+    {
+      "id": "arts-litterature-037",
+      "difficulty": 1,
+      "question": "Dans quelle ville italienne se déroule l'histoire de Roméo et Juliette, entre Montaigu et Capulet ?",
+      "answer": "Vérone",
+      "accept": [
+        "Verone"
+      ],
+      "choices": [
+        "Venise",
+        "Padoue",
+        "Mantoue"
+      ],
+      "explanation": "Banni après avoir tué Tybalt, Roméo se réfugie à Mantoue ; Vérone attire de nombreux visiteurs vers une maison présentée comme celle de Juliette, avec son balcon.",
+      "wikipedia": "Roméo et Juliette"
+    },
+    {
+      "id": "arts-litterature-038",
+      "difficulty": 1,
+      "question": "Quel peintre romantique a peint La Liberté guidant le peuple pour évoquer les Trois Glorieuses de 1830 ?",
+      "answer": "Eugène Delacroix",
+      "accept": [
+        "Delacroix"
+      ],
+      "choices": [
+        "Théodore Géricault",
+        "Jean-Auguste-Dominique Ingres",
+        "Gustave Courbet"
+      ],
+      "explanation": "La figure allégorique coiffée d'un bonnet phrygien est devenue une incarnation de Marianne ; achetée par l'État, la toile fut pourtant longtemps cachée au public.",
+      "wikipedia": "La Liberté guidant le peuple"
+    },
+    {
+      "id": "arts-litterature-039",
+      "difficulty": 1,
+      "question": "Quelle forme poétique japonaise très brève compte trois vers de cinq, sept et cinq syllabes ?",
+      "answer": "Haïku",
+      "accept": [
+        "haiku",
+        "haïkaï"
+      ],
+      "choices": [
+        "Tanka",
+        "Renga",
+        "Sonnet"
+      ],
+      "explanation": "Le poète Bashō, au XVIIe siècle, en est le maître le plus célèbre ; un haïku traditionnel contient un mot évoquant la saison, appelé kigo.",
+      "wikipedia": "Haïku"
+    },
+    {
+      "id": "arts-litterature-040",
+      "difficulty": 1,
+      "question": "Combien de vers compte un sonnet classique, réparti en deux quatrains suivis de deux tercets ?",
+      "answer": "Quatorze",
+      "accept": [
+        "14"
+      ],
+      "choices": [
+        "Douze",
+        "Seize",
+        "Dix"
+      ],
+      "explanation": "Venu d'Italie, où Pétrarque l'illustra, le sonnet fut acclimaté en France au XVIe siècle par Clément Marot puis par les poètes de la Pléiade.",
+      "wikipedia": "Sonnet"
+    },
+    {
+      "id": "arts-litterature-041",
+      "difficulty": 2,
+      "question": "Quel architecte sino-américain a conçu la pyramide de verre inaugurée en 1989 dans la cour Napoléon, à Paris ?",
+      "answer": "Ieoh Ming Pei",
+      "accept": [
+        "Pei",
+        "I. M. Pei",
+        "I.M. Pei"
+      ],
+      "choices": [
+        "Renzo Piano",
+        "Frank Gehry",
+        "Jean Nouvel"
+      ],
+      "explanation": "Voulue par François Mitterrand dans le cadre du projet du Grand Louvre, la pyramide sert d'entrée principale au musée et fut vivement critiquée lors de sa construction.",
+      "wikipedia": "Pyramide du Louvre"
+    },
+    {
+      "id": "arts-litterature-042",
+      "difficulty": 2,
+      "question": "Quel personnage de Molière, d'une avarice maladive, se lamente sur la cassette qu'on lui a dérobée ?",
+      "answer": "Harpagon",
+      "accept": [],
+      "choices": [
+        "Tartuffe",
+        "Alceste",
+        "Argan"
+      ],
+      "explanation": "Pour L'Avare, Molière s'inspira de l'Aulularia de Plaute ; le nom d'Harpagon est devenu un nom commun désignant un homme très avare.",
+      "wikipedia": "L'Avare"
+    },
+    {
+      "id": "arts-litterature-043",
+      "difficulty": 2,
+      "question": "Quel tableau de René Magritte montre une pipe accompagnée de l'inscription « Ceci n'est pas une pipe » ?",
+      "answer": "La Trahison des images",
+      "accept": [
+        "Trahison des images"
+      ],
+      "choices": [
+        "L'Empire des lumières",
+        "Le Fils de l'homme",
+        "La Condition humaine"
+      ],
+      "explanation": "Magritte expliquait qu'on ne peut pas bourrer cette pipe : ce n'est qu'une représentation. La toile est conservée au musée d'art du comté de Los Angeles.",
+      "wikipedia": "La Trahison des images"
+    },
+    {
+      "id": "arts-litterature-044",
+      "difficulty": 2,
+      "question": "Comment s'appelle le sous-marin du capitaine Nemo dans Vingt Mille Lieues sous les mers de Jules Verne ?",
+      "answer": "Nautilus",
+      "accept": [],
+      "choices": [
+        "Albatros",
+        "Pequod",
+        "Hispaniola"
+      ],
+      "explanation": "Verne reprit le nom du sous-marin conçu par l'Américain Robert Fulton en 1800 ; le premier sous-marin nucléaire de l'histoire porta lui aussi ce nom.",
+      "wikipedia": "Vingt Mille Lieues sous les mers"
+    },
+    {
+      "id": "arts-litterature-045",
+      "difficulty": 2,
+      "question": "Quel gentleman-cambrioleur, imaginé par Maurice Leblanc, affronte le détective anglais Herlock Sholmès ?",
+      "answer": "Arsène Lupin",
+      "accept": [
+        "Lupin"
+      ],
+      "choices": [
+        "Fantômas",
+        "Rocambole",
+        "Raffles"
+      ],
+      "explanation": "Leblanc avait d'abord employé le nom de Sherlock Holmes ; Conan Doyle protesta, et le détective devint Herlock Sholmès dans les éditions suivantes.",
+      "wikipedia": "Arsène Lupin"
+    },
+    {
+      "id": "arts-litterature-046",
+      "difficulty": 2,
+      "question": "Quel roman d'Émile Zola suit Étienne Lantier au cœur d'une grève de mineurs dans le nord de la France ?",
+      "answer": "Germinal",
+      "accept": [],
+      "choices": [
+        "L'Assommoir",
+        "La Bête humaine",
+        "Au Bonheur des Dames"
+      ],
+      "explanation": "Treizième volume des Rougon-Macquart, il emprunte son titre à un mois de printemps du calendrier républicain, promesse d'une germination future.",
+      "wikipedia": "Les Rougon-Macquart"
+    },
+    {
+      "id": "arts-litterature-047",
+      "difficulty": 2,
+      "question": "Quelle pâtisserie trempée dans une tasse de thé fait resurgir chez le narrateur de Proust ses souvenirs de Combray ?",
+      "answer": "Madeleine",
+      "accept": [
+        "Petite madeleine",
+        "La madeleine"
+      ],
+      "choices": [
+        "Financier",
+        "Macaron",
+        "Petit-beurre"
+      ],
+      "explanation": "L'épisode figure dans Du côté de chez Swann ; enfant, le narrateur recevait ce gâteau trempé dans une infusion de tilleul chez sa tante Léonie.",
+      "wikipedia": "Madeleine de Proust"
+    },
+    {
+      "id": "arts-litterature-048",
+      "difficulty": 2,
+      "question": "Quel roman d'Albert Camus s'ouvre sur la phrase « Aujourd'hui, maman est morte » ?",
+      "answer": "L'Étranger",
+      "accept": [
+        "Étranger",
+        "L'Etranger"
+      ],
+      "choices": [
+        "La Peste",
+        "La Chute",
+        "La Nausée"
+      ],
+      "explanation": "Son narrateur, Meursault, est condamné à mort après avoir tué un homme sur une plage d'Alger ; Camus reçut le prix Nobel de littérature en 1957.",
+      "wikipedia": "L'Étranger"
+    },
+    {
+      "id": "arts-litterature-049",
+      "difficulty": 2,
+      "question": "Quel peintre fit scandale au Salon des refusés de 1863 avec Le Déjeuner sur l'herbe et sa femme nue ?",
+      "answer": "Édouard Manet",
+      "accept": [
+        "Manet",
+        "Edouard Manet"
+      ],
+      "choices": [
+        "Claude Monet",
+        "Auguste Renoir",
+        "Edgar Degas"
+      ],
+      "explanation": "Ce n'est pas la nudité qui choqua, mais sa présence au côté d'hommes en habits contemporains ; Manet récidiva deux ans plus tard avec Olympia.",
+      "wikipedia": "Le Déjeuner sur l'herbe"
+    },
+    {
+      "id": "arts-litterature-050",
+      "difficulty": 2,
+      "question": "Quel mouvement artistique provocateur est né en 1916 au Cabaret Voltaire de Zurich, autour de Tristan Tzara ?",
+      "answer": "Dada",
+      "accept": [
+        "Dadaïsme"
+      ],
+      "choices": [
+        "Surréalisme",
+        "Futurisme",
+        "Cubisme"
+      ],
+      "explanation": "Son nom aurait été trouvé en ouvrant un dictionnaire au hasard ; le mouvement rejetait la logique et l'art bourgeois, jugés complices de la Grande Guerre.",
+      "wikipedia": "Dada"
+    },
+    {
+      "id": "arts-litterature-051",
+      "difficulty": 2,
+      "question": "Quel mouvement pictural aux couleurs pures et violentes fit scandale au Salon d'automne de 1905, autour de Matisse et Derain ?",
+      "answer": "Fauvisme",
+      "accept": [
+        "Fauves",
+        "Les Fauves"
+      ],
+      "choices": [
+        "Cubisme",
+        "Expressionnisme",
+        "Pointillisme"
+      ],
+      "explanation": "Le critique Louis Vauxcelles, voyant une sculpture d'allure classique au milieu des toiles, s'exclama : « Donatello parmi les fauves ! »",
+      "wikipedia": "Fauvisme"
+    },
+    {
+      "id": "arts-litterature-052",
+      "difficulty": 2,
+      "question": "Quel peintre de Delft a peint La Jeune Fille à la perle, parfois surnommée la Joconde du Nord ?",
+      "answer": "Johannes Vermeer",
+      "accept": [
+        "Vermeer"
+      ],
+      "choices": [
+        "Rembrandt",
+        "Frans Hals",
+        "Pieter de Hooch"
+      ],
+      "explanation": "On ne connaît qu'une trentaine de tableaux de Vermeer ; celui-ci, conservé au Mauritshuis de La Haye, n'est pas un portrait mais une « tronie ».",
+      "wikipedia": "La Jeune Fille à la perle"
+    },
+    {
+      "id": "arts-litterature-053",
+      "difficulty": 2,
+      "question": "Quel jeune ambitieux de Balzac lance « À nous deux maintenant ! » à Paris à la fin du Père Goriot ?",
+      "answer": "Rastignac",
+      "accept": [
+        "Eugène de Rastignac"
+      ],
+      "choices": [
+        "Lucien de Rubempré",
+        "Vautrin",
+        "Horace Bianchon"
+      ],
+      "explanation": "Il réapparaît dans de nombreux romans de La Comédie humaine ; son nom est devenu synonyme d'arriviste prêt à tout pour réussir.",
+      "wikipedia": "Le Père Goriot"
+    },
+    {
+      "id": "arts-litterature-054",
+      "difficulty": 2,
+      "question": "Quel fils de charpentier, héros de Stendhal, devient précepteur chez M. de Rênal dans Le Rouge et le Noir ?",
+      "answer": "Julien Sorel",
+      "accept": [
+        "Sorel"
+      ],
+      "choices": [
+        "Fabrice del Dongo",
+        "Frédéric Moreau",
+        "Lucien Leuwen"
+      ],
+      "explanation": "Stendhal s'inspira d'un fait divers réel, l'affaire Berthet : un ancien séminariste qui avait tiré sur son ancienne maîtresse dans une église.",
+      "wikipedia": "Le Rouge et le Noir"
+    },
+    {
+      "id": "arts-litterature-055",
+      "difficulty": 2,
+      "question": "Quel roman épistolaire de Choderlos de Laclos met en scène les manipulations du vicomte de Valmont et de la marquise de Merteuil ?",
+      "answer": "Les Liaisons dangereuses",
+      "accept": [
+        "Liaisons dangereuses"
+      ],
+      "choices": [
+        "La Nouvelle Héloïse",
+        "Lettres persanes",
+        "Manon Lescaut"
+      ],
+      "explanation": "Publié en 1782, le roman fit scandale ; son auteur, officier d'artillerie, n'écrivit pratiquement pas d'autre œuvre littéraire de cette importance.",
+      "wikipedia": "Les Liaisons dangereuses"
+    },
+    {
+      "id": "arts-litterature-056",
+      "difficulty": 2,
+      "question": "Quel précepteur de Candide répète que tout est au mieux dans le meilleur des mondes possibles ?",
+      "answer": "Pangloss",
+      "accept": [],
+      "choices": [
+        "Martin",
+        "Cacambo",
+        "Vanderdendur"
+      ],
+      "explanation": "À travers lui, Voltaire caricature la philosophie de Leibniz ; son nom, formé sur le grec, signifie à peu près « toute langue », c'est-à-dire bavard.",
+      "wikipedia": "Candide"
+    },
+    {
+      "id": "arts-litterature-057",
+      "difficulty": 2,
+      "question": "Quel philosophe et savant a écrit « Le cœur a ses raisons que la raison ne connaît point » ?",
+      "answer": "Blaise Pascal",
+      "accept": [
+        "Pascal"
+      ],
+      "choices": [
+        "Michel de Montaigne",
+        "François de La Rochefoucauld",
+        "René Descartes"
+      ],
+      "explanation": "La phrase vient des Pensées, publiées après sa mort ; encore adolescent, Pascal avait inventé une machine à calculer, la pascaline.",
+      "wikipedia": "Blaise Pascal"
+    },
+    {
+      "id": "arts-litterature-058",
+      "difficulty": 2,
+      "question": "Quel géant de Rabelais, fils de Gargantua, voyage en compagnie du rusé Panurge ?",
+      "answer": "Pantagruel",
+      "accept": [],
+      "choices": [
+        "Grandgousier",
+        "Gargamelle",
+        "Picrochole"
+      ],
+      "explanation": "Publié en 1532 sous le pseudonyme anagrammatique d'Alcofribas Nasier, le livre fut censuré par la Sorbonne pour obscénité.",
+      "wikipedia": "Pantagruel"
+    },
+    {
+      "id": "arts-litterature-059",
+      "difficulty": 2,
+      "question": "Quel prix littéraire français, le plus prestigieux de tous, est doté d'un chèque symbolique de dix euros ?",
+      "answer": "Goncourt",
+      "accept": [
+        "Prix Goncourt"
+      ],
+      "choices": [
+        "Renaudot",
+        "Femina",
+        "Médicis"
+      ],
+      "explanation": "Il fut créé par le testament d'Edmond de Goncourt ; son jury de dix membres se réunit au restaurant Drouant, à Paris, pour désigner le lauréat.",
+      "wikipedia": "Prix Goncourt"
+    },
+    {
+      "id": "arts-litterature-060",
+      "difficulty": 2,
+      "question": "Quel écrivain a refusé le prix Nobel de littérature en 1964, ne voulant pas être transformé en institution ?",
+      "answer": "Jean-Paul Sartre",
+      "accept": [
+        "Sartre"
+      ],
+      "choices": [
+        "Albert Camus",
+        "André Malraux",
+        "André Gide"
+      ],
+      "explanation": "Figure de l'existentialisme, Sartre est aussi l'auteur de Huis clos, pièce où figure la réplique « L'enfer, c'est les autres ».",
+      "wikipedia": "Jean-Paul Sartre"
+    },
+    {
+      "id": "arts-litterature-061",
+      "difficulty": 2,
+      "question": "Quel poète de la Pléiade a écrit « Mignonne, allons voir si la rose » pour Cassandre ?",
+      "answer": "Pierre de Ronsard",
+      "accept": [
+        "Ronsard"
+      ],
+      "choices": [
+        "Joachim du Bellay",
+        "Clément Marot",
+        "François Villon"
+      ],
+      "explanation": "Surnommé le « prince des poètes », Ronsard composa aussi les Sonnets pour Hélène, avec le vers « Cueillez dès aujourd'hui les roses de la vie ».",
+      "wikipedia": "Pierre de Ronsard"
+    },
+    {
+      "id": "arts-litterature-062",
+      "difficulty": 2,
+      "question": "Quel poète a écrit « Sous le pont Mirabeau coule la Seine » dans son recueil Alcools ?",
+      "answer": "Guillaume Apollinaire",
+      "accept": [
+        "Apollinaire"
+      ],
+      "choices": [
+        "Jacques Prévert",
+        "Louis Aragon",
+        "Paul Éluard"
+      ],
+      "explanation": "Le poème évoque sa rupture avec la peintre Marie Laurencin ; Apollinaire est aussi l'inventeur du mot « surréalisme » et du terme calligramme.",
+      "wikipedia": "Guillaume Apollinaire"
+    },
+    {
+      "id": "arts-litterature-063",
+      "difficulty": 2,
+      "question": "Quel dramaturge irlandais, qui écrivait aussi en français, est l'auteur d'En attendant Godot ?",
+      "answer": "Samuel Beckett",
+      "accept": [
+        "Beckett"
+      ],
+      "choices": [
+        "Eugène Ionesco",
+        "Jean Genet",
+        "Arthur Adamov"
+      ],
+      "explanation": "Vladimir et Estragon y attendent un certain Godot qui ne vient jamais ; Beckett reçut le prix Nobel de littérature en 1969.",
+      "wikipedia": "En attendant Godot"
+    },
+    {
+      "id": "arts-litterature-064",
+      "difficulty": 2,
+      "question": "Dans quelle tragi-comédie de Corneille Chimène dit-elle à Rodrigue « Va, je ne te hais point » ?",
+      "answer": "Le Cid",
+      "accept": [
+        "Cid"
+      ],
+      "choices": [
+        "Horace",
+        "Cinna",
+        "Polyeucte"
+      ],
+      "explanation": "Le triomphe de la pièce, en 1637, déclencha une vive querelle sur le respect des règles classiques, que l'Académie française dut arbitrer à la demande de Richelieu.",
+      "wikipedia": "Le Cid"
+    },
+    {
+      "id": "arts-litterature-065",
+      "difficulty": 2,
+      "question": "Quel architecte d'origine suisse a conçu la Cité radieuse de Marseille et la villa Savoye, à Poissy ?",
+      "answer": "Le Corbusier",
+      "accept": [],
+      "choices": [
+        "Auguste Perret",
+        "Ludwig Mies van der Rohe",
+        "Jean Prouvé"
+      ],
+      "explanation": "De son vrai nom Charles-Édouard Jeanneret, il théorisa les cinq points de l'architecture moderne, parmi lesquels les pilotis et le toit-terrasse.",
+      "wikipedia": "Le Corbusier"
+    },
+    {
+      "id": "arts-litterature-066",
+      "difficulty": 2,
+      "question": "Quel peintre de la cour d'Espagne s'est représenté lui-même, pinceau à la main, dans Les Ménines ?",
+      "answer": "Vélasquez",
+      "accept": [
+        "Velázquez",
+        "Velasquez",
+        "Diego Vélasquez",
+        "Diego Velázquez"
+      ],
+      "choices": [
+        "Francisco de Goya",
+        "Le Greco",
+        "Bartolomé Esteban Murillo"
+      ],
+      "explanation": "La toile, conservée au Prado, montre l'infante Marguerite-Thérèse ; le roi et la reine n'apparaissent que dans le reflet d'un miroir au fond de la pièce.",
+      "wikipedia": "Les Ménines"
+    },
+    {
+      "id": "arts-litterature-067",
+      "difficulty": 2,
+      "question": "Quel capitaine du baleinier Pequod poursuit la baleine blanche qui lui a arraché une jambe, chez Melville ?",
+      "answer": "Achab",
+      "accept": [
+        "Capitaine Achab",
+        "Ahab"
+      ],
+      "choices": [
+        "Ismaël",
+        "Starbuck",
+        "Queequeg"
+      ],
+      "explanation": "Le roman s'ouvre sur « Appelez-moi Ismaël » ; le second du navire, Starbuck, a donné son nom à une célèbre chaîne de cafés.",
+      "wikipedia": "Moby-Dick"
+    },
+    {
+      "id": "arts-litterature-068",
+      "difficulty": 2,
+      "question": "Quel jeune dandy d'Oscar Wilde reste éternellement beau tandis que son portrait peint vieillit à sa place ?",
+      "answer": "Dorian Gray",
+      "accept": [
+        "Dorian"
+      ],
+      "choices": [
+        "Basil Hallward",
+        "Henry Wotton",
+        "Charles Swann"
+      ],
+      "explanation": "Le roman fut utilisé contre Wilde lors de ses procès de 1895 comme preuve de son immoralité ; l'écrivain mourut ensuite en exil à Paris.",
+      "wikipedia": "Le Portrait de Dorian Gray"
+    },
+    {
+      "id": "arts-litterature-069",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on, au théâtre, la paroi imaginaire qui sépare la scène des spectateurs ?",
+      "answer": "Quatrième mur",
+      "accept": [],
+      "choices": [
+        "Avant-scène",
+        "Manteau d'Arlequin",
+        "Rideau de fer"
+      ],
+      "explanation": "Diderot en formula l'idée au XVIIIe siècle ; quand un acteur s'adresse directement au public, on dit qu'il brise ce mur invisible.",
+      "wikipedia": "Quatrième mur"
+    },
+    {
+      "id": "arts-litterature-070",
+      "difficulty": 2,
+      "question": "Quelle sculptrice, élève et compagne de Rodin, a réalisé La Valse et L'Âge mûr ?",
+      "answer": "Camille Claudel",
+      "accept": [
+        "Claudel"
+      ],
+      "choices": [
+        "Germaine Richier",
+        "Niki de Saint Phalle",
+        "Louise Bourgeois"
+      ],
+      "explanation": "Sœur de l'écrivain Paul Claudel, elle fut internée en 1913 et passa les trente dernières années de sa vie en asile psychiatrique.",
+      "wikipedia": "Camille Claudel"
+    },
+    {
+      "id": "arts-litterature-071",
+      "difficulty": 2,
+      "question": "Quel sculpteur suisse est célèbre pour ses silhouettes humaines filiformes, comme L'Homme qui marche ?",
+      "answer": "Alberto Giacometti",
+      "accept": [
+        "Giacometti"
+      ],
+      "choices": [
+        "Jean Arp",
+        "Jean Tinguely",
+        "Henry Moore"
+      ],
+      "explanation": "Une épreuve de L'Homme qui marche I devint en 2010 l'une des sculptures les plus chères jamais vendues ; son portrait orna le billet suisse de cent francs.",
+      "wikipedia": "Alberto Giacometti"
+    },
+    {
+      "id": "arts-litterature-072",
+      "difficulty": 2,
+      "question": "Quel jardinier de Louis XIV a dessiné les jardins à la française du château de Versailles ?",
+      "answer": "André Le Nôtre",
+      "accept": [
+        "Le Nôtre",
+        "Le Notre"
+      ],
+      "choices": [
+        "Louis Le Vau",
+        "Jean-Baptiste de La Quintinie",
+        "Claude Mollet"
+      ],
+      "explanation": "Il avait auparavant créé les jardins de Vaux-le-Vicomte pour Nicolas Fouquet ; il traça aussi la perspective qui deviendra l'avenue des Champs-Élysées.",
+      "wikipedia": "André Le Nôtre"
+    },
+    {
+      "id": "arts-litterature-073",
+      "difficulty": 2,
+      "question": "Quel mystérieux millionnaire de Fitzgerald donne des fêtes fastueuses à Long Island pour reconquérir Daisy ?",
+      "answer": "Gatsby",
+      "accept": [
+        "Jay Gatsby"
+      ],
+      "choices": [
+        "Tom Buchanan",
+        "Nick Carraway",
+        "Dean Moriarty"
+      ],
+      "explanation": "Le roman est raconté par son voisin, Nick Carraway ; publié en 1925, il est devenu le symbole des Années folles américaines.",
+      "wikipedia": "Gatsby le Magnifique"
+    },
+    {
+      "id": "arts-litterature-074",
+      "difficulty": 2,
+      "question": "Quelle nouvelle de Franz Kafka commence par la transformation de Gregor Samsa en insecte monstrueux ?",
+      "answer": "La Métamorphose",
+      "accept": [
+        "Métamorphose"
+      ],
+      "choices": [
+        "Le Procès",
+        "Le Château",
+        "La Colonie pénitentiaire"
+      ],
+      "explanation": "Kafka demanda que l'insecte ne soit pas dessiné sur la couverture ; avant de mourir, il pria son ami Max Brod de brûler ses manuscrits, ce que celui-ci ne fit pas.",
+      "wikipedia": "La Métamorphose"
+    },
+    {
+      "id": "arts-litterature-075",
+      "difficulty": 2,
+      "question": "Quel valet rusé de Molière enferme le vieux Géronte dans un sac pour le rouer de coups ?",
+      "answer": "Scapin",
+      "accept": [],
+      "choices": [
+        "Sganarelle",
+        "Covielle",
+        "Mascarille"
+      ],
+      "explanation": "C'est dans cette comédie que Géronte répète « Que diable allait-il faire dans cette galère ? », réplique empruntée au Pédant joué de Cyrano de Bergerac.",
+      "wikipedia": "Les Fourberies de Scapin"
+    },
+    {
+      "id": "arts-litterature-076",
+      "difficulty": 2,
+      "question": "Quel mangaka, créateur d'Astro le petit robot, est surnommé le « dieu du manga » au Japon ?",
+      "answer": "Osamu Tezuka",
+      "accept": [
+        "Tezuka"
+      ],
+      "choices": [
+        "Akira Toriyama",
+        "Katsuhiro Ōtomo",
+        "Leiji Matsumoto"
+      ],
+      "explanation": "Médecin de formation, Tezuka créa aussi Le Roi Léo et Black Jack ; il fut fortement influencé par les dessins animés de Walt Disney.",
+      "wikipedia": "Osamu Tezuka"
+    },
+    {
+      "id": "arts-litterature-077",
+      "difficulty": 2,
+      "question": "Quel peintre russe, auteur de l'essai Du spirituel dans l'art, est considéré comme un pionnier de l'abstraction ?",
+      "answer": "Vassily Kandinsky",
+      "accept": [
+        "Kandinsky",
+        "Wassily Kandinsky"
+      ],
+      "choices": [
+        "Marc Chagall",
+        "Piet Mondrian",
+        "Alexej von Jawlensky"
+      ],
+      "explanation": "Il cofonda à Munich le groupe du Cavalier bleu, enseigna au Bauhaus, puis s'installa en France, à Neuilly-sur-Seine, où il finit sa vie.",
+      "wikipedia": "Vassily Kandinsky"
+    },
+    {
+      "id": "arts-litterature-078",
+      "difficulty": 2,
+      "question": "Quel artiste a présenté en 1917 un urinoir signé R. Mutt, sous le titre Fontaine ?",
+      "answer": "Marcel Duchamp",
+      "accept": [
+        "Duchamp"
+      ],
+      "choices": [
+        "Man Ray",
+        "Francis Picabia",
+        "Jean Arp"
+      ],
+      "explanation": "Duchamp inventa le principe du ready-made, objet manufacturé élevé au rang d'œuvre d'art ; il avait déjà monté une roue de bicyclette sur un tabouret.",
+      "wikipedia": "Marcel Duchamp"
+    },
+    {
+      "id": "arts-litterature-079",
+      "difficulty": 2,
+      "question": "Quel peintre américain a représenté des clients solitaires dans un bar de nuit éclairé, dans Nighthawks ?",
+      "answer": "Edward Hopper",
+      "accept": [
+        "Hopper"
+      ],
+      "choices": [
+        "Norman Rockwell",
+        "Grant Wood",
+        "Andrew Wyeth"
+      ],
+      "explanation": "Peint en 1942 et conservé à l'Art Institute de Chicago, le tableau incarne la solitude urbaine qui traverse toute l'œuvre du peintre.",
+      "wikipedia": "Edward Hopper"
+    },
+    {
+      "id": "arts-litterature-080",
+      "difficulty": 2,
+      "question": "Quel peintre italien au clair-obscur violent a peint La Vocation de saint Matthieu pour une église de Rome ?",
+      "answer": "Le Caravage",
+      "accept": [
+        "Caravage",
+        "Caravaggio"
+      ],
+      "choices": [
+        "Annibale Carracci",
+        "Guido Reni",
+        "Artemisia Gentileschi"
+      ],
+      "explanation": "Sa vie fut aussi tumultueuse que sa peinture : condamné pour meurtre en 1606, il dut fuir Rome et mourut en 1610 sans avoir pu y revenir.",
+      "wikipedia": "Le Caravage"
+    },
+    {
+      "id": "arts-litterature-081",
+      "difficulty": 3,
+      "question": "Quel écrivain a reçu le tout premier prix Goncourt, en 1903, pour son roman Force ennemie ?",
+      "answer": "John-Antoine Nau",
+      "accept": [
+        "Nau",
+        "John Antoine Nau"
+      ],
+      "choices": [
+        "Léon Frapié",
+        "Claude Farrère",
+        "Charles-Louis Philippe"
+      ],
+      "explanation": "Né à San Francisco, Nau était aussi poète ; son roman primé, narré par un homme interné dans un asile, est aujourd'hui presque oublié.",
+      "wikipedia": "John-Antoine Nau"
+    },
+    {
+      "id": "arts-litterature-082",
+      "difficulty": 3,
+      "question": "Quel groupe de peintres, autour de Bonnard, Vuillard et Sérusier, a pris un nom signifiant « prophètes » en hébreu ?",
+      "answer": "Nabis",
+      "accept": [
+        "Les Nabis"
+      ],
+      "choices": [
+        "Fauves",
+        "Synthétistes",
+        "Incohérents"
+      ],
+      "explanation": "Le groupe naquit d'un petit paysage peint par Sérusier à Pont-Aven sous la direction de Gauguin, baptisé ensuite Le Talisman.",
+      "wikipedia": "Nabis"
+    },
+    {
+      "id": "arts-litterature-083",
+      "difficulty": 3,
+      "question": "Quel sculpteur réalisa le groupe La Danse, qui fit scandale sur la façade de l'opéra de Paris en 1869 ?",
+      "answer": "Jean-Baptiste Carpeaux",
+      "accept": [
+        "Carpeaux"
+      ],
+      "choices": [
+        "François Rude",
+        "Antoine-Louis Barye",
+        "James Pradier"
+      ],
+      "explanation": "Jugée indécente, la sculpture fut maculée d'encre ; l'original est au musée d'Orsay, remplacé sur la façade par une copie de Paul Belmondo.",
+      "wikipedia": "Jean-Baptiste Carpeaux"
+    },
+    {
+      "id": "arts-litterature-084",
+      "difficulty": 3,
+      "question": "Quel sculpteur a réalisé, sur l'Arc de triomphe de l'Étoile, le haut-relief du Départ des volontaires de 1792 ?",
+      "answer": "François Rude",
+      "accept": [
+        "Rude"
+      ],
+      "choices": [
+        "Jean-Pierre Cortot",
+        "Antoine Étex",
+        "David d'Angers"
+      ],
+      "explanation": "Ce haut-relief est surnommé « La Marseillaise » ; Rude était natif de Dijon, où un musée lui est consacré.",
+      "wikipedia": "François Rude"
+    },
+    {
+      "id": "arts-litterature-085",
+      "difficulty": 3,
+      "question": "Quel sculpteur roumain installé à Paris a créé L'Oiseau dans l'espace et la Colonne sans fin ?",
+      "answer": "Brancusi",
+      "accept": [
+        "Brâncuși",
+        "Constantin Brancusi",
+        "Constantin Brâncuși"
+      ],
+      "choices": [
+        "Ossip Zadkine",
+        "Alexander Archipenko",
+        "Jean Arp"
+      ],
+      "explanation": "En 1926, les douanes américaines refusèrent de considérer L'Oiseau dans l'espace comme une œuvre d'art, d'où un procès célèbre finalement gagné par l'artiste.",
+      "wikipedia": "Constantin Brâncuși"
+    },
+    {
+      "id": "arts-litterature-086",
+      "difficulty": 3,
+      "question": "Quel roman de Huysmans, dont le héros des Esseintes vit reclus dans le raffinement, devint la bible du décadentisme ?",
+      "answer": "À rebours",
+      "accept": [
+        "A rebours"
+      ],
+      "choices": [
+        "Là-bas",
+        "En route",
+        "La Cathédrale"
+      ],
+      "explanation": "Publié en 1884, le livre marque la rupture de Huysmans avec le naturalisme de Zola ; Oscar Wilde s'en inspira pour le livre qui corrompt Dorian Gray.",
+      "wikipedia": "À rebours"
+    },
+    {
+      "id": "arts-litterature-087",
+      "difficulty": 3,
+      "question": "Quel est le vrai nom du poète qui signa Les Chants de Maldoror sous le nom de comte de Lautréamont ?",
+      "answer": "Isidore Ducasse",
+      "accept": [
+        "Ducasse",
+        "Isidore Lucien Ducasse"
+      ],
+      "choices": [
+        "Tristan Corbière",
+        "Germain Nouveau",
+        "Jules Laforgue"
+      ],
+      "explanation": "Né à Montevideo et mort à Paris à vingt-quatre ans, il fut redécouvert et célébré par les surréalistes ; Jules Laforgue était lui aussi né à Montevideo.",
+      "wikipedia": "Lautréamont"
+    },
+    {
+      "id": "arts-litterature-088",
+      "difficulty": 3,
+      "question": "Quel poète sétois a écrit Le Cimetière marin, qui commence par « Ce toit tranquille, où marchent des colombes » ?",
+      "answer": "Paul Valéry",
+      "accept": [
+        "Valéry",
+        "Valery"
+      ],
+      "choices": [
+        "Saint-John Perse",
+        "Paul Claudel",
+        "Jules Supervielle"
+      ],
+      "explanation": "Le poète repose dans ce cimetière de Sète, aujourd'hui appelé cimetière marin ; des vers du poème sont gravés sur sa tombe.",
+      "wikipedia": "Paul Valéry"
+    },
+    {
+      "id": "arts-litterature-089",
+      "difficulty": 3,
+      "question": "Quel artiste morave est célèbre pour ses affiches Art nouveau réalisées pour l'actrice Sarah Bernhardt ?",
+      "answer": "Alfons Mucha",
+      "accept": [
+        "Mucha",
+        "Alphonse Mucha"
+      ],
+      "choices": [
+        "Jules Chéret",
+        "Eugène Grasset",
+        "Leonetto Cappiello"
+      ],
+      "explanation": "Son affiche pour Gismonda, en 1894, lui valut un contrat de six ans avec l'actrice ; il peignit plus tard L'Épopée slave, cycle de vingt toiles monumentales.",
+      "wikipedia": "Alfons Mucha"
+    },
+    {
+      "id": "arts-litterature-090",
+      "difficulty": 3,
+      "question": "Quel architecte de Louis XIV a conçu la galerie des Glaces du château de Versailles ?",
+      "answer": "Jules Hardouin-Mansart",
+      "accept": [
+        "Hardouin-Mansart",
+        "Mansart"
+      ],
+      "choices": [
+        "Louis Le Vau",
+        "Claude Perrault",
+        "Robert de Cotte"
+      ],
+      "explanation": "Petit-neveu de François Mansart, il réalisa aussi le dôme des Invalides et la place Vendôme ; la galerie remplaça une terrasse conçue par Le Vau.",
+      "wikipedia": "Galerie des Glaces"
+    },
+    {
+      "id": "arts-litterature-091",
+      "difficulty": 3,
+      "question": "Quel primitif flamand a peint Les Époux Arnolfini, tableau célèbre pour son miroir convexe ?",
+      "answer": "Jan van Eyck",
+      "accept": [
+        "Van Eyck"
+      ],
+      "choices": [
+        "Rogier van der Weyden",
+        "Hans Memling",
+        "Robert Campin"
+      ],
+      "explanation": "Au-dessus du miroir, une inscription latine indique « Jan van Eyck fut ici, 1434 » ; le tableau est conservé à la National Gallery de Londres.",
+      "wikipedia": "Les Époux Arnolfini"
+    },
+    {
+      "id": "arts-litterature-092",
+      "difficulty": 3,
+      "question": "Quel peintre flamand du XVIe siècle a peint Les Chasseurs dans la neige et La Tour de Babel ?",
+      "answer": "Pieter Brueghel l'Ancien",
+      "accept": [
+        "Bruegel",
+        "Brueghel",
+        "Pieter Bruegel",
+        "Pieter Bruegel l'Ancien",
+        "Bruegel l'Ancien"
+      ],
+      "choices": [
+        "Pierre Paul Rubens",
+        "Jacob Jordaens",
+        "Jérôme Bosch"
+      ],
+      "explanation": "Surnommé « Bruegel le Paysan », il est le père de deux peintres, Pieter Brueghel le Jeune et Jan Brueghel l'Ancien, dit de Velours.",
+      "wikipedia": "Pieter Brueghel l'Ancien"
+    },
+    {
+      "id": "arts-litterature-093",
+      "difficulty": 3,
+      "question": "Quel étudiant pauvre de Dostoïevski assassine à coups de hache une vieille usurière de Saint-Pétersbourg ?",
+      "answer": "Raskolnikov",
+      "accept": [
+        "Rodion Raskolnikov",
+        "Raskolnikoff",
+        "Raskolnikof"
+      ],
+      "choices": [
+        "Mychkine",
+        "Stavroguine",
+        "Aliocha Karamazov"
+      ],
+      "explanation": "Dans Crime et Châtiment, il est traqué psychologiquement par le juge d'instruction Porphyre et finit par se livrer, soutenu par Sonia.",
+      "wikipedia": "Crime et Châtiment"
+    },
+    {
+      "id": "arts-litterature-094",
+      "difficulty": 3,
+      "question": "Quel poète portugais a écrit sous des hétéronymes comme Alberto Caeiro, Ricardo Reis et Álvaro de Campos ?",
+      "answer": "Fernando Pessoa",
+      "accept": [
+        "Pessoa"
+      ],
+      "choices": [
+        "José Saramago",
+        "Luís de Camões",
+        "Eça de Queirós"
+      ],
+      "explanation": "La plupart de ses écrits furent découverts après sa mort dans une malle contenant des milliers de feuillets, dont Le Livre de l'intranquillité.",
+      "wikipedia": "Fernando Pessoa"
+    },
+    {
+      "id": "arts-litterature-095",
+      "difficulty": 3,
+      "question": "Quel peintre russe, fondateur du suprématisme, a peint Carré blanc sur fond blanc ?",
+      "answer": "Kasimir Malevitch",
+      "accept": [
+        "Malevitch"
+      ],
+      "choices": [
+        "Alexandre Rodtchenko",
+        "El Lissitzky",
+        "Vladimir Tatline"
+      ],
+      "explanation": "Son Carré noir fut exposé en 1915 dans l'angle supérieur d'une salle, place traditionnellement réservée aux icônes dans les maisons russes.",
+      "wikipedia": "Kasimir Malevitch"
+    },
+    {
+      "id": "arts-litterature-096",
+      "difficulty": 3,
+      "question": "Quel écrivain a déclaré « Le style est l'homme même » dans son discours de réception à l'Académie française en 1753 ?",
+      "answer": "Buffon",
+      "accept": [
+        "Georges-Louis Leclerc de Buffon",
+        "Comte de Buffon"
+      ],
+      "choices": [
+        "Jean de La Bruyère",
+        "Fontenelle",
+        "Montesquieu"
+      ],
+      "explanation": "Intendant du Jardin du roi, l'actuel Jardin des plantes, ce naturaliste consacra près de cinquante ans à son immense Histoire naturelle.",
+      "wikipedia": "Georges-Louis Leclerc de Buffon"
+    },
+    {
+      "id": "arts-litterature-097",
+      "difficulty": 3,
+      "question": "Quel prix littéraire, fondé par des journalistes en 1926, est proclamé le même jour et au même endroit que le Goncourt ?",
+      "answer": "Renaudot",
+      "accept": [
+        "Prix Renaudot",
+        "Théophraste-Renaudot"
+      ],
+      "choices": [
+        "Femina",
+        "Médicis",
+        "Interallié"
+      ],
+      "explanation": "Il porte le nom de Théophraste Renaudot, fondateur de La Gazette en 1631, considéré comme le père du journalisme français.",
+      "wikipedia": "Prix Renaudot"
+    },
+    {
+      "id": "arts-litterature-098",
+      "difficulty": 3,
+      "question": "Quel premier peintre de Louis XIV a réalisé les peintures de la voûte de la galerie des Glaces ?",
+      "answer": "Charles Le Brun",
+      "accept": [
+        "Le Brun",
+        "Lebrun"
+      ],
+      "choices": [
+        "Pierre Mignard",
+        "Simon Vouet",
+        "Hyacinthe Rigaud"
+      ],
+      "explanation": "Directeur de l'Académie royale de peinture et de la manufacture des Gobelins, il imposa un style officiel tout entier consacré à la gloire du roi.",
+      "wikipedia": "Charles Le Brun"
+    },
+    {
+      "id": "arts-litterature-099",
+      "difficulty": 3,
+      "question": "Quel peintre français du XVIIe siècle, installé à Rome, a peint Les Bergers d'Arcadie ?",
+      "answer": "Nicolas Poussin",
+      "accept": [
+        "Poussin"
+      ],
+      "choices": [
+        "Claude Lorrain",
+        "Simon Vouet",
+        "Philippe de Champaigne"
+      ],
+      "explanation": "Les bergers y déchiffrent l'inscription « Et in Arcadia ego » gravée sur un tombeau ; le peintre incarne le classicisme français, épris de dessin et de rigueur.",
+      "wikipedia": "Nicolas Poussin"
+    },
+    {
+      "id": "arts-litterature-100",
+      "difficulty": 3,
+      "question": "Quel peintre lorrain du XVIIe siècle est célèbre pour ses scènes nocturnes éclairées à la seule lueur d'une chandelle ?",
+      "answer": "Georges de La Tour",
+      "accept": [
+        "La Tour"
+      ],
+      "choices": [
+        "Louis Le Nain",
+        "Valentin de Boulogne",
+        "Jacques Callot"
+      ],
+      "explanation": "Tombé dans l'oubli après sa mort, il ne fut redécouvert qu'au XXe siècle ; Le Tricheur à l'as de carreau est conservé au Louvre.",
+      "wikipedia": "Georges de La Tour"
+    }
+  ]
+}
