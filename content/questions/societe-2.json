@@ -1,0 +1,1551 @@
+{
+ "category": "societe",
+ "questions": [
+  {
+   "id": "societe-051",
+   "difficulty": 1,
+   "question": "Quel hôtel particulier de la rue de Varenne, à Paris, est la résidence officielle du Premier ministre ?",
+   "answer": "hôtel de Matignon",
+   "accept": [
+    "Matignon"
+   ],
+   "choices": [
+    "hôtel de Lassay",
+    "hôtel de Brienne",
+    "hôtel de Charost"
+   ],
+   "explanation": "Construit au XVIIIe siècle, il possède un vaste parc où, depuis Raymond Barre et son érable à sucre, presque chaque Premier ministre plante un arbre.",
+   "wikipedia": "Hôtel de Matignon"
+  },
+  {
+   "id": "societe-052",
+   "difficulty": 1,
+   "question": "Quel palais parisien, bâti pour Marie de Médicis, abrite le Sénat ?",
+   "answer": "palais du Luxembourg",
+   "accept": [
+    "Luxembourg"
+   ],
+   "choices": [
+    "palais Bourbon",
+    "Palais-Royal",
+    "palais de l'Élysée"
+   ],
+   "explanation": "La reine mère le fit construire au début du XVIIe siècle ; le jardin du Luxembourg qui l'entoure appartient toujours au Sénat.",
+   "wikipedia": "Palais du Luxembourg"
+  },
+  {
+   "id": "societe-053",
+   "difficulty": 1,
+   "question": "Quel palais du quai d'Orsay, face à la place de la Concorde, accueille les séances de l'Assemblée nationale ?",
+   "answer": "palais Bourbon",
+   "accept": [
+    "Bourbon"
+   ],
+   "choices": [
+    "palais du Luxembourg",
+    "Palais-Royal",
+    "palais de Chaillot"
+   ],
+   "explanation": "Il fut bâti pour une fille légitimée de Louis XIV, la duchesse de Bourbon ; sa façade à colonnes fut ajoutée sous Napoléon pour répondre à l'église de la Madeleine.",
+   "wikipedia": "Palais Bourbon"
+  },
+  {
+   "id": "societe-054",
+   "difficulty": 1,
+   "question": "Quel article de la Constitution de 1958 permet au gouvernement d'engager sa responsabilité pour faire adopter un texte sans vote ?",
+   "answer": "article 49",
+   "accept": [
+    "49.3",
+    "49-3",
+    "49 alinéa 3",
+    "article 49.3"
+   ],
+   "choices": [
+    "article 16",
+    "article 89",
+    "article 11"
+   ],
+   "explanation": "Le texte est considéré comme adopté sauf si une motion de censure est votée ; Michel Rocard y a recouru vingt-huit fois, un record.",
+   "wikipedia": "Article 49 de la Constitution de la Cinquième République française"
+  },
+  {
+   "id": "societe-055",
+   "difficulty": 2,
+   "question": "Quel article de la Constitution de 1958 confère au président des pouvoirs exceptionnels en cas de menace grave sur les institutions ?",
+   "answer": "article 16",
+   "accept": [
+    "16"
+   ],
+   "choices": [
+    "article 49",
+    "article 89",
+    "article 12"
+   ],
+   "explanation": "Il n'a été utilisé qu'une fois, par le général de Gaulle, d'avril à septembre 1961, après le putsch des généraux à Alger.",
+   "wikipedia": "Article 16 de la Constitution de la Cinquième République française"
+  },
+  {
+   "id": "societe-056",
+   "difficulty": 2,
+   "question": "Qui assure l'intérim de la présidence de la République française en cas de vacance du pouvoir ?",
+   "answer": "président du Sénat",
+   "accept": [
+    "le président du Sénat"
+   ],
+   "choices": [
+    "Premier ministre",
+    "président de l'Assemblée nationale",
+    "président du Conseil constitutionnel"
+   ],
+   "explanation": "Alain Poher a exercé deux fois cet intérim : après la démission du général de Gaulle en 1969 puis à la mort de Georges Pompidou en 1974.",
+   "wikipedia": "Président du Sénat (France)"
+  },
+  {
+   "id": "societe-057",
+   "difficulty": 1,
+   "question": "Par quel nom de quai parisien désigne-t-on couramment le ministère des Affaires étrangères ?",
+   "answer": "Quai d'Orsay",
+   "accept": [
+    "Orsay"
+   ],
+   "choices": [
+    "quai des Orfèvres",
+    "quai Conti",
+    "quai de Bercy"
+   ],
+   "explanation": "L'hôtel du ministère, achevé en 1855 sur la rive gauche de la Seine, a donné son nom à toute la diplomatie française, comme Bercy pour les Finances.",
+   "wikipedia": "Quai d'Orsay"
+  },
+  {
+   "id": "societe-058",
+   "difficulty": 1,
+   "question": "Quel titre ancien porte encore en France le ministre de la Justice ?",
+   "answer": "garde des Sceaux",
+   "accept": [
+    "garde des sceaux"
+   ],
+   "choices": [
+    "chancelier",
+    "grand argentier",
+    "connétable"
+   ],
+   "explanation": "Hérité de l'Ancien Régime, ce titre rappelle qu'il conserve les sceaux de l'État ; sous le Consulat et l'Empire, la fonction s'appelait « grand juge ».",
+   "wikipedia": "Ministre de la Justice (France)"
+  },
+  {
+   "id": "societe-059",
+   "difficulty": 2,
+   "question": "Quelle institution, installée au Palais-Royal, est la plus haute juridiction de l'ordre administratif en France ?",
+   "answer": "Conseil d'État",
+   "accept": [
+    "Conseil d'Etat"
+   ],
+   "choices": [
+    "Cour des comptes",
+    "Conseil constitutionnel",
+    "Cour de cassation"
+   ],
+   "explanation": "Créé par Bonaparte en 1799, il juge les litiges avec l'administration et conseille aussi le gouvernement sur ses projets de loi.",
+   "wikipedia": "Conseil d'État (France)"
+  },
+  {
+   "id": "societe-060",
+   "difficulty": 2,
+   "question": "Quelle juridiction financière, siégeant rue Cambon à Paris, contrôle le bon emploi de l'argent public ?",
+   "answer": "Cour des comptes",
+   "accept": [],
+   "choices": [
+    "Conseil d'État",
+    "Cour de cassation",
+    "Inspection des finances"
+   ],
+   "explanation": "Elle a été créée par Napoléon en 1807 ; ses magistrats publient chaque année un rapport public très attendu sur les dépenses de l'État.",
+   "wikipedia": "Cour des comptes (France)"
+  },
+  {
+   "id": "societe-061",
+   "difficulty": 3,
+   "question": "Quelle autorité indépendante a remplacé en 2011 le Médiateur de la République et le Défenseur des enfants ?",
+   "answer": "Défenseur des droits",
+   "accept": [],
+   "choices": [
+    "Contrôleur général des lieux de privation de liberté",
+    "Haute Autorité de santé",
+    "Conseil d'État"
+   ],
+   "explanation": "Inscrite dans la Constitution en 2008, elle peut être saisie gratuitement par toute personne s'estimant victime d'une discrimination ou d'un service public.",
+   "wikipedia": "Défenseur des droits"
+  },
+  {
+   "id": "societe-062",
+   "difficulty": 1,
+   "question": "Quel représentant de l'État dans le département a été institué par Bonaparte en 1800 ?",
+   "answer": "préfet",
+   "accept": [],
+   "choices": [
+    "intendant",
+    "sous-préfet",
+    "bailli"
+   ],
+   "explanation": "Leur uniforme est brodé de feuilles de chêne et d'olivier ; dans les départements, ils ont succédé en partie aux intendants de l'Ancien Régime.",
+   "wikipedia": "Préfet (France)"
+  },
+  {
+   "id": "societe-063",
+   "difficulty": 1,
+   "question": "Comment appelle-t-on la situation où le président et le Premier ministre appartiennent à des camps politiques opposés ?",
+   "answer": "cohabitation",
+   "accept": [],
+   "choices": [
+    "alternance",
+    "coalition",
+    "union nationale"
+   ],
+   "explanation": "La Ve République en a connu trois : en 1986 et 1993 sous François Mitterrand, puis de 1997 à 2002 sous Jacques Chirac.",
+   "wikipedia": "Cohabitation en France"
+  },
+  {
+   "id": "societe-064",
+   "difficulty": 2,
+   "question": "La réforme de quelle assemblée, avec la régionalisation, était soumise au référendum de 1969 qui provoqua le départ de De Gaulle ?",
+   "answer": "Sénat",
+   "accept": [
+    "réforme du Sénat"
+   ],
+   "choices": [
+    "Conseil constitutionnel",
+    "Assemblée nationale",
+    "Conseil d'État"
+   ],
+   "explanation": "Le « non » l'emporta avec environ 52 % des voix ; de Gaulle annonça sa démission dès le lendemain par un bref communiqué.",
+   "wikipedia": "Référendum constitutionnel français de 1969"
+  },
+  {
+   "id": "societe-065",
+   "difficulty": 1,
+   "question": "Depuis le référendum de 1962, comment le président de la République est-il élu en France ?",
+   "answer": "suffrage universel direct",
+   "accept": [
+    "au suffrage universel direct",
+    "suffrage universel"
+   ],
+   "choices": [
+    "suffrage indirect",
+    "vote du Parlement",
+    "tirage au sort"
+   ],
+   "explanation": "Avant cette réforme voulue par de Gaulle, le président était désigné par un collège d'environ 80 000 grands électeurs.",
+   "wikipedia": "Élection présidentielle en France"
+  },
+  {
+   "id": "societe-066",
+   "difficulty": 1,
+   "question": "Dans quelle publication officielle les lois françaises doivent-elles paraître pour entrer en vigueur ?",
+   "answer": "Journal officiel",
+   "accept": [
+    "JO",
+    "Journal officiel de la République française"
+   ],
+   "choices": [
+    "Bulletin des lois",
+    "Moniteur universel",
+    "Recueil Dalloz"
+   ],
+   "explanation": "Il a succédé au Moniteur universel ; depuis 2016, seule sa version électronique fait foi, la version papier ayant disparu.",
+   "wikipedia": "Journal officiel de la République française"
+  },
+  {
+   "id": "societe-067",
+   "difficulty": 2,
+   "question": "Quel garde des Sceaux du général de Gaulle est considéré comme le principal rédacteur de la Constitution de 1958 ?",
+   "answer": "Michel Debré",
+   "accept": [
+    "Debré"
+   ],
+   "choices": [
+    "Georges Pompidou",
+    "René Cassin",
+    "Jacques Chaban-Delmas"
+   ],
+   "explanation": "Il devint ensuite le premier Premier ministre de la Ve République, de 1959 à 1962.",
+   "wikipedia": "Michel Debré"
+  },
+  {
+   "id": "societe-068",
+   "difficulty": 2,
+   "question": "Quelle fête de 1790 la fête nationale du 14 Juillet commémore-t-elle, en plus de la prise de la Bastille ?",
+   "answer": "Fête de la Fédération",
+   "accept": [
+    "fête de la Fédération"
+   ],
+   "choices": [
+    "Fête de l'Être suprême",
+    "Fête de la Raison",
+    "serment du Jeu de paume"
+   ],
+   "explanation": "La loi de 1880 qui l'instaure ne précise pas l'année : elle célèbre ainsi à la fois 1789 et la réconciliation nationale de 1790 au Champ-de-Mars.",
+   "wikipedia": "Fête nationale française"
+  },
+  {
+   "id": "societe-069",
+   "difficulty": 2,
+   "question": "Dans le drapeau tricolore, quelle couleur, associée à la royauté, s'est intercalée entre le bleu et le rouge de Paris ?",
+   "answer": "blanc",
+   "accept": [],
+   "choices": [
+    "or",
+    "vert",
+    "noir"
+   ],
+   "explanation": "La cocarde tricolore de 1789 associait le blanc, couleur du roi, au bleu et au rouge de la ville de Paris ; le drapeau est devenu emblème national en 1794.",
+   "wikipedia": "Drapeau de la France"
+  },
+  {
+   "id": "societe-070",
+   "difficulty": 2,
+   "question": "Quelle actrice fut, en 1969, la première célébrité à prêter ses traits au buste officiel de Marianne ?",
+   "answer": "Brigitte Bardot",
+   "accept": [
+    "Bardot"
+   ],
+   "choices": [
+    "Catherine Deneuve",
+    "Mireille Mathieu",
+    "Jeanne Moreau"
+   ],
+   "explanation": "Elle fut suivie par Mireille Mathieu, Catherine Deneuve, Inès de La Fressange ou Laetitia Casta, choisies pour incarner la République.",
+   "wikipedia": "Marianne"
+  },
+  {
+   "id": "societe-071",
+   "difficulty": 1,
+   "question": "Quelle croix à deux traverses fut choisie comme emblème de la France libre ?",
+   "answer": "croix de Lorraine",
+   "accept": [],
+   "choices": [
+    "croix de Malte",
+    "croix occitane",
+    "croix de Saint-André"
+   ],
+   "explanation": "Le vice-amiral Muselier la proposa au général de Gaulle dès le 1er juillet 1940 pour distinguer les Forces françaises libres.",
+   "wikipedia": "Croix de Lorraine"
+  },
+  {
+   "id": "societe-072",
+   "difficulty": 1,
+   "question": "Quelle décoration, créée par Bonaparte en 1802, est la plus haute distinction honorifique française ?",
+   "answer": "Légion d'honneur",
+   "accept": [
+    "ordre de la Légion d'honneur"
+   ],
+   "choices": [
+    "ordre du Mérite",
+    "croix de guerre",
+    "médaille militaire"
+   ],
+   "explanation": "Son siège est installé dans l'hôtel de Salm, face au musée d'Orsay ; sa devise est « Honneur et Patrie ».",
+   "wikipedia": "Ordre national de la Légion d'honneur"
+  },
+  {
+   "id": "societe-073",
+   "difficulty": 3,
+   "question": "Quel ordre national, créé par le général de Gaulle en 1963, a remplacé de nombreux ordres ministériels ?",
+   "answer": "ordre national du Mérite",
+   "accept": [
+    "ordre du Mérite",
+    "national du Mérite"
+   ],
+   "choices": [
+    "ordre des Palmes académiques",
+    "ordre de la Libération",
+    "ordre du Mérite agricole"
+   ],
+   "explanation": "Il est le deuxième ordre national après la Légion d'honneur ; son ruban est bleu de France, couleur suggérée, selon Pompidou, par le général Catroux.",
+   "wikipedia": "Ordre national du Mérite (France)"
+  },
+  {
+   "id": "societe-074",
+   "difficulty": 1,
+   "question": "Quel monument parisien porte au fronton l'inscription « Aux grands hommes la patrie reconnaissante » ?",
+   "answer": "Panthéon",
+   "accept": [],
+   "choices": [
+    "Invalides",
+    "Arc de triomphe",
+    "Madeleine"
+   ],
+   "explanation": "Conçue par Soufflot comme église dédiée à sainte Geneviève, la bâtisse fut transformée en nécropole des gloires nationales dès 1791.",
+   "wikipedia": "Panthéon (Paris)"
+  },
+  {
+   "id": "societe-075",
+   "difficulty": 1,
+   "question": "Combien d'étoiles dorées forment le cercle du drapeau européen ?",
+   "answer": "douze",
+   "accept": [
+    "12"
+   ],
+   "choices": [
+    "dix",
+    "quinze",
+    "vingt-sept"
+   ],
+   "explanation": "Ce nombre ne correspond pas aux États membres : il symbolise la perfection et la plénitude, et le drapeau fut d'abord adopté par le Conseil de l'Europe en 1955.",
+   "wikipedia": "Drapeau européen"
+  },
+  {
+   "id": "societe-076",
+   "difficulty": 2,
+   "question": "Quelle devise de l'Union européenne s'écrit en latin In varietate concordia ?",
+   "answer": "Unie dans la diversité",
+   "accept": [
+    "unis dans la diversité"
+   ],
+   "choices": [
+    "L'union fait la force",
+    "Paix et prospérité",
+    "Tous pour un"
+   ],
+   "explanation": "Elle a été choisie en 2000 à l'issue d'un concours auquel ont participé des milliers d'élèves des États membres.",
+   "wikipedia": "In varietate concordia"
+  },
+  {
+   "id": "societe-077",
+   "difficulty": 2,
+   "question": "Quel ministre français a prononcé le 9 mai 1950 la déclaration considérée comme l'acte fondateur de la construction européenne ?",
+   "answer": "Robert Schuman",
+   "accept": [
+    "Schuman"
+   ],
+   "choices": [
+    "Jean Monnet",
+    "Georges Bidault",
+    "Paul Reynaud"
+   ],
+   "explanation": "Le 9 mai est depuis célébré comme Journée de l'Europe ; Schuman proposait de placer le charbon et l'acier franco-allemands sous une autorité commune.",
+   "wikipedia": "Déclaration du 9 mai 1950"
+  },
+  {
+   "id": "societe-078",
+   "difficulty": 3,
+   "question": "Quel graveur a créé la Semeuse, jeune femme au bonnet phrygien qui orne pièces et timbres français ?",
+   "answer": "Oscar Roty",
+   "accept": [
+    "Roty"
+   ],
+   "choices": [
+    "Louis-Oscar Chaplain",
+    "Jules-Clément Chaplain",
+    "Augustin Dupré"
+   ],
+   "explanation": "Créée vers 1887, elle apparut en 1897 sur les pièces d'argent et orne toujours les pièces françaises de 10, 20 et 50 centimes d'euro.",
+   "wikipedia": "Type Semeuse (monnaie)"
+  },
+  {
+   "id": "societe-079",
+   "difficulty": 2,
+   "question": "Quel chant de la Résistance, écrit par Joseph Kessel et Maurice Druon, commence par « Ami, entends-tu… » ?",
+   "answer": "Le Chant des partisans",
+   "accept": [
+    "Chant des partisans"
+   ],
+   "choices": [
+    "Le Chant du départ",
+    "Le Temps des cerises",
+    "L'Affiche rouge"
+   ],
+   "explanation": "Sa mélodie, d'Anna Marly, était sifflée en indicatif sur les ondes de la BBC pour être reconnue malgré le brouillage.",
+   "wikipedia": "Le Chant des partisans"
+  },
+  {
+   "id": "societe-080",
+   "difficulty": 2,
+   "question": "Quelle devise en français figure sur les armoiries royales du Royaume-Uni ?",
+   "answer": "Dieu et mon droit",
+   "accept": [],
+   "choices": [
+    "Honi soit qui mal y pense",
+    "Je maintiendrai",
+    "Fais ce que dois"
+   ],
+   "explanation": "Cri de guerre de la monarchie anglaise depuis Henri V, elle rappelle que le français fut longtemps la langue de la cour d'Angleterre.",
+   "wikipedia": "Dieu et mon droit"
+  },
+  {
+   "id": "societe-081",
+   "difficulty": 1,
+   "question": "Quelle unité de la Gendarmerie, reconnaissable à ses cavaliers casqués à crinière, rend les honneurs à l'Élysée ?",
+   "answer": "Garde républicaine",
+   "accept": [],
+   "choices": [
+    "Légion étrangère",
+    "Cadre noir",
+    "Gendarmerie mobile"
+   ],
+   "explanation": "Héritière de la garde municipale de Paris, elle compte un régiment de cavalerie et assure aussi la sécurité des palais nationaux.",
+   "wikipedia": "Garde républicaine (France)"
+  },
+  {
+   "id": "societe-082",
+   "difficulty": 1,
+   "question": "Dans quelle capitale furent signés en 1957 les traités instituant la Communauté économique européenne ?",
+   "answer": "Rome",
+   "accept": [],
+   "choices": [
+    "Paris",
+    "Bruxelles",
+    "Messine"
+   ],
+   "explanation": "Les six pays fondateurs signèrent le même jour un second traité créant Euratom, la Communauté européenne de l'énergie atomique.",
+   "wikipedia": "Traité instituant la Communauté économique européenne"
+  },
+  {
+   "id": "societe-083",
+   "difficulty": 2,
+   "question": "Quel sigle désigne la communauté de 1951 mettant en commun le charbon et l'acier de six pays européens ?",
+   "answer": "CECA",
+   "accept": [],
+   "choices": [
+    "CEE",
+    "AELE",
+    "CED"
+   ],
+   "explanation": "Sa Haute Autorité siégeait à Luxembourg et fut d'abord présidée par Jean Monnet ; le traité, conclu pour cinquante ans, expira en 2002.",
+   "wikipedia": "Communauté européenne du charbon et de l'acier"
+  },
+  {
+   "id": "societe-084",
+   "difficulty": 1,
+   "question": "Quel village luxembourgeois a donné son nom à l'espace européen de libre circulation des personnes ?",
+   "answer": "Schengen",
+   "accept": [],
+   "choices": [
+    "Remich",
+    "Vianden",
+    "Echternach"
+   ],
+   "explanation": "L'accord fut signé en 1985 sur un bateau sur la Moselle, au point où se rejoignent la France, l'Allemagne et le Luxembourg.",
+   "wikipedia": "Espace Schengen"
+  },
+  {
+   "id": "societe-085",
+   "difficulty": 3,
+   "question": "Quel bâtiment bruxellois en forme de croix abrite le siège de la Commission européenne ?",
+   "answer": "Berlaymont",
+   "accept": [
+    "bâtiment Berlaymont"
+   ],
+   "choices": [
+    "Juste Lipse",
+    "Atomium",
+    "Paul-Henri Spaak"
+   ],
+   "explanation": "Il occupe l'emplacement de l'ancien couvent des Dames de Berlaymont, fondé en 1625, dont il a conservé le nom.",
+   "wikipedia": "Bâtiment Berlaymont"
+  },
+  {
+   "id": "societe-086",
+   "difficulty": 2,
+   "question": "De quelle organisation, distincte de l'Union européenne, dépend la Cour européenne des droits de l'homme ?",
+   "answer": "Conseil de l'Europe",
+   "accept": [],
+   "choices": [
+    "Commission européenne",
+    "OSCE",
+    "ONU"
+   ],
+   "explanation": "Fondé en 1949, le Conseil de l'Europe compte bien plus d'États que l'Union ; la Cour siège comme lui à Strasbourg.",
+   "wikipedia": "Cour européenne des droits de l'homme"
+  },
+  {
+   "id": "societe-087",
+   "difficulty": 2,
+   "question": "Quel article du traité sur l'Union européenne organise le retrait d'un État membre, invoqué lors du Brexit ?",
+   "answer": "article 50",
+   "accept": [
+    "50"
+   ],
+   "choices": [
+    "article 49",
+    "article 7",
+    "article 42"
+   ],
+   "explanation": "Introduit par le traité de Lisbonne, il prévoit un délai de négociation de deux ans ; le Royaume-Uni est le seul État à l'avoir activé.",
+   "wikipedia": "Article 50 du traité sur l'Union européenne"
+  },
+  {
+   "id": "societe-088",
+   "difficulty": 3,
+   "question": "Quel territoire danois a quitté la Communauté économique européenne en 1985, à la suite d'un référendum ?",
+   "answer": "Groenland",
+   "accept": [],
+   "choices": [
+    "îles Féroé",
+    "Islande",
+    "Svalbard"
+   ],
+   "explanation": "La pêche fut l'enjeu principal ; le Groenland reste associé à l'Union comme pays et territoire d'outre-mer.",
+   "wikipedia": "Groenland"
+  },
+  {
+   "id": "societe-089",
+   "difficulty": 2,
+   "question": "Quel natif de Cognac, premier commissaire général au Plan, est souvent surnommé le « Père de l'Europe » ?",
+   "answer": "Jean Monnet",
+   "accept": [
+    "Monnet"
+   ],
+   "choices": [
+    "Robert Schuman",
+    "Paul-Henri Spaak",
+    "Alcide De Gasperi"
+   ],
+   "explanation": "Inspirateur de la déclaration du 9 mai 1950, il présida ensuite la Haute Autorité de la CECA ; ses cendres reposent au Panthéon depuis 1988.",
+   "wikipedia": "Jean Monnet"
+  },
+  {
+   "id": "societe-090",
+   "difficulty": 1,
+   "question": "Dans quelle ville se trouve le siège de l'Unesco, place de Fontenoy ?",
+   "answer": "Paris",
+   "accept": [],
+   "choices": [
+    "Genève",
+    "New York",
+    "Rome"
+   ],
+   "explanation": "Le bâtiment du siège, typique des années 1950, renferme des œuvres murales de Picasso et de Miró ainsi qu'un stabile de Calder dans ses jardins.",
+   "wikipedia": "Organisation des Nations unies pour l'éducation, la science et la culture"
+  },
+  {
+   "id": "societe-091",
+   "difficulty": 1,
+   "question": "Quel homme d'affaires genevois, témoin de la bataille de Solférino, a fondé la Croix-Rouge ?",
+   "answer": "Henry Dunant",
+   "accept": [
+    "Dunant"
+   ],
+   "choices": [
+    "Gustave Moynier",
+    "Guillaume-Henri Dufour",
+    "Frédéric Passy"
+   ],
+   "explanation": "Il raconta l'horreur du champ de bataille dans Un souvenir de Solférino ; ruiné, il finit ses jours dans un hospice de Heiden.",
+   "wikipedia": "Henry Dunant"
+  },
+  {
+   "id": "societe-092",
+   "difficulty": 2,
+   "question": "Le drapeau de la Croix-Rouge reprend en couleurs inversées le drapeau de quel pays ?",
+   "answer": "Suisse",
+   "accept": [],
+   "choices": [
+    "Danemark",
+    "Angleterre",
+    "Géorgie"
+   ],
+   "explanation": "Cet emblème rend hommage à la Suisse, pays du fondateur ; le croissant rouge, puis le cristal rouge, ont été reconnus ensuite.",
+   "wikipedia": "Mouvement international de la Croix-Rouge et du Croissant-Rouge"
+  },
+  {
+   "id": "societe-093",
+   "difficulty": 3,
+   "question": "Quel pacifiste français partagea avec Henry Dunant le tout premier prix Nobel de la paix en 1901 ?",
+   "answer": "Frédéric Passy",
+   "accept": [
+    "Passy"
+   ],
+   "choices": [
+    "Léon Bourgeois",
+    "Aristide Briand",
+    "Jean Jaurès"
+   ],
+   "explanation": "Économiste et député, il cofonda en 1889 l'Union interparlementaire, qui réunit des parlementaires de nombreux pays autour de l'arbitrage international.",
+   "wikipedia": "Frédéric Passy"
+  },
+  {
+   "id": "societe-094",
+   "difficulty": 1,
+   "question": "Quel sigle désigne l'agence de l'ONU chargée de la santé publique mondiale, qui siège à Genève ?",
+   "answer": "OMS",
+   "accept": [
+    "WHO"
+   ],
+   "choices": [
+    "OIT",
+    "FAO",
+    "OMC"
+   ],
+   "explanation": "Créée en 1948, elle a coordonné l'éradication de la variole, officiellement proclamée en 1980.",
+   "wikipedia": "Organisation mondiale de la santé"
+  },
+  {
+   "id": "societe-095",
+   "difficulty": 1,
+   "question": "Comment surnomme-t-on les soldats des forces de maintien de la paix de l'ONU, d'après la couleur de leur coiffe ?",
+   "answer": "Casques bleus",
+   "accept": [],
+   "choices": [
+    "Bérets verts",
+    "Casques blancs",
+    "Bérets rouges"
+   ],
+   "explanation": "Ils ont reçu collectivement le prix Nobel de la paix en 1988 ; leurs effectifs sont fournis par les États membres.",
+   "wikipedia": "Force de maintien de la paix des Nations unies"
+  },
+  {
+   "id": "societe-096",
+   "difficulty": 2,
+   "question": "Dans quel palais parisien l'ONU a-t-elle adopté la Déclaration universelle des droits de l'homme en 1948 ?",
+   "answer": "palais de Chaillot",
+   "accept": [
+    "Chaillot"
+   ],
+   "choices": [
+    "palais de l'Élysée",
+    "palais des Congrès",
+    "Grand Palais"
+   ],
+   "explanation": "L'Assemblée générale siégeait à Paris en attendant son siège new-yorkais ; le parvis du palais s'appelle aujourd'hui parvis des Droits-de-l'Homme.",
+   "wikipedia": "Déclaration universelle des droits de l'homme"
+  },
+  {
+   "id": "societe-097",
+   "difficulty": 2,
+   "question": "Quel juriste français, l'un des principaux rédacteurs de la Déclaration universelle des droits de l'homme, a reçu le prix Nobel de la paix en 1968 ?",
+   "answer": "René Cassin",
+   "accept": [
+    "Cassin"
+   ],
+   "choices": [
+    "Léon Blum",
+    "Robert Badinter",
+    "Pierre-Henri Teitgen"
+   ],
+   "explanation": "Rallié dès 1940 au général de Gaulle, il présida aussi la Cour européenne des droits de l'homme ; il repose au Panthéon.",
+   "wikipedia": "René Cassin"
+  },
+  {
+   "id": "societe-098",
+   "difficulty": 3,
+   "question": "Quel secrétaire général suédois de l'ONU mourut en 1961 dans un accident d'avion en Rhodésie du Nord ?",
+   "answer": "Dag Hammarskjöld",
+   "accept": [
+    "Hammarskjöld",
+    "Hammarskjold"
+   ],
+   "choices": [
+    "Trygve Lie",
+    "Olof Palme",
+    "Folke Bernadotte"
+   ],
+   "explanation": "Il se rendait à une négociation sur la crise du Congo ; il reçut à titre posthume le prix Nobel de la paix.",
+   "wikipedia": "Dag Hammarskjöld"
+  },
+  {
+   "id": "societe-099",
+   "difficulty": 2,
+   "question": "Quelle ONG de défense des droits humains, fondée à Londres en 1961, a pour emblème une bougie entourée de barbelés ?",
+   "answer": "Amnesty International",
+   "accept": [
+    "Amnesty"
+   ],
+   "choices": [
+    "Human Rights Watch",
+    "Greenpeace",
+    "Médecins sans frontières"
+   ],
+   "explanation": "Elle est née d'un article de l'avocat Peter Benenson sur des « prisonniers oubliés » ; elle a reçu le prix Nobel de la paix en 1977.",
+   "wikipedia": "Amnesty International"
+  },
+  {
+   "id": "societe-100",
+   "difficulty": 1,
+   "question": "Quelle alliance militaire, fondée en 1955, unissait l'URSS et les démocraties populaires d'Europe de l'Est ?",
+   "answer": "pacte de Varsovie",
+   "accept": [
+    "Varsovie"
+   ],
+   "choices": [
+    "Comecon",
+    "Kominform",
+    "pacte de Bagdad"
+   ],
+   "explanation": "Ses troupes écrasèrent le Printemps de Prague en 1968 ; l'alliance fut dissoute en 1991, peu avant l'URSS.",
+   "wikipedia": "Pacte de Varsovie"
+  },
+  {
+   "id": "societe-101",
+   "difficulty": 2,
+   "question": "Avec quel chancelier le général de Gaulle a-t-il signé en 1963 le traité de l'Élysée scellant la réconciliation franco-allemande ?",
+   "answer": "Konrad Adenauer",
+   "accept": [
+    "Adenauer"
+   ],
+   "choices": [
+    "Willy Brandt",
+    "Ludwig Erhard",
+    "Helmut Schmidt"
+   ],
+   "explanation": "Le traité a notamment donné naissance à l'Office franco-allemand pour la jeunesse, qui a permis des millions d'échanges de jeunes.",
+   "wikipedia": "Traité de l'Élysée"
+  },
+  {
+   "id": "societe-102",
+   "difficulty": 1,
+   "question": "Quel code promulgué en 1804 est aussi appelé Code Napoléon ?",
+   "answer": "Code civil",
+   "accept": [],
+   "choices": [
+    "Code pénal",
+    "Code de commerce",
+    "Code du travail"
+   ],
+   "explanation": "Rédigé notamment par Portalis, il a inspiré le droit de nombreux pays, de la Belgique au Québec en passant par la Louisiane.",
+   "wikipedia": "Code civil (France)"
+  },
+  {
+   "id": "societe-103",
+   "difficulty": 1,
+   "question": "Quel principe veut que toute personne poursuivie soit considérée comme non coupable tant que sa culpabilité n'est pas établie ?",
+   "answer": "présomption d'innocence",
+   "accept": [],
+   "choices": [
+    "droit au silence",
+    "bénéfice du doute",
+    "secret de l'instruction"
+   ],
+   "explanation": "Elle figure dans la Déclaration des droits de l'homme et du citoyen de 1789, à l'article 9.",
+   "wikipedia": "Présomption d'innocence"
+  },
+  {
+   "id": "societe-104",
+   "difficulty": 3,
+   "question": "Comment s'appelle la double pièce de tissu blanc que les avocats portent sous le col de leur robe ?",
+   "answer": "rabat",
+   "accept": [],
+   "choices": [
+    "jabot",
+    "épitoge",
+    "collet"
+   ],
+   "explanation": "Cette double pièce de tissu amidonné se retrouve aussi dans la tenue des magistrats et de certains pasteurs protestants.",
+   "wikipedia": "Rabat (vêtement)"
+  },
+  {
+   "id": "societe-105",
+   "difficulty": 1,
+   "question": "Quelle juridiction, composée de juges non professionnels, tranche en France les litiges entre salariés et employeurs ?",
+   "answer": "conseil de prud'hommes",
+   "accept": [
+    "prud'hommes"
+   ],
+   "choices": [
+    "tribunal de commerce",
+    "tribunal administratif",
+    "cour d'appel"
+   ],
+   "explanation": "Ses conseillers sont désignés à parité parmi les salariés et les employeurs ; la première fut créée à Lyon en 1806 pour la soierie.",
+   "wikipedia": "Conseil de prud'hommes (France)"
+  },
+  {
+   "id": "societe-106",
+   "difficulty": 1,
+   "question": "Dans quelle ville de Bavière furent jugés, en 1945 et 1946, les principaux dignitaires nazis ?",
+   "answer": "Nuremberg",
+   "accept": [],
+   "choices": [
+    "Munich",
+    "Leipzig",
+    "Berlin"
+   ],
+   "explanation": "Son palais de justice, presque intact, pouvait accueillir le procès ; le symbole d'une ville des grands rassemblements nazis a pu renforcer ce choix.",
+   "wikipedia": "Procès de Nuremberg"
+  },
+  {
+   "id": "societe-107",
+   "difficulty": 2,
+   "question": "Quel traité adopté en 1998 a créé la Cour pénale internationale ?",
+   "answer": "statut de Rome",
+   "accept": [],
+   "choices": [
+    "convention de Genève",
+    "traité de La Haye",
+    "pacte de Paris"
+   ],
+   "explanation": "Entré en vigueur en 2002, il permet de juger génocides, crimes contre l'humanité et crimes de guerre ; la Cour siège à La Haye.",
+   "wikipedia": "Statut de Rome"
+  },
+  {
+   "id": "societe-108",
+   "difficulty": 3,
+   "question": "Quel député gaulliste a fait voter en 1967 la loi autorisant la contraception en France ?",
+   "answer": "Lucien Neuwirth",
+   "accept": [
+    "Neuwirth"
+   ],
+   "choices": [
+    "Michel Debré",
+    "Jacques Chaban-Delmas",
+    "Pierre Messmer"
+   ],
+   "explanation": "Ancien résistant, il dut vaincre de fortes résistances ; faute de décrets d'application, la loi ne fut vraiment appliquée qu'entre 1969 et 1972.",
+   "wikipedia": "Loi Neuwirth"
+  },
+  {
+   "id": "societe-109",
+   "difficulty": 1,
+   "question": "Quel sigle désigne le contrat d'union entre deux adultes créé en France en 1999 ?",
+   "answer": "PACS",
+   "accept": [
+    "Pacs",
+    "pacte civil de solidarité"
+   ],
+   "choices": [
+    "CDD",
+    "PEL",
+    "CESU"
+   ],
+   "explanation": "Il a été ouvert aussi bien aux couples de même sexe qu'aux couples hétérosexuels ; on le conclut désormais en mairie ou chez un notaire.",
+   "wikipedia": "Pacte civil de solidarité"
+  },
+  {
+   "id": "societe-110",
+   "difficulty": 2,
+   "question": "En quelle année les Françaises ont-elles voté pour la première fois, lors d'élections municipales ?",
+   "answer": "1945",
+   "accept": [],
+   "choices": [
+    "1936",
+    "1944",
+    "1946"
+   ],
+   "explanation": "Le droit de vote leur avait été accordé par une ordonnance du gouvernement provisoire signée à Alger en avril 1944.",
+   "wikipedia": "Droit de vote des femmes"
+  },
+  {
+   "id": "societe-111",
+   "difficulty": 2,
+   "question": "Quel texte de 1685, promulgué sous Louis XIV, réglementait l'esclavage dans les colonies françaises ?",
+   "answer": "Code noir",
+   "accept": [],
+   "choices": [
+    "Code Louis",
+    "Édit de Nantes",
+    "Pacte colonial"
+   ],
+   "explanation": "Il fut préparé à la demande de Colbert, mort avant sa promulgation ; aboli en 1794, rétabli en 1802, il ne disparut qu'avec l'abolition de 1848.",
+   "wikipedia": "Code noir"
+  },
+  {
+   "id": "societe-112",
+   "difficulty": 1,
+   "question": "Quel sous-secrétaire d'État a porté le décret abolissant l'esclavage dans les colonies françaises en 1848 ?",
+   "answer": "Victor Schœlcher",
+   "accept": [
+    "Schœlcher",
+    "Schoelcher",
+    "Victor Schoelcher"
+   ],
+   "choices": [
+    "Alexis de Tocqueville",
+    "Ledru-Rollin",
+    "Lamartine"
+   ],
+   "explanation": "Une commune de Martinique porte son nom ; il repose au Panthéon depuis 1949, aux côtés de Félix Éboué.",
+   "wikipedia": "Victor Schœlcher"
+  },
+  {
+   "id": "societe-113",
+   "difficulty": 1,
+   "question": "Quelle révolutionnaire publia en 1791 la Déclaration des droits de la femme et de la citoyenne ?",
+   "answer": "Olympe de Gouges",
+   "accept": [
+    "de Gouges"
+   ],
+   "choices": [
+    "Manon Roland",
+    "Théroigne de Méricourt",
+    "Charlotte Corday"
+   ],
+   "explanation": "Proche des Girondins, cette autrice de pièces de théâtre fut guillotinée en 1793.",
+   "wikipedia": "Olympe de Gouges"
+  },
+  {
+   "id": "societe-114",
+   "difficulty": 3,
+   "question": "Quel juriste milanais a dénoncé la torture et la peine de mort dans Des délits et des peines ?",
+   "answer": "Cesare Beccaria",
+   "accept": [
+    "Beccaria"
+   ],
+   "choices": [
+    "Gaetano Filangieri",
+    "Pietro Verri",
+    "Giambattista Vico"
+   ],
+   "explanation": "Paru en 1764, l'ouvrage fut salué par Voltaire et les encyclopédistes et inspira plusieurs réformes pénales en Europe.",
+   "wikipedia": "Cesare Beccaria"
+  },
+  {
+   "id": "societe-115",
+   "difficulty": 2,
+   "question": "Quel numéro du quai des Orfèvres a longtemps désigné le siège de la police judiciaire parisienne ?",
+   "answer": "36",
+   "accept": [
+    "trente-six"
+   ],
+   "choices": [
+    "12",
+    "24",
+    "110"
+   ],
+   "explanation": "La PJ a quitté cette adresse de l'île de la Cité en 2017 pour rejoindre la rue du Bastion, dans le quartier des Batignolles.",
+   "wikipedia": "36, quai des Orfèvres"
+  },
+  {
+   "id": "societe-116",
+   "difficulty": 3,
+   "question": "Quel architecte italien a conçu la tour du tribunal de Paris, ouverte en 2018 aux Batignolles ?",
+   "answer": "Renzo Piano",
+   "accept": [
+    "Piano"
+   ],
+   "choices": [
+    "Jean Nouvel",
+    "Rem Koolhaas",
+    "Dominique Perrault"
+   ],
+   "explanation": "Haut d'environ 160 mètres, l'édifice empile des blocs en gradins ; il regroupe les juridictions autrefois dispersées dans Paris.",
+   "wikipedia": "Tribunal de Paris"
+  },
+  {
+   "id": "societe-117",
+   "difficulty": 1,
+   "question": "Quel dirigeant socialiste conduisit le gouvernement du Front populaire en 1936 ?",
+   "answer": "Léon Blum",
+   "accept": [
+    "Blum"
+   ],
+   "choices": [
+    "Édouard Daladier",
+    "Maurice Thorez",
+    "Jean Jaurès"
+   ],
+   "explanation": "Son gouvernement instaura les deux premières semaines de congés payés et la semaine de quarante heures.",
+   "wikipedia": "Front populaire (France)"
+  },
+  {
+   "id": "societe-118",
+   "difficulty": 2,
+   "question": "Quel républicain quitta Paris assiégé en ballon monté en octobre 1870 pour organiser la défense en province ?",
+   "answer": "Léon Gambetta",
+   "accept": [
+    "Gambetta"
+   ],
+   "choices": [
+    "Jules Favre",
+    "Adolphe Thiers",
+    "Jules Ferry"
+   ],
+   "explanation": "Il s'envola de la place Saint-Pierre à Montmartre à bord de l'Armand-Barbès et rejoignit Tours.",
+   "wikipedia": "Léon Gambetta"
+  },
+  {
+   "id": "societe-119",
+   "difficulty": 3,
+   "question": "Quel député a fait adopter en 1875, à une voix de majorité, l'amendement qui installa durablement la République ?",
+   "answer": "Henri Wallon",
+   "accept": [
+    "Wallon"
+   ],
+   "choices": [
+    "Jules Grévy",
+    "Jules Simon",
+    "Adolphe Thiers"
+   ],
+   "explanation": "L'amendement mentionnait l'élection du « président de la République », ce qui consacrait le régime ; il fut voté par 353 voix contre 352.",
+   "wikipedia": "Amendement Wallon"
+  },
+  {
+   "id": "societe-120",
+   "difficulty": 2,
+   "question": "Quels accords, conclus au ministère du Travail en mai 1968, accordèrent une forte hausse du SMIG ?",
+   "answer": "accords de Grenelle",
+   "accept": [
+    "Grenelle"
+   ],
+   "choices": [
+    "accords de Matignon",
+    "accords d'Évian",
+    "accords de Nouméa"
+   ],
+   "explanation": "Négociés sous la houlette de Georges Pompidou, ils relevèrent le salaire minimum d'environ 35 % ; la base les rejeta d'abord.",
+   "wikipedia": "Accords de Grenelle"
+  },
+  {
+   "id": "societe-121",
+   "difficulty": 2,
+   "question": "Quel président de la IIIe République mourut subitement à l'Élysée en février 1899 ?",
+   "answer": "Félix Faure",
+   "accept": [
+    "Faure"
+   ],
+   "choices": [
+    "Sadi Carnot",
+    "Jules Grévy",
+    "Émile Loubet"
+   ],
+   "explanation": "Il agonisa plusieurs heures après le départ de sa maîtresse Marguerite Steinheil, ce qui nourrit une légende tenace et bien des bons mots.",
+   "wikipedia": "Félix Faure"
+  },
+  {
+   "id": "societe-122",
+   "difficulty": 2,
+   "question": "Quel président de la République tomba d'un train de nuit en pyjama en 1920, quelques mois après son élection ?",
+   "answer": "Paul Deschanel",
+   "accept": [
+    "Deschanel"
+   ],
+   "choices": [
+    "Alexandre Millerand",
+    "Raymond Poincaré",
+    "Gaston Doumergue"
+   ],
+   "explanation": "Retrouvé indemne sur la voie près de Montargis, il démissionna en septembre 1920 pour raisons de santé.",
+   "wikipedia": "Paul Deschanel"
+  },
+  {
+   "id": "societe-123",
+   "difficulty": 3,
+   "question": "Quel président de la République fut poignardé à Lyon en 1894 par l'anarchiste italien Caserio ?",
+   "answer": "Sadi Carnot",
+   "accept": [
+    "Carnot"
+   ],
+   "choices": [
+    "Paul Doumer",
+    "Félix Faure",
+    "Jules Grévy"
+   ],
+   "explanation": "Petit-fils de Lazare Carnot, l'« organisateur de la victoire », il fut inhumé au Panthéon.",
+   "wikipedia": "Sadi Carnot (homme d'État)"
+  },
+  {
+   "id": "societe-124",
+   "difficulty": 2,
+   "question": "Quel homme d'État, qui écrasa la Commune de Paris, fut le premier président de la IIIe République ?",
+   "answer": "Adolphe Thiers",
+   "accept": [
+    "Thiers"
+   ],
+   "choices": [
+    "Patrice de Mac Mahon",
+    "Jules Grévy",
+    "Léon Gambetta"
+   ],
+   "explanation": "Historien de la Révolution, il négocia avec Bismarck le traité de Francfort et la libération anticipée du territoire.",
+   "wikipedia": "Adolphe Thiers"
+  },
+  {
+   "id": "societe-125",
+   "difficulty": 1,
+   "question": "Qui fut, en 1848, le premier président de la République française élu au suffrage universel ?",
+   "answer": "Louis-Napoléon Bonaparte",
+   "accept": [
+    "Napoléon III",
+    "Louis Napoléon Bonaparte"
+   ],
+   "choices": [
+    "Lamartine",
+    "Cavaignac",
+    "Ledru-Rollin"
+   ],
+   "explanation": "Ne pouvant briguer un second mandat, il fit le coup d'État du 2 décembre 1851, puis se proclama empereur un an plus tard.",
+   "wikipedia": "Napoléon III"
+  },
+  {
+   "id": "societe-126",
+   "difficulty": 1,
+   "question": "Quel dirigeant socialiste, fondateur de L'Humanité, fut assassiné au café du Croissant le 31 juillet 1914 ?",
+   "answer": "Jean Jaurès",
+   "accept": [
+    "Jaurès"
+   ],
+   "choices": [
+    "Jules Guesde",
+    "Léon Blum",
+    "Aristide Briand"
+   ],
+   "explanation": "Il militait contre la guerre qui éclata quelques jours plus tard ; son assassin, Raoul Villain, fut acquitté en 1919.",
+   "wikipedia": "Jean Jaurès"
+  },
+  {
+   "id": "societe-127",
+   "difficulty": 3,
+   "question": "Quel général, surnommé « le général Revanche », a donné son nom à un mouvement nationaliste des années 1880 ?",
+   "answer": "Georges Boulanger",
+   "accept": [
+    "Boulanger"
+   ],
+   "choices": [
+    "Patrice de Mac Mahon",
+    "Gaston de Galliffet",
+    "Louis Faidherbe"
+   ],
+   "explanation": "Il renonça à marcher sur l'Élysée en 1889, s'exila et se suicida sur la tombe de sa maîtresse à Bruxelles.",
+   "wikipedia": "Georges Boulanger"
+  },
+  {
+   "id": "societe-128",
+   "difficulty": 2,
+   "question": "Quel nom officiel portait le régime dirigé par le maréchal Pétain de 1940 à 1944 ?",
+   "answer": "État français",
+   "accept": [
+    "Etat français"
+   ],
+   "choices": [
+    "République française",
+    "Empire français",
+    "Régence française"
+   ],
+   "explanation": "La devise « Travail, Famille, Patrie » y remplaçait « Liberté, Égalité, Fraternité » ; le gouvernement siégeait à Vichy.",
+   "wikipedia": "Régime de Vichy"
+  },
+  {
+   "id": "societe-129",
+   "difficulty": 1,
+   "question": "Quel préfet résistant unifia les mouvements de la Résistance au sein du Conseil national de la Résistance ?",
+   "answer": "Jean Moulin",
+   "accept": [
+    "Moulin"
+   ],
+   "choices": [
+    "Pierre Brossolette",
+    "Henri Frenay",
+    "Jean Cavaillès"
+   ],
+   "explanation": "Arrêté à Caluire en juin 1943, il mourut des suites des tortures ; André Malraux prononça son éloge lors de l'entrée au Panthéon en 1964.",
+   "wikipedia": "Jean Moulin"
+  },
+  {
+   "id": "societe-130",
+   "difficulty": 2,
+   "question": "Dans quelle ville le général de Gaulle lança-t-il « Je vous ai compris ! » le 4 juin 1958 ?",
+   "answer": "Alger",
+   "accept": [],
+   "choices": [
+    "Oran",
+    "Constantine",
+    "Tunis"
+   ],
+   "explanation": "Il s'exprimait depuis le balcon du Gouvernement général devant une foule immense ; la formule ambiguë fut interprétée de façons opposées.",
+   "wikipedia": "Je vous ai compris"
+  },
+  {
+   "id": "societe-131",
+   "difficulty": 2,
+   "question": "Dans quelle ville le général de Gaulle s'écria-t-il « Vive le Québec libre ! » en juillet 1967 ?",
+   "answer": "Montréal",
+   "accept": [],
+   "choices": [
+    "Québec",
+    "Ottawa",
+    "Trois-Rivières"
+   ],
+   "explanation": "Il parlait du balcon de l'hôtel de ville, pendant l'Exposition universelle ; Ottawa jugea la phrase inacceptable et il écourta sa visite.",
+   "wikipedia": "Vive le Québec libre !"
+  },
+  {
+   "id": "societe-132",
+   "difficulty": 1,
+   "question": "Dans quel village de Haute-Marne se trouve La Boisserie, la demeure du général de Gaulle ?",
+   "answer": "Colombey-les-Deux-Églises",
+   "accept": [
+    "Colombey"
+   ],
+   "choices": [
+    "Chaumont",
+    "Langres",
+    "Joinville"
+   ],
+   "explanation": "Il l'acheta en 1934, y rédigea ses Mémoires de guerre et y mourut en novembre 1970 ; il est inhumé dans le cimetière du village.",
+   "wikipedia": "La Boisserie"
+  },
+  {
+   "id": "societe-133",
+   "difficulty": 2,
+   "question": "Sous la présidence de Valéry Giscard d'Estaing, à quel âge la majorité civile a-t-elle été abaissée en 1974 ?",
+   "answer": "dix-huit ans",
+   "accept": [
+    "18",
+    "18 ans",
+    "dix-huit"
+   ],
+   "choices": [
+    "seize ans",
+    "vingt ans",
+    "vingt et un ans"
+   ],
+   "explanation": "Elle était fixée à vingt et un ans depuis la Révolution ; la mesure fut l'une des premières réformes du nouveau président.",
+   "wikipedia": "Majorité civile en France"
+  },
+  {
+   "id": "societe-134",
+   "difficulty": 1,
+   "question": "Qui fut, en 1991, la première femme nommée Premier ministre en France ?",
+   "answer": "Édith Cresson",
+   "accept": [
+    "Cresson"
+   ],
+   "choices": [
+    "Simone Veil",
+    "Élisabeth Guigou",
+    "Martine Aubry"
+   ],
+   "explanation": "Nommée par François Mitterrand, elle resta moins d'un an à Matignon, l'un des passages les plus courts de la Ve République.",
+   "wikipedia": "Édith Cresson"
+  },
+  {
+   "id": "societe-135",
+   "difficulty": 3,
+   "question": "Quelle scientifique, prix Nobel, fut l'une des trois premières femmes membres d'un gouvernement français en 1936 ?",
+   "answer": "Irène Joliot-Curie",
+   "accept": [
+    "Irène Curie"
+   ],
+   "choices": [
+    "Marie Curie",
+    "Marguerite Perey",
+    "Louise Weiss"
+   ],
+   "explanation": "Sous-secrétaire d'État à la Recherche scientifique dans le gouvernement Blum, elle siégea aux côtés de Cécile Brunschvicg et Suzanne Lacore, alors que les femmes ne votaient pas.",
+   "wikipedia": "Irène Joliot-Curie"
+  },
+  {
+   "id": "societe-136",
+   "difficulty": 3,
+   "question": "Quelle journaliste et suffragette, doyenne du premier Parlement européen élu, a donné son nom au bâtiment de Strasbourg ?",
+   "answer": "Louise Weiss",
+   "accept": [
+    "Weiss"
+   ],
+   "choices": [
+    "Simone Veil",
+    "Hubertine Auclert",
+    "Marguerite Durand"
+   ],
+   "explanation": "Élue en 1979 à 86 ans, elle avait mené dans l'entre-deux-guerres des actions spectaculaires pour le droit de vote des femmes.",
+   "wikipedia": "Louise Weiss"
+  },
+  {
+   "id": "societe-137",
+   "difficulty": 1,
+   "question": "Quelle ancienne ministre de la Santé fut en 1979 la première présidente du Parlement européen élu au suffrage universel ?",
+   "answer": "Simone Veil",
+   "accept": [
+    "Veil"
+   ],
+   "choices": [
+    "Louise Weiss",
+    "Nicole Fontaine",
+    "Édith Cresson"
+   ],
+   "explanation": "Rescapée d'Auschwitz, elle avait porté en 1975 la loi sur l'IVG ; elle est entrée au Panthéon en 2018.",
+   "wikipedia": "Simone Veil"
+  },
+  {
+   "id": "societe-138",
+   "difficulty": 3,
+   "question": "Quel papetier de Saint-Céré a donné son nom à un mouvement de défense des commerçants et artisans dans les années 1950 ?",
+   "answer": "Pierre Poujade",
+   "accept": [
+    "Poujade"
+   ],
+   "choices": [
+    "Gérard Nicoud",
+    "Léon Gingembre",
+    "Jacques Isorni"
+   ],
+   "explanation": "Son mouvement fit entrer cinquante-deux députés à l'Assemblée en 1956, dont le jeune Jean-Marie Le Pen.",
+   "wikipedia": "Pierre Poujade"
+  },
+  {
+   "id": "societe-139",
+   "difficulty": 2,
+   "question": "Quel sigle désignait de 1905 à 1969 le parti socialiste français, ancêtre de l'actuel Parti socialiste ?",
+   "answer": "SFIO",
+   "accept": [],
+   "choices": [
+    "PCF",
+    "CGT",
+    "PSU"
+   ],
+   "explanation": "Section française de l'Internationale ouvrière, elle était née de l'union de plusieurs courants, sous l'impulsion de Jaurès et Guesde.",
+   "wikipedia": "Section française de l'Internationale ouvrière"
+  },
+  {
+   "id": "societe-140",
+   "difficulty": 2,
+   "question": "Dans quelle ville le congrès socialiste de 1920 vit-il naître le futur Parti communiste français ?",
+   "answer": "Tours",
+   "accept": [],
+   "choices": [
+    "Lyon",
+    "Lille",
+    "Limoges"
+   ],
+   "explanation": "La majorité des délégués vota l'adhésion à l'Internationale communiste ; Léon Blum appela la minorité à « garder la vieille maison ».",
+   "wikipedia": "Congrès de Tours"
+  },
+  {
+   "id": "societe-141",
+   "difficulty": 3,
+   "question": "Lors de quel congrès de 1971 François Mitterrand prit-il la tête du nouveau Parti socialiste ?",
+   "answer": "congrès d'Épinay",
+   "accept": [
+    "Épinay",
+    "Épinay-sur-Seine"
+   ],
+   "choices": [
+    "congrès de Metz",
+    "congrès de Rennes",
+    "congrès de Tours"
+   ],
+   "explanation": "Tout juste adhérent, il en devint premier secrétaire grâce à une alliance de courants, prélude à l'union de la gauche.",
+   "wikipedia": "Congrès d'Épinay"
+  },
+  {
+   "id": "societe-142",
+   "difficulty": 2,
+   "question": "Quel pays fut, en 1893, le premier à accorder aux femmes le droit de vote aux élections nationales ?",
+   "answer": "Nouvelle-Zélande",
+   "accept": [],
+   "choices": [
+    "Australie",
+    "Finlande",
+    "Norvège"
+   ],
+   "explanation": "Les femmes maories votèrent aussi dès cette année-là ; le droit d'être élues au Parlement ne vint qu'en 1919.",
+   "wikipedia": "Droit de vote des femmes"
+  },
+  {
+   "id": "societe-143",
+   "difficulty": 1,
+   "question": "Comment appelle-t-on la cabine où l'électeur glisse seul son bulletin dans l'enveloppe ?",
+   "answer": "isoloir",
+   "accept": [],
+   "choices": [
+    "urne",
+    "loge",
+    "box"
+   ],
+   "explanation": "Il a été rendu obligatoire en France en 1913 afin de garantir le secret du vote.",
+   "wikipedia": "Isoloir"
+  },
+  {
+   "id": "societe-144",
+   "difficulty": 3,
+   "question": "Quel mot anglais, dérivé du nom d'un gouverneur du Massachusetts, désigne le découpage électoral partisan ?",
+   "answer": "gerrymandering",
+   "accept": [
+    "gerrymander"
+   ],
+   "choices": [
+    "filibuster",
+    "lobbying",
+    "logrolling"
+   ],
+   "explanation": "Une circonscription dessinée en 1812 sous Elbridge Gerry ressemblait à une salamandre : le mot mêle « Gerry » et « salamander ».",
+   "wikipedia": "Gerrymandering"
+  },
+  {
+   "id": "societe-145",
+   "difficulty": 1,
+   "question": "Quel sigle désigne le service d'aide médicale urgente que l'on joint en composant le 15 ?",
+   "answer": "SAMU",
+   "accept": [
+    "Samu"
+   ],
+   "choices": [
+    "SMUR",
+    "SOS",
+    "SDIS"
+   ],
+   "explanation": "Le premier fut créé à Toulouse en 1968 ; ses médecins régulateurs décident de l'envoi d'une équipe mobile.",
+   "wikipedia": "Service d'aide médicale urgente"
+  },
+  {
+   "id": "societe-146",
+   "difficulty": 2,
+   "question": "Quel sigle désigne l'autorité administrative française chargée de protéger les données personnelles, créée en 1978 ?",
+   "answer": "CNIL",
+   "accept": [
+    "Cnil"
+   ],
+   "choices": [
+    "CSA",
+    "ARCEP",
+    "HADOPI"
+   ],
+   "explanation": "Elle est née de la loi Informatique et libertés, adoptée après le scandale du projet Safari de fichage des citoyens.",
+   "wikipedia": "Commission nationale de l'informatique et des libertés"
+  },
+  {
+   "id": "societe-147",
+   "difficulty": 1,
+   "question": "Quel sigle désigne l'unité d'élite d'intervention de la Gendarmerie nationale, créée en 1974 ?",
+   "answer": "GIGN",
+   "accept": [],
+   "choices": [
+    "RAID",
+    "GIPN",
+    "BRI"
+   ],
+   "explanation": "Elle s'est rendue célèbre en libérant les otages du vol Air France détourné à Marignane en décembre 1994.",
+   "wikipedia": "Groupe d'intervention de la Gendarmerie nationale"
+  },
+  {
+   "id": "societe-148",
+   "difficulty": 1,
+   "question": "Quel sigle désigne les compagnies de la Police nationale spécialisées dans le maintien de l'ordre ?",
+   "answer": "CRS",
+   "accept": [],
+   "choices": [
+    "BAC",
+    "GIGN",
+    "PJ"
+   ],
+   "explanation": "Elles ont été créées en 1944 ; certaines compagnies assurent aussi le secours en montagne ou la surveillance des plages.",
+   "wikipedia": "Compagnies républicaines de sécurité"
+  },
+  {
+   "id": "societe-149",
+   "difficulty": 2,
+   "question": "Quel service de renseignement extérieur français est surnommé « la Piscine » ?",
+   "answer": "DGSE",
+   "accept": [],
+   "choices": [
+    "DGSI",
+    "DRM",
+    "SDECE"
+   ],
+   "explanation": "Le surnom vient de la piscine des Tourelles, voisine de son siège du boulevard Mortier, dans le 20e arrondissement de Paris.",
+   "wikipedia": "Direction générale de la Sécurité extérieure"
+  },
+  {
+   "id": "societe-150",
+   "difficulty": 3,
+   "question": "Quel pays a créé en 1809 la fonction d'ombudsman, chargé de recevoir les plaintes des citoyens contre l'administration ?",
+   "answer": "Suède",
+   "accept": [],
+   "choices": [
+    "Danemark",
+    "Norvège",
+    "Finlande"
+   ],
+   "explanation": "Le mot suédois signifie « représentant » ; l'institution a inspiré le Médiateur de la République français, créé en 1973.",
+   "wikipedia": "Ombudsman"
+  }
+ ]
+}
