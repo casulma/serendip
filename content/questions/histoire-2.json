@@ -1,0 +1,3646 @@
+{
+  "category": "histoire",
+  "questions": [
+    {
+      "id": "histoire-121",
+      "difficulty": 1,
+      "question": "Quel nom, tiré d'un abri sous roche des Eyzies en Dordogne, désigne les premiers Homo sapiens d'Europe ?",
+      "answer": "Cro-Magnon",
+      "accept": [],
+      "choices": [
+        "Néandertal",
+        "Tautavel",
+        "Grimaldi"
+      ],
+      "explanation": "Les squelettes furent mis au jour en 1868 lors de travaux de chemin de fer ; le terme « cro » signifie creux en occitan.",
+      "wikipedia": "Homme de Cro-Magnon"
+    },
+    {
+      "id": "histoire-122",
+      "difficulty": 2,
+      "question": "Dans quelle vallée allemande proche de Düsseldorf furent découverts en 1856 les fossiles qui ont donné leur nom à une espèce humaine ?",
+      "answer": "Néandertal",
+      "accept": [
+        "Neandertal",
+        "Neanderthal"
+      ],
+      "choices": [
+        "Heidelberg",
+        "Steinheim",
+        "Mauer"
+      ],
+      "explanation": "La vallée doit elle-même son nom au pasteur et poète Joachim Neander, dont le nom grécisé signifie « homme nouveau ».",
+      "wikipedia": "Homme de Néandertal"
+    },
+    {
+      "id": "histoire-123",
+      "difficulty": 2,
+      "question": "Quel village des Pyrénées-Orientales a donné son nom à un homme préhistorique vieux d'environ 450 000 ans ?",
+      "answer": "Tautavel",
+      "accept": [],
+      "choices": [
+        "Terra Amata",
+        "Lazaret",
+        "Arago"
+      ],
+      "explanation": "Ses restes ont été découverts dans la Caune de l'Arago, une grotte fouillée depuis 1964 par Henry de Lumley.",
+      "wikipedia": "Homme de Tautavel"
+    },
+    {
+      "id": "histoire-124",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le monument mégalithique formé d'une grande dalle horizontale posée sur des pierres dressées ?",
+      "answer": "dolmen",
+      "accept": [],
+      "choices": [
+        "menhir",
+        "cromlech",
+        "cairn"
+      ],
+      "explanation": "Les dolmens étaient des sépultures collectives, à l'origine souvent recouvertes d'un tertre de terre ou de pierres appelé tumulus ou cairn.",
+      "wikipedia": "Dolmen"
+    },
+    {
+      "id": "histoire-125",
+      "difficulty": 2,
+      "question": "Quel outil de pierre taillée sur ses deux faces, emblématique de l'Acheuléen, servait à couper et à racler ?",
+      "answer": "biface",
+      "accept": [],
+      "choices": [
+        "burin",
+        "grattoir",
+        "racloir"
+      ],
+      "explanation": "Le biface est surnommé « coup-de-poing » ; il fut fabriqué pendant plus d'un million d'années par Homo erectus puis d'autres espèces humaines.",
+      "wikipedia": "Biface"
+    },
+    {
+      "id": "histoire-126",
+      "difficulty": 3,
+      "question": "Quelle petite tête féminine en ivoire de mammouth, découverte dans les Landes, est l'un des plus anciens visages humains sculptés ?",
+      "answer": "Dame de Brassempouy",
+      "accept": [
+        "Brassempouy",
+        "Dame à la capuche"
+      ],
+      "choices": [
+        "Vénus de Lespugue",
+        "Vénus de Laussel",
+        "Dame de Vix"
+      ],
+      "explanation": "Haute de moins de quatre centimètres, elle est surnommée la Dame à la capuche ; elle est conservée au musée d'Archéologie nationale de Saint-Germain-en-Laye.",
+      "wikipedia": "Dame de Brassempouy"
+    },
+    {
+      "id": "histoire-127",
+      "difficulty": 1,
+      "question": "Quelle période de la Préhistoire est marquée par l'apparition de l'agriculture, de l'élevage et de la sédentarisation ?",
+      "answer": "Néolithique",
+      "accept": [],
+      "choices": [
+        "Paléolithique",
+        "Mésolithique",
+        "Chalcolithique"
+      ],
+      "explanation": "Son nom signifie « âge de la pierre nouvelle », en référence à la pierre polie qui apparaît alors aux côtés de la pierre taillée.",
+      "wikipedia": "Néolithique"
+    },
+    {
+      "id": "histoire-128",
+      "difficulty": 1,
+      "question": "Quel nom donne-t-on à la région du Proche-Orient en forme d'arc où naquirent l'agriculture et les premières villes ?",
+      "answer": "Croissant fertile",
+      "accept": [],
+      "choices": [
+        "Levant",
+        "Mésopotamie",
+        "Anatolie"
+      ],
+      "explanation": "L'expression fut forgée au début du XXe siècle par l'archéologue américain James Henry Breasted.",
+      "wikipedia": "Croissant fertile"
+    },
+    {
+      "id": "histoire-129",
+      "difficulty": 2,
+      "question": "Quelle grotte ornée des calanques de Marseille n'est accessible que par un long tunnel sous-marin ?",
+      "answer": "Cosquer",
+      "accept": [
+        "grotte Cosquer"
+      ],
+      "choices": [
+        "Lascaux",
+        "Niaux",
+        "Pech Merle"
+      ],
+      "explanation": "Le scaphandrier Henri Cosquer en découvrit l'entrée en 1985 ; la remontée du niveau de la mer depuis la dernière glaciation a noyé son accès.",
+      "wikipedia": "Grotte Cosquer"
+    },
+    {
+      "id": "histoire-130",
+      "difficulty": 3,
+      "question": "Quel site turc, aux piliers sculptés vieux de plus de 11 000 ans, est souvent présenté comme le plus ancien sanctuaire monumental connu ?",
+      "answer": "Göbekli Tepe",
+      "accept": [
+        "Gobekli Tepe"
+      ],
+      "choices": [
+        "Çayönü",
+        "Nevalı Çori",
+        "Hacilar"
+      ],
+      "explanation": "Bâti par des chasseurs-cueilleurs avant l'invention de l'agriculture, il bouscule l'idée que les grands monuments n'apparaissent qu'avec les sociétés sédentaires.",
+      "wikipedia": "Göbekli Tepe"
+    },
+    {
+      "id": "histoire-131",
+      "difficulty": 2,
+      "question": "Quel surnom, signifiant « espoir de vie » en langue goran, porte le crâne de Sahelanthropus découvert au Tchad en 2001 ?",
+      "answer": "Toumaï",
+      "accept": [],
+      "choices": [
+        "Lucy",
+        "Abel",
+        "Orrorin"
+      ],
+      "explanation": "Vieux d'environ sept millions d'années, ce fossile fut mis au jour dans le désert du Djourab par une équipe franco-tchadienne.",
+      "wikipedia": "Toumaï"
+    },
+    {
+      "id": "histoire-132",
+      "difficulty": 3,
+      "question": "Quel village autrichien, célèbre pour ses mines de sel, a donné son nom au premier âge du fer européen ?",
+      "answer": "Hallstatt",
+      "accept": [],
+      "choices": [
+        "Salzbourg",
+        "La Tène",
+        "Villanova"
+      ],
+      "explanation": "Une vaste nécropole y fut fouillée au XIXe siècle ; le sel conservé dans les galeries a préservé des outils et des vêtements de mineurs.",
+      "wikipedia": "Culture de Hallstatt"
+    },
+    {
+      "id": "histoire-133",
+      "difficulty": 2,
+      "question": "Quelle grotte cantabrique, aux bisons polychromes, fut la première dont l'art pariétal paléolithique fut reconnu ?",
+      "answer": "Altamira",
+      "accept": [],
+      "choices": [
+        "Lascaux",
+        "Chauvet",
+        "El Castillo"
+      ],
+      "explanation": "Ses peintures furent découvertes en 1879 par la fille de Marcelino Sanz de Sautuola ; leur authenticité fut longtemps contestée par les préhistoriens.",
+      "wikipedia": "Grotte d'Altamira"
+    },
+    {
+      "id": "histoire-134",
+      "difficulty": 1,
+      "question": "Quel nom porte la tour à étages en briques qui dominait les temples de Mésopotamie ?",
+      "answer": "ziggurat",
+      "accept": [
+        "ziggourat"
+      ],
+      "choices": [
+        "pyramide",
+        "stupa",
+        "mastaba"
+      ],
+      "explanation": "La ziggurat d'Etemenanki, à Babylone, est souvent considérée comme le modèle de la tour de Babel décrite dans la Bible.",
+      "wikipedia": "Ziggurat"
+    },
+    {
+      "id": "histoire-135",
+      "difficulty": 2,
+      "question": "Quel roi de Babylone détruisit le Temple de Jérusalem en 587 av. J.-C. et déporta une partie des Judéens ?",
+      "answer": "Nabuchodonosor II",
+      "accept": [
+        "Nabuchodonosor"
+      ],
+      "choices": [
+        "Assurbanipal",
+        "Sennachérib",
+        "Nabonide"
+      ],
+      "explanation": "La déportation des Judéens à Babylone, appelée l'Exil, dura jusqu'à la prise de la ville par le Perse Cyrus en 539 av. J.-C.",
+      "wikipedia": "Nabuchodonosor II"
+    },
+    {
+      "id": "histoire-136",
+      "difficulty": 1,
+      "question": "Quelle merveille du monde antique, attribuée à Babylone, n'a jamais été localisée avec certitude par les archéologues ?",
+      "answer": "jardins suspendus",
+      "accept": [
+        "jardins suspendus de Babylone"
+      ],
+      "choices": [
+        "phare d'Alexandrie",
+        "colosse de Rhodes",
+        "mausolée d'Halicarnasse"
+      ],
+      "explanation": "Certains chercheurs pensent qu'ils se trouvaient en réalité à Ninive, la capitale assyrienne, et non à Babylone.",
+      "wikipedia": "Jardins suspendus de Babylone"
+    },
+    {
+      "id": "histoire-137",
+      "difficulty": 3,
+      "question": "Quelle cité sumérienne a livré les plus anciennes tablettes écrites connues, datées d'environ 3300 av. J.-C. ?",
+      "answer": "Uruk",
+      "accept": [],
+      "choices": [
+        "Ur",
+        "Lagash",
+        "Nippur"
+      ],
+      "explanation": "Uruk fut sans doute la plus grande ville du monde à son époque ; son nom subsiste peut-être dans celui de l'Irak.",
+      "wikipedia": "Uruk"
+    },
+    {
+      "id": "histoire-138",
+      "difficulty": 2,
+      "question": "Quel peuple d'Anatolie, dont la capitale était Hattusa, fut l'une des grandes puissances du Proche-Orient au IIe millénaire av. J.-C. ?",
+      "answer": "Hittites",
+      "accept": [],
+      "choices": [
+        "Phrygiens",
+        "Lydiens",
+        "Mitanniens"
+      ],
+      "explanation": "Leur langue, déchiffrée en 1915 par Bedřich Hrozný, est la plus anciennement attestée des langues indo-européennes.",
+      "wikipedia": "Hittites"
+    },
+    {
+      "id": "histoire-139",
+      "difficulty": 2,
+      "question": "Quelle bataille de 1274 av. J.-C. opposa Ramsès II aux Hittites près du fleuve Oronte ?",
+      "answer": "Qadesh",
+      "accept": [
+        "Kadesh"
+      ],
+      "choices": [
+        "Megiddo",
+        "Karkemish",
+        "Ougarit"
+      ],
+      "explanation": "Ramsès II la présenta comme un triomphe sur les murs de ses temples, mais elle se solda en réalité par un statu quo.",
+      "wikipedia": "Bataille de Qadesh"
+    },
+    {
+      "id": "histoire-140",
+      "difficulty": 2,
+      "question": "Quelle reine légendaire aurait fondé Carthage en découpant une peau de bœuf en fines lanières ?",
+      "answer": "Didon",
+      "accept": [
+        "Élissa"
+      ],
+      "choices": [
+        "Zénobie",
+        "Sémiramis",
+        "Sophonisbe"
+      ],
+      "explanation": "On lui accorda autant de terre qu'une peau de bœuf pouvait en couvrir ; découpée en lanières, elle entoura toute une colline, la future Byrsa.",
+      "wikipedia": "Didon"
+    },
+    {
+      "id": "histoire-141",
+      "difficulty": 3,
+      "question": "Quel roi, représenté sur une célèbre palette de schiste, est traditionnellement considéré comme l'unificateur de la Haute et de la Basse-Égypte ?",
+      "answer": "Narmer",
+      "accept": [],
+      "choices": [
+        "Ménès",
+        "Djéser",
+        "Scorpion"
+      ],
+      "explanation": "La palette le montre coiffé tour à tour de la couronne blanche du Sud et de la couronne rouge du Nord ; elle est conservée au musée du Caire.",
+      "wikipedia": "Narmer"
+    },
+    {
+      "id": "histoire-142",
+      "difficulty": 2,
+      "question": "Quel architecte et vizir conçut la pyramide à degrés de Djéser à Saqqarah ?",
+      "answer": "Imhotep",
+      "accept": [],
+      "choices": [
+        "Hémiounou",
+        "Senenmout",
+        "Amenhotep"
+      ],
+      "explanation": "Il fut divinisé après sa mort et vénéré comme un dieu de la médecine, que les Grecs assimilèrent à Asclépios.",
+      "wikipedia": "Imhotep"
+    },
+    {
+      "id": "histoire-143",
+      "difficulty": 1,
+      "question": "Quelle statue colossale à corps de lion et tête humaine veille sur le plateau de Gizeh ?",
+      "answer": "Grand Sphinx",
+      "accept": [
+        "Sphinx",
+        "Sphinx de Gizeh"
+      ],
+      "choices": [
+        "colosse de Memnon",
+        "Chimère",
+        "Griffon"
+      ],
+      "explanation": "Taillé dans la roche même du plateau, il est généralement attribué au pharaon Khéphren ; son nez manque depuis des siècles.",
+      "wikipedia": "Sphinx de Gizeh"
+    },
+    {
+      "id": "histoire-144",
+      "difficulty": 2,
+      "question": "Quel sel naturel les Égyptiens utilisaient-ils pour dessécher les corps lors de la momification ?",
+      "answer": "natron",
+      "accept": [],
+      "choices": [
+        "salpêtre",
+        "alun",
+        "borax"
+      ],
+      "explanation": "Le corps restait couvert de natron environ quarante jours ; l'ensemble du rituel d'embaumement durait traditionnellement soixante-dix jours.",
+      "wikipedia": "Momie"
+    },
+    {
+      "id": "histoire-145",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les vases dans lesquels les Égyptiens conservaient les viscères du défunt momifié ?",
+      "answer": "canopes",
+      "accept": [
+        "vases canopes",
+        "canope"
+      ],
+      "choices": [
+        "amphores",
+        "oushebtis",
+        "cratères"
+      ],
+      "explanation": "Leurs couvercles représentaient les quatre fils d'Horus, chacun protégeant un organe : foie, poumons, estomac et intestins.",
+      "wikipedia": "Vase canope"
+    },
+    {
+      "id": "histoire-146",
+      "difficulty": 2,
+      "question": "Quelle statue égyptienne en calcaire peint, aux yeux incrustés de cristal de roche, est l'une des vedettes du Louvre ?",
+      "answer": "Scribe accroupi",
+      "accept": [
+        "le Scribe accroupi"
+      ],
+      "choices": [
+        "Néfertiti",
+        "Ramsès assis",
+        "Akhenaton"
+      ],
+      "explanation": "Découverte à Saqqarah par Auguste Mariette en 1850, cette statue de l'Ancien Empire représente un personnage anonyme tenant un papyrus.",
+      "wikipedia": "Le Scribe accroupi"
+    },
+    {
+      "id": "histoire-147",
+      "difficulty": 1,
+      "question": "Le buste de quelle reine égyptienne, découvert à Amarna en 1912, est conservé au Neues Museum de Berlin ?",
+      "answer": "Néfertiti",
+      "accept": [
+        "Nefertiti"
+      ],
+      "choices": [
+        "Hatchepsout",
+        "Néfertari",
+        "Tiyi"
+      ],
+      "explanation": "Ce buste peint, dont un œil n'a jamais été incrusté, fut mis au jour dans l'atelier du sculpteur Thoutmôsis.",
+      "wikipedia": "Néfertiti"
+    },
+    {
+      "id": "histoire-148",
+      "difficulty": 1,
+      "question": "Quel site de la rive ouest de Thèbes abrite les tombeaux creusés des pharaons du Nouvel Empire ?",
+      "answer": "Vallée des Rois",
+      "accept": [],
+      "choices": [
+        "Vallée des Reines",
+        "Vallée des Nobles",
+        "Vallée des Temples"
+      ],
+      "explanation": "Les pharaons y renoncèrent aux pyramides, trop visibles et pillées, au profit de tombes cachées dans la montagne thébaine.",
+      "wikipedia": "Vallée des Rois"
+    },
+    {
+      "id": "histoire-149",
+      "difficulty": 2,
+      "question": "Quel immense complexe religieux de Louxor était consacré principalement au dieu Amon ?",
+      "answer": "Karnak",
+      "accept": [],
+      "choices": [
+        "Dendérah",
+        "Edfou",
+        "Kôm Ombo"
+      ],
+      "explanation": "Sa grande salle hypostyle compte 134 colonnes ; les pharaons successifs l'agrandirent pendant près de deux mille ans.",
+      "wikipedia": "Karnak"
+    },
+    {
+      "id": "histoire-150",
+      "difficulty": 2,
+      "question": "Quel général macédonien d'Alexandre fonda la dynastie qui régna sur l'Égypte jusqu'à Cléopâtre ?",
+      "answer": "Ptolémée Ier",
+      "accept": [
+        "Ptolémée",
+        "Ptolémée Ier Sôter"
+      ],
+      "choices": [
+        "Séleucos Ier",
+        "Antigone le Borgne",
+        "Perdiccas"
+      ],
+      "explanation": "Il fit détourner le corps d'Alexandre vers l'Égypte et fonda le Musée et la Bibliothèque d'Alexandrie.",
+      "wikipedia": "Ptolémée Ier"
+    },
+    {
+      "id": "histoire-151",
+      "difficulty": 3,
+      "question": "Quel pharaon conquérant de la XVIIIe dynastie, vainqueur à Megiddo, est parfois surnommé le Napoléon de l'Égypte ?",
+      "answer": "Thoutmôsis III",
+      "accept": [
+        "Thoutmosis III"
+      ],
+      "choices": [
+        "Ramsès II",
+        "Amenhotep II",
+        "Séthi Ier"
+      ],
+      "explanation": "Il mena dix-sept campagnes militaires au Proche-Orient et fit marteler les images de sa belle-mère Hatchepsout.",
+      "wikipedia": "Thoutmôsis III"
+    },
+    {
+      "id": "histoire-152",
+      "difficulty": 3,
+      "question": "Quel royaume nubien, avec Napata puis Méroé pour capitales, donna à l'Égypte ses « pharaons noirs » ?",
+      "answer": "Koush",
+      "accept": [
+        "Kouch",
+        "royaume de Koush"
+      ],
+      "choices": [
+        "Aksoum",
+        "Pount",
+        "Kerma"
+      ],
+      "explanation": "Les rois koushites de la XXVe dynastie bâtirent eux-mêmes des pyramides, plus nombreuses au Soudan qu'en Égypte.",
+      "wikipedia": "Royaume de Koush"
+    },
+    {
+      "id": "histoire-153",
+      "difficulty": 2,
+      "question": "Quel pharaon fit construire la plus petite des trois grandes pyramides de Gizeh ?",
+      "answer": "Mykérinos",
+      "accept": [
+        "Menkaourê"
+      ],
+      "choices": [
+        "Khéphren",
+        "Djédefrê",
+        "Snéfrou"
+      ],
+      "explanation": "Sa pyramide fut en partie revêtue de granite rose d'Assouan ; le sultan Saladin tenta, dit-on, de la démolir.",
+      "wikipedia": "Mykérinos"
+    },
+    {
+      "id": "histoire-154",
+      "difficulty": 1,
+      "question": "Dans quel sanctuaire du Péloponnèse se tenaient les Jeux antiques organisés en l'honneur de Zeus ?",
+      "answer": "Olympie",
+      "accept": [],
+      "choices": [
+        "Delphes",
+        "Corinthe",
+        "Némée"
+      ],
+      "explanation": "La tradition date les premiers Jeux de 776 av. J.-C. ; pendant la compétition, une trêve sacrée suspendait les guerres entre cités.",
+      "wikipedia": "Olympie"
+    },
+    {
+      "id": "histoire-155",
+      "difficulty": 1,
+      "question": "Dans quel sanctuaire la Pythie, assise sur un trépied, rendait-elle les oracles d'Apollon ?",
+      "answer": "Delphes",
+      "accept": [],
+      "choices": [
+        "Délos",
+        "Dodone",
+        "Olympie"
+      ],
+      "explanation": "Les Grecs considéraient Delphes comme le nombril du monde, marqué par une pierre sacrée appelée l'omphalos.",
+      "wikipedia": "Delphes"
+    },
+    {
+      "id": "histoire-156",
+      "difficulty": 1,
+      "question": "Quelle bataille navale de 480 av. J.-C. vit la flotte grecque vaincre celle de Xerxès dans un détroit proche d'Athènes ?",
+      "answer": "Salamine",
+      "accept": [],
+      "choices": [
+        "Artémision",
+        "Mycale",
+        "Lépante"
+      ],
+      "explanation": "Eschyle, qui y aurait combattu, en fit le sujet de sa tragédie Les Perses, la plus ancienne pièce de théâtre conservée.",
+      "wikipedia": "Bataille de Salamine"
+    },
+    {
+      "id": "histoire-157",
+      "difficulty": 2,
+      "question": "Comment s'appelait le navire de guerre grec propulsé par trois rangées superposées de rameurs ?",
+      "answer": "trière",
+      "accept": [
+        "trirème"
+      ],
+      "choices": [
+        "galère",
+        "pentécontère",
+        "birème"
+      ],
+      "explanation": "Son arme principale était un éperon de bronze à la proue, destiné à éventrer la coque des navires ennemis.",
+      "wikipedia": "Trière"
+    },
+    {
+      "id": "histoire-158",
+      "difficulty": 2,
+      "question": "Quel historien athénien a raconté la guerre du Péloponnèse, à laquelle il participa lui-même comme stratège ?",
+      "answer": "Thucydide",
+      "accept": [],
+      "choices": [
+        "Hérodote",
+        "Xénophon",
+        "Polybe"
+      ],
+      "explanation": "Exilé après avoir échoué à défendre Amphipolis, il mit à profit ses vingt ans d'exil pour enquêter auprès des deux camps.",
+      "wikipedia": "Thucydide"
+    },
+    {
+      "id": "histoire-159",
+      "difficulty": 1,
+      "question": "Quel auteur grec d'Halicarnasse, surnommé le père de l'Histoire par Cicéron, a raconté les guerres médiques ?",
+      "answer": "Hérodote",
+      "accept": [],
+      "choices": [
+        "Thucydide",
+        "Xénophon",
+        "Plutarque"
+      ],
+      "explanation": "Son œuvre s'intitule Enquêtes, traduction du grec « historiai », et décrit aussi les mœurs des Égyptiens, des Perses ou des Scythes.",
+      "wikipedia": "Hérodote"
+    },
+    {
+      "id": "histoire-160",
+      "difficulty": 1,
+      "question": "Quel législateur athénien a donné son nom à un adjectif désignant des mesures d'une sévérité excessive ?",
+      "answer": "Dracon",
+      "accept": [],
+      "choices": [
+        "Solon",
+        "Lycurgue",
+        "Clisthène"
+      ],
+      "explanation": "Son code, rédigé vers 621 av. J.-C., punissait de mort jusqu'aux petits vols ; on disait ses lois écrites avec du sang.",
+      "wikipedia": "Dracon"
+    },
+    {
+      "id": "histoire-161",
+      "difficulty": 2,
+      "question": "Quel législateur athénien, compté parmi les Sept Sages, abolit l'esclavage pour dettes au début du VIe siècle av. J.-C. ?",
+      "answer": "Solon",
+      "accept": [],
+      "choices": [
+        "Dracon",
+        "Pisistrate",
+        "Clisthène"
+      ],
+      "explanation": "Il répartit les citoyens en classes selon leur richesse, puis quitta Athènes dix ans pour ne pas avoir à modifier ses lois.",
+      "wikipedia": "Solon"
+    },
+    {
+      "id": "histoire-162",
+      "difficulty": 2,
+      "question": "Comment appelait-on les paysans asservis qui cultivaient la terre pour les citoyens de Sparte ?",
+      "answer": "hilotes",
+      "accept": [
+        "ilotes"
+      ],
+      "choices": [
+        "métèques",
+        "périèques",
+        "esclaves"
+      ],
+      "explanation": "Bien plus nombreux que les Spartiates, ils étaient étroitement surveillés ; chaque année, Sparte leur déclarait rituellement la guerre.",
+      "wikipedia": "Hilotes"
+    },
+    {
+      "id": "histoire-163",
+      "difficulty": 1,
+      "question": "Comment s'appelait le fantassin grec lourdement armé qui combattait en rangs serrés dans la phalange ?",
+      "answer": "hoplite",
+      "accept": [],
+      "choices": [
+        "peltaste",
+        "archer",
+        "centurion"
+      ],
+      "explanation": "Son nom vient de l'hoplon, grand bouclier rond qui protégeait aussi en partie le voisin de gauche dans la phalange.",
+      "wikipedia": "Hoplite"
+    },
+    {
+      "id": "histoire-164",
+      "difficulty": 2,
+      "question": "Quel orateur athénien prononça les Philippiques contre le roi Philippe II de Macédoine ?",
+      "answer": "Démosthène",
+      "accept": [],
+      "choices": [
+        "Isocrate",
+        "Eschine",
+        "Lysias"
+      ],
+      "explanation": "Selon Plutarque, il s'entraînait à parler avec des cailloux dans la bouche pour corriger un défaut de prononciation.",
+      "wikipedia": "Démosthène"
+    },
+    {
+      "id": "histoire-165",
+      "difficulty": 3,
+      "question": "Quelle bataille de 338 av. J.-C. permit à Philippe II de Macédoine de soumettre Athènes et Thèbes ?",
+      "answer": "Chéronée",
+      "accept": [],
+      "choices": [
+        "Leuctres",
+        "Mantinée",
+        "Platées"
+      ],
+      "explanation": "Le jeune Alexandre, âgé de dix-huit ans, y commandait la cavalerie qui anéantit le Bataillon sacré thébain.",
+      "wikipedia": "Bataille de Chéronée (338 av. J.-C.)"
+    },
+    {
+      "id": "histoire-166",
+      "difficulty": 1,
+      "question": "Comment s'appelait le célèbre cheval d'Alexandre le Grand, qu'il était seul à pouvoir monter ?",
+      "answer": "Bucéphale",
+      "accept": [],
+      "choices": [
+        "Pégase",
+        "Incitatus",
+        "Arion"
+      ],
+      "explanation": "Alexandre l'aurait dompté en le tournant face au soleil, car le cheval avait peur de son ombre ; il fonda une ville en son honneur.",
+      "wikipedia": "Bucéphale"
+    },
+    {
+      "id": "histoire-167",
+      "difficulty": 3,
+      "question": "Quelle bataille de 331 av. J.-C. vit Alexandre le Grand vaincre définitivement le roi perse Darius III ?",
+      "answer": "Gaugamèles",
+      "accept": [
+        "Gaugamela"
+      ],
+      "choices": [
+        "Issos",
+        "Granique",
+        "Hydaspe"
+      ],
+      "explanation": "Darius s'enfuit à nouveau et fut assassiné l'année suivante par l'un de ses satrapes, Bessos.",
+      "wikipedia": "Bataille de Gaugamèles"
+    },
+    {
+      "id": "histoire-168",
+      "difficulty": 1,
+      "question": "Quelle statue géante du dieu Hélios, l'une des Sept Merveilles, fut renversée par un séisme vers 226 av. J.-C. ?",
+      "answer": "Colosse de Rhodes",
+      "accept": [
+        "Colosse"
+      ],
+      "choices": [
+        "Zeus d'Olympie",
+        "Athéna Parthénos",
+        "Colosse de Néron"
+      ],
+      "explanation": "Haute d'une trentaine de mètres, elle ne tint debout qu'une soixantaine d'années ; l'image d'un colosse enjambant le port est une légende.",
+      "wikipedia": "Colosse de Rhodes"
+    },
+    {
+      "id": "histoire-169",
+      "difficulty": 3,
+      "question": "Quel homme incendia le temple d'Artémis à Éphèse en 356 av. J.-C. dans le seul but de devenir célèbre ?",
+      "answer": "Érostrate",
+      "accept": [],
+      "choices": [
+        "Pausanias",
+        "Éphialte",
+        "Alcibiade"
+      ],
+      "explanation": "Les Éphésiens interdirent de prononcer son nom, en vain : il a donné le terme « complexe d'Érostrate ».",
+      "wikipedia": "Érostrate"
+    },
+    {
+      "id": "histoire-170",
+      "difficulty": 1,
+      "question": "Quel palais crétois, fouillé par Arthur Evans, est associé au mythe du labyrinthe du Minotaure ?",
+      "answer": "Cnossos",
+      "accept": [
+        "Knossos"
+      ],
+      "choices": [
+        "Phaistos",
+        "Mycènes",
+        "Tirynthe"
+      ],
+      "explanation": "Evans y fit reconstruire des parties en béton armé et baptisa « minoenne » la civilisation crétoise, d'après le roi légendaire Minos.",
+      "wikipedia": "Cnossos"
+    },
+    {
+      "id": "histoire-171",
+      "difficulty": 2,
+      "question": "Quel archéologue allemand mit au jour les vestiges de Troie sur la colline d'Hissarlik, en Turquie ?",
+      "answer": "Heinrich Schliemann",
+      "accept": [
+        "Schliemann"
+      ],
+      "choices": [
+        "Arthur Evans",
+        "Wilhelm Dörpfeld",
+        "Carl Blegen"
+      ],
+      "explanation": "Il fit sortir clandestinement de Turquie un trésor qu'il attribua au roi Priam, et en para son épouse Sophia.",
+      "wikipedia": "Heinrich Schliemann"
+    },
+    {
+      "id": "histoire-172",
+      "difficulty": 2,
+      "question": "Quelle île des Cyclades fut ravagée à l'âge du bronze par une éruption volcanique majeure ?",
+      "answer": "Santorin",
+      "accept": [
+        "Théra"
+      ],
+      "choices": [
+        "Milos",
+        "Naxos",
+        "Délos"
+      ],
+      "explanation": "L'éruption minoenne laissa une immense caldeira ; on y relie parfois le mythe de l'Atlantide et le déclin de la Crète minoenne.",
+      "wikipedia": "Éruption minoenne"
+    },
+    {
+      "id": "histoire-173",
+      "difficulty": 1,
+      "question": "À quelle déesse, protectrice de la cité, le Parthénon de l'Acropole d'Athènes était-il dédié ?",
+      "answer": "Athéna",
+      "accept": [],
+      "choices": [
+        "Héra",
+        "Artémis",
+        "Aphrodite"
+      ],
+      "explanation": "Le nom du temple vient de l'épiclèse Athéna Parthénos, « la vierge » ; il fut transformé en église, en mosquée, puis en poudrière.",
+      "wikipedia": "Parthénon"
+    },
+    {
+      "id": "histoire-174",
+      "difficulty": 3,
+      "question": "Quel général thébain brisa la suprématie de Sparte à la bataille de Leuctres en 371 av. J.-C. ?",
+      "answer": "Épaminondas",
+      "accept": [],
+      "choices": [
+        "Pélopidas",
+        "Pausanias",
+        "Lysandre"
+      ],
+      "explanation": "Il innova en renforçant massivement son aile gauche, la fameuse « ligne oblique » ; il mourut lors de sa victoire de Mantinée.",
+      "wikipedia": "Épaminondas"
+    },
+    {
+      "id": "histoire-175",
+      "difficulty": 1,
+      "question": "Quelle célèbre formule latine Jules César employa-t-il pour annoncer sa victoire éclair de Zéla en 47 av. J.-C. ?",
+      "answer": "Veni, vidi, vici",
+      "accept": [
+        "veni vidi vici"
+      ],
+      "choices": [
+        "Alea jacta est",
+        "Vae victis",
+        "Ave Caesar"
+      ],
+      "explanation": "Ces trois mots, « je suis venu, j'ai vu, j'ai vaincu », célébraient sa victoire sur Pharnace II, roi du Pont, obtenue en quelques heures.",
+      "wikipedia": "Veni, vidi, vici"
+    },
+    {
+      "id": "histoire-176",
+      "difficulty": 1,
+      "question": "Quel gladiateur thrace mena entre 73 et 71 av. J.-C. la plus grande révolte d'esclaves contre Rome ?",
+      "answer": "Spartacus",
+      "accept": [],
+      "choices": [
+        "Vercingétorix",
+        "Arminius",
+        "Jugurtha"
+      ],
+      "explanation": "Après sa défaite face à Crassus, six mille esclaves capturés furent crucifiés le long de la via Appia, entre Capoue et Rome.",
+      "wikipedia": "Spartacus"
+    },
+    {
+      "id": "histoire-177",
+      "difficulty": 1,
+      "question": "Quel empereur romain a donné son nom au huitième mois de notre calendrier ?",
+      "answer": "Auguste",
+      "accept": [
+        "Octave"
+      ],
+      "choices": [
+        "Jules César",
+        "Tibère",
+        "Claude"
+      ],
+      "explanation": "Le mois s'appelait auparavant sextilis ; il fut rebaptisé en 8 av. J.-C. en l'honneur du premier empereur.",
+      "wikipedia": "Auguste"
+    },
+    {
+      "id": "histoire-178",
+      "difficulty": 1,
+      "question": "Quelle bataille navale de 31 av. J.-C. vit Octave vaincre la flotte de Marc Antoine et de Cléopâtre ?",
+      "answer": "Actium",
+      "accept": [],
+      "choices": [
+        "Mylae",
+        "Salamine",
+        "Lépante"
+      ],
+      "explanation": "La victoire fut surtout l'œuvre de l'amiral Agrippa ; Antoine et Cléopâtre se suicidèrent l'année suivante à Alexandrie.",
+      "wikipedia": "Bataille d'Actium"
+    },
+    {
+      "id": "histoire-179",
+      "difficulty": 1,
+      "question": "Quel empereur romain aurait songé à faire nommer consul son cheval favori, Incitatus ?",
+      "answer": "Caligula",
+      "accept": [],
+      "choices": [
+        "Néron",
+        "Commode",
+        "Domitien"
+      ],
+      "explanation": "Son surnom signifie « petite chaussure » : il le reçut enfant des soldats de son père Germanicus, car il portait de petites sandales militaires.",
+      "wikipedia": "Caligula"
+    },
+    {
+      "id": "histoire-180",
+      "difficulty": 2,
+      "question": "Quel empereur romain, qui taxa la collecte de l'urine, a laissé son nom aux urinoirs publics en français ?",
+      "answer": "Vespasien",
+      "accept": [],
+      "choices": [
+        "Titus",
+        "Domitien",
+        "Galba"
+      ],
+      "explanation": "À son fils Titus qui trouvait cet impôt indigne, il aurait répondu que l'argent n'a pas d'odeur, « pecunia non olet ».",
+      "wikipedia": "Vespasien"
+    },
+    {
+      "id": "histoire-181",
+      "difficulty": 2,
+      "question": "Quel empereur romain conquit la Dacie, exploit sculpté en spirale sur une colonne d'une trentaine de mètres à Rome ?",
+      "answer": "Trajan",
+      "accept": [],
+      "choices": [
+        "Hadrien",
+        "Marc Aurèle",
+        "Septime Sévère"
+      ],
+      "explanation": "Sous son règne, l'Empire romain atteignit sa plus grande extension ; ses cendres furent déposées dans la base de la colonne.",
+      "wikipedia": "Colonne Trajane"
+    },
+    {
+      "id": "histoire-182",
+      "difficulty": 1,
+      "question": "Quel empereur romain, vainqueur au pont Milvius en 312, fonda une nouvelle capitale sur le Bosphore ?",
+      "answer": "Constantin Ier",
+      "accept": [
+        "Constantin"
+      ],
+      "choices": [
+        "Théodose Ier",
+        "Dioclétien",
+        "Julien"
+      ],
+      "explanation": "Il aurait vu avant la bataille un signe dans le ciel avec ces mots : « Par ce signe tu vaincras ». Il ne fut baptisé que sur son lit de mort.",
+      "wikipedia": "Constantin Ier (empereur romain)"
+    },
+    {
+      "id": "histoire-183",
+      "difficulty": 3,
+      "question": "Quel empereur, mort en 395, fut le dernier à régner sur la totalité de l'Empire romain avant son partage définitif ?",
+      "answer": "Théodose Ier",
+      "accept": [
+        "Théodose"
+      ],
+      "choices": [
+        "Constantin Ier",
+        "Valentinien Ier",
+        "Honorius"
+      ],
+      "explanation": "Il fit du christianisme nicéen la religion officielle de l'Empire et interdit les cultes païens, ce qui mit fin aux Jeux olympiques antiques.",
+      "wikipedia": "Théodose Ier"
+    },
+    {
+      "id": "histoire-184",
+      "difficulty": 2,
+      "question": "Quel chef germanique déposa en 476 Romulus Augustule, dernier empereur romain d'Occident ?",
+      "answer": "Odoacre",
+      "accept": [],
+      "choices": [
+        "Alaric",
+        "Théodoric",
+        "Genséric"
+      ],
+      "explanation": "Il renvoya les insignes impériaux à Constantinople ; cette date est souvent retenue pour marquer la fin de l'Antiquité.",
+      "wikipedia": "Odoacre"
+    },
+    {
+      "id": "histoire-185",
+      "difficulty": 2,
+      "question": "Quelle ville voisine de Pompéi, ensevelie en 79 par l'éruption du Vésuve, a livré une bibliothèque de papyrus carbonisés ?",
+      "answer": "Herculanum",
+      "accept": [],
+      "choices": [
+        "Stabies",
+        "Oplontis",
+        "Ostie"
+      ],
+      "explanation": "Moins connue que Pompéi, la ville fut ensevelie sous une vingtaine de mètres de matériaux volcaniques, qui ont préservé bois, nourriture et squelettes.",
+      "wikipedia": "Herculanum"
+    },
+    {
+      "id": "histoire-186",
+      "difficulty": 2,
+      "question": "Quel type de gladiateur combattait armé d'un filet et d'un trident ?",
+      "answer": "rétiaire",
+      "accept": [],
+      "choices": [
+        "mirmillon",
+        "thrace",
+        "secutor"
+      ],
+      "explanation": "Le rétiaire ne portait presque pas d'armure ; il affrontait souvent le secutor, coiffé d'un casque lisse pour ne pas accrocher le filet.",
+      "wikipedia": "Rétiaire"
+    },
+    {
+      "id": "histoire-187",
+      "difficulty": 1,
+      "question": "Quel sigle latin, inscrit sur les enseignes des légions, signifie « le Sénat et le peuple romain » ?",
+      "answer": "SPQR",
+      "accept": [],
+      "choices": [
+        "SPQA",
+        "INRI",
+        "RPSQ"
+      ],
+      "explanation": "Il abrège « Senatus populusque Romanus » ; on le voit encore aujourd'hui sur les plaques d'égout et les bâtiments de la ville de Rome.",
+      "wikipedia": "Senatus populusque Romanus"
+    },
+    {
+      "id": "histoire-188",
+      "difficulty": 2,
+      "question": "Quels frères, tribuns de la plèbe, tentèrent une réforme agraire au IIe siècle av. J.-C. et périrent assassinés ?",
+      "answer": "Gracques",
+      "accept": [
+        "les Gracques"
+      ],
+      "choices": [
+        "Scipions",
+        "Horaces",
+        "Catons"
+      ],
+      "explanation": "Tiberius et Caius Gracchus étaient les fils de Cornélie, qui aurait présenté ses enfants comme ses seuls bijoux.",
+      "wikipedia": "Gracques"
+    },
+    {
+      "id": "histoire-189",
+      "difficulty": 2,
+      "question": "Quel Romain légendaire quitta sa charrue pour sauver Rome comme dictateur, puis retourna à ses champs ?",
+      "answer": "Cincinnatus",
+      "accept": [],
+      "choices": [
+        "Camille",
+        "Coriolan",
+        "Fabius Maximus"
+      ],
+      "explanation": "Il abandonna le pouvoir au bout de seize jours ; la ville américaine de Cincinnati doit son nom à une société d'officiers qui l'honorait.",
+      "wikipedia": "Lucius Quinctius Cincinnatus"
+    },
+    {
+      "id": "histoire-190",
+      "difficulty": 2,
+      "question": "Quel homme politique romain terminait tous ses discours par « Il faut détruire Carthage » ?",
+      "answer": "Caton l'Ancien",
+      "accept": [
+        "Caton",
+        "Caton le Censeur"
+      ],
+      "choices": [
+        "Cicéron",
+        "Scipion l'Africain",
+        "Sylla"
+      ],
+      "explanation": "La formule latine est « Carthago delenda est » ; Carthage fut effectivement rasée en 146 av. J.-C., trois ans après sa mort.",
+      "wikipedia": "Caton l'Ancien"
+    },
+    {
+      "id": "histoire-191",
+      "difficulty": 2,
+      "question": "Quel général romain vainquit Hannibal à la bataille de Zama en 202 av. J.-C. ?",
+      "answer": "Scipion l'Africain",
+      "accept": [
+        "Scipion"
+      ],
+      "choices": [
+        "Fabius Maximus",
+        "Marcellus",
+        "Paul Émile"
+      ],
+      "explanation": "Son surnom d'Africain lui fut décerné après cette victoire, remportée en Afrique avec l'appui de la cavalerie numide de Massinissa.",
+      "wikipedia": "Scipion l'Africain"
+    },
+    {
+      "id": "histoire-192",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les trois conflits qui opposèrent Rome à Carthage entre 264 et 146 av. J.-C. ?",
+      "answer": "guerres puniques",
+      "accept": [],
+      "choices": [
+        "guerres médiques",
+        "guerres samnites",
+        "guerres civiles"
+      ],
+      "explanation": "Le mot « punique » vient du latin « Punicus », désignant les Phéniciens, fondateurs de Carthage.",
+      "wikipedia": "Guerres puniques"
+    },
+    {
+      "id": "histoire-193",
+      "difficulty": 2,
+      "question": "Dans quelle bataille de 216 av. J.-C. Hannibal infligea-t-il aux Romains une écrasante défaite par encerclement ?",
+      "answer": "Cannes",
+      "accept": [],
+      "choices": [
+        "Trasimène",
+        "Trébie",
+        "Zama"
+      ],
+      "explanation": "Cette bataille, livrée en Apulie, reste un modèle d'enveloppement étudié dans les écoles militaires du monde entier.",
+      "wikipedia": "Bataille de Cannes"
+    },
+    {
+      "id": "histoire-194",
+      "difficulty": 2,
+      "question": "Dans quelle forêt de Germanie les trois légions de Varus furent-elles anéanties en l'an 9 ?",
+      "answer": "Teutobourg",
+      "accept": [
+        "forêt de Teutobourg"
+      ],
+      "choices": [
+        "Forêt-Noire",
+        "Ardennes",
+        "Hercynie"
+      ],
+      "explanation": "Auguste se serait écrié « Varus, rends-moi mes légions ! » ; Rome renonça ensuite à conquérir la Germanie au-delà du Rhin.",
+      "wikipedia": "Bataille de Teutobourg"
+    },
+    {
+      "id": "histoire-195",
+      "difficulty": 1,
+      "question": "Quel nom portait Paris à l'époque gallo-romaine ?",
+      "answer": "Lutèce",
+      "accept": [
+        "Lutetia"
+      ],
+      "choices": [
+        "Lugdunum",
+        "Durocortorum",
+        "Burdigala"
+      ],
+      "explanation": "Les Parisii, peuple gaulois de la région, ont laissé leur nom à la ville à partir de la fin de l'Empire romain.",
+      "wikipedia": "Lutèce"
+    },
+    {
+      "id": "histoire-196",
+      "difficulty": 2,
+      "question": "Quel temple romain, coiffé d'une coupole percée d'un oculus, fut rebâti sous Hadrien et reste l'un des mieux conservés ?",
+      "answer": "Panthéon",
+      "accept": [
+        "Panthéon de Rome"
+      ],
+      "choices": [
+        "Capitole",
+        "Colisée",
+        "temple de Vesta"
+      ],
+      "explanation": "Sa coupole de béton non armé reste, près de deux mille ans plus tard, la plus grande de ce type au monde ; Raphaël y est inhumé.",
+      "wikipedia": "Panthéon (Rome)"
+    },
+    {
+      "id": "histoire-197",
+      "difficulty": 3,
+      "question": "Quel empereur accorda en 212 la citoyenneté romaine à tous les hommes libres de l'Empire ?",
+      "answer": "Caracalla",
+      "accept": [],
+      "choices": [
+        "Septime Sévère",
+        "Hadrien",
+        "Aurélien"
+      ],
+      "explanation": "L'édit, appelé constitution antonine, aurait aussi servi à élargir l'assiette de l'impôt sur les successions réservé aux citoyens.",
+      "wikipedia": "Caracalla"
+    },
+    {
+      "id": "histoire-198",
+      "difficulty": 2,
+      "question": "Quel empereur instaura la Tétrarchie, partageant le pouvoir entre deux Augustes et deux Césars ?",
+      "answer": "Dioclétien",
+      "accept": [],
+      "choices": [
+        "Constantin",
+        "Aurélien",
+        "Maximien"
+      ],
+      "explanation": "Il fut l'un des rares empereurs à abdiquer volontairement, en 305, pour se retirer dans son immense palais de Split.",
+      "wikipedia": "Dioclétien"
+    },
+    {
+      "id": "histoire-199",
+      "difficulty": 2,
+      "question": "Quel orateur romain dénonça une conjuration au Sénat par la phrase « Jusqu'à quand abuseras-tu de notre patience ? » ?",
+      "answer": "Cicéron",
+      "accept": [],
+      "choices": [
+        "Caton",
+        "Crassus",
+        "Pompée"
+      ],
+      "explanation": "Ces Catilinaires visaient Catilina ; plus tard, Cicéron fut assassiné sur ordre de Marc Antoine, qui fit exposer sa tête et ses mains.",
+      "wikipedia": "Cicéron"
+    },
+    {
+      "id": "histoire-200",
+      "difficulty": 2,
+      "question": "Quelle forteresse surplombant la mer Morte fut le dernier bastion des Juifs révoltés contre Rome, tombé en 73 ou 74 ?",
+      "answer": "Massada",
+      "accept": [
+        "Masada"
+      ],
+      "choices": [
+        "Qumrân",
+        "Machéronte",
+        "Hérodion"
+      ],
+      "explanation": "Selon Flavius Josèphe, la plupart des défenseurs préférèrent se donner la mort plutôt que de tomber aux mains des Romains.",
+      "wikipedia": "Massada"
+    },
+    {
+      "id": "histoire-201",
+      "difficulty": 1,
+      "question": "Comment appelait-on les prêtresses romaines chargées d'entretenir le feu sacré de la cité ?",
+      "answer": "vestales",
+      "accept": [],
+      "choices": [
+        "sibylles",
+        "pythies",
+        "augures"
+      ],
+      "explanation": "Choisies enfants, elles faisaient vœu de chasteté pour trente ans ; celle qui le rompait était emmurée vivante.",
+      "wikipedia": "Vestale"
+    },
+    {
+      "id": "histoire-202",
+      "difficulty": 3,
+      "question": "Quel oppidum éduen du mont Beuvray accueillit l'assemblée gauloise qui confia le commandement à Vercingétorix ?",
+      "answer": "Bibracte",
+      "accept": [],
+      "choices": [
+        "Gergovie",
+        "Avaricum",
+        "Alésia"
+      ],
+      "explanation": "César y rédigea une partie de ses Commentaires ; la ville fut abandonnée au profit d'Autun, fondée par Auguste.",
+      "wikipedia": "Bibracte"
+    },
+    {
+      "id": "histoire-203",
+      "difficulty": 2,
+      "question": "Près de quelle place forte arverne Vercingétorix infligea-t-il une défaite à Jules César en 52 av. J.-C. ?",
+      "answer": "Gergovie",
+      "accept": [],
+      "choices": [
+        "Alésia",
+        "Bibracte",
+        "Avaricum"
+      ],
+      "explanation": "Le site, sur un plateau au sud de Clermont-Ferrand, est le seul grand revers de César mentionné dans sa Guerre des Gaules.",
+      "wikipedia": "Siège de Gergovie"
+    },
+    {
+      "id": "histoire-204",
+      "difficulty": 2,
+      "question": "Quelle reine des Icènes mena vers l'an 60 une révolte sanglante contre les Romains en Bretagne ?",
+      "answer": "Boadicée",
+      "accept": [
+        "Boudicca"
+      ],
+      "choices": [
+        "Cartimandua",
+        "Zénobie",
+        "Brunehaut"
+      ],
+      "explanation": "Ses troupes incendièrent Londinium, l'actuelle Londres ; une statue la montre sur un char près du palais de Westminster.",
+      "wikipedia": "Boudica"
+    },
+    {
+      "id": "histoire-205",
+      "difficulty": 1,
+      "question": "Quel roi des Huns fut arrêté par les Romains et leurs alliés à la bataille des champs Catalauniques en 451 ?",
+      "answer": "Attila",
+      "accept": [],
+      "choices": [
+        "Genséric",
+        "Alaric",
+        "Odoacre"
+      ],
+      "explanation": "Surnommé le fléau de Dieu, il mourut deux ans plus tard, dit-on d'une hémorragie pendant sa nuit de noces.",
+      "wikipedia": "Attila"
+    },
+    {
+      "id": "histoire-206",
+      "difficulty": 2,
+      "question": "Quel roi wisigoth mit Rome à sac en 410, un choc immense pour le monde romain ?",
+      "answer": "Alaric Ier",
+      "accept": [
+        "Alaric"
+      ],
+      "choices": [
+        "Attila",
+        "Genséric",
+        "Clovis"
+      ],
+      "explanation": "Mort peu après, il aurait été enterré dans le lit d'une rivière de Calabre détournée pour l'occasion, avec ses trésors.",
+      "wikipedia": "Alaric Ier"
+    },
+    {
+      "id": "histoire-207",
+      "difficulty": 1,
+      "question": "Quel peuple de l'Italie antique, établi en Toscane, fournit plusieurs rois à Rome avant la République ?",
+      "answer": "Étrusques",
+      "accept": [],
+      "choices": [
+        "Samnites",
+        "Sabins",
+        "Latins"
+      ],
+      "explanation": "La Toscane leur doit son nom ; leur langue, écrite avec un alphabet dérivé du grec, reste en grande partie incomprise.",
+      "wikipedia": "Étrusques"
+    },
+    {
+      "id": "histoire-208",
+      "difficulty": 2,
+      "question": "Quel chef gaulois aurait lancé « Malheur aux vaincus » après avoir pris Rome vers 390 av. J.-C. ?",
+      "answer": "Brennus",
+      "accept": [],
+      "choices": [
+        "Vercingétorix",
+        "Ambiorix",
+        "Bituitos"
+      ],
+      "explanation": "Accusé de fausser la pesée de la rançon, il aurait jeté son épée dans la balance en prononçant ce « vae victis ».",
+      "wikipedia": "Brennus (IVe siècle av. J.-C.)"
+    },
+    {
+      "id": "histoire-209",
+      "difficulty": 1,
+      "question": "Quels animaux auraient donné l'alerte lors d'une attaque nocturne des Gaulois contre le Capitole ?",
+      "answer": "oies",
+      "accept": [
+        "les oies"
+      ],
+      "choices": [
+        "chiens",
+        "corbeaux",
+        "chevaux"
+      ],
+      "explanation": "Ces oies sacrées de Junon réveillèrent Marcus Manlius, qui repoussa les assaillants ; les chiens, restés muets, furent punis.",
+      "wikipedia": "Oies du Capitole"
+    },
+    {
+      "id": "histoire-210",
+      "difficulty": 3,
+      "question": "Quel gigantesque cratère grec en bronze fut découvert en 1953 dans la tombe d'une princesse celte en Bourgogne ?",
+      "answer": "vase de Vix",
+      "accept": [
+        "Vix",
+        "cratère de Vix"
+      ],
+      "choices": [
+        "vase de Soissons",
+        "chaudron de Gundestrup",
+        "trésor de Rethel"
+      ],
+      "explanation": "Haut de 1,64 mètre, il est le plus grand vase de bronze connu de l'Antiquité ; il est exposé au musée de Châtillon-sur-Seine.",
+      "wikipedia": "Cratère de Vix"
+    },
+    {
+      "id": "histoire-211",
+      "difficulty": 2,
+      "question": "Quel fondateur de l'Empire perse achéménide est célèbre pour un cylindre d'argile parfois présenté comme une charte de tolérance ?",
+      "answer": "Cyrus II",
+      "accept": [
+        "Cyrus",
+        "Cyrus le Grand"
+      ],
+      "choices": [
+        "Darius Ier",
+        "Xerxès Ier",
+        "Cambyse II"
+      ],
+      "explanation": "Après avoir pris Babylone en 539 av. J.-C., il autorisa les Judéens exilés à rentrer à Jérusalem.",
+      "wikipedia": "Cyrus le Grand"
+    },
+    {
+      "id": "histoire-212",
+      "difficulty": 1,
+      "question": "Quelle capitale cérémonielle des rois perses achéménides fut incendiée par Alexandre le Grand en 330 av. J.-C. ?",
+      "answer": "Persépolis",
+      "accept": [],
+      "choices": [
+        "Suse",
+        "Ecbatane",
+        "Pasargades"
+      ],
+      "explanation": "Ses escaliers sont ornés de longs défilés de délégations venues de tout l'empire apporter leurs tributs au roi.",
+      "wikipedia": "Persépolis"
+    },
+    {
+      "id": "histoire-213",
+      "difficulty": 2,
+      "question": "Quel peuple iranien, célèbre pour sa flèche tirée en feignant la fuite, vainquit Crassus à Carrhes en 53 av. J.-C. ?",
+      "answer": "Parthes",
+      "accept": [],
+      "choices": [
+        "Scythes",
+        "Mèdes",
+        "Sassanides"
+      ],
+      "explanation": "Le mot « flèche du Parthe » désigne une pique lancée au moment de partir ; Crassus fut tué après la bataille.",
+      "wikipedia": "Empire parthe"
+    },
+    {
+      "id": "histoire-214",
+      "difficulty": 1,
+      "question": "Quel stratège chinois de l'Antiquité est l'auteur présumé de L'Art de la guerre ?",
+      "answer": "Sun Tzu",
+      "accept": [
+        "Sunzi"
+      ],
+      "choices": [
+        "Confucius",
+        "Zhuge Liang",
+        "Lao-tseu"
+      ],
+      "explanation": "Ce traité, qui prône de vaincre sans combattre, fut traduit en français dès 1772 par le jésuite Joseph-Marie Amiot.",
+      "wikipedia": "Sun Tzu"
+    },
+    {
+      "id": "histoire-215",
+      "difficulty": 2,
+      "question": "Quel amiral musulman de la dynastie Ming conduisit au début du XVe siècle de grandes expéditions maritimes jusqu'aux côtes africaines ?",
+      "answer": "Zheng He",
+      "accept": [],
+      "choices": [
+        "Kubilai Khan",
+        "Yongle",
+        "Wang Dayuan"
+      ],
+      "explanation": "Ses jonques géantes rapportèrent une girafe à la cour de Pékin ; après sa mort, la Chine renonça aux grandes expéditions.",
+      "wikipedia": "Zheng He"
+    },
+    {
+      "id": "histoire-216",
+      "difficulty": 1,
+      "question": "Quel souverain mongol, petit-fils du fondateur de l'empire, fonda en Chine la dynastie Yuan au XIIIe siècle ?",
+      "answer": "Kubilai Khan",
+      "accept": [
+        "Kubilai",
+        "Khubilai Khan"
+      ],
+      "choices": [
+        "Ögedei",
+        "Houlagou",
+        "Möngke"
+      ],
+      "explanation": "Il établit sa capitale à Khanbalik, l'actuelle Pékin, et tenta à deux reprises d'envahir le Japon, sans succès.",
+      "wikipedia": "Kubilai Khan"
+    },
+    {
+      "id": "histoire-217",
+      "difficulty": 1,
+      "question": "Quel marchand vénitien a raconté son long séjour à la cour mongole dans Le Devisement du monde ?",
+      "answer": "Marco Polo",
+      "accept": [],
+      "choices": [
+        "Ibn Battuta",
+        "Christophe Colomb",
+        "Jean de Plan Carpin"
+      ],
+      "explanation": "Il dicta ses souvenirs en prison à Gênes, à son codétenu Rusticien de Pise, qui les rédigea en français.",
+      "wikipedia": "Marco Polo"
+    },
+    {
+      "id": "histoire-218",
+      "difficulty": 2,
+      "question": "Quelle femme fut la seule de l'histoire chinoise à régner avec le titre d'empereur, sous la dynastie Tang ?",
+      "answer": "Wu Zetian",
+      "accept": [],
+      "choices": [
+        "Cixi",
+        "Yang Guifei",
+        "Lü Zhi"
+      ],
+      "explanation": "Ancienne concubine, elle proclama sa propre dynastie Zhou en 690 et favorisa le bouddhisme pendant son règne.",
+      "wikipedia": "Wu Zetian"
+    },
+    {
+      "id": "histoire-219",
+      "difficulty": 1,
+      "question": "Comment les Européens appelaient-ils les hauts fonctionnaires lettrés de la Chine impériale, recrutés par concours ?",
+      "answer": "mandarins",
+      "accept": [
+        "mandarin"
+      ],
+      "choices": [
+        "eunuques",
+        "lettrés",
+        "bonzes"
+      ],
+      "explanation": "Le mot vient du portugais, lui-même emprunté au sanskrit « mantrin », conseiller ; il a ensuite désigné la langue de la cour.",
+      "wikipedia": "Mandarin (fonctionnaire)"
+    },
+    {
+      "id": "histoire-220",
+      "difficulty": 3,
+      "question": "Quel artisan chinois du XIe siècle inventa l'imprimerie à caractères mobiles en argile cuite ?",
+      "answer": "Bi Sheng",
+      "accept": [],
+      "choices": [
+        "Cai Lun",
+        "Shen Kuo",
+        "Wang Zhen"
+      ],
+      "explanation": "Son invention est connue grâce au savant Shen Kuo ; elle précède de quatre siècles les travaux de Gutenberg à Mayence.",
+      "wikipedia": "Bi Sheng"
+    },
+    {
+      "id": "histoire-221",
+      "difficulty": 3,
+      "question": "Quelle dynastie de l'âge du bronze chinois a laissé les plus anciennes inscriptions connues sur os oraculaires ?",
+      "answer": "Shang",
+      "accept": [],
+      "choices": [
+        "Zhou",
+        "Xia",
+        "Qin"
+      ],
+      "explanation": "Les devins y gravaient des questions avant de chauffer les os et les carapaces de tortue pour lire les craquelures.",
+      "wikipedia": "Dynastie Shang"
+    },
+    {
+      "id": "histoire-222",
+      "difficulty": 2,
+      "question": "Quelle ville de Mongolie fut la capitale de l'Empire mongol sous Ögedei, successeur de Gengis Khan ?",
+      "answer": "Karakorum",
+      "accept": [],
+      "choices": [
+        "Samarcande",
+        "Sarai",
+        "Boukhara"
+      ],
+      "explanation": "Le franciscain Guillaume de Rubrouck y décrivit une fontaine d'argent en forme d'arbre versant du lait de jument et du vin.",
+      "wikipedia": "Karakorum"
+    },
+    {
+      "id": "histoire-223",
+      "difficulty": 3,
+      "question": "Quel temple de Nara abrite un gigantesque Bouddha de bronze dans l'un des plus grands édifices en bois du monde ?",
+      "answer": "Tōdai-ji",
+      "accept": [
+        "Todai-ji",
+        "Todaiji"
+      ],
+      "choices": [
+        "Kinkaku-ji",
+        "Hōryū-ji",
+        "Kiyomizu-dera"
+      ],
+      "explanation": "Des daims considérés comme messagers des dieux se promènent librement dans le parc qui entoure le temple.",
+      "wikipedia": "Tōdai-ji"
+    },
+    {
+      "id": "histoire-224",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le suicide rituel par éventration pratiqué par les samouraïs ?",
+      "answer": "seppuku",
+      "accept": [
+        "hara-kiri",
+        "harakiri"
+      ],
+      "choices": [
+        "kamikaze",
+        "bushido",
+        "katana"
+      ],
+      "explanation": "Un assistant, le kaishakunin, mettait fin aux souffrances du samouraï en le décapitant d'un coup de sabre.",
+      "wikipedia": "Seppuku"
+    },
+    {
+      "id": "histoire-225",
+      "difficulty": 2,
+      "question": "Quel code d'honneur des samouraïs signifie littéralement « la voie du guerrier » ?",
+      "answer": "bushidō",
+      "accept": [
+        "bushido"
+      ],
+      "choices": [
+        "kendō",
+        "budō",
+        "shintō"
+      ],
+      "explanation": "Il prônait la loyauté envers le seigneur, le courage et le mépris de la mort ; le terme fut popularisé au début du XXe siècle.",
+      "wikipedia": "Bushido"
+    },
+    {
+      "id": "histoire-226",
+      "difficulty": 2,
+      "question": "Quelle grande cité de la civilisation de l'Indus, au Pakistan, possédait un célèbre Grand Bain ?",
+      "answer": "Mohenjo-daro",
+      "accept": [],
+      "choices": [
+        "Harappa",
+        "Lothal",
+        "Taxila"
+      ],
+      "explanation": "Son nom signifie « colline des morts » ; ses rues en damier et ses égouts témoignent d'un urbanisme très avancé.",
+      "wikipedia": "Mohenjo-daro"
+    },
+    {
+      "id": "histoire-227",
+      "difficulty": 3,
+      "question": "Quel souverain fonda au IVe siècle av. J.-C. le premier grand empire indien, avec pour conseiller le brahmane Kautilya ?",
+      "answer": "Chandragupta Maurya",
+      "accept": [
+        "Chandragupta"
+      ],
+      "choices": [
+        "Ashoka",
+        "Bindusara",
+        "Porus"
+      ],
+      "explanation": "Les Grecs l'appelaient Sandrocottos ; il aurait fini sa vie comme moine jaïn en se laissant mourir de faim.",
+      "wikipedia": "Chandragupta Maurya"
+    },
+    {
+      "id": "histoire-228",
+      "difficulty": 3,
+      "question": "Quel ensemble de grottes bouddhiques du Maharashtra, redécouvert en 1819 par des officiers britanniques, est célèbre pour ses peintures murales ?",
+      "answer": "Ajanta",
+      "accept": [],
+      "choices": [
+        "Ellora",
+        "Elephanta",
+        "Sanchi"
+      ],
+      "explanation": "Un officier chassant le tigre aperçut l'entrée d'une grotte ; les fresques racontent les vies antérieures du Bouddha.",
+      "wikipedia": "Ajantâ"
+    },
+    {
+      "id": "histoire-229",
+      "difficulty": 2,
+      "question": "Quel roi indien affronta Alexandre le Grand à la bataille de l'Hydaspe en 326 av. J.-C. ?",
+      "answer": "Porus",
+      "accept": [],
+      "choices": [
+        "Chandragupta",
+        "Taxilès",
+        "Ashoka"
+      ],
+      "explanation": "Vaincu, il aurait demandé à être traité « en roi » ; Alexandre, impressionné, lui laissa son royaume.",
+      "wikipedia": "Poros (roi)"
+    },
+    {
+      "id": "histoire-230",
+      "difficulty": 1,
+      "question": "Quel conquérant turco-mongol boiteux, qui fit de Samarcande sa capitale, ravagea Delhi en 1398 ?",
+      "answer": "Tamerlan",
+      "accept": [
+        "Timour",
+        "Timur Lang"
+      ],
+      "choices": [
+        "Gengis Khan",
+        "Babur",
+        "Houlagou"
+      ],
+      "explanation": "Son nom persan, Timur Lang, signifie « Timur le Boiteux » ; l'examen de son squelette en 1941 a confirmé ses blessures.",
+      "wikipedia": "Tamerlan"
+    },
+    {
+      "id": "histoire-231",
+      "difficulty": 2,
+      "question": "Quelle civilisation du golfe du Mexique a sculpté des têtes colossales en basalte ?",
+      "answer": "Olmèques",
+      "accept": [],
+      "choices": [
+        "Mayas",
+        "Toltèques",
+        "Zapotèques"
+      ],
+      "explanation": "Souvent considérée comme la civilisation mère de la Mésoamérique, elle a laissé une quinzaine de ces têtes, dont certaines dépassent trois mètres.",
+      "wikipedia": "Olmèques"
+    },
+    {
+      "id": "histoire-232",
+      "difficulty": 1,
+      "question": "Quel site maya du Yucatán est célèbre pour sa pyramide de Kukulcán, où un serpent d'ombre apparaît aux équinoxes ?",
+      "answer": "Chichén Itzá",
+      "accept": [
+        "Chichen Itza"
+      ],
+      "choices": [
+        "Tikal",
+        "Palenque",
+        "Uxmal"
+      ],
+      "explanation": "Le site possède aussi un grand terrain de jeu de balle et un cénote sacré où étaient jetées des offrandes.",
+      "wikipedia": "Chichén Itzá"
+    },
+    {
+      "id": "histoire-233",
+      "difficulty": 2,
+      "question": "Comment appelait-on les champs artificiels gagnés sur les lacs par les Aztèques pour cultiver maïs et légumes ?",
+      "answer": "chinampas",
+      "accept": [
+        "chinampa"
+      ],
+      "choices": [
+        "milpas",
+        "terrasses",
+        "andenes"
+      ],
+      "explanation": "Ces îlots de boue et de végétaux, ancrés par des saules, sont encore cultivés à Xochimilco, au sud de Mexico.",
+      "wikipedia": "Chinampa"
+    },
+    {
+      "id": "histoire-234",
+      "difficulty": 2,
+      "question": "Quel système de cordelettes nouées servait aux Incas à tenir leurs comptes et leurs registres ?",
+      "answer": "quipu",
+      "accept": [
+        "khipu"
+      ],
+      "choices": [
+        "chasqui",
+        "tumi",
+        "ayllu"
+      ],
+      "explanation": "La couleur des cordes, la position et le type des nœuds codaient des nombres en base dix ; certains y voient aussi une écriture.",
+      "wikipedia": "Quipu"
+    },
+    {
+      "id": "histoire-235",
+      "difficulty": 3,
+      "question": "Quel souverain inca du XVe siècle transforma le petit royaume de Cuzco en un véritable empire ?",
+      "answer": "Pachacutec",
+      "accept": [
+        "Pachacútec",
+        "Pachacuti"
+      ],
+      "choices": [
+        "Atahualpa",
+        "Huayna Capac",
+        "Manco Cápac"
+      ],
+      "explanation": "Son nom signifie « celui qui transforme le monde » ; on lui attribue souvent la construction du Machu Picchu.",
+      "wikipedia": "Pachacutec"
+    },
+    {
+      "id": "histoire-236",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les statues monumentales de pierre dressées sur l'île de Pâques ?",
+      "answer": "moaï",
+      "accept": [
+        "moai"
+      ],
+      "choices": [
+        "tiki",
+        "menhirs",
+        "totems"
+      ],
+      "explanation": "Il en existe près de neuf cents ; la plupart tournent le dos à l'océan pour veiller sur les villages.",
+      "wikipedia": "Moaï"
+    },
+    {
+      "id": "histoire-237",
+      "difficulty": 3,
+      "question": "Quelle grande cité amérindienne du Mississippi, près de Saint-Louis, est célèbre pour ses tertres de terre ?",
+      "answer": "Cahokia",
+      "accept": [],
+      "choices": [
+        "Mesa Verde",
+        "Chaco Canyon",
+        "Moundville"
+      ],
+      "explanation": "Vers 1100, elle aurait compté plus d'habitants que Londres à la même époque ; son plus grand tertre est le Monks Mound.",
+      "wikipedia": "Cahokia"
+    },
+    {
+      "id": "histoire-238",
+      "difficulty": 3,
+      "question": "Quelle cité précolombienne proche du lac Titicaca est célèbre pour sa porte du Soleil monolithique ?",
+      "answer": "Tiwanaku",
+      "accept": [
+        "Tiahuanaco"
+      ],
+      "choices": [
+        "Chan Chan",
+        "Chavín de Huántar",
+        "Pucara"
+      ],
+      "explanation": "Capitale d'un État andin antérieur aux Incas, elle se situe à près de 3 800 mètres d'altitude, en Bolivie.",
+      "wikipedia": "Tiwanaku"
+    },
+    {
+      "id": "histoire-239",
+      "difficulty": 2,
+      "question": "Quel nom Christophe Colomb donna-t-il à la première île des Bahamas où il débarqua en octobre 1492 ?",
+      "answer": "San Salvador",
+      "accept": [],
+      "choices": [
+        "Hispaniola",
+        "Santa Maria",
+        "Trinidad"
+      ],
+      "explanation": "Les Taïnos l'appelaient Guanahani ; l'identification exacte de l'île reste discutée par les historiens.",
+      "wikipedia": "San Salvador (Bahamas)"
+    },
+    {
+      "id": "histoire-240",
+      "difficulty": 2,
+      "question": "Quel navigateur portugais aborda en 1500 les côtes du Brésil, en route vers les Indes ?",
+      "answer": "Pedro Álvares Cabral",
+      "accept": [
+        "Cabral"
+      ],
+      "choices": [
+        "Vasco de Gama",
+        "Bartolomeu Dias",
+        "Amerigo Vespucci"
+      ],
+      "explanation": "Sa flotte s'était éloignée de l'Afrique pour profiter des vents ; il prit possession de la terre au nom du roi du Portugal.",
+      "wikipedia": "Pedro Álvares Cabral"
+    },
+    {
+      "id": "histoire-241",
+      "difficulty": 3,
+      "question": "Quel site de Terre-Neuve conserve les vestiges d'un établissement viking datant d'environ l'an 1000 ?",
+      "answer": "L'Anse aux Meadows",
+      "accept": [
+        "Anse aux Meadows"
+      ],
+      "choices": [
+        "Vinland",
+        "Port-aux-Basques",
+        "Red Bay"
+      ],
+      "explanation": "Découvert en 1960 par Helge et Anne Stine Ingstad, c'est la seule implantation viking authentifiée en Amérique.",
+      "wikipedia": "L'Anse aux Meadows"
+    },
+    {
+      "id": "histoire-242",
+      "difficulty": 3,
+      "question": "Quel grand temple de Tenochtitlan était dédié aux dieux Huitzilopochtli et Tlaloc ?",
+      "answer": "Templo Mayor",
+      "accept": [],
+      "choices": [
+        "pyramide du Soleil",
+        "temple de Kukulcán",
+        "temple des Inscriptions"
+      ],
+      "explanation": "Ses vestiges furent mis au jour à partir de 1978, après la découverte fortuite d'un disque sculpté par des ouvriers à Mexico.",
+      "wikipedia": "Templo Mayor"
+    },
+    {
+      "id": "histoire-243",
+      "difficulty": 2,
+      "question": "Quel royaume d'Éthiopie, célèbre pour ses stèles géantes, fut l'un des premiers États à adopter le christianisme ?",
+      "answer": "Aksoum",
+      "accept": [
+        "Axoum"
+      ],
+      "choices": [
+        "Koush",
+        "Méroé",
+        "Saba"
+      ],
+      "explanation": "Une de ses stèles, emportée par les troupes de Mussolini en 1937, a été rendue à l'Éthiopie et remontée en 2008.",
+      "wikipedia": "Royaume d'Aksoum"
+    },
+    {
+      "id": "histoire-244",
+      "difficulty": 2,
+      "question": "Quel État d'Afrique de l'Ouest, surnommé le pays de l'or, avait pour capitale Koumbi Saleh ?",
+      "answer": "Empire du Ghana",
+      "accept": [
+        "Ghana"
+      ],
+      "choices": [
+        "Empire du Mali",
+        "Empire songhaï",
+        "Kanem"
+      ],
+      "explanation": "Il se situait dans l'actuelle Mauritanie et l'ouest du Mali ; le Ghana moderne lui a emprunté son nom en 1957.",
+      "wikipedia": "Empire du Ghana"
+    },
+    {
+      "id": "histoire-245",
+      "difficulty": 1,
+      "question": "Quel voyageur marocain du XIVe siècle a parcouru le monde musulman jusqu'en Inde et en Chine ?",
+      "answer": "Ibn Battuta",
+      "accept": [],
+      "choices": [
+        "Ibn Khaldoun",
+        "Al-Idrissi",
+        "Léon l'Africain"
+      ],
+      "explanation": "Né à Tanger, il parcourut environ 120 000 kilomètres en près de trente ans, bien plus que Marco Polo.",
+      "wikipedia": "Ibn Battûta"
+    },
+    {
+      "id": "histoire-246",
+      "difficulty": 3,
+      "question": "Quelle cité-État swahilie, sur une île de Tanzanie, contrôlait au Moyen Âge le commerce de l'or venu du Zimbabwe ?",
+      "answer": "Kilwa",
+      "accept": [
+        "Kilwa Kisiwani"
+      ],
+      "choices": [
+        "Zanzibar",
+        "Mombasa",
+        "Mogadiscio"
+      ],
+      "explanation": "Ibn Battuta la décrivit comme l'une des plus belles villes du monde ; ses ruines de corail sont classées au patrimoine mondial.",
+      "wikipedia": "Kilwa Kisiwani"
+    },
+    {
+      "id": "histoire-247",
+      "difficulty": 3,
+      "question": "Quel État précolonial, dans le sud de l'actuel Nigeria, est célèbre pour ses plaques en laiton et son souverain appelé oba ?",
+      "answer": "royaume du Bénin",
+      "accept": [
+        "Bénin"
+      ],
+      "choices": [
+        "royaume d'Oyo",
+        "Dahomey",
+        "royaume du Kongo"
+      ],
+      "explanation": "Ses milliers de bronzes furent emportés par une expédition punitive britannique en 1897 et dispersés dans les musées d'Europe et d'Amérique.",
+      "wikipedia": "Royaume du Bénin"
+    },
+    {
+      "id": "histoire-248",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'émigration de Mahomet de La Mecque à Médine, point de départ du calendrier musulman ?",
+      "answer": "Hégire",
+      "accept": [],
+      "choices": [
+        "Ramadan",
+        "Djihad",
+        "Oumma"
+      ],
+      "explanation": "Elle eut lieu en 622 ; le calendrier hégirien, purement lunaire, compte environ onze jours de moins par an que le calendrier grégorien.",
+      "wikipedia": "Hégire"
+    },
+    {
+      "id": "histoire-249",
+      "difficulty": 2,
+      "question": "Quel calife abbasside, héros de plusieurs contes des Mille et Une Nuits, offrit un éléphant à Charlemagne ?",
+      "answer": "Haroun al-Rachid",
+      "accept": [
+        "Haroun al-Rashid"
+      ],
+      "choices": [
+        "al-Mamun",
+        "al-Mansur",
+        "Saladin"
+      ],
+      "explanation": "L'éléphant blanc, nommé Abul-Abbas, arriva à Aix-la-Chapelle en 802 et vécut plusieurs années à la cour carolingienne.",
+      "wikipedia": "Hâroun ar-Rachîd"
+    },
+    {
+      "id": "histoire-250",
+      "difficulty": 2,
+      "question": "Quel dernier émir nasride remit Grenade aux Rois catholiques en janvier 1492 ?",
+      "answer": "Boabdil",
+      "accept": [
+        "Muhammad XII"
+      ],
+      "choices": [
+        "Abd al-Rahman III",
+        "Almanzor",
+        "Yusuf Ier"
+      ],
+      "explanation": "Selon la légende, sa mère lui aurait reproché de pleurer comme une femme ce qu'il n'avait su défendre comme un homme.",
+      "wikipedia": "Boabdil"
+    },
+    {
+      "id": "histoire-251",
+      "difficulty": 2,
+      "question": "Quel chef berbère, qui franchit le détroit en 711 pour conquérir l'Espagne, a donné son nom à Gibraltar ?",
+      "answer": "Tariq ibn Ziyad",
+      "accept": [
+        "Tariq"
+      ],
+      "choices": [
+        "Moussa ibn Noçaïr",
+        "Oqba ibn Nafi",
+        "Abd al-Rahman"
+      ],
+      "explanation": "Gibraltar vient de l'arabe « Djebel Tariq », la montagne de Tariq ; il vainquit le roi wisigoth Rodéric.",
+      "wikipedia": "Tariq ibn Ziyad"
+    },
+    {
+      "id": "histoire-252",
+      "difficulty": 2,
+      "question": "Sous quel surnom, tiré de l'arabe « sayyid », connaît-on Rodrigo Díaz de Vivar, conquérant de Valence en 1094 ?",
+      "answer": "Cid",
+      "accept": [
+        "le Cid",
+        "Cid Campeador"
+      ],
+      "choices": [
+        "Campeador",
+        "Almanzor",
+        "Matamore"
+      ],
+      "explanation": "Ce chevalier castillan servit tour à tour des princes chrétiens et musulmans ; sa vie a inspiré le Cantar de mio Cid.",
+      "wikipedia": "Rodrigo Díaz de Vivar"
+    },
+    {
+      "id": "histoire-253",
+      "difficulty": 1,
+      "question": "Quel maire du palais franc arrêta une armée omeyyade entre Tours et Poitiers en 732 ?",
+      "answer": "Charles Martel",
+      "accept": [],
+      "choices": [
+        "Pépin le Bref",
+        "Charlemagne",
+        "Carloman"
+      ],
+      "explanation": "Son surnom de « marteau » lui fut sans doute donné bien après sa mort ; il est le grand-père de Charlemagne.",
+      "wikipedia": "Charles Martel"
+    },
+    {
+      "id": "histoire-254",
+      "difficulty": 1,
+      "question": "Quelle arme incendiaire secrète les Byzantins projetaient-ils sur les navires ennemis, même sur l'eau ?",
+      "answer": "feu grégeois",
+      "accept": [],
+      "choices": [
+        "naphte",
+        "poix",
+        "feu de Saint-Elme"
+      ],
+      "explanation": "Sa composition, gardée comme un secret d'État, est aujourd'hui perdue ; il aurait sauvé Constantinople des sièges arabes.",
+      "wikipedia": "Feu grégeois"
+    },
+    {
+      "id": "histoire-255",
+      "difficulty": 2,
+      "question": "Quelle impératrice, ancienne actrice, convainquit Justinien de ne pas fuir lors de la sédition Nika en 532 ?",
+      "answer": "Théodora",
+      "accept": [],
+      "choices": [
+        "Irène",
+        "Zoé",
+        "Hélène"
+      ],
+      "explanation": "Elle aurait déclaré que « la pourpre est un beau linceul » ; la révolte fut écrasée dans l'hippodrome.",
+      "wikipedia": "Théodora (impératrice, épouse de Justinien Ier)"
+    },
+    {
+      "id": "histoire-256",
+      "difficulty": 3,
+      "question": "Quel empereur byzantin fut surnommé le Bulgaroctone, c'est-à-dire le tueur de Bulgares ?",
+      "answer": "Basile II",
+      "accept": [],
+      "choices": [
+        "Justinien II",
+        "Nicéphore Phocas",
+        "Héraclius"
+      ],
+      "explanation": "Après sa victoire de 1014, il aurait fait aveugler des milliers de prisonniers, ne laissant qu'un œil à un homme sur cent pour les guider.",
+      "wikipedia": "Basile II"
+    },
+    {
+      "id": "histoire-257",
+      "difficulty": 2,
+      "question": "En quelle année le schisme entre les Églises de Rome et de Constantinople est-il traditionnellement daté ?",
+      "answer": "1054",
+      "accept": [],
+      "choices": [
+        "1095",
+        "1204",
+        "962"
+      ],
+      "explanation": "Cette année-là, le légat du pape et le patriarche Michel Cérulaire s'excommunièrent mutuellement ; les anathèmes furent levés seulement en 1965.",
+      "wikipedia": "Séparation des Églises d'Orient et d'Occident"
+    },
+    {
+      "id": "histoire-258",
+      "difficulty": 2,
+      "question": "Quelle expédition des croisés se détourna de son but pour prendre et piller Constantinople en 1204 ?",
+      "answer": "quatrième croisade",
+      "accept": [
+        "4e croisade"
+      ],
+      "choices": [
+        "troisième croisade",
+        "cinquième croisade",
+        "croisade des Albigeois"
+      ],
+      "explanation": "Les célèbres chevaux de bronze de la basilique Saint-Marc de Venise furent rapportés de l'hippodrome de Constantinople lors de ce sac.",
+      "wikipedia": "Quatrième croisade"
+    },
+    {
+      "id": "histoire-259",
+      "difficulty": 2,
+      "question": "Quelle forteresse des Hospitaliers, en Syrie, est l'un des châteaux des croisades les mieux conservés ?",
+      "answer": "Krak des Chevaliers",
+      "accept": [
+        "Krak"
+      ],
+      "choices": [
+        "château de Kerak",
+        "Margat",
+        "Montfort"
+      ],
+      "explanation": "Pris par le sultan Baybars en 1271 grâce à une fausse lettre, il était considéré comme imprenable ; Lawrence d'Arabie l'admirait.",
+      "wikipedia": "Krak des Chevaliers"
+    },
+    {
+      "id": "histoire-260",
+      "difficulty": 2,
+      "question": "Quel pape appela à la première croisade lors du concile de Clermont en 1095 ?",
+      "answer": "Urbain II",
+      "accept": [],
+      "choices": [
+        "Grégoire VII",
+        "Innocent III",
+        "Eugène III"
+      ],
+      "explanation": "La foule lui aurait répondu « Dieu le veut ! » ; ce pape était d'origine champenoise et ancien moine de Cluny.",
+      "wikipedia": "Urbain II"
+    },
+    {
+      "id": "histoire-261",
+      "difficulty": 2,
+      "question": "Quel chef de la première croisade refusa le titre de roi de Jérusalem pour celui d'avoué du Saint-Sépulcre ?",
+      "answer": "Godefroy de Bouillon",
+      "accept": [
+        "Godefroy"
+      ],
+      "choices": [
+        "Baudouin Ier",
+        "Raymond de Saint-Gilles",
+        "Bohémond de Tarente"
+      ],
+      "explanation": "Il ne voulait pas porter une couronne d'or là où le Christ avait porté une couronne d'épines ; son frère Baudouin prit le titre de roi.",
+      "wikipedia": "Godefroy de Bouillon"
+    },
+    {
+      "id": "histoire-262",
+      "difficulty": 1,
+      "question": "Quel roi d'Angleterre, capturé en Autriche au retour de la troisième croisade, dut payer une énorme rançon ?",
+      "answer": "Richard Cœur de Lion",
+      "accept": [
+        "Richard Ier"
+      ],
+      "choices": [
+        "Henri II",
+        "Jean sans Terre",
+        "Édouard Ier"
+      ],
+      "explanation": "Il ne passa que quelques mois de son règne en Angleterre et parlait sans doute surtout le français et l'occitan.",
+      "wikipedia": "Richard Cœur de Lion"
+    },
+    {
+      "id": "histoire-263",
+      "difficulty": 1,
+      "question": "Quel roi de France mourut devant Tunis lors de la huitième croisade, en 1270 ?",
+      "answer": "Louis IX",
+      "accept": [
+        "Saint Louis"
+      ],
+      "choices": [
+        "Philippe Auguste",
+        "Louis VII",
+        "Philippe III"
+      ],
+      "explanation": "Canonisé en 1297, il avait déjà été fait prisonnier en Égypte lors de la septième croisade.",
+      "wikipedia": "Louis IX"
+    },
+    {
+      "id": "histoire-264",
+      "difficulty": 3,
+      "question": "Quelle forteresse iranienne fut le repaire de la secte des Assassins fondée par Hassan ibn al-Sabbah ?",
+      "answer": "Alamut",
+      "accept": [],
+      "choices": [
+        "Masyaf",
+        "Persépolis",
+        "Ispahan"
+      ],
+      "explanation": "Marco Polo a popularisé la légende du Vieux de la Montagne qui droguait ses fidèles ; les Mongols prirent la forteresse en 1256.",
+      "wikipedia": "Alamut"
+    },
+    {
+      "id": "histoire-265",
+      "difficulty": 3,
+      "question": "Quelle bataille de 1071 vit les Turcs seldjoukides capturer l'empereur byzantin Romain IV Diogène ?",
+      "answer": "Manzikert",
+      "accept": [
+        "Malazgirt"
+      ],
+      "choices": [
+        "Myriokephalon",
+        "Dorylée",
+        "Nicopolis"
+      ],
+      "explanation": "Cette défaite ouvrit l'Anatolie aux Turcs et poussa Byzance à demander l'aide de l'Occident, prélude aux croisades.",
+      "wikipedia": "Bataille de Manzikert"
+    },
+    {
+      "id": "histoire-266",
+      "difficulty": 3,
+      "question": "Quel prince mongol, frère de Kubilai, mit à sac Bagdad en 1258, mettant fin au califat abbasside ?",
+      "answer": "Houlagou Khan",
+      "accept": [
+        "Houlagou",
+        "Hülegü"
+      ],
+      "choices": [
+        "Ögedei",
+        "Batu",
+        "Tamerlan"
+      ],
+      "explanation": "Selon la tradition, le dernier calife fut roulé dans un tapis et piétiné par des chevaux, pour ne pas verser son sang.",
+      "wikipedia": "Houlagou Khan"
+    },
+    {
+      "id": "histoire-267",
+      "difficulty": 1,
+      "question": "Quel prince de Valachie, surnommé l'Empaleur, a inspiré le personnage de Dracula ?",
+      "answer": "Vlad III",
+      "accept": [
+        "Vlad Tepes",
+        "Vlad l'Empaleur"
+      ],
+      "choices": [
+        "Étienne le Grand",
+        "Mircea l'Ancien",
+        "Jean Hunyadi"
+      ],
+      "explanation": "Le surnom Dracula, « fils du dragon », venait de son père, membre de l'ordre du Dragon fondé par l'empereur Sigismond.",
+      "wikipedia": "Vlad III l'Empaleur"
+    },
+    {
+      "id": "histoire-268",
+      "difficulty": 3,
+      "question": "Quelle bataille de 1389, livrée au « champ des Merles », est un moment fondateur de la mémoire serbe ?",
+      "answer": "Kosovo",
+      "accept": [
+        "bataille de Kosovo",
+        "Kosovo Polje"
+      ],
+      "choices": [
+        "Nicopolis",
+        "Varna",
+        "Maritsa"
+      ],
+      "explanation": "Le prince Lazar et le sultan Murad Ier y trouvèrent tous deux la mort ; Murad est le seul sultan ottoman tué au combat.",
+      "wikipedia": "Bataille de Kosovo Polje"
+    },
+    {
+      "id": "histoire-269",
+      "difficulty": 1,
+      "question": "Quel roi des Francs fut baptisé à Reims par l'évêque Remi, vers 496 ou 499 ?",
+      "answer": "Clovis",
+      "accept": [
+        "Clovis Ier"
+      ],
+      "choices": [
+        "Childéric",
+        "Mérovée",
+        "Clotaire"
+      ],
+      "explanation": "Son épouse Clotilde, déjà chrétienne, aurait joué un rôle décisif ; selon la légende, une colombe apporta l'huile de la sainte ampoule.",
+      "wikipedia": "Clovis Ier"
+    },
+    {
+      "id": "histoire-270",
+      "difficulty": 1,
+      "question": "Quel objet liturgique, brisé par un guerrier franc lors d'un partage de butin, est au cœur d'une célèbre anecdote sur Clovis ?",
+      "answer": "vase de Soissons",
+      "accept": [
+        "vase"
+      ],
+      "choices": [
+        "calice de Reims",
+        "coupe de Tolbiac",
+        "ciboire de Tours"
+      ],
+      "explanation": "Un an plus tard, lors d'une revue, Clovis fendit le crâne du soldat d'un coup de francisque en lui rappelant le vase.",
+      "wikipedia": "Vase de Soissons"
+    },
+    {
+      "id": "histoire-271",
+      "difficulty": 1,
+      "question": "Quel roi mérovingien, conseillé par saint Éloi, est le héros d'une chanson sur sa culotte mise à l'envers ?",
+      "answer": "Dagobert Ier",
+      "accept": [
+        "Dagobert"
+      ],
+      "choices": [
+        "Clovis",
+        "Childéric III",
+        "Clotaire II"
+      ],
+      "explanation": "La chanson, apparue au XVIIIe siècle, se moquait en réalité de Louis XVI ; Dagobert fut le premier roi inhumé à Saint-Denis.",
+      "wikipedia": "Dagobert Ier"
+    },
+    {
+      "id": "histoire-272",
+      "difficulty": 1,
+      "question": "Quel père de Charlemagne devint en 751 le premier roi de la dynastie carolingienne ?",
+      "answer": "Pépin le Bref",
+      "accept": [
+        "Pépin III"
+      ],
+      "choices": [
+        "Charles Martel",
+        "Carloman",
+        "Pépin de Herstal"
+      ],
+      "explanation": "Il fit enfermer dans un monastère le dernier roi mérovingien, Childéric III, et se fit sacrer, ce qu'aucun roi franc n'avait fait avant lui.",
+      "wikipedia": "Pépin le Bref"
+    },
+    {
+      "id": "histoire-273",
+      "difficulty": 2,
+      "question": "Quel traité de 843 partagea l'empire carolingien entre les trois petits-fils de Charlemagne ?",
+      "answer": "Verdun",
+      "accept": [
+        "traité de Verdun"
+      ],
+      "choices": [
+        "Meerssen",
+        "Ribemont",
+        "Saint-Clair-sur-Epte"
+      ],
+      "explanation": "Charles le Chauve reçut l'ouest, Louis le Germanique l'est, et Lothaire une bande centrale de la mer du Nord à l'Italie, la Lotharingie.",
+      "wikipedia": "Traité de Verdun"
+    },
+    {
+      "id": "histoire-274",
+      "difficulty": 2,
+      "question": "Quel texte de 842, juré par deux petits-fils de Charlemagne, est considéré comme le plus ancien document en langue romane ?",
+      "answer": "serments de Strasbourg",
+      "accept": [
+        "Strasbourg"
+      ],
+      "choices": [
+        "Cantilène de sainte Eulalie",
+        "Capitulaire de Quierzy",
+        "Chanson de Roland"
+      ],
+      "explanation": "Louis le Germanique prêta serment en langue romane et Charles le Chauve en langue tudesque, pour être compris des troupes de l'autre.",
+      "wikipedia": "Serments de Strasbourg"
+    },
+    {
+      "id": "histoire-275",
+      "difficulty": 1,
+      "question": "Quel duc des Francs, élu roi en 987, fonda une dynastie qui régna sur la France jusqu'en 1328 en ligne directe ?",
+      "answer": "Hugues Capet",
+      "accept": [],
+      "choices": [
+        "Robert le Pieux",
+        "Eudes",
+        "Louis V"
+      ],
+      "explanation": "Son surnom viendrait de la chape d'abbé laïc de Saint-Martin de Tours ; il fit sacrer son fils de son vivant pour assurer la succession.",
+      "wikipedia": "Hugues Capet"
+    },
+    {
+      "id": "histoire-276",
+      "difficulty": 2,
+      "question": "Quel chef viking reçut en 911 du roi Charles le Simple les terres qui devinrent la Normandie ?",
+      "answer": "Rollon",
+      "accept": [],
+      "choices": [
+        "Ragnar Lodbrok",
+        "Harald à la Dent bleue",
+        "Hasting"
+      ],
+      "explanation": "L'accord fut conclu par le traité de Saint-Clair-sur-Epte ; Guillaume le Conquérant était son arrière-arrière-petit-fils.",
+      "wikipedia": "Rollon"
+    },
+    {
+      "id": "histoire-277",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on couramment, en français, les navires de guerre des Vikings ?",
+      "answer": "drakkar",
+      "accept": [
+        "drakkars"
+      ],
+      "choices": [
+        "knörr",
+        "caravelle",
+        "galère"
+      ],
+      "explanation": "Le mot, forgé au XIXe siècle, vient du norrois « dreki », dragon, en référence aux figures de proue ; les Vikings disaient plutôt langskip.",
+      "wikipedia": "Bateau viking"
+    },
+    {
+      "id": "histoire-278",
+      "difficulty": 3,
+      "question": "Quel monastère d'une île de Northumbrie fut pillé en 793, raid qui marque traditionnellement le début de l'ère viking ?",
+      "answer": "Lindisfarne",
+      "accept": [],
+      "choices": [
+        "Iona",
+        "Jarrow",
+        "Whitby"
+      ],
+      "explanation": "L'île est accessible à pied à marée basse ; elle a donné son nom à de célèbres évangiles enluminés vers 700.",
+      "wikipedia": "Lindisfarne"
+    },
+    {
+      "id": "histoire-279",
+      "difficulty": 1,
+      "question": "Quelle broderie de près de 70 mètres raconte en images la conquête de l'Angleterre par les Normands ?",
+      "answer": "tapisserie de Bayeux",
+      "accept": [
+        "tapisserie de la reine Mathilde"
+      ],
+      "choices": [
+        "tapisserie de l'Apocalypse",
+        "Dame à la licorne",
+        "tenture de Saint-Étienne"
+      ],
+      "explanation": "Malgré son nom, ce n'est pas une tapisserie mais une broderie de laine sur toile de lin ; elle montre la comète de Halley.",
+      "wikipedia": "Tapisserie de Bayeux"
+    },
+    {
+      "id": "histoire-280",
+      "difficulty": 3,
+      "question": "Quel grand inventaire des terres et des biens d'Angleterre fut ordonné par Guillaume le Conquérant en 1086 ?",
+      "answer": "Domesday Book",
+      "accept": [],
+      "choices": [
+        "Magna Carta",
+        "Pipe Rolls",
+        "Exchequer"
+      ],
+      "explanation": "Son nom évoque le Jugement dernier, car ses conclusions étaient considérées comme sans appel ; il est conservé aux Archives nationales britanniques.",
+      "wikipedia": "Domesday Book"
+    },
+    {
+      "id": "histoire-281",
+      "difficulty": 3,
+      "question": "Quel roi du Wessex vainquit les Danois à la bataille d'Edington en 878 ?",
+      "answer": "Alfred le Grand",
+      "accept": [
+        "Alfred"
+      ],
+      "choices": [
+        "Æthelred",
+        "Édouard l'Ancien",
+        "Canut"
+      ],
+      "explanation": "Une légende raconte que, réfugié chez une paysanne, il laissa brûler les galettes qu'elle lui avait demandé de surveiller.",
+      "wikipedia": "Alfred le Grand"
+    },
+    {
+      "id": "histoire-282",
+      "difficulty": 1,
+      "question": "Quelle duchesse fut successivement reine de France puis reine d'Angleterre au XIIe siècle ?",
+      "answer": "Aliénor d'Aquitaine",
+      "accept": [
+        "Aliénor"
+      ],
+      "choices": [
+        "Blanche de Castille",
+        "Mathilde de Flandre",
+        "Isabelle de France"
+      ],
+      "explanation": "Après l'annulation de son mariage avec Louis VII, elle épousa Henri Plantagenêt et fut la mère de Richard Cœur de Lion.",
+      "wikipedia": "Aliénor d'Aquitaine"
+    },
+    {
+      "id": "histoire-283",
+      "difficulty": 2,
+      "question": "Quel archevêque de Canterbury fut assassiné dans sa cathédrale en 1170 par des chevaliers d'Henri II ?",
+      "answer": "Thomas Becket",
+      "accept": [
+        "Becket"
+      ],
+      "choices": [
+        "Anselme",
+        "Lanfranc",
+        "Stephen Langton"
+      ],
+      "explanation": "Ancien ami et chancelier du roi, il fut canonisé dès 1173 ; Henri II fit pénitence publique sur sa tombe.",
+      "wikipedia": "Thomas Becket"
+    },
+    {
+      "id": "histoire-284",
+      "difficulty": 2,
+      "question": "Quelle dynastie angevine doit son nom à la plante que Geoffroy, comte d'Anjou, portait à son chapeau ?",
+      "answer": "Plantagenêt",
+      "accept": [
+        "Plantagenêts"
+      ],
+      "choices": [
+        "Lancastre",
+        "Tudor",
+        "Valois"
+      ],
+      "explanation": "Le genêt était son emblème ; ses descendants régnèrent sur l'Angleterre de 1154 à 1485.",
+      "wikipedia": "Maison Plantagenêt"
+    },
+    {
+      "id": "histoire-285",
+      "difficulty": 3,
+      "question": "Quel conseiller de Philippe le Bel fut l'acteur principal de l'attentat d'Anagni contre le pape Boniface VIII ?",
+      "answer": "Guillaume de Nogaret",
+      "accept": [
+        "Nogaret"
+      ],
+      "choices": [
+        "Enguerrand de Marigny",
+        "Pierre Flote",
+        "Jacques de Molay"
+      ],
+      "explanation": "Le pape, malmené en 1303, mourut un mois plus tard ; Nogaret mena ensuite le procès contre les Templiers.",
+      "wikipedia": "Guillaume de Nogaret"
+    },
+    {
+      "id": "histoire-286",
+      "difficulty": 2,
+      "question": "Quel dernier grand maître des Templiers aurait maudit le roi et le pape sur son bûcher en 1314 ?",
+      "answer": "Jacques de Molay",
+      "accept": [
+        "Molay"
+      ],
+      "choices": [
+        "Hugues de Payns",
+        "Geoffroi de Charnay",
+        "Guillaume de Beaujeu"
+      ],
+      "explanation": "Il fut brûlé sur l'île aux Juifs à Paris ; la mort du pape et du roi dans l'année nourrit la légende des Rois maudits.",
+      "wikipedia": "Jacques de Molay"
+    },
+    {
+      "id": "histoire-287",
+      "difficulty": 2,
+      "question": "Quelle règle invoquée en France écartait les femmes et leurs descendants de la succession au trône ?",
+      "answer": "loi salique",
+      "accept": [],
+      "choices": [
+        "loi gombette",
+        "droit d'aînesse",
+        "pragmatique sanction"
+      ],
+      "explanation": "Ce vieux code des Francs saliens fut exhumé au XIVe siècle pour écarter le roi d'Angleterre Édouard III, petit-fils de Philippe le Bel par sa mère.",
+      "wikipedia": "Loi salique"
+    },
+    {
+      "id": "histoire-288",
+      "difficulty": 2,
+      "question": "Combien d'années la guerre de Cent Ans dura-t-elle réellement, de 1337 à 1453 ?",
+      "answer": "116",
+      "accept": [
+        "cent seize"
+      ],
+      "choices": [
+        "99",
+        "100",
+        "124"
+      ],
+      "explanation": "Elle ne fut pas continue : de longues trêves séparèrent les phases de combats ; l'expression date du XIXe siècle.",
+      "wikipedia": "Guerre de Cent Ans"
+    },
+    {
+      "id": "histoire-289",
+      "difficulty": 1,
+      "question": "Quelle bataille de 1415 vit l'armée d'Henri V d'Angleterre écraser la chevalerie française dans la boue ?",
+      "answer": "Azincourt",
+      "accept": [],
+      "choices": [
+        "Crécy",
+        "Poitiers",
+        "Castillon"
+      ],
+      "explanation": "Les archers gallois et anglais, équipés de l'arc long, y jouèrent un rôle décisif ; Shakespeare en fit le sommet de sa pièce Henri V.",
+      "wikipedia": "Bataille d'Azincourt"
+    },
+    {
+      "id": "histoire-290",
+      "difficulty": 2,
+      "question": "Quels notables d'une ville assiégée se livrèrent la corde au cou à Édouard III en 1347 pour sauver leurs concitoyens ?",
+      "answer": "bourgeois de Calais",
+      "accept": [
+        "Les Bourgeois de Calais"
+      ],
+      "choices": [
+        "bourgeois de Rouen",
+        "échevins d'Orléans",
+        "consuls de Bordeaux"
+      ],
+      "explanation": "Six hommes, menés par Eustache de Saint-Pierre, furent épargnés grâce à la reine Philippa de Hainaut ; Rodin les sculpta.",
+      "wikipedia": "Les Bourgeois de Calais"
+    },
+    {
+      "id": "histoire-291",
+      "difficulty": 2,
+      "question": "Quel connétable breton de Charles V reprit aux Anglais une grande partie du royaume de France ?",
+      "answer": "Bertrand du Guesclin",
+      "accept": [
+        "du Guesclin",
+        "Duguesclin"
+      ],
+      "choices": [
+        "Olivier de Clisson",
+        "Arthur de Richemont",
+        "Jean de Dunois"
+      ],
+      "explanation": "Il préférait éviter les grandes batailles ; il fut inhumé à Saint-Denis parmi les rois, honneur exceptionnel.",
+      "wikipedia": "Bertrand du Guesclin"
+    },
+    {
+      "id": "histoire-292",
+      "difficulty": 2,
+      "question": "Quel prévôt des marchands de Paris s'opposa au dauphin Charles lors de la révolte de 1358 ?",
+      "answer": "Étienne Marcel",
+      "accept": [
+        "Marcel"
+      ],
+      "choices": [
+        "Jacques Cœur",
+        "Hugues Aubriot",
+        "Guillaume Carle"
+      ],
+      "explanation": "Il fut tué par des Parisiens alors qu'il s'apprêtait, dit-on, à livrer la ville ; sa statue équestre se dresse à côté de l'Hôtel de Ville.",
+      "wikipedia": "Étienne Marcel"
+    },
+    {
+      "id": "histoire-293",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le soulèvement paysan de 1358 dans le Beauvaisis, nommé d'après un sobriquet du paysan ?",
+      "answer": "Grande Jacquerie",
+      "accept": [
+        "Jacquerie"
+      ],
+      "choices": [
+        "Fronde",
+        "Croquants",
+        "Bonnets rouges"
+      ],
+      "explanation": "Les nobles surnommaient le paysan « Jacques Bonhomme » ; le mot jacquerie désigne depuis toute révolte paysanne.",
+      "wikipedia": "Grande Jacquerie"
+    },
+    {
+      "id": "histoire-294",
+      "difficulty": 2,
+      "question": "Quel roi de France, surnommé le Fol, fut frappé de démence en 1392 dans la forêt du Mans ?",
+      "answer": "Charles VI",
+      "accept": [],
+      "choices": [
+        "Charles V",
+        "Charles VII",
+        "Louis X"
+      ],
+      "explanation": "Lors d'une crise, il se croyait fait de verre et craignait de se briser ; il régna plus de quarante ans.",
+      "wikipedia": "Charles VI (roi de France)"
+    },
+    {
+      "id": "histoire-295",
+      "difficulty": 3,
+      "question": "Quel traité de 1420 fit du roi d'Angleterre Henri V l'héritier du trône de France ?",
+      "answer": "Troyes",
+      "accept": [
+        "traité de Troyes"
+      ],
+      "choices": [
+        "Brétigny",
+        "Arras",
+        "Picquigny"
+      ],
+      "explanation": "Le dauphin, futur Charles VII, était déshérité ; Henri V épousa Catherine de Valois mais mourut avant Charles VI.",
+      "wikipedia": "Traité de Troyes"
+    },
+    {
+      "id": "histoire-296",
+      "difficulty": 2,
+      "question": "Quel duc de Bourgogne trouva la mort devant Nancy en 1477, son corps étant retrouvé à moitié dévoré par les loups ?",
+      "answer": "Charles le Téméraire",
+      "accept": [
+        "le Téméraire"
+      ],
+      "choices": [
+        "Jean sans Peur",
+        "Philippe le Bon",
+        "Philippe le Hardi"
+      ],
+      "explanation": "Sa mort profita à Louis XI ; sa fille Marie épousa Maximilien de Habsbourg, apportant les Pays-Bas aux Habsbourg.",
+      "wikipedia": "Charles le Téméraire"
+    },
+    {
+      "id": "histoire-297",
+      "difficulty": 2,
+      "question": "Quel riche marchand de Bourges devint l'argentier du roi Charles VII ?",
+      "answer": "Jacques Cœur",
+      "accept": [],
+      "choices": [
+        "Jean Bureau",
+        "Nicolas Rolin",
+        "Étienne Marcel"
+      ],
+      "explanation": "Sa devise était « À vaillans cœurs riens impossible » ; il fut disgracié et mourut en expédition dans l'île de Chio.",
+      "wikipedia": "Jacques Cœur"
+    },
+    {
+      "id": "histoire-298",
+      "difficulty": 2,
+      "question": "Quel évêque de Beauvais présida le procès de Jeanne d'Arc à Rouen en 1431 ?",
+      "answer": "Pierre Cauchon",
+      "accept": [
+        "Cauchon"
+      ],
+      "choices": [
+        "Jean Lemaître",
+        "Guillaume Érard",
+        "Regnault de Chartres"
+      ],
+      "explanation": "Partisan des Bourguignons, il fut excommunié à titre posthume lors du procès de réhabilitation de Jeanne en 1456.",
+      "wikipedia": "Pierre Cauchon"
+    },
+    {
+      "id": "histoire-299",
+      "difficulty": 1,
+      "question": "Quelle épidémie tua entre un tiers et la moitié de la population européenne à partir de 1347 ?",
+      "answer": "peste noire",
+      "accept": [
+        "peste"
+      ],
+      "choices": [
+        "choléra",
+        "variole",
+        "lèpre"
+      ],
+      "explanation": "Elle arriva par des navires génois venus de Caffa, en Crimée ; on l'appelait alors la « grande mortalité ».",
+      "wikipedia": "Peste noire"
+    },
+    {
+      "id": "histoire-300",
+      "difficulty": 2,
+      "question": "Quel réformateur tchèque fut brûlé vif en 1415 lors du concile de Constance malgré un sauf-conduit ?",
+      "answer": "Jan Hus",
+      "accept": [
+        "Hus"
+      ],
+      "choices": [
+        "John Wyclif",
+        "Jérôme de Prague",
+        "Jan Žižka"
+      ],
+      "explanation": "Sa mort déclencha en Bohême les guerres hussites ; il est considéré comme un précurseur de la Réforme protestante.",
+      "wikipedia": "Jan Hus"
+    },
+    {
+      "id": "histoire-301",
+      "difficulty": 2,
+      "question": "Combien de communautés alpines conclurent le pacte de 1291 considéré comme l'acte fondateur de la Suisse ?",
+      "answer": "trois",
+      "accept": [
+        "3"
+      ],
+      "choices": [
+        "deux",
+        "quatre",
+        "sept"
+      ],
+      "explanation": "Uri, Schwytz et Unterwald s'allièrent contre les Habsbourg ; le 1er août, fête nationale suisse, commémore ce pacte.",
+      "wikipedia": "Pacte fédéral"
+    },
+    {
+      "id": "histoire-302",
+      "difficulty": 1,
+      "question": "Quelle association de villes marchandes, menée par Lübeck, domina le commerce de la Baltique au Moyen Âge ?",
+      "answer": "Hanse",
+      "accept": [
+        "Ligue hanséatique"
+      ],
+      "choices": [
+        "Ligue lombarde",
+        "Zollverein",
+        "Ligue de Souabe"
+      ],
+      "explanation": "Des villes comme Hambourg et Brême portent encore le titre de « ville hanséatique » sur leurs plaques d'immatriculation.",
+      "wikipedia": "Hanse"
+    },
+    {
+      "id": "histoire-303",
+      "difficulty": 1,
+      "question": "Quel titre portait le chef élu à vie de la république de Venise ?",
+      "answer": "doge",
+      "accept": [],
+      "choices": [
+        "podestat",
+        "consul",
+        "gonfalonier"
+      ],
+      "explanation": "Le doge épousait symboliquement la mer chaque année lors de la fête de l'Ascension en jetant un anneau dans la lagune.",
+      "wikipedia": "Doge de Venise"
+    },
+    {
+      "id": "histoire-304",
+      "difficulty": 2,
+      "question": "Quel moine dominicain organisa à Florence des bûchers des vanités avant d'être exécuté en 1498 ?",
+      "answer": "Savonarole",
+      "accept": [
+        "Jérôme Savonarole"
+      ],
+      "choices": [
+        "Torquemada",
+        "Jan Hus",
+        "Bernardin de Sienne"
+      ],
+      "explanation": "Il fut pendu puis brûlé sur la place de la Seigneurie, à l'endroit même où il avait fait brûler livres, miroirs et tableaux.",
+      "wikipedia": "Jérôme Savonarole"
+    },
+    {
+      "id": "histoire-305",
+      "difficulty": 1,
+      "question": "Quel empereur germanique, surnommé ainsi pour la couleur de sa barbe, se noya en Anatolie lors de la troisième croisade ?",
+      "answer": "Frédéric Barberousse",
+      "accept": [
+        "Frédéric Ier",
+        "Barberousse"
+      ],
+      "choices": [
+        "Otton Ier",
+        "Frédéric II",
+        "Henri VI"
+      ],
+      "explanation": "Selon une légende allemande, il dormirait dans une montagne de Thuringe, prêt à revenir sauver son peuple.",
+      "wikipedia": "Frédéric Barberousse"
+    },
+    {
+      "id": "histoire-306",
+      "difficulty": 3,
+      "question": "Quelle bataille de 1410 vit la Pologne et la Lituanie écraser les chevaliers Teutoniques ?",
+      "answer": "Grunwald",
+      "accept": [
+        "Tannenberg",
+        "bataille de Grunwald"
+      ],
+      "choices": [
+        "Legnica",
+        "Mohács",
+        "Varna"
+      ],
+      "explanation": "Le grand maître Ulrich von Jungingen y fut tué ; c'est l'une des plus grandes batailles de l'Europe médiévale.",
+      "wikipedia": "Bataille de Grunwald"
+    },
+    {
+      "id": "histoire-307",
+      "difficulty": 2,
+      "question": "Quel prince de Novgorod vainquit les chevaliers Teutoniques sur le lac Peïpous gelé en 1242 ?",
+      "answer": "Alexandre Nevski",
+      "accept": [
+        "Nevski"
+      ],
+      "choices": [
+        "Ivan III",
+        "Dimitri Donskoï",
+        "Iaroslav le Sage"
+      ],
+      "explanation": "Son surnom rappelle sa victoire sur les Suédois au bord de la Neva ; Eisenstein lui consacra un film en 1938.",
+      "wikipedia": "Alexandre Nevski"
+    },
+    {
+      "id": "histoire-308",
+      "difficulty": 3,
+      "question": "Quel prince de Kiev se convertit vers 988 au christianisme byzantin, entraînant le baptême de son peuple ?",
+      "answer": "Vladimir Ier",
+      "accept": [
+        "Vladimir",
+        "Vladimir le Grand"
+      ],
+      "choices": [
+        "Iaroslav le Sage",
+        "Oleg",
+        "Sviatoslav"
+      ],
+      "explanation": "Il aurait écarté l'islam en raison de l'interdiction de l'alcool, et choisi l'orthodoxie après le récit de ses envoyés à Constantinople.",
+      "wikipedia": "Vladimir Ier"
+    },
+    {
+      "id": "histoire-309",
+      "difficulty": 2,
+      "question": "Quel khanat mongol domina les principautés russes du XIIIe au XVe siècle ?",
+      "answer": "Horde d'or",
+      "accept": [],
+      "choices": [
+        "Horde blanche",
+        "Ilkhanat",
+        "Khanat de Djaghataï"
+      ],
+      "explanation": "Fondé par Batou, petit-fils de Gengis Khan, il avait pour capitale Saraï, sur la Volga.",
+      "wikipedia": "Horde d'or"
+    },
+    {
+      "id": "histoire-310",
+      "difficulty": 3,
+      "question": "Quel premier roi chrétien de Hongrie fut couronné en l'an 1000 avec une couronne envoyée par le pape ?",
+      "answer": "Étienne Ier",
+      "accept": [
+        "saint Étienne"
+      ],
+      "choices": [
+        "Ladislas Ier",
+        "Árpád",
+        "Géza"
+      ],
+      "explanation": "La Sainte Couronne de Hongrie, dont la croix penche, porte son nom et figure aujourd'hui dans le Parlement de Budapest.",
+      "wikipedia": "Étienne Ier (roi de Hongrie)"
+    },
+    {
+      "id": "histoire-311",
+      "difficulty": 3,
+      "question": "Quel savant moine auvergnat, introducteur de l'abaque et des chiffres arabes en Occident, devint pape en 999 sous le nom de Sylvestre II ?",
+      "answer": "Gerbert d'Aurillac",
+      "accept": [
+        "Gerbert"
+      ],
+      "choices": [
+        "Raban Maur",
+        "Alcuin",
+        "Odon de Cluny"
+      ],
+      "explanation": "Sa science lui valut une réputation de magicien ; il fut le premier pape français et le précepteur de l'empereur Otton III.",
+      "wikipedia": "Sylvestre II"
+    },
+    {
+      "id": "histoire-312",
+      "difficulty": 2,
+      "question": "Quel moine cistercien prêcha la deuxième croisade à Vézelay en 1146 ?",
+      "answer": "Bernard de Clairvaux",
+      "accept": [
+        "saint Bernard"
+      ],
+      "choices": [
+        "Pierre le Vénérable",
+        "Robert de Molesme",
+        "Suger"
+      ],
+      "explanation": "Il fonda l'abbaye de Clairvaux et rédigea la règle des Templiers ; le chien saint-bernard doit son nom à un autre saint.",
+      "wikipedia": "Bernard de Clairvaux"
+    },
+    {
+      "id": "histoire-313",
+      "difficulty": 2,
+      "question": "Quel philosophe du XIIe siècle vécut une histoire d'amour célèbre et tragique avec son élève Héloïse ?",
+      "answer": "Pierre Abélard",
+      "accept": [
+        "Abélard"
+      ],
+      "choices": [
+        "Thomas d'Aquin",
+        "Pierre Lombard",
+        "Guillaume de Champeaux"
+      ],
+      "explanation": "L'oncle d'Héloïse, le chanoine Fulbert, le fit mutiler ; leurs restes reposent ensemble au cimetière du Père-Lachaise.",
+      "wikipedia": "Pierre Abélard"
+    },
+    {
+      "id": "histoire-314",
+      "difficulty": 3,
+      "question": "Quel abbé de Saint-Denis, conseiller de Louis VI et Louis VII, est considéré comme l'initiateur de l'architecture gothique ?",
+      "answer": "Suger",
+      "accept": [],
+      "choices": [
+        "Maurice de Sully",
+        "Bernard de Clairvaux",
+        "Pierre de Montreuil"
+      ],
+      "explanation": "Il voulait inonder son église de lumière, qu'il considérait comme une image de Dieu ; il fut régent pendant la deuxième croisade.",
+      "wikipedia": "Suger"
+    },
+    {
+      "id": "histoire-315",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la cérémonie par laquelle un jeune homme était fait chevalier ?",
+      "answer": "adoubement",
+      "accept": [],
+      "choices": [
+        "hommage",
+        "sacre",
+        "investiture"
+      ],
+      "explanation": "Le futur chevalier recevait son épée et un coup du plat de la main ou de l'épée sur la nuque ou l'épaule, appelé la colée.",
+      "wikipedia": "Adoubement"
+    },
+    {
+      "id": "histoire-316",
+      "difficulty": 1,
+      "question": "Comment appelait-on le travail gratuit que les paysans devaient fournir à leur seigneur ?",
+      "answer": "corvée",
+      "accept": [],
+      "choices": [
+        "taille",
+        "dîme",
+        "gabelle"
+      ],
+      "explanation": "Le mot vient du latin « corrogata », « demandée » ; les corvées seigneuriales furent abolies la nuit du 4 août 1789.",
+      "wikipedia": "Corvée"
+    },
+    {
+      "id": "histoire-317",
+      "difficulty": 1,
+      "question": "Comment appelait-on le seigneur dont dépendait un vassal dans la société féodale ?",
+      "answer": "suzerain",
+      "accept": [],
+      "choices": [
+        "serf",
+        "vilain",
+        "sénéchal"
+      ],
+      "explanation": "Le vassal lui prêtait hommage à genoux, ses mains dans les siennes, et lui devait aide militaire et conseil.",
+      "wikipedia": "Suzeraineté"
+    },
+    {
+      "id": "histoire-318",
+      "difficulty": 1,
+      "question": "Quel nom portait la terre concédée par un seigneur à son vassal en échange de sa fidélité ?",
+      "answer": "fief",
+      "accept": [],
+      "choices": [
+        "alleu",
+        "manse",
+        "apanage"
+      ],
+      "explanation": "Le mot a donné l'adjectif « féodal » ; le fief devint héréditaire en France à partir de la fin du IXe siècle.",
+      "wikipedia": "Fief"
+    },
+    {
+      "id": "histoire-319",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la tour principale et la plus forte d'un château fort, ultime refuge en cas de siège ?",
+      "answer": "donjon",
+      "accept": [],
+      "choices": [
+        "barbacane",
+        "beffroi",
+        "courtine"
+      ],
+      "explanation": "Le mot viendrait du latin « dominio », le seigneur ; celui de Vincennes est le plus haut donjon d'Europe.",
+      "wikipedia": "Donjon"
+    },
+    {
+      "id": "histoire-320",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les ouvertures en saillie au sommet des murailles, par lesquelles on lâchait des projectiles ?",
+      "answer": "mâchicoulis",
+      "accept": [],
+      "choices": [
+        "meurtrières",
+        "créneaux",
+        "merlons"
+      ],
+      "explanation": "En pierre, ils remplacèrent les hourds de bois, qui étaient vulnérables aux flèches enflammées.",
+      "wikipedia": "Mâchicoulis"
+    },
+    {
+      "id": "histoire-321",
+      "difficulty": 1,
+      "question": "Quelle machine de siège médiévale, actionnée par un lourd contrepoids, projetait de gros boulets de pierre ?",
+      "answer": "trébuchet",
+      "accept": [],
+      "choices": [
+        "baliste",
+        "bélier",
+        "catapulte"
+      ],
+      "explanation": "Le plus grand de tous, le « Loup de guerre » d'Édouard Ier, fut assemblé lors du siège de Stirling en 1304.",
+      "wikipedia": "Trébuchet"
+    },
+    {
+      "id": "histoire-322",
+      "difficulty": 1,
+      "question": "Quel impôt, correspondant à environ un dixième des récoltes, était prélevé par l'Église ?",
+      "answer": "dîme",
+      "accept": [],
+      "choices": [
+        "taille",
+        "gabelle",
+        "cens"
+      ],
+      "explanation": "Son nom vient du latin « decima », la dixième partie ; elle fut abolie en France en 1789.",
+      "wikipedia": "Dîme"
+    },
+    {
+      "id": "histoire-323",
+      "difficulty": 2,
+      "question": "Comment appelait-on l'épreuve judiciaire par le feu ou par l'eau censée révéler le jugement de Dieu ?",
+      "answer": "ordalie",
+      "accept": [],
+      "choices": [
+        "question",
+        "duel judiciaire",
+        "inquisition"
+      ],
+      "explanation": "L'accusé devait par exemple porter un fer rouge ; si sa plaie guérissait proprement, il était déclaré innocent.",
+      "wikipedia": "Ordalie"
+    },
+    {
+      "id": "histoire-324",
+      "difficulty": 3,
+      "question": "Quel prédicateur picard mena la croisade populaire de 1096, massacrée par les Turcs en Anatolie ?",
+      "answer": "Pierre l'Ermite",
+      "accept": [],
+      "choices": [
+        "Gautier sans Avoir",
+        "Foulques de Neuilly",
+        "Adhémar de Monteil"
+      ],
+      "explanation": "Monté sur un âne, il entraîna des dizaines de milliers de pauvres gens avant même le départ de la croisade des barons.",
+      "wikipedia": "Pierre l'Ermite"
+    },
+    {
+      "id": "histoire-325",
+      "difficulty": 3,
+      "question": "Quel roi de Jérusalem, atteint de la lèpre, vainquit Saladin à Montgisard en 1177 ?",
+      "answer": "Baudouin IV",
+      "accept": [],
+      "choices": [
+        "Baudouin Ier",
+        "Guy de Lusignan",
+        "Amaury Ier"
+      ],
+      "explanation": "Il portait un masque pour cacher les ravages de la maladie et mourut à vingt-quatre ans ; le film Kingdom of Heaven l'a fait connaître.",
+      "wikipedia": "Baudouin IV (roi de Jérusalem)"
+    },
+    {
+      "id": "histoire-326",
+      "difficulty": 1,
+      "question": "Quelle duchesse épousa successivement deux rois de France, Charles VIII puis Louis XII ?",
+      "answer": "Anne de Bretagne",
+      "accept": [],
+      "choices": [
+        "Claude de France",
+        "Marguerite d'Anjou",
+        "Jeanne de France"
+      ],
+      "explanation": "Elle fut deux fois reine de France ; son cœur, placé dans un reliquaire d'or, est conservé au musée Dobrée à Nantes.",
+      "wikipedia": "Anne de Bretagne"
+    },
+    {
+      "id": "histoire-327",
+      "difficulty": 3,
+      "question": "Quelle monnaie fut créée en 1360 pour payer la rançon du roi Jean II le Bon, prisonnier des Anglais ?",
+      "answer": "franc",
+      "accept": [
+        "franc à cheval"
+      ],
+      "choices": [
+        "écu",
+        "louis",
+        "livre tournois"
+      ],
+      "explanation": "La pièce d'or montrait le roi à cheval ; le nom rappelait que le souverain était désormais « franc », c'est-à-dire libre.",
+      "wikipedia": "Franc à cheval"
+    },
+    {
+      "id": "histoire-328",
+      "difficulty": 1,
+      "question": "Quel navire léger à voiles latines permit aux Portugais d'explorer les côtes africaines au XVe siècle ?",
+      "answer": "caravelle",
+      "accept": [],
+      "choices": [
+        "galion",
+        "drakkar",
+        "jonque"
+      ],
+      "explanation": "Ses voiles triangulaires lui permettaient de remonter au vent, indispensable pour revenir des côtes d'Afrique.",
+      "wikipedia": "Caravelle (navire)"
+    },
+    {
+      "id": "histoire-329",
+      "difficulty": 2,
+      "question": "Quel prince portugais du XVe siècle, fils du roi Jean Ier, encouragea depuis l'Algarve l'exploration des côtes africaines ?",
+      "answer": "Henri le Navigateur",
+      "accept": [
+        "Henri"
+      ],
+      "choices": [
+        "Jean II",
+        "Manuel Ier",
+        "Alphonse V"
+      ],
+      "explanation": "Malgré son surnom, il ne participa lui-même à presque aucune expédition maritime ; il gouvernait l'ordre du Christ.",
+      "wikipedia": "Henri le Navigateur"
+    },
+    {
+      "id": "histoire-330",
+      "difficulty": 1,
+      "question": "Quelle reine de Castille, épouse de Ferdinand d'Aragon, finança le premier voyage de Christophe Colomb ?",
+      "answer": "Isabelle la Catholique",
+      "accept": [
+        "Isabelle Ire",
+        "Isabelle de Castille"
+      ],
+      "choices": [
+        "Jeanne la Folle",
+        "Catherine d'Aragon",
+        "Marie de Castille"
+      ],
+      "explanation": "Avec son époux, elle reçut du pape le titre de Rois catholiques ; ils sont enterrés à Grenade.",
+      "wikipedia": "Isabelle la Catholique"
+    },
+    {
+      "id": "histoire-331",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le conflit civil anglais du XVe siècle opposant les maisons d'York et de Lancastre ?",
+      "answer": "guerre des Deux-Roses",
+      "accept": [
+        "guerre des Roses",
+        "guerre des Deux Roses"
+      ],
+      "choices": [
+        "guerre de Cent Ans",
+        "guerre des Trois Royaumes",
+        "Grande Rébellion"
+      ],
+      "explanation": "Les York avaient pour emblème une rose blanche, les Lancastre une rose rouge ; Henri Tudor réunit les deux dans la rose des Tudor.",
+      "wikipedia": "Guerre des Deux-Roses"
+    },
+    {
+      "id": "histoire-332",
+      "difficulty": 2,
+      "question": "Quel roi d'Angleterre, dernier de la maison d'York, fut tué à la bataille de Bosworth en 1485 ?",
+      "answer": "Richard III",
+      "accept": [],
+      "choices": [
+        "Édouard IV",
+        "Henri VI",
+        "Édouard V"
+      ],
+      "explanation": "Son squelette fut retrouvé en 2012 sous un parking de Leicester et identifié grâce à l'ADN.",
+      "wikipedia": "Richard III"
+    },
+    {
+      "id": "histoire-333",
+      "difficulty": 2,
+      "question": "Quel chef écossais vainquit les Anglais à la bataille du pont de Stirling en 1297 ?",
+      "answer": "William Wallace",
+      "accept": [
+        "Wallace"
+      ],
+      "choices": [
+        "Robert Bruce",
+        "Andrew Moray",
+        "James Douglas"
+      ],
+      "explanation": "Capturé, il fut exécuté à Londres en 1305 ; le film Braveheart a romancé sa vie.",
+      "wikipedia": "William Wallace"
+    },
+    {
+      "id": "histoire-334",
+      "difficulty": 3,
+      "question": "Quel bloc de grès, sur lequel étaient couronnés les rois d'Écosse, fut emportée à Westminster par Édouard Ier ?",
+      "answer": "pierre de Scone",
+      "accept": [
+        "pierre de la Destinée"
+      ],
+      "choices": [
+        "pierre de Tara",
+        "pierre de Stirling",
+        "pierre d'Iona"
+      ],
+      "explanation": "Elle fut placée sous le trône du couronnement anglais ; rendue à l'Écosse en 1996, elle repart à Londres pour chaque sacre.",
+      "wikipedia": "Pierre du destin"
+    },
+    {
+      "id": "histoire-335",
+      "difficulty": 3,
+      "question": "Quel chancelier du duc de Bourgogne fonda en 1443 les Hospices de Beaune avec son épouse Guigone de Salins ?",
+      "answer": "Nicolas Rolin",
+      "accept": [
+        "Rolin"
+      ],
+      "choices": [
+        "Jacques Cœur",
+        "Philippe Pot",
+        "Jean Chevrot"
+      ],
+      "explanation": "Il est aussi connu par un célèbre tableau de Jan van Eyck, La Vierge du chancelier Rolin, conservé au Louvre.",
+      "wikipedia": "Nicolas Rolin"
+    },
+    {
+      "id": "histoire-336",
+      "difficulty": 3,
+      "question": "Quelle héroïne de Beauvais s'illustra en 1472 en repoussant un assaut de Charles le Téméraire contre sa ville ?",
+      "answer": "Jeanne Hachette",
+      "accept": [
+        "Jeanne Laisné"
+      ],
+      "choices": [
+        "Jeanne de Montfort",
+        "Jeanne Maillotte",
+        "Marguerite de Bressieux"
+      ],
+      "explanation": "De son vrai nom Jeanne Laisné, elle arracha l'étendard d'un assaillant ; une procession l'honore encore chaque année à Beauvais.",
+      "wikipedia": "Jeanne Hachette"
+    },
+    {
+      "id": "histoire-337",
+      "difficulty": 1,
+      "question": "Quel roi franc légendaire a donné son nom à la première dynastie des rois de France ?",
+      "answer": "Mérovée",
+      "accept": [],
+      "choices": [
+        "Pharamond",
+        "Clodion",
+        "Childéric"
+      ],
+      "explanation": "On sait très peu de choses sur lui ; Grégoire de Tours le présente comme le père de Childéric Ier et le grand-père de Clovis.",
+      "wikipedia": "Mérovée"
+    },
+    {
+      "id": "histoire-338",
+      "difficulty": 1,
+      "question": "Comment appelait-on l'officier romain qui commandait une centaine de légionnaires ?",
+      "answer": "centurion",
+      "accept": [],
+      "choices": [
+        "tribun",
+        "légat",
+        "décurion"
+      ],
+      "explanation": "Il portait un cep de vigne comme insigne et pour châtier ses hommes ; le premier centurion d'une légion était appelé primipile.",
+      "wikipedia": "Centurion"
+    },
+    {
+      "id": "histoire-339",
+      "difficulty": 1,
+      "question": "Quel peuple précolombien d'Amérique centrale utilisait une écriture à glyphes et un calendrier appelé compte long ?",
+      "answer": "Mayas",
+      "accept": [
+        "Maya"
+      ],
+      "choices": [
+        "Aztèques",
+        "Incas",
+        "Olmèques"
+      ],
+      "explanation": "Leur civilisation s'étendait du Yucatán au Honduras ; leurs descendants parlent encore une trentaine de langues mayas.",
+      "wikipedia": "Mayas"
+    },
+    {
+      "id": "histoire-340",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le monolithe égyptien en forme d'aiguille, dont un exemplaire de Louxor orne la place de la Concorde ?",
+      "answer": "obélisque",
+      "accept": [],
+      "choices": [
+        "menhir",
+        "pylône",
+        "stèle"
+      ],
+      "explanation": "Son sommet pyramidal, le pyramidion, était parfois recouvert d'or ; celui de la Concorde fut doré en 1998.",
+      "wikipedia": "Obélisque"
+    },
+    {
+      "id": "histoire-341",
+      "difficulty": 1,
+      "question": "Quelle cité grecque du Péloponnèse, rivale d'Athènes, était réputée pour la rude formation militaire de ses citoyens ?",
+      "answer": "Sparte",
+      "accept": [
+        "Lacédémone"
+      ],
+      "choices": [
+        "Corinthe",
+        "Thèbes",
+        "Argos"
+      ],
+      "explanation": "Sparte avait la particularité d'être gouvernée par deux rois à la fois, issus de deux familles différentes.",
+      "wikipedia": "Sparte"
+    },
+    {
+      "id": "histoire-342",
+      "difficulty": 1,
+      "question": "Quel sénateur, à qui César aurait lancé « Toi aussi, mon fils ! », compta parmi ses assassins ?",
+      "answer": "Brutus",
+      "accept": [
+        "Marcus Junius Brutus"
+      ],
+      "choices": [
+        "Cassius",
+        "Cicéron",
+        "Marc Antoine"
+      ],
+      "explanation": "Vaincu à Philippes en 42 av. J.-C. par Antoine et Octave, il se donna la mort ; Dante le place au fond de l'Enfer.",
+      "wikipedia": "Marcus Junius Brutus"
+    },
+    {
+      "id": "histoire-343",
+      "difficulty": 1,
+      "question": "Quel nom donne-t-on aux navigateurs scandinaves qui pillèrent et commercèrent à travers l'Europe du VIIIe au XIe siècle ?",
+      "answer": "Vikings",
+      "accept": [
+        "Viking"
+      ],
+      "choices": [
+        "Normands",
+        "Varègues",
+        "Saxons"
+      ],
+      "explanation": "Ils atteignirent l'Islande, le Groenland et même l'Amérique ; contrairement à l'imagerie populaire, leurs casques n'avaient pas de cornes.",
+      "wikipedia": "Vikings"
+    },
+    {
+      "id": "histoire-344",
+      "difficulty": 1,
+      "question": "Quelle ville les chevaliers de la première croisade prirent-ils d'assaut en juillet 1099 ?",
+      "answer": "Jérusalem",
+      "accept": [],
+      "choices": [
+        "Antioche",
+        "Constantinople",
+        "Damas"
+      ],
+      "explanation": "La prise fut suivie d'un massacre d'une grande partie de la population ; Godefroy de Bouillon fut ensuite placé à la tête de la ville.",
+      "wikipedia": "Siège de Jérusalem (1099)"
+    },
+    {
+      "id": "histoire-345",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'ouvrage mobile qui permettait de fermer l'accès d'un château fort au-dessus des douves ?",
+      "answer": "pont-levis",
+      "accept": [],
+      "choices": [
+        "herse",
+        "barbacane",
+        "poterne"
+      ],
+      "explanation": "Il était relevé par des chaînes et des contrepoids ; une herse, grille de fer coulissante, complétait souvent la défense de l'entrée.",
+      "wikipedia": "Pont-levis"
+    },
+    {
+      "id": "histoire-346",
+      "difficulty": 1,
+      "question": "Comment appelait-on le paysan médiéval attaché à la terre de son seigneur, qu'il ne pouvait quitter librement ?",
+      "answer": "serf",
+      "accept": [],
+      "choices": [
+        "vilain",
+        "manant",
+        "vassal"
+      ],
+      "explanation": "Le serf n'était pas un esclave : il possédait des biens, mais devait payer des taxes particulières comme la mainmorte ou le chevage.",
+      "wikipedia": "Servage"
+    },
+    {
+      "id": "histoire-347",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'ensemble des armoiries peintes sur l'écu d'un chevalier ou d'une famille ?",
+      "answer": "blason",
+      "accept": [],
+      "choices": [
+        "devise",
+        "bannière",
+        "sceau"
+      ],
+      "explanation": "La science des blasons, l'héraldique, possède son vocabulaire propre : le rouge s'y dit gueules et le vert sinople.",
+      "wikipedia": "Blason (héraldique)"
+    },
+    {
+      "id": "histoire-348",
+      "difficulty": 1,
+      "question": "Quel immense cirque romain, entre le Palatin et l'Aventin, accueillait les courses de chars ?",
+      "answer": "Circus Maximus",
+      "accept": [
+        "Grand Cirque"
+      ],
+      "choices": [
+        "Colisée",
+        "Champ de Mars",
+        "Forum"
+      ],
+      "explanation": "Il pouvait recevoir plus de 150 000 spectateurs ; les cochers y portaient les couleurs de factions rivales, les Verts et les Bleus.",
+      "wikipedia": "Circus Maximus"
+    },
+    {
+      "id": "histoire-349",
+      "difficulty": 1,
+      "question": "Quel vêtement de laine drapé, long de plusieurs mètres, était réservé aux citoyens romains ?",
+      "answer": "toge",
+      "accept": [],
+      "choices": [
+        "tunique",
+        "chlamyde",
+        "péplum"
+      ],
+      "explanation": "Les magistrats portaient une toge bordée d'une bande pourpre, la toge prétexte ; les candidats aux élections la blanchissaient à la craie, d'où le mot « candidat ».",
+      "wikipedia": "Toge"
+    },
+    {
+      "id": "histoire-350",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les peintures et lettrines ornées qui décorent les manuscrits du Moyen Âge ?",
+      "answer": "enluminures",
+      "accept": [
+        "enluminure"
+      ],
+      "choices": [
+        "vitraux",
+        "gravures",
+        "fresques"
+      ],
+      "explanation": "Le mot « miniature » vient du minium, pigment rouge des lettrines ; les Très Riches Heures du duc de Berry en sont un chef-d'œuvre.",
+      "wikipedia": "Enluminure"
+    },
+    {
+      "id": "histoire-351",
+      "difficulty": 1,
+      "question": "Comment appelait-on la place publique, cœur politique, religieux et commercial des villes romaines ?",
+      "answer": "forum",
+      "accept": [],
+      "choices": [
+        "agora",
+        "atrium",
+        "capitole"
+      ],
+      "explanation": "À Rome, le Forum romain s'étendait entre le Palatin et le Capitole ; les empereurs y ajoutèrent leurs propres forums impériaux.",
+      "wikipedia": "Forum romain"
+    },
+    {
+      "id": "histoire-352",
+      "difficulty": 1,
+      "question": "Quel peuple andin, dont le souverain se disait fils du Soleil, bâtit le plus vaste empire de l'Amérique précolombienne ?",
+      "answer": "Incas",
+      "accept": [
+        "Inca"
+      ],
+      "choices": [
+        "Aztèques",
+        "Mayas",
+        "Toltèques"
+      ],
+      "explanation": "Leur empire, relié par plus de 30 000 kilomètres de routes, ne connaissait ni la roue utilisée pour le transport ni l'écriture au sens classique.",
+      "wikipedia": "Empire inca"
+    },
+    {
+      "id": "histoire-353",
+      "difficulty": 1,
+      "question": "Comment appelait-on au Moyen Âge le jeune noble au service d'un chevalier, dont il portait l'écu ?",
+      "answer": "écuyer",
+      "accept": [],
+      "choices": [
+        "page",
+        "sergent",
+        "héraut"
+      ],
+      "explanation": "Le mot vient du latin « scutarius », porteur de bouclier ; l'écuyer devenait chevalier vers vingt ans, lors de son adoubement.",
+      "wikipedia": "Écuyer (gentilhomme)"
+    },
+    {
+      "id": "histoire-354",
+      "difficulty": 1,
+      "question": "Comment appelait-on l'établissement médiéval où l'on isolait les malades de la lèpre, hors des villes ?",
+      "answer": "léproserie",
+      "accept": [
+        "maladrerie",
+        "ladrerie"
+      ],
+      "choices": [
+        "hospice",
+        "lazaret",
+        "hôtel-Dieu"
+      ],
+      "explanation": "On en comptait plusieurs milliers en France au XIIIe siècle ; les malades devaient agiter une crécelle pour signaler leur présence.",
+      "wikipedia": "Léproserie"
+    },
+    {
+      "id": "histoire-355",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'armure souple faite de petits anneaux de fer entrelacés, portée par les chevaliers ?",
+      "answer": "cotte de mailles",
+      "accept": [
+        "haubert"
+      ],
+      "choices": [
+        "cuirasse",
+        "brigandine",
+        "gambison"
+      ],
+      "explanation": "Une cotte pouvait compter des dizaines de milliers d'anneaux rivetés ; on portait dessous un vêtement matelassé pour amortir les coups.",
+      "wikipedia": "Cotte de mailles"
+    },
+    {
+      "id": "histoire-356",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les fossés, souvent remplis d'eau, qui entouraient les remparts d'un château fort ?",
+      "answer": "douves",
+      "accept": [
+        "douve"
+      ],
+      "choices": [
+        "courtines",
+        "lices",
+        "glacis"
+      ],
+      "explanation": "Elles empêchaient d'approcher les tours de siège et de creuser des galeries sous les murs ; celles de Chambord ou de Vincennes sont restées sèches.",
+      "wikipedia": "Douve (fossé)"
+    },
+    {
+      "id": "histoire-357",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la cérémonie religieuse au cours de laquelle le roi de France recevait l'onction de l'huile sainte ?",
+      "answer": "sacre",
+      "accept": [],
+      "choices": [
+        "adoubement",
+        "intronisation",
+        "investiture"
+      ],
+      "explanation": "Lors du sacre, le roi recevait aussi l'épée, l'anneau et le sceptre ; il était alors réputé capable de guérir les écrouelles par le toucher.",
+      "wikipedia": "Sacre des rois de France"
+    },
+    {
+      "id": "histoire-358",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les longs poèmes médiévaux qui chantent les exploits guerriers de héros comme Roland ou Guillaume d'Orange ?",
+      "answer": "chansons de geste",
+      "accept": [
+        "chanson de geste"
+      ],
+      "choices": [
+        "romans courtois",
+        "fabliaux",
+        "lais"
+      ],
+      "explanation": "Le mot « geste » vient du latin « gesta », les actions accomplies ; ces poèmes étaient chantés par des jongleurs devant le public.",
+      "wikipedia": "Chanson de geste"
+    },
+    {
+      "id": "histoire-359",
+      "difficulty": 1,
+      "question": "Quelle assemblée d'anciens magistrats, composée de patriciens, conseillait les consuls sous la République romaine ?",
+      "answer": "Sénat",
+      "accept": [
+        "Sénat romain"
+      ],
+      "choices": [
+        "Comices",
+        "Forum",
+        "Curie"
+      ],
+      "explanation": "Le mot vient du latin « senex », vieillard ; ses membres, d'abord trois cents, se réunissaient dans un bâtiment appelé la Curie.",
+      "wikipedia": "Sénat romain"
+    },
+    {
+      "id": "histoire-360",
+      "difficulty": 1,
+      "question": "Quel impôt royal très impopulaire, perçu sur le sel en France, apparut au XIVe siècle ?",
+      "answer": "gabelle",
+      "accept": [],
+      "choices": [
+        "taille",
+        "octroi",
+        "aides"
+      ],
+      "explanation": "Son montant variait fortement d'une province à l'autre, ce qui alimentait une intense contrebande menée par des faux-sauniers ; elle fut abolie en 1790.",
+      "wikipedia": "Gabelle du sel"
+    }
+  ]
+}
