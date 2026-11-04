@@ -1,0 +1,3776 @@
+{
+  "category": "histoire",
+  "questions": [
+    {
+      "id": "histoire-361",
+      "difficulty": 1,
+      "question": "Quel roi de France remporta la bataille de Marignan contre les Suisses en 1515 ?",
+      "answer": "François Ier",
+      "accept": [
+        "François 1er"
+      ],
+      "choices": [
+        "Louis XII",
+        "Henri II",
+        "Charles VIII"
+      ],
+      "explanation": "Selon la tradition, le jeune roi se fit armer chevalier par Bayard au soir de cette victoire remportée sur les mercenaires suisses du duché de Milan.",
+      "wikipedia": "Bataille de Marignan"
+    },
+    {
+      "id": "histoire-362",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la rencontre fastueuse de 1520 entre François Ier et Henri VIII, près de Calais ?",
+      "answer": "Camp du Drap d'Or",
+      "accept": [
+        "Drap d'Or"
+      ],
+      "choices": [
+        "Paix des Dames",
+        "Entrevue de Bayonne",
+        "Traité de Cambrai"
+      ],
+      "explanation": "Les deux rois rivalisèrent de luxe avec des tentes tendues d'étoffes tissées de fils d'or, mais l'entrevue n'aboutit à aucune alliance durable.",
+      "wikipedia": "Camp du Drap d'Or"
+    },
+    {
+      "id": "histoire-363",
+      "difficulty": 2,
+      "question": "Quelle bataille de 1525 se solda par la capture de François Ier par les troupes de Charles Quint ?",
+      "answer": "Pavie",
+      "accept": [],
+      "choices": [
+        "Marignan",
+        "Cérisoles",
+        "Saint-Quentin"
+      ],
+      "explanation": "Le roi resta captif à Madrid jusqu'en 1526 et dut signer un traité très défavorable qu'il s'empressa de renier une fois libéré.",
+      "wikipedia": "Bataille de Pavie (1525)"
+    },
+    {
+      "id": "histoire-364",
+      "difficulty": 2,
+      "question": "Quel souverain Habsbourg, roi d'Espagne et empereur, régnait sur un empire « sur lequel le soleil ne se couche jamais » ?",
+      "answer": "Charles Quint",
+      "accept": [
+        "Charles V"
+      ],
+      "choices": [
+        "Philippe II",
+        "Maximilien Ier",
+        "Ferdinand Ier"
+      ],
+      "explanation": "Né à Gand, il hérita des Pays-Bas, de l'Espagne et de ses colonies américaines, avant d'abdiquer en 1556 pour se retirer dans un monastère d'Estrémadure.",
+      "wikipedia": "Charles Quint"
+    },
+    {
+      "id": "histoire-365",
+      "difficulty": 2,
+      "question": "Quel roi d'Espagne, fils de Charles Quint, fit bâtir le palais-monastère de l'Escurial près de Madrid ?",
+      "answer": "Philippe II",
+      "accept": [],
+      "choices": [
+        "Philippe III",
+        "Ferdinand II",
+        "Charles II"
+      ],
+      "explanation": "Ce souverain austère fit de Madrid sa capitale et régna aussi sur le Portugal à partir de 1580.",
+      "wikipedia": "Philippe II (roi d'Espagne)"
+    },
+    {
+      "id": "histoire-366",
+      "difficulty": 1,
+      "question": "Quelle flotte espagnole fut défaite en 1588 alors qu'elle tentait d'envahir l'Angleterre d'Élisabeth Ire ?",
+      "answer": "Invincible Armada",
+      "accept": [
+        "Armada"
+      ],
+      "choices": [
+        "Grande Flotte",
+        "Flotte des Indes",
+        "Sainte Ligue"
+      ],
+      "explanation": "Après un combat au large de Gravelines, les tempêtes dispersèrent les navires espagnols contraints de contourner l'Écosse et l'Irlande pour rentrer.",
+      "wikipedia": "Invincible Armada"
+    },
+    {
+      "id": "histoire-367",
+      "difficulty": 1,
+      "question": "Quel roi d'Angleterre, marié six fois, rompit avec Rome pour pouvoir épouser Anne Boleyn ?",
+      "answer": "Henri VIII",
+      "accept": [
+        "Henry VIII"
+      ],
+      "choices": [
+        "Henri VII",
+        "Édouard VI",
+        "Jacques Ier"
+      ],
+      "explanation": "Par l'Acte de suprématie de 1534, il devint chef de l'Église d'Angleterre, ouvrant la voie à l'anglicanisme.",
+      "wikipedia": "Henri VIII"
+    },
+    {
+      "id": "histoire-368",
+      "difficulty": 1,
+      "question": "Quelle reine d'Angleterre, fille d'Henri VIII et d'Anne Boleyn, fut surnommée la Reine vierge ?",
+      "answer": "Élisabeth Ire",
+      "accept": [
+        "Elisabeth Ire",
+        "Élisabeth I"
+      ],
+      "choices": [
+        "Marie Tudor",
+        "Anne Stuart",
+        "Jeanne Grey"
+      ],
+      "explanation": "Morte sans enfant en 1603, elle fut la dernière des Tudor ; la colonie américaine de Virginie fut baptisée en son honneur.",
+      "wikipedia": "Élisabeth Ire (reine d'Angleterre)"
+    },
+    {
+      "id": "histoire-369",
+      "difficulty": 2,
+      "question": "Quelle reine d'Écosse, catholique et veuve de François II, fut décapitée en 1587 sur ordre d'Élisabeth Ire ?",
+      "answer": "Marie Stuart",
+      "accept": [
+        "Marie Ire d'Écosse"
+      ],
+      "choices": [
+        "Marie Tudor",
+        "Marguerite de Valois",
+        "Marie de Guise"
+      ],
+      "explanation": "Reine de France pendant un peu plus d'un an, elle fut retenue captive près de dix-neuf ans en Angleterre avant son exécution à Fotheringhay.",
+      "wikipedia": "Marie Stuart"
+    },
+    {
+      "id": "histoire-370",
+      "difficulty": 2,
+      "question": "Quel corsaire anglais boucla un tour du monde de 1577 à 1580 à bord du Golden Hind ?",
+      "answer": "Francis Drake",
+      "accept": [
+        "Drake"
+      ],
+      "choices": [
+        "Walter Raleigh",
+        "John Hawkins",
+        "Martin Frobisher"
+      ],
+      "explanation": "Anobli par Élisabeth Ire à son retour, il participa ensuite à la défense de l'Angleterre face à l'Armada espagnole.",
+      "wikipedia": "Francis Drake"
+    },
+    {
+      "id": "histoire-371",
+      "difficulty": 1,
+      "question": "Quelle famille de banquiers dirigea Florence, notamment avec Laurent le Magnifique ?",
+      "answer": "Médicis",
+      "accept": [
+        "Medicis"
+      ],
+      "choices": [
+        "Sforza",
+        "Borgia",
+        "Visconti"
+      ],
+      "explanation": "Cette dynastie donna aussi quatre papes à l'Église et deux reines à la France, Catherine et Marie.",
+      "wikipedia": "Maison de Médicis"
+    },
+    {
+      "id": "histoire-372",
+      "difficulty": 2,
+      "question": "Quel ordre religieux Ignace de Loyola fonda-t-il, avec l'approbation du pape en 1540 ?",
+      "answer": "Compagnie de Jésus",
+      "accept": [
+        "jésuites",
+        "jesuites"
+      ],
+      "choices": [
+        "Ordre des Prêcheurs",
+        "Oratoire",
+        "Capucins"
+      ],
+      "explanation": "Très investis dans l'enseignement et les missions, ses membres s'implantèrent jusqu'en Chine, au Japon et en Amérique du Sud.",
+      "wikipedia": "Compagnie de Jésus"
+    },
+    {
+      "id": "histoire-373",
+      "difficulty": 3,
+      "question": "Quel réformateur de Zurich fut tué à la bataille de Kappel en 1531 ?",
+      "answer": "Ulrich Zwingli",
+      "accept": [
+        "Zwingli"
+      ],
+      "choices": [
+        "Jean Calvin",
+        "Martin Bucer",
+        "Théodore de Bèze"
+      ],
+      "explanation": "Contemporain de Luther, il s'opposait à lui sur l'eucharistie, qu'il considérait comme purement symbolique.",
+      "wikipedia": "Ulrich Zwingli"
+    },
+    {
+      "id": "histoire-374",
+      "difficulty": 1,
+      "question": "Quel massacre de protestants ensanglanta Paris dans la nuit du 23 au 24 août 1572 ?",
+      "answer": "Saint-Barthélemy",
+      "accept": [
+        "massacre de la Saint-Barthélemy"
+      ],
+      "choices": [
+        "Massacre de Wassy",
+        "Michelade",
+        "Massacre de Vassy"
+      ],
+      "explanation": "Le chef protestant Gaspard de Coligny fut l'une des premières victimes, quelques jours après le mariage d'Henri de Navarre et de Marguerite de Valois.",
+      "wikipedia": "Massacre de la Saint-Barthélemy"
+    },
+    {
+      "id": "histoire-375",
+      "difficulty": 2,
+      "question": "Quelle reine de France, épouse d'Henri II, fut la mère de trois rois successifs ?",
+      "answer": "Catherine de Médicis",
+      "accept": [
+        "Catherine de Medicis"
+      ],
+      "choices": [
+        "Marie de Médicis",
+        "Anne de Bretagne",
+        "Claude de France"
+      ],
+      "explanation": "Régente pendant la minorité de Charles IX, elle fit construire le palais des Tuileries à Paris.",
+      "wikipedia": "Catherine de Médicis"
+    },
+    {
+      "id": "histoire-376",
+      "difficulty": 2,
+      "question": "Quel roi de France mourut en 1559 d'un coup de lance dans l'œil reçu lors d'un tournoi ?",
+      "answer": "Henri II",
+      "accept": [],
+      "choices": [
+        "François II",
+        "Charles IX",
+        "Henri III"
+      ],
+      "explanation": "Le coup fut porté par le capitaine de sa garde écossaise, Montgomery ; la lance brisée pénétra au-dessus de l'œil du roi.",
+      "wikipedia": "Henri II (roi de France)"
+    },
+    {
+      "id": "histoire-377",
+      "difficulty": 3,
+      "question": "Quel chef de la Ligue catholique, surnommé le Balafré, fut assassiné à Blois sur ordre d'Henri III en 1588 ?",
+      "answer": "Henri de Guise",
+      "accept": [
+        "duc de Guise",
+        "Guise",
+        "Henri Ier de Guise"
+      ],
+      "choices": [
+        "Charles de Mayenne",
+        "François de Guise",
+        "Anne de Montmorency"
+      ],
+      "explanation": "Très populaire à Paris, il avait chassé le roi de la capitale lors de la journée des Barricades quelques mois plus tôt.",
+      "wikipedia": "Henri Ier de Guise"
+    },
+    {
+      "id": "histoire-378",
+      "difficulty": 1,
+      "question": "Dans quelle ville Henri IV signa-t-il en 1598 l'édit accordant la liberté de culte aux protestants ?",
+      "answer": "Nantes",
+      "accept": [],
+      "choices": [
+        "Fontainebleau",
+        "Amboise",
+        "Saint-Germain"
+      ],
+      "explanation": "Cet édit accordait aussi aux protestants des places de sûreté ; Louis XIV le révoqua près d'un siècle plus tard.",
+      "wikipedia": "Édit de Nantes"
+    },
+    {
+      "id": "histoire-379",
+      "difficulty": 1,
+      "question": "Quel roi de France fut assassiné en 1610 par François Ravaillac, rue de la Ferronnerie à Paris ?",
+      "answer": "Henri IV",
+      "accept": [],
+      "choices": [
+        "Henri III",
+        "Louis XIII",
+        "Charles IX"
+      ],
+      "explanation": "Premier roi de la dynastie des Bourbons, il avait déjà échappé à de nombreuses tentatives d'assassinat.",
+      "wikipedia": "Henri IV (roi de France)"
+    },
+    {
+      "id": "histoire-380",
+      "difficulty": 1,
+      "question": "Quel navigateur portugais ouvrit la route maritime des Indes en atteignant Calicut en 1498 ?",
+      "answer": "Vasco de Gama",
+      "accept": [
+        "Gama"
+      ],
+      "choices": [
+        "Bartolomeu Dias",
+        "Pedro Álvares Cabral",
+        "Fernand de Magellan"
+      ],
+      "explanation": "Contournant l'Afrique, il fut guidé dans l'océan Indien par un pilote rencontré à Malindi, sur la côte de l'actuel Kenya.",
+      "wikipedia": "Vasco de Gama"
+    },
+    {
+      "id": "histoire-381",
+      "difficulty": 2,
+      "question": "Quel navigateur portugais fut le premier Européen à doubler l'extrémité sud de l'Afrique, en 1488 ?",
+      "answer": "Bartolomeu Dias",
+      "accept": [
+        "Dias",
+        "Barthélemy Dias"
+      ],
+      "choices": [
+        "Vasco de Gama",
+        "Diogo Cão",
+        "Gil Eanes"
+      ],
+      "explanation": "Il baptisa ce promontoire cap des Tempêtes, avant que le roi Jean II ne le renomme cap de Bonne-Espérance.",
+      "wikipedia": "Bartolomeu Dias"
+    },
+    {
+      "id": "histoire-382",
+      "difficulty": 2,
+      "question": "Quel navigateur florentin a donné son prénom au continent américain ?",
+      "answer": "Amerigo Vespucci",
+      "accept": [
+        "Vespucci",
+        "Améric Vespuce"
+      ],
+      "choices": [
+        "Jean Cabot",
+        "Giovanni da Verrazzano",
+        "Christophe Colomb"
+      ],
+      "explanation": "Il fut l'un des premiers à affirmer que les terres découvertes par Colomb formaient un monde nouveau et non l'Asie.",
+      "wikipedia": "Amerigo Vespucci"
+    },
+    {
+      "id": "histoire-383",
+      "difficulty": 3,
+      "question": "Quel cartographe allemand utilisa le premier, en 1507, le nom America sur une carte du monde ?",
+      "answer": "Martin Waldseemüller",
+      "accept": [
+        "Waldseemüller",
+        "Waldseemuller"
+      ],
+      "choices": [
+        "Gerardus Mercator",
+        "Martin Behaim",
+        "Abraham Ortelius"
+      ],
+      "explanation": "Sa carte fut imprimée à Saint-Dié, dans les Vosges ; un exemplaire unique est conservé à la bibliothèque du Congrès à Washington.",
+      "wikipedia": "Martin Waldseemüller"
+    },
+    {
+      "id": "histoire-384",
+      "difficulty": 3,
+      "question": "Quel conquistador espagnol fut le premier Européen à apercevoir le Pacifique depuis l'isthme de Panama, en 1513 ?",
+      "answer": "Vasco Núñez de Balboa",
+      "accept": [
+        "Balboa",
+        "Vasco Nunez de Balboa"
+      ],
+      "choices": [
+        "Diego de Almagro",
+        "Pedro de Alvarado",
+        "Hernando de Soto"
+      ],
+      "explanation": "Il nomma cet océan « mer du Sud » ; la monnaie du Panama porte aujourd'hui son nom.",
+      "wikipedia": "Vasco Núñez de Balboa"
+    },
+    {
+      "id": "histoire-385",
+      "difficulty": 2,
+      "question": "Quel navigateur basque ramena en Espagne la première expédition autour du monde après la mort de Magellan ?",
+      "answer": "Juan Sebastián Elcano",
+      "accept": [
+        "Elcano",
+        "Juan Sebastian Elcano"
+      ],
+      "choices": [
+        "Antonio Pigafetta",
+        "Juan de Cartagena",
+        "Andrés de Urdaneta"
+      ],
+      "explanation": "Seuls dix-huit hommes et un navire, la Victoria, revinrent en 1522 ; l'empereur lui offrit des armoiries avec la devise « Tu m'as fait le tour en premier ».",
+      "wikipedia": "Juan Sebastián Elcano"
+    },
+    {
+      "id": "histoire-386",
+      "difficulty": 1,
+      "question": "Quelle cité d'or légendaire les conquistadors cherchèrent-ils en vain en Amérique du Sud ?",
+      "answer": "Eldorado",
+      "accept": [
+        "El Dorado"
+      ],
+      "choices": [
+        "Cibola",
+        "Shangri-La",
+        "Atlantide"
+      ],
+      "explanation": "Le mythe vient d'un rituel muisca, en Colombie, où un chef couvert de poudre d'or se baignait dans le lac Guatavita.",
+      "wikipedia": "Eldorado"
+    },
+    {
+      "id": "histoire-387",
+      "difficulty": 3,
+      "question": "Quelle interprète indigène, conseillère de Cortés, joua un rôle clé dans la conquête du Mexique ?",
+      "answer": "Malinche",
+      "accept": [
+        "la Malinche",
+        "Malintzin",
+        "Doña Marina"
+      ],
+      "choices": [
+        "Tecuichpo",
+        "Anacaona",
+        "Xochitl"
+      ],
+      "explanation": "Parlant le nahuatl et le maya, elle eut un fils avec Cortés ; au Mexique, le mot malinchismo désigne la préférence pour l'étranger.",
+      "wikipedia": "La Malinche"
+    },
+    {
+      "id": "histoire-388",
+      "difficulty": 2,
+      "question": "Quel dominicain espagnol défendit les Indiens d'Amérique lors de la controverse de Valladolid ?",
+      "answer": "Bartolomé de las Casas",
+      "accept": [
+        "Las Casas",
+        "Bartolomé de Las Casas"
+      ],
+      "choices": [
+        "Juan Ginés de Sepúlveda",
+        "Francisco de Vitoria",
+        "Antonio de Montesinos"
+      ],
+      "explanation": "Ancien colon devenu évêque du Chiapas, il dénonça les violences de la conquête dans sa Très brève relation de la destruction des Indes.",
+      "wikipedia": "Bartolomé de las Casas"
+    },
+    {
+      "id": "histoire-389",
+      "difficulty": 2,
+      "question": "Quel cardinal italien succéda à Richelieu comme principal ministre pendant la minorité de Louis XIV ?",
+      "answer": "Mazarin",
+      "accept": [
+        "Jules Mazarin"
+      ],
+      "choices": [
+        "Fouquet",
+        "Dubois",
+        "Fleury"
+      ],
+      "explanation": "Il légua sa bibliothèque, qui devint la bibliothèque Mazarine, et finança le collège des Quatre-Nations, actuel siège de l'Institut de France.",
+      "wikipedia": "Jules Mazarin"
+    },
+    {
+      "id": "histoire-390",
+      "difficulty": 2,
+      "question": "Quel port protestant de l'Atlantique fut assiégé par Richelieu en 1627-1628 ?",
+      "answer": "La Rochelle",
+      "accept": [],
+      "choices": [
+        "Nantes",
+        "Bordeaux",
+        "Saint-Malo"
+      ],
+      "explanation": "Pour affamer la ville, le cardinal fit construire une digue de plus d'un kilomètre fermant la rade aux secours anglais.",
+      "wikipedia": "Siège de La Rochelle (1627-1628)"
+    },
+    {
+      "id": "histoire-391",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la journée de novembre 1630 où Richelieu triompha de Marie de Médicis ?",
+      "answer": "journée des Dupes",
+      "accept": [
+        "Dupes"
+      ],
+      "choices": [
+        "journée des Barricades",
+        "journée des Tuiles",
+        "journée des Éperons"
+      ],
+      "explanation": "La reine mère croyait avoir obtenu le renvoi du cardinal, mais Louis XIII lui renouvela sa confiance le soir même.",
+      "wikipedia": "Journée des Dupes"
+    },
+    {
+      "id": "histoire-392",
+      "difficulty": 2,
+      "question": "Quel complot de 1605 visait à faire sauter le Parlement anglais et le roi Jacques Ier ?",
+      "answer": "conspiration des poudres",
+      "accept": [
+        "Gunpowder Plot"
+      ],
+      "choices": [
+        "complot de Babington",
+        "complot de Ridolfi",
+        "conjuration d'Amboise"
+      ],
+      "explanation": "Guy Fawkes fut arrêté près des barils de poudre ; les Britanniques commémorent l'échec du complot chaque 5 novembre par des feux de joie.",
+      "wikipedia": "Conspiration des Poudres"
+    },
+    {
+      "id": "histoire-393",
+      "difficulty": 1,
+      "question": "Quel roi d'Angleterre fut décapité à Londres en 1649 après sa défaite face au Parlement ?",
+      "answer": "Charles Ier",
+      "accept": [
+        "Charles 1er"
+      ],
+      "choices": [
+        "Jacques Ier",
+        "Charles II",
+        "Jacques II"
+      ],
+      "explanation": "Il fut exécuté devant la Banqueting House de Whitehall, et l'Angleterre vécut ensuite onze ans sans roi.",
+      "wikipedia": "Charles Ier (roi d'Angleterre)"
+    },
+    {
+      "id": "histoire-394",
+      "difficulty": 1,
+      "question": "Quel chef puritain gouverna l'Angleterre avec le titre de lord-protecteur de 1653 à sa mort ?",
+      "answer": "Oliver Cromwell",
+      "accept": [
+        "Cromwell"
+      ],
+      "choices": [
+        "Thomas Fairfax",
+        "John Pym",
+        "Richard Cromwell"
+      ],
+      "explanation": "Après la restauration de la monarchie, son corps fut exhumé et décapité à titre posthume en 1661.",
+      "wikipedia": "Oliver Cromwell"
+    },
+    {
+      "id": "histoire-395",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la révolution anglaise de 1688 qui chassa Jacques II au profit de Guillaume d'Orange ?",
+      "answer": "Glorieuse Révolution",
+      "accept": [
+        "Glorious Revolution"
+      ],
+      "choices": [
+        "Restauration",
+        "Grande Rébellion",
+        "Révolution puritaine"
+      ],
+      "explanation": "Ce renversement presque sans effusion de sang en Angleterre déboucha sur le Bill of Rights qui limita les pouvoirs du roi.",
+      "wikipedia": "Glorieuse Révolution"
+    },
+    {
+      "id": "histoire-396",
+      "difficulty": 2,
+      "question": "Quel navire transporta en 1620 les Pères pèlerins jusqu'au Massachusetts ?",
+      "answer": "Mayflower",
+      "accept": [],
+      "choices": [
+        "Santa María",
+        "Discovery",
+        "Endeavour"
+      ],
+      "explanation": "Avant de débarquer, les passagers signèrent un pacte de gouvernement, considéré comme un texte fondateur de la démocratie américaine.",
+      "wikipedia": "Mayflower"
+    },
+    {
+      "id": "histoire-397",
+      "difficulty": 1,
+      "question": "Quelle fille d'un chef amérindien de Virginie aurait sauvé la vie du colon John Smith ?",
+      "answer": "Pocahontas",
+      "accept": [],
+      "choices": [
+        "Sacagawea",
+        "Malinche",
+        "Anacaona"
+      ],
+      "explanation": "Convertie et mariée au planteur John Rolfe, elle voyagea en Angleterre et mourut à Gravesend en 1617.",
+      "wikipedia": "Pocahontas"
+    },
+    {
+      "id": "histoire-398",
+      "difficulty": 1,
+      "question": "Sous quel nom connaît-on aujourd'hui La Nouvelle-Amsterdam, colonie néerlandaise cédée aux Anglais en 1664 ?",
+      "answer": "New York",
+      "accept": [],
+      "choices": [
+        "Boston",
+        "Philadelphie",
+        "Albany"
+      ],
+      "explanation": "Elle fut rebaptisée en l'honneur du duc d'York, frère du roi Charles II et futur Jacques II.",
+      "wikipedia": "La Nouvelle-Amsterdam"
+    },
+    {
+      "id": "histoire-399",
+      "difficulty": 3,
+      "question": "Quel explorateur français prit possession de la vallée du Mississippi au nom de Louis XIV en 1682 ?",
+      "answer": "Cavelier de La Salle",
+      "accept": [
+        "La Salle",
+        "René-Robert Cavelier de La Salle"
+      ],
+      "choices": [
+        "Louis Jolliet",
+        "Jacques Marquette",
+        "Pierre Le Moyne d'Iberville"
+      ],
+      "explanation": "Il baptisa ce territoire Louisiane en l'honneur du roi, puis fut assassiné par ses propres hommes au Texas en 1687.",
+      "wikipedia": "René-Robert Cavelier de La Salle"
+    },
+    {
+      "id": "histoire-400",
+      "difficulty": 2,
+      "question": "Par quel édit, signé dans un château royal en 1685, Louis XIV révoqua-t-il l'édit de Nantes ?",
+      "answer": "Fontainebleau",
+      "accept": [
+        "édit de Fontainebleau"
+      ],
+      "choices": [
+        "Versailles",
+        "Saint-Germain",
+        "Chambord"
+      ],
+      "explanation": "La révocation poussa plus de deux cent mille protestants à fuir vers la Prusse, les Provinces-Unies, l'Angleterre ou la Suisse.",
+      "wikipedia": "Révocation de l'édit de Nantes"
+    },
+    {
+      "id": "histoire-401",
+      "difficulty": 1,
+      "question": "Quel ingénieur militaire de Louis XIV entoura le royaume d'une « ceinture de fer » de places fortes ?",
+      "answer": "Vauban",
+      "accept": [
+        "Sébastien Le Prestre de Vauban"
+      ],
+      "choices": [
+        "Louvois",
+        "Turenne",
+        "Condé"
+      ],
+      "explanation": "Maréchal de France, il dirigea une cinquantaine de sièges ; douze de ses fortifications sont inscrites au patrimoine mondial de l'Unesco.",
+      "wikipedia": "Sébastien Le Prestre de Vauban"
+    },
+    {
+      "id": "histoire-402",
+      "difficulty": 3,
+      "question": "Quelle épouse secrète de Louis XIV fonda la maison royale de Saint-Louis, à Saint-Cyr ?",
+      "answer": "Madame de Maintenon",
+      "accept": [
+        "Maintenon",
+        "Madame de Maintenon"
+      ],
+      "choices": [
+        "Madame de Montespan",
+        "Louise de La Vallière",
+        "Madame de Sévigné"
+      ],
+      "explanation": "Ancienne gouvernante des enfants que le roi eut avec Madame de Montespan, elle l'épousa sans doute en 1683, après la mort de la reine.",
+      "wikipedia": "Madame de Maintenon"
+    },
+    {
+      "id": "histoire-403",
+      "difficulty": 1,
+      "question": "Quel tsar fonda Saint-Pétersbourg en 1703 pour ouvrir la Russie sur la Baltique ?",
+      "answer": "Pierre le Grand",
+      "accept": [
+        "Pierre Ier",
+        "Pierre Ier le Grand"
+      ],
+      "choices": [
+        "Ivan le Terrible",
+        "Alexandre Ier",
+        "Nicolas Ier"
+      ],
+      "explanation": "Il avait auparavant voyagé incognito en Europe occidentale, travaillant même dans un chantier naval des Provinces-Unies.",
+      "wikipedia": "Pierre Ier le Grand"
+    },
+    {
+      "id": "histoire-404",
+      "difficulty": 3,
+      "question": "Quel roi de Pologne délivra Vienne assiégée par les Ottomans en 1683 ?",
+      "answer": "Jean III Sobieski",
+      "accept": [
+        "Sobieski",
+        "Jean Sobieski"
+      ],
+      "choices": [
+        "Sigismond III",
+        "Étienne Báthory",
+        "Auguste II"
+      ],
+      "explanation": "Sa charge de hussards ailés au Kahlenberg fut l'une des plus grandes charges de cavalerie de l'histoire.",
+      "wikipedia": "Jean III Sobieski"
+    },
+    {
+      "id": "histoire-405",
+      "difficulty": 2,
+      "question": "Quel épisode de 1618, où des émissaires impériaux furent jetés par une fenêtre, déclencha la guerre de Trente Ans ?",
+      "answer": "défenestration de Prague",
+      "accept": [
+        "seconde défenestration de Prague"
+      ],
+      "choices": [
+        "coup de Prague",
+        "printemps de Prague",
+        "sac de Rome"
+      ],
+      "explanation": "Les trois hommes survécurent à une chute de plus de quinze mètres, tombés selon la légende sur un tas de fumier.",
+      "wikipedia": "Défenestration de Prague (1618)"
+    },
+    {
+      "id": "histoire-406",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la politique de fermeture du Japon aux étrangers appliquée par le shogunat Tokugawa pendant plus de deux siècles ?",
+      "answer": "sakoku",
+      "accept": [],
+      "choices": [
+        "bakufu",
+        "bushido",
+        "ikki"
+      ],
+      "explanation": "Seuls les Néerlandais et les Chinois pouvaient commercer, sur l'îlot artificiel de Dejima, dans la baie de Nagasaki.",
+      "wikipedia": "Sakoku"
+    },
+    {
+      "id": "histoire-407",
+      "difficulty": 3,
+      "question": "Quelle bataille de 1600 assura à Tokugawa Ieyasu la domination du Japon ?",
+      "answer": "Sekigahara",
+      "accept": [],
+      "choices": [
+        "Nagashino",
+        "Okehazama",
+        "Dan-no-ura"
+      ],
+      "explanation": "Trois ans plus tard, l'empereur lui conféra le titre de shogun ; sa dynastie gouverna le pays jusqu'en 1867.",
+      "wikipedia": "Bataille de Sekigahara"
+    },
+    {
+      "id": "histoire-408",
+      "difficulty": 3,
+      "question": "Quel daimyo, assassiné au temple Honnō-ji en 1582, entreprit le premier la réunification du Japon ?",
+      "answer": "Oda Nobunaga",
+      "accept": [
+        "Nobunaga"
+      ],
+      "choices": [
+        "Toyotomi Hideyoshi",
+        "Takeda Shingen",
+        "Uesugi Kenshin"
+      ],
+      "explanation": "Il fut l'un des premiers seigneurs japonais à utiliser massivement les arquebuses introduites par les Portugais.",
+      "wikipedia": "Oda Nobunaga"
+    },
+    {
+      "id": "histoire-409",
+      "difficulty": 3,
+      "question": "Quel amiral coréen repoussa les flottes japonaises à la fin du XVIe siècle grâce à ses « bateaux-tortues » ?",
+      "answer": "Yi Sun-sin",
+      "accept": [],
+      "choices": [
+        "Kim Yu-sin",
+        "Sejong",
+        "Gwon Yul"
+      ],
+      "explanation": "Il ne perdit aucune bataille navale et mourut d'une balle en 1598 lors du dernier combat de la guerre.",
+      "wikipedia": "Yi Sun-sin"
+    },
+    {
+      "id": "histoire-410",
+      "difficulty": 2,
+      "question": "Quelle bataille navale de 1571, au large de la Grèce, vit la Sainte Ligue vaincre la flotte ottomane ?",
+      "answer": "Lépante",
+      "accept": [],
+      "choices": [
+        "Prévéza",
+        "Djerba",
+        "Navarin"
+      ],
+      "explanation": "Miguel de Cervantès y combattit et y perdit l'usage de sa main gauche, ce qui lui valut le surnom de manchot de Lépante.",
+      "wikipedia": "Bataille de Lépante"
+    },
+    {
+      "id": "histoire-411",
+      "difficulty": 1,
+      "question": "Quel roi de France, arrière-petit-fils de Louis XIV, était surnommé le Bien-Aimé ?",
+      "answer": "Louis XV",
+      "accept": [
+        "Louis 15"
+      ],
+      "choices": [
+        "Louis XVI",
+        "Louis XIII",
+        "Louis XVIII"
+      ],
+      "explanation": "Monté sur le trône à cinq ans, il régna près de cinquante-neuf ans ; sa popularité s'effondra pourtant à la fin de son règne.",
+      "wikipedia": "Louis XV"
+    },
+    {
+      "id": "histoire-412",
+      "difficulty": 2,
+      "question": "Quelle favorite de Louis XV protégea les philosophes et la manufacture de porcelaine de Sèvres ?",
+      "answer": "Madame de Pompadour",
+      "accept": [
+        "Pompadour",
+        "Marquise de Pompadour"
+      ],
+      "choices": [
+        "Madame du Barry",
+        "Madame de Montespan",
+        "Madame de Maintenon"
+      ],
+      "explanation": "Née Jeanne-Antoinette Poisson, elle était d'origine bourgeoise, ce qui scandalisa la cour ; une coiffure porte encore son nom.",
+      "wikipedia": "Madame de Pompadour"
+    },
+    {
+      "id": "histoire-413",
+      "difficulty": 1,
+      "question": "Quel ouvrage collectif, dirigé par Diderot et d'Alembert, voulait rassembler toutes les connaissances au XVIIIe siècle ?",
+      "answer": "Encyclopédie",
+      "accept": [
+        "l'Encyclopédie"
+      ],
+      "choices": [
+        "Dictionnaire philosophique",
+        "Esprit des lois",
+        "Contrat social"
+      ],
+      "explanation": "Son titre complet précise « ou Dictionnaire raisonné des sciences, des arts et des métiers » ; elle fut plusieurs fois interdite par le pouvoir royal.",
+      "wikipedia": "Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers"
+    },
+    {
+      "id": "histoire-414",
+      "difficulty": 1,
+      "question": "Quelle reine de France, guillotinée en 1793, était née archiduchesse d'Autriche ?",
+      "answer": "Marie-Antoinette",
+      "accept": [
+        "Marie Antoinette"
+      ],
+      "choices": [
+        "Marie Leszczynska",
+        "Marie-Thérèse",
+        "Marie-Louise"
+      ],
+      "explanation": "Fille de l'impératrice Marie-Thérèse, elle fit aménager au domaine de Trianon un hameau où elle jouait à la vie paysanne.",
+      "wikipedia": "Marie-Antoinette d'Autriche"
+    },
+    {
+      "id": "histoire-415",
+      "difficulty": 2,
+      "question": "Quelle escroquerie de 1785 autour d'un bijou compromit la réputation de Marie-Antoinette ?",
+      "answer": "affaire du collier",
+      "accept": [
+        "affaire du collier de la reine",
+        "collier de la reine"
+      ],
+      "choices": [
+        "affaire des poisons",
+        "affaire du masque",
+        "affaire des ferrets"
+      ],
+      "explanation": "La comtesse de La Motte fit croire au cardinal de Rohan que la reine désirait secrètement ce bijou de diamants et le lui fit acheter.",
+      "wikipedia": "Affaire du collier de la reine"
+    },
+    {
+      "id": "histoire-416",
+      "difficulty": 3,
+      "question": "Quel ministre genevois des Finances de Louis XVI fut renvoyé le 11 juillet 1789, trois jours avant la prise de la Bastille ?",
+      "answer": "Jacques Necker",
+      "accept": [
+        "Necker"
+      ],
+      "choices": [
+        "Turgot",
+        "Calonne",
+        "Loménie de Brienne"
+      ],
+      "explanation": "Sa disgrâce provoqua l'émotion à Paris ; il fut rappelé quelques jours plus tard. Sa fille est l'écrivaine Germaine de Staël.",
+      "wikipedia": "Jacques Necker"
+    },
+    {
+      "id": "histoire-417",
+      "difficulty": 1,
+      "question": "Dans quelle salle les députés du tiers état jurèrent-ils, le 20 juin 1789, de ne pas se séparer avant d'avoir donné une Constitution ?",
+      "answer": "Jeu de paume",
+      "accept": [
+        "salle du Jeu de paume"
+      ],
+      "choices": [
+        "galerie des Glaces",
+        "salle des Menus-Plaisirs",
+        "Manège"
+      ],
+      "explanation": "Trouvant leur salle fermée, ils se réunirent à Versailles dans cette salle de sport ; Jacques-Louis David immortalisa la scène.",
+      "wikipedia": "Serment du Jeu de paume"
+    },
+    {
+      "id": "histoire-418",
+      "difficulty": 1,
+      "question": "Dans quelle petite ville de l'Argonne Louis XVI fut-il arrêté lors de sa fuite en juin 1791 ?",
+      "answer": "Varennes",
+      "accept": [
+        "Varennes-en-Argonne"
+      ],
+      "choices": [
+        "Sainte-Menehould",
+        "Montmédy",
+        "Châlons"
+      ],
+      "explanation": "Le roi avait été reconnu un peu plus tôt à Sainte-Menehould par le maître de poste Drouet, qui le devança à Varennes.",
+      "wikipedia": "Fuite de Varennes"
+    },
+    {
+      "id": "histoire-419",
+      "difficulty": 1,
+      "question": "Quel roi de France fut guillotiné place de la Révolution le 21 janvier 1793 ?",
+      "answer": "Louis XVI",
+      "accept": [
+        "Louis 16"
+      ],
+      "choices": [
+        "Louis XV",
+        "Louis XVIII",
+        "Charles X"
+      ],
+      "explanation": "Lors de son procès, les révolutionnaires le désignaient sous le nom de Louis Capet, en référence au fondateur de sa dynastie.",
+      "wikipedia": "Louis XVI"
+    },
+    {
+      "id": "histoire-420",
+      "difficulty": 2,
+      "question": "Quelle canonnade de septembre 1792 vit l'armée révolutionnaire arrêter les Prussiens en Champagne ?",
+      "answer": "Valmy",
+      "accept": [],
+      "choices": [
+        "Jemmapes",
+        "Fleurus",
+        "Wattignies"
+      ],
+      "explanation": "Goethe, présent côté prussien, aurait déclaré : « De ce lieu et de ce jour date une nouvelle époque de l'histoire du monde. »",
+      "wikipedia": "Bataille de Valmy"
+    },
+    {
+      "id": "histoire-421",
+      "difficulty": 1,
+      "question": "Quel avocat d'Arras, surnommé l'Incorruptible, fut guillotiné le 10 thermidor an II ?",
+      "answer": "Robespierre",
+      "accept": [
+        "Maximilien de Robespierre"
+      ],
+      "choices": [
+        "Danton",
+        "Saint-Just",
+        "Desmoulins"
+      ],
+      "explanation": "Membre du Comité de salut public, il avait organisé la fête de l'Être suprême quelques semaines avant sa chute.",
+      "wikipedia": "Maximilien de Robespierre"
+    },
+    {
+      "id": "histoire-422",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la période de 1793-1794 où le gouvernement révolutionnaire multiplia les exécutions ?",
+      "answer": "Terreur",
+      "accept": [
+        "la Terreur"
+      ],
+      "choices": [
+        "Directoire",
+        "Grande Peur",
+        "Consulat"
+      ],
+      "explanation": "La loi des suspects de septembre 1793 permettait d'arrêter quiconque était soupçonné d'hostilité envers la Révolution.",
+      "wikipedia": "Terreur (Révolution française)"
+    },
+    {
+      "id": "histoire-423",
+      "difficulty": 2,
+      "question": "Quel révolutionnaire, guillotiné en 1794, avait lancé « De l'audace, encore de l'audace, toujours de l'audace » ?",
+      "answer": "Danton",
+      "accept": [
+        "Georges Danton"
+      ],
+      "choices": [
+        "Marat",
+        "Hébert",
+        "Robespierre"
+      ],
+      "explanation": "Il aurait demandé au bourreau de montrer sa tête au peuple, car « elle en vaut la peine ».",
+      "wikipedia": "Georges Jacques Danton"
+    },
+    {
+      "id": "histoire-424",
+      "difficulty": 3,
+      "question": "Quel député, plus jeune membre de la Convention, fut surnommé l'Archange de la Terreur ?",
+      "answer": "Saint-Just",
+      "accept": [
+        "Louis Antoine de Saint-Just"
+      ],
+      "choices": [
+        "Couthon",
+        "Barère",
+        "Billaud-Varenne"
+      ],
+      "explanation": "Auteur de la formule « On ne peut point régner innocemment » contre Louis XVI, il fut guillotiné avec Robespierre à vingt-six ans.",
+      "wikipedia": "Louis Antoine de Saint-Just"
+    },
+    {
+      "id": "histoire-425",
+      "difficulty": 2,
+      "question": "Comment surnommait-on les insurgés royalistes de Bretagne et du Maine, dont le nom évoquerait le cri d'un oiseau nocturne ?",
+      "answer": "chouans",
+      "accept": [
+        "chouannerie"
+      ],
+      "choices": [
+        "camisards",
+        "croquants",
+        "va-nu-pieds"
+      ],
+      "explanation": "Leur nom viendrait de Jean Cottereau, dit Jean Chouan, qui imitait le cri du chat-huant pour se signaler.",
+      "wikipedia": "Chouannerie"
+    },
+    {
+      "id": "histoire-426",
+      "difficulty": 1,
+      "question": "Dans quel pays Bonaparte mena-t-il en 1798 une expédition accompagnée de savants ?",
+      "answer": "Égypte",
+      "accept": [
+        "Egypte"
+      ],
+      "choices": [
+        "Syrie",
+        "Italie",
+        "Algérie"
+      ],
+      "explanation": "Les savants de l'expédition publièrent ensuite la monumentale Description de l'Égypte en plus de vingt volumes.",
+      "wikipedia": "Campagne d'Égypte"
+    },
+    {
+      "id": "histoire-427",
+      "difficulty": 2,
+      "question": "Quel amiral britannique détruisit la flotte française dans la rade d'Aboukir en 1798 ?",
+      "answer": "Horatio Nelson",
+      "accept": [
+        "Nelson"
+      ],
+      "choices": [
+        "Collingwood",
+        "Jervis",
+        "Hood"
+      ],
+      "explanation": "Bonaparte et son armée se retrouvèrent ainsi bloqués en Égypte, coupés de la France.",
+      "wikipedia": "Horatio Nelson"
+    },
+    {
+      "id": "histoire-428",
+      "difficulty": 2,
+      "question": "Quel coup d'État du 9 novembre 1799 porta Bonaparte au pouvoir ?",
+      "answer": "18 Brumaire",
+      "accept": [
+        "dix-huit Brumaire",
+        "coup d'État du 18 Brumaire"
+      ],
+      "choices": [
+        "13 Vendémiaire",
+        "9 Thermidor",
+        "18 Fructidor"
+      ],
+      "explanation": "Le lendemain, les grenadiers expulsèrent les députés de l'orangerie du château de Saint-Cloud ; le Consulat succéda au Directoire.",
+      "wikipedia": "Coup d'État du 18 Brumaire"
+    },
+    {
+      "id": "histoire-429",
+      "difficulty": 2,
+      "question": "Quelle impératrice, première épouse de Napoléon, était née en Martinique ?",
+      "answer": "Joséphine de Beauharnais",
+      "accept": [
+        "Joséphine",
+        "Josephine de Beauharnais"
+      ],
+      "choices": [
+        "Marie-Louise",
+        "Hortense de Beauharnais",
+        "Pauline Bonaparte"
+      ],
+      "explanation": "Elle fit du château de la Malmaison sa résidence et y cultiva une célèbre collection de roses.",
+      "wikipedia": "Joséphine de Beauharnais"
+    },
+    {
+      "id": "histoire-430",
+      "difficulty": 1,
+      "question": "Quelle bataille navale de 1805, au large de l'Espagne, ruina la flotte franco-espagnole face aux Britanniques ?",
+      "answer": "Trafalgar",
+      "accept": [],
+      "choices": [
+        "Aboukir",
+        "Lépante",
+        "Navarin"
+      ],
+      "explanation": "La victoire est commémorée à Londres par une colonne surmontée de la statue de l'amiral vainqueur, mort au combat.",
+      "wikipedia": "Bataille de Trafalgar"
+    },
+    {
+      "id": "histoire-431",
+      "difficulty": 3,
+      "question": "Quelle bataille sanglante de 1812, près de Moscou, est appelée Borodino par les Russes ?",
+      "answer": "Moskova",
+      "accept": [
+        "la Moskova",
+        "bataille de la Moskova"
+      ],
+      "choices": [
+        "Smolensk",
+        "Bérézina",
+        "Maloïaroslavets"
+      ],
+      "explanation": "Ce fut l'une des journées les plus meurtrières des guerres napoléoniennes ; Koutouzov se replia, abandonnant Moscou.",
+      "wikipedia": "Bataille de la Moskova"
+    },
+    {
+      "id": "histoire-432",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le bref retour de Napoléon au pouvoir en 1815 ?",
+      "answer": "Cent-Jours",
+      "accept": [
+        "Cent Jours"
+      ],
+      "choices": [
+        "Restauration",
+        "Vol de l'Aigle",
+        "Seconde Campagne"
+      ],
+      "explanation": "Débarqué à Golfe-Juan, il gagna Paris par les Alpes, une route aujourd'hui baptisée route Napoléon.",
+      "wikipedia": "Cent-Jours"
+    },
+    {
+      "id": "histoire-433",
+      "difficulty": 1,
+      "question": "Près de quel village belge Napoléon fut-il définitivement vaincu en juin 1815 ?",
+      "answer": "Waterloo",
+      "accept": [],
+      "choices": [
+        "Ligny",
+        "Fleurus",
+        "Quatre-Bras"
+      ],
+      "explanation": "Les Prussiens de Blücher arrivèrent en fin de journée et firent basculer l'issue de la bataille.",
+      "wikipedia": "Bataille de Waterloo"
+    },
+    {
+      "id": "histoire-434",
+      "difficulty": 3,
+      "question": "Quel général britannique, surnommé le Duc de fer, combattit les Français en Espagne avant de devenir Premier ministre ?",
+      "answer": "Wellington",
+      "accept": [
+        "duc de Wellington",
+        "Arthur Wellesley"
+      ],
+      "choices": [
+        "Marlborough",
+        "John Moore",
+        "Lord Raglan"
+      ],
+      "explanation": "Né à Dublin, il donna son nom à la capitale de la Nouvelle-Zélande et, selon une tradition, à un plat de bœuf en croûte.",
+      "wikipedia": "Arthur Wellesley (1er duc de Wellington)"
+    },
+    {
+      "id": "histoire-435",
+      "difficulty": 2,
+      "question": "Quel diplomate français, surnommé le Diable boiteux, servit la Révolution, Napoléon puis la Restauration ?",
+      "answer": "Talleyrand",
+      "accept": [
+        "Charles-Maurice de Talleyrand-Périgord"
+      ],
+      "choices": [
+        "Fouché",
+        "Metternich",
+        "Chateaubriand"
+      ],
+      "explanation": "Ancien évêque d'Autun, il représenta la France vaincue au congrès de Vienne et réussit à la replacer parmi les grandes puissances.",
+      "wikipedia": "Charles-Maurice de Talleyrand-Périgord"
+    },
+    {
+      "id": "histoire-436",
+      "difficulty": 3,
+      "question": "Quel chancelier autrichien orchestra le congrès de Vienne et domina la politique européenne jusqu'en 1848 ?",
+      "answer": "Metternich",
+      "accept": [
+        "Klemens von Metternich"
+      ],
+      "choices": [
+        "Schwarzenberg",
+        "Kaunitz",
+        "Hardenberg"
+      ],
+      "explanation": "Chassé par la révolution de 1848, il dut s'exiler à Londres ; il avait auparavant négocié le mariage de Marie-Louise avec Napoléon.",
+      "wikipedia": "Klemens Wenzel von Metternich"
+    },
+    {
+      "id": "histoire-437",
+      "difficulty": 1,
+      "question": "Dans quel port américain des colons déguisés en Amérindiens jetèrent-ils une cargaison de thé à la mer en 1773 ?",
+      "answer": "Boston",
+      "accept": [],
+      "choices": [
+        "New York",
+        "Philadelphie",
+        "Baltimore"
+      ],
+      "explanation": "Ils protestaient contre une taxe votée à Londres sans représentation des colonies au Parlement britannique.",
+      "wikipedia": "Boston Tea Party"
+    },
+    {
+      "id": "histoire-438",
+      "difficulty": 1,
+      "question": "Qui fut le premier président des États-Unis, de 1789 à 1797 ?",
+      "answer": "George Washington",
+      "accept": [
+        "Washington"
+      ],
+      "choices": [
+        "John Adams",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "explanation": "Il refusa de briguer un troisième mandat, créant une tradition qui ne fut rompue qu'au XXe siècle.",
+      "wikipedia": "George Washington"
+    },
+    {
+      "id": "histoire-439",
+      "difficulty": 1,
+      "question": "Quel futur président fut le principal rédacteur de la Déclaration d'indépendance américaine de 1776 ?",
+      "answer": "Thomas Jefferson",
+      "accept": [
+        "Jefferson"
+      ],
+      "choices": [
+        "John Adams",
+        "James Madison",
+        "Alexander Hamilton"
+      ],
+      "explanation": "Il mourut le 4 juillet 1826, cinquante ans jour pour jour après l'adoption du texte, quelques heures avant John Adams.",
+      "wikipedia": "Thomas Jefferson"
+    },
+    {
+      "id": "histoire-440",
+      "difficulty": 1,
+      "question": "Quel marquis français partit combattre aux côtés des insurgés américains dès 1777 ?",
+      "answer": "La Fayette",
+      "accept": [
+        "Lafayette"
+      ],
+      "choices": [
+        "Rochambeau",
+        "Montcalm",
+        "Bougainville"
+      ],
+      "explanation": "Il traversa l'Atlantique à bord de La Victoire, un navire qu'il avait acheté à ses frais.",
+      "wikipedia": "Gilbert du Motier de La Fayette"
+    },
+    {
+      "id": "histoire-441",
+      "difficulty": 2,
+      "question": "Dans quelle ville de Virginie l'armée britannique de Cornwallis capitula-t-elle en 1781 ?",
+      "answer": "Yorktown",
+      "accept": [],
+      "choices": [
+        "Saratoga",
+        "Lexington",
+        "Trenton"
+      ],
+      "explanation": "La flotte de l'amiral de Grasse empêcha les Britanniques d'être secourus par la mer, décidant de l'issue du siège.",
+      "wikipedia": "Bataille de Yorktown"
+    },
+    {
+      "id": "histoire-442",
+      "difficulty": 2,
+      "question": "Quelle bataille de 1759 devant Québec coûta la vie aux généraux Montcalm et Wolfe ?",
+      "answer": "Plaines d'Abraham",
+      "accept": [
+        "bataille des Plaines d'Abraham"
+      ],
+      "choices": [
+        "Fort Carillon",
+        "Sainte-Foy",
+        "Fort Duquesne"
+      ],
+      "explanation": "Le combat ne dura qu'environ une demi-heure ; la Nouvelle-France fut cédée aux Britanniques quatre ans plus tard.",
+      "wikipedia": "Bataille des Plaines d'Abraham"
+    },
+    {
+      "id": "histoire-443",
+      "difficulty": 3,
+      "question": "Comment les Acadiens appellent-ils leur déportation par les Britanniques à partir de 1755 ?",
+      "answer": "Grand Dérangement",
+      "accept": [],
+      "choices": [
+        "Grande Noirceur",
+        "Longue Marche",
+        "Grand Exil"
+      ],
+      "explanation": "Une partie des déportés s'établit en Louisiane, où leurs descendants sont appelés Cadiens ou Cajuns.",
+      "wikipedia": "Déportation des Acadiens"
+    },
+    {
+      "id": "histoire-444",
+      "difficulty": 1,
+      "question": "Quel navigateur britannique explora le Pacifique avant d'être tué à Hawaï en 1779 ?",
+      "answer": "James Cook",
+      "accept": [
+        "Cook"
+      ],
+      "choices": [
+        "William Bligh",
+        "George Vancouver",
+        "Abel Tasman"
+      ],
+      "explanation": "Lors de son premier voyage à bord de l'Endeavour, il cartographia les côtes de la Nouvelle-Zélande et l'est de l'Australie.",
+      "wikipedia": "James Cook"
+    },
+    {
+      "id": "histoire-445",
+      "difficulty": 2,
+      "question": "Quel navigateur français disparut avec ses deux frégates à Vanikoro en 1788 ?",
+      "answer": "La Pérouse",
+      "accept": [
+        "Lapérouse",
+        "Jean-François de La Pérouse"
+      ],
+      "choices": [
+        "Bougainville",
+        "Dumont d'Urville",
+        "Kerguelen"
+      ],
+      "explanation": "On raconte que Louis XVI demanda, avant de monter à l'échafaud : « A-t-on des nouvelles de M. de La Pérouse ? »",
+      "wikipedia": "Jean-François de La Pérouse"
+    },
+    {
+      "id": "histoire-446",
+      "difficulty": 2,
+      "question": "Quel navire de la Royal Navy fut le théâtre d'une célèbre mutinerie contre le capitaine Bligh en 1789 ?",
+      "answer": "Bounty",
+      "accept": [
+        "HMS Bounty"
+      ],
+      "choices": [
+        "Endeavour",
+        "Beagle",
+        "Victory"
+      ],
+      "explanation": "Les mutins s'installèrent sur l'île isolée de Pitcairn, où vivent encore certains de leurs descendants.",
+      "wikipedia": "Mutinerie du Bounty"
+    },
+    {
+      "id": "histoire-447",
+      "difficulty": 2,
+      "question": "Quel roi de Prusse, flûtiste et ami de Voltaire, fit bâtir le château de Sans-Souci à Potsdam ?",
+      "answer": "Frédéric II",
+      "accept": [
+        "Frédéric le Grand"
+      ],
+      "choices": [
+        "Frédéric-Guillaume Ier",
+        "Frédéric Ier",
+        "Guillaume Ier"
+      ],
+      "explanation": "Il fit promouvoir la culture de la pomme de terre en Prusse ; on dépose encore des tubercules sur sa tombe.",
+      "wikipedia": "Frédéric II (roi de Prusse)"
+    },
+    {
+      "id": "histoire-448",
+      "difficulty": 1,
+      "question": "Quelle capitale européenne fut détruite par un séisme et un tsunami le 1er novembre 1755 ?",
+      "answer": "Lisbonne",
+      "accept": [],
+      "choices": [
+        "Naples",
+        "Messine",
+        "Cadix"
+      ],
+      "explanation": "La catastrophe ébranla l'optimisme des Lumières et inspira à Voltaire un poème puis plusieurs passages de Candide.",
+      "wikipedia": "Séisme de 1755 à Lisbonne"
+    },
+    {
+      "id": "histoire-449",
+      "difficulty": 3,
+      "question": "Quel ministre portugais dirigea la reconstruction de Lisbonne après 1755 ?",
+      "answer": "marquis de Pombal",
+      "accept": [
+        "Pombal"
+      ],
+      "choices": [
+        "marquis de Sá",
+        "duc d'Aveiro",
+        "comte d'Ericeira"
+      ],
+      "explanation": "Le quartier de la Baixa fut rebâti selon un plan orthogonal, avec des structures en bois parmi les premières conçues pour résister aux séismes.",
+      "wikipedia": "Sebastião José de Carvalho e Melo"
+    },
+    {
+      "id": "histoire-450",
+      "difficulty": 3,
+      "question": "Quelle bataille de 1746 mit fin au soulèvement jacobite de Charles Édouard Stuart en Écosse ?",
+      "answer": "Culloden",
+      "accept": [],
+      "choices": [
+        "Bannockburn",
+        "Falkirk",
+        "Prestonpans"
+      ],
+      "explanation": "Ce fut la dernière bataille livrée sur le sol britannique ; le port du tartan fut ensuite interdit pendant plusieurs décennies.",
+      "wikipedia": "Bataille de Culloden"
+    },
+    {
+      "id": "histoire-451",
+      "difficulty": 1,
+      "question": "Dans quel pays la révolution industrielle débuta-t-elle au XVIIIe siècle ?",
+      "answer": "Royaume-Uni",
+      "accept": [
+        "Angleterre",
+        "Grande-Bretagne"
+      ],
+      "choices": [
+        "France",
+        "Allemagne",
+        "Belgique"
+      ],
+      "explanation": "Le charbon abondant, la machine à vapeur et l'essor du textile cotonnier en furent les moteurs.",
+      "wikipedia": "Révolution industrielle"
+    },
+    {
+      "id": "histoire-452",
+      "difficulty": 2,
+      "question": "Quel ancien esclave mena la révolution de Saint-Domingue avant de mourir captif au fort de Joux en 1803 ?",
+      "answer": "Toussaint Louverture",
+      "accept": [
+        "Toussaint"
+      ],
+      "choices": [
+        "Jean-Jacques Dessalines",
+        "Henri Christophe",
+        "Alexandre Pétion"
+      ],
+      "explanation": "Gouverneur de la colonie, il promulgua sa propre constitution en 1801 ; Bonaparte le fit arrêter par traîtrise et déporter en France.",
+      "wikipedia": "Toussaint Louverture"
+    },
+    {
+      "id": "histoire-453",
+      "difficulty": 2,
+      "question": "Quel roi, frère de Louis XVI, monta sur le trône de France en 1814 ?",
+      "answer": "Louis XVIII",
+      "accept": [
+        "Louis 18"
+      ],
+      "choices": [
+        "Charles X",
+        "Louis-Philippe",
+        "Louis XVII"
+      ],
+      "explanation": "Obèse et goutteux, il fut le dernier roi de France à mourir sur le trône, en 1824, au palais des Tuileries.",
+      "wikipedia": "Louis XVIII"
+    },
+    {
+      "id": "histoire-454",
+      "difficulty": 3,
+      "question": "Quel roi fut en 1825 le dernier souverain français sacré dans la cathédrale de Reims ?",
+      "answer": "Charles X",
+      "accept": [
+        "Charles 10"
+      ],
+      "choices": [
+        "Louis XVIII",
+        "Louis-Philippe",
+        "Louis XVI"
+      ],
+      "explanation": "Ses ordonnances restreignant la liberté de la presse provoquèrent la révolution de 1830 et son exil.",
+      "wikipedia": "Charles X"
+    },
+    {
+      "id": "histoire-455",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les trois journées révolutionnaires de juillet 1830 qui renversèrent Charles X ?",
+      "answer": "Trois Glorieuses",
+      "accept": [
+        "les Trois Glorieuses"
+      ],
+      "choices": [
+        "Journées de Juin",
+        "Journées de Février",
+        "Semaine sanglante"
+      ],
+      "explanation": "La colonne de Juillet, place de la Bastille, rend hommage aux victimes de ces journées.",
+      "wikipedia": "Trois Glorieuses"
+    },
+    {
+      "id": "histoire-456",
+      "difficulty": 1,
+      "question": "Quel préfet de la Seine transforma Paris sous le Second Empire avec ses grands boulevards ?",
+      "answer": "Haussmann",
+      "accept": [
+        "Georges Eugène Haussmann",
+        "baron Haussmann"
+      ],
+      "choices": [
+        "Rambuteau",
+        "Alphand",
+        "Belgrand"
+      ],
+      "explanation": "Ses travaux firent disparaître une grande partie du Paris médiéval et créèrent le modèle de l'immeuble parisien en pierre de taille.",
+      "wikipedia": "Georges Eugène Haussmann"
+    },
+    {
+      "id": "histoire-457",
+      "difficulty": 2,
+      "question": "Dans quelle ville des Ardennes Napoléon III fut-il fait prisonnier par les Prussiens en 1870 ?",
+      "answer": "Sedan",
+      "accept": [],
+      "choices": [
+        "Metz",
+        "Mézières",
+        "Verdun"
+      ],
+      "explanation": "Deux jours après la capitulation, la République fut proclamée à l'hôtel de ville de Paris, le 4 septembre 1870.",
+      "wikipedia": "Bataille de Sedan"
+    },
+    {
+      "id": "histoire-458",
+      "difficulty": 1,
+      "question": "Quelles provinces la France dut-elle céder à l'Allemagne par le traité de Francfort de 1871 ?",
+      "answer": "Alsace-Lorraine",
+      "accept": [
+        "Alsace-Moselle",
+        "Alsace et Lorraine"
+      ],
+      "choices": [
+        "Franche-Comté",
+        "Champagne-Ardenne",
+        "Savoie"
+      ],
+      "explanation": "Le territoire annexé comprenait l'Alsace sauf Belfort et une partie de la Lorraine ; il redevint français en 1918.",
+      "wikipedia": "Alsace-Lorraine"
+    },
+    {
+      "id": "histoire-459",
+      "difficulty": 1,
+      "question": "Quelle insurrection parisienne de 1871 s'acheva par la « Semaine sanglante » ?",
+      "answer": "Commune",
+      "accept": [
+        "Commune de Paris"
+      ],
+      "choices": [
+        "Fronde",
+        "Journées de Juin",
+        "Trois Glorieuses"
+      ],
+      "explanation": "Les derniers combattants furent fusillés devant un mur du cimetière du Père-Lachaise, appelé depuis le mur des Fédérés.",
+      "wikipedia": "Commune de Paris"
+    },
+    {
+      "id": "histoire-460",
+      "difficulty": 2,
+      "question": "Quelle institutrice anarchiste, figure de la Commune, fut déportée en Nouvelle-Calédonie ?",
+      "answer": "Louise Michel",
+      "accept": [],
+      "choices": [
+        "Flora Tristan",
+        "George Sand",
+        "Séverine"
+      ],
+      "explanation": "Surnommée la Vierge rouge, elle se fit l'amie des Kanaks et soutint leur révolte de 1878.",
+      "wikipedia": "Louise Michel"
+    },
+    {
+      "id": "histoire-461",
+      "difficulty": 2,
+      "question": "Quel émir mena la résistance algérienne contre la conquête française de 1832 à 1847 ?",
+      "answer": "Abd el-Kader",
+      "accept": [
+        "Abdelkader"
+      ],
+      "choices": [
+        "Mokrani",
+        "Bou Maza",
+        "Ahmed Bey"
+      ],
+      "explanation": "Exilé à Damas, il protégea des milliers de chrétiens lors des massacres de 1860, ce qui lui valut la Légion d'honneur.",
+      "wikipedia": "Abdelkader (émir)"
+    },
+    {
+      "id": "histoire-462",
+      "difficulty": 3,
+      "question": "Quel explorateur français fut le premier Européen à revenir vivant de Tombouctou, en 1828 ?",
+      "answer": "René Caillié",
+      "accept": [
+        "Caillié"
+      ],
+      "choices": [
+        "Heinrich Barth",
+        "Savorgnan de Brazza",
+        "Mungo Park"
+      ],
+      "explanation": "Déguisé en musulman, il traversa le Sahara et reçut le prix offert par la Société de géographie.",
+      "wikipedia": "René Caillié"
+    },
+    {
+      "id": "histoire-463",
+      "difficulty": 2,
+      "question": "Quel missionnaire écossais Henry Morton Stanley retrouva-t-il en Afrique en 1871 ?",
+      "answer": "David Livingstone",
+      "accept": [
+        "Livingstone"
+      ],
+      "choices": [
+        "Mungo Park",
+        "Richard Burton",
+        "John Speke"
+      ],
+      "explanation": "La phrase « Docteur Livingstone, je présume ? » est restée célèbre ; l'explorateur mourut en Afrique deux ans plus tard.",
+      "wikipedia": "David Livingstone"
+    },
+    {
+      "id": "histoire-464",
+      "difficulty": 2,
+      "question": "Quel roi des Belges posséda l'État indépendant du Congo comme une propriété personnelle ?",
+      "answer": "Léopold II",
+      "accept": [
+        "Leopold II"
+      ],
+      "choices": [
+        "Léopold Ier",
+        "Albert Ier",
+        "Baudouin"
+      ],
+      "explanation": "Les exactions commises pour la récolte du caoutchouc firent scandale, et la Belgique reprit la colonie en 1908.",
+      "wikipedia": "Léopold II (roi des Belges)"
+    },
+    {
+      "id": "histoire-465",
+      "difficulty": 3,
+      "question": "Dans quel poste du Soudan Français et Britanniques faillirent-ils entrer en guerre en 1898 ?",
+      "answer": "Fachoda",
+      "accept": [],
+      "choices": [
+        "Khartoum",
+        "Omdurman",
+        "Tombouctou"
+      ],
+      "explanation": "Le commandant Marchand dut évacuer le poste face à Kitchener ; l'humiliation fut vivement ressentie en France.",
+      "wikipedia": "Crise de Fachoda"
+    },
+    {
+      "id": "histoire-466",
+      "difficulty": 3,
+      "question": "Quelle bataille de 1879 vit les Zoulous infliger une lourde défaite à l'armée britannique ?",
+      "answer": "Isandlwana",
+      "accept": [],
+      "choices": [
+        "Rorke's Drift",
+        "Ulundi",
+        "Majuba"
+      ],
+      "explanation": "Ce fut l'une des pires défaites de l'armée coloniale britannique ; le prince impérial, fils de Napoléon III, fut tué dans cette guerre.",
+      "wikipedia": "Bataille d'Isandhlwana"
+    },
+    {
+      "id": "histoire-467",
+      "difficulty": 3,
+      "question": "Quel chef malinké résista à la colonisation française en Afrique de l'Ouest jusqu'à sa capture en 1898 ?",
+      "answer": "Samory Touré",
+      "accept": [
+        "Samory"
+      ],
+      "choices": [
+        "El Hadj Omar",
+        "Béhanzin",
+        "Lat Dior"
+      ],
+      "explanation": "Fondateur de l'empire du Wassoulou, il disposait d'ateliers où ses forgerons copiaient les fusils européens ; il mourut en déportation au Gabon en 1900.",
+      "wikipedia": "Samory Touré"
+    },
+    {
+      "id": "histoire-468",
+      "difficulty": 2,
+      "question": "Comment appelait-on les soldats indiens dont la révolte de 1857 ébranla la domination britannique ?",
+      "answer": "cipayes",
+      "accept": [
+        "révolte des cipayes"
+      ],
+      "choices": [
+        "gurkhas",
+        "sikhs",
+        "spahis"
+      ],
+      "explanation": "Selon une rumeur, leurs cartouches étaient graissées de suif de vache et de porc, offensant hindous et musulmans.",
+      "wikipedia": "Révolte des cipayes"
+    },
+    {
+      "id": "histoire-469",
+      "difficulty": 3,
+      "question": "Quelle révolte chinoise, menée par un homme se disant frère de Jésus, fit des millions de morts de 1851 à 1864 ?",
+      "answer": "Taiping",
+      "accept": [
+        "révolte des Taiping"
+      ],
+      "choices": [
+        "Boxers",
+        "Turbans jaunes",
+        "Lotus blanc"
+      ],
+      "explanation": "Hong Xiuquan fonda un « Royaume céleste de la Grande Paix » avec Nankin pour capitale.",
+      "wikipedia": "Révolte des Taiping"
+    },
+    {
+      "id": "histoire-470",
+      "difficulty": 2,
+      "question": "Quel palais impérial de Pékin fut pillé et incendié par les Français et les Britanniques en 1860 ?",
+      "answer": "palais d'Été",
+      "accept": [
+        "ancien palais d'Été",
+        "Yuanmingyuan"
+      ],
+      "choices": [
+        "Cité interdite",
+        "temple du Ciel",
+        "palais de Potala"
+      ],
+      "explanation": "Victor Hugo dénonça ce saccage dans une lettre célèbre : « Un jour, deux bandits sont entrés dans le palais d'Été. »",
+      "wikipedia": "Ancien Palais d'Été"
+    },
+    {
+      "id": "histoire-471",
+      "difficulty": 2,
+      "question": "Quel officier américain imposa l'ouverture du Japon avec ses « navires noirs » en 1853 ?",
+      "answer": "Matthew Perry",
+      "accept": [
+        "Perry",
+        "commodore Perry"
+      ],
+      "choices": [
+        "George Dewey",
+        "David Farragut",
+        "William Halsey"
+      ],
+      "explanation": "Ses navires à vapeur fumant de charbon impressionnèrent les Japonais ; un traité fut signé à Kanagawa l'année suivante.",
+      "wikipedia": "Matthew Perry (militaire)"
+    },
+    {
+      "id": "histoire-472",
+      "difficulty": 3,
+      "question": "Quelle bataille navale de 1905 vit l'amiral Tōgō anéantir la flotte russe de la Baltique ?",
+      "answer": "Tsushima",
+      "accept": [],
+      "choices": [
+        "Port-Arthur",
+        "Chemulpo",
+        "Moukden"
+      ],
+      "explanation": "La flotte russe avait fait le tour de l'Afrique pour rejoindre l'Extrême-Orient, et fut détruite en deux jours.",
+      "wikipedia": "Bataille de Tsushima"
+    },
+    {
+      "id": "histoire-473",
+      "difficulty": 2,
+      "question": "Comment appelait-on le corps d'élite de l'infanterie ottomane, dissous par le sultan en 1826 ?",
+      "answer": "janissaires",
+      "accept": [],
+      "choices": [
+        "mamelouks",
+        "spahis",
+        "bachi-bouzouks"
+      ],
+      "explanation": "Recrutés à l'origine parmi de jeunes chrétiens des Balkans, ils devinrent une caste puissante capable de faire et défaire les sultans.",
+      "wikipedia": "Janissaire"
+    },
+    {
+      "id": "histoire-474",
+      "difficulty": 3,
+      "question": "Quel poète anglais mourut à Missolonghi en 1824, alors qu'il soutenait l'indépendance grecque ?",
+      "answer": "Lord Byron",
+      "accept": [
+        "Byron"
+      ],
+      "choices": [
+        "Percy Shelley",
+        "John Keats",
+        "William Wordsworth"
+      ],
+      "explanation": "Il est mort de fièvre et non au combat ; il reste un héros national en Grèce.",
+      "wikipedia": "Lord Byron"
+    },
+    {
+      "id": "histoire-475",
+      "difficulty": 2,
+      "question": "Quelle guerre de 1853-1856, marquée par le siège de Sébastopol, opposa la Russie à la France et au Royaume-Uni ?",
+      "answer": "guerre de Crimée",
+      "accept": [
+        "Crimée"
+      ],
+      "choices": [
+        "guerre russo-turque",
+        "guerre du Caucase",
+        "guerre des Balkans"
+      ],
+      "explanation": "Plusieurs lieux parisiens en gardent le souvenir : le pont de l'Alma, le boulevard de Sébastopol et le quartier de Malakoff.",
+      "wikipedia": "Guerre de Crimée"
+    },
+    {
+      "id": "histoire-476",
+      "difficulty": 2,
+      "question": "Quelle infirmière britannique, surnommée la Dame à la lampe, réforma les soins aux blessés pendant la guerre de Crimée ?",
+      "answer": "Florence Nightingale",
+      "accept": [
+        "Nightingale"
+      ],
+      "choices": [
+        "Mary Seacole",
+        "Edith Cavell",
+        "Clara Barton"
+      ],
+      "explanation": "Pionnière des statistiques, elle inventa un diagramme circulaire pour montrer que les maladies tuaient plus que les blessures.",
+      "wikipedia": "Florence Nightingale"
+    },
+    {
+      "id": "histoire-477",
+      "difficulty": 2,
+      "question": "Quel ministre piémontais fut le principal artisan diplomatique de l'unité italienne ?",
+      "answer": "Cavour",
+      "accept": [
+        "Camillo Cavour",
+        "Camillo Benso di Cavour"
+      ],
+      "choices": [
+        "Mazzini",
+        "Crispi",
+        "Depretis"
+      ],
+      "explanation": "Il mourut en 1861, quelques mois seulement après la proclamation du royaume d'Italie.",
+      "wikipedia": "Camillo Cavour"
+    },
+    {
+      "id": "histoire-478",
+      "difficulty": 1,
+      "question": "Quel chancelier prussien, surnommé le chancelier de fer, réalisa l'unité allemande ?",
+      "answer": "Bismarck",
+      "accept": [
+        "Otto von Bismarck"
+      ],
+      "choices": [
+        "Moltke",
+        "Metternich",
+        "Guillaume II"
+      ],
+      "explanation": "Il mena trois guerres victorieuses, contre le Danemark, l'Autriche puis la France, avant de fonder l'Empire en 1871.",
+      "wikipedia": "Otto von Bismarck"
+    },
+    {
+      "id": "histoire-479",
+      "difficulty": 1,
+      "question": "Sous quel surnom est connue l'impératrice Élisabeth d'Autriche, assassinée à Genève en 1898 ?",
+      "answer": "Sissi",
+      "accept": [
+        "Sisi"
+      ],
+      "choices": [
+        "Lili",
+        "Mimi",
+        "Nini"
+      ],
+      "explanation": "L'anarchiste italien Luigi Lucheni la frappa avec une lime aiguisée sur le quai du Mont-Blanc.",
+      "wikipedia": "Élisabeth de Wittelsbach"
+    },
+    {
+      "id": "histoire-480",
+      "difficulty": 3,
+      "question": "Dans quel pavillon de chasse l'archiduc Rodolphe, héritier d'Autriche, fut-il retrouvé mort avec sa maîtresse en 1889 ?",
+      "answer": "Mayerling",
+      "accept": [],
+      "choices": [
+        "Schönbrunn",
+        "Laxenburg",
+        "Bad Ischl"
+      ],
+      "explanation": "François-Joseph fit transformer le pavillon en couvent de carmélites ; l'affaire a inspiré plusieurs films.",
+      "wikipedia": "Drame de Mayerling"
+    },
+    {
+      "id": "histoire-481",
+      "difficulty": 3,
+      "question": "Quel général argentin libéra le Chili et le Pérou après avoir franchi les Andes avec son armée en 1817 ?",
+      "answer": "José de San Martín",
+      "accept": [
+        "San Martín",
+        "San Martin"
+      ],
+      "choices": [
+        "Bernardo O'Higgins",
+        "Antonio José de Sucre",
+        "Manuel Belgrano"
+      ],
+      "explanation": "Après une entrevue avec Bolívar à Guayaquil en 1822, il se retira et finit sa vie en exil à Boulogne-sur-Mer.",
+      "wikipedia": "José de San Martín"
+    },
+    {
+      "id": "histoire-482",
+      "difficulty": 3,
+      "question": "Quel combat de 1863 au Mexique, où une compagnie résista jusqu'au bout, est commémoré chaque année par la Légion étrangère ?",
+      "answer": "Camerone",
+      "accept": [],
+      "choices": [
+        "Puebla",
+        "Sidi-Brahim",
+        "Bazeilles"
+      ],
+      "explanation": "La main de bois du capitaine Danjou, qui commandait les légionnaires, est portée en procession chaque 30 avril à Aubagne.",
+      "wikipedia": "Bataille de Camerone"
+    },
+    {
+      "id": "histoire-483",
+      "difficulty": 2,
+      "question": "Quelle mission fortifiée du Texas fut prise en 1836 par les Mexicains, après un siège où périt Davy Crockett ?",
+      "answer": "Fort Alamo",
+      "accept": [
+        "Alamo"
+      ],
+      "choices": [
+        "Fort Sumter",
+        "Fort Knox",
+        "Fort Laramie"
+      ],
+      "explanation": "« Souvenez-vous de l'Alamo ! » devint le cri de ralliement des Texans, victorieux quelques semaines plus tard à San Jacinto.",
+      "wikipedia": "Siège de Fort Alamo"
+    },
+    {
+      "id": "histoire-484",
+      "difficulty": 3,
+      "question": "Quelle ancienne esclave guida des dizaines d'autres vers la liberté par le « chemin de fer clandestin » ?",
+      "answer": "Harriet Tubman",
+      "accept": [
+        "Tubman"
+      ],
+      "choices": [
+        "Sojourner Truth",
+        "Rosa Parks",
+        "Phillis Wheatley"
+      ],
+      "explanation": "Pendant la guerre de Sécession, elle mena un raid armé en Caroline du Sud qui libéra plus de sept cents esclaves.",
+      "wikipedia": "Harriet Tubman"
+    },
+    {
+      "id": "histoire-485",
+      "difficulty": 2,
+      "question": "Quel général sudiste commanda l'armée de Virginie du Nord pendant la guerre de Sécession ?",
+      "answer": "Robert E. Lee",
+      "accept": [
+        "Lee",
+        "Robert Lee"
+      ],
+      "choices": [
+        "Stonewall Jackson",
+        "Jefferson Davis",
+        "James Longstreet"
+      ],
+      "explanation": "Il capitula en 1865 à Appomattox ; son ancienne propriété d'Arlington devint le grand cimetière militaire national.",
+      "wikipedia": "Robert Lee"
+    },
+    {
+      "id": "histoire-486",
+      "difficulty": 2,
+      "question": "Près de quelle rivière du Montana le lieutenant-colonel Custer fut-il tué en 1876 ?",
+      "answer": "Little Bighorn",
+      "accept": [],
+      "choices": [
+        "Wounded Knee",
+        "Sand Creek",
+        "Powder River"
+      ],
+      "explanation": "Les Lakotas et les Cheyennes anéantirent son détachement du 7e de cavalerie : ce fut l'une des plus grandes victoires amérindiennes face à l'armée américaine.",
+      "wikipedia": "Bataille de Little Bighorn"
+    },
+    {
+      "id": "histoire-487",
+      "difficulty": 1,
+      "question": "Quel chef apache chiricahua fut l'un des derniers à se rendre à l'armée américaine, en 1886 ?",
+      "answer": "Geronimo",
+      "accept": [],
+      "choices": [
+        "Cochise",
+        "Sitting Bull",
+        "Crazy Horse"
+      ],
+      "explanation": "Prisonnier de guerre jusqu'à sa mort, il participa au défilé d'investiture de Theodore Roosevelt en 1905.",
+      "wikipedia": "Geronimo"
+    },
+    {
+      "id": "histoire-488",
+      "difficulty": 2,
+      "question": "Quel modèle d'automobile, produit à la chaîne par Ford dès 1913, fut vendu à plus de quinze millions d'exemplaires ?",
+      "answer": "Ford T",
+      "accept": [
+        "Ford Model T",
+        "modèle T"
+      ],
+      "choices": [
+        "Ford A",
+        "Ford Mustang",
+        "Ford V8"
+      ],
+      "explanation": "Henry Ford aurait dit que ses clients pouvaient la choisir de n'importe quelle couleur, « pourvu qu'elle soit noire ».",
+      "wikipedia": "Ford T"
+    },
+    {
+      "id": "histoire-489",
+      "difficulty": 3,
+      "question": "Quel chef métis fut pendu en 1885 après avoir mené deux rébellions dans l'Ouest canadien ?",
+      "answer": "Louis Riel",
+      "accept": [
+        "Riel"
+      ],
+      "choices": [
+        "Gabriel Dumont",
+        "Big Bear",
+        "Poundmaker"
+      ],
+      "explanation": "Considéré comme le fondateur de la province du Manitoba, il est aujourd'hui honoré par une journée qui porte son nom.",
+      "wikipedia": "Louis Riel"
+    },
+    {
+      "id": "histoire-490",
+      "difficulty": 1,
+      "question": "Quelle bataille de 1916, dans la Meuse, est devenue le symbole de la résistance française pendant la Grande Guerre ?",
+      "answer": "Verdun",
+      "accept": [],
+      "choices": [
+        "Somme",
+        "Marne",
+        "Chemin des Dames"
+      ],
+      "explanation": "Les renforts et le ravitaillement passaient par une route départementale, surnommée la Voie sacrée par Maurice Barrès.",
+      "wikipedia": "Bataille de Verdun"
+    },
+    {
+      "id": "histoire-491",
+      "difficulty": 2,
+      "question": "Quels véhicules parisiens réquisitionnés transportèrent des soldats vers le front en septembre 1914 ?",
+      "answer": "taxis de la Marne",
+      "accept": [
+        "taxis"
+      ],
+      "choices": [
+        "autobus de la Marne",
+        "fiacres de la Marne",
+        "tramways de la Marne"
+      ],
+      "explanation": "Environ six cents Renault furent réquisitionnés par le général Gallieni ; les compteurs auraient tourné et les courses été payées.",
+      "wikipedia": "Taxis de la Marne"
+    },
+    {
+      "id": "histoire-492",
+      "difficulty": 2,
+      "question": "Quel paquebot britannique, torpillé par un sous-marin allemand en 1915, causa la mort de nombreux Américains ?",
+      "answer": "Lusitania",
+      "accept": [],
+      "choices": [
+        "Britannic",
+        "Mauretania",
+        "Olympic"
+      ],
+      "explanation": "Le naufrage fit près de 1 200 victimes et retourna l'opinion américaine contre l'Allemagne.",
+      "wikipedia": "RMS Lusitania"
+    },
+    {
+      "id": "histoire-493",
+      "difficulty": 1,
+      "question": "Quelle danseuse néerlandaise fut fusillée en 1917 à Vincennes, accusée d'espionnage pour l'Allemagne ?",
+      "answer": "Mata Hari",
+      "accept": [],
+      "choices": [
+        "Mistinguett",
+        "Joséphine Baker",
+        "Cléo de Mérode"
+      ],
+      "explanation": "Née Margaretha Geertruida Zelle, elle avait pris un nom de scène signifiant « œil du jour » en malais.",
+      "wikipedia": "Mata Hari"
+    },
+    {
+      "id": "histoire-494",
+      "difficulty": 2,
+      "question": "Quel gaz de combat, utilisé près d'une ville belge en 1917, a pris le nom de celle-ci ?",
+      "answer": "ypérite",
+      "accept": [
+        "gaz moutarde"
+      ],
+      "choices": [
+        "chlore",
+        "phosgène",
+        "sarin"
+      ],
+      "explanation": "Son odeur rappelait la moutarde ; il provoquait de graves brûlures de la peau, des yeux et des poumons.",
+      "wikipedia": "Gaz moutarde"
+    },
+    {
+      "id": "histoire-495",
+      "difficulty": 2,
+      "question": "Quel aviateur allemand de la Grande Guerre était surnommé le Baron rouge ?",
+      "answer": "Manfred von Richthofen",
+      "accept": [
+        "Richthofen",
+        "von Richthofen"
+      ],
+      "choices": [
+        "Hermann Göring",
+        "Ernst Udet",
+        "Oswald Boelcke"
+      ],
+      "explanation": "Crédité de quatre-vingts victoires, il fut abattu en 1918 au-dessus de la Somme.",
+      "wikipedia": "Manfred von Richthofen"
+    },
+    {
+      "id": "histoire-496",
+      "difficulty": 3,
+      "question": "Quel as de l'aviation française, disparu en 1917, avait baptisé son avion « Vieux Charles » ?",
+      "answer": "Georges Guynemer",
+      "accept": [
+        "Guynemer"
+      ],
+      "choices": [
+        "René Fonck",
+        "Roland Garros",
+        "Charles Nungesser"
+      ],
+      "explanation": "Son corps et son appareil ne furent jamais retrouvés ; l'escadrille des Cigognes, dont il faisait partie, a laissé une grande légende.",
+      "wikipedia": "Georges Guynemer"
+    },
+    {
+      "id": "histoire-497",
+      "difficulty": 1,
+      "question": "Quel peuple fut victime d'un génocide perpétré par l'Empire ottoman à partir de 1915 ?",
+      "answer": "Arméniens",
+      "accept": [
+        "arménien"
+      ],
+      "choices": [
+        "Kurdes",
+        "Grecs",
+        "Bulgares"
+      ],
+      "explanation": "Le 24 avril, date de la rafle des élites arméniennes de Constantinople, est le jour de commémoration de ce génocide.",
+      "wikipedia": "Génocide arménien"
+    },
+    {
+      "id": "histoire-498",
+      "difficulty": 2,
+      "question": "Quelle presqu'île turque fut en 1915 le théâtre d'un débarquement allié meurtrier pour les Australiens et Néo-Zélandais ?",
+      "answer": "Gallipoli",
+      "accept": [
+        "Dardanelles"
+      ],
+      "choices": [
+        "Crimée",
+        "Chalcidique",
+        "Péloponnèse"
+      ],
+      "explanation": "L'Anzac Day, chaque 25 avril, rappelle ce débarquement ; Mustafa Kemal s'y illustra côté ottoman.",
+      "wikipedia": "Bataille des Dardanelles"
+    },
+    {
+      "id": "histoire-499",
+      "difficulty": 3,
+      "question": "Quels deux diplomates ont donné leur nom aux accords secrets de 1916 partageant le Proche-Orient ?",
+      "answer": "Sykes et Picot",
+      "accept": [
+        "Sykes-Picot"
+      ],
+      "choices": [
+        "Balfour et Cambon",
+        "Lawrence et Faisal",
+        "McMahon et Hussein"
+      ],
+      "explanation": "La France reçut une zone d'influence sur la Syrie et le Liban, le Royaume-Uni sur l'Irak et la Transjordanie.",
+      "wikipedia": "Accords Sykes-Picot"
+    },
+    {
+      "id": "histoire-500",
+      "difficulty": 2,
+      "question": "Quel maréchal français devint en 1918 généralissime des armées alliées sur le front de l'Ouest ?",
+      "answer": "Ferdinand Foch",
+      "accept": [
+        "Foch"
+      ],
+      "choices": [
+        "Joseph Joffre",
+        "Philippe Pétain",
+        "Hubert Lyautey"
+      ],
+      "explanation": "Il reçut le titre de maréchal dans trois pays : la France, le Royaume-Uni et la Pologne.",
+      "wikipedia": "Ferdinand Foch"
+    },
+    {
+      "id": "histoire-501",
+      "difficulty": 2,
+      "question": "Quel président américain présenta en 1918 un programme de paix en quatorze points ?",
+      "answer": "Woodrow Wilson",
+      "accept": [
+        "Wilson"
+      ],
+      "choices": [
+        "Theodore Roosevelt",
+        "Warren Harding",
+        "William Taft"
+      ],
+      "explanation": "Il reçut le prix Nobel de la paix en 1919, mais le Sénat américain refusa l'adhésion de son pays à la SDN.",
+      "wikipedia": "Woodrow Wilson"
+    },
+    {
+      "id": "histoire-502",
+      "difficulty": 2,
+      "question": "Quelle organisation internationale, fondée en 1919, siégeait à Genève avant de laisser place à l'ONU ?",
+      "answer": "Société des Nations",
+      "accept": [
+        "SDN"
+      ],
+      "choices": [
+        "Internationale socialiste",
+        "Croix-Rouge",
+        "OIT"
+      ],
+      "explanation": "Elle fut incapable d'empêcher les agressions japonaise, italienne et allemande des années 1930.",
+      "wikipedia": "Société des Nations"
+    },
+    {
+      "id": "histoire-503",
+      "difficulty": 1,
+      "question": "Quelle pandémie de 1918-1919 tua des dizaines de millions de personnes dans le monde ?",
+      "answer": "grippe espagnole",
+      "accept": [
+        "espagnole"
+      ],
+      "choices": [
+        "peste noire",
+        "choléra",
+        "variole"
+      ],
+      "explanation": "L'Espagne, neutre et sans censure de guerre, fut le premier pays à en parler librement, d'où son nom trompeur.",
+      "wikipedia": "Grippe espagnole"
+    },
+    {
+      "id": "histoire-504",
+      "difficulty": 1,
+      "question": "Quel mystique sibérien exerçait une grande influence sur la famille du dernier tsar ?",
+      "answer": "Raspoutine",
+      "accept": [
+        "Grigori Raspoutine"
+      ],
+      "choices": [
+        "Iliodor",
+        "Philippe de Lyon",
+        "Jean de Cronstadt"
+      ],
+      "explanation": "Il fut assassiné en 1916 par des aristocrates, dont le prince Félix Ioussoupov, qui jetèrent son corps dans une rivière gelée de Petrograd.",
+      "wikipedia": "Grigori Raspoutine"
+    },
+    {
+      "id": "histoire-505",
+      "difficulty": 3,
+      "question": "Dans quelle ville de l'Oural la famille impériale russe fut-elle exécutée en juillet 1918 ?",
+      "answer": "Iekaterinbourg",
+      "accept": [
+        "Ekaterinbourg"
+      ],
+      "choices": [
+        "Perm",
+        "Tobolsk",
+        "Omsk"
+      ],
+      "explanation": "Nicolas II, son épouse et leurs cinq enfants furent tués dans la maison Ipatiev ; ils ont été canonisés par l'Église orthodoxe.",
+      "wikipedia": "Assassinat de la famille impériale russe"
+    },
+    {
+      "id": "histoire-506",
+      "difficulty": 2,
+      "question": "Quel révolutionnaire, fondateur de l'Armée rouge, fut assassiné au Mexique en 1940 ?",
+      "answer": "Trotski",
+      "accept": [
+        "Léon Trotski",
+        "Trotsky"
+      ],
+      "choices": [
+        "Zinoviev",
+        "Boukharine",
+        "Kamenev"
+      ],
+      "explanation": "Exilé par Staline, il fut tué d'un coup de piolet par un agent soviétique, Ramón Mercader.",
+      "wikipedia": "Léon Trotski"
+    },
+    {
+      "id": "histoire-507",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le système de camps de travail forcé de l'Union soviétique ?",
+      "answer": "goulag",
+      "accept": [
+        "Goulag"
+      ],
+      "choices": [
+        "kolkhoze",
+        "sovkhoze",
+        "Tcheka"
+      ],
+      "explanation": "Le mot est un acronyme russe signifiant « direction principale des camps » ; Soljenitsyne l'a fait connaître au monde avec L'Archipel du Goulag.",
+      "wikipedia": "Goulag"
+    },
+    {
+      "id": "histoire-508",
+      "difficulty": 3,
+      "question": "Quel nom ukrainien désigne la famine provoquée par le pouvoir soviétique en Ukraine en 1932-1933 ?",
+      "answer": "Holodomor",
+      "accept": [],
+      "choices": [
+        "Holodnaïa",
+        "Rasputitsa",
+        "Pogrom"
+      ],
+      "explanation": "Le mot signifie « extermination par la faim » ; plusieurs millions d'Ukrainiens en moururent.",
+      "wikipedia": "Holodomor"
+    },
+    {
+      "id": "histoire-509",
+      "difficulty": 1,
+      "question": "Quel président des États-Unis est le seul à avoir été élu à quatre reprises ?",
+      "answer": "Franklin Delano Roosevelt",
+      "accept": [
+        "Roosevelt",
+        "Franklin Roosevelt",
+        "FDR"
+      ],
+      "choices": [
+        "Theodore Roosevelt",
+        "Harry Truman",
+        "Woodrow Wilson"
+      ],
+      "explanation": "Atteint de poliomyélite, il dissimulait son handicap ; il mourut en avril 1945, quelques semaines avant la capitulation allemande.",
+      "wikipedia": "Franklin Delano Roosevelt"
+    },
+    {
+      "id": "histoire-510",
+      "difficulty": 1,
+      "question": "Quel gangster de Chicago, roi de l'alcool de contrebande pendant la Prohibition, fut condamné pour fraude fiscale ?",
+      "answer": "Al Capone",
+      "accept": [
+        "Capone"
+      ],
+      "choices": [
+        "Lucky Luciano",
+        "John Dillinger",
+        "Bugsy Siegel"
+      ],
+      "explanation": "On lui attribue le massacre de la Saint-Valentin de 1929 ; il finit sa peine dans la prison d'Alcatraz.",
+      "wikipedia": "Al Capone"
+    },
+    {
+      "id": "histoire-511",
+      "difficulty": 3,
+      "question": "Quels aviateurs français disparurent en 1927 à bord de L'Oiseau blanc en tentant de relier Paris à New York ?",
+      "answer": "Nungesser et Coli",
+      "accept": [
+        "Nungesser",
+        "Coli"
+      ],
+      "choices": [
+        "Costes et Bellonte",
+        "Mermoz et Dabry",
+        "Bréguet et Védrines"
+      ],
+      "explanation": "Ils partirent du Bourget environ deux semaines avant l'exploit de Lindbergh ; on n'a jamais retrouvé de trace certaine de leur appareil.",
+      "wikipedia": "L'Oiseau blanc"
+    },
+    {
+      "id": "histoire-512",
+      "difficulty": 3,
+      "question": "Quel navire de Shackleton fut broyé par les glaces de la mer de Weddell en 1915 ?",
+      "answer": "Endurance",
+      "accept": [],
+      "choices": [
+        "Discovery",
+        "Terra Nova",
+        "Nimrod"
+      ],
+      "explanation": "Tout l'équipage survécut ; l'épave a été retrouvée en 2022 à plus de trois mille mètres de fond.",
+      "wikipedia": "Expédition Endurance"
+    },
+    {
+      "id": "histoire-513",
+      "difficulty": 2,
+      "question": "Quel alpiniste néo-zélandais atteignit le sommet de l'Everest en 1953 avec le sherpa Tenzing Norgay ?",
+      "answer": "Edmund Hillary",
+      "accept": [
+        "Hillary"
+      ],
+      "choices": [
+        "George Mallory",
+        "Reinhold Messner",
+        "John Hunt"
+      ],
+      "explanation": "Apiculteur de métier, il consacra ensuite une grande partie de sa vie à construire des écoles et des hôpitaux au Népal.",
+      "wikipedia": "Edmund Hillary"
+    },
+    {
+      "id": "histoire-514",
+      "difficulty": 1,
+      "question": "Quel dictateur italien, surnommé le Duce, organisa la marche sur Rome en 1922 ?",
+      "answer": "Benito Mussolini",
+      "accept": [
+        "Mussolini"
+      ],
+      "choices": [
+        "Gabriele D'Annunzio",
+        "Italo Balbo",
+        "Galeazzo Ciano"
+      ],
+      "explanation": "Ancien socialiste et journaliste, il fut exécuté par des résistants en avril 1945 et son corps exposé à Milan.",
+      "wikipedia": "Benito Mussolini"
+    },
+    {
+      "id": "histoire-515",
+      "difficulty": 2,
+      "question": "Quel incendie de février 1933 servit de prétexte à Hitler pour suspendre les libertés en Allemagne ?",
+      "answer": "incendie du Reichstag",
+      "accept": [
+        "Reichstag"
+      ],
+      "choices": [
+        "incendie de la Chancellerie",
+        "incendie de l'Opéra",
+        "incendie du Bundestag"
+      ],
+      "explanation": "Le jeune communiste néerlandais Marinus van der Lubbe fut accusé et exécuté ; les nazis en profitèrent pour arrêter les communistes.",
+      "wikipedia": "Incendie du Reichstag"
+    },
+    {
+      "id": "histoire-516",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la purge de juin 1934 par laquelle Hitler fit assassiner les chefs des SA ?",
+      "answer": "nuit des Longs Couteaux",
+      "accept": [
+        "Longs Couteaux"
+      ],
+      "choices": [
+        "nuit de cristal",
+        "nuit des barricades",
+        "nuit de Walpurgis"
+      ],
+      "explanation": "Ernst Röhm, chef des SA et ancien proche d'Hitler, fut abattu dans sa cellule à Munich.",
+      "wikipedia": "Nuit des longs couteaux"
+    },
+    {
+      "id": "histoire-517",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le pogrom organisé par les nazis dans toute l'Allemagne en novembre 1938 ?",
+      "answer": "nuit de Cristal",
+      "accept": [
+        "Kristallnacht"
+      ],
+      "choices": [
+        "nuit des Longs Couteaux",
+        "nuit de la Saint-Barthélemy",
+        "nuit de Walpurgis"
+      ],
+      "explanation": "Le nom évoque les éclats de vitrines brisées des commerces juifs ; des centaines de synagogues furent incendiées.",
+      "wikipedia": "Nuit de Cristal"
+    },
+    {
+      "id": "histoire-518",
+      "difficulty": 1,
+      "question": "Quel pays fut annexé par l'Allemagne nazie lors de l'Anschluss de mars 1938 ?",
+      "answer": "Autriche",
+      "accept": [],
+      "choices": [
+        "Tchécoslovaquie",
+        "Hongrie",
+        "Suisse"
+      ],
+      "explanation": "Hitler, lui-même né en Autriche, fut acclamé par une foule immense sur la Heldenplatz de Vienne.",
+      "wikipedia": "Anschluss"
+    },
+    {
+      "id": "histoire-519",
+      "difficulty": 2,
+      "question": "Quel Premier ministre britannique revint de Munich en 1938 en promettant « la paix pour notre temps » ?",
+      "answer": "Neville Chamberlain",
+      "accept": [
+        "Chamberlain"
+      ],
+      "choices": [
+        "Stanley Baldwin",
+        "Anthony Eden",
+        "Lord Halifax"
+      ],
+      "explanation": "Il dut démissionner en mai 1940, cédant la place à Winston Churchill.",
+      "wikipedia": "Neville Chamberlain"
+    },
+    {
+      "id": "histoire-520",
+      "difficulty": 1,
+      "question": "Quelle ville basque, bombardée en 1937 par l'aviation allemande, inspira une toile célèbre à Picasso ?",
+      "answer": "Guernica",
+      "accept": [
+        "Gernika"
+      ],
+      "choices": [
+        "Bilbao",
+        "Durango",
+        "Saint-Sébastien"
+      ],
+      "explanation": "La légion Condor bombarda la ville un jour de marché ; le tableau, longtemps exilé à New York, est revenu en Espagne en 1981.",
+      "wikipedia": "Bombardement de Guernica"
+    },
+    {
+      "id": "histoire-521",
+      "difficulty": 1,
+      "question": "Quel général gouverna l'Espagne de la fin de la guerre civile jusqu'à sa mort en 1975 ?",
+      "answer": "Francisco Franco",
+      "accept": [
+        "Franco"
+      ],
+      "choices": [
+        "Primo de Rivera",
+        "Emilio Mola",
+        "José Sanjurjo"
+      ],
+      "explanation": "Il se faisait appeler Caudillo et désigna Juan Carlos de Bourbon pour lui succéder comme roi.",
+      "wikipedia": "Francisco Franco"
+    },
+    {
+      "id": "histoire-522",
+      "difficulty": 1,
+      "question": "Quelle coalition de gauche, arrivée au pouvoir en France en 1936, instaura les premiers congés payés ?",
+      "answer": "Front populaire",
+      "accept": [],
+      "choices": [
+        "Cartel des gauches",
+        "Bloc national",
+        "Union de la gauche"
+      ],
+      "explanation": "Les accords de Matignon accordèrent aussi la semaine de quarante heures et des hausses de salaires.",
+      "wikipedia": "Front populaire (France)"
+    },
+    {
+      "id": "histoire-523",
+      "difficulty": 1,
+      "question": "Quel officier fonda en 1923 la République turque et en fut le premier président ?",
+      "answer": "Mustafa Kemal",
+      "accept": [
+        "Atatürk",
+        "Mustafa Kemal Atatürk",
+        "Ataturk"
+      ],
+      "choices": [
+        "Enver Pacha",
+        "İsmet İnönü",
+        "Talaat Pacha"
+      ],
+      "explanation": "Il remplaça l'alphabet arabe par l'alphabet latin et imposa des noms de famille ; le sien signifie « père des Turcs ».",
+      "wikipedia": "Mustafa Kemal Atatürk"
+    },
+    {
+      "id": "histoire-524",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la période de 1939-1940 où Français et Allemands s'observèrent presque sans combattre ?",
+      "answer": "drôle de guerre",
+      "accept": [],
+      "choices": [
+        "guerre froide",
+        "guerre éclair",
+        "guerre des nerfs"
+      ],
+      "explanation": "Elle dura de septembre 1939 à mai 1940 ; les soldats français attendaient derrière la ligne Maginot une offensive qui vint par les Ardennes.",
+      "wikipedia": "Drôle de guerre"
+    },
+    {
+      "id": "histoire-525",
+      "difficulty": 1,
+      "question": "De quel port du Nord plus de 300 000 soldats alliés furent-ils évacués vers l'Angleterre en 1940 ?",
+      "answer": "Dunkerque",
+      "accept": [],
+      "choices": [
+        "Calais",
+        "Boulogne-sur-Mer",
+        "Le Havre"
+      ],
+      "explanation": "L'opération Dynamo mobilisa des navires militaires mais aussi des centaines de petits bateaux civils traversant la Manche.",
+      "wikipedia": "Bataille de Dunkerque"
+    },
+    {
+      "id": "histoire-526",
+      "difficulty": 1,
+      "question": "Quelle ville thermale de l'Allier devint en 1940 le siège du gouvernement du maréchal Pétain ?",
+      "answer": "Vichy",
+      "accept": [],
+      "choices": [
+        "Clermont-Ferrand",
+        "Bourges",
+        "Moulins"
+      ],
+      "explanation": "Ses nombreux hôtels permettaient de loger les ministères ; le régime se désignait officiellement comme l'État français.",
+      "wikipedia": "Régime de Vichy"
+    },
+    {
+      "id": "histoire-527",
+      "difficulty": 1,
+      "question": "Quel maréchal, vainqueur de Verdun, dirigea l'État français de 1940 à 1944 ?",
+      "answer": "Philippe Pétain",
+      "accept": [
+        "Pétain"
+      ],
+      "choices": [
+        "Maxime Weygand",
+        "François Darlan",
+        "Pierre Laval"
+      ],
+      "explanation": "Condamné à mort en 1945, il vit sa peine commuée en détention perpétuelle par de Gaulle ; il avait quatre-vingt-neuf ans lors de son procès.",
+      "wikipedia": "Philippe Pétain"
+    },
+    {
+      "id": "histoire-528",
+      "difficulty": 2,
+      "question": "Dans quelle enceinte sportive parisienne furent parqués des milliers de juifs lors de la rafle de juillet 1942 ?",
+      "answer": "Vélodrome d'Hiver",
+      "accept": [
+        "Vél' d'Hiv",
+        "Vel d'Hiv"
+      ],
+      "choices": [
+        "Parc des Princes",
+        "Stade de Colombes",
+        "Palais des Sports"
+      ],
+      "explanation": "Plus de treize mille personnes, dont quatre mille enfants, furent arrêtées par la police française puis déportées.",
+      "wikipedia": "Rafle du Vélodrome d'Hiver"
+    },
+    {
+      "id": "histoire-529",
+      "difficulty": 1,
+      "question": "Quelle adolescente juive tint un journal intime en se cachant à Amsterdam pendant l'Occupation ?",
+      "answer": "Anne Frank",
+      "accept": [
+        "Frank"
+      ],
+      "choices": [
+        "Etty Hillesum",
+        "Hélène Berr",
+        "Simone Veil"
+      ],
+      "explanation": "Sa famille se cacha dans une annexe secrète pendant plus de deux ans ; seul son père, Otto, survécut et publia le journal.",
+      "wikipedia": "Anne Frank"
+    },
+    {
+      "id": "histoire-530",
+      "difficulty": 1,
+      "question": "Quel camp de concentration et d'extermination, situé en Pologne, fut libéré par l'Armée rouge le 27 janvier 1945 ?",
+      "answer": "Auschwitz",
+      "accept": [
+        "Auschwitz-Birkenau"
+      ],
+      "choices": [
+        "Dachau",
+        "Buchenwald",
+        "Mauthausen"
+      ],
+      "explanation": "Plus d'un million de personnes y furent assassinées ; la date de sa libération est devenue la journée internationale de la mémoire de l'Holocauste.",
+      "wikipedia": "Auschwitz"
+    },
+    {
+      "id": "histoire-531",
+      "difficulty": 2,
+      "question": "Quel industriel allemand sauva plus d'un millier de juifs en les employant dans ses usines ?",
+      "answer": "Oskar Schindler",
+      "accept": [
+        "Schindler"
+      ],
+      "choices": [
+        "Albert Speer",
+        "Fritz Thyssen",
+        "Gustav Krupp"
+      ],
+      "explanation": "Il est enterré à Jérusalem et a été reconnu Juste parmi les nations ; Steven Spielberg a raconté son histoire au cinéma.",
+      "wikipedia": "Oskar Schindler"
+    },
+    {
+      "id": "histoire-532",
+      "difficulty": 3,
+      "question": "Quel diplomate suédois sauva des dizaines de milliers de juifs à Budapest en 1944 ?",
+      "answer": "Raoul Wallenberg",
+      "accept": [
+        "Wallenberg"
+      ],
+      "choices": [
+        "Folke Bernadotte",
+        "Dag Hammarskjöld",
+        "Carl Lutz"
+      ],
+      "explanation": "Il délivrait des passeports protecteurs suédois ; arrêté par les Soviétiques en 1945, il disparut dans leurs prisons.",
+      "wikipedia": "Raoul Wallenberg"
+    },
+    {
+      "id": "histoire-533",
+      "difficulty": 3,
+      "question": "Dans quelle villa des bords d'un lac berlinois les nazis organisèrent-ils la « solution finale » en janvier 1942 ?",
+      "answer": "Wannsee",
+      "accept": [],
+      "choices": [
+        "Berghof",
+        "Nymphenburg",
+        "Tegel"
+      ],
+      "explanation": "Présidée par Reinhard Heydrich, la réunion dura environ une heure et demie ; le procès-verbal fut rédigé par Adolf Eichmann.",
+      "wikipedia": "Conférence de Wannsee"
+    },
+    {
+      "id": "histoire-534",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'affrontement aérien de 1940 entre la Luftwaffe et la Royal Air Force ?",
+      "answer": "bataille d'Angleterre",
+      "accept": [],
+      "choices": [
+        "Blitzkrieg",
+        "bataille de l'Atlantique",
+        "bataille de France"
+      ],
+      "explanation": "Churchill rendit hommage aux pilotes : « Jamais tant de gens n'ont dû autant à si peu. »",
+      "wikipedia": "Bataille d'Angleterre"
+    },
+    {
+      "id": "histoire-535",
+      "difficulty": 1,
+      "question": "Quelle machine électromécanique servait à l'armée allemande pour chiffrer ses messages ?",
+      "answer": "Enigma",
+      "accept": [],
+      "choices": [
+        "Colossus",
+        "Lorenz",
+        "Purple"
+      ],
+      "explanation": "Des mathématiciens polonais percèrent ses premiers secrets avant la guerre, puis les Britanniques de Bletchley Park prirent le relais.",
+      "wikipedia": "Enigma (machine)"
+    },
+    {
+      "id": "histoire-536",
+      "difficulty": 1,
+      "question": "Quel maréchal allemand, surnommé le Renard du désert, commanda l'Afrikakorps ?",
+      "answer": "Erwin Rommel",
+      "accept": [
+        "Rommel"
+      ],
+      "choices": [
+        "Heinz Guderian",
+        "Erich von Manstein",
+        "Gerd von Rundstedt"
+      ],
+      "explanation": "Soupçonné d'avoir été mêlé au complot du 20 juillet 1944, il fut contraint de se suicider pour épargner sa famille.",
+      "wikipedia": "Erwin Rommel"
+    },
+    {
+      "id": "histoire-537",
+      "difficulty": 2,
+      "question": "Quelle ville soviétique subit un siège de près de neuf cents jours de 1941 à 1944 ?",
+      "answer": "Léningrad",
+      "accept": [
+        "Leningrad",
+        "Saint-Pétersbourg"
+      ],
+      "choices": [
+        "Moscou",
+        "Kiev",
+        "Sébastopol"
+      ],
+      "explanation": "Le ravitaillement passait l'hiver sur la glace du lac Ladoga, par une piste surnommée la route de la vie.",
+      "wikipedia": "Siège de Léningrad"
+    },
+    {
+      "id": "histoire-538",
+      "difficulty": 3,
+      "question": "Quelle ville russe a donné son nom à la grande bataille de chars de l'été 1943 ?",
+      "answer": "Koursk",
+      "accept": [
+        "Kursk"
+      ],
+      "choices": [
+        "Kharkov",
+        "Orel",
+        "Smolensk"
+      ],
+      "explanation": "Ce fut la dernière grande offensive allemande à l'Est ; l'affrontement de Prokhorovka fut l'un des plus grands combats de blindés.",
+      "wikipedia": "Bataille de Koursk"
+    },
+    {
+      "id": "histoire-539",
+      "difficulty": 2,
+      "question": "Près de quel atoll du Pacifique la flotte américaine coula-t-elle quatre porte-avions japonais en juin 1942 ?",
+      "answer": "Midway",
+      "accept": [],
+      "choices": [
+        "Guadalcanal",
+        "Iwo Jima",
+        "Okinawa"
+      ],
+      "explanation": "Les Américains avaient décrypté une partie des codes navals japonais et connaissaient la cible de l'attaque.",
+      "wikipedia": "Bataille de Midway"
+    },
+    {
+      "id": "histoire-540",
+      "difficulty": 2,
+      "question": "Quel nom portait le bombardier B-29 qui largua la bombe atomique sur Hiroshima ?",
+      "answer": "Enola Gay",
+      "accept": [],
+      "choices": [
+        "Bockscar",
+        "Memphis Belle",
+        "Spirit of St. Louis"
+      ],
+      "explanation": "Le pilote Paul Tibbets l'avait baptisé du prénom de sa propre mère.",
+      "wikipedia": "Enola Gay"
+    },
+    {
+      "id": "histoire-541",
+      "difficulty": 1,
+      "question": "Quelle ville japonaise fut frappée par la seconde bombe atomique, le 9 août 1945 ?",
+      "answer": "Nagasaki",
+      "accept": [],
+      "choices": [
+        "Kokura",
+        "Osaka",
+        "Kyoto"
+      ],
+      "explanation": "La ville de Kokura était la cible prévue, mais des nuages empêchèrent le largage ce jour-là.",
+      "wikipedia": "Bombardements atomiques d'Hiroshima et de Nagasaki"
+    },
+    {
+      "id": "histoire-542",
+      "difficulty": 2,
+      "question": "Quel général français entra dans Paris à la tête de la 2e division blindée en août 1944 ?",
+      "answer": "Leclerc",
+      "accept": [
+        "Philippe Leclerc de Hauteclocque",
+        "général Leclerc"
+      ],
+      "choices": [
+        "Jean de Lattre de Tassigny",
+        "Alphonse Juin",
+        "Marie-Pierre Kœnig"
+      ],
+      "explanation": "Il avait juré à Koufra, en 1941, de ne déposer les armes que lorsque le drapeau flotterait sur la cathédrale de Strasbourg.",
+      "wikipedia": "Philippe Leclerc de Hauteclocque"
+    },
+    {
+      "id": "histoire-543",
+      "difficulty": 3,
+      "question": "Sous quel nom de code les Alliés débarquèrent-ils en Provence le 15 août 1944 ?",
+      "answer": "Dragoon",
+      "accept": [
+        "Anvil"
+      ],
+      "choices": [
+        "Torch",
+        "Husky",
+        "Neptune"
+      ],
+      "explanation": "Les troupes françaises du général de Lattre y jouèrent un rôle majeur, libérant Toulon et Marseille en quelques jours.",
+      "wikipedia": "Débarquement de Provence"
+    },
+    {
+      "id": "histoire-544",
+      "difficulty": 1,
+      "question": "Quel général américain, commandant suprême des Alliés en Europe, devint président des États-Unis en 1953 ?",
+      "answer": "Dwight Eisenhower",
+      "accept": [
+        "Eisenhower",
+        "Ike"
+      ],
+      "choices": [
+        "George Patton",
+        "Omar Bradley",
+        "George Marshall"
+      ],
+      "explanation": "Dans son discours d'adieu, il mit en garde contre l'influence excessive du « complexe militaro-industriel ».",
+      "wikipedia": "Dwight D. Eisenhower"
+    },
+    {
+      "id": "histoire-545",
+      "difficulty": 1,
+      "question": "Quel Premier ministre britannique promit « du sang, du labeur, des larmes et de la sueur » en 1940 ?",
+      "answer": "Winston Churchill",
+      "accept": [
+        "Churchill"
+      ],
+      "choices": [
+        "Clement Attlee",
+        "Anthony Eden",
+        "Neville Chamberlain"
+      ],
+      "explanation": "Il prononça ces mots le 13 mai 1940 devant la Chambre des communes, trois jours après être devenu Premier ministre.",
+      "wikipedia": "Winston Churchill"
+    },
+    {
+      "id": "histoire-546",
+      "difficulty": 2,
+      "question": "Quel sénateur américain mena une « chasse aux sorcières » anticommuniste au début des années 1950 ?",
+      "answer": "Joseph McCarthy",
+      "accept": [
+        "McCarthy"
+      ],
+      "choices": [
+        "Richard Nixon",
+        "J. Edgar Hoover",
+        "Barry Goldwater"
+      ],
+      "explanation": "Le maccarthysme toucha particulièrement Hollywood, où de nombreux artistes furent inscrits sur une liste noire.",
+      "wikipedia": "Joseph McCarthy"
+    },
+    {
+      "id": "histoire-547",
+      "difficulty": 1,
+      "question": "Quel président des États-Unis fut assassiné à Dallas le 22 novembre 1963 ?",
+      "answer": "John F. Kennedy",
+      "accept": [
+        "Kennedy",
+        "JFK",
+        "John Fitzgerald Kennedy"
+      ],
+      "choices": [
+        "Lyndon Johnson",
+        "Robert Kennedy",
+        "Richard Nixon"
+      ],
+      "explanation": "Son assassin présumé, Lee Harvey Oswald, fut lui-même abattu deux jours plus tard par Jack Ruby.",
+      "wikipedia": "John Fitzgerald Kennedy"
+    },
+    {
+      "id": "histoire-548",
+      "difficulty": 1,
+      "question": "Quelle couturière noire refusa de céder sa place à un Blanc dans un bus de Montgomery en 1955 ?",
+      "answer": "Rosa Parks",
+      "accept": [
+        "Parks"
+      ],
+      "choices": [
+        "Harriet Tubman",
+        "Angela Davis",
+        "Coretta Scott King"
+      ],
+      "explanation": "Son arrestation déclencha un boycott des bus de plus d'un an, mené par un jeune pasteur de la ville.",
+      "wikipedia": "Rosa Parks"
+    },
+    {
+      "id": "histoire-549",
+      "difficulty": 2,
+      "question": "Quel militant afro-américain, ancien porte-parole de Nation of Islam, fut assassiné à New York en 1965 ?",
+      "answer": "Malcolm X",
+      "accept": [],
+      "choices": [
+        "Stokely Carmichael",
+        "Medgar Evers",
+        "Huey Newton"
+      ],
+      "explanation": "Né Malcolm Little, il avait remplacé son nom de famille par un X pour rejeter le nom imposé par les esclavagistes.",
+      "wikipedia": "Malcolm X"
+    },
+    {
+      "id": "histoire-550",
+      "difficulty": 1,
+      "question": "Quel scandale d'espionnage politique contraignit Richard Nixon à démissionner en 1974 ?",
+      "answer": "Watergate",
+      "accept": [],
+      "choices": [
+        "Irangate",
+        "Pentagon Papers",
+        "Teapot Dome"
+      ],
+      "explanation": "Il tire son nom de l'immeuble de Washington où des cambrioleurs furent surpris au siège du Parti démocrate.",
+      "wikipedia": "Scandale du Watergate"
+    },
+    {
+      "id": "histoire-551",
+      "difficulty": 2,
+      "question": "Quelle offensive nord-vietnamienne de 1968 porte le nom du Nouvel An lunaire ?",
+      "answer": "offensive du Têt",
+      "accept": [
+        "Têt",
+        "Tết",
+        "offensive du Tết"
+      ],
+      "choices": [
+        "offensive de Pâques",
+        "offensive du Mékong",
+        "opération Rolling Thunder"
+      ],
+      "explanation": "Militairement repoussée, elle choqua néanmoins l'opinion américaine, qui se détourna de la guerre.",
+      "wikipedia": "Offensive du Tết"
+    },
+    {
+      "id": "histoire-552",
+      "difficulty": 2,
+      "question": "Quel dirigeant khmer rouge imposa au Cambodge un régime meurtrier de 1975 à 1979 ?",
+      "answer": "Pol Pot",
+      "accept": [],
+      "choices": [
+        "Ieng Sary",
+        "Khieu Samphân",
+        "Norodom Sihanouk"
+      ],
+      "explanation": "Les villes furent vidées de leurs habitants, envoyés de force à la campagne ; près d'un quart de la population périt.",
+      "wikipedia": "Pol Pot"
+    },
+    {
+      "id": "histoire-553",
+      "difficulty": 1,
+      "question": "Quel révolutionnaire d'origine argentine, compagnon de Fidel Castro, fut exécuté en Bolivie en 1967 ?",
+      "answer": "Che Guevara",
+      "accept": [
+        "Ernesto Guevara",
+        "Guevara"
+      ],
+      "choices": [
+        "Camilo Cienfuegos",
+        "Raúl Castro",
+        "Régis Debray"
+      ],
+      "explanation": "Médecin de formation, il est devenu une icône mondiale grâce à la photographie d'Alberto Korda.",
+      "wikipedia": "Che Guevara"
+    },
+    {
+      "id": "histoire-554",
+      "difficulty": 1,
+      "question": "Quel révolutionnaire renversa le dictateur Batista et prit le pouvoir à Cuba en 1959 ?",
+      "answer": "Fidel Castro",
+      "accept": [
+        "Castro"
+      ],
+      "choices": [
+        "Che Guevara",
+        "Camilo Cienfuegos",
+        "Raúl Castro"
+      ],
+      "explanation": "Il survécut, selon ses services, à plusieurs centaines de projets d'assassinat de la CIA.",
+      "wikipedia": "Fidel Castro"
+    },
+    {
+      "id": "histoire-555",
+      "difficulty": 2,
+      "question": "Dans quelle baie de Cuba des exilés soutenus par la CIA débarquèrent-ils sans succès en avril 1961 ?",
+      "answer": "baie des Cochons",
+      "accept": [],
+      "choices": [
+        "baie de Guantánamo",
+        "baie de Matanzas",
+        "baie de Nipe"
+      ],
+      "explanation": "L'échec de l'opération, approuvée par Kennedy, renforça le rapprochement entre Castro et l'URSS.",
+      "wikipedia": "Débarquement de la baie des Cochons"
+    },
+    {
+      "id": "histoire-556",
+      "difficulty": 2,
+      "question": "Quel dirigeant soviétique dénonça les crimes de Staline lors d'un rapport secret en 1956 ?",
+      "answer": "Nikita Khrouchtchev",
+      "accept": [
+        "Khrouchtchev"
+      ],
+      "choices": [
+        "Leonid Brejnev",
+        "Gueorgui Malenkov",
+        "Lavrenti Beria"
+      ],
+      "explanation": "Selon une anecdote célèbre, il aurait tapé avec sa chaussure sur son pupitre à l'Assemblée de l'ONU en 1960.",
+      "wikipedia": "Nikita Khrouchtchev"
+    },
+    {
+      "id": "histoire-557",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la tentative de libéralisation du régime tchécoslovaque écrasée en août 1968 ?",
+      "answer": "Printemps de Prague",
+      "accept": [],
+      "choices": [
+        "Révolution de Velours",
+        "Printemps des peuples",
+        "Été de Bratislava"
+      ],
+      "explanation": "Les réformateurs voulaient un « socialisme à visage humain » ; les chars du pacte de Varsovie y mirent fin.",
+      "wikipedia": "Printemps de Prague"
+    },
+    {
+      "id": "histoire-558",
+      "difficulty": 3,
+      "question": "Quel dirigeant slovaque, chef du Parti communiste tchécoslovaque, incarna le Printemps de Prague ?",
+      "answer": "Alexander Dubček",
+      "accept": [
+        "Dubček",
+        "Dubcek"
+      ],
+      "choices": [
+        "Gustáv Husák",
+        "Ludvík Svoboda",
+        "Antonín Novotný"
+      ],
+      "explanation": "Écarté après l'invasion, il fut relégué comme employé forestier, avant de présider le Parlement fédéral après 1989.",
+      "wikipedia": "Alexander Dubček"
+    },
+    {
+      "id": "histoire-559",
+      "difficulty": 2,
+      "question": "Quel syndicat polonais indépendant, né aux chantiers navals de Gdańsk en 1980, fut dirigé par Lech Wałęsa ?",
+      "answer": "Solidarność",
+      "accept": [
+        "Solidarnosc",
+        "Solidarité"
+      ],
+      "choices": [
+        "Wolność",
+        "Jedność",
+        "Przyszłość"
+      ],
+      "explanation": "Il fut le premier syndicat indépendant du bloc soviétique ; son dirigeant reçut le prix Nobel de la paix en 1983.",
+      "wikipedia": "Solidarność"
+    },
+    {
+      "id": "histoire-560",
+      "difficulty": 1,
+      "question": "Quel pape, élu en 1978, fut le premier pape non italien depuis plus de quatre siècles ?",
+      "answer": "Jean-Paul II",
+      "accept": [
+        "Jean Paul II"
+      ],
+      "choices": [
+        "Paul VI",
+        "Jean XXIII",
+        "Benoît XVI"
+      ],
+      "explanation": "Ancien archevêque de Cracovie, il survécut à un attentat sur la place Saint-Pierre en 1981.",
+      "wikipedia": "Jean-Paul II"
+    },
+    {
+      "id": "histoire-561",
+      "difficulty": 2,
+      "question": "Quel mot russe signifiant « transparence » désigne la politique d'ouverture de Gorbatchev ?",
+      "answer": "glasnost",
+      "accept": [],
+      "choices": [
+        "perestroïka",
+        "détente",
+        "ostpolitik"
+      ],
+      "explanation": "Associée à la perestroïka, ou « restructuration », elle libéra la parole et accéléra la fin du régime soviétique.",
+      "wikipedia": "Glasnost"
+    },
+    {
+      "id": "histoire-562",
+      "difficulty": 1,
+      "question": "En quelle année le mur de Berlin est-il tombé ?",
+      "answer": "1989",
+      "accept": [],
+      "choices": [
+        "1987",
+        "1990",
+        "1991"
+      ],
+      "explanation": "Le 9 novembre, une annonce confuse d'un dirigeant est-allemand sur la libre circulation poussa des milliers de Berlinois vers les postes-frontières.",
+      "wikipedia": "Chute du mur de Berlin"
+    },
+    {
+      "id": "histoire-563",
+      "difficulty": 2,
+      "question": "Quel dictateur roumain fut renversé puis exécuté avec son épouse en décembre 1989 ?",
+      "answer": "Nicolae Ceaușescu",
+      "accept": [
+        "Ceaușescu",
+        "Ceausescu",
+        "Nicolae Ceausescu"
+      ],
+      "choices": [
+        "Gheorghe Gheorghiu-Dej",
+        "Todor Jivkov",
+        "Erich Honecker"
+      ],
+      "explanation": "Son dernier discours, au balcon du comité central à Bucarest, fut interrompu par les huées de la foule.",
+      "wikipedia": "Nicolae Ceaușescu"
+    },
+    {
+      "id": "histoire-564",
+      "difficulty": 2,
+      "question": "Quelle capitale fut assiégée par les forces serbes de Bosnie de 1992 à 1996 ?",
+      "answer": "Sarajevo",
+      "accept": [],
+      "choices": [
+        "Mostar",
+        "Belgrade",
+        "Zagreb"
+      ],
+      "explanation": "Ce siège, d'environ quatre ans, est le plus long subi par une capitale dans l'histoire moderne.",
+      "wikipedia": "Siège de Sarajevo"
+    },
+    {
+      "id": "histoire-565",
+      "difficulty": 1,
+      "question": "Quel pays naquit en 1947 de la partition des Indes britanniques pour accueillir les musulmans ?",
+      "answer": "Pakistan",
+      "accept": [],
+      "choices": [
+        "Bangladesh",
+        "Afghanistan",
+        "Sri Lanka"
+      ],
+      "explanation": "La partition provoqua l'un des plus grands déplacements de population de l'histoire, accompagné de violences qui firent des centaines de milliers de morts.",
+      "wikipedia": "Partition des Indes"
+    },
+    {
+      "id": "histoire-566",
+      "difficulty": 2,
+      "question": "Contre le monopole britannique sur quel produit Gandhi mena-t-il une longue marche jusqu'à la mer en 1930 ?",
+      "answer": "sel",
+      "accept": [],
+      "choices": [
+        "thé",
+        "coton",
+        "opium"
+      ],
+      "explanation": "Arrivé à Dandi, il ramassa symboliquement une poignée de sel sur la plage, défiant la loi coloniale.",
+      "wikipedia": "Marche du sel"
+    },
+    {
+      "id": "histoire-567",
+      "difficulty": 1,
+      "question": "Quelle Première ministre indienne, fille de Nehru, fut assassinée par ses gardes du corps sikhs en 1984 ?",
+      "answer": "Indira Gandhi",
+      "accept": [],
+      "choices": [
+        "Sonia Gandhi",
+        "Benazir Bhutto",
+        "Sirimavo Bandaranaike"
+      ],
+      "explanation": "Elle n'avait aucun lien de parenté avec le Mahatma ; son nom lui venait de son mari, Feroze Gandhi.",
+      "wikipedia": "Indira Gandhi"
+    },
+    {
+      "id": "histoire-568",
+      "difficulty": 2,
+      "question": "Quel pays, appelé auparavant Pakistan oriental, devint indépendant en 1971 ?",
+      "answer": "Bangladesh",
+      "accept": [],
+      "choices": [
+        "Birmanie",
+        "Népal",
+        "Bhoutan"
+      ],
+      "explanation": "La guerre de libération fut soutenue par l'Inde ; Ravi Shankar et George Harrison organisèrent un grand concert de soutien à New York.",
+      "wikipedia": "Bangladesh"
+    },
+    {
+      "id": "histoire-569",
+      "difficulty": 3,
+      "question": "Qui fut le premier président de l'Indonésie, qui proclama son indépendance en 1945 ?",
+      "answer": "Soekarno",
+      "accept": [
+        "Sukarno"
+      ],
+      "choices": [
+        "Suharto",
+        "Mohammad Hatta",
+        "Habibie"
+      ],
+      "explanation": "Il accueillit en 1955 la conférence de Bandung, acte de naissance du tiers-monde sur la scène internationale.",
+      "wikipedia": "Soekarno"
+    },
+    {
+      "id": "histoire-570",
+      "difficulty": 1,
+      "question": "Quel recueil de citations de Mao Zedong fut diffusé à des centaines de millions d'exemplaires ?",
+      "answer": "Petit Livre rouge",
+      "accept": [
+        "Livre rouge"
+      ],
+      "choices": [
+        "Livre vert",
+        "Petit Livre jaune",
+        "Manifeste rouge"
+      ],
+      "explanation": "Pendant la Révolution culturelle, les gardes rouges le brandissaient lors des rassemblements et devaient en réciter des passages.",
+      "wikipedia": "Petit Livre rouge"
+    },
+    {
+      "id": "histoire-571",
+      "difficulty": 2,
+      "question": "Quelle campagne économique lancée par Mao en 1958 provoqua une famine catastrophique ?",
+      "answer": "Grand Bond en avant",
+      "accept": [],
+      "choices": [
+        "Cent Fleurs",
+        "Longue Marche",
+        "Révolution culturelle"
+      ],
+      "explanation": "Des paysans durent fondre leurs outils dans des hauts fourneaux de fortune ; la famine qui suivit fit des dizaines de millions de morts.",
+      "wikipedia": "Grand Bond en avant"
+    },
+    {
+      "id": "histoire-572",
+      "difficulty": 1,
+      "question": "Sur quelle place de Pékin le mouvement étudiant de 1989 fut-il écrasé par l'armée ?",
+      "answer": "Tian'anmen",
+      "accept": [
+        "Tiananmen",
+        "place Tian'anmen"
+      ],
+      "choices": [
+        "Cité interdite",
+        "place Wangfujing",
+        "place du Peuple"
+      ],
+      "explanation": "L'image d'un homme seul arrêtant une colonne de chars, surnommé le « Rebelle inconnu », a fait le tour du monde.",
+      "wikipedia": "Manifestations de la place Tian'anmen"
+    },
+    {
+      "id": "histoire-573",
+      "difficulty": 2,
+      "question": "Quel dirigeant proclama la création de l'État d'Israël le 14 mai 1948, à Tel-Aviv ?",
+      "answer": "David Ben Gourion",
+      "accept": [
+        "Ben Gourion",
+        "Ben Gurion"
+      ],
+      "choices": [
+        "Golda Meir",
+        "Chaim Weizmann",
+        "Menahem Begin"
+      ],
+      "explanation": "Premier chef du gouvernement israélien, il se retira à la fin de sa vie dans un kibboutz du Néguev.",
+      "wikipedia": "David Ben Gourion"
+    },
+    {
+      "id": "histoire-574",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la guerre éclair de juin 1967 entre Israël et ses voisins arabes ?",
+      "answer": "guerre des Six Jours",
+      "accept": [
+        "Six Jours"
+      ],
+      "choices": [
+        "guerre du Kippour",
+        "guerre de Suez",
+        "guerre d'usure"
+      ],
+      "explanation": "Israël s'empara du Sinaï, de la bande de Gaza, de la Cisjordanie, de Jérusalem-Est et du plateau du Golan.",
+      "wikipedia": "Guerre des Six Jours"
+    },
+    {
+      "id": "histoire-575",
+      "difficulty": 2,
+      "question": "Quelle guerre de 1973 tire son nom de la fête juive du Grand Pardon, jour de l'attaque ?",
+      "answer": "guerre du Kippour",
+      "accept": [
+        "Kippour",
+        "Yom Kippour"
+      ],
+      "choices": [
+        "guerre des Six Jours",
+        "guerre de Suez",
+        "guerre du Liban"
+      ],
+      "explanation": "L'embargo pétrolier décidé par les pays arabes à cette occasion déclencha le premier choc pétrolier.",
+      "wikipedia": "Guerre du Kippour"
+    },
+    {
+      "id": "histoire-576",
+      "difficulty": 2,
+      "question": "Quel président égyptien, signataire de la paix avec Israël, fut assassiné lors d'un défilé militaire en 1981 ?",
+      "answer": "Anouar el-Sadate",
+      "accept": [
+        "Sadate",
+        "Anouar el Sadate"
+      ],
+      "choices": [
+        "Gamal Abdel Nasser",
+        "Hosni Moubarak",
+        "Mohammed Naguib"
+      ],
+      "explanation": "Il partagea le prix Nobel de la paix 1978 avec le Premier ministre israélien Menahem Begin.",
+      "wikipedia": "Anouar el-Sadate"
+    },
+    {
+      "id": "histoire-577",
+      "difficulty": 1,
+      "question": "Quel dirigeant palestinien, chef de l'OLP, reçut le prix Nobel de la paix en 1994 ?",
+      "answer": "Yasser Arafat",
+      "accept": [
+        "Arafat"
+      ],
+      "choices": [
+        "Mahmoud Abbas",
+        "Ahmed Yassine",
+        "Georges Habache"
+      ],
+      "explanation": "Il partagea le prix avec les Israéliens Yitzhak Rabin et Shimon Peres, après les accords d'Oslo.",
+      "wikipedia": "Yasser Arafat"
+    },
+    {
+      "id": "histoire-578",
+      "difficulty": 1,
+      "question": "Quel ayatollah, revenu d'exil à Neauphle-le-Château, prit la tête de la révolution iranienne en 1979 ?",
+      "answer": "Khomeini",
+      "accept": [
+        "Rouhollah Khomeini",
+        "Khomeiny"
+      ],
+      "choices": [
+        "Khamenei",
+        "Rafsandjani",
+        "Montazeri"
+      ],
+      "explanation": "Le dernier shah, Mohammad Reza Pahlavi, avait quitté l'Iran quelques semaines plus tôt.",
+      "wikipedia": "Rouhollah Khomeini"
+    },
+    {
+      "id": "histoire-579",
+      "difficulty": 2,
+      "question": "Quel Premier ministre du Congo indépendant fut assassiné au Katanga en 1961 ?",
+      "answer": "Patrice Lumumba",
+      "accept": [
+        "Lumumba"
+      ],
+      "choices": [
+        "Joseph Kasa-Vubu",
+        "Moïse Tshombe",
+        "Mobutu"
+      ],
+      "explanation": "Son discours du 30 juin 1960, dénonçant la colonisation devant le roi des Belges, provoqua un scandale diplomatique.",
+      "wikipedia": "Patrice Lumumba"
+    },
+    {
+      "id": "histoire-580",
+      "difficulty": 1,
+      "question": "Quel régime de ségrégation raciale fut appliqué en Afrique du Sud de 1948 au début des années 1990 ?",
+      "answer": "apartheid",
+      "accept": [],
+      "choices": [
+        "Jim Crow",
+        "bantoustan",
+        "ghetto"
+      ],
+      "explanation": "Le mot signifie « séparation » en afrikaans ; il classait la population en groupes raciaux aux droits très inégaux.",
+      "wikipedia": "Apartheid"
+    },
+    {
+      "id": "histoire-581",
+      "difficulty": 3,
+      "question": "Dans quel township sud-africain la police tua-t-elle 69 manifestants noirs le 21 mars 1960 ?",
+      "answer": "Sharpeville",
+      "accept": [],
+      "choices": [
+        "Soweto",
+        "Alexandra",
+        "Langa"
+      ],
+      "explanation": "La date de ce massacre est devenue la Journée internationale pour l'élimination de la discrimination raciale.",
+      "wikipedia": "Massacre de Sharpeville"
+    },
+    {
+      "id": "histoire-582",
+      "difficulty": 2,
+      "question": "Quel empereur d'Éthiopie, renversé en 1974, est vénéré comme un messie par les rastafaris ?",
+      "answer": "Haïlé Sélassié",
+      "accept": [
+        "Hailé Sélassié",
+        "Haile Selassie",
+        "Ras Tafari"
+      ],
+      "choices": [
+        "Ménélik II",
+        "Mengistu",
+        "Tewodros II"
+      ],
+      "explanation": "Avant son couronnement, il portait le nom de Ras Tafari Makonnen, d'où le nom du mouvement rastafari.",
+      "wikipedia": "Haïlé Sélassié Ier"
+    },
+    {
+      "id": "histoire-583",
+      "difficulty": 2,
+      "question": "Quel président chilien socialiste mourut au palais de la Moneda lors du coup d'État de 1973 ?",
+      "answer": "Salvador Allende",
+      "accept": [
+        "Allende"
+      ],
+      "choices": [
+        "Eduardo Frei",
+        "Pablo Neruda",
+        "Víctor Jara"
+      ],
+      "explanation": "Élu en 1970, il fut le premier marxiste à accéder à la présidence d'un pays par les urnes en Amérique latine.",
+      "wikipedia": "Salvador Allende"
+    },
+    {
+      "id": "histoire-584",
+      "difficulty": 1,
+      "question": "Quel général prit le pouvoir au Chili lors du coup d'État du 11 septembre 1973 ?",
+      "answer": "Augusto Pinochet",
+      "accept": [
+        "Pinochet"
+      ],
+      "choices": [
+        "Jorge Videla",
+        "Alfredo Stroessner",
+        "Manuel Noriega"
+      ],
+      "explanation": "Sa dictature dura jusqu'en 1990 ; il fut arrêté à Londres en 1998 à la demande d'un juge espagnol.",
+      "wikipedia": "Augusto Pinochet"
+    },
+    {
+      "id": "histoire-585",
+      "difficulty": 1,
+      "question": "Quelle Première ministre britannique conservatrice était surnommée la Dame de fer ?",
+      "answer": "Margaret Thatcher",
+      "accept": [
+        "Thatcher"
+      ],
+      "choices": [
+        "Theresa May",
+        "Elizabeth II",
+        "Barbara Castle"
+      ],
+      "explanation": "Le surnom lui fut donné par un journal militaire soviétique ; elle gouverna de 1979 à 1990.",
+      "wikipedia": "Margaret Thatcher"
+    },
+    {
+      "id": "histoire-586",
+      "difficulty": 2,
+      "question": "Quelle révolution, en avril 1974, mit fin à la dictature au Portugal ?",
+      "answer": "révolution des Œillets",
+      "accept": [
+        "Œillets",
+        "révolution des oeillets"
+      ],
+      "choices": [
+        "révolution de Velours",
+        "révolution des Roses",
+        "révolution des Tulipes"
+      ],
+      "explanation": "Les soldats placèrent des fleurs dans le canon de leurs fusils ; une chanson diffusée à la radio servit de signal.",
+      "wikipedia": "Révolution des Œillets"
+    },
+    {
+      "id": "histoire-587",
+      "difficulty": 3,
+      "question": "Quel ingénieur soviétique, longtemps resté anonyme, dirigea les premiers grands succès spatiaux de l'URSS ?",
+      "answer": "Sergueï Korolev",
+      "accept": [
+        "Korolev"
+      ],
+      "choices": [
+        "Valentin Glouchko",
+        "Constantin Tsiolkovski",
+        "Mikhaïl Iangel"
+      ],
+      "explanation": "Désigné en public par le titre de « concepteur en chef », il avait été déporté au Goulag sous Staline.",
+      "wikipedia": "Sergueï Korolev"
+    },
+    {
+      "id": "histoire-588",
+      "difficulty": 1,
+      "question": "Quel empereur se posa lui-même la couronne sur la tête lors de son sacre à Notre-Dame de Paris en 1804 ?",
+      "answer": "Napoléon Ier",
+      "accept": [
+        "Napoléon",
+        "Napoléon Bonaparte",
+        "Bonaparte"
+      ],
+      "choices": [
+        "Louis XVIII",
+        "Charles X",
+        "Napoléon III"
+      ],
+      "explanation": "Le pape Pie VII avait fait le voyage depuis Rome pour la cérémonie, immortalisée par l'immense tableau de Jacques-Louis David conservé au Louvre.",
+      "wikipedia": "Napoléon Ier"
+    },
+    {
+      "id": "histoire-589",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la guerre civile qui opposa le Nord et le Sud des États-Unis de 1861 à 1865 ?",
+      "answer": "guerre de Sécession",
+      "accept": [
+        "Sécession"
+      ],
+      "choices": [
+        "guerre d'Indépendance",
+        "guerre de 1812",
+        "guerre du Mexique"
+      ],
+      "explanation": "Elle reste le conflit le plus meurtrier de l'histoire américaine, avec plus de 600 000 morts, et s'acheva par l'abolition de l'esclavage.",
+      "wikipedia": "Guerre de Sécession"
+    },
+    {
+      "id": "histoire-590",
+      "difficulty": 1,
+      "question": "Qui fut le dernier tsar de Russie, contraint d'abdiquer en mars 1917 ?",
+      "answer": "Nicolas II",
+      "accept": [],
+      "choices": [
+        "Alexandre III",
+        "Alexandre II",
+        "Nicolas Ier"
+      ],
+      "explanation": "Il abdiqua à bord de son train impérial, à Pskov ; son épouse Alexandra était une petite-fille de la reine Victoria.",
+      "wikipedia": "Nicolas II"
+    },
+    {
+      "id": "histoire-591",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'affrontement entre les États-Unis et l'URSS qui s'étendit de la fin des années 1940 à 1991 ?",
+      "answer": "guerre froide",
+      "accept": [],
+      "choices": [
+        "guerre de Cent Ans",
+        "drôle de guerre",
+        "grande guerre"
+      ],
+      "explanation": "Les deux superpuissances ne s'affrontèrent jamais directement, mais par conflits interposés, course aux armements et rivalité spatiale.",
+      "wikipedia": "Guerre froide"
+    },
+    {
+      "id": "histoire-592",
+      "difficulty": 1,
+      "question": "Quel président américain ordonna les bombardements atomiques sur le Japon en août 1945 ?",
+      "answer": "Harry Truman",
+      "accept": [
+        "Truman",
+        "Harry S. Truman"
+      ],
+      "choices": [
+        "Franklin Roosevelt",
+        "Dwight Eisenhower",
+        "Herbert Hoover"
+      ],
+      "explanation": "Vice-président depuis quelques semaines seulement, il succéda à Roosevelt en avril 1945 sans avoir été informé de l'existence de la bombe.",
+      "wikipedia": "Harry S. Truman"
+    },
+    {
+      "id": "histoire-593",
+      "difficulty": 1,
+      "question": "Quel dirigeant soviétique, successeur de Lénine, gouverna l'URSS jusqu'à sa mort en 1953 ?",
+      "answer": "Staline",
+      "accept": [
+        "Joseph Staline"
+      ],
+      "choices": [
+        "Trotski",
+        "Khrouchtchev",
+        "Brejnev"
+      ],
+      "explanation": "Né en Géorgie sous le nom de Iossif Djougachvili, il adopta un pseudonyme dérivé du mot russe signifiant « acier ».",
+      "wikipedia": "Joseph Staline"
+    },
+    {
+      "id": "histoire-594",
+      "difficulty": 1,
+      "question": "Quel dirigeant communiste proclama la république populaire de Chine à Pékin le 1er octobre 1949 ?",
+      "answer": "Mao Zedong",
+      "accept": [
+        "Mao",
+        "Mao Tsé-toung"
+      ],
+      "choices": [
+        "Zhou Enlai",
+        "Deng Xiaoping",
+        "Liu Shaoqi"
+      ],
+      "explanation": "Il fit cette proclamation du haut de la porte Tian'anmen, où son immense portrait est toujours accroché.",
+      "wikipedia": "Mao Zedong"
+    },
+    {
+      "id": "histoire-595",
+      "difficulty": 1,
+      "question": "En quelle année la Première Guerre mondiale éclata-t-elle ?",
+      "answer": "1914",
+      "accept": [],
+      "choices": [
+        "1912",
+        "1916",
+        "1918"
+      ],
+      "explanation": "L'Allemagne déclara la guerre à la Russie le 1er août puis à la France le 3 août, un peu plus d'un mois après l'attentat de Sarajevo.",
+      "wikipedia": "Première Guerre mondiale"
+    },
+    {
+      "id": "histoire-596",
+      "difficulty": 1,
+      "question": "Quelle police politique secrète du régime nazi était redoutée dans toute l'Europe occupée ?",
+      "answer": "Gestapo",
+      "accept": [],
+      "choices": [
+        "Stasi",
+        "Tchéka",
+        "Abwehr"
+      ],
+      "explanation": "Son nom est l'abréviation de Geheime Staatspolizei, « police secrète d'État » ; elle fut déclarée organisation criminelle à Nuremberg.",
+      "wikipedia": "Gestapo"
+    },
+    {
+      "id": "histoire-597",
+      "difficulty": 1,
+      "question": "Quel homme politique fut en 1981 le premier président de gauche élu sous la Ve République ?",
+      "answer": "François Mitterrand",
+      "accept": [
+        "Mitterrand"
+      ],
+      "choices": [
+        "Lionel Jospin",
+        "Pierre Mauroy",
+        "Michel Rocard"
+      ],
+      "explanation": "Il resta quatorze ans à l'Élysée, la plus longue présidence de l'histoire de la République française.",
+      "wikipedia": "François Mitterrand"
+    },
+    {
+      "id": "histoire-598",
+      "difficulty": 1,
+      "question": "Quel mouvement de révolte étudiante et de grève générale secoua la France au printemps 1968 ?",
+      "answer": "Mai 68",
+      "accept": [
+        "mai 1968",
+        "Mai 1968"
+      ],
+      "choices": [
+        "Printemps de Prague",
+        "Front populaire",
+        "Commune"
+      ],
+      "explanation": "Parti de l'université de Nanterre, le mouvement donna lieu à des barricades au Quartier latin et à des accords sociaux signés rue de Grenelle.",
+      "wikipedia": "Mai 68"
+    },
+    {
+      "id": "histoire-599",
+      "difficulty": 1,
+      "question": "Quel titre, signifiant « guide » en allemand, Adolf Hitler porta-t-il à la tête de l'Allemagne ?",
+      "answer": "Führer",
+      "accept": [
+        "Fuhrer"
+      ],
+      "choices": [
+        "Kaiser",
+        "Duce",
+        "Reichsmarschall"
+      ],
+      "explanation": "À la mort du président Hindenburg en août 1934, il cumula les fonctions de chancelier et de chef de l'État sous ce titre.",
+      "wikipedia": "Führer"
+    },
+    {
+      "id": "histoire-600",
+      "difficulty": 2,
+      "question": "Quel chef sioux lakota, présent à Little Bighorn, fut tué en 1890 lors de son arrestation ?",
+      "answer": "Sitting Bull",
+      "accept": [],
+      "choices": [
+        "Crazy Horse",
+        "Red Cloud",
+        "Geronimo"
+      ],
+      "explanation": "Il avait parcouru les États-Unis avec le spectacle Wild West de Buffalo Bill ; sa mort précéda de peu le massacre de Wounded Knee.",
+      "wikipedia": "Sitting Bull"
+    }
+  ]
+}
