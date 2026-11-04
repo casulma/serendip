@@ -1,0 +1,1864 @@
+{
+  "category": "gastronomie",
+  "questions": [
+    {
+      "id": "gastronomie-061",
+      "difficulty": 2,
+      "question": "Quelle ville lorraine est célèbre pour ses bonbons carrés et ambrés parfumés à l'essence de bergamote ?",
+      "answer": "Nancy",
+      "accept": [],
+      "choices": [
+        "Metz",
+        "Commercy",
+        "Épinal"
+      ],
+      "explanation": "Depuis la création d'une indication géographique protégée en 1996, seuls les confiseurs respectant le cahier des charges peuvent utiliser l'appellation.",
+      "wikipedia": "Bergamote de Nancy"
+    },
+    {
+      "id": "gastronomie-062",
+      "difficulty": 3,
+      "question": "Quel chef de La Pyramide, à Vienne, est considéré comme l'un des pères de la nouvelle cuisine ?",
+      "answer": "Fernand Point",
+      "accept": [
+        "Point"
+      ],
+      "choices": [
+        "Alexandre Dumaine",
+        "André Pic",
+        "Raymond Oliver"
+      ],
+      "explanation": "Il dirigea La Pyramide de 1925 à 1955 et obtint trois étoiles au guide Michelin dès 1933.",
+      "wikipedia": "Fernand Point"
+    },
+    {
+      "id": "gastronomie-063",
+      "difficulty": 1,
+      "question": "Quelle brioche de Noël aux fruits confits, haute et en forme de dôme, est originaire de Milan ?",
+      "answer": "panettone",
+      "accept": [],
+      "choices": [
+        "pandoro",
+        "colomba",
+        "stollen"
+      ],
+      "explanation": "Spécialité lombarde à la longue fermentation, il a pour cousin le pandoro, autre gâteau de Noël originaire de Vérone.",
+      "wikipedia": "Panettone"
+    },
+    {
+      "id": "gastronomie-064",
+      "difficulty": 2,
+      "question": "Quel plat brésilien emblématique est un ragoût de haricots noirs et de viandes de porc ?",
+      "answer": "feijoada",
+      "accept": [],
+      "choices": [
+        "churrasco",
+        "moqueca",
+        "acarajé"
+      ],
+      "explanation": "Souvent servie le samedi, elle s'accompagne de riz blanc, de farofa de manioc, de chou vert et de fines rondelles d'orange.",
+      "wikipedia": "Feijoada"
+    },
+    {
+      "id": "gastronomie-065",
+      "difficulty": 1,
+      "question": "Quel plat de viande mijotée au vin rouge, avec lardons, oignons et champignons, est une gloire de la Bourgogne ?",
+      "answer": "bœuf bourguignon",
+      "accept": [
+        "boeuf bourguignon",
+        "bourguignon"
+      ],
+      "choices": [
+        "coq au vin",
+        "pot-au-feu",
+        "daube provençale"
+      ],
+      "explanation": "On le prépare avec des morceaux à braiser, comme le paleron ou la joue, qui deviennent fondants après plusieurs heures de cuisson dans le vin.",
+      "wikipedia": "Bœuf bourguignon"
+    },
+    {
+      "id": "gastronomie-066",
+      "difficulty": 2,
+      "question": "Quelle fine galette de farine de pois chiches cuite au four à bois est une spécialité de Nice ?",
+      "answer": "socca",
+      "accept": [],
+      "choices": [
+        "panisse",
+        "fougasse",
+        "pissaladière"
+      ],
+      "explanation": "On la mange brûlante et poivrée ; en Ligurie voisine, sa cousine s'appelle farinata, et dans le Var, cade.",
+      "wikipedia": "Socca"
+    },
+    {
+      "id": "gastronomie-067",
+      "difficulty": 2,
+      "question": "Quel maître d'hôtel du Grand Condé se donna la mort à Chantilly, craignant que la marée n'arrive pas à temps ?",
+      "answer": "Vatel",
+      "accept": [
+        "François Vatel"
+      ],
+      "choices": [
+        "Taillevent",
+        "La Varenne",
+        "Béchameil"
+      ],
+      "explanation": "Le drame de 1671, lors d'une réception donnée pour Louis XIV, est raconté par Madame de Sévigné dans ses lettres.",
+      "wikipedia": "François Vatel"
+    },
+    {
+      "id": "gastronomie-068",
+      "difficulty": 2,
+      "question": "Quel plat alsacien de viandes marinées et de pommes de terre était autrefois cuit dans le four du boulanger ?",
+      "answer": "baeckeoffe",
+      "accept": [
+        "baeckaoffa"
+      ],
+      "choices": [
+        "choucroute",
+        "fleischschnacka",
+        "potée"
+      ],
+      "explanation": "Les familles le déposaient chez le boulanger sur le chemin de l'office, et il mijotait dans le four à pain en train de refroidir.",
+      "wikipedia": "Baeckeoffe"
+    },
+    {
+      "id": "gastronomie-069",
+      "difficulty": 3,
+      "question": "Quel gâteau autrichien, l'un des plus anciens connus, se reconnaît à son treillis de pâte posé sur de la confiture ?",
+      "answer": "Linzer torte",
+      "accept": [
+        "Linzertorte",
+        "tarte de Linz"
+      ],
+      "choices": [
+        "Sachertorte",
+        "Dobos torte",
+        "Esterházy torte"
+      ],
+      "explanation": "Une recette datée de 1653 figure dans un manuscrit conservé à l'abbaye d'Admont, en Styrie, ce qui en fait l'un des plus anciens gâteaux connus.",
+      "wikipedia": "Linzer Torte"
+    },
+    {
+      "id": "gastronomie-070",
+      "difficulty": 1,
+      "question": "Quel plat alsacien associe du chou blanc fermenté en saumure à des saucisses et des viandes de porc ?",
+      "answer": "choucroute",
+      "accept": [],
+      "choices": [
+        "baeckeoffe",
+        "potée",
+        "flammekueche"
+      ],
+      "explanation": "Riche en vitamine C, elle était embarquée au XVIIIe siècle pour lutter contre le scorbut : lors du deuxième voyage de James Cook, aucun marin n'en mourut.",
+      "wikipedia": "Choucroute"
+    },
+    {
+      "id": "gastronomie-071",
+      "difficulty": 1,
+      "question": "Quel plat languedocien de haricots blancs, confit et saucisse se dispute entre Castelnaudary, Carcassonne et Toulouse ?",
+      "answer": "cassoulet",
+      "accept": [],
+      "choices": [
+        "garbure",
+        "potée",
+        "estouffade"
+      ],
+      "explanation": "Il tire son nom de la cassole, plat creux en terre cuite fabriqué principalement à Issel, dans lequel il cuit longuement au four.",
+      "wikipedia": "Cassoulet"
+    },
+    {
+      "id": "gastronomie-072",
+      "difficulty": 2,
+      "question": "Quelle herbe est l'ingrédient principal du taboulé libanais, bien plus que le boulgour ?",
+      "answer": "persil",
+      "accept": [],
+      "choices": [
+        "menthe",
+        "coriandre",
+        "ciboulette"
+      ],
+      "explanation": "Avant l'arrivée de la tomate au Levant, le taboulé associait beaucoup de persil plat, de la menthe, des oignons et un peu de boulgour.",
+      "wikipedia": "Taboulé"
+    },
+    {
+      "id": "gastronomie-073",
+      "difficulty": 2,
+      "question": "Quel dessert de meringue garni de crème et de fruits porte le nom d'une ballerine russe ?",
+      "answer": "pavlova",
+      "accept": [],
+      "choices": [
+        "vacherin",
+        "merveilleux",
+        "île flottante"
+      ],
+      "explanation": "Australiens et Néo-Zélandais se disputent sa paternité : elle aurait été créée après une tournée d'Anna Pavlova dans les deux pays, dans les années 1920.",
+      "wikipedia": "Pavlova (dessert)"
+    },
+    {
+      "id": "gastronomie-074",
+      "difficulty": 2,
+      "question": "Quel chef catalan, pionnier de la cuisine moléculaire, a fait la renommée du restaurant elBulli ?",
+      "answer": "Ferran Adrià",
+      "accept": [
+        "Ferran Adria",
+        "Adrià"
+      ],
+      "choices": [
+        "Juan Mari Arzak",
+        "Joan Roca",
+        "Martín Berasategui"
+      ],
+      "explanation": "Son restaurant, près de Roses sur la Costa Brava, n'ouvrait que six mois par an et recevait des demandes de réservation du monde entier.",
+      "wikipedia": "Ferran Adrià"
+    },
+    {
+      "id": "gastronomie-075",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le filet prélevé sur un canard engraissé pour la production de foie gras ?",
+      "answer": "magret",
+      "accept": [],
+      "choices": [
+        "aiguillette",
+        "confit",
+        "manchon"
+      ],
+      "explanation": "Le chef gersois André Daguin l'a mis à la carte en 1959 ; jusque-là, le canard gras du Sud-Ouest était surtout préparé en confit.",
+      "wikipedia": "Magret"
+    },
+    {
+      "id": "gastronomie-076",
+      "difficulty": 1,
+      "question": "Quel flan épais de Bretagne est souvent garni de pruneaux ?",
+      "answer": "far breton",
+      "accept": [
+        "far"
+      ],
+      "choices": [
+        "kouign-amann",
+        "gâteau breton",
+        "clafoutis"
+      ],
+      "explanation": "Au XVIIIe siècle, le far désignait une bouillie salée de blé noir, servie émiettée pour accompagner les viandes.",
+      "wikipedia": "Far breton"
+    },
+    {
+      "id": "gastronomie-077",
+      "difficulty": 1,
+      "question": "Quelle ancienne province a donné son nom au gratin de pommes de terre à la crème ?",
+      "answer": "Dauphiné",
+      "accept": [
+        "Dauphine"
+      ],
+      "choices": [
+        "Savoie",
+        "Lyonnais",
+        "Bourbonnais"
+      ],
+      "explanation": "La recette traditionnelle se fait sans fromage : il faut attendre le « Guide culinaire » d'Escoffier, en 1903, pour en trouver une version au gruyère.",
+      "wikipedia": "Gratin dauphinois"
+    },
+    {
+      "id": "gastronomie-078",
+      "difficulty": 1,
+      "question": "Quelle pâtisserie superpose trois couches de pâte feuilletée et deux de crème pâtissière, sous un glaçage ?",
+      "answer": "mille-feuille",
+      "accept": [
+        "millefeuille"
+      ],
+      "choices": [
+        "napoléon",
+        "jalousie",
+        "chausson"
+      ],
+      "explanation": "Aussi appelé « glacé », il est traditionnellement couvert d'un glaçage marbré au fondant et au chocolat.",
+      "wikipedia": "Mille-feuille"
+    },
+    {
+      "id": "gastronomie-079",
+      "difficulty": 1,
+      "question": "Quel chou fermenté et pimenté est le condiment incontournable de la cuisine coréenne ?",
+      "answer": "kimchi",
+      "accept": [],
+      "choices": [
+        "miso",
+        "natto",
+        "bibimbap"
+      ],
+      "explanation": "Le kimjang, préparation collective du kimchi avant l'hiver, est inscrit au patrimoine immatériel de l'UNESCO, à la demande des deux Corées.",
+      "wikipedia": "Kimchi"
+    },
+    {
+      "id": "gastronomie-080",
+      "difficulty": 3,
+      "question": "Quel pot-au-feu breton du Léon associe viandes, légumes et un far de sarrasin cuit dans un sac en tissu ?",
+      "answer": "kig ha farz",
+      "accept": [
+        "kig-ha-farz"
+      ],
+      "choices": [
+        "cotriade",
+        "potée bretonne",
+        "galette-saucisse"
+      ],
+      "explanation": "Son nom signifie « viande et far » en breton ; le far de blé noir cuit dans le bouillon est servi émietté.",
+      "wikipedia": "Kig ha farz"
+    },
+    {
+      "id": "gastronomie-081",
+      "difficulty": 2,
+      "question": "Quel gâteau viennois au chocolat et à la confiture d'abricot est la spécialité d'un célèbre hôtel de Vienne ?",
+      "answer": "Sachertorte",
+      "accept": [
+        "gâteau Sacher",
+        "Sacher"
+      ],
+      "choices": [
+        "Linzertorte",
+        "Dobos torte",
+        "Esterházy torte"
+      ],
+      "explanation": "Il est composé de génoise au chocolat et d'une fine couche de confiture d'abricot ; le chocolatier Demel en propose une version concurrente.",
+      "wikipedia": "Sachertorte"
+    },
+    {
+      "id": "gastronomie-082",
+      "difficulty": 2,
+      "question": "Quel peintre vénitien de la Renaissance a donné son nom à un plat de fines tranches de bœuf cru ?",
+      "answer": "Carpaccio",
+      "accept": [
+        "Vittore Carpaccio"
+      ],
+      "choices": [
+        "Titien",
+        "Bellini",
+        "Véronèse"
+      ],
+      "explanation": "Le plat a été créé en 1950 au Harry's Bar de Venise par Giuseppe Cipriani, qui le servait avec une sauce à la moutarde.",
+      "wikipedia": "Carpaccio"
+    },
+    {
+      "id": "gastronomie-083",
+      "difficulty": 1,
+      "question": "Quelle émulsion provençale d'ail pilé et d'huile d'olive donne aussi son nom à un grand plat de morue et de légumes ?",
+      "answer": "aïoli",
+      "accept": [
+        "aioli",
+        "ailloli"
+      ],
+      "choices": [
+        "rouille",
+        "tapenade",
+        "anchoïade"
+      ],
+      "explanation": "Son nom vient du provençal « alh », ail, et « òli », huile ; on retrouve cette émulsion dans les cuisines occitane, catalane et espagnole.",
+      "wikipedia": "Aïoli"
+    },
+    {
+      "id": "gastronomie-084",
+      "difficulty": 3,
+      "question": "Quel village de Côte-d'Or produit dans une ancienne abbaye de petits bonbons à l'anis connus dans le monde entier ?",
+      "answer": "Flavigny-sur-Ozerain",
+      "accept": [
+        "Flavigny"
+      ],
+      "choices": [
+        "Vézelay",
+        "Fontenay",
+        "Saint-Seine-l'Abbaye"
+      ],
+      "explanation": "Depuis 1591, les dragéistes qui se succèdent à l'abbaye enrobent une graine d'anis de couches de sucre successives pendant quinze jours.",
+      "wikipedia": "Anis de Flavigny"
+    },
+    {
+      "id": "gastronomie-085",
+      "difficulty": 2,
+      "question": "Comment s'appelle le poêlon en terre ou en fonte dans lequel on sert la fondue savoyarde ?",
+      "answer": "caquelon",
+      "accept": [],
+      "choices": [
+        "marmite",
+        "cocotte",
+        "sauteuse"
+      ],
+      "explanation": "Ce poêlon à manche, en terre cuite ou en fonte, porte un nom employé surtout en Suisse romande, en Savoie et dans le Jura.",
+      "wikipedia": "Caquelon"
+    },
+    {
+      "id": "gastronomie-086",
+      "difficulty": 1,
+      "question": "Quel plat de nouilles de riz sautées, aux cacahuètes et au tamarin, est un emblème de la Thaïlande ?",
+      "answer": "pad thaï",
+      "accept": [
+        "pad thai",
+        "phat thai"
+      ],
+      "choices": [
+        "tom yam",
+        "som tam",
+        "nasi goreng"
+      ],
+      "explanation": "Après la Seconde Guerre mondiale, le Premier ministre Plaek Phibunsongkhram en diffusa la recette pour réduire la consommation de blé du pays.",
+      "wikipedia": "Phat thai"
+    },
+    {
+      "id": "gastronomie-087",
+      "difficulty": 2,
+      "question": "Quel poisson-globe, dont certains organes contiennent un poison mortel, n'est préparé au Japon que par des cuisiniers agréés ?",
+      "answer": "fugu",
+      "accept": [],
+      "choices": [
+        "unagi",
+        "maguro",
+        "saba"
+      ],
+      "explanation": "Son foie, ses ovaires et sa peau contiennent de la tétrodotoxine, poison contre lequel il n'existe pas d'antidote.",
+      "wikipedia": "Fugu"
+    },
+    {
+      "id": "gastronomie-088",
+      "difficulty": 3,
+      "question": "Quelle cuisinière lyonnaise obtint en 1933 trois étoiles Michelin pour chacun de ses deux restaurants ?",
+      "answer": "Eugénie Brazier",
+      "accept": [
+        "la mère Brazier",
+        "mère Brazier"
+      ],
+      "choices": [
+        "Marie Bourgeois",
+        "Françoise Fayolle",
+        "Marguerite Bise"
+      ],
+      "explanation": "Première femme triplement étoilée, cette « mère » lyonnaise tenait une table à Lyon et une autre au col de la Luère, à Pollionnay.",
+      "wikipedia": "Eugénie Brazier"
+    },
+    {
+      "id": "gastronomie-089",
+      "difficulty": 3,
+      "question": "Quel plat flamand froid de viandes blanches en gelée porte un nom signifiant « viande en pot » ?",
+      "answer": "potjevleesch",
+      "accept": [
+        "potje vleesch"
+      ],
+      "choices": [
+        "waterzooi",
+        "hochepot",
+        "carbonade"
+      ],
+      "explanation": "On y trouve poulet, lapin, porc et veau pris en gelée ; il est souvent servi avec des frites dans les estaminets du Nord.",
+      "wikipedia": "Potjevleesch"
+    },
+    {
+      "id": "gastronomie-090",
+      "difficulty": 1,
+      "question": "Quel plat québécois associe frites, fromage en grains et sauce brune ?",
+      "answer": "poutine",
+      "accept": [],
+      "choices": [
+        "tourtière",
+        "pâté chinois",
+        "cipaille"
+      ],
+      "explanation": "Né au Québec à la fin des années 1950, ce plat longtemps moqué est devenu un symbole culinaire de la province.",
+      "wikipedia": "Poutine (plat)"
+    },
+    {
+      "id": "gastronomie-091",
+      "difficulty": 3,
+      "question": "Quelle enseignante a signé « Je sais cuisiner », livre de recettes vendu à plusieurs millions d'exemplaires depuis 1932 ?",
+      "answer": "Ginette Mathiot",
+      "accept": [
+        "Mathiot"
+      ],
+      "choices": [
+        "Françoise Bernard",
+        "Madame Saint-Ange",
+        "Mapie de Toulouse-Lautrec"
+      ],
+      "explanation": "Professeure d'arts ménagers, elle a vu son livre adapté en 1955 dans la collection Le Livre de poche sous le titre « La Cuisine pour tous ».",
+      "wikipedia": "Ginette Mathiot"
+    },
+    {
+      "id": "gastronomie-092",
+      "difficulty": 1,
+      "question": "De quelle région la quiche aux lardons, aux œufs et à la crème tire-t-elle son nom ?",
+      "answer": "Lorraine",
+      "accept": [],
+      "choices": [
+        "Alsace",
+        "Champagne",
+        "Franche-Comté"
+      ],
+      "explanation": "Proche de la migaine, elle se prépare en Lorraine avec de la crème fraîche, quand les Alsaciens y marient plutôt fromage blanc et crème.",
+      "wikipedia": "Quiche lorraine"
+    },
+    {
+      "id": "gastronomie-093",
+      "difficulty": 2,
+      "question": "Quel dessert de pêches, glace vanille et purée de framboises rend hommage à une cantatrice australienne ?",
+      "answer": "pêche Melba",
+      "accept": [
+        "peche melba"
+      ],
+      "choices": [
+        "poire Belle-Hélène",
+        "coupe Colonel",
+        "bombe glacée"
+      ],
+      "explanation": "Auguste Escoffier, alors au Savoy de Londres, l'a créée pour Nellie Melba après l'avoir entendue chanter « Lohengrin » de Wagner à Covent Garden.",
+      "wikipedia": "Pêche Melba"
+    },
+    {
+      "id": "gastronomie-094",
+      "difficulty": 1,
+      "question": "Quelle confiserie turque de sucre et d'amidon, souvent parfumée à la rose, est enrobée de sucre glace ?",
+      "answer": "loukoum",
+      "accept": [
+        "lokoum",
+        "rahat-loukoum"
+      ],
+      "choices": [
+        "halva",
+        "baklava",
+        "nougat"
+      ],
+      "explanation": "Son nom vient de l'arabe « rahat loukoum », le « repos du gosier » ; le mot est attesté en français depuis 1853.",
+      "wikipedia": "Loukoum"
+    },
+    {
+      "id": "gastronomie-095",
+      "difficulty": 3,
+      "question": "Quel chimiste français a fondé avec Nicholas Kurti la gastronomie moléculaire ?",
+      "answer": "Hervé This",
+      "accept": [
+        "This"
+      ],
+      "choices": [
+        "Pierre Gagnaire",
+        "Thierry Marx",
+        "Raymond Blanc"
+      ],
+      "explanation": "En 1988, ce physico-chimiste et le physicien hongrois Nicholas Kurti ont créé la « gastronomie moléculaire et physique ».",
+      "wikipedia": "Hervé This"
+    },
+    {
+      "id": "gastronomie-096",
+      "difficulty": 2,
+      "question": "Quelle sauce à l'estragon et à l'échalote, nommée d'après une province pyrénéenne, fut créée près de Paris ?",
+      "answer": "béarnaise",
+      "accept": [
+        "sauce béarnaise"
+      ],
+      "choices": [
+        "bordelaise",
+        "hollandaise",
+        "choron"
+      ],
+      "explanation": "Selon certaines sources, elle aurait été inventée par Jean-Louis-François Collinet, chef du Pavillon Henri IV à Saint-Germain-en-Laye, qui créa aussi les pommes soufflées.",
+      "wikipedia": "Sauce béarnaise"
+    },
+    {
+      "id": "gastronomie-097",
+      "difficulty": 1,
+      "question": "Quel plat de semoule de blé dur, partagé par l'Algérie, le Maroc, la Tunisie et la Mauritanie, est inscrit à l'UNESCO ?",
+      "answer": "couscous",
+      "accept": [],
+      "choices": [
+        "taboulé",
+        "boulgour",
+        "chorba"
+      ],
+      "explanation": "Les plus anciennes traces connues de couscoussiers ont été retrouvées dans des sépultures du IIIe siècle av. J.-C., à l'époque du roi berbère Massinissa.",
+      "wikipedia": "Couscous"
+    },
+    {
+      "id": "gastronomie-098",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'émulsion de chocolat et de crème chaude qui garnit truffes et gâteaux ?",
+      "answer": "ganache",
+      "accept": [],
+      "choices": [
+        "praliné",
+        "gianduja",
+        "fondant"
+      ],
+      "explanation": "Selon la légende, un apprenti aurait versé par erreur de la crème bouillante sur du chocolat, et son maître l'aurait traité de « ganache », d'abruti.",
+      "wikipedia": "Ganache"
+    },
+    {
+      "id": "gastronomie-099",
+      "difficulty": 1,
+      "question": "Sur quelle préparation flottent les blancs d'œufs en neige de l'île flottante ?",
+      "answer": "crème anglaise",
+      "accept": [
+        "anglaise"
+      ],
+      "choices": [
+        "crème pâtissière",
+        "crème chantilly",
+        "crème diplomate"
+      ],
+      "explanation": "Le dessert s'appelle aussi œufs à la neige ; on le nappe souvent de caramel et on le parsème d'amandes grillées.",
+      "wikipedia": "Œufs à la neige"
+    },
+    {
+      "id": "gastronomie-100",
+      "difficulty": 2,
+      "question": "Quel gâteau couronné de petits choux caramélisés et de crème chiboust porte le nom du patron des boulangers ?",
+      "answer": "saint-honoré",
+      "accept": [
+        "saint honoré"
+      ],
+      "choices": [
+        "paris-brest",
+        "croquembouche",
+        "religieuse"
+      ],
+      "explanation": "Le pâtissier Chiboust l'a créé vers 1840 dans sa boutique de la rue Saint-Honoré, à Paris ; il a aussi donné son nom à la crème.",
+      "wikipedia": "Saint-honoré (pâtisserie)"
+    },
+    {
+      "id": "gastronomie-101",
+      "difficulty": 3,
+      "question": "Quel chef d'Eugénie-les-Bains a lancé dans les années 1970 la « cuisine minceur » ?",
+      "answer": "Michel Guérard",
+      "accept": [
+        "Guérard"
+      ],
+      "choices": [
+        "Michel Bras",
+        "Alain Senderens",
+        "Roger Vergé"
+      ],
+      "explanation": "Installé à Eugénie-les-Bains, station thermale des Landes, il y met au point une cuisine légère et savoureuse qui lui vaut la couverture du magazine Time.",
+      "wikipedia": "Michel Guérard"
+    },
+    {
+      "id": "gastronomie-102",
+      "difficulty": 1,
+      "question": "Quel roi aurait souhaité que chaque laboureur puisse mettre la poule au pot le dimanche ?",
+      "answer": "Henri IV",
+      "accept": [
+        "Henri 4"
+      ],
+      "choices": [
+        "Louis XII",
+        "François Ier",
+        "Saint Louis"
+      ],
+      "explanation": "La formule n'apparaît dans un texte qu'en 1661, sous la plume d'Hardouin de Péréfixe, précepteur de Louis XIV, dans son histoire du roi.",
+      "wikipedia": "Poule au pot"
+    },
+    {
+      "id": "gastronomie-103",
+      "difficulty": 2,
+      "question": "Quel plat milanais de jarret de veau tranché et braisé porte un nom signifiant « os troué » ?",
+      "answer": "osso buco",
+      "accept": [
+        "ossobuco"
+      ],
+      "choices": [
+        "saltimbocca",
+        "vitello tonnato",
+        "piccata"
+      ],
+      "explanation": "Une variante traditionnelle sans tomates est relevée de gremolata, un hachis d'ail, de zeste d'agrume et de persil.",
+      "wikipedia": "Osso buco"
+    },
+    {
+      "id": "gastronomie-104",
+      "difficulty": 2,
+      "question": "Quelle tourte marocaine de feuilles de brick mêle pigeon, amandes, cannelle et sucre glace ?",
+      "answer": "pastilla",
+      "accept": [
+        "bastilla",
+        "bstilla"
+      ],
+      "choices": [
+        "briouate",
+        "harira",
+        "tanjia"
+      ],
+      "explanation": "Ce plat sucré-salé du Maghreb se garnit d'oignons, d'œufs, d'amandes et de coriandre ; on le prépare aussi au poulet ou aux fruits de mer.",
+      "wikipedia": "Pastilla"
+    },
+    {
+      "id": "gastronomie-105",
+      "difficulty": 1,
+      "question": "Quel plat alsacien est une pâte très fine garnie de crème, d'oignons et de lardons, cuite au feu de bois ?",
+      "answer": "flammekueche",
+      "accept": [
+        "tarte flambée"
+      ],
+      "choices": [
+        "baeckeoffe",
+        "quiche",
+        "pissaladière"
+      ],
+      "explanation": "Elle cuit au milieu des flammes d'un four à bois très chaud, contrairement au pain, d'où son nom français de tarte flambée.",
+      "wikipedia": "Tarte flambée"
+    },
+    {
+      "id": "gastronomie-106",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le petit fagot de thym, laurier et persil qui parfume les plats mijotés ?",
+      "answer": "bouquet garni",
+      "accept": [],
+      "choices": [
+        "fines herbes",
+        "herbes de Provence",
+        "persillade"
+      ],
+      "explanation": "Thym et laurier en sont la base ; on y ajoute volontiers persil, céleri ou vert de poireau, et on le retire en fin de cuisson.",
+      "wikipedia": "Bouquet garni"
+    },
+    {
+      "id": "gastronomie-107",
+      "difficulty": 1,
+      "question": "Quel dessert roulé des fêtes de fin d'année imite un morceau de tronc d'arbre ?",
+      "answer": "bûche de Noël",
+      "accept": [
+        "buche de noel",
+        "bûche"
+      ],
+      "choices": [
+        "pudding",
+        "stollen",
+        "panettone"
+      ],
+      "explanation": "Il s'inspire de la coutume, attestée depuis le Moyen Âge, de faire brûler une grosse bûche dans l'âtre la veille de Noël.",
+      "wikipedia": "Bûche de Noël"
+    },
+    {
+      "id": "gastronomie-108",
+      "difficulty": 2,
+      "question": "Quelle sauce mexicaine de Puebla associe piments séchés, épices et chocolat ?",
+      "answer": "mole poblano",
+      "accept": [
+        "mole"
+      ],
+      "choices": [
+        "salsa verde",
+        "pico de gallo",
+        "guacamole"
+      ],
+      "explanation": "La légende situe sa naissance dans un couvent de Puebla, mais il s'agit d'une recette précolombienne enrichie au fil du temps ; on le sert avec du poulet.",
+      "wikipedia": "Mole poblano"
+    },
+    {
+      "id": "gastronomie-109",
+      "difficulty": 1,
+      "question": "Quelle ville belge a donné son nom à une gaufre dense parsemée de sucre perlé ?",
+      "answer": "Liège",
+      "accept": [
+        "Liege"
+      ],
+      "choices": [
+        "Bruxelles",
+        "Namur",
+        "Gand"
+      ],
+      "explanation": "Elle n'a pu exister qu'après l'arrivée du sucre perlé, son ingrédient phare, qui résiste à la chaleur et donne son croquant caractéristique.",
+      "wikipedia": "Gaufre de Liège"
+    },
+    {
+      "id": "gastronomie-110",
+      "difficulty": 3,
+      "question": "Dans quelle ville mexicaine la salade César aurait-elle été inventée par le restaurateur Caesar Cardini ?",
+      "answer": "Tijuana",
+      "accept": [],
+      "choices": [
+        "Ensenada",
+        "Mexicali",
+        "Acapulco"
+      ],
+      "explanation": "La salade aurait été improvisée avec les restes de la cuisine du restaurant Caesar's ; elle associe laitue, croûtons, parmesan et une sauce relevée.",
+      "wikipedia": "Salade César"
+    },
+    {
+      "id": "gastronomie-111",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on en pâtisserie la pâte étalée au rouleau à l'épaisseur voulue, avant de foncer un moule ?",
+      "answer": "abaisse",
+      "accept": [],
+      "choices": [
+        "fonçage",
+        "pâton",
+        "détrempe"
+      ],
+      "explanation": "On l'obtient au rouleau à pâtisserie ou, chez les professionnels, au laminoir ; on parle d'abaisser la pâte.",
+      "wikipedia": "Abaisse"
+    },
+    {
+      "id": "gastronomie-112",
+      "difficulty": 2,
+      "question": "Quel chef français, nommé « cuisinier du siècle » par Gault et Millau, était célèbre pour sa purée de pommes de terre ?",
+      "answer": "Joël Robuchon",
+      "accept": [
+        "Robuchon"
+      ],
+      "choices": [
+        "Alain Ducasse",
+        "Michel Guérard",
+        "Alain Senderens"
+      ],
+      "explanation": "Désigné en 1990 l'un des quatre « cuisiniers du siècle », il était en 2016 le chef le plus étoilé au monde, avec 32 étoiles Michelin.",
+      "wikipedia": "Joël Robuchon"
+    },
+    {
+      "id": "gastronomie-113",
+      "difficulty": 1,
+      "question": "Quel dessert piémontais de crème gélifiée porte un nom signifiant « crème cuite » ?",
+      "answer": "panna cotta",
+      "accept": [
+        "pannacotta"
+      ],
+      "choices": [
+        "zabaione",
+        "semifreddo",
+        "bonet"
+      ],
+      "explanation": "Probablement née au XIXe siècle, elle associe crème, lait et sucre, liés à la gélatine ; on la nappe souvent d'un coulis.",
+      "wikipedia": "Panna cotta"
+    },
+    {
+      "id": "gastronomie-114",
+      "difficulty": 3,
+      "question": "Quel cuisinier carcassonnais a dirigé la rédaction de la première édition du « Larousse gastronomique » en 1938 ?",
+      "answer": "Prosper Montagné",
+      "accept": [
+        "Montagné"
+      ],
+      "choices": [
+        "Édouard Nignon",
+        "Philéas Gilbert",
+        "Urbain Dubois"
+      ],
+      "explanation": "Après une carrière dans les palaces, il fut chef de Ledoyen et du Grand Hôtel de Paris avant de se consacrer à l'écriture gastronomique.",
+      "wikipedia": "Prosper Montagné"
+    },
+    {
+      "id": "gastronomie-115",
+      "difficulty": 2,
+      "question": "Quelle préparation scandinave de saumon cru mariné au sucre, au sel et à l'aneth signifie « saumon enterré » ?",
+      "answer": "gravlax",
+      "accept": [
+        "gravlaks",
+        "gravad lax"
+      ],
+      "choices": [
+        "lutefisk",
+        "surströmming",
+        "smørrebrød"
+      ],
+      "explanation": "Des pêcheurs scandinaves, peut-être dès l'époque des Vikings, salaient le saumon avant de l'enfouir pour le conserver, d'où son nom.",
+      "wikipedia": "Gravlax"
+    },
+    {
+      "id": "gastronomie-116",
+      "difficulty": 2,
+      "question": "Quel pain de Noël allemand aux fruits secs, couvert de sucre glace, a pour capitale Dresde ?",
+      "answer": "stollen",
+      "accept": [
+        "christstollen"
+      ],
+      "choices": [
+        "lebkuchen",
+        "kouglof",
+        "panettone"
+      ],
+      "explanation": "Sa forme évoquerait l'Enfant Jésus dans ses langes, d'où son autre nom de Christstollen ; de nombreuses villes en revendiquent la paternité.",
+      "wikipedia": "Christstollen"
+    },
+    {
+      "id": "gastronomie-117",
+      "difficulty": 3,
+      "question": "Comment appelait-on la sauce de poisson fermenté au sel, condiment favori des Romains de l'Antiquité ?",
+      "answer": "garum",
+      "accept": [
+        "liquamen"
+      ],
+      "choices": [
+        "defrutum",
+        "mulsum",
+        "posca"
+      ],
+      "explanation": "Il était fait de chairs ou de viscères de poisson macérés longuement dans beaucoup de sel ; les Grecs l'appelaient garos.",
+      "wikipedia": "Garum"
+    },
+    {
+      "id": "gastronomie-118",
+      "difficulty": 2,
+      "question": "Quel marché de gros du Val-de-Marne a remplacé les Halles de Paris à la fin des années 1960 ?",
+      "answer": "Rungis",
+      "accept": [
+        "marché de Rungis"
+      ],
+      "choices": [
+        "Saint-Ouen",
+        "Massy",
+        "Orly"
+      ],
+      "explanation": "Le déménagement historique des Halles de Paris, installées au cœur de la capitale depuis le Moyen Âge, vers Rungis eut lieu en 1969.",
+      "wikipedia": "Marché d'intérêt national de Rungis"
+    },
+    {
+      "id": "gastronomie-119",
+      "difficulty": 2,
+      "question": "Quel gastronome français a signé « Physiologie du goût », parue en 1825 ?",
+      "answer": "Brillat-Savarin",
+      "accept": [
+        "Jean Anthelme Brillat-Savarin"
+      ],
+      "choices": [
+        "Grimod de La Reynière",
+        "Curnonsky",
+        "Prosper Montagné"
+      ],
+      "explanation": "On lui doit l'aphorisme « Dis-moi ce que tu manges, je te dirai ce que tu es », l'un des vingt qui ouvrent son livre.",
+      "wikipedia": "Jean Anthelme Brillat-Savarin"
+    },
+    {
+      "id": "gastronomie-120",
+      "difficulty": 2,
+      "question": "Quel compositeur italien gourmet a donné son nom à un tournedos garni de foie gras poêlé et de truffe ?",
+      "answer": "Rossini",
+      "accept": [
+        "Gioachino Rossini"
+      ],
+      "choices": [
+        "Verdi",
+        "Puccini",
+        "Donizetti"
+      ],
+      "explanation": "Sa paternité est disputée entre Modeste Magny, Marie-Antoine Carême et Casimir Moisson ; il se nappe d'une sauce au madère.",
+      "wikipedia": "Tournedos Rossini"
+    },
+    {
+      "id": "gastronomie-121",
+      "difficulty": 1,
+      "question": "Quelle pâtisserie fourrée de crème a été baptisée par Brigitte Bardot sur le tournage de « Et Dieu… créa la femme » ?",
+      "answer": "tarte tropézienne",
+      "accept": [
+        "tropézienne"
+      ],
+      "choices": [
+        "fraisier",
+        "sacristain",
+        "saint-honoré"
+      ],
+      "explanation": "En 1955, le pâtissier Alexandre Micka nourrissait l'équipe du film de Roger Vadim, tourné à Saint-Tropez ; l'actrice lui aurait suggéré le nom.",
+      "wikipedia": "Tarte tropézienne"
+    },
+    {
+      "id": "gastronomie-122",
+      "difficulty": 1,
+      "question": "Quelle brioche alsacienne aux raisins secs, en forme de couronne, cuit dans un moule en terre vernissée ?",
+      "answer": "kouglof",
+      "accept": [
+        "kougelhopf",
+        "kugelhopf"
+      ],
+      "choices": [
+        "bretzel",
+        "mannele",
+        "baeckeoffe"
+      ],
+      "explanation": "Son moule haut et cannelé, percé d'une cheminée centrale, est traditionnellement fabriqué en poterie émaillée, notamment à Soufflenheim.",
+      "wikipedia": "Kougelhopf"
+    },
+    {
+      "id": "gastronomie-123",
+      "difficulty": 2,
+      "question": "Quel dessert flambé, nappé d'un beurre à l'orange et au Grand Marnier, porterait le prénom d'une comédienne ?",
+      "answer": "crêpe Suzette",
+      "accept": [
+        "crepe suzette",
+        "suzette"
+      ],
+      "choices": [
+        "crêpe Mireille",
+        "crêpe Fanny",
+        "crêpe Ninon"
+      ],
+      "explanation": "Selon une hypothèse, le prince de Galles, futur Édouard VII, aurait suggéré de lui donner le prénom de l'actrice Suzanne Reichenberg.",
+      "wikipedia": "Crêpe Suzette"
+    },
+    {
+      "id": "gastronomie-124",
+      "difficulty": 3,
+      "question": "Quel cuisinier publia en 1651 « Le Cuisinier françois », qui rompt avec la cuisine épicée du Moyen Âge ?",
+      "answer": "La Varenne",
+      "accept": [
+        "François Pierre de La Varenne"
+      ],
+      "choices": [
+        "Menon",
+        "Massialot",
+        "Taillevent"
+      ],
+      "explanation": "Cuisinier du marquis d'Uxelles, gouverneur de Chalon-sur-Saône, il y emploie pour la première fois des expressions comme « au bleu » ou « au naturel ».",
+      "wikipedia": "François Pierre de La Varenne"
+    },
+    {
+      "id": "gastronomie-125",
+      "difficulty": 2,
+      "question": "Comment s'appelle le mode de cuisson doux où un récipient est plongé dans de l'eau chaude ?",
+      "answer": "bain-marie",
+      "accept": [
+        "bain marie"
+      ],
+      "choices": [
+        "étuvée",
+        "pochage",
+        "papillote"
+      ],
+      "explanation": "Son nom viendrait du « bain de Marie » des alchimistes, en référence à Marie la Juive, à qui l'on attribue l'invention de ce procédé.",
+      "wikipedia": "Bain-marie"
+    },
+    {
+      "id": "gastronomie-126",
+      "difficulty": 1,
+      "question": "Quelle pâtisserie de pâte filo, de fruits secs et de sirop de miel est un emblème de la cuisine turque ?",
+      "answer": "baklava",
+      "accept": [],
+      "choices": [
+        "loukoum",
+        "halva",
+        "kadaïf"
+      ],
+      "explanation": "Depuis 2013, la variété turque de Gaziantep, Antep baklavası, bénéficie d'une indication géographique protégée accordée par l'Union européenne.",
+      "wikipedia": "Baklava"
+    },
+    {
+      "id": "gastronomie-127",
+      "difficulty": 2,
+      "question": "Quel titre se reconnaît chez les cuisiniers au col bleu-blanc-rouge de leur veste ?",
+      "answer": "Meilleur ouvrier de France",
+      "accept": [
+        "MOF",
+        "meilleur ouvrier"
+      ],
+      "choices": [
+        "Bocuse d'or",
+        "chef étoilé",
+        "maître cuisinier"
+      ],
+      "explanation": "Ce concours, organisé depuis 1924 tous les trois ou quatre ans, distingue de nombreux métiers ; les lauréats reçoivent leur médaille à la Sorbonne.",
+      "wikipedia": "Meilleur ouvrier de France"
+    },
+    {
+      "id": "gastronomie-128",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la découpe de feuilles de salade ou d'oseille roulées en fines lanières ?",
+      "answer": "chiffonnade",
+      "accept": [],
+      "choices": [
+        "julienne",
+        "paysanne",
+        "macédoine"
+      ],
+      "explanation": "La première édition du « Larousse gastronomique », en 1938, la définit comme un mélange d'oseille et de laitue détaillées en minces lanières.",
+      "wikipedia": "Chiffonnade"
+    },
+    {
+      "id": "gastronomie-129",
+      "difficulty": 3,
+      "question": "Quel ragoût indonésien de bœuf longuement mijoté au lait de coco est une spécialité du peuple minangkabau ?",
+      "answer": "rendang",
+      "accept": [],
+      "choices": [
+        "satay",
+        "gado-gado",
+        "soto"
+      ],
+      "explanation": "Préparé avec de la viande, du lait de coco et des épices, il est aujourd'hui consommé dans toute l'Indonésie et en Malaisie.",
+      "wikipedia": "Rendang"
+    },
+    {
+      "id": "gastronomie-130",
+      "difficulty": 1,
+      "question": "Quelle préparation de porc cuite longuement dans sa graisse puis effilochée fait la réputation de Tours et du Mans ?",
+      "answer": "rillettes",
+      "accept": [],
+      "choices": [
+        "rillons",
+        "grattons",
+        "terrine"
+      ],
+      "explanation": "Nées au XVe siècle en Touraine, elles y bénéficient d'une indication géographique protégée sous le nom de rillettes de Tours.",
+      "wikipedia": "Rillettes"
+    },
+    {
+      "id": "gastronomie-131",
+      "difficulty": 1,
+      "question": "Quels beignets espagnols en bâtonnets cannelés se trempent volontiers dans un chocolat chaud épais ?",
+      "answer": "churros",
+      "accept": [
+        "churro"
+      ],
+      "choices": [
+        "buñuelos",
+        "porras",
+        "sopaipillas"
+      ],
+      "explanation": "En Espagne, la pâte est poussée à travers une buse en forme d'étoile, ce qui leur donne leurs stries et leur croustillant caractéristiques.",
+      "wikipedia": "Churro"
+    },
+    {
+      "id": "gastronomie-132",
+      "difficulty": 1,
+      "question": "Quelle recette romaine de pâtes associe guanciale, jaune d'œuf, pecorino et poivre noir, sans aucune crème ?",
+      "answer": "carbonara",
+      "accept": [
+        "pâtes à la carbonara",
+        "spaghetti alla carbonara"
+      ],
+      "choices": [
+        "amatriciana",
+        "cacio e pepe",
+        "arrabbiata"
+      ],
+      "explanation": "La recette, considérée comme originaire de Rome, lie les pâtes d'une émulsion de jaunes d'œufs, de pecorino râpé et d'un peu d'eau de cuisson.",
+      "wikipedia": "Pâtes à la carbonara"
+    },
+    {
+      "id": "gastronomie-133",
+      "difficulty": 1,
+      "question": "Quelle sauce blanche au lait, liée d'un roux, porterait le nom d'un financier de la cour de Louis XIV ?",
+      "answer": "béchamel",
+      "accept": [
+        "bechamel"
+      ],
+      "choices": [
+        "velouté",
+        "mornay",
+        "sauce suprême"
+      ],
+      "explanation": "Louis de Béchameil n'aurait fait que perfectionner une sauce à la crème plus ancienne ; c'est l'une des sauces mères de la cuisine française.",
+      "wikipedia": "Sauce béchamel"
+    },
+    {
+      "id": "gastronomie-134",
+      "difficulty": 2,
+      "question": "Quelle grande crêpe éthiopienne fermentée, faite de teff, sert à la fois d'assiette et de couverts ?",
+      "answer": "injera",
+      "accept": [
+        "enjera"
+      ],
+      "choices": [
+        "chapati",
+        "msemen",
+        "lahoh"
+      ],
+      "explanation": "Typique des cuisines éthiopienne et érythréenne, on la déchire à la main pour saisir les ragoûts épicés posés dessus, appelés wat.",
+      "wikipedia": "Injera"
+    },
+    {
+      "id": "gastronomie-135",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les tranches de baguette rassise trempées dans du lait et des œufs, puis dorées à la poêle ?",
+      "answer": "pain perdu",
+      "accept": [],
+      "choices": [
+        "pain d'épices",
+        "croûton",
+        "pudding"
+      ],
+      "explanation": "Il permettait de ne pas gaspiller le pain rassis ; on l'appelle pain doré au Québec et French toast en anglais.",
+      "wikipedia": "Pain perdu"
+    },
+    {
+      "id": "gastronomie-136",
+      "difficulty": 2,
+      "question": "Quel guide gastronomique français distingue les restaurants par des toques plutôt que par des étoiles ?",
+      "answer": "Gault et Millau",
+      "accept": [
+        "Gault & Millau",
+        "Gault-Millau"
+      ],
+      "choices": [
+        "Michelin",
+        "Champérard",
+        "Pudlo"
+      ],
+      "explanation": "Fondé en 1972 par les journalistes Henri Gault et Christian Millau, il est étroitement lié à l'essor de la nouvelle cuisine.",
+      "wikipedia": "Gault et Millau"
+    },
+    {
+      "id": "gastronomie-137",
+      "difficulty": 2,
+      "question": "Quelle région espagnole est le berceau de la paella, à l'origine préparée avec du lapin, du poulet et des haricots ?",
+      "answer": "Valence",
+      "accept": [
+        "Communauté valencienne"
+      ],
+      "choices": [
+        "Andalousie",
+        "Catalogne",
+        "Murcie"
+      ],
+      "explanation": "Plat emblématique de la cuisine espagnole à base de riz rond, elle tient son nom de la grande poêle dans laquelle on la cuisine.",
+      "wikipedia": "Paella"
+    },
+    {
+      "id": "gastronomie-138",
+      "difficulty": 2,
+      "question": "Quel ragoût flamand de bœuf est mijoté dans de la bière, avec pain d'épices et cassonade ?",
+      "answer": "carbonade flamande",
+      "accept": [
+        "carbonade",
+        "carbonnade flamande",
+        "carbonnade"
+      ],
+      "choices": [
+        "waterzooi",
+        "potjevleesch",
+        "hochepot"
+      ],
+      "explanation": "On l'épaissit souvent avec du pain d'épices tartiné de moutarde, et on l'adoucit d'un peu de cassonade, nom belge de la vergeoise.",
+      "wikipedia": "Carbonade flamande"
+    },
+    {
+      "id": "gastronomie-139",
+      "difficulty": 1,
+      "question": "Quelle confiserie en forme de navette, à pâte d'amande et melon confit, est la spécialité d'Aix-en-Provence ?",
+      "answer": "calisson",
+      "accept": [],
+      "choices": [
+        "navette",
+        "berlingot",
+        "nougat"
+      ],
+      "explanation": "Le calisson est recouvert d'une fine couche de glace royale et posé sur une feuille de pain azyme.",
+      "wikipedia": "Calisson"
+    },
+    {
+      "id": "gastronomie-140",
+      "difficulty": 3,
+      "question": "Quel mélange aromatique de dés de carottes, d'oignons et de céleri porterait le nom d'un duc du XVIIIe siècle ?",
+      "answer": "mirepoix",
+      "accept": [],
+      "choices": [
+        "matignon",
+        "brunoise",
+        "duxelles"
+      ],
+      "explanation": "Le terme viendrait du premier duc de Mirepoix, de la famille de Lévis, dont le cuisinier aurait inventé la recette sous Louis XV.",
+      "wikipedia": "Mirepoix (cuisine)"
+    },
+    {
+      "id": "gastronomie-141",
+      "difficulty": 1,
+      "question": "Quel plat suisse consiste à faire fondre une meule de fromage pour la racler sur des pommes de terre ?",
+      "answer": "raclette",
+      "accept": [],
+      "choices": [
+        "fondue",
+        "rösti",
+        "croûte au fromage"
+      ],
+      "explanation": "Originaire du canton du Valais, où on la pratique depuis le Moyen Âge, elle s'accompagne de pommes de terre en robe des champs, de cornichons et d'oignons.",
+      "wikipedia": "Raclette"
+    },
+    {
+      "id": "gastronomie-142",
+      "difficulty": 1,
+      "question": "Quel petit gâteau bordelais à croûte caramélisée, parfumé au rhum et à la vanille, cuit dans un moule cannelé ?",
+      "answer": "canelé",
+      "accept": [
+        "cannelé"
+      ],
+      "choices": [
+        "financier",
+        "baba",
+        "madeleine"
+      ],
+      "explanation": "Cuit dans un moule cannelé à l'origine en cuivre, il doit à ce métal sa fine croûte caramélisée ; l'Académie française préconise l'orthographe « cannelé ».",
+      "wikipedia": "Cannelé"
+    },
+    {
+      "id": "gastronomie-143",
+      "difficulty": 2,
+      "question": "Quelle galette de pommes de terre râpées a donné son nom à la frontière culturelle entre Suisses romands et alémaniques ?",
+      "answer": "rösti",
+      "accept": [
+        "rosti",
+        "röstis"
+      ],
+      "choices": [
+        "raclette",
+        "älplermagronen",
+        "croûte au fromage"
+      ],
+      "explanation": "Typiques de la Suisse alémanique, ils ont donné son nom au « Röstigraben », le fossé symbolique entre Romands et Alémaniques.",
+      "wikipedia": "Rösti"
+    },
+    {
+      "id": "gastronomie-144",
+      "difficulty": 1,
+      "question": "Quel petit gâteau rond, fait de deux coques à la poudre d'amande réunies par une garniture, se décline en couleurs pastel ?",
+      "answer": "macaron",
+      "accept": [],
+      "choices": [
+        "financier",
+        "rocher",
+        "congolais"
+      ],
+      "explanation": "À Paris, le salon de thé Pons puis la maison Ladurée l'ont popularisé, Ladurée le teintant de tons pastel qui indiquent son parfum.",
+      "wikipedia": "Macaron"
+    },
+    {
+      "id": "gastronomie-145",
+      "difficulty": 2,
+      "question": "Quel oiseau de basse-cour AOP arbore les couleurs du drapeau français : crête rouge, plumage blanc et pattes bleues ?",
+      "answer": "poulet de Bresse",
+      "accept": [
+        "volaille de Bresse",
+        "Bresse"
+      ],
+      "choices": [
+        "poulet de Loué",
+        "poulet des Landes",
+        "poularde du Mans"
+      ],
+      "explanation": "L'appellation, obtenue en 1957, couvre poulet, poularde, chapon et dinde élevés dans la Bresse, entre Ain, Saône-et-Loire et Jura.",
+      "wikipedia": "Volaille de Bresse"
+    },
+    {
+      "id": "gastronomie-146",
+      "difficulty": 3,
+      "question": "Sous quel pseudonyme Maurice Edmond Sailland fut-il élu « prince des gastronomes » ?",
+      "answer": "Curnonsky",
+      "accept": [],
+      "choices": [
+        "Grimod",
+        "Pampille",
+        "Ali-Bab"
+      ],
+      "explanation": "Romancier, humoriste et critique culinaire né à Angers, il fut l'une des figures majeures de la gastronomie française de l'entre-deux-guerres.",
+      "wikipedia": "Curnonsky"
+    },
+    {
+      "id": "gastronomie-147",
+      "difficulty": 3,
+      "question": "Quelle ville ardéchoise est la capitale du marron glacé ?",
+      "answer": "Privas",
+      "accept": [],
+      "choices": [
+        "Aubenas",
+        "Annonay",
+        "Tournon-sur-Rhône"
+      ],
+      "explanation": "Clément Faugier, natif de la ville, y lança à la fin du XIXe siècle une entreprise spécialisée dans les recettes à base de châtaigne d'Ardèche.",
+      "wikipedia": "Privas"
+    },
+    {
+      "id": "gastronomie-148",
+      "difficulty": 2,
+      "question": "Quel restaurant parisien du quai de la Tournelle numérote chacun de ses canards au sang depuis la fin du XIXe siècle ?",
+      "answer": "La Tour d'Argent",
+      "accept": [
+        "Tour d'Argent"
+      ],
+      "choices": [
+        "Le Grand Véfour",
+        "Lapérouse",
+        "Ledoyen"
+      ],
+      "explanation": "En 1890, Frédéric Delair décida de numéroter chaque canard, dont il achevait la préparation devant le client.",
+      "wikipedia": "La Tour d'Argent"
+    },
+    {
+      "id": "gastronomie-149",
+      "difficulty": 2,
+      "question": "Quelle ville du Gard a donné son nom à une brandade de morue à l'huile d'olive ?",
+      "answer": "Nîmes",
+      "accept": [
+        "Nimes"
+      ],
+      "choices": [
+        "Alès",
+        "Uzès",
+        "Beaucaire"
+      ],
+      "explanation": "Ce mets de morue, d'huile d'olive et d'ail s'est répandu dans toute l'Occitanie, du Languedoc à la Ligurie en passant par la Provence.",
+      "wikipedia": "Brandade de morue"
+    },
+    {
+      "id": "gastronomie-150",
+      "difficulty": 3,
+      "question": "À quel roi de Pologne, devenu duc de Lorraine, la tradition attribue-t-elle l'invention du baba ?",
+      "answer": "Stanislas Leszczynski",
+      "accept": [
+        "Stanislas",
+        "Stanislas Leszczyński"
+      ],
+      "choices": [
+        "Auguste II",
+        "Jean III Sobieski",
+        "Sigismond III"
+      ],
+      "explanation": "Selon certaines versions, Stanislas aurait trouvé son kougelhopf trop sec et l'aurait imbibé d'alcool ; son pâtissier Nicolas Stohrer en serait l'inventeur.",
+      "wikipedia": "Baba au rhum"
+    },
+    {
+      "id": "gastronomie-151",
+      "difficulty": 3,
+      "question": "Quel plat picard est une crêpe roulée autour d'une tranche de jambon et d'une duxelles, gratinée à la crème ?",
+      "answer": "ficelle picarde",
+      "accept": [],
+      "choices": [
+        "flamiche",
+        "welsh",
+        "gâteau battu"
+      ],
+      "explanation": "Elle a été créée dans les années 1950 à Amiens par le cuisinier Marcel Lefèvre ; on la sert en entrée ou en plat principal.",
+      "wikipedia": "Ficelle picarde"
+    },
+    {
+      "id": "gastronomie-152",
+      "difficulty": 2,
+      "question": "Quel dessert de fruit poché, glace vanille et chocolat chaud rend hommage à une opérette d'Offenbach ?",
+      "answer": "poire Belle-Hélène",
+      "accept": [
+        "poire belle helene"
+      ],
+      "choices": [
+        "pêche Melba",
+        "coupe Danemark",
+        "poire Bourdaloue"
+      ],
+      "explanation": "Après la création de « La Belle Hélène » au théâtre des Variétés en 1864, plusieurs restaurants des Boulevards baptisèrent leurs plats d'après l'œuvre.",
+      "wikipedia": "Poire Belle-Hélène"
+    },
+    {
+      "id": "gastronomie-153",
+      "difficulty": 2,
+      "question": "Quelle friture japonaise de légumes et de crevettes aurait été introduite par des missionnaires portugais ?",
+      "answer": "tempura",
+      "accept": [
+        "tenpura"
+      ],
+      "choices": [
+        "tonkatsu",
+        "karaage",
+        "yakitori"
+      ],
+      "explanation": "Elle s'inspire des peixinhos da horta, beignets de haricots verts apportés au Japon par des missionnaires jésuites portugais.",
+      "wikipedia": "Tempura"
+    },
+    {
+      "id": "gastronomie-154",
+      "difficulty": 1,
+      "question": "Quelles petites crêpes épaisses à la levure accompagnent en Russie le caviar ou la crème aigre ?",
+      "answer": "blinis",
+      "accept": [
+        "blini"
+      ],
+      "choices": [
+        "pelmeni",
+        "pirojki",
+        "syrniki"
+      ],
+      "explanation": "Ronds et dorés, ils symbolisaient le soleil chez les Slaves et sont toujours cuits pour la Maslenitsa, la fête de la fin de l'hiver.",
+      "wikipedia": "Blini"
+    },
+    {
+      "id": "gastronomie-155",
+      "difficulty": 1,
+      "question": "Quel dessert limousin est préparé avec des cerises noires, traditionnellement non dénoyautées, noyées dans une pâte à flan ?",
+      "answer": "clafoutis",
+      "accept": [],
+      "choices": [
+        "far breton",
+        "flognarde",
+        "millas"
+      ],
+      "explanation": "Préparé avec d'autres fruits que la cerise, comme les pommes ou les poires, il prend en Limousin le nom de flognarde.",
+      "wikipedia": "Clafoutis"
+    },
+    {
+      "id": "gastronomie-156",
+      "difficulty": 2,
+      "question": "Quelle préparation lyonnaise en fuseau, souvent au brochet, se sert nappée de sauce Nantua ?",
+      "answer": "quenelle",
+      "accept": [
+        "quenelles"
+      ],
+      "choices": [
+        "andouillette",
+        "cervelas",
+        "boudin blanc"
+      ],
+      "explanation": "La quenelle de brochet sauce Nantua, à base d'écrevisses, est l'un des plats emblématiques de la cuisine lyonnaise.",
+      "wikipedia": "Quenelle"
+    },
+    {
+      "id": "gastronomie-157",
+      "difficulty": 3,
+      "question": "Quelle tourte de la ville de Sète est garnie de poulpe ou de calamars à la sauce tomate pimentée ?",
+      "answer": "tielle",
+      "accept": [
+        "tielle sétoise"
+      ],
+      "choices": [
+        "bourride",
+        "pissaladière",
+        "encornet farci"
+      ],
+      "explanation": "Cette tourte, apparue au XXe siècle, a été apportée à Sète par des pêcheurs venus de Gaète, en Italie, qui la nommaient « tiella ».",
+      "wikipedia": "Tielle"
+    },
+    {
+      "id": "gastronomie-158",
+      "difficulty": 2,
+      "question": "Quelle soupe vietnamienne de nouilles de riz, au bouillon de bœuf parfumé, est originaire du nord du pays ?",
+      "answer": "phở",
+      "accept": [
+        "pho"
+      ],
+      "choices": [
+        "bún bò",
+        "ramen",
+        "laksa"
+      ],
+      "explanation": "Originaire de la province de Nam Định, près de Hanoï, elle serait inspirée du pot-au-feu français ; c'est aujourd'hui le plat national du Viêt Nam.",
+      "wikipedia": "Phở"
+    },
+    {
+      "id": "gastronomie-159",
+      "difficulty": 2,
+      "question": "Quel biscuit belge à la cassonade et à la cannelle est traditionnellement offert à la Saint-Nicolas ?",
+      "answer": "spéculoos",
+      "accept": [
+        "speculoos",
+        "spekulatius"
+      ],
+      "choices": [
+        "gaufrette",
+        "pain d'épices",
+        "bernardin"
+      ],
+      "explanation": "Originaire de l'ancien comté de Flandre, il est souvent moulé à l'effigie de saint Nicolas, mais aussi de saint Martin ou d'animaux.",
+      "wikipedia": "Spéculoos"
+    },
+    {
+      "id": "gastronomie-160",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on le mélange de farine, d'eau et de sel dans lequel on enferme le beurre pour la pâte feuilletée ?",
+      "answer": "détrempe",
+      "accept": [],
+      "choices": [
+        "abaisse",
+        "pâton",
+        "fontaine"
+      ],
+      "explanation": "On y ajoute le beurre, puis on plie et on étale la pâte à plusieurs reprises : ce sont les tours qui créent le feuilletage.",
+      "wikipedia": "Pâte feuilletée"
+    },
+    {
+      "id": "gastronomie-161",
+      "difficulty": 1,
+      "question": "Quel chef lyonnais, « pape de la gastronomie », a donné son nom à un concours mondial de cuisine ?",
+      "answer": "Paul Bocuse",
+      "accept": [
+        "Bocuse"
+      ],
+      "choices": [
+        "Alain Chapel",
+        "Pierre Troisgros",
+        "Joël Robuchon"
+      ],
+      "explanation": "Son restaurant de Collonges-au-Mont-d'Or, près de Lyon, a conservé trois étoiles au guide Michelin pendant plus d'un demi-siècle.",
+      "wikipedia": "Paul Bocuse"
+    },
+    {
+      "id": "gastronomie-162",
+      "difficulty": 1,
+      "question": "Quelle soupe froide andalouse se prépare avec tomates, concombre, poivron, ail, pain et huile d'olive ?",
+      "answer": "gaspacho",
+      "accept": [
+        "gazpacho"
+      ],
+      "choices": [
+        "salmorejo",
+        "minestrone",
+        "ajoblanco"
+      ],
+      "explanation": "Probablement né au XVIe siècle, il se sert en entrée, en tapas ou en plat principal ; le Portugal en connaît une variante, le gaspacho alentejo.",
+      "wikipedia": "Gaspacho"
+    },
+    {
+      "id": "gastronomie-163",
+      "difficulty": 2,
+      "question": "Quel plat écossais est fait d'abats de mouton, d'avoine et d'oignon cuits dans une panse ?",
+      "answer": "haggis",
+      "accept": [],
+      "choices": [
+        "black pudding",
+        "scotch egg",
+        "shepherd's pie"
+      ],
+      "explanation": "Il est servi chaque 25 janvier lors de la Burns Night, dîner donné en hommage au poète écossais Robert Burns.",
+      "wikipedia": "Haggis"
+    },
+    {
+      "id": "gastronomie-164",
+      "difficulty": 2,
+      "question": "Comment s'appelle le four cylindrique en argile qui sert à cuire naan et poulet en Inde ?",
+      "answer": "tandoor",
+      "accept": [
+        "tandour"
+      ],
+      "choices": [
+        "tajine",
+        "tava",
+        "handi"
+      ],
+      "explanation": "Ce four en forme de jarre, souvent enterré, est chauffé aux braises ; il a donné son nom à la cuisine tandoori.",
+      "wikipedia": "Tandoor"
+    },
+    {
+      "id": "gastronomie-165",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le sandwich grillé au jambon et au fromage surmonté d'un œuf au plat ?",
+      "answer": "croque-madame",
+      "accept": [
+        "croque madame"
+      ],
+      "choices": [
+        "croque-mademoiselle",
+        "croque-princesse",
+        "croque-paysan"
+      ],
+      "explanation": "Marcel Proust mentionne déjà le croque-monsieur en 1919 dans « À l'ombre des jeunes filles en fleurs » ; le croque-madame apparaît plus tardivement.",
+      "wikipedia": "Croque-monsieur"
+    },
+    {
+      "id": "gastronomie-166",
+      "difficulty": 1,
+      "question": "Quel dessert vanillé aux jaunes d'œufs se reconnaît à sa fine croûte de sucre caramélisée au chalumeau ?",
+      "answer": "crème brûlée",
+      "accept": [
+        "creme brulee"
+      ],
+      "choices": [
+        "crème caramel",
+        "crème catalane",
+        "flan pâtissier"
+      ],
+      "explanation": "Elle a pour cousines la crème caramel et la crème catalane ; on la sert froide à cœur et caramélisée en surface, juste avant la dégustation.",
+      "wikipedia": "Crème brûlée"
+    },
+    {
+      "id": "gastronomie-167",
+      "difficulty": 1,
+      "question": "Quelle purée de pois chiches à la crème de sésame est une spécialité du Proche-Orient ?",
+      "answer": "houmous",
+      "accept": [
+        "hoummos",
+        "hummus"
+      ],
+      "choices": [
+        "tahini",
+        "baba ganoush",
+        "moutabal"
+      ],
+      "explanation": "Son nom signifie simplement « pois chiche » en arabe ; la crème de sésame qui le lie s'appelle tahini.",
+      "wikipedia": "Houmous"
+    },
+    {
+      "id": "gastronomie-168",
+      "difficulty": 2,
+      "question": "Quelle crème mousseuse de jaunes d'œufs, de sucre et de vin, fouettée au bain-marie, vient de l'italien zabaione ?",
+      "answer": "sabayon",
+      "accept": [],
+      "choices": [
+        "crème anglaise",
+        "crème bavaroise",
+        "crème mousseline"
+      ],
+      "explanation": "Spécialité italienne, il est souvent parfumé au marsala, mais aussi à la vanille ou à la cannelle, et se sert tiède.",
+      "wikipedia": "Sabayon"
+    },
+    {
+      "id": "gastronomie-169",
+      "difficulty": 1,
+      "question": "Quelle sauce génoise au basilic pilé, pignons de pin, ail, parmesan et huile d'olive se prépare traditionnellement au mortier ?",
+      "answer": "pesto",
+      "accept": [],
+      "choices": [
+        "pistou",
+        "chimichurri",
+        "gremolata"
+      ],
+      "explanation": "Son nom vient du verbe « pestare », piler ; le pistou provençal, son cousin, se prépare sans pignons ni fromage de brebis.",
+      "wikipedia": "Pesto"
+    },
+    {
+      "id": "gastronomie-170",
+      "difficulty": 2,
+      "question": "De quelle ville normande les tripes de bœuf cuites des heures au cidre et au calvados portent-elles le nom ?",
+      "answer": "Caen",
+      "accept": [],
+      "choices": [
+        "Vire",
+        "Lisieux",
+        "Bayeux"
+      ],
+      "explanation": "Elles cuisent dans une tripière en terre dont le couvercle est luté d'un cordon de pâte ; une confrérie, la Tripière d'or, les célèbre depuis 1951.",
+      "wikipedia": "Tripes à la mode de Caen"
+    },
+    {
+      "id": "gastronomie-171",
+      "difficulty": 1,
+      "question": "Quelle volaille rôtie à la peau croustillante et vernie est la spécialité la plus célèbre de la capitale chinoise ?",
+      "answer": "canard laqué",
+      "accept": [
+        "canard laqué de Pékin"
+      ],
+      "choices": [
+        "canard à l'orange",
+        "canard mandarin",
+        "canard au sang"
+      ],
+      "explanation": "On le présente découpé devant le convive, puis on le roule dans de fines galettes avec de la ciboule et une sauce.",
+      "wikipedia": "Canard laqué de Pékin"
+    },
+    {
+      "id": "gastronomie-172",
+      "difficulty": 1,
+      "question": "Quel plat familial de bœuf bouilli avec carottes, poireaux, navets et os à moelle donne aussi un bouillon ?",
+      "answer": "pot-au-feu",
+      "accept": [
+        "pot au feu"
+      ],
+      "choices": [
+        "potée",
+        "blanquette",
+        "garbure"
+      ],
+      "explanation": "On y associe des morceaux gélatineux comme le jarret ou la queue et des morceaux plus maigres comme le paleron ou la macreuse.",
+      "wikipedia": "Pot-au-feu"
+    },
+    {
+      "id": "gastronomie-173",
+      "difficulty": 2,
+      "question": "Quelle ville de la Meuse est réputée depuis le Moyen Âge pour ses dragées aux amandes ?",
+      "answer": "Verdun",
+      "accept": [],
+      "choices": [
+        "Bar-le-Duc",
+        "Commercy",
+        "Saint-Mihiel"
+      ],
+      "explanation": "La dragée, amande enrobée de sucre, est traditionnellement offerte lors des baptêmes, des mariages et des communions.",
+      "wikipedia": "Dragée"
+    },
+    {
+      "id": "gastronomie-174",
+      "difficulty": 3,
+      "question": "Quelle ville du Loiret a donné son nom à un gâteau feuilleté fourré de crème d'amande, rosace dessinée sur le dessus ?",
+      "answer": "Pithiviers",
+      "accept": [],
+      "choices": [
+        "Montargis",
+        "Gien",
+        "Orléans"
+      ],
+      "explanation": "Ce gâteau, dont l'invention remonte au XVIIe siècle, existe aussi en version salée, servie en entrée.",
+      "wikipedia": "Pithiviers (pâtisserie)"
+    },
+    {
+      "id": "gastronomie-175",
+      "difficulty": 1,
+      "question": "Quel plat grec superpose aubergines, viande hachée et sauce béchamel gratinée ?",
+      "answer": "moussaka",
+      "accept": [],
+      "choices": [
+        "pastitsio",
+        "souvlaki",
+        "dolmadès"
+      ],
+      "explanation": "Sa version grecque moderne, nappée de béchamel, date des années 1910 et est due au cuisinier Nikólaos Tselementés, influencé par la cuisine française.",
+      "wikipedia": "Moussaka"
+    },
+    {
+      "id": "gastronomie-176",
+      "difficulty": 1,
+      "question": "Quelle viennoiserie feuilletée en forme de lune naissante descendrait du kipferl autrichien ?",
+      "answer": "croissant",
+      "accept": [],
+      "choices": [
+        "brioche",
+        "pain aux raisins",
+        "chausson"
+      ],
+      "explanation": "Il n'est devenu un symbole français qu'au XXe siècle, quand les boulangers parisiens ont remplacé la pâte briochée du kipferl par une pâte feuilletée levée.",
+      "wikipedia": "Croissant (viennoiserie)"
+    },
+    {
+      "id": "gastronomie-177",
+      "difficulty": 2,
+      "question": "Quel ingrédient, sous forme de pâte, donne sa sauce onctueuse au mafé ouest-africain ?",
+      "answer": "arachide",
+      "accept": [
+        "cacahuète",
+        "beurre de cacahuète",
+        "pâte d'arachide"
+      ],
+      "choices": [
+        "noix de coco",
+        "sésame",
+        "noix de cajou"
+      ],
+      "explanation": "Né chez les peuples mandingues du Mali, le mafé se préparait avant l'arrivée de l'arachide avec le pois bambara.",
+      "wikipedia": "Mafé"
+    },
+    {
+      "id": "gastronomie-178",
+      "difficulty": 2,
+      "question": "Quelle tarte niçoise aux oignons fondus, garnie d'olives noires et d'anchois, doit son nom au pissalat ?",
+      "answer": "pissaladière",
+      "accept": [],
+      "choices": [
+        "fougasse",
+        "socca",
+        "pan bagnat"
+      ],
+      "explanation": "Le pissalat qui la nappait autrefois est une purée d'anchois salés ; on la garnit aujourd'hui d'oignons fondus et d'olives de Nice.",
+      "wikipedia": "Pissaladière"
+    },
+    {
+      "id": "gastronomie-179",
+      "difficulty": 1,
+      "question": "Quelle ville de la Drôme est célèbre pour son nougat aux amandes et au miel de lavande ?",
+      "answer": "Montélimar",
+      "accept": [
+        "Montelimar"
+      ],
+      "choices": [
+        "Nyons",
+        "Valence",
+        "Carpentras"
+      ],
+      "explanation": "Sa renommée doit beaucoup à la nationale 7 ; à l'ouverture de l'autoroute A7, en 1968, les nougatiers s'installèrent sur l'aire de Montélimar.",
+      "wikipedia": "Nougat de Montélimar"
+    },
+    {
+      "id": "gastronomie-180",
+      "difficulty": 1,
+      "question": "Quelle pâte de piments rouges, d'ail et d'épices est un condiment emblématique de la Tunisie ?",
+      "answer": "harissa",
+      "accept": [],
+      "choices": [
+        "ras el hanout",
+        "chermoula",
+        "sambal"
+      ],
+      "explanation": "Les savoirs et savoir-faire liés à la harissa tunisienne ont été inscrits en décembre 2022 au patrimoine culturel immatériel de l'UNESCO.",
+      "wikipedia": "Harissa"
+    }
+  ]
+}

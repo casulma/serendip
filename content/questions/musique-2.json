@@ -15,7 +15,7 @@
         "Romance sans paroles"
       ],
       "explanation": "Le manuscrit, retrouvé par le musicologue Ludwig Nohl, est aujourd'hui perdu ; l'identité d'Élise reste discutée, peut-être Therese Malfatti ou la soprano Elisabeth Röckel.",
-      "wikipedia": "Lettre à Élise"
+      "wikipedia": "La Lettre à Élise"
     },
     {
       "id": "musique-072",
@@ -82,7 +82,7 @@
         "Johan Svendsen"
       ],
       "explanation": "Grieg écrivit cette musique à la demande d'Henrik Ibsen pour sa pièce, puis en tira deux suites orchestrales qui comptent parmi les pages les plus jouées du répertoire.",
-      "wikipedia": "Peer Gynt (Grieg)"
+      "wikipedia": "Peer Gynt (suites orchestrales)"
     },
     {
       "id": "musique-076",
@@ -99,7 +99,7 @@
         "Johannes Brahms"
       ],
       "explanation": "La marche devint une tradition des mariages après avoir été jouée en 1858 à celui de Victoria, fille aînée de la reine Victoria.",
-      "wikipedia": "Marche nuptiale (Mendelssohn)"
+      "wikipedia": "Le Songe d'une nuit d'été (Mendelssohn)"
     },
     {
       "id": "musique-077",
@@ -157,7 +157,7 @@
         "Paquita"
       ],
       "explanation": "Créé à l'Opéra de Paris en 1841 sur un livret de Théophile Gautier, ce ballet est l'un des sommets de l'ère romantique ; le rôle-titre exige autant de talent dramatique que de technique.",
-      "wikipedia": "Giselle"
+      "wikipedia": "Giselle (ballet)"
     },
     {
       "id": "musique-081",
@@ -189,7 +189,7 @@
         "Glazounov"
       ],
       "explanation": "Jugée d'abord indansable par le Bolchoï, la partition fut finalement créée à Brno, en Tchécoslovaquie, en 1938.",
-      "wikipedia": "Roméo et Juliette (Prokofiev)"
+      "wikipedia": "Roméo et Juliette (ballet)"
     },
     {
       "id": "musique-083",
@@ -205,7 +205,7 @@
         "Richard Strauss"
       ],
       "explanation": "Les textes proviennent d'un manuscrit médiéval de poèmes goliards retrouvé à l'abbaye de Benediktbeuern, en Bavière, d'où le titre latin « chants de Beuern ».",
-      "wikipedia": "Carmina Burana (Orff)"
+      "wikipedia": "Carmina Burana (cantate)"
     },
     {
       "id": "musique-084",
@@ -237,7 +237,7 @@
         "Gian Francesco Malipiero"
       ],
       "explanation": "Giazotto affirma l'avoir reconstitué à partir d'un fragment retrouvé dans les ruines de la bibliothèque de Dresde, mais aucun manuscrit d'Albinoni n'a jamais été produit.",
-      "wikipedia": "Adagio d'Albinoni"
+      "wikipedia": "Adagio en sol mineur"
     },
     {
       "id": "musique-086",
@@ -338,7 +338,7 @@
         "Les Adieux"
       ],
       "explanation": "Selon la légende, Haydn voulait réveiller les auditeurs londoniens assoupis pendant le paisible andante ; l'œuvre fut créée à Londres en 1792.",
-      "wikipedia": "Symphonie no 94 de Haydn"
+      "wikipedia": "Symphonie no 94 de Joseph Haydn"
     },
     {
       "id": "musique-092",
@@ -404,7 +404,7 @@
         "Anthony van Hoboken",
         "Wolfgang Schmieder"
       ],
-      "explanation": "Publié en 1862, ce catalogue chronologique compte 626 numéros, le dernier étant le Requiem ; il a été révisé à plusieurs reprises depuis.",
+      "explanation": "Publié en 1862, ce catalogue thématique et chronologique a été révisé à plusieurs reprises. Köchel était aussi botaniste et minéralogiste.",
       "wikipedia": "Ludwig von Köchel"
     },
     {
@@ -545,7 +545,7 @@
         "Uuno Klami"
       ],
       "explanation": "Composée en 1899, en pleine domination russe, l'œuvre dut parfois être jouée sous des titres anodins pour échapper à la censure.",
-      "wikipedia": "Finlandia"
+      "wikipedia": "Finlandia (poème symphonique)"
     },
     {
       "id": "musique-105",
@@ -582,7 +582,7 @@
     {
       "id": "musique-107",
       "difficulty": 2,
-      "question": "Quel compositeur russe a écrit « Le Vol du bourdon », interlude de son opéra « Le Conte du tsar Saltane » ?",
+      "question": "Quel compositeur russe a écrit « Le Vol du bourdon », interlude de son opéra « Le Conte du tsar Saltan » ?",
       "answer": "Rimski-Korsakov",
       "accept": [
         "Nikolaï Rimski-Korsakov"
@@ -704,7 +704,7 @@
         "Images"
       ],
       "explanation": "Créé en 1894, ce prélude est souvent considéré comme l'acte de naissance de la musique moderne. Nijinski en tira un ballet qui fit scandale en 1912.",
-      "wikipedia": "Prélude à l'après-midi d'un faune"
+      "wikipedia": "Prélude à l'Après-midi d'un faune"
     },
     {
       "id": "musique-115",
@@ -878,7 +878,7 @@
         "Jeune France"
       ],
       "explanation": "Le nom fut lancé en 1920 par le critique Henri Collet, par analogie avec le groupe des Cinq russe ; Jean Cocteau et Erik Satie en furent les parrains.",
-      "wikipedia": "Groupe des Six"
+      "wikipedia": "Groupe des six"
     },
     {
       "id": "musique-126",
@@ -894,7 +894,7 @@
         "Francis Poulenc"
       ],
       "explanation": "Grand amateur de trains, Honegger tirait le titre d'un type de locomotive : deux essieux porteurs, trois moteurs et un porteur.",
-      "wikipedia": "Pacific 231"
+      "wikipedia": "Pacific 231 (mouvement symphonique)"
     },
     {
       "id": "musique-127",
@@ -1018,7 +1018,7 @@
         "Rosamunde"
       ],
       "explanation": "Le quatrième mouvement est une série de variations sur le lied. L'effectif est original : il remplace le second violon par une contrebasse.",
-      "wikipedia": "La Truite (Schubert)"
+      "wikipedia": "Quintette en la majeur de Schubert"
     },
     {
       "id": "musique-135",
@@ -1109,7 +1109,7 @@
         "Otello",
         "Don Carlos"
       ],
-      "explanation": "Le rôle-titre est le roi de Babylone Nabuchodonosor. Le chœur fut repris spontanément par la foule lors des funérailles de Verdi, à Milan, en 1901.",
+      "explanation": "Le rôle-titre est le roi de Babylone Nabuchodonosor. Les patriotes italiens, alors sous domination autrichienne, s'identifiaient aux Hébreux captifs.",
       "wikipedia": "Nabucco"
     },
     {
@@ -1277,12 +1277,12 @@
         "Chanson bohème"
       ],
       "explanation": "Bizet croyait reprendre une chanson populaire : c'était en fait « El Arreglito » du compositeur basque Sebastián Iradier, qu'il dut créditer.",
-      "wikipedia": "Habanera (Carmen)"
+      "wikipedia": "L'amour est un oiseau rebelle"
     },
     {
       "id": "musique-152",
       "difficulty": 3,
-      "question": "Quelle opérette de Johann Strauss fils tire son titre du surnom d'un notaire, humilié après un bal costumé ?",
+      "question": "Quelle opérette viennoise de Johann Strauss fils s'inspire du vaudeville « Le Réveillon » de Meilhac et Halévy ?",
       "answer": "La Chauve-Souris",
       "accept": [
         "Chauve-Souris",
@@ -1293,8 +1293,8 @@
         "Une nuit à Venise",
         "La Veuve joyeuse"
       ],
-      "explanation": "Créée à Vienne en 1874, elle est traditionnellement jouée le soir de la Saint-Sylvestre dans les opéras germaniques.",
-      "wikipedia": "La Chauve-Souris"
+      "explanation": "Créée à Vienne en 1874, elle ne triompha en France qu'en 1904. Meilhac et Halévy étaient aussi les librettistes de « Carmen » de Bizet.",
+      "wikipedia": "Die Fledermaus"
     },
     {
       "id": "musique-153",
@@ -1342,7 +1342,7 @@
         "Naturalisme"
       ],
       "explanation": "Inspiré du courant littéraire de Giovanni Verga, le vérisme préfère les drames passionnels du peuple aux héros mythologiques ; « Paillasse » de Leoncavallo en est un autre exemple.",
-      "wikipedia": "Vérisme (musique)"
+      "wikipedia": "Vérisme"
     },
     {
       "id": "musique-156",
@@ -1374,7 +1374,7 @@
         "Argument"
       ],
       "explanation": "Le mot vient de l'italien « libretto », petit livre que les spectateurs achetaient pour suivre la représentation, souvent à la lueur d'une bougie.",
-      "wikipedia": "Livret (art lyrique)"
+      "wikipedia": "Livret (musique)"
     },
     {
       "id": "musique-158",
@@ -1418,7 +1418,7 @@
         "Soprano"
       ],
       "explanation": "Le mot vient du grec « barytonos », au son grave. Verdi a écrit pour cette voix des rôles majeurs comme Rigoletto et Nabucco.",
-      "wikipedia": "Baryton"
+      "wikipedia": "Baryton (voix)"
     },
     {
       "id": "musique-161",
@@ -1454,7 +1454,7 @@
     {
       "id": "musique-163",
       "difficulty": 1,
-      "question": "Quel mot italien, signifiant « déesse », désigne une chanteuse d'opéra vedette, et par extension une star capricieuse ?",
+      "question": "Quel mot italien, signifiant « divine », désigne une chanteuse d'opéra vedette, et par extension une star capricieuse ?",
       "answer": "Diva",
       "accept": [],
       "choices": [
@@ -1463,7 +1463,7 @@
         "Muse"
       ],
       "explanation": "Le terme s'est imposé au XIXe siècle pour les cantatrices adulées. Son équivalent masculin, plus rare, est « divo ».",
-      "wikipedia": "Diva"
+      "wikipedia": "Diva (personnalité)"
     },
     {
       "id": "musique-164",
@@ -1480,7 +1480,7 @@
         "Opéra Garnier"
       ],
       "explanation": "Le nom du genre ne signifie pas comique : il désigne des œuvres mêlant dialogues parlés et chant. Le bâtiment actuel date de 1898, après un incendie meurtrier.",
-      "wikipedia": "Opéra-Comique"
+      "wikipedia": "Théâtre national de l'Opéra-Comique"
     },
     {
       "id": "musique-165",
@@ -1493,7 +1493,7 @@
         "Naples",
         "Turin"
       ],
-      "explanation": "Le théâtre doit son nom à l'église Santa Maria alla Scala, démolie pour lui laisser la place. La saison s'ouvre traditionnellement le 7 décembre, jour de la Saint-Ambroise.",
+      "explanation": "Le théâtre doit son nom à l'église Santa Maria della Scala, démolie pour lui laisser la place ; il fut inauguré avec un opéra d'Antonio Salieri.",
       "wikipedia": "La Scala"
     },
     {
@@ -1620,7 +1620,7 @@
         "Avant-scène"
       ],
       "explanation": "Wagner fit recouvrir celle de Bayreuth afin que le son se fonde avant d'atteindre le public et que les musiciens restent invisibles.",
-      "wikipedia": "Fosse d'orchestre"
+      "wikipedia": "Fosse (orchestre)"
     },
     {
       "id": "musique-174",
@@ -1650,7 +1650,7 @@
         "Escarpins"
       ],
       "explanation": "Leur bout est renforcé par des couches de tissu et de colle durcies. Une danseuse professionnelle peut user une paire en une seule représentation.",
-      "wikipedia": "Pointe (danse)"
+      "wikipedia": "Pointes"
     },
     {
       "id": "musique-176",
@@ -1666,7 +1666,7 @@
         "Petits lutins"
       ],
       "explanation": "Fondée en 1713 sous Louis XIV, l'école est installée depuis 1987 à Nanterre, dans un bâtiment conçu par l'architecte Christian de Portzamparc.",
-      "wikipedia": "École de danse de l'Opéra national de Paris"
+      "wikipedia": "Petit rat"
     },
     {
       "id": "musique-177",
@@ -1805,7 +1805,7 @@
         "Conque"
       ],
       "explanation": "Le musicien pratique le souffle continu, inspirant par le nez tout en expirant par la bouche, pour tenir un bourdon sans interruption.",
-      "wikipedia": "Didgeridoo"
+      "wikipedia": "Didjeridoo"
     },
     {
       "id": "musique-186",
@@ -1899,7 +1899,7 @@
         "Bugle"
       ],
       "explanation": "Son nom signifie « grosse trompette » en italien. Longtemps réservé à la musique sacrée, il fit une entrée remarquée dans le finale de la Cinquième de Beethoven.",
-      "wikipedia": "Trombone"
+      "wikipedia": "Trombone (instrument)"
     },
     {
       "id": "musique-192",
@@ -1972,7 +1972,7 @@
         "Ngoni",
         "Valiha"
       ],
-      "explanation": "Instrument des griots mandingues, elle accompagne les récits épiques comme celui de Soundiata Keïta, fondateur de l'empire du Mali.",
+      "explanation": "Instrument des griots mandingues, originaire du Mali, elle a été popularisée dans le monde par des virtuoses comme Toumani Diabaté ou Mory Kanté.",
       "wikipedia": "Kora"
     },
     {
@@ -1988,7 +1988,7 @@
         "Vibraphone",
         "Harmonium"
       ],
-      "explanation": "Inventé à Paris par Auguste Mustel en 1886, il aurait été acheté en secret par Tchaïkovski, qui craignait que Rimski-Korsakov ne l'utilise avant lui.",
+      "explanation": "Inventé à Paris par Auguste Mustel en 1886, il dérive de l'harmonium, dont il reprend le clavier, et sert souvent à créer des effets féeriques.",
       "wikipedia": "Célesta"
     },
     {
@@ -2105,7 +2105,7 @@
         "Mezzo forte",
         "Sforzando"
       ],
-      "explanation": "À l'opposé, « ff » signifie fortissimo. Tchaïkovski a poussé l'extrême jusqu'à écrire six p dans sa Sixième symphonie.",
+      "explanation": "À l'opposé, « ff » signifie fortissimo. Le piano doit son nom à sa capacité, nouvelle à l'époque, de jouer doux ou fort selon la frappe.",
       "wikipedia": "Nuance (musique)"
     },
     {
