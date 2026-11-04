@@ -1,0 +1,2134 @@
+{
+  "category": "langue",
+  "questions": [
+    {
+      "id": "langue-211",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on des mots qui se prononcent de la même façon mais s'écrivent différemment, comme « verre », « vert » et « ver » ?",
+      "answer": "Homophones",
+      "accept": [
+        "homophone",
+        "homophonie"
+      ],
+      "choices": [
+        "Homographes",
+        "Paronymes",
+        "Synonymes"
+      ],
+      "explanation": "Le français en est particulièrement riche : « sain », « saint », « sein », « seing » et « ceint » se prononcent tous de la même manière.",
+      "wikipedia": "Homophonie"
+    },
+    {
+      "id": "langue-212",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on des mots de même orthographe mais de prononciation différente, comme « le couvent » et « les poules couvent » ?",
+      "answer": "Homographes",
+      "accept": [
+        "homographe",
+        "homographie"
+      ],
+      "choices": [
+        "Homophones",
+        "Paronymes",
+        "Antonymes"
+      ],
+      "explanation": "Autres exemples classiques : « les fils » du père et « les fils » à coudre, ou « nous portions » et « les portions ».",
+      "wikipedia": "Homographe"
+    },
+    {
+      "id": "langue-213",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on deux mots presque identiques par la forme mais de sens différent, comme « conjecture » et « conjoncture » ?",
+      "answer": "Paronymes",
+      "accept": [
+        "paronyme",
+        "paronymie"
+      ],
+      "choices": [
+        "Homonymes",
+        "Synonymes",
+        "Antonymes"
+      ],
+      "explanation": "La paronymie est source de confusions fréquentes : « éminent » et « imminent », « effraction » et « infraction », « collision » et « collusion ».",
+      "wikipedia": "Paronymie"
+    },
+    {
+      "id": "langue-214",
+      "difficulty": 1,
+      "question": "Quel mode verbal sert à donner un ordre ou un conseil, comme dans « Viens ici ! » ou « Partons » ?",
+      "answer": "Impératif",
+      "accept": [],
+      "choices": [
+        "Subjonctif",
+        "Conditionnel",
+        "Infinitif"
+      ],
+      "explanation": "L'impératif ne se conjugue qu'à trois personnes, sans pronom sujet : deuxième du singulier, première et deuxième du pluriel.",
+      "wikipedia": "Impératif (grammaire)"
+    },
+    {
+      "id": "langue-215",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la forme verbale « en chantant », formée de la préposition « en » suivie du participe présent ?",
+      "answer": "Gérondif",
+      "accept": [],
+      "choices": [
+        "Participe passé",
+        "Infinitif",
+        "Supin"
+      ],
+      "explanation": "Le gérondif exprime une action simultanée à celle du verbe principal, souvent avec une valeur de manière, de moyen ou de cause.",
+      "wikipedia": "Gérondif"
+    },
+    {
+      "id": "langue-216",
+      "difficulty": 2,
+      "question": "Quel temps composé exprime une action future accomplie avant une autre, comme dans « quand j'aurai fini » ?",
+      "answer": "Futur antérieur",
+      "accept": [],
+      "choices": [
+        "Plus-que-parfait",
+        "Passé antérieur",
+        "Conditionnel passé"
+      ],
+      "explanation": "Il se forme avec l'auxiliaire au futur simple suivi du participe passé, et peut aussi exprimer une supposition : « il se sera trompé ».",
+      "wikipedia": "Futur antérieur en français"
+    },
+    {
+      "id": "langue-217",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un mot invariable qui modifie le sens d'un verbe ou d'un adjectif, comme « très » ou « vite » ?",
+      "answer": "Adverbe",
+      "accept": [],
+      "choices": [
+        "Préposition",
+        "Conjonction",
+        "Pronom"
+      ],
+      "explanation": "Beaucoup d'adverbes de manière se forment en ajoutant le suffixe « -ment » au féminin de l'adjectif : « douce » donne « doucement ».",
+      "wikipedia": "Adverbe"
+    },
+    {
+      "id": "langue-218",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un mot invariable exprimant une émotion ou une sensation, comme « aïe », « ouf » ou « hélas » ?",
+      "answer": "Interjection",
+      "accept": [],
+      "choices": [
+        "Adverbe",
+        "Conjonction",
+        "Préposition"
+      ],
+      "explanation": "Souvent suivie d'un point d'exclamation, l'interjection forme à elle seule une phrase ; certaines viennent d'autres mots, comme « Mince ! » ou « Courage ! ».",
+      "wikipedia": "Interjection"
+    },
+    {
+      "id": "langue-219",
+      "difficulty": 1,
+      "question": "Bijou, caillou, chou, genou, hibou, joujou : quel septième nom en -ou prend un x au pluriel ?",
+      "answer": "Pou",
+      "accept": [
+        "poux"
+      ],
+      "choices": [
+        "Clou",
+        "Trou",
+        "Sou"
+      ],
+      "explanation": "Ces sept exceptions sont souvent mémorisées en récitant la liste ; les autres noms en -ou suivent la règle générale et prennent un s.",
+      "wikipedia": "Pluriels irréguliers en français"
+    },
+    {
+      "id": "langue-220",
+      "difficulty": 2,
+      "question": "Quel nom, comme « amour » et « délice », est masculin au singulier mais souvent féminin au pluriel ?",
+      "answer": "Orgue",
+      "accept": [
+        "orgues"
+      ],
+      "choices": [
+        "Piano",
+        "Clavecin",
+        "Hautbois"
+      ],
+      "explanation": "On dit « un orgue magnifique » mais « les grandes orgues » lorsqu'on désigne avec emphase un seul instrument d'église.",
+      "wikipedia": "Orgue"
+    },
+    {
+      "id": "langue-221",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le remplacement d'une voyelle finale par une apostrophe devant une voyelle, comme dans « l'arbre » ?",
+      "answer": "Élision",
+      "accept": [
+        "elision"
+      ],
+      "choices": [
+        "Liaison",
+        "Apocope",
+        "Contraction"
+      ],
+      "explanation": "L'élision touche surtout le, la, de, je, me, que et ne ; elle est interdite devant un h aspiré, comme dans « le hibou ».",
+      "wikipedia": "Élision"
+    },
+    {
+      "id": "langue-222",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on une fausse liaison faisant entendre un z injustifié, comme dans « quatre-z-amis » ?",
+      "answer": "Velours",
+      "accept": [],
+      "choices": [
+        "Cuir",
+        "Hiatus",
+        "Enclise"
+      ],
+      "explanation": "La fausse liaison en t, comme « il va-t-à Paris », porte le nom de « cuir » ; le terme générique pour ces fautes est le pataquès.",
+      "wikipedia": "Liaison en français"
+    },
+    {
+      "id": "langue-223",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le h initial qui interdit liaison et élision, comme dans « le héros » ou « la hache » ?",
+      "answer": "H aspiré",
+      "accept": [],
+      "choices": [
+        "H muet",
+        "H expiré",
+        "H dur"
+      ],
+      "explanation": "Il ne se prononce pas en français standard ; c'est lui qui distingue « les héros » sans liaison de « les‿héroïnes », où le h est muet.",
+      "wikipedia": "H aspiré en français"
+    },
+    {
+      "id": "langue-224",
+      "difficulty": 2,
+      "question": "Dans une phrase passive, comment appelle-t-on le groupe introduit par « par » qui désigne qui fait l'action ?",
+      "answer": "Complément d'agent",
+      "accept": [],
+      "choices": [
+        "Complément d'objet",
+        "Attribut du sujet",
+        "Complément circonstanciel"
+      ],
+      "explanation": "Dans « la souris est mangée par le chat », « le chat » est complément d'agent ; il redevient sujet quand on passe à la voix active.",
+      "wikipedia": "Complément d'agent"
+    },
+    {
+      "id": "langue-225",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un verbe privé de certaines formes de conjugaison, comme « choir », « clore » ou « gésir » ?",
+      "answer": "Défectif",
+      "accept": [
+        "verbe défectif"
+      ],
+      "choices": [
+        "Impersonnel",
+        "Pronominal",
+        "Irrégulier"
+      ],
+      "explanation": "« Gésir » ne s'emploie plus guère qu'au présent et à l'imparfait, d'où la formule des épitaphes « ci-gît ».",
+      "wikipedia": "Verbe défectif"
+    },
+    {
+      "id": "langue-226",
+      "difficulty": 3,
+      "question": "Comment nomme-t-on la règle où l'adjectif prend le genre du nom le plus proche, courante jusqu'au XVIIe siècle ?",
+      "answer": "Accord de proximité",
+      "accept": [],
+      "choices": [
+        "Accord de majorité",
+        "Accord par syllepse",
+        "Accord au masculin"
+      ],
+      "explanation": "On le trouve chez Racine : « ces trois jours et ces trois nuits entières » ; la règle du masculin qui l'emporte s'est imposée ensuite.",
+      "wikipedia": "Règle de proximité"
+    },
+    {
+      "id": "langue-227",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on un nom ou un adjectif dont la forme ne varie pas selon le genre, comme « élève » ou « libre » ?",
+      "answer": "Épicène",
+      "accept": [
+        "epicene"
+      ],
+      "choices": [
+        "Invariable",
+        "Homonyme",
+        "Hypocoristique"
+      ],
+      "explanation": "Le mot vient du grec signifiant « commun » ; « enfant », « artiste », « journaliste » et « ministre » sont d'autres noms épicènes.",
+      "wikipedia": "Mot épicène"
+    },
+    {
+      "id": "langue-228",
+      "difficulty": 1,
+      "question": "Quel ouvrage de référence consacré à la conjugaison porte le nom d'un lexicographe et grammairien français du XIXe siècle ?",
+      "answer": "Bescherelle",
+      "accept": [],
+      "choices": [
+        "Grevisse",
+        "Littré",
+        "Larousse"
+      ],
+      "explanation": "Nommé en l'honneur du lexicographe et grammairien Louis-Nicolas Bescherelle, ce titre est devenu au Québec comme en France un nom commun pour tout guide de conjugaison.",
+      "wikipedia": "Bescherelle"
+    },
+    {
+      "id": "langue-229",
+      "difficulty": 2,
+      "question": "Quel grammairien belge est l'auteur du « Bon Usage », grammaire de référence du français parue en 1936 ?",
+      "answer": "Maurice Grevisse",
+      "accept": [
+        "Grevisse"
+      ],
+      "choices": [
+        "Joseph Hanse",
+        "Ferdinand Brunot",
+        "Claude Vaugelas"
+      ],
+      "explanation": "Professeur de lycée, il a fait de son ouvrage un monument constamment réédité, poursuivi après sa mort par son gendre André Goosse.",
+      "wikipedia": "Maurice Grevisse"
+    },
+    {
+      "id": "langue-230",
+      "difficulty": 3,
+      "question": "Quel écrivain fut exclu de l'Académie française pour avoir voulu publier son propre dictionnaire avant celui de la Compagnie ?",
+      "answer": "Antoine Furetière",
+      "accept": [
+        "Furetière"
+      ],
+      "choices": [
+        "Gilles Ménage",
+        "Pierre Richelet",
+        "Charles Perrault"
+      ],
+      "explanation": "Son « Dictionnaire universel » parut à titre posthume en 1690, quatre ans avant la première édition du Dictionnaire de l'Académie.",
+      "wikipedia": "Antoine Furetière"
+    },
+    {
+      "id": "langue-231",
+      "difficulty": 2,
+      "question": "Quel lexicographe positiviste a donné son nom au célèbre « Dictionnaire de la langue française » paru au XIXe siècle ?",
+      "answer": "Émile Littré",
+      "accept": [
+        "Littré",
+        "Emile Littré"
+      ],
+      "choices": [
+        "Pierre Larousse",
+        "Paul Robert",
+        "Auguste Comte"
+      ],
+      "explanation": "Disciple d'Auguste Comte, il consacra plus de trente ans à ce dictionnaire, riche de citations classiques illustrant chaque sens.",
+      "wikipedia": "Émile Littré"
+    },
+    {
+      "id": "langue-232",
+      "difficulty": 1,
+      "question": "Quelle maison d'édition de dictionnaires a pour emblème une semeuse soufflant sur un pissenlit ?",
+      "answer": "Larousse",
+      "accept": [],
+      "choices": [
+        "Le Robert",
+        "Hachette",
+        "Bordas"
+      ],
+      "explanation": "La devise « Je sème à tout vent » accompagne la semeuse dessinée par Eugène Grasset, emblème de la maison fondée par Pierre Larousse.",
+      "wikipedia": "Éditions Larousse"
+    },
+    {
+      "id": "langue-233",
+      "difficulty": 1,
+      "question": "Quelle discipline linguistique étudie les sons de la parole, leur production et leur perception ?",
+      "answer": "Phonétique",
+      "accept": [],
+      "choices": [
+        "Syntaxe",
+        "Sémantique",
+        "Morphologie"
+      ],
+      "explanation": "Elle se distingue de la phonologie, qui étudie le rôle des sons dans le système d'une langue donnée plutôt que leur réalité physique.",
+      "wikipedia": "Phonétique"
+    },
+    {
+      "id": "langue-234",
+      "difficulty": 2,
+      "question": "Quelle branche de la linguistique étudie le sens des mots, des phrases et des énoncés ?",
+      "answer": "Sémantique",
+      "accept": [
+        "semantique"
+      ],
+      "choices": [
+        "Syntaxe",
+        "Phonologie",
+        "Morphologie"
+      ],
+      "explanation": "Le terme a été popularisé à la fin du XIXe siècle par le linguiste français Michel Bréal, dans son « Essai de sémantique ».",
+      "wikipedia": "Sémantique"
+    },
+    {
+      "id": "langue-235",
+      "difficulty": 2,
+      "question": "Quel linguiste genevois, dont le « Cours de linguistique générale » est posthume, distingua le signifiant et le signifié ?",
+      "answer": "Ferdinand de Saussure",
+      "accept": [
+        "Saussure"
+      ],
+      "choices": [
+        "Roman Jakobson",
+        "Émile Benveniste",
+        "Noam Chomsky"
+      ],
+      "explanation": "Le Cours a été rédigé par deux de ses élèves, Charles Bally et Albert Sechehaye, à partir de notes prises durant ses enseignements.",
+      "wikipedia": "Ferdinand de Saussure"
+    },
+    {
+      "id": "langue-236",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on une faute consistant à employer un mot inexistant ou déformé, comme « aréoport » pour « aéroport » ?",
+      "answer": "Barbarisme",
+      "accept": [],
+      "choices": [
+        "Solécisme",
+        "Pléonasme",
+        "Néologisme"
+      ],
+      "explanation": "On le distingue du solécisme, qui est une faute de syntaxe ; le terme s'emploie surtout pour les fautes commises en traduisant les langues anciennes comme le latin ou le grec.",
+      "wikipedia": "Barbarisme"
+    },
+    {
+      "id": "langue-237",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on une faute de syntaxe portant sur la construction de la phrase, comme « malgré qu'il pleut » ?",
+      "answer": "Solécisme",
+      "accept": [
+        "solecisme"
+      ],
+      "choices": [
+        "Barbarisme",
+        "Anacoluthe",
+        "Pataquès"
+      ],
+      "explanation": "Le nom viendrait de Soles, ville de Cilicie dont les colons grecs étaient réputés parler un grec fautif.",
+      "wikipedia": "Solécisme"
+    },
+    {
+      "id": "langue-238",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la rencontre de deux voyelles prononcées dans deux syllabes successives, comme dans « il a eu » ?",
+      "answer": "Hiatus",
+      "accept": [],
+      "choices": [
+        "Élision",
+        "Diphtongue",
+        "Diérèse"
+      ],
+      "explanation": "La poésie classique cherchait à l'éviter : à la lecture du vers français, on élide ou on prononce des e caducs pour que deux voyelles ne se heurtent pas.",
+      "wikipedia": "Hiatus (linguistique)"
+    },
+    {
+      "id": "langue-239",
+      "difficulty": 3,
+      "question": "Quel écrivain aurait composé pour la cour de Napoléon III une célèbre dictée truffée de pièges orthographiques ?",
+      "answer": "Prosper Mérimée",
+      "accept": [
+        "Mérimée",
+        "Merimee"
+      ],
+      "choices": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Gustave Flaubert"
+      ],
+      "explanation": "Selon la légende, Napoléon III y aurait fait 75 fautes, l'impératrice Eugénie 62, et le prince de Metternich seulement 3.",
+      "wikipedia": "Dictée de Mérimée"
+    },
+    {
+      "id": "langue-240",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'emploi par un souverain de la première personne du pluriel pour se désigner lui-même ?",
+      "answer": "Nous de majesté",
+      "accept": [
+        "pluriel de majesté",
+        "pluriel de majeste"
+      ],
+      "choices": [
+        "Nous de modestie",
+        "Nous d'auteur",
+        "Vouvoiement"
+      ],
+      "explanation": "Il est employé par un souverain ou une autorité religieuse ; dans la pratique courante, les papes l'ont abandonné à partir du court pontificat de Jean-Paul Ier.",
+      "wikipedia": "Nous de majesté"
+    },
+    {
+      "id": "langue-241",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un mot nouvellement créé ou un sens nouveau donné à un mot existant ?",
+      "answer": "Néologisme",
+      "accept": [
+        "neologisme"
+      ],
+      "choices": [
+        "Archaïsme",
+        "Barbarisme",
+        "Anglicisme"
+      ],
+      "explanation": "Le mot vient du grec « neos », nouveau, et « logos », parole ; un néologisme est lexicalisé lorsqu'il est adopté par un grand nombre de locuteurs et entre dans les dictionnaires.",
+      "wikipedia": "Néologisme"
+    },
+    {
+      "id": "langue-242",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un mot anglais employé en français, comme « week-end » ou « parking » ?",
+      "answer": "Anglicisme",
+      "accept": [],
+      "choices": [
+        "Gallicisme",
+        "Barbarisme",
+        "Germanisme"
+      ],
+      "explanation": "À l'inverse, on appelle gallicisme une tournure propre au français ou un mot français emprunté par une autre langue.",
+      "wikipedia": "Anglicisme"
+    },
+    {
+      "id": "langue-243",
+      "difficulty": 1,
+      "question": "Quel mot désigne la science qui étudie l'origine et l'histoire des mots ?",
+      "answer": "Étymologie",
+      "accept": [
+        "etymologie"
+      ],
+      "choices": [
+        "Philologie",
+        "Lexicologie",
+        "Toponymie"
+      ],
+      "explanation": "Le mot vient du grec « etumos », vrai : l'étymologie prétendait à l'origine révéler le sens véritable des mots.",
+      "wikipedia": "Étymologie"
+    },
+    {
+      "id": "langue-244",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'étude des noms de lieux, de leur origine et de leur évolution ?",
+      "answer": "Toponymie",
+      "accept": [],
+      "choices": [
+        "Anthroponymie",
+        "Hydronymie",
+        "Cartographie"
+      ],
+      "explanation": "Elle révèle souvent l'histoire d'un territoire : les nombreux noms en « -ac » du sud-ouest remontent à un suffixe gaulois latinisé.",
+      "wikipedia": "Toponymie"
+    },
+    {
+      "id": "langue-245",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la personne qui rédige des dictionnaires ?",
+      "answer": "Lexicographe",
+      "accept": [
+        "lexicographie"
+      ],
+      "choices": [
+        "Lexicologue",
+        "Philologue",
+        "Grammairien"
+      ],
+      "explanation": "Le lexicographe décrit les mots un par un pour un dictionnaire, tandis que le lexicologue étudie le vocabulaire en tant que système.",
+      "wikipedia": "Lexicographie"
+    },
+    {
+      "id": "langue-246",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'étude des drapeaux, de leur histoire et de leur symbolique ?",
+      "answer": "Vexillologie",
+      "accept": [],
+      "choices": [
+        "Héraldique",
+        "Sigillographie",
+        "Phaléristique"
+      ],
+      "explanation": "Le mot vient du latin « vexillum », l'étendard des légions romaines ; l'étude des blasons relève, elle, de l'héraldique.",
+      "wikipedia": "Vexillologie"
+    },
+    {
+      "id": "langue-247",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le spécialiste ou le collectionneur de monnaies et de médailles ?",
+      "answer": "Numismate",
+      "accept": [
+        "numismatique"
+      ],
+      "choices": [
+        "Philatéliste",
+        "Cartophile",
+        "Bibliophile"
+      ],
+      "explanation": "Le mot vient du grec « nomisma », monnaie ; la numismatique est aussi une science auxiliaire précieuse de l'histoire.",
+      "wikipedia": "Numismatique"
+    },
+    {
+      "id": "langue-248",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la collection des étiquettes de boîtes de camembert et autres fromages ?",
+      "answer": "Tyrosémiophilie",
+      "accept": [
+        "tyrosemiophilie"
+      ],
+      "choices": [
+        "Placomusophilie",
+        "Glucophilie",
+        "Fromagophilie"
+      ],
+      "explanation": "Le mot associe le grec « tyros », fromage, « sêmeion », signe, et « philos », ami.",
+      "wikipedia": "Tyrosémiophilie"
+    },
+    {
+      "id": "langue-249",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un amateur de mots croisés ?",
+      "answer": "Cruciverbiste",
+      "accept": [],
+      "choices": [
+        "Verbicruciste",
+        "Lexicophile",
+        "Ludiste"
+      ],
+      "explanation": "Celui qui compose les grilles, lui, est un verbicruciste ; Georges Perec et Tristan Bernard en ont signé de célèbres.",
+      "wikipedia": "Mots croisés"
+    },
+    {
+      "id": "langue-250",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la peur superstitieuse du nombre treize ?",
+      "answer": "Triskaïdékaphobie",
+      "accept": [
+        "triskaidekaphobie"
+      ],
+      "choices": [
+        "Hexakosioihexekontahexaphobie",
+        "Paraskevidékatriaphobie",
+        "Arithmophobie"
+      ],
+      "explanation": "Certains immeubles n'ont pas de treizième étage et certains avions pas de treizième rangée pour ménager les personnes qui en souffrent.",
+      "wikipedia": "Triskaïdékaphobie"
+    },
+    {
+      "id": "langue-251",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la peur des espaces clos et confinés, comme les ascenseurs ?",
+      "answer": "Claustrophobie",
+      "accept": [],
+      "choices": [
+        "Agoraphobie",
+        "Acrophobie",
+        "Nyctophobie"
+      ],
+      "explanation": "Le mot vient du latin « claustrum », lieu fermé, qui a aussi donné « cloître » ; son contraire est souvent associé à l'agoraphobie.",
+      "wikipedia": "Claustrophobie"
+    },
+    {
+      "id": "langue-252",
+      "difficulty": 1,
+      "question": "Quel mot désigne la tendance à remettre systématiquement au lendemain ce que l'on doit faire ?",
+      "answer": "Procrastination",
+      "accept": [],
+      "choices": [
+        "Atermoiement",
+        "Apathie",
+        "Indolence"
+      ],
+      "explanation": "Le mot vient du latin « cras », demain : procrastiner, c'est littéralement renvoyer au lendemain.",
+      "wikipedia": "Procrastination"
+    },
+    {
+      "id": "langue-253",
+      "difficulty": 2,
+      "question": "Quel mot désigne la découverte heureuse faite par hasard, alors que l'on cherchait autre chose ?",
+      "answer": "Sérendipité",
+      "accept": [
+        "serendipite"
+      ],
+      "choices": [
+        "Synchronicité",
+        "Épiphanie",
+        "Coïncidence"
+      ],
+      "explanation": "Forgé en 1754 par Horace Walpole d'après un conte persan, « Les Trois Princes de Serendip », Serendip étant l'ancien nom de Ceylan.",
+      "wikipedia": "Sérendipité"
+    },
+    {
+      "id": "langue-254",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la faculté d'être présent en plusieurs lieux à la fois ?",
+      "answer": "Ubiquité",
+      "accept": [
+        "ubiquite"
+      ],
+      "choices": [
+        "Omniscience",
+        "Bilocation",
+        "Omnipotence"
+      ],
+      "explanation": "Synonyme d'omniprésence, le mot vient du latin « ubique », partout ; il possède aussi un sens théologique, appliqué à la présence divine.",
+      "wikipedia": "Ubiquité"
+    },
+    {
+      "id": "langue-255",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une personne qui se sert aussi habilement de sa main gauche que de sa main droite ?",
+      "answer": "Ambidextre",
+      "accept": [
+        "ambidextrie"
+      ],
+      "choices": [
+        "Gaucher",
+        "Dextrogyre",
+        "Polyvalent"
+      ],
+      "explanation": "Le mot signifie littéralement « droitier des deux côtés », du latin « ambo », les deux, et « dexter », droit.",
+      "wikipedia": "Ambidextrie"
+    },
+    {
+      "id": "langue-256",
+      "difficulty": 1,
+      "question": "Quel mot désigne une personne qui déteste le genre humain, comme l'Alceste d'une comédie de Molière ?",
+      "answer": "Misanthrope",
+      "accept": [
+        "misanthropie"
+      ],
+      "choices": [
+        "Misogyne",
+        "Philanthrope",
+        "Misonéiste"
+      ],
+      "explanation": "Le mot vient du grec « misos », haine, et « anthrôpos », homme ; Molière en a fait le titre de l'une de ses plus célèbres comédies.",
+      "wikipedia": "Misanthropie"
+    },
+    {
+      "id": "langue-257",
+      "difficulty": 3,
+      "question": "Quel mot grec désigne la tranquillité de l'âme recherchée par les épicuriens et les stoïciens ?",
+      "answer": "Ataraxie",
+      "accept": [],
+      "choices": [
+        "Apathie",
+        "Euthymie",
+        "Catharsis"
+      ],
+      "explanation": "Elle signifie littéralement « absence de trouble » ; pour Épicure, elle s'atteint en se libérant de la crainte des dieux et de la mort.",
+      "wikipedia": "Ataraxie"
+    },
+    {
+      "id": "langue-258",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un parchemin dont on a effacé le texte pour en écrire un nouveau ?",
+      "answer": "Palimpseste",
+      "accept": [],
+      "choices": [
+        "Incunable",
+        "Codex",
+        "Papyrus"
+      ],
+      "explanation": "Les techniques modernes d'imagerie permettent de lire les textes effacés : le palimpseste d'Archimède a ainsi livré des traités inconnus.",
+      "wikipedia": "Palimpseste"
+    },
+    {
+      "id": "langue-259",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un livre imprimé en Europe avant 1501, aux tout débuts de l'imprimerie ?",
+      "answer": "Incunable",
+      "accept": [],
+      "choices": [
+        "Palimpseste",
+        "Codex",
+        "Enluminure"
+      ],
+      "explanation": "Le mot vient du latin « incunabula », langes, berceau : ces ouvrages datent du berceau de l'imprimerie.",
+      "wikipedia": "Incunable"
+    },
+    {
+      "id": "langue-260",
+      "difficulty": 1,
+      "question": "Quel mot désigne la faveur abusive accordée à sa famille, à l'origine aux neveux des papes ?",
+      "answer": "Népotisme",
+      "accept": [
+        "nepotisme"
+      ],
+      "choices": [
+        "Clientélisme",
+        "Favoritisme",
+        "Simonie"
+      ],
+      "explanation": "Le mot vient de l'italien « nepote », neveu : de nombreux papes de la Renaissance firent de leurs neveux des cardinaux.",
+      "wikipedia": "Népotisme"
+    },
+    {
+      "id": "langue-261",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un régime politique où le pouvoir est exercé par les plus riches ?",
+      "answer": "Ploutocratie",
+      "accept": [],
+      "choices": [
+        "Oligarchie",
+        "Aristocratie",
+        "Gérontocratie"
+      ],
+      "explanation": "Le mot vient du grec « ploutos », richesse, qui a aussi donné son nom à Ploutos, dieu de la richesse.",
+      "wikipedia": "Ploutocratie"
+    },
+    {
+      "id": "langue-262",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on l'odeur caractéristique que dégage la terre sèche lorsqu'il se met à pleuvoir ?",
+      "answer": "Pétrichor",
+      "accept": [
+        "petrichor"
+      ],
+      "choices": [
+        "Géosmine",
+        "Ozone",
+        "Ichor"
+      ],
+      "explanation": "Le mot a été forgé en 1964 par deux chercheurs australiens, à partir du grec « petra », pierre, et « ichor », sang des dieux.",
+      "wikipedia": "Pétrichor"
+    },
+    {
+      "id": "langue-263",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on une maxime brève qui résume une vérité, comme celles du médecin grec Hippocrate ?",
+      "answer": "Aphorisme",
+      "accept": [],
+      "choices": [
+        "Apologue",
+        "Adage",
+        "Épigramme"
+      ],
+      "explanation": "Le premier des aphorismes d'Hippocrate est resté célèbre : « La vie est courte, l'art est long. »",
+      "wikipedia": "Aphorisme"
+    },
+    {
+      "id": "langue-264",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un récit qui réécrit l'histoire à partir de la modification d'un événement passé ?",
+      "answer": "Uchronie",
+      "accept": [],
+      "choices": [
+        "Dystopie",
+        "Utopie",
+        "Anachronisme"
+      ],
+      "explanation": "Le mot a été forgé par le philosophe Charles Renouvier sur le modèle d'utopie : un « non-temps » comme l'utopie est un « non-lieu ».",
+      "wikipedia": "Uchronie"
+    },
+    {
+      "id": "langue-265",
+      "difficulty": 3,
+      "question": "Quel adjectif grec, épithète d'une célèbre statue de Vénus, qualifie une personne aux belles fesses ?",
+      "answer": "Callipyge",
+      "accept": [],
+      "choices": [
+        "Callipède",
+        "Stéatopyge",
+        "Calligraphe"
+      ],
+      "explanation": "La Vénus callipyge du musée archéologique de Naples montre la déesse soulevant sa tunique pour regarder son reflet.",
+      "wikipedia": "Vénus callipyge"
+    },
+    {
+      "id": "langue-266",
+      "difficulty": 1,
+      "question": "Quelle figure de style atténue une réalité déplaisante, comme « il nous a quittés » pour « il est mort » ?",
+      "answer": "Euphémisme",
+      "accept": [
+        "euphemisme"
+      ],
+      "choices": [
+        "Litote",
+        "Hyperbole",
+        "Antiphrase"
+      ],
+      "explanation": "Le mot vient du grec signifiant « parole de bon augure » ; on parle aussi de « non-voyant » pour aveugle ou de « plan social ».",
+      "wikipedia": "Euphémisme"
+    },
+    {
+      "id": "langue-267",
+      "difficulty": 2,
+      "question": "Quelle figure de style répète un même mot en tête de plusieurs vers ou phrases successifs ?",
+      "answer": "Anaphore",
+      "accept": [],
+      "choices": [
+        "Épiphore",
+        "Anadiplose",
+        "Allitération"
+      ],
+      "explanation": "Les imprécations de Camille dans « Horace » de Corneille en sont un exemple célèbre : « Rome, l'unique objet de mon ressentiment ! Rome… ».",
+      "wikipedia": "Anaphore (rhétorique)"
+    },
+    {
+      "id": "langue-268",
+      "difficulty": 2,
+      "question": "Quelle figure de style répète un même son de voyelle, comme dans « Tout m'afflige et me nuit et conspire à me nuire » ?",
+      "answer": "Assonance",
+      "accept": [],
+      "choices": [
+        "Allitération",
+        "Paronomase",
+        "Rime"
+      ],
+      "explanation": "Ce vers de Phèdre de Racine fait entendre le son i, qui traduit le malaise de l'héroïne ; l'allitération, elle, répète des consonnes.",
+      "wikipedia": "Assonance"
+    },
+    {
+      "id": "langue-269",
+      "difficulty": 1,
+      "question": "Quelle figure de style oppose deux idées dans une même phrase, comme « Je vis, je meurs » de Louise Labé ?",
+      "answer": "Antithèse",
+      "accept": [
+        "antithese"
+      ],
+      "choices": [
+        "Oxymore",
+        "Chiasme",
+        "Paradoxe"
+      ],
+      "explanation": "À la différence de l'oxymore qui unit deux termes contradictoires en une seule expression, l'antithèse les met en vis-à-vis.",
+      "wikipedia": "Antithèse"
+    },
+    {
+      "id": "langue-270",
+      "difficulty": 1,
+      "question": "Quelle figure de style prête des sentiments ou des comportements humains à un objet, une idée ou un animal ?",
+      "answer": "Personnification",
+      "accept": [],
+      "choices": [
+        "Allégorie",
+        "Métaphore",
+        "Prosopopée"
+      ],
+      "explanation": "Dans « la mer se mit en colère » ou « le vent hurle », des éléments naturels se voient attribuer des réactions humaines.",
+      "wikipedia": "Personnification"
+    },
+    {
+      "id": "langue-271",
+      "difficulty": 1,
+      "question": "Quelle figure de style rapproche deux réalités sans outil de comparaison, comme « cette femme est une perle » ?",
+      "answer": "Métaphore",
+      "accept": [
+        "metaphore"
+      ],
+      "choices": [
+        "Comparaison",
+        "Métonymie",
+        "Synecdoque"
+      ],
+      "explanation": "Lorsqu'elle se prolonge sur plusieurs phrases ou vers, on parle de métaphore filée, procédé cher aux poètes.",
+      "wikipedia": "Métaphore"
+    },
+    {
+      "id": "langue-272",
+      "difficulty": 3,
+      "question": "Quelle figure de style désigne le tout par une partie, comme « une voile » pour un navire ?",
+      "answer": "Synecdoque",
+      "accept": [],
+      "choices": [
+        "Métonymie",
+        "Métaphore",
+        "Catachrèse"
+      ],
+      "explanation": "Souvent considérée comme une variété de métonymie, elle repose sur un rapport d'inclusion : « avoir un toit » pour avoir un logement.",
+      "wikipedia": "Synecdoque"
+    },
+    {
+      "id": "langue-273",
+      "difficulty": 3,
+      "question": "Quelle figure de style rattache à un même mot deux compléments disparates, comme « Vêtu de probité candide et de lin blanc » ?",
+      "answer": "Zeugme",
+      "accept": [
+        "zeugma"
+      ],
+      "choices": [
+        "Hypallage",
+        "Syllepse",
+        "Chiasme"
+      ],
+      "explanation": "Ce vers de Victor Hugo, dans « Booz endormi », associe à « vêtu » un terme abstrait et un terme concret, créant un effet saisissant.",
+      "wikipedia": "Zeugma (stylistique)"
+    },
+    {
+      "id": "langue-274",
+      "difficulty": 3,
+      "question": "Quelle figure de style feint de ne pas parler d'une chose tout en en parlant, comme « Je ne vous dirai pas que… » ?",
+      "answer": "Prétérition",
+      "accept": [
+        "preterition"
+      ],
+      "choices": [
+        "Réticence",
+        "Antiphrase",
+        "Aposiopèse"
+      ],
+      "explanation": "Appelée aussi paralipse, du latin « praeteritio », action de passer sous silence ; la chanson de Jean-Jacques Goldman « Je ne vous parlerai pas d'elle » en est un exemple.",
+      "wikipedia": "Prétérition"
+    },
+    {
+      "id": "langue-275",
+      "difficulty": 3,
+      "question": "Quelle figure de style rompt la construction attendue de la phrase, comme dans « Le nez de Cléopâtre : s'il eût été plus court… » ?",
+      "answer": "Anacoluthe",
+      "accept": [],
+      "choices": [
+        "Ellipse",
+        "Hyperbate",
+        "Asyndète"
+      ],
+      "explanation": "Dans cette pensée de Pascal, « le nez de Cléopâtre » reste en suspens sans fonction grammaticale ; le capitaine Haddock en a fait un juron.",
+      "wikipedia": "Anacoluthe"
+    },
+    {
+      "id": "langue-276",
+      "difficulty": 1,
+      "question": "Quelle figure de style représente une idée abstraite par une image concrète, comme une faucheuse pour la mort ?",
+      "answer": "Allégorie",
+      "accept": [
+        "allegorie"
+      ],
+      "choices": [
+        "Symbole",
+        "Métaphore",
+        "Parabole"
+      ],
+      "explanation": "Les statues de la Justice aux yeux bandés tenant une balance et un glaive sont des allégories très répandues.",
+      "wikipedia": "Allégorie"
+    },
+    {
+      "id": "langue-277",
+      "difficulty": 2,
+      "question": "Quelle figure de style dit le contraire de ce que l'on pense, par ironie, comme « C'est du joli ! » ?",
+      "answer": "Antiphrase",
+      "accept": [],
+      "choices": [
+        "Litote",
+        "Euphémisme",
+        "Prétérition"
+      ],
+      "explanation": "Proche de l'euphémisme, c'est le ressort principal de l'ironie : dire « Quel temps magnifique ! » sous une pluie battante en est un exemple typique.",
+      "wikipedia": "Antiphrase"
+    },
+    {
+      "id": "langue-278",
+      "difficulty": 3,
+      "question": "Quelle figure de style fait parler un mort, un absent, un animal ou une chose inanimée ?",
+      "answer": "Prosopopée",
+      "accept": [
+        "prosopopee"
+      ],
+      "choices": [
+        "Apostrophe",
+        "Personnification",
+        "Allégorie"
+      ],
+      "explanation": "Dans le « Criton » de Platon, Socrate imagine que les Lois de la cité lui parlent ; Rousseau fait de même parler le héros romain Fabricius.",
+      "wikipedia": "Prosopopée"
+    },
+    {
+      "id": "langue-279",
+      "difficulty": 1,
+      "question": "Quelle figure de style consiste à s'adresser directement à un absent ou à une chose, comme « Ô temps, suspends ton vol » ?",
+      "answer": "Apostrophe",
+      "accept": [],
+      "choices": [
+        "Prosopopée",
+        "Invocation",
+        "Interjection"
+      ],
+      "explanation": "Ce vers du « Lac » de Lamartine interpelle le temps lui-même ; l'apostrophe est souvent introduite par l'interjection « ô ».",
+      "wikipedia": "Apostrophe (rhétorique)"
+    },
+    {
+      "id": "langue-280",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un jeu de mots fondé sur une ressemblance de sons, souvent volontiers facile ?",
+      "answer": "Calembour",
+      "accept": [],
+      "choices": [
+        "Contrepèterie",
+        "Charade",
+        "Rébus"
+      ],
+      "explanation": "Pour un personnage des « Misérables » de Victor Hugo, c'est « la fiente de l'esprit qui vole » ; Raymond Devos et Pierre Dac en ont pourtant fait un art.",
+      "wikipedia": "Calembour"
+    },
+    {
+      "id": "langue-281",
+      "difficulty": 3,
+      "question": "Quelle figure emploie un nom propre comme nom commun, comme « un harpagon » pour un avare ?",
+      "answer": "Antonomase",
+      "accept": [],
+      "choices": [
+        "Éponymie",
+        "Métonymie",
+        "Catachrèse"
+      ],
+      "explanation": "Elle fonctionne aussi en sens inverse, en désignant une personne par une périphrase devenue nom propre : « le Corse » pour Napoléon ou « le Stagirite » pour Aristote.",
+      "wikipedia": "Antonomase"
+    },
+    {
+      "id": "langue-282",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le vers français de douze syllabes, vers roi de la tragédie classique ?",
+      "answer": "Alexandrin",
+      "accept": [],
+      "choices": [
+        "Décasyllabe",
+        "Octosyllabe",
+        "Hendécasyllabe"
+      ],
+      "explanation": "Il doit son nom au « Roman d'Alexandre », poème du XIIe siècle consacré à Alexandre le Grand qui l'a popularisé.",
+      "wikipedia": "Alexandrin"
+    },
+    {
+      "id": "langue-283",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on chacune des deux moitiés d'un alexandrin séparées par la césure ?",
+      "answer": "Hémistiche",
+      "accept": [
+        "hemistiche"
+      ],
+      "choices": [
+        "Distique",
+        "Tercet",
+        "Pied"
+      ],
+      "explanation": "Dans l'alexandrin classique, chaque hémistiche compte six syllabes et la césure tombe après la sixième.",
+      "wikipedia": "Hémistiche"
+    },
+    {
+      "id": "langue-284",
+      "difficulty": 1,
+      "question": "Comment qualifie-t-on des rimes disposées selon le schéma ABBA dans une strophe ?",
+      "answer": "Embrassées",
+      "accept": [
+        "rimes embrassées",
+        "rime embrassée",
+        "embrassees"
+      ],
+      "choices": [
+        "Croisées",
+        "Plates",
+        "Suivies"
+      ],
+      "explanation": "Les rimes croisées suivent le schéma ABAB et les rimes plates ou suivies se succèdent deux par deux ; les quatrains d'un sonnet classique sont souvent embrassés.",
+      "wikipedia": "Rime"
+    },
+    {
+      "id": "langue-285",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le signe de ponctuation « … », qui marque une interruption, une hésitation ou une omission ?",
+      "answer": "Points de suspension",
+      "accept": [],
+      "choices": [
+        "Deux-points",
+        "Point-virgule",
+        "Tiret"
+      ],
+      "explanation": "Placés entre crochets [...], ils indiquent qu'un passage a été coupé dans une citation.",
+      "wikipedia": "Points de suspension"
+    },
+    {
+      "id": "langue-286",
+      "difficulty": 1,
+      "question": "Dans quelle langue la phrase interrogative s'ouvre-t-elle par un point d'interrogation renversé ?",
+      "answer": "Espagnol",
+      "accept": [
+        "castillan"
+      ],
+      "choices": [
+        "Portugais",
+        "Catalan",
+        "Italien"
+      ],
+      "explanation": "Le signe ¿ annonce dès le début la modulation de la voix ; il en va de même pour le point d'exclamation ¡.",
+      "wikipedia": "Point d'interrogation"
+    },
+    {
+      "id": "langue-287",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on le signe ‽, qui fusionne les marques de l'interrogation et de l'exclamation ?",
+      "answer": "Point exclarrogatif",
+      "accept": [
+        "interrobang"
+      ],
+      "choices": [
+        "Point d'ironie",
+        "Point d'autorité",
+        "Point de doute"
+      ],
+      "explanation": "Créé en 1962 par le publicitaire américain Martin Speckter sous le nom d'interrobang, il reste très peu employé.",
+      "wikipedia": "Point exclarrogatif"
+    },
+    {
+      "id": "langue-288",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la grande initiale ornée ou agrandie qui ouvre un chapitre ou un paragraphe ?",
+      "answer": "Lettrine",
+      "accept": [],
+      "choices": [
+        "Enluminure",
+        "Majuscule",
+        "Rubrique"
+      ],
+      "explanation": "Héritée des manuscrits médiévaux, souvent enluminée, elle occupe en hauteur plusieurs lignes du texte qui l'entoure.",
+      "wikipedia": "Lettrine"
+    },
+    {
+      "id": "langue-289",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les petits traits terminant les extrémités des caractères dans des polices comme le Times ?",
+      "answer": "Empattements",
+      "accept": [
+        "empattement",
+        "sérif",
+        "serif"
+      ],
+      "choices": [
+        "Ligatures",
+        "Jambages",
+        "Pleins"
+      ],
+      "explanation": "Les polices dépourvues d'empattements, comme l'Arial, sont dites « sans serif » ou « linéales ».",
+      "wikipedia": "Empattement (typographie)"
+    },
+    {
+      "id": "langue-290",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on en typographie la fusion de deux lettres en un seul signe, comme œ ou æ ?",
+      "answer": "Ligature",
+      "accept": [],
+      "choices": [
+        "Crénage",
+        "Diacritique",
+        "Lettrine"
+      ],
+      "explanation": "Le « œ » de « cœur » et « œuf » n'est pas une simple coquetterie : il correspond à une lettre distincte de l'orthographe française.",
+      "wikipedia": "Ligature (écriture)"
+    },
+    {
+      "id": "langue-291",
+      "difficulty": 2,
+      "question": "Quel faux texte latin, issu d'un traité de Cicéron, sert à remplir les maquettes en typographie ?",
+      "answer": "Lorem ipsum",
+      "accept": [],
+      "choices": [
+        "Alea jacta est",
+        "Ad libitum",
+        "Et cetera"
+      ],
+      "explanation": "Il provient d'un passage déformé du « De finibus bonorum et malorum » de Cicéron ; sa mise en page imite celle d'un vrai texte.",
+      "wikipedia": "Lorem ipsum"
+    },
+    {
+      "id": "langue-292",
+      "difficulty": 3,
+      "question": "Quel nom officiel désigne en français le signe #, souvent appelé à tort dièse ?",
+      "answer": "Croisillon",
+      "accept": [],
+      "choices": [
+        "Carré",
+        "Hachure",
+        "Grille"
+      ],
+      "explanation": "Le dièse musical ♯ a des traits verticaux et des barres obliques montantes, tandis que le croisillon a des barres horizontales.",
+      "wikipedia": "Croisillon (signe)"
+    },
+    {
+      "id": "langue-293",
+      "difficulty": 3,
+      "question": "Quel signe diacritique en forme de petit v se place sur le c tchèque de « č » ?",
+      "answer": "Caron",
+      "accept": [
+        "háček",
+        "hacek",
+        "hatchek"
+      ],
+      "choices": [
+        "Brève",
+        "Circonflexe",
+        "Ogonek"
+      ],
+      "explanation": "Son nom tchèque, « háček », signifie « petit crochet » ; il a été introduit par le réformateur Jan Hus au XVe siècle.",
+      "wikipedia": "Caron (diacritique)"
+    },
+    {
+      "id": "langue-294",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la lettre allemande ß, qui note un s sourd ?",
+      "answer": "Eszett",
+      "accept": [
+        "s dur",
+        "s tranchant",
+        "scharfes s"
+      ],
+      "choices": [
+        "Umlaut",
+        "Ogonek",
+        "Sigma"
+      ],
+      "explanation": "Son nom vient des lettres s et z, dont elle est issue d'une ligature ; la Suisse ne l'utilise plus et écrit « ss ».",
+      "wikipedia": "Eszett"
+    },
+    {
+      "id": "langue-295",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on en français le signe « / », appelé slash en anglais ?",
+      "answer": "Barre oblique",
+      "accept": [
+        "slash"
+      ],
+      "choices": [
+        "Barre verticale",
+        "Tiret",
+        "Trait d'union"
+      ],
+      "explanation": "Son symétrique, « \\ », s'appelle barre oblique inversée ou antislash ; en anglais, la barre oblique se nomme « slash ».",
+      "wikipedia": "Barre oblique"
+    },
+    {
+      "id": "langue-296",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'écriture typographique penchée vers la droite, nommée d'après un pays ?",
+      "answer": "Italique",
+      "accept": [],
+      "choices": [
+        "Romain",
+        "Gras",
+        "Cursive"
+      ],
+      "explanation": "Elle fut gravée en 1499 par Francesco Griffo à la demande de l'imprimeur vénitien Alde Manuce, qui voulait réduire la taille des livres pour les rendre accessibles aux étudiants.",
+      "wikipedia": "Italique (typographie)"
+    },
+    {
+      "id": "langue-297",
+      "difficulty": 2,
+      "question": "Quelle police de caractères sans empattement, créée en Suisse en 1957, est omniprésente dans la signalétique ?",
+      "answer": "Helvetica",
+      "accept": [],
+      "choices": [
+        "Futura",
+        "Garamond",
+        "Univers"
+      ],
+      "explanation": "Elle s'appelait d'abord Neue Haas Grotesk ; son nom latin, qui signifie « suisse », a été choisi pour faciliter son exportation.",
+      "wikipedia": "Helvetica"
+    },
+    {
+      "id": "langue-298",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on de façon générale les accents, cédilles et autres signes ajoutés à une lettre ?",
+      "answer": "Diacritiques",
+      "accept": [
+        "diacritique",
+        "signe diacritique"
+      ],
+      "choices": [
+        "Ligatures",
+        "Glyphes",
+        "Ponctuations"
+      ],
+      "explanation": "Ils modifient la prononciation d'une lettre ou distinguent des homonymes, comme « a » et « à » ou « du » et « dû ».",
+      "wikipedia": "Diacritique"
+    },
+    {
+      "id": "langue-299",
+      "difficulty": 3,
+      "question": "Quelle sorte d'espacement doit précéder en français les deux-points, le point-virgule et le point d'exclamation ?",
+      "answer": "Espace insécable",
+      "accept": [
+        "insécable"
+      ],
+      "choices": [
+        "Espace justifiante",
+        "Cadratin",
+        "Tabulation"
+      ],
+      "explanation": "Elle empêche le signe de se retrouver seul en début de ligne ; c'est une règle typographique française que l'anglais ignore.",
+      "wikipedia": "Espace insécable"
+    },
+    {
+      "id": "langue-300",
+      "difficulty": 1,
+      "question": "Quelle langue celtique, proche du gallois, est parlée dans l'ouest de la France ?",
+      "answer": "Breton",
+      "accept": [],
+      "choices": [
+        "Gaélique",
+        "Cornique",
+        "Gallo"
+      ],
+      "explanation": "Elle a été apportée au haut Moyen Âge par des Bretons venus de Grande-Bretagne ; le gallo, langue romane, est parlé en Haute-Bretagne.",
+      "wikipedia": "Breton"
+    },
+    {
+      "id": "langue-301",
+      "difficulty": 1,
+      "question": "Quelle langue, appelée aussi langue d'oc, fut celle des troubadours du Moyen Âge ?",
+      "answer": "Occitan",
+      "accept": [],
+      "choices": [
+        "Catalan",
+        "Provençal",
+        "Basque"
+      ],
+      "explanation": "Le nom vient du mot « oc », qui signifiait « oui » ; le provençal en est l'un des dialectes, illustré par le poète Frédéric Mistral.",
+      "wikipedia": "Occitan"
+    },
+    {
+      "id": "langue-302",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les parlers romans du nord de la France, nommés d'après leur façon de dire « oui » ?",
+      "answer": "Langues d'oïl",
+      "accept": [
+        "langue d'oïl",
+        "langue d'oil"
+      ],
+      "choices": [
+        "Langues d'oc",
+        "Langues de si",
+        "Langues romanes"
+      ],
+      "explanation": "Le français standard en est issu, de même que le picard, le normand, le gallo, le wallon ou le poitevin-saintongeais.",
+      "wikipedia": "Langue d'oïl"
+    },
+    {
+      "id": "langue-303",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la langue parlée par le peuple dans l'Empire romain, d'où sont issues les langues romanes ?",
+      "answer": "Latin vulgaire",
+      "accept": [
+        "bas latin"
+      ],
+      "choices": [
+        "Latin classique",
+        "Latin ecclésiastique",
+        "Latin macaronique"
+      ],
+      "explanation": "Il différait du latin classique des écrivains : le français « cheval » vient ainsi de « caballus » et non du classique « equus ».",
+      "wikipedia": "Latin vulgaire"
+    },
+    {
+      "id": "langue-304",
+      "difficulty": 1,
+      "question": "Quelle langue d'origine germanique, mêlée d'hébreu et de slave, était celle des Juifs d'Europe centrale et orientale ?",
+      "answer": "Yiddish",
+      "accept": [],
+      "choices": [
+        "Ladino",
+        "Hébreu",
+        "Araméen"
+      ],
+      "explanation": "Il s'écrit avec l'alphabet hébreu ; l'écrivain Isaac Bashevis Singer, qui écrivait en yiddish, a reçu le prix Nobel de littérature.",
+      "wikipedia": "Yiddish"
+    },
+    {
+      "id": "langue-305",
+      "difficulty": 3,
+      "question": "Quelle langue romane, appelée aussi ladino, était parlée par les Juifs séfarades expulsés d'Espagne ?",
+      "answer": "Judéo-espagnol",
+      "accept": [
+        "ladino"
+      ],
+      "choices": [
+        "Yiddish",
+        "Mozarabe",
+        "Judéo-arabe"
+      ],
+      "explanation": "Après l'expulsion de 1492, elle se répandit dans l'Empire ottoman, notamment à Salonique et Istanbul, en conservant un espagnol archaïque.",
+      "wikipedia": "Judéo-espagnol"
+    },
+    {
+      "id": "langue-306",
+      "difficulty": 1,
+      "question": "Quelle langue dérivée du néerlandais est parlée en Afrique du Sud et en Namibie ?",
+      "answer": "Afrikaans",
+      "accept": [],
+      "choices": [
+        "Zoulou",
+        "Xhosa",
+        "Flamand"
+      ],
+      "explanation": "Elle s'est formée à partir du néerlandais des colons arrivés au Cap au XVIIe siècle, et est l'une des langues officielles sud-africaines.",
+      "wikipedia": "Afrikaans"
+    },
+    {
+      "id": "langue-307",
+      "difficulty": 2,
+      "question": "Quelle langue sémitique, écrite avec l'alphasyllabaire guèze, est la langue de travail de l'Éthiopie ?",
+      "answer": "Amharique",
+      "accept": [
+        "amharic"
+      ],
+      "choices": [
+        "Tigrigna",
+        "Oromo",
+        "Somali"
+      ],
+      "explanation": "Elle compte de très nombreux locuteurs et s'écrit dans un système où chaque signe combine une consonne et une voyelle.",
+      "wikipedia": "Amharique"
+    },
+    {
+      "id": "langue-308",
+      "difficulty": 2,
+      "question": "Quelle langue de Malte, seule langue sémitique officielle de l'Union européenne, s'écrit en alphabet latin ?",
+      "answer": "Maltais",
+      "accept": [],
+      "choices": [
+        "Arabe",
+        "Sicilien",
+        "Hébreu"
+      ],
+      "explanation": "Issu de l'arabe sicilien, il a absorbé un important vocabulaire italien, sicilien et anglais au fil de l'histoire de l'île.",
+      "wikipedia": "Maltais"
+    },
+    {
+      "id": "langue-309",
+      "difficulty": 2,
+      "question": "Quelle langue austronésienne, cousine de l'indonésien, est parlée par les habitants de Madagascar ?",
+      "answer": "Malgache",
+      "accept": [],
+      "choices": [
+        "Swahili",
+        "Comorien",
+        "Créole"
+      ],
+      "explanation": "Ses origines remontent à des navigateurs venus de Bornéo il y a plus d'un millénaire, à des milliers de kilomètres de l'île.",
+      "wikipedia": "Malgache"
+    },
+    {
+      "id": "langue-310",
+      "difficulty": 2,
+      "question": "Quelle langue amérindienne, celle de l'Empire inca, est encore parlée par des millions de personnes dans les Andes ?",
+      "answer": "Quechua",
+      "accept": [
+        "quichua"
+      ],
+      "choices": [
+        "Aymara",
+        "Nahuatl",
+        "Mapudungun"
+      ],
+      "explanation": "Langue officielle au Pérou et en Bolivie aux côtés de l'espagnol, elle a donné au français des mots comme « lama » et « condor ».",
+      "wikipedia": "Quechua"
+    },
+    {
+      "id": "langue-311",
+      "difficulty": 1,
+      "question": "Quelle langue, avec le finnois et l'estonien, appartient à la famille des langues finno-ougriennes ?",
+      "answer": "Hongrois",
+      "accept": [
+        "magyar"
+      ],
+      "choices": [
+        "Roumain",
+        "Polonais",
+        "Tchèque"
+      ],
+      "explanation": "Langue non indo-européenne au cœur de l'Europe, le hongrois est agglutinant et compte une vingtaine de cas grammaticaux.",
+      "wikipedia": "Hongrois"
+    },
+    {
+      "id": "langue-312",
+      "difficulty": 1,
+      "question": "Quelle langue ancienne de l'Inde, apparentée au latin et au grec, est la langue sacrée de l'hindouisme ?",
+      "answer": "Sanskrit",
+      "accept": [
+        "sanscrit"
+      ],
+      "choices": [
+        "Pali",
+        "Tamoul",
+        "Hindi"
+      ],
+      "explanation": "Langue indo-européenne de la branche indo-aryenne, elle est la langue des Védas et reste encore parlée par une petite minorité dans le sous-continent indien.",
+      "wikipedia": "Sanskrit"
+    },
+    {
+      "id": "langue-313",
+      "difficulty": 1,
+      "question": "Quelle langue, appelée aussi farsi, est la langue officielle de l'Iran ?",
+      "answer": "Persan",
+      "accept": [
+        "farsi"
+      ],
+      "choices": [
+        "Arabe",
+        "Kurde",
+        "Pachto"
+      ],
+      "explanation": "Langue indo-européenne, elle s'écrit avec une variante de l'alphabet arabe ; c'est la langue des poètes Hafez, Rûmî et Omar Khayyam.",
+      "wikipedia": "Persan"
+    },
+    {
+      "id": "langue-314",
+      "difficulty": 1,
+      "question": "Quelle langue, ressuscitée comme langue parlée au XIXe siècle par Eliezer Ben Yehuda, est parlée en Israël ?",
+      "answer": "Hébreu",
+      "accept": [
+        "hebreu",
+        "hébreu moderne"
+      ],
+      "choices": [
+        "Yiddish",
+        "Araméen",
+        "Ladino"
+      ],
+      "explanation": "Restée pendant des siècles une langue liturgique et savante, elle est l'un des rares exemples de langue redevenue maternelle.",
+      "wikipedia": "Hébreu"
+    },
+    {
+      "id": "langue-315",
+      "difficulty": 1,
+      "question": "Quelle langue à base lexicale française est parlée par la quasi-totalité de la population d'Haïti ?",
+      "answer": "Créole haïtien",
+      "accept": [
+        "créole",
+        "kreyòl"
+      ],
+      "choices": [
+        "Créole martiniquais",
+        "Papiamento",
+        "Créole réunionnais"
+      ],
+      "explanation": "Langue officielle avec le français depuis 1987, c'est le créole à base lexicale française qui compte le plus de locuteurs.",
+      "wikipedia": "Créole haïtien"
+    },
+    {
+      "id": "langue-316",
+      "difficulty": 1,
+      "question": "Quelle langue germanique, restée très proche du vieux norrois des sagas, est parlée dans une île de l'Atlantique Nord ?",
+      "answer": "Islandais",
+      "accept": [],
+      "choices": [
+        "Norvégien",
+        "Féroïen",
+        "Danois"
+      ],
+      "explanation": "Un Islandais peut lire les sagas médiévales presque sans difficulté ; un comité crée des néologismes pour éviter les emprunts.",
+      "wikipedia": "Islandais"
+    },
+    {
+      "id": "langue-317",
+      "difficulty": 2,
+      "question": "Quelle langue d'Afrique de l'Ouest est la langue la plus parlée au Sénégal, à côté du français ?",
+      "answer": "Wolof",
+      "accept": [
+        "ouolof"
+      ],
+      "choices": [
+        "Peul",
+        "Bambara",
+        "Haoussa"
+      ],
+      "explanation": "Langue de la famille nigéro-congolaise, elle sert de langue véhiculaire bien au-delà de son groupe ethnique, notamment à Dakar et en Gambie.",
+      "wikipedia": "Wolof (langue)"
+    },
+    {
+      "id": "langue-318",
+      "difficulty": 2,
+      "question": "Quelle langue inuite est la langue officielle du Groenland ?",
+      "answer": "Groenlandais",
+      "accept": [
+        "kalaallisut"
+      ],
+      "choices": [
+        "Danois",
+        "Inuktitut",
+        "Islandais"
+      ],
+      "explanation": "Langue polysynthétique, elle peut former en un seul mot très long ce que le français exprime par une phrase entière.",
+      "wikipedia": "Groenlandais"
+    },
+    {
+      "id": "langue-319",
+      "difficulty": 2,
+      "question": "Quelle langue construite le linguiste Marc Okrand a-t-il créée pour des extraterrestres guerriers de Star Trek ?",
+      "answer": "Klingon",
+      "accept": [],
+      "choices": [
+        "Vulcain",
+        "Na'vi",
+        "Dothraki"
+      ],
+      "explanation": "Elle possède une grammaire complète, des dictionnaires, et même des traductions de Hamlet et de l'épopée de Gilgamesh.",
+      "wikipedia": "Klingon (langue)"
+    },
+    {
+      "id": "langue-320",
+      "difficulty": 3,
+      "question": "Quelle langue elfique inventée par Tolkien s'inspire largement du finnois ?",
+      "answer": "Quenya",
+      "accept": [],
+      "choices": [
+        "Sindarin",
+        "Khuzdul",
+        "Noir Parler"
+      ],
+      "explanation": "Dans l'univers de Tolkien, c'est une langue ancienne et savante, une sorte de « latin des elfes », tandis que le sindarin s'inspire du gallois.",
+      "wikipedia": "Quenya"
+    },
+    {
+      "id": "langue-321",
+      "difficulty": 3,
+      "question": "Quelle langue construite, créée en 1879 par le prêtre allemand Johann Martin Schleyer, précéda l'espéranto ?",
+      "answer": "Volapük",
+      "accept": [
+        "volapuk"
+      ],
+      "choices": [
+        "Ido",
+        "Interlingua",
+        "Novial"
+      ],
+      "explanation": "Après un succès fulgurant à la fin du XIXe siècle, il fut vite supplanté par l'espéranto, réputé plus simple à apprendre.",
+      "wikipedia": "Volapük"
+    },
+    {
+      "id": "langue-322",
+      "difficulty": 2,
+      "question": "Quel ecclésiastique fonda à Paris au XVIIIe siècle la première école gratuite pour enfants sourds ?",
+      "answer": "Abbé de l'Épée",
+      "accept": [
+        "Charles-Michel de L'Épée",
+        "de l'Épée",
+        "L'Épée"
+      ],
+      "choices": [
+        "Abbé Sicard",
+        "Abbé Grégoire",
+        "Abbé Pierre"
+      ],
+      "explanation": "Il observa les signes utilisés par deux sœurs sourdes et en tira une méthode d'enseignement, ancêtre de la langue des signes française.",
+      "wikipedia": "Charles-Michel de L'Épée"
+    },
+    {
+      "id": "langue-323",
+      "difficulty": 1,
+      "question": "Quel alphabet, employé pour le russe et le bulgare, tire son nom d'un saint missionnaire byzantin ?",
+      "answer": "Cyrillique",
+      "accept": [
+        "alphabet cyrillique"
+      ],
+      "choices": [
+        "Glagolitique",
+        "Grec",
+        "Latin"
+      ],
+      "explanation": "Il honore saint Cyrille, l'évangélisateur des Slaves, même s'il fut probablement élaboré par ses disciples à partir de l'alphabet grec.",
+      "wikipedia": "Alphabet cyrillique"
+    },
+    {
+      "id": "langue-324",
+      "difficulty": 1,
+      "question": "Quel peuple de navigateurs du Levant a inventé l'alphabet, ancêtre du grec et du latin ?",
+      "answer": "Phéniciens",
+      "accept": [
+        "phénicien",
+        "pheniciens"
+      ],
+      "choices": [
+        "Hébreux",
+        "Égyptiens",
+        "Sumériens"
+      ],
+      "explanation": "Cet alphabet de vingt-deux lettres ne notait que les consonnes ; les Grecs l'ont adapté en y ajoutant des voyelles.",
+      "wikipedia": "Alphabet phénicien"
+    },
+    {
+      "id": "langue-325",
+      "difficulty": 1,
+      "question": "Quelle écriture formée de signes en forme de clous était gravée sur des tablettes d'argile en Mésopotamie ?",
+      "answer": "Cunéiforme",
+      "accept": [
+        "cuneiforme"
+      ],
+      "choices": [
+        "Hiéroglyphique",
+        "Linéaire A",
+        "Runique"
+      ],
+      "explanation": "Inventée par les Sumériens, elle a servi pendant plus de trois mille ans à noter des langues très différentes, comme l'akkadien et le hittite.",
+      "wikipedia": "Écriture cunéiforme"
+    },
+    {
+      "id": "langue-326",
+      "difficulty": 3,
+      "question": "Quelle écriture de l'âge du bronze, déchiffrée en 1952 par Michael Ventris, notait le grec mycénien ?",
+      "answer": "Linéaire B",
+      "accept": [
+        "lineaire B"
+      ],
+      "choices": [
+        "Linéaire A",
+        "Hiéroglyphes crétois",
+        "Disque de Phaistos"
+      ],
+      "explanation": "Ventris, architecte de formation, démontra qu'elle notait une forme ancienne du grec ; le linéaire A, plus ancien, résiste toujours.",
+      "wikipedia": "Linéaire B"
+    },
+    {
+      "id": "langue-327",
+      "difficulty": 2,
+      "question": "Quel syllabaire japonais, aux formes anguleuses, sert surtout à écrire les mots d'origine étrangère ?",
+      "answer": "Katakana",
+      "accept": [],
+      "choices": [
+        "Hiragana",
+        "Kanji",
+        "Romaji"
+      ],
+      "explanation": "Le japonais combine trois écritures : les kanji d'origine chinoise, les hiragana pour la grammaire et les katakana pour les emprunts.",
+      "wikipedia": "Katakana"
+    },
+    {
+      "id": "langue-328",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les caractères d'origine chinoise utilisés dans l'écriture japonaise ?",
+      "answer": "Kanji",
+      "accept": [],
+      "choices": [
+        "Kana",
+        "Hangeul",
+        "Hanzi"
+      ],
+      "explanation": "Le mot signifie littéralement « caractères des Han » ; un Japonais en connaît couramment environ deux mille.",
+      "wikipedia": "Kanji"
+    },
+    {
+      "id": "langue-329",
+      "difficulty": 2,
+      "question": "Quel système de transcription en alphabet latin est la romanisation officielle du chinois mandarin ?",
+      "answer": "Pinyin",
+      "accept": [
+        "hanyu pinyin"
+      ],
+      "choices": [
+        "Wade-Giles",
+        "Romaji",
+        "Bopomofo"
+      ],
+      "explanation": "Adopté en Chine en 1958, il note aussi les tons par des accents ; c'est lui qui a fait écrire « Beijing » au lieu de « Pékin ».",
+      "wikipedia": "Hanyu pinyin"
+    },
+    {
+      "id": "langue-330",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on l'écriture dont les lignes changent de sens alternativement, comme un bœuf qui laboure ?",
+      "answer": "Boustrophédon",
+      "accept": [
+        "boustrophedon"
+      ],
+      "choices": [
+        "Sinistroverse",
+        "Dextroverse",
+        "Palindrome"
+      ],
+      "explanation": "On le trouve dans des inscriptions grecques archaïques, comme les lois de Gortyne en Crète.",
+      "wikipedia": "Boustrophédon"
+    },
+    {
+      "id": "langue-331",
+      "difficulty": 3,
+      "question": "Quel Amérindien inventa au début du XIXe siècle un syllabaire pour écrire la langue cherokee ?",
+      "answer": "Sequoyah",
+      "accept": [],
+      "choices": [
+        "Sitting Bull",
+        "Tecumseh",
+        "Pocahontas"
+      ],
+      "explanation": "Illettré, il réussit seul cette invention, dont la nouvelle se répandit à travers les États-Unis ; le séquoia porterait son nom.",
+      "wikipedia": "Sequoyah"
+    },
+    {
+      "id": "langue-332",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on l'écriture non déchiffrée découverte sur des tablettes de bois de l'île de Pâques ?",
+      "answer": "Rongorongo",
+      "accept": [],
+      "choices": [
+        "Moaï",
+        "Kohau",
+        "Linéaire A"
+      ],
+      "explanation": "Seules quelques dizaines d'objets gravés subsistent ; on ignore encore s'il s'agit d'une véritable écriture.",
+      "wikipedia": "Rongorongo"
+    },
+    {
+      "id": "langue-333",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un signe d'écriture qui représente une idée ou une chose plutôt qu'un son ?",
+      "answer": "Idéogramme",
+      "accept": [
+        "ideogramme"
+      ],
+      "choices": [
+        "Phonogramme",
+        "Pictogramme",
+        "Graphème"
+      ],
+      "explanation": "Les caractères chinois sont souvent qualifiés d'idéogrammes, bien que la plupart comportent aussi un élément phonétique.",
+      "wikipedia": "Idéogramme"
+    },
+    {
+      "id": "langue-334",
+      "difficulty": 1,
+      "question": "Quelle est la lettre la plus fréquente dans les textes écrits en français ?",
+      "answer": "E",
+      "accept": [],
+      "choices": [
+        "A",
+        "S",
+        "T"
+      ],
+      "explanation": "C'est ce qui rend si remarquable le roman lipogrammatique de Georges Perec, « La Disparition » ; la fréquence exacte des lettres varie selon le corpus étudié.",
+      "wikipedia": "Fréquence d'apparition des lettres"
+    },
+    {
+      "id": "langue-335",
+      "difficulty": 1,
+      "question": "Quelle est la dernière lettre de l'alphabet grec, symbole de la fin de toute chose ?",
+      "answer": "Oméga",
+      "accept": [
+        "omega"
+      ],
+      "choices": [
+        "Epsilon",
+        "Zêta",
+        "Psi"
+      ],
+      "explanation": "Précédée par psi, elle est la vingt-quatrième lettre de l'alphabet grec ; sa majuscule Ω sert de symbole à l'ohm, unité de résistance électrique.",
+      "wikipedia": "Oméga"
+    },
+    {
+      "id": "langue-336",
+      "difficulty": 1,
+      "question": "Comment dit-on « soixante-dix » en Belgique et en Suisse romande ?",
+      "answer": "Septante",
+      "accept": [],
+      "choices": [
+        "Huitante",
+        "Nonante",
+        "Soixante-dix"
+      ],
+      "explanation": "Hérité du latin « septuaginta », ce nombre était courant en France jusqu'au XVIIe siècle et survit dans certaines régions de l'Est.",
+      "wikipedia": "Français de Belgique"
+    },
+    {
+      "id": "langue-337",
+      "difficulty": 1,
+      "question": "Quel organisme international regroupe les États ayant le français en partage ?",
+      "answer": "OIF",
+      "accept": [
+        "Organisation internationale de la Francophonie",
+        "Francophonie"
+      ],
+      "choices": [
+        "Commonwealth",
+        "Alliance française",
+        "Union latine"
+      ],
+      "explanation": "Sa Journée internationale de la Francophonie est célébrée chaque 20 mars, date anniversaire de la création de l'agence qui l'a précédée.",
+      "wikipedia": "Organisation internationale de la francophonie"
+    },
+    {
+      "id": "langue-338",
+      "difficulty": 2,
+      "question": "Quel géographe français, frère d'Élisée, a inventé le mot « francophonie » à la fin du XIXe siècle ?",
+      "answer": "Onésime Reclus",
+      "accept": [
+        "Reclus"
+      ],
+      "choices": [
+        "Élisée Reclus",
+        "Paul Vidal de La Blache",
+        "Jules Verne"
+      ],
+      "explanation": "Il employait ce mot pour désigner l'ensemble des personnes et des territoires où l'on parle français.",
+      "wikipedia": "Onésime Reclus"
+    },
+    {
+      "id": "langue-339",
+      "difficulty": 2,
+      "question": "Quelle est la seule province du Canada officiellement bilingue français-anglais ?",
+      "answer": "Nouveau-Brunswick",
+      "accept": [],
+      "choices": [
+        "Québec",
+        "Ontario",
+        "Manitoba"
+      ],
+      "explanation": "Un tiers environ de sa population est francophone, en majorité acadienne ; Moncton y abrite une université de langue française.",
+      "wikipedia": "Nouveau-Brunswick"
+    },
+    {
+      "id": "langue-340",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les francophones des provinces maritimes du Canada, descendants des colons du XVIIe siècle ?",
+      "answer": "Acadiens",
+      "accept": [
+        "acadien"
+      ],
+      "choices": [
+        "Cajuns",
+        "Métis",
+        "Québécois"
+      ],
+      "explanation": "Déportés par les Britanniques lors du « Grand Dérangement » de 1755, certains s'installèrent en Louisiane, où ils devinrent les Cadiens.",
+      "wikipedia": "Acadiens"
+    },
+    {
+      "id": "langue-341",
+      "difficulty": 1,
+      "question": "Dans quel État américain parle-t-on encore un français appelé cadien ?",
+      "answer": "Louisiane",
+      "accept": [],
+      "choices": [
+        "Maine",
+        "Vermont",
+        "Mississippi"
+      ],
+      "explanation": "Le mot « cajun », version anglicisée de « cadien », vient lui-même de « acadien », rappelant les origines de ces francophones.",
+      "wikipedia": "Français louisianais"
+    },
+    {
+      "id": "langue-342",
+      "difficulty": 1,
+      "question": "Quel verbe les Québécois emploient-ils pour dire « faire des courses » ou « faire du shopping » ?",
+      "answer": "Magasiner",
+      "accept": [],
+      "choices": [
+        "Boutiquer",
+        "Achalander",
+        "Emplettiser"
+      ],
+      "explanation": "Ce néologisme bien formé est souvent cité comme exemple de la créativité du français québécois face aux anglicismes.",
+      "wikipedia": "Français québécois"
+    },
+    {
+      "id": "langue-343",
+      "difficulty": 2,
+      "question": "Quel mot français, employé au Canada, désigne un « podcast », ce programme audio que l'on télécharge pour l'écouter ?",
+      "answer": "Balado",
+      "accept": [
+        "baladodiffusion"
+      ],
+      "choices": [
+        "Audiolog",
+        "Radiocast",
+        "Diffuson"
+      ],
+      "explanation": "Il est formé à partir de « baladeur » et « diffusion » ; on a aussi recommandé en France l'expression « diffusion pour baladeur » pour désigner le podcasting.",
+      "wikipedia": "Podcast"
+    },
+    {
+      "id": "langue-344",
+      "difficulty": 1,
+      "question": "Quel mot français fut proposé en 1955 par le latiniste Jacques Perret à IBM pour traduire « computer » ?",
+      "answer": "Ordinateur",
+      "accept": [],
+      "choices": [
+        "Calculateur",
+        "Computeur",
+        "Informateur"
+      ],
+      "explanation": "Le professeur de lettres Jacques Perret proposa ce mot, proche d'« ordonnateur », celui qui met en ordre, à IBM France qui cherchait un nom pour ses nouvelles machines.",
+      "wikipedia": "Ordinateur"
+    },
+    {
+      "id": "langue-345",
+      "difficulty": 2,
+      "question": "Quel mot-valise a été recommandé en France en 2018 pour traduire l'anglais « fake news » ?",
+      "answer": "Infox",
+      "accept": [],
+      "choices": [
+        "Fausseinfo",
+        "Bobard",
+        "Intox"
+      ],
+      "explanation": "Formé à partir d'« information » et « intoxication », il a été publié au Journal officiel par la Commission d'enrichissement de la langue française.",
+      "wikipedia": "Infox"
+    },
+    {
+      "id": "langue-346",
+      "difficulty": 1,
+      "question": "Quel écrivain et premier président du Sénégal fut l'un des pères fondateurs de la Francophonie ?",
+      "answer": "Léopold Sédar Senghor",
+      "accept": [
+        "Senghor",
+        "Leopold Sedar Senghor"
+      ],
+      "choices": [
+        "Aimé Césaire",
+        "Habib Bourguiba",
+        "Félix Houphouët-Boigny"
+      ],
+      "explanation": "Poète de la négritude, il fut aussi le premier Africain élu à l'Académie française, en 1983.",
+      "wikipedia": "Léopold Sédar Senghor"
+    },
+    {
+      "id": "langue-347",
+      "difficulty": 1,
+      "question": "Quelle langue est, avec le français, langue officielle du Cameroun ?",
+      "answer": "Anglais",
+      "accept": [],
+      "choices": [
+        "Allemand",
+        "Portugais",
+        "Espagnol"
+      ],
+      "explanation": "Ce bilinguisme hérite de la partition de l'ancienne colonie allemande entre la France et le Royaume-Uni après la Première Guerre mondiale.",
+      "wikipedia": "Cameroun"
+    },
+    {
+      "id": "langue-348",
+      "difficulty": 1,
+      "question": "Quel pays européen a pour langues officielles le français, l'allemand et une langue nationale propre ?",
+      "answer": "Luxembourg",
+      "accept": [],
+      "choices": [
+        "Suisse",
+        "Belgique",
+        "Liechtenstein"
+      ],
+      "explanation": "Le luxembourgeois, langue germanique, est la langue nationale ; le français domine dans la législation et l'allemand dans la presse.",
+      "wikipedia": "Langues au Luxembourg"
+    },
+    {
+      "id": "langue-349",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on couramment le téléphone portable en Belgique ?",
+      "answer": "GSM",
+      "accept": [],
+      "choices": [
+        "Natel",
+        "Cellulaire",
+        "Mobile"
+      ],
+      "explanation": "Le nom vient de la norme de téléphonie mobile ; les Suisses romands disent « natel », les Canadiens « cellulaire » et les Français « portable ».",
+      "wikipedia": "Français de Suisse"
+    },
+    {
+      "id": "langue-350",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le repas de midi en Belgique, en Suisse et au Québec ?",
+      "answer": "Dîner",
+      "accept": [
+        "diner"
+      ],
+      "choices": [
+        "Déjeuner",
+        "Souper",
+        "Goûter"
+      ],
+      "explanation": "Ces régions ont conservé l'usage ancien : déjeuner le matin, dîner à midi et souper le soir, comme en France autrefois.",
+      "wikipedia": "Dîner"
+    }
+  ]
+}
