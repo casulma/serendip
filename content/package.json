@@ -3,11 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "facts": "NODE_USE_ENV_PROXY=1 tsx src/facts/run.ts",
-    "oqdb": "NODE_USE_ENV_PROXY=1 tsx src/oqdb/run.ts",
-    "trivia": "NODE_USE_ENV_PROXY=1 tsx src/trivia/run.ts",
+    "verify": "NODE_USE_ENV_PROXY=1 tsx src/verify.ts",
     "build-pack": "tsx src/build-pack.ts",
-    "all": "pnpm facts && pnpm oqdb && pnpm trivia && pnpm build-pack",
+    "all": "pnpm verify && pnpm build-pack",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },

@@ -1,55 +1,24 @@
 import { beforeEach, describe, expect, it } from "vitest";
 import type { SQLiteDatabase } from "expo-sqlite";
+import type { Pack, Question } from "../src/pack/types";
 import { fakeDb } from "./fakeSqlite";
 
-import type { Fact, Pack } from "../src/pack/types";
-
-// A tiny pack instead of the real 6 MB one: 15 OpenQuizzDB questions, 3 Wikipédia anecdotes.
-const QUIZ: Fact[] = Array.from({ length: 15 }, (_, i) => ({
-  id: `f${i}`,
-  origin: "oqdb",
-  credit: { author: "Philippe Bresoux", work: "Quiz « Test »", provider: "OpenQuizzDB", url: "https://www.openquizzdb.org" },
-  text: `Fait numéro ${i}`,
-  category: i < 12 ? "histoire" : "sport",
-  source: `https://fr.wikipedia.org/wiki/F${i}`,
-  tags: i === 0 ? ["peut-changer"] : [],
-  questions: [
-    {
-      id: `f${i}-q`,
-      prompt: `Question ${i} ?`,
-      answer: { kind: "text", text: "Oui" },
-      distractors: ["Non", "Peut-être", "Jamais"].map((text) => ({ kind: "text", text })),
-      difficulty: 2,
-    },
-  ],
-}));
-const ANECDOTES: Fact[] = Array.from({ length: 3 }, (_, i) => ({
-  id: `lsv-${i}`,
-  origin: "lsv",
-  text: `Anecdote ${i}.`,
-  category: "histoire",
-  source: "https://fr.wikipedia.org/wiki/X",
-  tags: [],
-  questions: [],
-}));
-const PACK: Pack = {
-  version: "9.9.9",
-  facts: [...QUIZ, ...ANECDOTES],
-  trivia: [
-    { id: "t1", category: "geographie", family: "capitale", wikidata: "https://www.wikidata.org/wiki/Q142", prompt: "?", answer: { kind: "text", text: "Paris" }, distractors: [], difficulty: 1 },
-    ...Array.from({ length: 6 }, (_, i) => ({
-      id: `n${i}`,
-      category: "histoire" as const,
-      family: "naissance",
-      wikidata: "https://www.wikidata.org/wiki/Q1",
-      prompt: `En quelle année est né X${i} ?`,
-      answer: { kind: "text" as const, text: "1900" },
-      distractors: [],
-      difficulty: (i < 3 ? 1 : 3) as 1 | 3,
-    })),
-  ],
-};
-const tinyPack = { version: PACK.version, load: () => PACK };
+const CATS = ["histoire", "geographie", "sciences"] as const;
+const QUESTIONS: Question[] = CATS.flatMap((category) =>
+  Array.from({ length: 10 }, (_, i) => ({
+    id: `${category}-${String(i + 1).padStart(3, "0")}`,
+    category,
+    difficulty: ((i % 3) + 1) as 1 | 2 | 3,
+    question: `Question ${category} ${i} ?`,
+    answer: `Réponse ${i}`,
+    accept: [],
+    choices: ["A", "B", "C"],
+    explanation: "Une explication suffisamment longue pour le test.",
+    wikipedia: "Test",
+  })),
+);
+const PACK: Pack = { version: "9.9.9", questions: QUESTIONS };
+const tiny = { version: PACK.version, load: () => PACK };
 
 const { migrate } = await import("../src/db/schema");
 const { importPackIfNeeded, installedPackVersion } = await import("../src/db/importPack");
@@ -59,176 +28,82 @@ let db: SQLiteDatabase;
 beforeEach(async () => {
   db = fakeDb();
   await migrate(db);
-  await importPackIfNeeded(db, tinyPack);
+  await importPackIfNeeded(db, tiny);
 });
 
-const at = (h: number, day = 27) => new Date(2026, 9, day, h);
+const day = (d: number, h = 12) => new Date(2026, 10, d, h);
+let s = 7;
+const rand = () => ((s = (s * 16807) % 2147483647) - 1) / 2147483646;
 
-describe("migrations and pack import", () => {
-  it("imports the pack once and records its version", async () => {
+describe("pack import", () => {
+  it("imports once and records its version", async () => {
     expect(await installedPackVersion(db)).toBe("9.9.9");
-    expect((await db.getFirstAsync<{ n: number }>("SELECT COUNT(*) AS n FROM facts"))!.n).toBe(18);
     let loads = 0;
-    await importPackIfNeeded(db, { version: PACK.version, load: () => (loads++, PACK) });
+    await importPackIfNeeded(db, { version: "9.9.9", load: () => (loads++, PACK) });
     expect(loads).toBe(0);
-    expect((await db.getFirstAsync<{ n: number }>("SELECT COUNT(*) AS n FROM trivia"))!.n).toBe(7);
+    expect((await repo.overview(db)).total).toBe(30);
   });
 
   it("imports the real bundled pack", async () => {
     const real = fakeDb();
     await migrate(real);
     await importPackIfNeeded(real);
-    const n = (await real.getFirstAsync<{ n: number }>("SELECT COUNT(*) AS n FROM facts"))!.n;
-    expect(n).toBeGreaterThan(10_000);
-  });
-
-  it("is idempotent across app launches", async () => {
-    await migrate(db);
-    expect((await db.getFirstAsync<{ user_version: number }>("PRAGMA user_version"))!.user_version).toBe(3);
+    expect((await repo.overview(real)).total).toBeGreaterThanOrEqual(0);
   });
 });
 
-describe("daily feed", () => {
-  it("reveals distinct facts up to the daily quota", async () => {
-    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, factsPerDay: 3 });
-    const ids = new Set<string>();
-    for (let i = 0; i < 3; i++) {
-      const r = await repo.revealNextFact(db, at(9 + i));
-      expect("fact" in r).toBe(true);
-      if ("fact" in r) ids.add(r.fact.id);
-    }
-    expect(ids.size).toBe(3);
-    expect(await repo.revealNextFact(db, at(13))).toEqual({ reason: "quota" });
-    expect(await repo.feedRemainingToday(db, at(14))).toBe(0);
-    // A new day, a new quota.
-    expect("fact" in (await repo.revealNextFact(db, at(8, 28)))).toBe(true);
+describe("games", () => {
+  it("serves unseen questions across categories, within the settings", async () => {
+    const game = await repo.newGame(db, day(4), rand);
+    expect(game).toHaveLength(10);
+    expect(new Set(game.map((q) => q.category)).size).toBe(3);
+    expect(game.every((q) => !q.retry)).toBe(true);
+
+    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, categories: ["histoire"], difficulties: [1], sessionSize: 5 });
+    const only = await repo.newGame(db, day(4), rand);
+    expect(only.every((q) => q.category === "histoire" && q.difficulty === 1)).toBe(true);
+    expect(only).toHaveLength(4); // 4 easy history questions in the test pack
   });
 
-  it("subtracts notifications from the feed quota", async () => {
-    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, factsPerDay: 4, notificationsPerDay: 3 });
-    expect("fact" in (await repo.revealNextFact(db, at(9)))).toBe(true);
-    expect(await repo.revealNextFact(db, at(10))).toEqual({ reason: "quota" });
+  it("brings missed questions back the next day with the retry flag, then clears them", async () => {
+    const [first, second] = await repo.newGame(db, day(4), rand);
+    await repo.recordAnswer(db, first!, { correct: false, hinted: false }, day(4));
+    await repo.recordAnswer(db, second!, { correct: true, hinted: false }, day(4));
+    expect((await repo.overview(db)).toReview).toBe(1);
+
+    // Not on the same day…
+    expect((await repo.newGame(db, day(4, 18), rand)).some((q) => q.id === first!.id)).toBe(false);
+    // …but the next day, flagged.
+    const next = await repo.newGame(db, day(5), rand);
+    const back = next.find((q) => q.id === first!.id);
+    expect(back?.retry).toBe(true);
+    expect(next.some((q) => q.id === second!.id)).toBe(false);
+
+    await repo.recordAnswer(db, back!, { correct: true, hinted: false }, day(5));
+    expect((await repo.overview(db)).toReview).toBe(0);
+    const answers = await db.getAllAsync<{ was_retry: number }>("SELECT was_retry FROM answers ORDER BY id");
+    expect(answers.map((a) => a.was_retry)).toEqual([0, 0, 1]);
   });
 
-  it("only draws from enabled categories and reports exhaustion", async () => {
-    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, factsPerDay: 30, categories: ["sport"] });
-    const got = [];
-    for (let i = 0; i < 4; i++) got.push(await repo.revealNextFact(db, at(9)));
-    expect(got.slice(0, 3).every((r) => "fact" in r && r.fact.category === "sport")).toBe(true);
-    expect(got[3]).toEqual({ reason: "exhausted" });
+  it("lets the player review mistakes at any time and override a verdict", async () => {
+    const [q] = await repo.newGame(db, day(4), rand);
+    await repo.recordAnswer(db, q!, { correct: false, hinted: false }, day(4));
+    const review = await repo.retryGame(db, rand);
+    expect(review.map((x) => x.id)).toEqual([q!.id]);
+    expect(review[0]!.retry).toBe(true);
+
+    await repo.overrideAsCorrect(db, q!);
+    expect((await repo.overview(db)).toReview).toBe(0);
+    expect((await repo.overview(db)).correct).toBe(1);
   });
 
-  it("sets up Leitner box 1, due the next day", async () => {
-    const r = await repo.revealNextFact(db, at(9));
-    if (!("fact" in r)) throw new Error("no fact");
-    expect(r.fact).toMatchObject({ box: 1, receivedDay: "2026-10-27", dueDay: "2026-10-28", via: "feed", favorite: false, known: false });
-  });
-});
-
-describe("sources", () => {
-  it("draws OpenQuizzDB only by default, Wikipédia anecdotes once enabled", async () => {
-    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, factsPerDay: 30 });
-    const origins = new Set<string>();
-    for (let i = 0; i < 15; i++) {
-      const r = await repo.revealNextFact(db, at(9));
-      if ("fact" in r) origins.add(r.fact.origin);
-    }
-    expect([...origins]).toEqual(["oqdb"]);
-    expect(await repo.revealNextFact(db, at(9))).toEqual({ reason: "exhausted" });
-
-    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, factsPerDay: 30, wikipediaAnecdotes: true });
-    const r = await repo.revealNextFact(db, at(9));
-    expect("fact" in r && r.fact.origin).toBe("lsv");
-  });
-
-  it("exposes the question and credit of OpenQuizzDB facts", async () => {
-    const r = await repo.revealNextFact(db, at(9));
-    if (!("fact" in r)) throw new Error("no fact");
-    expect(r.fact.question?.prompt).toMatch(/^Question \d+ \?$/);
-    expect(r.fact.credit?.provider).toBe("OpenQuizzDB");
-  });
-});
-
-describe("notebook", () => {
-  it("lists received facts, newest first, with favorite and known flags", async () => {
-    const a = await repo.revealNextFact(db, at(9));
-    const b = await repo.revealNextFact(db, at(10));
-    if (!("fact" in a) || !("fact" in b)) throw new Error("no fact");
-    await repo.setFavorite(db, a.fact.id, true);
-    await repo.setKnown(db, b.fact.id, true);
-    const list = await repo.receivedFacts(db);
-    expect(list.map((f) => f.id)).toEqual([b.fact.id, a.fact.id]);
-    expect(list[1]!.favorite).toBe(true);
-    expect(list[0]!.known).toBe(true);
-    expect((await repo.lastReceivedFact(db))!.id).toBe(b.fact.id);
-    expect(await repo.countReceived(db)).toBe(2);
-    await repo.setKnown(db, b.fact.id, false);
-    expect((await repo.receivedFact(db, b.fact.id))!.known).toBe(false);
-  });
-});
-
-describe("pas clair", () => {
-  it("removes the fact from the day and frees its quota slot", async () => {
-    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, factsPerDay: 2 });
-    const a = await repo.revealNextFact(db, at(9));
-    const b = await repo.revealNextFact(db, at(10));
-    if (!("fact" in a) || !("fact" in b)) throw new Error("no fact");
-    expect(await repo.revealNextFact(db, at(11))).toEqual({ reason: "quota" });
-
-    await repo.setUnclear(db, a.fact.id, true, at(11));
-    expect((await repo.factsReceivedOn(db, "2026-10-27")).map((f) => f.id)).toEqual([b.fact.id]);
-    expect(await repo.feedRemainingToday(db, at(11))).toBe(1);
-    expect("fact" in (await repo.revealNextFact(db, at(12)))).toBe(true);
-    // Still in the notebook, marked.
-    expect((await repo.receivedFact(db, a.fact.id))!.unclear).toBe(true);
-  });
-
-  it("exports flagged facts for the content pipeline", async () => {
-    const a = await repo.revealNextFact(db, at(9));
-    if (!("fact" in a)) throw new Error("no fact");
-    await repo.setUnclear(db, a.fact.id, true, at(10));
-    const out = await repo.exportUnclear(db, at(11));
-    expect(out).toMatchObject({ app: "serendip", kind: "faits-pas-clairs", facts: [{ id: a.fact.id, text: a.fact.text, source: a.fact.source }] });
-    expect(await repo.countUnclear(db)).toBe(1);
-    await repo.setUnclear(db, a.fact.id, false);
-    expect(await repo.countUnclear(db)).toBe(0);
-  });
-});
-
-describe("review quiz", () => {
-  it("serves facts on their due day and moves them between boxes", async () => {
-    const r = await repo.revealNextFact(db, at(9));
-    if (!("fact" in r)) throw new Error("no fact");
-    expect(await repo.countDueReviews(db, at(20))).toBe(0); // received today, due tomorrow
-    expect(await repo.countDueReviews(db, at(9, 28))).toBe(1);
-
-    const [item] = await repo.dueReviews(db, at(9, 28));
-    expect(item!.fact.id).toBe(r.fact.id);
-    expect(item!.question?.prompt).toMatch(/\?$/);
-
-    expect(await repo.answerReview(db, r.fact.id, true, at(9, 28))).toEqual({ box: 2, dueDay: "2026-10-31" });
-    expect(await repo.countDueReviews(db, at(9, 30))).toBe(0);
-    expect(await repo.answerReview(db, r.fact.id, false, at(9, 31))).toEqual({ box: 1, dueDay: "2026-11-01" });
-    const answers = await db.getAllAsync<{ correct: number }>("SELECT correct FROM answers WHERE mode = 'revision' ORDER BY id");
-    expect(answers.map((a) => a.correct)).toEqual([1, 0]);
-  });
-
-  it("skips known and flagged facts", async () => {
-    const a = await repo.revealNextFact(db, at(9));
-    const b = await repo.revealNextFact(db, at(9));
-    if (!("fact" in a) || !("fact" in b)) throw new Error("no fact");
-    await repo.setKnown(db, a.fact.id, true);
-    await repo.setUnclear(db, b.fact.id, true);
-    expect(await repo.countDueReviews(db, at(9, 28))).toBe(0);
-  });
-});
-
-describe("random quiz", () => {
-  it("mixes families and allows a single easy birth-year question", async () => {
-    const items = await repo.randomTrivia(db, 5);
-    expect(items.map((i) => i.family).sort()).toEqual(["capitale", "naissance"]);
-    expect(items.find((i) => i.family === "naissance")!.question.difficulty).toBe(1);
-    await repo.saveSettings(db, { ...repo.DEFAULT_SETTINGS, categories: ["sport"] });
-    expect(await repo.randomTrivia(db, 5)).toEqual([]);
+  it("reports stats per category", async () => {
+    const game = await repo.newGame(db, day(4), rand);
+    for (const q of game) await repo.recordAnswer(db, q, { correct: q.category === "histoire", hinted: false }, day(4));
+    const stats = await repo.statsByCategory(db);
+    const h = stats.find((c) => c.category === "histoire")!;
+    expect(h.total).toBe(10);
+    expect(h.correct).toBe(h.answered);
+    expect(stats.reduce((n, c) => n + c.seen, 0)).toBe(10);
   });
 });

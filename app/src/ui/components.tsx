@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 import { Pressable, StyleSheet, Text, View, type StyleProp, type ViewStyle } from "react-native";
-import { categoryLabel, type CategoryId } from "../pack/types";
+import { category, type CategoryId } from "../pack/types";
 import { categoryColors, fontSize, radius, shadow, spacing, useTheme } from "./theme";
 
 export function Screen({ children, style }: { children: ReactNode; style?: StyleProp<ViewStyle> }) {
@@ -123,7 +123,9 @@ export function CategoryChip({ id }: { id: CategoryId }) {
   const c = categoryColors(id, t);
   return (
     <View style={[styles.chip, { backgroundColor: c.bg }]}>
-      <Text style={{ color: c.fg, fontSize: fontSize.small, fontWeight: "700" }}>{categoryLabel(id)}</Text>
+      <Text style={{ color: c.fg, fontSize: fontSize.small, fontWeight: "700" }}>
+        {category(id).glyph} {category(id).label}
+      </Text>
     </View>
   );
 }
@@ -143,3 +145,16 @@ const styles = StyleSheet.create({
   action: { flex: 1, alignItems: "center", gap: 2, borderWidth: 1, borderRadius: radius.md, paddingVertical: 10 },
   chip: { alignSelf: "flex-start", borderRadius: radius.pill, paddingVertical: 5, paddingHorizontal: 12 },
 });
+
+/** The "à revoir" badge on a question missed in an earlier game. */
+export function RetryBadge() {
+  const t = useTheme();
+  return (
+    <View
+      accessibilityLabel="Question à revoir : ratée lors d'une partie précédente"
+      style={[styles.chip, { backgroundColor: t.retrySoft, flexDirection: "row", gap: 4, alignItems: "center" }]}
+    >
+      <Text style={{ color: t.retry, fontSize: fontSize.small, fontWeight: "800" }}>↻ À revoir</Text>
+    </View>
+  );
+}

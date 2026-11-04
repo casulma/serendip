@@ -28,7 +28,8 @@ export default function RootLayout() {
   const t = useTheme();
   return (
     <Suspense fallback={<Loading />}>
-      <SQLiteProvider databaseName="serendip.db" onInit={init} useSuspense>
+      {/* New file for the quiz app: the old fact-feed database (serendip.db) is left untouched. */}
+      <SQLiteProvider databaseName="serendip-quiz.db" onInit={init} useSuspense>
         <StatusBar style="auto" />
         <Stack
           screenOptions={{
@@ -38,8 +39,7 @@ export default function RootLayout() {
           }}
         >
           <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-          <Stack.Screen name="fait/[id]" options={{ title: "" }} />
-          <Stack.Screen name="quiz/[mode]" options={{ title: "" }} />
+          <Stack.Screen name="partie" options={{ title: "" }} />
         </Stack>
       </SQLiteProvider>
     </Suspense>

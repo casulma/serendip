@@ -5,65 +5,42 @@ import type { SQLiteDatabase } from "expo-sqlite";
 const MIGRATIONS: string[] = [
   `
   CREATE TABLE meta (key TEXT PRIMARY KEY NOT NULL, value TEXT NOT NULL);
+  CREATE TABLE settings (key TEXT PRIMARY KEY NOT NULL, value TEXT NOT NULL);
 
   -- Content from the pack; replaced wholesale when the pack version changes.
-  CREATE TABLE facts (
-    id TEXT PRIMARY KEY NOT NULL,
-    text TEXT NOT NULL,
-    category TEXT NOT NULL,
-    source TEXT NOT NULL,
-    published_on TEXT,
-    tags TEXT NOT NULL,
-    question TEXT
-  );
-  CREATE INDEX facts_category ON facts(category);
-  CREATE TABLE trivia (
+  CREATE TABLE questions (
     id TEXT PRIMARY KEY NOT NULL,
     category TEXT NOT NULL,
-    family TEXT NOT NULL,
-    wikidata TEXT NOT NULL,
-    question TEXT NOT NULL
+    difficulty INTEGER NOT NULL,
+    data TEXT NOT NULL
   );
+  CREATE INDEX questions_category ON questions(category, difficulty);
 
-  -- User data: never touched by pack imports.
-  CREATE TABLE user_facts (
-    fact_id TEXT PRIMARY KEY NOT NULL,
-    received_at TEXT NOT NULL,
-    received_day TEXT NOT NULL,
-    via TEXT NOT NULL CHECK (via IN ('feed', 'notification')),
-    favorite INTEGER NOT NULL DEFAULT 0,
-    known INTEGER NOT NULL DEFAULT 0,
-    box INTEGER NOT NULL DEFAULT 1,
-    due_day TEXT NOT NULL
+  -- User progress, keyed by stable question ids: never touched by imports.
+  -- retry = 1: missed last time, comes back with the "à revoir" badge.
+  CREATE TABLE progress (
+    question_id TEXT PRIMARY KEY NOT NULL,
+    attempts INTEGER NOT NULL DEFAULT 0,
+    successes INTEGER NOT NULL DEFAULT 0,
+    retry INTEGER NOT NULL DEFAULT 0,
+    last_day TEXT NOT NULL,
+    last_at TEXT NOT NULL
   );
-  CREATE INDEX user_facts_day ON user_facts(received_day);
+  CREATE INDEX progress_retry ON progress(retry, last_day);
   CREATE TABLE answers (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    mode TEXT NOT NULL CHECK (mode IN ('revision', 'aleatoire')),
-    item_id TEXT NOT NULL,
+    question_id TEXT NOT NULL,
     category TEXT NOT NULL,
     correct INTEGER NOT NULL,
+    hinted INTEGER NOT NULL,
+    was_retry INTEGER NOT NULL,
     answered_at TEXT NOT NULL
   );
-  CREATE TABLE settings (key TEXT PRIMARY KEY NOT NULL, value TEXT NOT NULL);
-  `,
-  // "Pas clair": the user flags a fact as unusable. It leaves the reviews,
-  // no longer counts in the daily quota, and can be exported for the pipeline.
-  `
-  ALTER TABLE user_facts ADD COLUMN unclear_at TEXT;
-  `,
-  // OpenQuizzDB questions alongside Wikipédia anecdotes. Content columns:
-  // refilled by the next pack import.
-  `
-  ALTER TABLE facts ADD COLUMN origin TEXT NOT NULL DEFAULT 'lsv';
-  ALTER TABLE facts ADD COLUMN credit TEXT;
-  CREATE INDEX facts_origin ON facts(origin);
-  DELETE FROM meta WHERE key = 'pack_version';
   `,
 ];
 
 export async function migrate(db: SQLiteDatabase): Promise<void> {
-  await db.execAsync("PRAGMA journal_mode = WAL; PRAGMA foreign_keys = ON;");
+  await db.execAsync("PRAGMA journal_mode = WAL;");
   const row = await db.getFirstAsync<{ user_version: number }>("PRAGMA user_version");
   let version = row?.user_version ?? 0;
   while (version < MIGRATIONS.length) {

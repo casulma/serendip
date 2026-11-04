@@ -1,58 +1,69 @@
 import { router, useFocusEffect } from "expo-router";
 import { useSQLiteContext } from "expo-sqlite";
 import { useCallback, useState } from "react";
-import { Text, View } from "react-native";
-import { countDueReviews, countReceived, feedRemainingToday, lastReceivedFact, type FactView } from "../../db/repo";
+import { ScrollView, Text, View } from "react-native";
+import { useSafeAreaInsets } from "react-native-safe-area-context";
+import { countAvailable, getSettings, overview, type Overview } from "../../db/repo";
 import { fr } from "../../i18n/fr";
-import { Button, Muted, Overline, Screen } from "../../ui/components";
-import { FactCard } from "../../ui/FactCard";
+import { Button, Card, Muted, Overline, ProgressBar, RetryBadge } from "../../ui/components";
 import { fontSize, spacing, useTheme } from "../../ui/theme";
 
 export default function Home() {
   const db = useSQLiteContext();
   const t = useTheme();
-  const [fact, setFact] = useState<FactView | undefined>();
-  const [remaining, setRemaining] = useState(0);
-  const [received, setReceived] = useState(0);
-  const [due, setDue] = useState(0);
-
-  const load = useCallback(async () => {
-    setFact(await lastReceivedFact(db));
-    setRemaining(await feedRemainingToday(db));
-    setReceived(await countReceived(db));
-    setDue(await countDueReviews(db));
-  }, [db]);
+  const insets = useSafeAreaInsets();
+  const [o, setO] = useState<Overview | undefined>();
+  const [size, setSize] = useState(10);
+  const [available, setAvailable] = useState(0);
 
   useFocusEffect(
     useCallback(() => {
-      void load();
-    }, [load]),
+      void (async () => {
+        setO(await overview(db));
+        setSize((await getSettings(db)).sessionSize);
+        setAvailable(await countAvailable(db));
+      })();
+    }, [db]),
   );
 
-  const onChange = (f: FactView) => (f.unclear ? void load() : setFact(f));
+  if (!o) return null;
+  const rate = o.answered > 0 ? Math.round((o.correct / o.answered) * 100) : undefined;
 
   return (
-    <Screen style={{ gap: spacing.md }}>
-      {fact ? (
-        <>
-          <Overline>{fr.home.lastFact}</Overline>
-          <FactCard fact={fact} onChange={onChange} />
-        </>
-      ) : (
-        <View style={{ flex: 1, justifyContent: "center", gap: spacing.sm }}>
-          <Text style={{ color: t.text, fontSize: fontSize.title, fontWeight: "800" }}>{fr.home.title}</Text>
-          <Muted>{fr.home.noFactYet}</Muted>
-        </View>
-      )}
-      <View style={{ flexDirection: "row", gap: spacing.sm }}>
-        <View style={{ flex: 1 }}>
-          <Button label={fr.home.discover(remaining)} onPress={() => router.navigate("/decouvrir")} />
-        </View>
-        <View style={{ flex: 1 }}>
-          <Button label={fr.home.review(due)} variant="secondary" disabled={due === 0} onPress={() => router.push("/quiz/revision")} />
-        </View>
+    <ScrollView
+      style={{ backgroundColor: t.background }}
+      contentContainerStyle={{ padding: spacing.md, paddingTop: insets.top + spacing.lg, gap: spacing.md }}
+    >
+      <View style={{ gap: spacing.xs, marginBottom: spacing.sm }}>
+        <Text style={{ color: t.text, fontSize: fontSize.hero, fontWeight: "900", letterSpacing: -1 }}>{fr.appName}</Text>
+        <Muted>{fr.home.tagline}</Muted>
       </View>
-      <Muted>{fr.home.counts(received)}</Muted>
-    </Screen>
+
+      <Card style={{ gap: spacing.md }}>
+        {available === 0 ? (
+          <Muted>{fr.home.noQuestions}</Muted>
+        ) : (
+          <Button label={fr.home.newGame(size)} onPress={() => router.push({ pathname: "/partie", params: { mode: "nouvelle" } })} />
+        )}
+        <View style={{ gap: spacing.xs }}>
+          <ProgressBar value={o.total ? o.seen / o.total : 0} />
+          <Muted>
+            {fr.home.progress(o.seen, o.total)}
+            {rate !== undefined ? ` · ${fr.home.rate(rate)}` : ""}
+          </Muted>
+        </View>
+      </Card>
+
+      <Card style={{ gap: spacing.sm }}>
+        <View style={{ flexDirection: "row", alignItems: "center", justifyContent: "space-between" }}>
+          <Overline>{fr.home.toReview(o.toReview)}</Overline>
+          {o.toReview > 0 && <RetryBadge />}
+        </View>
+        <Muted>{fr.home.toReviewHint}</Muted>
+        {o.toReview > 0 && (
+          <Button label={fr.home.reviewNow} variant="secondary" onPress={() => router.push({ pathname: "/partie", params: { mode: "erreurs" } })} />
+        )}
+      </Card>
+    </ScrollView>
   );
 }

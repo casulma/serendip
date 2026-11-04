@@ -1,71 +1,28 @@
 import { z } from "zod";
 import { CATEGORY_IDS } from "./categories.js";
 
-// A choice is either plain text or an embedded image (e.g. a flag), referenced
-// by a path relative to the pack's asset folder.
-export const Choice = z.discriminatedUnion("kind", [
-  z.object({ kind: z.literal("text"), text: z.string().min(1) }),
-  z.object({ kind: z.literal("image"), image: z.string().min(1), alt: z.string().min(1) }),
-]);
-
+// See docs/charte-questions.md for the editorial rules behind each field.
 export const Question = z.object({
-  id: z.string().min(1),
-  prompt: z.string().min(1),
-  promptImage: z.string().min(1).optional(),
-  answer: Choice,
-  distractors: z.array(Choice).length(3),
-  // 1 = easy, 3 = hard. Derived mechanically (e.g. from Wikidata sitelink counts).
+  id: z.string().regex(/^[a-z-]+-\d{3}$/),
   difficulty: z.union([z.literal(1), z.literal(2), z.literal(3)]),
+  question: z.string().trim().min(10).endsWith("?"),
+  answer: z.string().trim().min(1),
+  accept: z.array(z.string().trim().min(1)),
+  choices: z.array(z.string().trim().min(1)).length(3),
+  explanation: z.string().trim().min(20),
+  wikipedia: z.string().trim().min(1),
 });
 
-export const Category = z.enum(CATEGORY_IDS);
+export const QuestionFile = z.object({ category: z.enum(CATEGORY_IDS), questions: z.array(Question) });
 
-// Tags flag facts for later audit; never used to hide content.
-export const FactTag = z.enum([
-  "peut-changer", // contains a time-sensitive claim ("actuellement", superlatives…)
-]);
-
-// Where a fact comes from. "lsv": Wikipédia « Le saviez-vous ? » anecdote
-// (text is the anecdote). "oqdb": OpenQuizzDB question (questions[0] is the
-// question, text is its anecdote).
-export const Origin = z.enum(["lsv", "oqdb"]);
-
-// CC BY-SA attribution for content written by named people.
-export const Credit = z.object({
-  author: z.string().min(1),
-  work: z.string().min(1),
-  provider: z.string().min(1),
-  url: z.url(),
-});
-
-export const Fact = z.object({
-  id: z.string().min(1),
-  origin: Origin,
-  credit: Credit.optional(),
-  text: z.string().min(1),
-  category: Category,
-  source: z.url(),
-  // Date the anecdote appeared on the Wikipedia home page, if known (YYYY-MM-DD).
-  publishedOn: z.iso.date().optional(),
-  tags: z.array(FactTag),
-  questions: z.array(Question),
-});
-
-export const Trivia = Question.extend({
-  category: Category,
-  family: z.string().min(1),
-  wikidata: z.url(),
-});
+/** A question as shipped in the pack: its category inlined. */
+export const PackQuestion = Question.extend({ category: z.enum(CATEGORY_IDS) });
 
 export const Pack = z.object({
   version: z.string().regex(/^\d+\.\d+\.\d+$/),
-  facts: z.array(Fact),
-  trivia: z.array(Trivia),
+  questions: z.array(PackQuestion),
 });
 
-export type Choice = z.infer<typeof Choice>;
 export type Question = z.infer<typeof Question>;
-export type Fact = z.infer<typeof Fact>;
-export type Credit = z.infer<typeof Credit>;
-export type Trivia = z.infer<typeof Trivia>;
+export type PackQuestion = z.infer<typeof PackQuestion>;
 export type Pack = z.infer<typeof Pack>;

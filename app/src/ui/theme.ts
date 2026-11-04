@@ -13,6 +13,8 @@ const light = {
   accentSoft: "#E3EFEA",
   success: "#2E7D4F",
   successSoft: "#E2F2E8",
+  retry: "#B86E00",
+  retrySoft: "#FBEBD3",
   danger: "#B3412E",
   dangerSoft: "#F8E4DF",
   chip: "#EFE9DF",
@@ -31,6 +33,8 @@ const dark: typeof light = {
   accentSoft: "#1E2F2A",
   success: "#7CC79A",
   successSoft: "#1D2E24",
+  retry: "#F0B45C",
+  retrySoft: "#3A2A14",
   danger: "#E58A76",
   dangerSoft: "#35211C",
   chip: "#2A2723",
@@ -50,15 +54,17 @@ const CATEGORY_HUES: Record<CategoryId, { light: string; dark: string }> = {
   sciences: { light: "#3556A0", dark: "#9DB4EA" },
   nature: { light: "#4B7424", dark: "#A9D27F" },
   "arts-litterature": { light: "#8C3569", dark: "#E39CC6" },
-  "musique-cinema": { light: "#AD4126", dark: "#F0A08A" },
+  musique: { light: "#6B3FA0", dark: "#C3A6EC" },
+  "cinema-tv": { light: "#AD4126", dark: "#F0A08A" },
   sport: { light: "#9A6200", dark: "#EBC173" },
-  "societe-politique": { light: "#594F72", dark: "#BDB2DD" },
   langue: { light: "#22748A", dark: "#86CDE0" },
-  divers: { light: "#66605A", dark: "#C4BDB4" },
+  mythologie: { light: "#7A5A12", dark: "#E6C77A" },
+  gastronomie: { light: "#A33A4C", dark: "#F09AAA" },
+  societe: { light: "#594F72", dark: "#BDB2DD" },
 };
 
 export function categoryColors(id: CategoryId, t: Theme): { fg: string; bg: string } {
-  const hue = CATEGORY_HUES[id] ?? CATEGORY_HUES.divers;
+  const hue = CATEGORY_HUES[id] ?? CATEGORY_HUES.societe;
   const fg = t.dark ? hue.dark : hue.light;
   // 8-digit hex: the same hue at low opacity.
   return { fg, bg: `${fg}${t.dark ? "26" : "1A"}` };

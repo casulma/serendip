@@ -1,59 +1,38 @@
-// Mirror of content/src/schema.ts (the pack is validated there, at build time).
+// Mirror of content/src/schema.ts and content/src/categories.ts.
 
-export type CategoryId =
-  | "histoire"
-  | "geographie"
-  | "sciences"
-  | "nature"
-  | "arts-litterature"
-  | "musique-cinema"
-  | "sport"
-  | "societe-politique"
-  | "langue"
-  | "divers";
+export const CATEGORIES = [
+  { id: "histoire", label: "Histoire", glyph: "🏛" },
+  { id: "geographie", label: "Géographie", glyph: "🌍" },
+  { id: "sciences", label: "Sciences & techniques", glyph: "🔬" },
+  { id: "nature", label: "Nature & animaux", glyph: "🌿" },
+  { id: "arts-litterature", label: "Arts & littérature", glyph: "🎨" },
+  { id: "musique", label: "Musique", glyph: "🎵" },
+  { id: "cinema-tv", label: "Cinéma & télévision", glyph: "🎬" },
+  { id: "sport", label: "Sport & jeux", glyph: "⚽" },
+  { id: "langue", label: "Langue & expressions", glyph: "✒" },
+  { id: "mythologie", label: "Mythologies & religions", glyph: "⚡" },
+  { id: "gastronomie", label: "Gastronomie & vie quotidienne", glyph: "🧀" },
+  { id: "societe", label: "Société, politique & économie", glyph: "⚖" },
+] as const;
 
-export const CATEGORIES: { id: CategoryId; label: string }[] = [
-  { id: "histoire", label: "Histoire" },
-  { id: "geographie", label: "Géographie" },
-  { id: "sciences", label: "Sciences" },
-  { id: "nature", label: "Nature & animaux" },
-  { id: "arts-litterature", label: "Arts & littérature" },
-  { id: "musique-cinema", label: "Musique & cinéma" },
-  { id: "sport", label: "Sport" },
-  { id: "societe-politique", label: "Société & politique" },
-  { id: "langue", label: "Langue" },
-  { id: "divers", label: "Divers" },
-];
+export type CategoryId = (typeof CATEGORIES)[number]["id"];
+export const CATEGORY_IDS = CATEGORIES.map((c) => c.id);
 
-export const categoryLabel = (id: string) => CATEGORIES.find((c) => c.id === id)?.label ?? id;
+export const category = (id: string) => CATEGORIES.find((c) => c.id === id) ?? CATEGORIES[0];
 
-export type Choice = { kind: "text"; text: string } | { kind: "image"; image: string; alt: string };
+export type Difficulty = 1 | 2 | 3;
+export const DIFFICULTY_LABELS: Record<Difficulty, string> = { 1: "Facile", 2: "Moyen", 3: "Expert" };
 
 export type Question = {
   id: string;
-  prompt: string;
-  promptImage?: string;
-  answer: Choice;
-  distractors: Choice[];
-  difficulty: 1 | 2 | 3;
-};
-
-export type Origin = "lsv" | "oqdb";
-
-export type Credit = { author: string; work: string; provider: string; url: string };
-
-export type Fact = {
-  id: string;
-  origin: Origin;
-  credit?: Credit;
-  text: string;
   category: CategoryId;
-  source: string;
-  publishedOn?: string;
-  tags: string[];
-  questions: Question[];
+  difficulty: Difficulty;
+  question: string;
+  answer: string;
+  accept: string[];
+  choices: string[];
+  explanation: string;
+  wikipedia: string;
 };
 
-export type Trivia = Question & { category: CategoryId; family: string; wikidata: string };
-
-export type Pack = { version: string; facts: Fact[]; trivia: Trivia[] };
+export type Pack = { version: string; questions: Question[] };

@@ -1,83 +1,75 @@
 import { describe, expect, it } from "vitest";
-import { addDays, dayKey, daysBetween, formatDay } from "../src/domain/dates";
-import { initialState, isDue, isLearned, review } from "../src/domain/leitner";
-import { clampNotifications, feedLimit, feedRemaining } from "../src/domain/quota";
-import { matches, normalize } from "../src/domain/search";
+import { addDays, dayKey, formatDay } from "../src/domain/dates";
+import { acceptedForms, canonical, checkAnswer, editDistance } from "../src/domain/answer";
+import { composeGame, points, roundRobin } from "../src/domain/session";
 
 describe("dates", () => {
   it("uses local calendar days", () => {
     expect(dayKey(new Date(2026, 0, 5, 23, 59))).toBe("2026-01-05");
     expect(addDays("2026-12-31", 1)).toBe("2027-01-01");
-    expect(addDays("2026-03-28", 2)).toBe("2026-03-30"); // across the DST change
-    expect(daysBetween("2026-02-27", "2026-03-01")).toBe(2);
     expect(formatDay("2026-11-01")).toBe("1er novembre 2026");
   });
 });
 
-describe("quota", () => {
-  it("subtracts notifications from the feed", () => {
-    expect(feedLimit(10, 0)).toBe(10);
-    expect(feedLimit(10, 3)).toBe(7);
-    expect(feedRemaining(10, 3, 5)).toBe(2);
-    expect(feedRemaining(10, 3, 9)).toBe(0);
-    expect(clampNotifications(5, 8)).toBe(5);
+describe("checkAnswer", () => {
+  it("ignores case, accents, articles and punctuation", () => {
+    expect(checkAnswer("la joconde", "La Joconde")).toEqual({ correct: true, exact: true });
+    expect(checkAnswer("Pérou", "Perou").correct).toBe(true);
+    expect(checkAnswer("l'Ornithorynque", "ornithorynque").exact).toBe(true);
+    expect(checkAnswer("  Œdipe ! ", "Oedipe").exact).toBe(true);
+  });
+
+  it("tolerates small typos on long words only", () => {
+    expect(checkAnswer("Toutankamon", "Toutânkhamon")).toEqual({ correct: true, exact: false });
+    expect(checkAnswer("Canbera", "Canberra").correct).toBe(true);
+    expect(checkAnswer("Ra", "Râ").correct).toBe(true);
+    expect(checkAnswer("Rome", "Lima").correct).toBe(false);
+    expect(checkAnswer("or", "os").correct).toBe(false);
+  });
+
+  it("is strict on numbers but reads number words", () => {
+    expect(checkAnswer("1798", "1789").correct).toBe(false);
+    expect(checkAnswer("trois", "3").correct).toBe(true);
+    expect(checkAnswer("3", "Trois").correct).toBe(true);
+  });
+
+  it("accepts a surname alone and listed variants", () => {
+    expect(checkAnswer("Einstein", "Albert Einstein").correct).toBe(true);
+    expect(checkAnswer("USA", "États-Unis", ["USA", "Etats-Unis d'Amérique"]).correct).toBe(true);
+    expect(acceptedForms("ornithorynque", [])).toEqual(["ornithorynque"]);
+    expect(checkAnswer("Louis", "Louis XIV").correct).toBe(false);
+  });
+
+  it("rejects empty input", () => {
+    expect(checkAnswer("   ", "Paris").correct).toBe(false);
+  });
+
+  it("computes edit distances with adjacent swaps", () => {
+    expect(editDistance("abcd", "abdc")).toBe(1);
+    expect(editDistance("kitten", "sitting")).toBe(3);
+    expect(canonical("Les Misérables (roman)")).toBe("miserables");
   });
 });
 
-describe("leitner", () => {
-  it("follows 1/3/7/14/30 days and resets on failure", () => {
-    let s = initialState("2026-10-27");
-    expect(s).toEqual({ box: 1, dueDay: "2026-10-28" });
-    s = review(s, true, "2026-10-28");
-    expect(s).toEqual({ box: 2, dueDay: "2026-10-31" });
-    s = review(s, true, "2026-10-31");
-    s = review(s, true, "2026-11-07");
-    s = review(s, true, "2026-11-21");
-    expect(s).toEqual({ box: 5, dueDay: "2026-12-21" });
-    expect(isLearned(s)).toBe(true);
-    expect(review(s, true, "2026-12-21").box).toBe(5);
-    expect(review(s, false, "2026-12-21")).toEqual({ box: 1, dueDay: "2026-12-22" });
-    expect(isDue({ box: 1, dueDay: "2026-10-28" }, "2026-10-28")).toBe(true);
-    expect(isDue({ box: 1, dueDay: "2026-10-28" }, "2026-10-27")).toBe(false);
-  });
-});
+describe("game composition", () => {
+  const seq = (seed: number) => () => ((seed = (seed * 16807) % 2147483647) - 1) / 2147483646;
+  const mk = (n: number, cat: string, p: string) => Array.from({ length: n }, (_, i) => ({ id: `${p}${i}`, category: cat }));
 
-describe("search", () => {
-  it("ignores case, accents and apostrophes", () => {
-    expect(normalize("L’Écume  d'Ouranos")).toBe("l ecume d ouranos");
-    expect(matches("L’écume dont naît Aphrodite", "ecume aphrodite")).toBe(true);
-    expect(matches("L’écume dont naît Aphrodite", "zeus")).toBe(false);
-    expect(matches("n'importe", "")).toBe(true);
+  it("alternates categories", () => {
+    const picked = roundRobin([...mk(10, "a", "a"), ...mk(10, "b", "b"), ...mk(1, "c", "c")], 5, seq(1));
+    const cats = picked.map((p) => p.category);
+    expect(new Set(cats.slice(0, 3)).size).toBe(3);
   });
-});
 
-describe("quiz choices", () => {
-  it("shuffles the answer among its three distractors", async () => {
-    const { shuffledChoices, choiceLabel } = await import("../src/domain/quiz");
-    const q = {
-      id: "q",
-      prompt: "?",
-      answer: { kind: "text" as const, text: "A" },
-      distractors: ["B", "C", "D"].map((text) => ({ kind: "text" as const, text })),
-      difficulty: 2 as const,
-    };
-    let seed = 1;
-    const rand = () => ((seed = (seed * 16807) % 2147483647) - 1) / 2147483646;
-    const positions = new Set<number>();
-    for (let i = 0; i < 40; i++) {
-      const c = shuffledChoices(q, rand);
-      expect(c.map(choiceLabel).sort()).toEqual(["A", "B", "C", "D"]);
-      expect(c.filter((x) => x.correct).map(choiceLabel)).toEqual(["A"]);
-      positions.add(c.findIndex((x) => x.correct));
-    }
-    expect(positions.size).toBe(4);
+  it("keeps retries to 30 % and fills with fresh then replayed questions", () => {
+    const game = composeGame({ retries: mk(8, "a", "r"), fresh: mk(20, "b", "f"), replay: [] }, 10, seq(2));
+    expect(game).toHaveLength(10);
+    expect(game.filter((id) => id.startsWith("r"))).toHaveLength(3);
+    const short = composeGame({ retries: [], fresh: mk(2, "b", "f"), replay: mk(5, "c", "p") }, 5, seq(3));
+    expect(short.sort()).toEqual(["f0", "f1", "p0", "p1", "p2"]);
   });
-});
 
-describe("interleave", () => {
-  it("takes one item per group in turn, up to n", async () => {
-    const { interleave } = await import("../src/domain/quiz");
-    expect(interleave([["a1", "a2", "a3"], ["b1"], ["c1", "c2"]], 5)).toEqual(["a1", "b1", "c1", "a2", "c2"]);
-    expect(interleave([["a1"], []], 5)).toEqual(["a1"]);
+  it("scores typed answers above hinted ones", () => {
+    expect([points(true, false), points(true, true), points(false, false)]).toEqual([2, 1, 0]);
   });
 });

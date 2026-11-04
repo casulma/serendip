@@ -42,5 +42,4 @@ yarn-error.*
 
 # Copied from content/out by scripts/sync-pack.mjs
 /assets/pack/
-/src/pack/images.generated.ts
 /src/pack/version.generated.ts

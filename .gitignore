@@ -11,4 +11,4 @@ content/out/*
 !content/out/pack.json
 !content/out/assets/
 !content/out/report-*.md
-!content/out/sample-*.md
+!content/out/verification.json

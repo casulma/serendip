@@ -23,10 +23,8 @@ export default function TabsLayout() {
         sceneStyle: { backgroundColor: t.background },
       }}
     >
-      <Tabs.Screen name="index" options={{ title: fr.tabs.home, tabBarIcon: icon("⌂") }} />
-      <Tabs.Screen name="decouvrir" options={{ title: fr.tabs.discover, tabBarIcon: icon("✦") }} />
-      <Tabs.Screen name="quiz" options={{ title: fr.tabs.quiz, tabBarIcon: icon("◎") }} />
-      <Tabs.Screen name="carnet" options={{ title: fr.tabs.notebook, tabBarIcon: icon("☰") }} />
+      <Tabs.Screen name="index" options={{ title: fr.tabs.play, headerShown: false, tabBarIcon: icon("▶") }} />
+      <Tabs.Screen name="stats" options={{ title: fr.tabs.stats, tabBarIcon: icon("▤") }} />
       <Tabs.Screen name="reglages" options={{ title: fr.tabs.settings, tabBarIcon: icon("⚙") }} />
     </Tabs>
   );

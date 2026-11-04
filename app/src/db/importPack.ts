@@ -4,7 +4,7 @@ import { PACK_VERSION } from "../pack/version.generated";
 
 let bundled: Pack | undefined;
 function loadPack(): Pack {
-  // Required lazily: the 6 MB module is only evaluated when an import is needed.
+  // Required lazily: only evaluated when an import is actually needed.
   bundled ??= require("../../assets/pack/pack.json") as Pack;
   return bundled;
 }
@@ -15,8 +15,8 @@ export async function installedPackVersion(db: SQLiteDatabase): Promise<string |
 }
 
 /**
- * Replace content tables with the bundled pack when its version differs from
- * the installed one. User tables are untouched: facts are referenced by stable ids.
+ * Replace the question table with the bundled pack when its version differs
+ * from the installed one. Progress is untouched: questions keep stable ids.
  */
 export async function importPackIfNeeded(
   db: SQLiteDatabase,
@@ -24,39 +24,15 @@ export async function importPackIfNeeded(
 ): Promise<void> {
   if ((await installedPackVersion(db)) === version) return;
   const pack = load();
-
+  // A pack from before the quiz format (no questions array) imports as empty.
+  const questions = Array.isArray(pack.questions) ? pack.questions : [];
   await db.withExclusiveTransactionAsync(async (txn) => {
-    await txn.execAsync("DELETE FROM facts; DELETE FROM trivia;");
-    const insertFact = await txn.prepareAsync(
-      "INSERT INTO facts (id, origin, credit, text, category, source, published_on, tags, question) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
-    );
+    await txn.execAsync("DELETE FROM questions;");
+    const insert = await txn.prepareAsync("INSERT INTO questions (id, category, difficulty, data) VALUES (?, ?, ?, ?)");
     try {
-      for (const f of pack.facts) {
-        const q = f.questions[0];
-        await insertFact.executeAsync(
-          f.id,
-          // Packs before 0.3.0 only held Wikipédia anecdotes and had no origin field.
-          f.origin ?? "lsv",
-          f.credit ? JSON.stringify(f.credit) : null,
-          f.text,
-          f.category,
-          f.source,
-          f.publishedOn ?? null,
-          JSON.stringify(f.tags),
-          q ? JSON.stringify(q) : null,
-        );
-      }
+      for (const q of questions) await insert.executeAsync(q.id, q.category, q.difficulty, JSON.stringify(q));
     } finally {
-      await insertFact.finalizeAsync();
-    }
-    const insertTrivia = await txn.prepareAsync("INSERT INTO trivia (id, category, family, wikidata, question) VALUES (?, ?, ?, ?, ?)");
-    try {
-      for (const t of pack.trivia) {
-        const { category, family, wikidata, ...question } = t;
-        await insertTrivia.executeAsync(t.id, category, family, wikidata, JSON.stringify(question));
-      }
-    } finally {
-      await insertTrivia.finalizeAsync();
+      await insert.finalizeAsync();
     }
     await txn.runAsync("INSERT OR REPLACE INTO meta (key, value) VALUES ('pack_version', ?)", pack.version);
   });
