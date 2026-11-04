@@ -1,0 +1,3377 @@
+{
+  "category": "sport",
+  "questions": [
+    {
+      "id": "sport-081",
+      "difficulty": 1,
+      "question": "Combien de minutes dure chacune des deux mi-temps d'un match de football, hors temps additionnel ?",
+      "answer": "45",
+      "accept": [
+        "quarante-cinq",
+        "45 minutes"
+      ],
+      "choices": [
+        "30",
+        "40",
+        "50"
+      ],
+      "explanation": "Entre les deux mi-temps, une pause de quinze minutes est accordée ; en cas de prolongation, deux périodes supplémentaires de quinze minutes sont jouées.",
+      "wikipedia": "Football"
+    },
+    {
+      "id": "sport-082",
+      "difficulty": 1,
+      "question": "Quel joueur argentin attribua à « la main de Dieu » un but marqué contre l'Angleterre en 1986 ?",
+      "answer": "Diego Maradona",
+      "accept": [
+        "Maradona"
+      ],
+      "choices": [
+        "Lionel Messi",
+        "Mario Kempes",
+        "Daniel Passarella"
+      ],
+      "explanation": "Quatre minutes plus tard, il marqua contre les mêmes Anglais un second but en dribblant la moitié de l'équipe, élu plus tard « but du siècle ».",
+      "wikipedia": "Diego Maradona"
+    },
+    {
+      "id": "sport-083",
+      "difficulty": 1,
+      "question": "Dans quelle commune au nord de Paris se trouve le Stade de France, construit pour la Coupe du monde 1998 ?",
+      "answer": "Saint-Denis",
+      "accept": [],
+      "choices": [
+        "Nanterre",
+        "Montreuil",
+        "Bobigny"
+      ],
+      "explanation": "Inauguré en janvier 1998 par un match France-Espagne, c'est le plus grand stade de France, avec environ 80 000 places.",
+      "wikipedia": "Stade de France"
+    },
+    {
+      "id": "sport-084",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le match qui oppose le Real Madrid au FC Barcelone ?",
+      "answer": "Clásico",
+      "accept": [
+        "Clasico",
+        "El Clásico"
+      ],
+      "choices": [
+        "Derbi",
+        "Superclásico",
+        "Derby della Madonnina"
+      ],
+      "explanation": "Au-delà du sport, cette rivalité oppose symboliquement la capitale espagnole à la Catalogne et à son identité régionale.",
+      "wikipedia": "Clásico"
+    },
+    {
+      "id": "sport-085",
+      "difficulty": 1,
+      "question": "Comment s'appelait le coq bleu, mascotte de la Coupe du monde de football organisée en France en 1998 ?",
+      "answer": "Footix",
+      "accept": [],
+      "choices": [
+        "Gallix",
+        "Coqui",
+        "Bleuet"
+      ],
+      "explanation": "Son nom fut choisi par le public parmi plusieurs propositions ; il est devenu familièrement synonyme de supporter opportuniste.",
+      "wikipedia": "Footix"
+    },
+    {
+      "id": "sport-086",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on, au football, le geste qui consiste à faire passer le ballon entre les jambes d'un adversaire ?",
+      "answer": "petit pont",
+      "accept": [],
+      "choices": [
+        "grand pont",
+        "sombrero",
+        "roulette"
+      ],
+      "explanation": "Le « grand pont » consiste, lui, à contourner l'adversaire d'un côté tandis que le ballon passe de l'autre.",
+      "wikipedia": "Glossaire du football"
+    },
+    {
+      "id": "sport-087",
+      "difficulty": 1,
+      "question": "Comment s'appelle le stade de l'Olympique de Marseille, dont le nom rappelle sa piste cycliste d'origine ?",
+      "answer": "Vélodrome",
+      "accept": [
+        "stade Vélodrome",
+        "Orange Vélodrome"
+      ],
+      "choices": [
+        "Parc des Princes",
+        "Stade Bollaert",
+        "Stade Louis-II"
+      ],
+      "explanation": "Inauguré en 1937, il comportait autour de la pelouse une piste de cyclisme, aujourd'hui disparue.",
+      "wikipedia": "Stade Vélodrome"
+    },
+    {
+      "id": "sport-088",
+      "difficulty": 1,
+      "question": "Quel pays a pour équipe de football la « Squadra Azzurra » ?",
+      "answer": "Italie",
+      "accept": [],
+      "choices": [
+        "Argentine",
+        "Uruguay",
+        "Grèce"
+      ],
+      "explanation": "Le maillot bleu vient de la couleur de la maison de Savoie, dynastie qui régnait sur l'Italie lors de l'adoption de ce maillot.",
+      "wikipedia": "Équipe d'Italie de football"
+    },
+    {
+      "id": "sport-089",
+      "difficulty": 1,
+      "question": "Quel pays africain a pour équipe nationale de football les « Lions indomptables » ?",
+      "answer": "Cameroun",
+      "accept": [],
+      "choices": [
+        "Sénégal",
+        "Nigeria",
+        "Côte d'Ivoire"
+      ],
+      "explanation": "En 1990, le Cameroun devint la première équipe africaine à atteindre les quarts de finale d'une Coupe du monde.",
+      "wikipedia": "Équipe du Cameroun de football"
+    },
+    {
+      "id": "sport-090",
+      "difficulty": 1,
+      "question": "Comment s'appelle le trophée remis au club champion de France de rugby à XV ?",
+      "answer": "bouclier de Brennus",
+      "accept": [
+        "Brennus"
+      ],
+      "choices": [
+        "coupe Yves du Manoir",
+        "trophée Webb Ellis",
+        "bouclier de Ranfurly"
+      ],
+      "explanation": "Gravé par Charles Brennus et offert par Pierre de Coubertin, il a été remis pour la première fois en 1892.",
+      "wikipedia": "Bouclier de Brennus"
+    },
+    {
+      "id": "sport-091",
+      "difficulty": 1,
+      "question": "Au rugby, comment appelle-t-on la phase où les avants des deux équipes se lient et poussent pour disputer le ballon ?",
+      "answer": "mêlée",
+      "accept": [],
+      "choices": [
+        "touche",
+        "maul",
+        "ruck"
+      ],
+      "explanation": "Le demi de mêlée introduit le ballon dans le tunnel formé par les deux packs ; le talonneur le récupère avec le pied.",
+      "wikipedia": "Mêlée (rugby à XV)"
+    },
+    {
+      "id": "sport-092",
+      "difficulty": 1,
+      "question": "Au rugby, quelle faute commet un joueur qui laisse échapper le ballon vers la ligne de but adverse ?",
+      "answer": "en-avant",
+      "accept": [
+        "en avant"
+      ],
+      "choices": [
+        "hors-jeu",
+        "obstruction",
+        "passe forcée"
+      ],
+      "explanation": "Au rugby, la passe doit toujours aller vers l'arrière ; un en-avant involontaire est sanctionné par une mêlée.",
+      "wikipedia": "Rugby à XV"
+    },
+    {
+      "id": "sport-093",
+      "difficulty": 1,
+      "question": "Quel surnom porte l'équipe d'Afrique du Sud de rugby, d'après une antilope ?",
+      "answer": "Springboks",
+      "accept": [
+        "Boks",
+        "Bokke"
+      ],
+      "choices": [
+        "Wallabies",
+        "Pumas",
+        "Brave Blossoms"
+      ],
+      "explanation": "Le springbok, gazelle d'Afrique australe capable de bonds spectaculaires, est aussi l'emblème historique du maillot vert et or sud-africain.",
+      "wikipedia": "Équipe d'Afrique du Sud de rugby à XV"
+    },
+    {
+      "id": "sport-094",
+      "difficulty": 1,
+      "question": "Quel pays a rejoint le Tournoi des Cinq Nations en 2000, le transformant en Tournoi des Six Nations ?",
+      "answer": "Italie",
+      "accept": [],
+      "choices": [
+        "Géorgie",
+        "Roumanie",
+        "Espagne"
+      ],
+      "explanation": "Le Tournoi est né en 1883 entre les quatre nations britanniques ; la France l'a rejoint au début du XXe siècle.",
+      "wikipedia": "Tournoi des Six Nations"
+    },
+    {
+      "id": "sport-095",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on au tennis un service que l'adversaire ne parvient même pas à toucher ?",
+      "answer": "ace",
+      "accept": [],
+      "choices": [
+        "let",
+        "smash",
+        "lob"
+      ],
+      "explanation": "Un service gagnant que l'adversaire effleure sans pouvoir le renvoyer n'est pas un ace, mais un simple « service gagnant ».",
+      "wikipedia": "Ace (tennis)"
+    },
+    {
+      "id": "sport-096",
+      "difficulty": 1,
+      "question": "Quel tournoi du Grand Chelem ouvre la saison de tennis, chaque année en janvier ?",
+      "answer": "Open d'Australie",
+      "accept": [
+        "Internationaux d'Australie"
+      ],
+      "choices": [
+        "US Open",
+        "Roland-Garros",
+        "Wimbledon"
+      ],
+      "explanation": "Disputé à Melbourne en plein été austral, il se joue souvent sous des chaleurs écrasantes.",
+      "wikipedia": "Open d'Australie"
+    },
+    {
+      "id": "sport-097",
+      "difficulty": 1,
+      "question": "De quelle couleur doivent être, pour l'essentiel, les tenues des joueurs au tournoi de Wimbledon ?",
+      "answer": "blanc",
+      "accept": [
+        "blanche"
+      ],
+      "choices": [
+        "vert",
+        "crème",
+        "bleu marine"
+      ],
+      "explanation": "Les joueurs y jouent en blanc depuis les premières éditions, mais la règle n'est devenue formellement obligatoire qu'en 1963.",
+      "wikipedia": "Tournoi de Wimbledon"
+    },
+    {
+      "id": "sport-098",
+      "difficulty": 1,
+      "question": "Quel nom anglais porte le jeu décisif qui départage deux joueurs à six jeux partout ?",
+      "answer": "tie-break",
+      "accept": [
+        "tie break"
+      ],
+      "choices": [
+        "play-off",
+        "sudden death",
+        "match point"
+      ],
+      "explanation": "Imaginé par l'Américain James Van Alen pour raccourcir les matchs, il est apparu dans les tournois majeurs dans les années 1970.",
+      "wikipedia": "Jeu décisif"
+    },
+    {
+      "id": "sport-099",
+      "difficulty": 1,
+      "question": "Quel joueur français a remporté le tournoi de Roland-Garros en 1983, avant de devenir chanteur ?",
+      "answer": "Yannick Noah",
+      "accept": [
+        "Noah"
+      ],
+      "choices": [
+        "Henri Leconte",
+        "Guy Forget",
+        "Cédric Pioline"
+      ],
+      "explanation": "Il a ensuite mené l'équipe de France, comme capitaine, à la victoire en Coupe Davis en 1991.",
+      "wikipedia": "Yannick Noah"
+    },
+    {
+      "id": "sport-100",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la balle haute qui passe au-dessus d'un adversaire monté au filet ?",
+      "answer": "lob",
+      "accept": [],
+      "choices": [
+        "amorti",
+        "smash",
+        "volée"
+      ],
+      "explanation": "La réponse classique au lob est le smash, frappe puissante au-dessus de la tête.",
+      "wikipedia": "Lob (sport)"
+    },
+    {
+      "id": "sport-101",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le projectile à plumes que l'on frappe au badminton ?",
+      "answer": "volant",
+      "accept": [],
+      "choices": [
+        "palet",
+        "plumet",
+        "bouchon"
+      ],
+      "explanation": "Un volant de compétition compte seize plumes d'oie fixées sur une base en liège ; un smash peut dépasser 400 km/h.",
+      "wikipedia": "Badminton"
+    },
+    {
+      "id": "sport-102",
+      "difficulty": 1,
+      "question": "Quel motif orne le maillot distinguant le meilleur grimpeur du Tour de France ?",
+      "answer": "pois",
+      "accept": [
+        "à pois",
+        "pois rouges"
+      ],
+      "choices": [
+        "rayures",
+        "damier",
+        "étoiles"
+      ],
+      "explanation": "Ses pois rouges sur fond blanc rappellent l'emballage d'une marque de chocolat qui le sponsorisait lors de sa création en 1975.",
+      "wikipedia": "Grand Prix de la montagne du Tour de France"
+    },
+    {
+      "id": "sport-103",
+      "difficulty": 1,
+      "question": "De quelle couleur est le maillot du leader du Tour d'Italie ?",
+      "answer": "rose",
+      "accept": [],
+      "choices": [
+        "jaune",
+        "rouge",
+        "bleu"
+      ],
+      "explanation": "Il reprend la couleur du papier de La Gazzetta dello Sport, le quotidien qui a créé la course en 1909.",
+      "wikipedia": "Maillot rose"
+    },
+    {
+      "id": "sport-104",
+      "difficulty": 1,
+      "question": "Quel coureur breton, quintuple vainqueur du Tour de France, était surnommé « le Blaireau » ?",
+      "answer": "Bernard Hinault",
+      "accept": [
+        "Hinault"
+      ],
+      "choices": [
+        "Louison Bobet",
+        "Laurent Fignon",
+        "Jean Robic"
+      ],
+      "explanation": "Il gagna aussi trois Tours d'Italie et deux Tours d'Espagne ; son caractère combatif lui valut ce surnom d'animal tenace.",
+      "wikipedia": "Bernard Hinault"
+    },
+    {
+      "id": "sport-105",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le véhicule qui ferme une course cycliste et recueille les coureurs qui abandonnent ?",
+      "answer": "voiture-balai",
+      "accept": [
+        "voiture balai"
+      ],
+      "choices": [
+        "voiture-pilote",
+        "voiture ouvreuse",
+        "voiture-relais"
+      ],
+      "explanation": "Sur le Tour de France, elle portait autrefois un vrai balai accroché à l'arrière.",
+      "wikipedia": "Voiture-balai"
+    },
+    {
+      "id": "sport-106",
+      "difficulty": 1,
+      "question": "Quel surnom désigne couramment le Tour de France ?",
+      "answer": "Grande Boucle",
+      "accept": [
+        "la Grande Boucle"
+      ],
+      "choices": [
+        "Grand Tour",
+        "Grande Ronde",
+        "Grand Circuit"
+      ],
+      "explanation": "Le parcours change chaque année mais forme toujours, plus ou moins, une boucle autour de la France.",
+      "wikipedia": "Tour de France"
+    },
+    {
+      "id": "sport-107",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le cortège de véhicules des sponsors qui précède les coureurs du Tour de France ?",
+      "answer": "caravane publicitaire",
+      "accept": [
+        "caravane"
+      ],
+      "choices": [
+        "parade publicitaire",
+        "cortège promotionnel",
+        "défilé commercial"
+      ],
+      "explanation": "Apparue dans les années 1930, elle distribue chaque année des millions de goodies aux spectateurs.",
+      "wikipedia": "Caravane publicitaire du Tour de France"
+    },
+    {
+      "id": "sport-108",
+      "difficulty": 1,
+      "question": "Combien d'épreuves l'heptathlon, discipline combinée féminine, compte-t-il ?",
+      "answer": "sept",
+      "accept": [
+        "7"
+      ],
+      "choices": [
+        "cinq",
+        "huit",
+        "dix"
+      ],
+      "explanation": "Il se dispute sur deux jours : 100 m haies, hauteur, poids et 200 m, puis longueur, javelot et 800 m.",
+      "wikipedia": "Heptathlon"
+    },
+    {
+      "id": "sport-109",
+      "difficulty": 1,
+      "question": "Quelle course d'athlétisme de 3 000 mètres comporte des barrières et une fosse remplie d'eau ?",
+      "answer": "steeple",
+      "accept": [
+        "3 000 mètres steeple"
+      ],
+      "choices": [
+        "cross-country",
+        "haies",
+        "fartlek"
+      ],
+      "explanation": "Son nom vient des courses de chevaux anglaises qui se disputaient d'un clocher (steeple) à un autre.",
+      "wikipedia": "Steeple"
+    },
+    {
+      "id": "sport-110",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le bâton que se transmettent les coureurs d'une course de relais ?",
+      "answer": "témoin",
+      "accept": [],
+      "choices": [
+        "relais",
+        "flambeau",
+        "bâton"
+      ],
+      "explanation": "La transmission doit se faire dans une zone délimitée ; un témoin tombé et non ramassé, ou passé hors zone, entraîne la disqualification.",
+      "wikipedia": "Relais (athlétisme)"
+    },
+    {
+      "id": "sport-111",
+      "difficulty": 1,
+      "question": "Quel sprinteur jamaïcain célébrait ses victoires par une pose baptisée « To Di World », bras pointé vers le ciel ?",
+      "answer": "Usain Bolt",
+      "accept": [
+        "Bolt"
+      ],
+      "choices": [
+        "Asafa Powell",
+        "Yohan Blake",
+        "Linford Christie"
+      ],
+      "explanation": "Surnommé « Lightning Bolt », l'éclair, il a remporté huit titres olympiques sur 100 m, 200 m et relais entre 2008 et 2016.",
+      "wikipedia": "Usain Bolt"
+    },
+    {
+      "id": "sport-112",
+      "difficulty": 1,
+      "question": "Quelle athlète française, surnommée « la Gazelle », réussit le doublé 200-400 mètres aux Jeux d'Atlanta ?",
+      "answer": "Marie-José Pérec",
+      "accept": [
+        "Pérec",
+        "Marie-Jo Pérec"
+      ],
+      "choices": [
+        "Christine Arron",
+        "Muriel Hurtis",
+        "Patricia Girard"
+      ],
+      "explanation": "Née en Guadeloupe, elle fut aussi championne olympique du 400 mètres à Barcelone en 1992.",
+      "wikipedia": "Marie-José Pérec"
+    },
+    {
+      "id": "sport-113",
+      "difficulty": 1,
+      "question": "Quelle nage, la plus lente des quatre, se pratique avec des mouvements de bras et de jambes rappelant ceux d'une grenouille ?",
+      "answer": "brasse",
+      "accept": [],
+      "choices": [
+        "crawl",
+        "dos crawlé",
+        "papillon"
+      ],
+      "explanation": "C'est la plus ancienne des nages codifiées ; le papillon en est dérivé dans les années 1930.",
+      "wikipedia": "Brasse (natation)"
+    },
+    {
+      "id": "sport-114",
+      "difficulty": 1,
+      "question": "Quel nageur américain, originaire de Baltimore, remporta huit titres olympiques lors des seuls Jeux de Pékin en 2008 ?",
+      "answer": "Michael Phelps",
+      "accept": [
+        "Phelps"
+      ],
+      "choices": [
+        "Ryan Lochte",
+        "Ian Thorpe",
+        "Mark Spitz"
+      ],
+      "explanation": "Sa victoire au 100 m papillon, d'un centième de seconde devant Milorad Čavić, fut l'une des plus serrées de l'histoire.",
+      "wikipedia": "Michael Phelps"
+    },
+    {
+      "id": "sport-115",
+      "difficulty": 1,
+      "question": "Quel sport collectif aquatique oppose deux équipes de sept joueurs cherchant à marquer dans un but flottant ?",
+      "answer": "water-polo",
+      "accept": [
+        "water polo"
+      ],
+      "choices": [
+        "hockey subaquatique",
+        "kayak-polo",
+        "rugby subaquatique"
+      ],
+      "explanation": "Né en Grande-Bretagne au XIXe siècle, c'est le plus ancien sport collectif olympique, au programme depuis 1900.",
+      "wikipedia": "Water-polo"
+    },
+    {
+      "id": "sport-116",
+      "difficulty": 1,
+      "question": "Quelle discipline du ski alpin est la plus rapide, avec des pointes au-delà de 130 km/h ?",
+      "answer": "descente",
+      "accept": [],
+      "choices": [
+        "slalom",
+        "slalom géant",
+        "super-G"
+      ],
+      "explanation": "Les pistes de descente sont longues de plus de deux kilomètres et comportent des sauts de plusieurs dizaines de mètres.",
+      "wikipedia": "Descente (ski alpin)"
+    },
+    {
+      "id": "sport-117",
+      "difficulty": 1,
+      "question": "Quel pays tropical engagea une équipe de bobsleigh aux Jeux de Calgary, inspirant le film Rasta Rockett ?",
+      "answer": "Jamaïque",
+      "accept": [],
+      "choices": [
+        "Trinité-et-Tobago",
+        "Barbade",
+        "Bahamas"
+      ],
+      "explanation": "L'équipe avait été montée par deux Américains qui voyaient un lien entre les poussées de départ et les sprinteurs jamaïcains.",
+      "wikipedia": "Rasta Rockett"
+    },
+    {
+      "id": "sport-118",
+      "difficulty": 1,
+      "question": "Quelle ville de Savoie a accueilli les Jeux olympiques d'hiver de 1992 ?",
+      "answer": "Albertville",
+      "accept": [],
+      "choices": [
+        "Chambéry",
+        "Annecy",
+        "Grenoble"
+      ],
+      "explanation": "La cérémonie d'ouverture fut mise en scène par le chorégraphe Philippe Decouflé.",
+      "wikipedia": "Jeux olympiques d'hiver de 1992"
+    },
+    {
+      "id": "sport-119",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la position du skieur débutant, skis en V avec les pointes rapprochées ?",
+      "answer": "chasse-neige",
+      "accept": [],
+      "choices": [
+        "christiania",
+        "télémark",
+        "godille"
+      ],
+      "explanation": "En écartant les talons, le skieur crée un frein et ralentit ; c'est la première technique enseignée en école de ski.",
+      "wikipedia": "Chasse-neige (ski)"
+    },
+    {
+      "id": "sport-120",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le disque de caoutchouc vulcanisé utilisé au hockey sur glace ?",
+      "answer": "palet",
+      "accept": [
+        "rondelle",
+        "puck"
+      ],
+      "choices": [
+        "galet",
+        "jeton",
+        "pion"
+      ],
+      "explanation": "Il est congelé avant les matchs pour réduire ses rebonds sur la glace.",
+      "wikipedia": "Palet (sport)"
+    },
+    {
+      "id": "sport-121",
+      "difficulty": 1,
+      "question": "De quel pays le taekwondo, art martial mettant l'accent sur les coups de pied, est-il originaire ?",
+      "answer": "Corée",
+      "accept": [
+        "Corée du Sud"
+      ],
+      "choices": [
+        "Japon",
+        "Chine",
+        "Viêt Nam"
+      ],
+      "explanation": "Il est devenu discipline olympique officielle aux Jeux de Sydney en 2000.",
+      "wikipedia": "Taekwondo"
+    },
+    {
+      "id": "sport-122",
+      "difficulty": 1,
+      "question": "Quel art martial brésilien mêlant danse et musique se pratique au son du berimbau ?",
+      "answer": "capoeira",
+      "accept": [],
+      "choices": [
+        "samba",
+        "jiu-jitsu brésilien",
+        "vale tudo"
+      ],
+      "explanation": "Développée par des esclaves africains au Brésil, elle a été inscrite au patrimoine culturel immatériel de l'humanité.",
+      "wikipedia": "Capoeira"
+    },
+    {
+      "id": "sport-123",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on en boxe le coup de poing porté de bas en haut, vers le menton de l'adversaire ?",
+      "answer": "uppercut",
+      "accept": [],
+      "choices": [
+        "crochet",
+        "direct",
+        "swing"
+      ],
+      "explanation": "Ce coup est particulièrement efficace en combat rapproché, quand l'adversaire baisse la garde.",
+      "wikipedia": "Coup de poing remontant"
+    },
+    {
+      "id": "sport-124",
+      "difficulty": 1,
+      "question": "Au golf, comment appelle-t-on un trou réalisé en un coup de moins que le par ?",
+      "answer": "birdie",
+      "accept": [],
+      "choices": [
+        "eagle",
+        "bogey",
+        "albatros"
+      ],
+      "explanation": "Le mot vient de l'argot américain de la fin du XIXe siècle, où « bird » qualifiait une chose excellente.",
+      "wikipedia": "Vocabulaire du golf"
+    },
+    {
+      "id": "sport-125",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la fosse de sable servant d'obstacle sur un parcours de golf ?",
+      "answer": "bunker",
+      "accept": [],
+      "choices": [
+        "rough",
+        "green",
+        "fairway"
+      ],
+      "explanation": "Le joueur n'a pas le droit de toucher le sable avec son club avant de frapper la balle.",
+      "wikipedia": "Bunker (golf)"
+    },
+    {
+      "id": "sport-126",
+      "difficulty": 1,
+      "question": "Combien de trous compte un parcours de golf standard ?",
+      "answer": "18",
+      "accept": [
+        "dix-huit"
+      ],
+      "choices": [
+        "9",
+        "12",
+        "24"
+      ],
+      "explanation": "Ce nombre vient de St Andrews, en Écosse, dont le parcours de 22 trous fut réduit à 18 au XVIIIe siècle.",
+      "wikipedia": "Golf"
+    },
+    {
+      "id": "sport-127",
+      "difficulty": 1,
+      "question": "Quel surnom reçut l'équipe américaine de basket aux Jeux de Barcelone en 1992 ?",
+      "answer": "Dream Team",
+      "accept": [],
+      "choices": [
+        "Golden Team",
+        "Redeem Team",
+        "All-Stars"
+      ],
+      "explanation": "Ce fut la première fois que les joueurs professionnels de la NBA furent autorisés aux Jeux olympiques.",
+      "wikipedia": "Dream Team"
+    },
+    {
+      "id": "sport-128",
+      "difficulty": 1,
+      "question": "Quelle équipe américaine de basket spectacle se produit au son de « Sweet Georgia Brown » ?",
+      "answer": "Harlem Globetrotters",
+      "accept": [
+        "Globetrotters"
+      ],
+      "choices": [
+        "Washington Generals",
+        "Chicago Bulls",
+        "Boston Celtics"
+      ],
+      "explanation": "Fondée à Chicago dans les années 1920, l'équipe n'était pas originaire de Harlem : le nom évoquait la culture afro-américaine.",
+      "wikipedia": "Globetrotters de Harlem"
+    },
+    {
+      "id": "sport-129",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on au basket le tir où le joueur enfonce le ballon dans le panier par le haut ?",
+      "answer": "dunk",
+      "accept": [
+        "smash"
+      ],
+      "choices": [
+        "lay-up",
+        "alley-oop",
+        "tir en suspension"
+      ],
+      "explanation": "Interdit en NCAA de 1967 à 1976, le dunk fait aujourd'hui l'objet d'un concours spectaculaire lors du All-Star Game.",
+      "wikipedia": "Slam dunk"
+    },
+    {
+      "id": "sport-130",
+      "difficulty": 1,
+      "question": "Combien de joueurs chaque équipe aligne-t-elle sur le terrain au volley-ball en salle ?",
+      "answer": "six",
+      "accept": [
+        "6"
+      ],
+      "choices": [
+        "cinq",
+        "sept",
+        "quatre"
+      ],
+      "explanation": "Les joueurs tournent d'une position dans le sens des aiguilles d'une montre chaque fois que leur équipe récupère le service.",
+      "wikipedia": "Volley-ball"
+    },
+    {
+      "id": "sport-131",
+      "difficulty": 1,
+      "question": "Combien de joueurs, gardien compris, une équipe aligne-t-elle sur le terrain au handball ?",
+      "answer": "sept",
+      "accept": [
+        "7"
+      ],
+      "choices": [
+        "six",
+        "huit",
+        "onze"
+      ],
+      "explanation": "Le handball à onze, joué en plein air, figura aux Jeux de Berlin en 1936 avant de céder la place au handball en salle.",
+      "wikipedia": "Handball"
+    },
+    {
+      "id": "sport-132",
+      "difficulty": 1,
+      "question": "Au baseball, comment appelle-t-on le coup qui permet au frappeur de faire le tour des bases d'un seul coup ?",
+      "answer": "home run",
+      "accept": [
+        "coup de circuit"
+      ],
+      "choices": [
+        "strike",
+        "walk",
+        "double play"
+      ],
+      "explanation": "Le plus souvent, la balle est frappée par-dessus la clôture du champ extérieur, hors du terrain.",
+      "wikipedia": "Coup de circuit"
+    },
+    {
+      "id": "sport-133",
+      "difficulty": 1,
+      "question": "Comment s'appelle la finale du championnat de football américain de la NFL ?",
+      "answer": "Super Bowl",
+      "accept": [],
+      "choices": [
+        "World Series",
+        "Rose Bowl",
+        "Pro Bowl"
+      ],
+      "explanation": "Les éditions sont numérotées en chiffres romains ; la mi-temps accueille un concert parmi les plus regardés au monde.",
+      "wikipedia": "Super Bowl"
+    },
+    {
+      "id": "sport-134",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on au football américain l'action principale qui rapporte six points ?",
+      "answer": "touchdown",
+      "accept": [],
+      "choices": [
+        "field goal",
+        "safety",
+        "home run"
+      ],
+      "explanation": "Pour marquer, il faut porter le ballon dans la zone d'en-but adverse ou l'y attraper.",
+      "wikipedia": "Touchdown"
+    },
+    {
+      "id": "sport-135",
+      "difficulty": 1,
+      "question": "Quel sport d'équipe se joue à cheval, les cavaliers frappant une balle avec un long maillet ?",
+      "answer": "polo",
+      "accept": [],
+      "choices": [
+        "horse-ball",
+        "croquet",
+        "pato"
+      ],
+      "explanation": "Originaire de Perse, il fut adopté par les officiers britanniques en Inde au XIXe siècle ; un match se divise en périodes appelées chukkers.",
+      "wikipedia": "Polo"
+    },
+    {
+      "id": "sport-136",
+      "difficulty": 1,
+      "question": "Dans quelle ville de la Sarthe se dispute une célèbre course automobile d'endurance de vingt-quatre heures ?",
+      "answer": "Le Mans",
+      "accept": [],
+      "choices": [
+        "Laval",
+        "Alençon",
+        "Angers"
+      ],
+      "explanation": "Créée en 1923, elle a longtemps imposé un départ où les pilotes couraient vers leur voiture garée en épi.",
+      "wikipedia": "24 Heures du Mans"
+    },
+    {
+      "id": "sport-137",
+      "difficulty": 1,
+      "question": "Quel motif noir et blanc orne le drapeau qui signale l'arrivée d'une course automobile ?",
+      "answer": "damier",
+      "accept": [
+        "drapeau à damier"
+      ],
+      "choices": [
+        "rayures",
+        "pois",
+        "croix"
+      ],
+      "explanation": "Le drapeau vert lance la course, le jaune signale un danger et le rouge interrompt l'épreuve.",
+      "wikipedia": "Drapeau à damier"
+    },
+    {
+      "id": "sport-138",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la première place sur la grille de départ d'un Grand Prix ?",
+      "answer": "pole position",
+      "accept": [
+        "pole"
+      ],
+      "choices": [
+        "front line",
+        "first spot",
+        "grid one"
+      ],
+      "explanation": "Le pilote la décroche en signant le meilleur temps lors des qualifications.",
+      "wikipedia": "Pole position"
+    },
+    {
+      "id": "sport-139",
+      "difficulty": 1,
+      "question": "Quel Grand Prix de Formule 1 se dispute dans les rues d'une principauté de la Côte d'Azur ?",
+      "answer": "Monaco",
+      "accept": [
+        "Grand Prix de Monaco"
+      ],
+      "choices": [
+        "Monza",
+        "Spa",
+        "Le Castellet"
+      ],
+      "explanation": "Son virage en épingle du Fairmont est le plus lent de tout le championnat.",
+      "wikipedia": "Grand Prix automobile de Monaco"
+    },
+    {
+      "id": "sport-140",
+      "difficulty": 1,
+      "question": "Dans quelle ville de Guadeloupe arrive la Route du Rhum, partie de Saint-Malo ?",
+      "answer": "Pointe-à-Pitre",
+      "accept": [],
+      "choices": [
+        "Basse-Terre",
+        "Fort-de-France",
+        "Le Gosier"
+      ],
+      "explanation": "La première édition, en 1978, fut gagnée par le Canadien Mike Birch pour 98 secondes.",
+      "wikipedia": "Route du Rhum"
+    },
+    {
+      "id": "sport-141",
+      "difficulty": 1,
+      "question": "De quel port vendéen part et arrive le Vendée Globe, tour du monde à la voile en solitaire ?",
+      "answer": "Les Sables-d'Olonne",
+      "accept": [
+        "Sables-d'Olonne"
+      ],
+      "choices": [
+        "La Rochelle",
+        "Saint-Gilles-Croix-de-Vie",
+        "Noirmoutier"
+      ],
+      "explanation": "Course sans escale ni assistance, elle est surnommée « l'Everest des mers ».",
+      "wikipedia": "Vendée Globe"
+    },
+    {
+      "id": "sport-142",
+      "difficulty": 1,
+      "question": "Combien d'anneaux entrelacés figurent sur le drapeau olympique ?",
+      "answer": "cinq",
+      "accept": [
+        "5"
+      ],
+      "choices": [
+        "quatre",
+        "six",
+        "sept"
+      ],
+      "explanation": "Dessinés par Pierre de Coubertin, ils figurent l'union des continents ; avec le fond blanc, leurs couleurs reprennent celles de tous les drapeaux de l'époque.",
+      "wikipedia": "Symboles olympiques"
+    },
+    {
+      "id": "sport-143",
+      "difficulty": 1,
+      "question": "Sur quel site grec la flamme olympique est-elle allumée avant chaque édition des Jeux ?",
+      "answer": "Olympie",
+      "accept": [],
+      "choices": [
+        "Delphes",
+        "Athènes",
+        "Corinthe"
+      ],
+      "explanation": "Elle est allumée par une prêtresse grâce aux rayons du soleil concentrés dans un miroir parabolique.",
+      "wikipedia": "Flamme olympique"
+    },
+    {
+      "id": "sport-144",
+      "difficulty": 1,
+      "question": "En l'honneur de quel dieu se tenaient les Jeux olympiques de l'Antiquité ?",
+      "answer": "Zeus",
+      "accept": [],
+      "choices": [
+        "Apollon",
+        "Héraclès",
+        "Poséidon"
+      ],
+      "explanation": "Le sanctuaire d'Olympie abritait une statue chryséléphantine de Zeus, l'une des Sept Merveilles du monde.",
+      "wikipedia": "Jeux olympiques antiques"
+    },
+    {
+      "id": "sport-145",
+      "difficulty": 1,
+      "question": "Quelle ville a accueilli les premiers Jeux olympiques de l'ère moderne, en 1896 ?",
+      "answer": "Athènes",
+      "accept": [],
+      "choices": [
+        "Paris",
+        "Londres",
+        "Olympie"
+      ],
+      "explanation": "Les épreuves se déroulèrent dans le stade panathénaïque, reconstruit en marbre pour l'occasion.",
+      "wikipedia": "Jeux olympiques de 1896"
+    },
+    {
+      "id": "sport-146",
+      "difficulty": 1,
+      "question": "Quelle ville a accueilli en 1980 les Jeux olympiques boycottés par les États-Unis ?",
+      "answer": "Moscou",
+      "accept": [],
+      "choices": [
+        "Montréal",
+        "Los Angeles",
+        "Munich"
+      ],
+      "explanation": "Le boycott protestait contre l'invasion soviétique de l'Afghanistan ; le bloc de l'Est rendit la pareille à Los Angeles en 1984.",
+      "wikipedia": "Jeux olympiques d'été de 1980"
+    },
+    {
+      "id": "sport-147",
+      "difficulty": 1,
+      "question": "Quel agrès de gymnastique masculine comporte deux poignées sur lesquelles le gymnaste prend appui ?",
+      "answer": "cheval d'arçons",
+      "accept": [
+        "cheval-arçons"
+      ],
+      "choices": [
+        "table de saut",
+        "barre fixe",
+        "anneaux"
+      ],
+      "explanation": "Le gymnaste n'y touche qu'avec les mains et enchaîne des cercles de jambes sans jamais s'arrêter.",
+      "wikipedia": "Cheval d'arçons"
+    },
+    {
+      "id": "sport-148",
+      "difficulty": 1,
+      "question": "Quel agrès de gymnastique féminine se compose de deux lisses fixées à des hauteurs différentes ?",
+      "answer": "barres asymétriques",
+      "accept": [],
+      "choices": [
+        "barres parallèles",
+        "poutre",
+        "barre fixe"
+      ],
+      "explanation": "Elles ont été dérivées des barres parallèles masculines, dont on surélevait l'une des barres.",
+      "wikipedia": "Barres asymétriques"
+    },
+    {
+      "id": "sport-149",
+      "difficulty": 1,
+      "question": "Sur quel agrès de gymnastique, large de dix centimètres, la gymnaste enchaîne-t-elle sauts et acrobaties ?",
+      "answer": "poutre",
+      "accept": [],
+      "choices": [
+        "sol",
+        "barre fixe",
+        "tremplin"
+      ],
+      "explanation": "Haute de 1,25 mètre et longue de 5 mètres, elle impose un exercice d'environ 90 secondes.",
+      "wikipedia": "Poutre (gymnastique)"
+    },
+    {
+      "id": "sport-150",
+      "difficulty": 1,
+      "question": "Quelle discipline gymnique utilise le ruban, le cerceau, le ballon et les massues ?",
+      "answer": "gymnastique rythmique",
+      "accept": [
+        "GR"
+      ],
+      "choices": [
+        "gymnastique artistique",
+        "trampoline",
+        "gymnastique acrobatique"
+      ],
+      "explanation": "Exclusivement féminine aux Jeux olympiques, elle se pratique en individuel ou en ensemble de cinq gymnastes.",
+      "wikipedia": "Gymnastique rythmique"
+    },
+    {
+      "id": "sport-151",
+      "difficulty": 1,
+      "question": "Par quelle discipline débute toujours une épreuve de triathlon ?",
+      "answer": "natation",
+      "accept": [],
+      "choices": [
+        "course à pied",
+        "cyclisme",
+        "aviron"
+      ],
+      "explanation": "On la place en premier pour des raisons de sécurité, les athlètes étant encore frais au moment de nager.",
+      "wikipedia": "Triathlon"
+    },
+    {
+      "id": "sport-152",
+      "difficulty": 1,
+      "question": "Quel sherpa népalais accompagnait Edmund Hillary lors de la première ascension de l'Everest en 1953 ?",
+      "answer": "Tenzing Norgay",
+      "accept": [
+        "Tenzing"
+      ],
+      "choices": [
+        "Ang Rita",
+        "Apa Sherpa",
+        "Pasang Lhamu"
+      ],
+      "explanation": "Les deux hommes ne passèrent qu'une quinzaine de minutes au sommet ; Tenzing y laissa des friandises en offrande.",
+      "wikipedia": "Tensing Norgay"
+    },
+    {
+      "id": "sport-153",
+      "difficulty": 1,
+      "question": "Combien de joueurs chaque équipe aligne-t-elle sur le terrain lors d'un match de football ?",
+      "answer": "onze",
+      "accept": [
+        "11"
+      ],
+      "choices": [
+        "dix",
+        "douze",
+        "neuf"
+      ],
+      "explanation": "Les remplacements, longtemps interdits, n'ont été autorisés en Coupe du monde qu'à partir de 1970.",
+      "wikipedia": "Football"
+    },
+    {
+      "id": "sport-154",
+      "difficulty": 1,
+      "question": "Au tennis, quel score suit 30 dans le décompte des points d'un jeu ?",
+      "answer": "40",
+      "accept": [
+        "quarante"
+      ],
+      "choices": [
+        "45",
+        "35",
+        "50"
+      ],
+      "explanation": "Le décompte en 15, 30, 40 viendrait des quarts d'une horloge ; 45 aurait été raccourci en 40 pour faciliter l'annonce.",
+      "wikipedia": "Tennis"
+    },
+    {
+      "id": "sport-155",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on couramment le tir accordé à onze mètres du but après une faute dans la surface ?",
+      "answer": "penalty",
+      "accept": [
+        "pénalty",
+        "coup de pied de réparation"
+      ],
+      "choices": [
+        "coup franc",
+        "corner",
+        "tir au but"
+      ],
+      "explanation": "Le gardien doit garder au moins un pied sur sa ligne au moment de la frappe ; les tirs au but départagent, eux, les équipes à égalité.",
+      "wikipedia": "Penalty (football)"
+    },
+    {
+      "id": "sport-156",
+      "difficulty": 1,
+      "question": "Dans quel sport de combat manie-t-on le fleuret, l'épée ou le sabre ?",
+      "answer": "escrime",
+      "accept": [],
+      "choices": [
+        "kendo",
+        "boxe française",
+        "pentathlon"
+      ],
+      "explanation": "Le vocabulaire de l'escrime est français dans le monde entier : « en garde », « prêts », « allez » lancent chaque assaut.",
+      "wikipedia": "Escrime"
+    },
+    {
+      "id": "sport-157",
+      "difficulty": 1,
+      "question": "Quel sport de glisse sur neige se pratique sur une seule planche, les deux pieds fixés ?",
+      "answer": "snowboard",
+      "accept": [
+        "surf des neiges"
+      ],
+      "choices": [
+        "monoski",
+        "skwal",
+        "snowskate"
+      ],
+      "explanation": "Il est entré au programme olympique aux Jeux de Nagano en 1998, avec le slalom géant et le half-pipe.",
+      "wikipedia": "Snowboard"
+    },
+    {
+      "id": "sport-158",
+      "difficulty": 1,
+      "question": "Quelle ville a accueilli les Jeux olympiques d'été en 1900, en 1924 et en 2024 ?",
+      "answer": "Paris",
+      "accept": [],
+      "choices": [
+        "Londres",
+        "Athènes",
+        "Los Angeles"
+      ],
+      "explanation": "En 1900, les épreuves se déroulèrent sur plusieurs mois, en marge de l'Exposition universelle.",
+      "wikipedia": "Jeux olympiques d'été de 2024"
+    },
+    {
+      "id": "sport-159",
+      "difficulty": 1,
+      "question": "Quel mot japonais désigne la salle où l'on pratique les arts martiaux ?",
+      "answer": "dojo",
+      "accept": [
+        "dōjō"
+      ],
+      "choices": [
+        "tatami",
+        "kimono",
+        "bushido"
+      ],
+      "explanation": "Le terme signifie littéralement « lieu de la voie » et désignait d'abord une salle de méditation bouddhiste.",
+      "wikipedia": "Dojo"
+    },
+    {
+      "id": "sport-160",
+      "difficulty": 1,
+      "question": "Quel sport olympique se joue avec une crosse recourbée et une petite balle, sur une pelouse ?",
+      "answer": "hockey sur gazon",
+      "accept": [
+        "hockey sur herbe"
+      ],
+      "choices": [
+        "cricket",
+        "golf",
+        "lacrosse"
+      ],
+      "explanation": "Seule la face plate de la crosse peut toucher la balle ; l'Inde a remporté huit titres olympiques dans cette discipline.",
+      "wikipedia": "Hockey sur gazon"
+    },
+    {
+      "id": "sport-161",
+      "difficulty": 1,
+      "question": "Quel sport de glisse se pratique sur une planche tractée par une grande aile de traction ?",
+      "answer": "kitesurf",
+      "accept": [
+        "kitesurfing",
+        "planche aérotractée"
+      ],
+      "choices": [
+        "planche à voile",
+        "wakeboard",
+        "foil"
+      ],
+      "explanation": "Les meilleurs riders réalisent des sauts de plus de vingt mètres de haut grâce à la portance de l'aile.",
+      "wikipedia": "Kitesurf"
+    },
+    {
+      "id": "sport-162",
+      "difficulty": 1,
+      "question": "Quelle course automobile, créée en 1911, se dispute chaque hiver sur les routes enneigées des Alpes du Sud et de la principauté ?",
+      "answer": "rallye Monte-Carlo",
+      "accept": [
+        "Monte-Carlo"
+      ],
+      "choices": [
+        "rallye de Corse",
+        "rallye d'Alsace",
+        "rallye du Portugal"
+      ],
+      "explanation": "Le col de Turini, souvent parcouru de nuit, en est l'étape la plus mythique.",
+      "wikipedia": "Rallye automobile Monte-Carlo"
+    },
+    {
+      "id": "sport-163",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'espace carré, entouré de cordes, où se déroule un combat de boxe ?",
+      "answer": "ring",
+      "accept": [],
+      "choices": [
+        "octogone",
+        "tatami",
+        "arène"
+      ],
+      "explanation": "Le mot anglais signifie « cercle » : les premiers combats se disputaient au milieu d'un cercle de spectateurs.",
+      "wikipedia": "Ring de boxe"
+    },
+    {
+      "id": "sport-164",
+      "difficulty": 1,
+      "question": "Quel sport de glisse, pratiqué depuis des siècles à Hawaï, consiste à chevaucher les vagues debout sur une planche ?",
+      "answer": "surf",
+      "accept": [],
+      "choices": [
+        "bodyboard",
+        "planche à voile",
+        "wakeboard"
+      ],
+      "explanation": "Le navigateur James Cook décrivit au XVIIIe siècle des Polynésiens glissant sur les vagues ; le surf est devenu olympique aux Jeux de Tokyo.",
+      "wikipedia": "Surf"
+    },
+    {
+      "id": "sport-165",
+      "difficulty": 1,
+      "question": "Quel stade londonien, surmonté d'une immense arche, accueille les finales de la coupe d'Angleterre de football ?",
+      "answer": "Wembley",
+      "accept": [
+        "stade de Wembley"
+      ],
+      "choices": [
+        "Twickenham",
+        "Highbury",
+        "White Hart Lane"
+      ],
+      "explanation": "Le stade actuel, rouvert en 2007, a été reconstruit sur le site de l'ancien Wembley, célèbre pour ses deux tours jumelles.",
+      "wikipedia": "Stade de Wembley"
+    },
+    {
+      "id": "sport-166",
+      "difficulty": 1,
+      "question": "Quel sport consiste à rallier une série de balises dans la nature à l'aide d'une carte et d'une boussole ?",
+      "answer": "course d'orientation",
+      "accept": [
+        "orientation"
+      ],
+      "choices": [
+        "trail",
+        "géocaching",
+        "randonnée"
+      ],
+      "explanation": "D'abord exercice d'entraînement militaire, elle est devenue un sport très populaire dans les pays scandinaves.",
+      "wikipedia": "Course d'orientation"
+    },
+    {
+      "id": "sport-167",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la descente de rivières en eaux vives à bord d'un radeau pneumatique ?",
+      "answer": "rafting",
+      "accept": [],
+      "choices": [
+        "canyoning",
+        "hydrospeed",
+        "kayak"
+      ],
+      "explanation": "Le mot vient de l'anglais raft, « radeau » ; l'équipage pagaie à l'unisson en suivant les ordres du guide placé à l'arrière.",
+      "wikipedia": "Rafting"
+    },
+    {
+      "id": "sport-168",
+      "difficulty": 1,
+      "question": "Quelle activité consiste à se jeter dans le vide depuis un pont ou une grue, retenu aux chevilles par un câble extensible ?",
+      "answer": "saut à l'élastique",
+      "accept": [
+        "bungee",
+        "benji"
+      ],
+      "choices": [
+        "parachutisme",
+        "base jump",
+        "saut pendulaire"
+      ],
+      "explanation": "Il s'inspire d'un rite de l'île de Pentecôte, au Vanuatu, où des hommes sautent de tours en bois, des lianes attachées aux chevilles.",
+      "wikipedia": "Saut à l'élastique"
+    },
+    {
+      "id": "sport-169",
+      "difficulty": 2,
+      "question": "Quel nom porte le penalty tiré en pichenette au centre du but, d'après un joueur tchécoslovaque ?",
+      "answer": "panenka",
+      "accept": [],
+      "choices": [
+        "rabona",
+        "madjer",
+        "papinade"
+      ],
+      "explanation": "Antonín Panenka offrit ainsi le titre européen à la Tchécoslovaquie face à la RFA en 1976, trompant le gardien Sepp Maier qui avait plongé.",
+      "wikipedia": "Antonín Panenka"
+    },
+    {
+      "id": "sport-170",
+      "difficulty": 2,
+      "question": "Quel magazine français a créé le Ballon d'or, qui récompense chaque année le meilleur footballeur ?",
+      "answer": "France Football",
+      "accept": [],
+      "choices": [
+        "L'Équipe",
+        "Onze Mondial",
+        "Miroir du football"
+      ],
+      "explanation": "Créé en 1956, le trophée ne concernait d'abord que les joueurs européens ; le premier lauréat fut l'Anglais Stanley Matthews.",
+      "wikipedia": "Ballon d'or"
+    },
+    {
+      "id": "sport-171",
+      "difficulty": 2,
+      "question": "Quel gardien soviétique, toujours vêtu de noir, était surnommé « l'Araignée noire » ?",
+      "answer": "Lev Yachine",
+      "accept": [
+        "Yachine",
+        "Lev Yashin"
+      ],
+      "choices": [
+        "Rinat Dassaev",
+        "Oleg Blokhine",
+        "Dino Zoff"
+      ],
+      "explanation": "Il est à ce jour le seul gardien de but à avoir reçu le Ballon d'or, en 1963, et l'on dit qu'il arrêta plus de 150 penaltys.",
+      "wikipedia": "Lev Yachine"
+    },
+    {
+      "id": "sport-172",
+      "difficulty": 2,
+      "question": "Quel Néerlandais incarnait le « football total » de l'Ajax Amsterdam et des Pays-Bas dans les années 1970 ?",
+      "answer": "Johan Cruyff",
+      "accept": [
+        "Cruyff"
+      ],
+      "choices": [
+        "Marco van Basten",
+        "Ruud Gullit",
+        "Johan Neeskens"
+      ],
+      "explanation": "Il a laissé son nom à une feinte, le « Cruyff turn », et devint ensuite l'entraîneur qui façonna le style du FC Barcelone.",
+      "wikipedia": "Johan Cruyff"
+    },
+    {
+      "id": "sport-173",
+      "difficulty": 2,
+      "question": "Quel défenseur allemand, champion du monde comme joueur puis comme entraîneur, était surnommé « le Kaiser » ?",
+      "answer": "Franz Beckenbauer",
+      "accept": [
+        "Beckenbauer"
+      ],
+      "choices": [
+        "Gerd Müller",
+        "Karl-Heinz Rummenigge",
+        "Berti Vogts"
+      ],
+      "explanation": "Il popularisa le rôle de libéro, défenseur libre de monter balle au pied ; il gagna la Coupe du monde en 1974 puis en 1990.",
+      "wikipedia": "Franz Beckenbauer"
+    },
+    {
+      "id": "sport-174",
+      "difficulty": 2,
+      "question": "Dans quel stade de Rio de Janeiro l'Uruguay a-t-il battu le Brésil lors du « Maracanazo » de 1950 ?",
+      "answer": "Maracanã",
+      "accept": [
+        "Maracana"
+      ],
+      "choices": [
+        "Morumbi",
+        "São Januário",
+        "Mineirão"
+      ],
+      "explanation": "Le Brésil n'avait besoin que d'un match nul ; près de 200 000 spectateurs assistèrent, sidérés, à la victoire uruguayenne 2 à 1.",
+      "wikipedia": "Match de football Brésil – Uruguay (1950)"
+    },
+    {
+      "id": "sport-175",
+      "difficulty": 2,
+      "question": "Quel quotidien sportif français est à l'origine de la Coupe des clubs champions européens, ancêtre de la Ligue des champions ?",
+      "answer": "L'Équipe",
+      "accept": [
+        "L'Equipe"
+      ],
+      "choices": [
+        "France Football",
+        "Le Miroir des sports",
+        "L'Auto"
+      ],
+      "explanation": "Le journaliste Gabriel Hanot porta le projet, lancé en 1955 ; le Real Madrid remporta les cinq premières éditions.",
+      "wikipedia": "Ligue des champions de l'UEFA"
+    },
+    {
+      "id": "sport-176",
+      "difficulty": 2,
+      "question": "Quel stade de l'AS Saint-Étienne est surnommé « le Chaudron » pour son ambiance ?",
+      "answer": "Geoffroy-Guichard",
+      "accept": [
+        "stade Geoffroy-Guichard"
+      ],
+      "choices": [
+        "Gerland",
+        "Félix-Bollaert",
+        "La Beaujoire"
+      ],
+      "explanation": "Il porte le nom du fondateur du groupe Casino, qui offrit le terrain au club dans les années 1930.",
+      "wikipedia": "Stade Geoffroy-Guichard"
+    },
+    {
+      "id": "sport-177",
+      "difficulty": 2,
+      "question": "Dans quelle ville espagnole se joua en 1982 la demi-finale France-RFA, marquée par la brutale agression de Battiston ?",
+      "answer": "Séville",
+      "accept": [
+        "Seville"
+      ],
+      "choices": [
+        "Madrid",
+        "Barcelone",
+        "Valence"
+      ],
+      "explanation": "Ce premier match de Coupe du monde décidé aux tirs au but est souvent appelé « la nuit de Séville » par les supporters français.",
+      "wikipedia": "Match de football RFA - France (1982)"
+    },
+    {
+      "id": "sport-178",
+      "difficulty": 2,
+      "question": "Quel attaquant camerounais de 38 ans dansait près du poteau de corner après ses buts au Mondial 1990 ?",
+      "answer": "Roger Milla",
+      "accept": [
+        "Milla"
+      ],
+      "choices": [
+        "Samuel Eto'o",
+        "Thomas N'Kono",
+        "François Omam-Biyik"
+      ],
+      "explanation": "Sorti de sa semi-retraite à La Réunion, il marqua quatre buts lors de ce tournoi italien.",
+      "wikipedia": "Roger Milla"
+    },
+    {
+      "id": "sport-179",
+      "difficulty": 2,
+      "question": "Quelle compétition, créée en 1871, est la plus ancienne coupe de football au monde ?",
+      "answer": "FA Cup",
+      "accept": [
+        "Coupe d'Angleterre"
+      ],
+      "choices": [
+        "Coupe de France",
+        "Coupe d'Écosse",
+        "Coupe du Roi"
+      ],
+      "explanation": "Ses tours préliminaires réunissent des centaines de clubs amateurs, ce qui permet chaque saison des exploits de petits clubs face aux professionnels.",
+      "wikipedia": "Coupe d'Angleterre de football"
+    },
+    {
+      "id": "sport-180",
+      "difficulty": 2,
+      "question": "Quel jour, lendemain de Noël, le football anglais organise-t-il traditionnellement une journée complète de championnat ?",
+      "answer": "Boxing Day",
+      "accept": [],
+      "choices": [
+        "Twelfth Night",
+        "Hogmanay",
+        "Thanksgiving"
+      ],
+      "explanation": "Le nom viendrait des boîtes de cadeaux que l'on offrait ce jour-là aux domestiques et aux commerçants.",
+      "wikipedia": "Boxing Day"
+    },
+    {
+      "id": "sport-181",
+      "difficulty": 2,
+      "question": "Quel ailier nord-irlandais de Manchester United fut surnommé « le cinquième Beatles » ?",
+      "answer": "George Best",
+      "accept": [
+        "Best"
+      ],
+      "choices": [
+        "Bobby Charlton",
+        "Denis Law",
+        "Ryan Giggs"
+      ],
+      "explanation": "Ballon d'or 1968, il était aussi célèbre pour sa vie nocturne que pour ses dribbles.",
+      "wikipedia": "George Best"
+    },
+    {
+      "id": "sport-182",
+      "difficulty": 2,
+      "question": "Quel footballeur français d'origine polonaise fut, en 1958, le premier Français lauréat du Ballon d'or ?",
+      "answer": "Raymond Kopa",
+      "accept": [
+        "Kopa"
+      ],
+      "choices": [
+        "Just Fontaine",
+        "Michel Hidalgo",
+        "Robert Jonquet"
+      ],
+      "explanation": "Né Kopaszewski dans une famille de mineurs du Nord, il triompha avec le Real Madrid dans les années 1950.",
+      "wikipedia": "Raymond Kopa"
+    },
+    {
+      "id": "sport-183",
+      "difficulty": 2,
+      "question": "Quelle variante à effectif réduit du ballon ovale est devenue discipline olympique aux Jeux de Rio de 2016 ?",
+      "answer": "rugby à sept",
+      "accept": [
+        "rugby à 7",
+        "sevens"
+      ],
+      "choices": [
+        "rugby à XIII",
+        "rugby à cinq",
+        "rugby à dix"
+      ],
+      "explanation": "Le rugby à XV avait déjà figuré au programme olympique, notamment en 1900 à Paris, avant d'en disparaître après 1924.",
+      "wikipedia": "Rugby à sept"
+    },
+    {
+      "id": "sport-184",
+      "difficulty": 2,
+      "question": "Quel surnom porte l'équipe d'Argentine de rugby à XV ?",
+      "answer": "Pumas",
+      "accept": [
+        "Los Pumas"
+      ],
+      "choices": [
+        "Jaguars",
+        "Condors",
+        "Gauchos"
+      ],
+      "explanation": "Le surnom serait né d'une méprise d'un journaliste sud-africain qui prit le jaguar de l'écusson pour un puma.",
+      "wikipedia": "Équipe d'Argentine de rugby à XV"
+    },
+    {
+      "id": "sport-185",
+      "difficulty": 2,
+      "question": "Comment surnomme-t-on le match qui oppose la France à l'Angleterre lors du Tournoi des Six Nations ?",
+      "answer": "Crunch",
+      "accept": [
+        "le Crunch"
+      ],
+      "choices": [
+        "Clash",
+        "Derby",
+        "Classico"
+      ],
+      "explanation": "Ce terme anglais évoque le craquement d'un affrontement décisif et nourri par une rivalité séculaire.",
+      "wikipedia": "Angleterre-France en rugby à XV"
+    },
+    {
+      "id": "sport-186",
+      "difficulty": 2,
+      "question": "Dans quel pays le rugby à XIII est-il né d'une scission avec le rugby à XV, en 1895 ?",
+      "answer": "Angleterre",
+      "accept": [],
+      "choices": [
+        "Australie",
+        "France",
+        "Pays de Galles"
+      ],
+      "explanation": "Les clubs ouvriers du nord de l'Angleterre voulaient indemniser leurs joueurs pour les heures de travail perdues, ce que refusait la fédération.",
+      "wikipedia": "Rugby à XIII"
+    },
+    {
+      "id": "sport-187",
+      "difficulty": 2,
+      "question": "Quel troisième ligne du XV de France, à la crinière blonde, était surnommé « Casque d'or » ?",
+      "answer": "Jean-Pierre Rives",
+      "accept": [
+        "Rives"
+      ],
+      "choices": [
+        "Jean-Claude Skrela",
+        "Walter Spanghero",
+        "Serge Blanco"
+      ],
+      "explanation": "Capitaine emblématique du XV de France, souvent ensanglanté à la fin des matchs, il est aussi devenu sculpteur après sa carrière.",
+      "wikipedia": "Jean-Pierre Rives"
+    },
+    {
+      "id": "sport-188",
+      "difficulty": 2,
+      "question": "Quel ailier néo-zélandais colossal piétina l'Angleterre en demi-finale de la Coupe du monde 1995 ?",
+      "answer": "Jonah Lomu",
+      "accept": [
+        "Lomu"
+      ],
+      "choices": [
+        "Jeff Wilson",
+        "Christian Cullen",
+        "Doug Howlett"
+      ],
+      "explanation": "Il marqua quatre essais ce jour-là ; atteint d'une grave maladie des reins, il est mort en 2015 à 40 ans.",
+      "wikipedia": "Jonah Lomu"
+    },
+    {
+      "id": "sport-189",
+      "difficulty": 2,
+      "question": "Quel mot anglais désigne au tennis l'égalité à 40 partout ?",
+      "answer": "deuce",
+      "accept": [],
+      "choices": [
+        "love",
+        "let",
+        "advantage"
+      ],
+      "explanation": "Il viendrait du français « à deux », car il faut alors gagner deux points d'affilée pour remporter le jeu.",
+      "wikipedia": "Tennis"
+    },
+    {
+      "id": "sport-190",
+      "difficulty": 2,
+      "question": "Dans quel quartier de New York, situé dans le Queens, se dispute l'US Open de tennis ?",
+      "answer": "Flushing Meadows",
+      "accept": [],
+      "choices": [
+        "Forest Hills",
+        "Brooklyn Heights",
+        "Central Park"
+      ],
+      "explanation": "Le tournoi s'est longtemps joué sur le gazon de Forest Hills avant de déménager en 1978.",
+      "wikipedia": "US Open de tennis"
+    },
+    {
+      "id": "sport-191",
+      "difficulty": 2,
+      "question": "Quels fruits, servis avec de la crème, sont la gourmandise traditionnelle des spectateurs de Wimbledon ?",
+      "answer": "fraises",
+      "accept": [
+        "fraise"
+      ],
+      "choices": [
+        "framboises",
+        "cerises",
+        "myrtilles"
+      ],
+      "explanation": "Des dizaines de tonnes de fraises sont dégustées chaque année pendant les quinze jours du tournoi.",
+      "wikipedia": "Tournoi de Wimbledon"
+    },
+    {
+      "id": "sport-192",
+      "difficulty": 2,
+      "question": "Quel nom porte le court central du stade de Roland-Garros ?",
+      "answer": "Philippe-Chatrier",
+      "accept": [
+        "Philippe Chatrier",
+        "court Philippe-Chatrier"
+      ],
+      "choices": [
+        "Suzanne-Lenglen",
+        "Simonne-Mathieu",
+        "Jean-Borotra"
+      ],
+      "explanation": "Il honore l'ancien président de la Fédération française de tennis qui milita pour le retour du tennis aux Jeux olympiques.",
+      "wikipedia": "Court Philippe-Chatrier"
+    },
+    {
+      "id": "sport-193",
+      "difficulty": 2,
+      "question": "Sous quel surnom collectif désignait-on Lacoste, Borotra, Cochet et Brugnon, vainqueurs de la Coupe Davis ?",
+      "answer": "Mousquetaires",
+      "accept": [
+        "Quatre Mousquetaires"
+      ],
+      "choices": [
+        "Chevaliers",
+        "Fantastiques",
+        "Invincibles"
+      ],
+      "explanation": "Ils remportèrent six Coupes Davis d'affilée à partir de 1927 ; le stade Roland-Garros fut construit pour accueillir leur défense du trophée.",
+      "wikipedia": "Henri Cochet"
+    },
+    {
+      "id": "sport-194",
+      "difficulty": 2,
+      "question": "Quel joueur suédois imperturbable a remporté cinq fois de suite Wimbledon, de 1976 à 1980 ?",
+      "answer": "Björn Borg",
+      "accept": [
+        "Bjorn Borg",
+        "Borg"
+      ],
+      "choices": [
+        "Stefan Edberg",
+        "Mats Wilander",
+        "Ivan Lendl"
+      ],
+      "explanation": "Sa finale de 1980 contre John McEnroe, avec un tie-break de 34 points, est restée légendaire.",
+      "wikipedia": "Björn Borg"
+    },
+    {
+      "id": "sport-195",
+      "difficulty": 2,
+      "question": "Quel joueur australien a donné son nom au court central de l'Open d'Australie ?",
+      "answer": "Rod Laver",
+      "accept": [
+        "Laver"
+      ],
+      "choices": [
+        "Ken Rosewall",
+        "Roy Emerson",
+        "John Newcombe"
+      ],
+      "explanation": "Il réussit deux fois le Grand Chelem calendaire, en 1962 puis en 1969.",
+      "wikipedia": "Rod Laver"
+    },
+    {
+      "id": "sport-196",
+      "difficulty": 2,
+      "question": "Quelle joueuse allemande réussit en 1988 le « Grand Chelem doré », ajoutant le titre olympique aux quatre majeurs ?",
+      "answer": "Steffi Graf",
+      "accept": [
+        "Graf"
+      ],
+      "choices": [
+        "Monica Seles",
+        "Martina Navrátilová",
+        "Chris Evert"
+      ],
+      "explanation": "Cette année-là, elle gagna l'Open d'Australie, Roland-Garros, Wimbledon, l'US Open et la médaille d'or à Séoul.",
+      "wikipedia": "Steffi Graf"
+    },
+    {
+      "id": "sport-197",
+      "difficulty": 2,
+      "question": "Quel joueur afro-américain, premier Noir vainqueur de Wimbledon, a donné son nom au court central de l'US Open ?",
+      "answer": "Arthur Ashe",
+      "accept": [
+        "Ashe"
+      ],
+      "choices": [
+        "Althea Gibson",
+        "James Blake",
+        "MaliVai Washington"
+      ],
+      "explanation": "Militant contre l'apartheid, il révéla avoir contracté le sida lors d'une transfusion et consacra ses dernières années à la lutte contre la maladie.",
+      "wikipedia": "Arthur Ashe"
+    },
+    {
+      "id": "sport-198",
+      "difficulty": 2,
+      "question": "De quel mot français, lancé par les joueurs de paume au moment de servir, viendrait le nom du tennis ?",
+      "answer": "tenez",
+      "accept": [],
+      "choices": [
+        "tiens",
+        "prenez",
+        "attention"
+      ],
+      "explanation": "Les Anglais auraient emprunté ce mot au jeu de paume, dont le tennis moderne s'inspire.",
+      "wikipedia": "Tennis"
+    },
+    {
+      "id": "sport-199",
+      "difficulty": 2,
+      "question": "Quel sport a donné son nom à la « diplomatie » qui rapprocha la Chine et les États-Unis au début des années 1970 ?",
+      "answer": "ping-pong",
+      "accept": [
+        "tennis de table"
+      ],
+      "choices": [
+        "badminton",
+        "basket-ball",
+        "volley-ball"
+      ],
+      "explanation": "En 1971, des pongistes américains furent invités en Chine, ouvrant la voie à la visite du président Nixon à Pékin l'année suivante.",
+      "wikipedia": "Diplomatie du ping-pong"
+    },
+    {
+      "id": "sport-200",
+      "difficulty": 2,
+      "question": "Quelle montée de l'Oisans, empruntée par le Tour de France, est célèbre pour ses 21 virages numérotés ?",
+      "answer": "Alpe d'Huez",
+      "accept": [
+        "l'Alpe d'Huez"
+      ],
+      "choices": [
+        "col du Galibier",
+        "col de la Madeleine",
+        "col d'Izoard"
+      ],
+      "explanation": "Chaque virage porte une plaque au nom d'anciens vainqueurs d'étape, et la foule y est particulièrement dense.",
+      "wikipedia": "Alpe d'Huez"
+    },
+    {
+      "id": "sport-201",
+      "difficulty": 2,
+      "question": "Quel champion cycliste italien était surnommé « il Campionissimo » ?",
+      "answer": "Fausto Coppi",
+      "accept": [
+        "Coppi"
+      ],
+      "choices": [
+        "Gino Bartali",
+        "Felice Gimondi",
+        "Marco Pantani"
+      ],
+      "explanation": "Il fut le premier à réussir le doublé Giro-Tour la même année, en 1949 ; sa rivalité avec Bartali divisa l'Italie.",
+      "wikipedia": "Fausto Coppi"
+    },
+    {
+      "id": "sport-202",
+      "difficulty": 2,
+      "question": "Quel champion cycliste italien a été reconnu Juste parmi les nations pour avoir aidé des Juifs pendant la guerre ?",
+      "answer": "Gino Bartali",
+      "accept": [
+        "Bartali"
+      ],
+      "choices": [
+        "Fausto Coppi",
+        "Alfredo Binda",
+        "Fiorenzo Magni"
+      ],
+      "explanation": "Il cachait de faux papiers dans le cadre de son vélo lors de ses entraînements entre Florence et Assise.",
+      "wikipedia": "Gino Bartali"
+    },
+    {
+      "id": "sport-203",
+      "difficulty": 2,
+      "question": "Quelle classique cycliste italienne de printemps est surnommée « la Primavera » ?",
+      "answer": "Milan-San Remo",
+      "accept": [
+        "Milan-Sanremo"
+      ],
+      "choices": [
+        "Tour de Lombardie",
+        "Strade Bianche",
+        "Tirreno-Adriatico"
+      ],
+      "explanation": "C'est la plus longue des grandes classiques, avec près de 300 km ; elle se termine sur la Riviera ligure.",
+      "wikipedia": "Milan-San Remo"
+    },
+    {
+      "id": "sport-204",
+      "difficulty": 2,
+      "question": "Quelle classique belge, créée en 1892, est surnommée « la Doyenne » ?",
+      "answer": "Liège-Bastogne-Liège",
+      "accept": [],
+      "choices": [
+        "Tour des Flandres",
+        "Flèche wallonne",
+        "Gand-Wevelgem"
+      ],
+      "explanation": "Elle est la plus ancienne des cinq « monuments » du cyclisme, avec Milan-San Remo, le Tour des Flandres, Paris-Roubaix et le Tour de Lombardie.",
+      "wikipedia": "Liège-Bastogne-Liège"
+    },
+    {
+      "id": "sport-205",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le triangle suspendu au-dessus de la route qui signale le dernier kilomètre d'une course cycliste ?",
+      "answer": "flamme rouge",
+      "accept": [],
+      "choices": [
+        "drapeau rouge",
+        "flèche rouge",
+        "banderole rouge"
+      ],
+      "explanation": "Son passage marque le début des grandes manœuvres du sprint ; une chute après ce point n'entraîne pas de perte de temps au classement.",
+      "wikipedia": "Flamme rouge"
+    },
+    {
+      "id": "sport-206",
+      "difficulty": 2,
+      "question": "Quel coureur espagnol navarrais a remporté cinq fois consécutivement le Tour de France, de 1991 à 1995 ?",
+      "answer": "Miguel Indurain",
+      "accept": [
+        "Indurain"
+      ],
+      "choices": [
+        "Pedro Delgado",
+        "Federico Bahamontes",
+        "Luis Ocaña"
+      ],
+      "explanation": "Doté d'un cœur au rythme de repos exceptionnellement lent, il bâtissait ses victoires dans les contre-la-montre.",
+      "wikipedia": "Miguel Indurain"
+    },
+    {
+      "id": "sport-207",
+      "difficulty": 2,
+      "question": "Quel coureur américain a battu Laurent Fignon pour huit secondes lors du Tour de France 1989 ?",
+      "answer": "Greg LeMond",
+      "accept": [
+        "LeMond"
+      ],
+      "choices": [
+        "Lance Armstrong",
+        "Andrew Hampsten",
+        "Bob Roll"
+      ],
+      "explanation": "Il renversa la situation lors du contre-la-montre final vers les Champs-Élysées, aidé d'un guidon de triathlète.",
+      "wikipedia": "Greg LeMond"
+    },
+    {
+      "id": "sport-208",
+      "difficulty": 2,
+      "question": "Quel perchiste ukrainien fut le premier homme à franchir la barre de six mètres ?",
+      "answer": "Sergueï Bubka",
+      "accept": [
+        "Bubka",
+        "Serhiy Bubka"
+      ],
+      "choices": [
+        "Renaud Lavillenie",
+        "Thierry Vigneron",
+        "Rodion Gataoulline"
+      ],
+      "explanation": "Il réussit ce saut historique à Paris en 1985 et améliora ensuite le record du monde centimètre par centimètre, à 35 reprises.",
+      "wikipedia": "Sergueï Bubka"
+    },
+    {
+      "id": "sport-209",
+      "difficulty": 2,
+      "question": "Quel Américain réussit un saut en longueur légendaire de 8,90 mètres aux Jeux de Mexico en 1968 ?",
+      "answer": "Bob Beamon",
+      "accept": [
+        "Beamon"
+      ],
+      "choices": [
+        "Carl Lewis",
+        "Ralph Boston",
+        "Mike Powell"
+      ],
+      "explanation": "L'altitude favorisa ce bond qui améliorait le record du monde de 55 cm ; il tint plus de vingt-deux ans.",
+      "wikipedia": "Bob Beamon"
+    },
+    {
+      "id": "sport-210",
+      "difficulty": 2,
+      "question": "Quel étudiant britannique fut le premier à courir le mile en moins de quatre minutes, en 1954 ?",
+      "answer": "Roger Bannister",
+      "accept": [
+        "Bannister"
+      ],
+      "choices": [
+        "Sebastian Coe",
+        "Chris Chataway",
+        "Steve Ovett"
+      ],
+      "explanation": "Étudiant en médecine, il réalisa l'exploit à Oxford, aidé de deux lièvres ; il devint ensuite neurologue.",
+      "wikipedia": "Roger Bannister"
+    },
+    {
+      "id": "sport-211",
+      "difficulty": 2,
+      "question": "Quel athlète américain remporta quatre titres aux Jeux de Los Angeles en 1984, égalant l'exploit de Jesse Owens ?",
+      "answer": "Carl Lewis",
+      "accept": [
+        "Lewis"
+      ],
+      "choices": [
+        "Michael Johnson",
+        "Edwin Moses",
+        "Maurice Greene"
+      ],
+      "explanation": "Sprinteur et sauteur en longueur, il remporta au total neuf médailles d'or olympiques entre 1984 et 1996, dont quatre titres consécutifs à la longueur.",
+      "wikipedia": "Carl Lewis"
+    },
+    {
+      "id": "sport-212",
+      "difficulty": 2,
+      "question": "Dans quelle ville olympique Tommie Smith et John Carlos levèrent-ils un poing ganté de noir sur le podium du 200 mètres ?",
+      "answer": "Mexico",
+      "accept": [],
+      "choices": [
+        "Munich",
+        "Rome",
+        "Tokyo"
+      ],
+      "explanation": "L'Australien Peter Norman, deuxième, portait par solidarité un badge pour les droits civiques ; il fut ostracisé dans son pays.",
+      "wikipedia": "Jeux olympiques d'été de 1968"
+    },
+    {
+      "id": "sport-213",
+      "difficulty": 2,
+      "question": "Quel nageur américain remporta sept médailles d'or aux Jeux de Munich en 1972 ?",
+      "answer": "Mark Spitz",
+      "accept": [
+        "Spitz"
+      ],
+      "choices": [
+        "Matt Biondi",
+        "Johnny Weissmuller",
+        "Don Schollander"
+      ],
+      "explanation": "Il battit le record du monde dans chacune de ces épreuves ; son exploit ne fut dépassé qu'en 2008.",
+      "wikipedia": "Mark Spitz"
+    },
+    {
+      "id": "sport-214",
+      "difficulty": 2,
+      "question": "Quel apnéiste français, dont la vie inspira le film Le Grand Bleu, fut le premier à descendre à 100 mètres ?",
+      "answer": "Jacques Mayol",
+      "accept": [
+        "Mayol"
+      ],
+      "choices": [
+        "Enzo Maiorca",
+        "Loïc Leferme",
+        "Umberto Pelizzari"
+      ],
+      "explanation": "Il réalisa cette plongée en 1976 au large de l'île d'Elbe ; Luc Besson s'inspira de sa rivalité avec l'Italien Enzo Maiorca.",
+      "wikipedia": "Jacques Mayol"
+    },
+    {
+      "id": "sport-215",
+      "difficulty": 2,
+      "question": "Quelle discipline olympique de ski associe une épreuve de saut et une course de fond ?",
+      "answer": "combiné nordique",
+      "accept": [],
+      "choices": [
+        "biathlon",
+        "duathlon",
+        "ski-alpinisme"
+      ],
+      "explanation": "Il figure au programme depuis les premiers Jeux d'hiver, à Chamonix en 1924, et a longtemps été réservé aux hommes.",
+      "wikipedia": "Combiné nordique"
+    },
+    {
+      "id": "sport-216",
+      "difficulty": 2,
+      "question": "Dans quelle discipline de glisse le pilote descend-il une piste de glace allongé à plat ventre, la tête en avant ?",
+      "answer": "skeleton",
+      "accept": [],
+      "choices": [
+        "luge",
+        "bobsleigh",
+        "tobogganing"
+      ],
+      "explanation": "En luge, au contraire, le pilote est couché sur le dos, les pieds en avant.",
+      "wikipedia": "Skeleton"
+    },
+    {
+      "id": "sport-217",
+      "difficulty": 2,
+      "question": "Quel trophée récompense le vainqueur des séries éliminatoires de la Ligue nationale de hockey nord-américaine ?",
+      "answer": "coupe Stanley",
+      "accept": [
+        "Stanley Cup"
+      ],
+      "choices": [
+        "coupe Calder",
+        "trophée Hart",
+        "coupe Grey"
+      ],
+      "explanation": "Offerte en 1892 par un gouverneur général du Canada, elle est passée de main en main et chaque joueur vainqueur y fait graver son nom.",
+      "wikipedia": "Coupe Stanley"
+    },
+    {
+      "id": "sport-218",
+      "difficulty": 2,
+      "question": "Quel hockeyeur canadien est surnommé « la Merveille » ou « The Great One » ?",
+      "answer": "Wayne Gretzky",
+      "accept": [
+        "Gretzky"
+      ],
+      "choices": [
+        "Mario Lemieux",
+        "Bobby Orr",
+        "Maurice Richard"
+      ],
+      "explanation": "Son numéro 99 a été retiré par toutes les équipes de la Ligue nationale de hockey.",
+      "wikipedia": "Wayne Gretzky"
+    },
+    {
+      "id": "sport-219",
+      "difficulty": 2,
+      "question": "Quelle patineuse française exécuta aux Jeux de Nagano un salto arrière retombant sur une seule lame ?",
+      "answer": "Surya Bonaly",
+      "accept": [
+        "Bonaly"
+      ],
+      "choices": [
+        "Sarah Abitbol",
+        "Isabelle Delobel",
+        "Laëtitia Hubert"
+      ],
+      "explanation": "Cette figure, interdite en compétition, lui valut des pénalités mais une ovation du public.",
+      "wikipedia": "Surya Bonaly"
+    },
+    {
+      "id": "sport-220",
+      "difficulty": 2,
+      "question": "Quel sauteur à ski britannique, piètre mais très populaire aux Jeux de Calgary, était surnommé « l'Aigle » ?",
+      "answer": "Eddie Edwards",
+      "accept": [
+        "Eddie the Eagle",
+        "Michael Edwards"
+      ],
+      "choices": [
+        "Ross Hudson",
+        "Nigel Lewis",
+        "Steve Bradley"
+      ],
+      "explanation": "Myope et sans expérience, il termina dernier ; le CIO adopta ensuite une règle imposant un niveau minimum aux participants.",
+      "wikipedia": "Michael Edwards (saut à ski)"
+    },
+    {
+      "id": "sport-221",
+      "difficulty": 2,
+      "question": "Dans quelle ville se déroula le combat Ali-Foreman surnommé « Rumble in the Jungle » ?",
+      "answer": "Kinshasa",
+      "accept": [],
+      "choices": [
+        "Lagos",
+        "Abidjan",
+        "Dakar"
+      ],
+      "explanation": "Ali fatigua Foreman en s'appuyant dans les cordes, tactique baptisée « rope-a-dope », avant de le mettre KO au huitième round.",
+      "wikipedia": "The Rumble in the Jungle"
+    },
+    {
+      "id": "sport-222",
+      "difficulty": 2,
+      "question": "Quel autre nom porte la boxe française, qui autorise les coups de pied ?",
+      "answer": "savate",
+      "accept": [],
+      "choices": [
+        "chausson",
+        "canne",
+        "pancrace"
+      ],
+      "explanation": "Le nom vient d'un vieux soulier : les boxeurs portent d'ailleurs des chaussures spécifiques.",
+      "wikipedia": "Savate (sport de combat)"
+    },
+    {
+      "id": "sport-223",
+      "difficulty": 2,
+      "question": "De quel archipel japonais, ancien royaume des Ryūkyū, le karaté est-il originaire ?",
+      "answer": "Okinawa",
+      "accept": [],
+      "choices": [
+        "Hokkaidō",
+        "Kyūshū",
+        "Shikoku"
+      ],
+      "explanation": "Le mot karaté signifie « main vide » ; sous influence chinoise, il désignait d'abord la « main de Chine ».",
+      "wikipedia": "Karaté"
+    },
+    {
+      "id": "sport-224",
+      "difficulty": 2,
+      "question": "Quelle substance les lutteurs de sumo jettent-ils sur l'arène pour la purifier avant le combat ?",
+      "answer": "sel",
+      "accept": [],
+      "choices": [
+        "riz",
+        "sable",
+        "saké"
+      ],
+      "explanation": "Cette poignée de sel lancée rappelle les racines shintoïstes du sumo, à l'origine rituel destiné aux dieux.",
+      "wikipedia": "Sumo"
+    },
+    {
+      "id": "sport-225",
+      "difficulty": 2,
+      "question": "Quelle arme d'escrime autorise les touches sur la totalité du corps, y compris le masque et les pieds ?",
+      "answer": "épée",
+      "accept": [],
+      "choices": [
+        "fleuret",
+        "sabre",
+        "canne"
+      ],
+      "explanation": "Elle dérive des duels, où toucher n'importe quelle partie du corps adverse suffisait ; il n'y a pas de règle de priorité.",
+      "wikipedia": "Épée (escrime)"
+    },
+    {
+      "id": "sport-226",
+      "difficulty": 2,
+      "question": "Quel vêtement est remis au vainqueur du Masters, à Augusta ?",
+      "answer": "veste verte",
+      "accept": [
+        "green jacket"
+      ],
+      "choices": [
+        "casquette verte",
+        "veste rouge",
+        "cravate verte"
+      ],
+      "explanation": "Les membres du club la portaient pour être reconnus des visiteurs ; le vainqueur ne peut l'emporter hors du club qu'une année.",
+      "wikipedia": "Masters de golf"
+    },
+    {
+      "id": "sport-227",
+      "difficulty": 2,
+      "question": "Quel astronaute américain a frappé des balles de golf sur la Lune en 1971 ?",
+      "answer": "Alan Shepard",
+      "accept": [
+        "Shepard"
+      ],
+      "choices": [
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "John Glenn"
+      ],
+      "explanation": "Commandant d'Apollo 14, il avait fixé une tête de club sur un outil de prélèvement d'échantillons.",
+      "wikipedia": "Alan Shepard"
+    },
+    {
+      "id": "sport-228",
+      "difficulty": 2,
+      "question": "Au volley-ball, comment appelle-t-on le joueur défensif au maillot différent qui ne peut pas attaquer au-dessus du filet ?",
+      "answer": "libéro",
+      "accept": [
+        "libero"
+      ],
+      "choices": [
+        "passeur",
+        "pointu",
+        "réceptionneur"
+      ],
+      "explanation": "Introduit en 1998, ce poste a été créé pour allonger les échanges et favoriser la défense.",
+      "wikipedia": "Libero (volley-ball)"
+    },
+    {
+      "id": "sport-229",
+      "difficulty": 2,
+      "question": "Quel surnom portait l'équipe de France de handball, championne du monde pour la première fois en 1995 ?",
+      "answer": "Barjots",
+      "accept": [
+        "les Barjots"
+      ],
+      "choices": [
+        "Bronzés",
+        "Experts",
+        "Costauds"
+      ],
+      "explanation": "Ce surnom saluait l'esprit fantasque du groupe mené par Jackson Richardson ; les générations suivantes furent baptisées Costauds puis Experts.",
+      "wikipedia": "Équipe de France masculine de handball"
+    },
+    {
+      "id": "sport-230",
+      "difficulty": 2,
+      "question": "Quel joueur de baseball des New York Yankees était surnommé « le Bambino » ?",
+      "answer": "Babe Ruth",
+      "accept": [
+        "Ruth"
+      ],
+      "choices": [
+        "Joe DiMaggio",
+        "Lou Gehrig",
+        "Mickey Mantle"
+      ],
+      "explanation": "Son transfert des Red Sox aux Yankees en 1920 aurait provoqué une « malédiction » privant Boston de titre pendant 86 ans.",
+      "wikipedia": "Babe Ruth"
+    },
+    {
+      "id": "sport-231",
+      "difficulty": 2,
+      "question": "Comment s'appelle la série de tests de cricket entre l'Angleterre et l'Australie, symbolisée par une petite urne ?",
+      "answer": "Ashes",
+      "accept": [
+        "the Ashes"
+      ],
+      "choices": [
+        "Bodyline",
+        "Wisden Trophy",
+        "Ranji Trophy"
+      ],
+      "explanation": "Après une défaite anglaise en 1882, un journal publia la nécrologie ironique du cricket anglais, dont les « cendres » partaient en Australie.",
+      "wikipedia": "The Ashes"
+    },
+    {
+      "id": "sport-232",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le long gant d'osier recourbé utilisé à la pelote basque ?",
+      "answer": "chistera",
+      "accept": [
+        "xistera"
+      ],
+      "choices": [
+        "makila",
+        "pala",
+        "raquette"
+      ],
+      "explanation": "La spécialité de cesta punta, qui l'utilise, est l'un des jeux de balle les plus rapides du monde.",
+      "wikipedia": "Pelote basque"
+    },
+    {
+      "id": "sport-233",
+      "difficulty": 2,
+      "question": "Dans quelle ville de l'Hérault les joutes nautiques sont-elles la grande tradition de la fête de la Saint-Louis ?",
+      "answer": "Sète",
+      "accept": [],
+      "choices": [
+        "Agde",
+        "Palavas-les-Flots",
+        "Frontignan"
+      ],
+      "explanation": "Montés sur des barques poussées à la rame, deux jouteurs tentent de faire tomber l'adversaire à l'eau à l'aide d'une lance.",
+      "wikipedia": "Joute nautique"
+    },
+    {
+      "id": "sport-234",
+      "difficulty": 2,
+      "question": "Sur quel circuit italien le pilote brésilien Ayrton Senna trouva-t-il la mort en 1994 ?",
+      "answer": "Imola",
+      "accept": [],
+      "choices": [
+        "Monza",
+        "Mugello",
+        "Misano"
+      ],
+      "explanation": "Il s'écrasa dans la courbe de Tamburello ; la veille, l'Autrichien Roland Ratzenberger s'était tué sur le même circuit.",
+      "wikipedia": "Ayrton Senna"
+    },
+    {
+      "id": "sport-235",
+      "difficulty": 2,
+      "question": "Quel pilote argentin fut cinq fois champion du monde de Formule 1 dans les années 1950 ?",
+      "answer": "Juan Manuel Fangio",
+      "accept": [
+        "Fangio"
+      ],
+      "choices": [
+        "José Froilán González",
+        "Carlos Reutemann",
+        "Alberto Ascari"
+      ],
+      "explanation": "Il remporta ses titres avec quatre constructeurs différents : Alfa Romeo, Mercedes, Ferrari et Maserati.",
+      "wikipedia": "Juan Manuel Fangio"
+    },
+    {
+      "id": "sport-236",
+      "difficulty": 2,
+      "question": "Quel motard français créa le rallye Paris-Dakar après s'être perdu dans le désert libyen ?",
+      "answer": "Thierry Sabine",
+      "accept": [
+        "Sabine"
+      ],
+      "choices": [
+        "Hubert Auriol",
+        "Cyril Neveu",
+        "Jean-Claude Olivier"
+      ],
+      "explanation": "Il mourut en 1986 dans un accident d'hélicoptère au Mali, pendant la course.",
+      "wikipedia": "Thierry Sabine"
+    },
+    {
+      "id": "sport-237",
+      "difficulty": 2,
+      "question": "Quelle boisson le vainqueur des 500 miles d'Indianapolis boit-il traditionnellement sur le podium ?",
+      "answer": "lait",
+      "accept": [],
+      "choices": [
+        "champagne",
+        "bière",
+        "jus d'orange"
+      ],
+      "explanation": "La tradition vient du pilote Louis Meyer, qui réclama un verre de babeurre après sa victoire en 1936.",
+      "wikipedia": "500 miles d'Indianapolis"
+    },
+    {
+      "id": "sport-238",
+      "difficulty": 2,
+      "question": "Sur quel circuit allemand Niki Lauda fut-il gravement brûlé lors d'un accident en 1976 ?",
+      "answer": "Nürburgring",
+      "accept": [
+        "Nurburgring"
+      ],
+      "choices": [
+        "Hockenheim",
+        "Avus",
+        "Sachsenring"
+      ],
+      "explanation": "Il reprit le volant six semaines plus tard et perdit le titre d'un point face à James Hunt.",
+      "wikipedia": "Niki Lauda"
+    },
+    {
+      "id": "sport-239",
+      "difficulty": 2,
+      "question": "Sur quel hippodrome parisien du bois de Boulogne se dispute le Prix de l'Arc de Triomphe ?",
+      "answer": "Longchamp",
+      "accept": [
+        "ParisLongchamp"
+      ],
+      "choices": [
+        "Auteuil",
+        "Chantilly",
+        "Saint-Cloud"
+      ],
+      "explanation": "Créée en 1920, cette course de galop sur 2 400 mètres se court le premier dimanche d'octobre.",
+      "wikipedia": "Prix de l'Arc de Triomphe"
+    },
+    {
+      "id": "sport-240",
+      "difficulty": 2,
+      "question": "Quel petit cheval monté par Pierre Durand devint champion olympique de saut d'obstacles aux Jeux de Séoul ?",
+      "answer": "Jappeloup",
+      "accept": [],
+      "choices": [
+        "Baloubet du Rouet",
+        "Galoubet",
+        "Milton"
+      ],
+      "explanation": "Mesurant à peine 1,58 mètre au garrot, il était jugé trop petit pour le haut niveau ; un film lui a été consacré.",
+      "wikipedia": "Jappeloup"
+    },
+    {
+      "id": "sport-241",
+      "difficulty": 2,
+      "question": "Quelle race de chevaux, aux robes généralement blanches, se produit à l'École espagnole d'équitation de Vienne ?",
+      "answer": "lipizzan",
+      "accept": [
+        "lipizzaner"
+      ],
+      "choices": [
+        "andalou",
+        "lusitanien",
+        "frison"
+      ],
+      "explanation": "Les poulains naissent bais ou noirs et ne blanchissent que progressivement, vers six à dix ans.",
+      "wikipedia": "Lipizzan"
+    },
+    {
+      "id": "sport-242",
+      "difficulty": 2,
+      "question": "Quelle prestigieuse régate tire son nom de la goélette qui l'a remportée en 1851 autour de l'île de Wight ?",
+      "answer": "Coupe de l'America",
+      "accept": [
+        "America's Cup"
+      ],
+      "choices": [
+        "Admiral's Cup",
+        "Fastnet",
+        "Volvo Ocean Race"
+      ],
+      "explanation": "C'est le plus ancien trophée sportif international encore disputé ; il resta aux mains des Américains pendant 132 ans.",
+      "wikipedia": "Coupe de l'America"
+    },
+    {
+      "id": "sport-243",
+      "difficulty": 2,
+      "question": "Quel nom portaient les différents voiliers du navigateur Éric Tabarly ?",
+      "answer": "Pen Duick",
+      "accept": [],
+      "choices": [
+        "Kriter",
+        "Penmarc'h",
+        "Fleur de Lys"
+      ],
+      "explanation": "En breton, le nom désigne une mésange noire ; Tabarly périt en 1998 en tombant à la mer depuis le premier Pen Duick.",
+      "wikipedia": "Pen Duick"
+    },
+    {
+      "id": "sport-244",
+      "difficulty": 2,
+      "question": "Quelle navigatrice, surnommée « la petite fiancée de l'Atlantique », remporta la Route du Rhum en 1990 ?",
+      "answer": "Florence Arthaud",
+      "accept": [
+        "Arthaud"
+      ],
+      "choices": [
+        "Isabelle Autissier",
+        "Catherine Chabaud",
+        "Ellen MacArthur"
+      ],
+      "explanation": "Elle fut la première femme à remporter cette course en solitaire ; elle mourut en 2015 dans un accident d'hélicoptère en Argentine.",
+      "wikipedia": "Florence Arthaud"
+    },
+    {
+      "id": "sport-245",
+      "difficulty": 2,
+      "question": "Quelles universités s'affrontent chaque printemps sur la Tamise lors de la célèbre Boat Race d'aviron ?",
+      "answer": "Oxford et Cambridge",
+      "accept": [
+        "Oxford-Cambridge",
+        "Cambridge et Oxford"
+      ],
+      "choices": [
+        "Eton et Harrow",
+        "Yale et Harvard",
+        "Durham et York"
+      ],
+      "explanation": "Disputée pour la première fois en 1829, la course se court sur près de sept kilomètres entre Putney et Mortlake.",
+      "wikipedia": "The Boat Race"
+    },
+    {
+      "id": "sport-246",
+      "difficulty": 2,
+      "question": "Quelle embarcation se manœuvre avec une pagaie double, contrairement au canoë ?",
+      "answer": "kayak",
+      "accept": [],
+      "choices": [
+        "pirogue",
+        "périssoire",
+        "yole"
+      ],
+      "explanation": "Le kayak est issu des embarcations de chasse des peuples de l'Arctique, faites de peaux tendues sur une armature.",
+      "wikipedia": "Kayak"
+    },
+    {
+      "id": "sport-247",
+      "difficulty": 2,
+      "question": "Quelle devise latine du mouvement olympique signifie « plus vite, plus haut, plus fort » ?",
+      "answer": "Citius, Altius, Fortius",
+      "accept": [
+        "Citius Altius Fortius"
+      ],
+      "choices": [
+        "Mens sana in corpore sano",
+        "Veni, vidi, vici",
+        "Per aspera ad astra"
+      ],
+      "explanation": "Elle fut proposée par le dominicain Henri Didon ; le mot « Communiter », ensemble, y a été ajouté en 2021.",
+      "wikipedia": "Devise olympique"
+    },
+    {
+      "id": "sport-248",
+      "difficulty": 2,
+      "question": "De quel arbre était faite la couronne remise aux vainqueurs des Jeux olympiques antiques ?",
+      "answer": "olivier",
+      "accept": [],
+      "choices": [
+        "laurier",
+        "chêne",
+        "myrte"
+      ],
+      "explanation": "Les rameaux étaient coupés sur un olivier sacré du sanctuaire ; le laurier récompensait, lui, les vainqueurs des Jeux pythiques de Delphes.",
+      "wikipedia": "Jeux olympiques antiques"
+    },
+    {
+      "id": "sport-249",
+      "difficulty": 2,
+      "question": "De quel métal est majoritairement composée une médaille d'or olympique ?",
+      "answer": "argent",
+      "accept": [],
+      "choices": [
+        "bronze",
+        "cuivre",
+        "étain"
+      ],
+      "explanation": "Depuis 1912, les médailles d'or ne sont plus en or massif : elles sont en argent recouvert d'au moins six grammes d'or.",
+      "wikipedia": "Médaille olympique"
+    },
+    {
+      "id": "sport-250",
+      "difficulty": 2,
+      "question": "Quelle épreuve de traction où deux équipes tirent en sens opposé figura au programme olympique jusqu'en 1920 ?",
+      "answer": "tir à la corde",
+      "accept": [],
+      "choices": [
+        "lancer de pierre",
+        "grimper de corde",
+        "traction de char"
+      ],
+      "explanation": "La Grande-Bretagne en fut la nation la plus titrée, souvent représentée par des équipes de policiers.",
+      "wikipedia": "Tir à la corde"
+    },
+    {
+      "id": "sport-251",
+      "difficulty": 2,
+      "question": "Avec l'arraché, quel mouvement compose les épreuves de l'haltérophilie olympique ?",
+      "answer": "épaulé-jeté",
+      "accept": [
+        "épaulé jeté"
+      ],
+      "choices": [
+        "développé couché",
+        "soulevé de terre",
+        "squat"
+      ],
+      "explanation": "Le développé, troisième mouvement, a été supprimé en 1972 car il était trop difficile à juger.",
+      "wikipedia": "Haltérophilie"
+    },
+    {
+      "id": "sport-252",
+      "difficulty": 2,
+      "question": "Comment s'appelle le billard français qui se joue à trois billes sur une table sans poches ?",
+      "answer": "carambole",
+      "accept": [
+        "billard carambole"
+      ],
+      "choices": [
+        "snooker",
+        "billard américain",
+        "blackball"
+      ],
+      "explanation": "Le joueur marque un point quand sa bille touche successivement les deux autres.",
+      "wikipedia": "Billard français"
+    },
+    {
+      "id": "sport-253",
+      "difficulty": 2,
+      "question": "Quelle figure de base du skateboard consiste à sauter avec la planche sans la tenir avec les mains ?",
+      "answer": "ollie",
+      "accept": [],
+      "choices": [
+        "kickflip",
+        "grind",
+        "manual"
+      ],
+      "explanation": "Elle a été inventée par Alan « Ollie » Gelfand à la fin des années 1970, et a donné son nom à la figure.",
+      "wikipedia": "Ollie"
+    },
+    {
+      "id": "sport-254",
+      "difficulty": 2,
+      "question": "Que signifie le mot grec « gymnos », à l'origine du mot gymnastique ?",
+      "answer": "nu",
+      "accept": [],
+      "choices": [
+        "agile",
+        "fort",
+        "jeune"
+      ],
+      "explanation": "Les athlètes grecs s'entraînaient et concouraient nus ; le gymnase était le lieu public où l'on s'exerçait ainsi.",
+      "wikipedia": "Gymnastique"
+    },
+    {
+      "id": "sport-255",
+      "difficulty": 2,
+      "question": "De quelle langue le mot « ski » est-il issu ?",
+      "answer": "norvégien",
+      "accept": [],
+      "choices": [
+        "suédois",
+        "finnois",
+        "allemand"
+      ],
+      "explanation": "Il signifie à l'origine « bûche » ou « planche fendue » ; les Norvégiens ont aussi donné le slalom et le télémark.",
+      "wikipedia": "Ski"
+    },
+    {
+      "id": "sport-256",
+      "difficulty": 2,
+      "question": "Quelle épreuve d'athlétisme enchaîne un cloche-pied, une foulée bondissante et un dernier bond dans le sable ?",
+      "answer": "triple saut",
+      "accept": [],
+      "choices": [
+        "saut en longueur",
+        "saut en hauteur",
+        "pentabond"
+      ],
+      "explanation": "Aux premiers Jeux de 1896, l'Américain James Connolly remporta cette épreuve, devenant le premier champion olympique moderne.",
+      "wikipedia": "Triple saut"
+    },
+    {
+      "id": "sport-257",
+      "difficulty": 3,
+      "question": "Comment s'appelait le chien qui retrouva sous une haie le trophée de la Coupe du monde volé à Londres en 1966 ?",
+      "answer": "Pickles",
+      "accept": [],
+      "choices": [
+        "Lassie",
+        "Rex",
+        "Buster"
+      ],
+      "explanation": "Le trophée Jules Rimet, volé lors d'une exposition, fut retrouvé une semaine plus tard ; le colley Pickles devint une célébrité nationale.",
+      "wikipedia": "Coupe du monde de football"
+    },
+    {
+      "id": "sport-258",
+      "difficulty": 3,
+      "question": "Quel attaquant portugais né au Mozambique, star du Benfica, était surnommé « la Panthère noire » ?",
+      "answer": "Eusébio",
+      "accept": [],
+      "choices": [
+        "Mário Coluna",
+        "Luís Figo",
+        "Paulo Futre"
+      ],
+      "explanation": "Meilleur buteur de la Coupe du monde 1966, il mena le Portugal jusqu'à la troisième place, son meilleur résultat d'alors.",
+      "wikipedia": "Eusébio (football)"
+    },
+    {
+      "id": "sport-259",
+      "difficulty": 3,
+      "question": "Quel club anglais, fondé en 1857, est reconnu comme le plus ancien club de football du monde ?",
+      "answer": "Sheffield FC",
+      "accept": [
+        "Sheffield Football Club",
+        "Sheffield"
+      ],
+      "choices": [
+        "Notts County",
+        "Aston Villa",
+        "Arsenal"
+      ],
+      "explanation": "Ses fondateurs rédigèrent les « règles de Sheffield », qui introduisirent notamment le corner et le coup franc.",
+      "wikipedia": "Sheffield Football Club"
+    },
+    {
+      "id": "sport-260",
+      "difficulty": 3,
+      "question": "Quel arbitre anglais eut l'idée des cartons jaune et rouge en observant un feu de circulation ?",
+      "answer": "Ken Aston",
+      "accept": [
+        "Kenneth Aston"
+      ],
+      "choices": [
+        "Jack Taylor",
+        "Pierluigi Collina",
+        "Clive Thomas"
+      ],
+      "explanation": "L'idée lui vint après la Coupe du monde 1966, où un défaut de communication avec les joueurs avait créé la confusion ; les cartons apparurent au Mondial 1970.",
+      "wikipedia": "Ken Aston"
+    },
+    {
+      "id": "sport-261",
+      "difficulty": 3,
+      "question": "Dans quelle ville les Verts stéphanois perdirent-ils en 1976 la finale européenne restée célèbre pour ses « poteaux carrés » ?",
+      "answer": "Glasgow",
+      "accept": [],
+      "choices": [
+        "Bruxelles",
+        "Amsterdam",
+        "Munich"
+      ],
+      "explanation": "Les Stéphanois touchèrent deux fois les montants carrés de Hampden Park face au Bayern Munich ; ces poteaux sont aujourd'hui exposés au musée du club.",
+      "wikipedia": "Finale de la Coupe des clubs champions européens 1975-1976"
+    },
+    {
+      "id": "sport-262",
+      "difficulty": 3,
+      "question": "Quel international de rugby à XV introduisit le rugby à XIII en France dans les années 1930 ?",
+      "answer": "Jean Galia",
+      "accept": [
+        "Galia"
+      ],
+      "choices": [
+        "Jean Prat",
+        "Adolphe Jauréguy",
+        "Yves du Manoir"
+      ],
+      "explanation": "Radié pour professionnalisme, il organisa une tournée en Angleterre en 1933 avec des joueurs français, acte de naissance du XIII en France.",
+      "wikipedia": "Jean Galia"
+    },
+    {
+      "id": "sport-263",
+      "difficulty": 3,
+      "question": "Quel capitaine sud-africain reçut la Coupe du monde de rugby des mains de Nelson Mandela en 1995 ?",
+      "answer": "François Pienaar",
+      "accept": [
+        "Pienaar"
+      ],
+      "choices": [
+        "Joost van der Westhuizen",
+        "Naas Botha",
+        "John Smit"
+      ],
+      "explanation": "Mandela portait le maillot vert des Springboks, symbole de réconciliation raconté par le film Invictus.",
+      "wikipedia": "Francois Pienaar"
+    },
+    {
+      "id": "sport-264",
+      "difficulty": 3,
+      "question": "Le badminton doit son nom au domaine anglais de quel aristocrate ?",
+      "answer": "duc de Beaufort",
+      "accept": [
+        "Beaufort"
+      ],
+      "choices": [
+        "duc de Wellington",
+        "duc de Marlborough",
+        "duc de Bedford"
+      ],
+      "explanation": "Le jeu, rapporté d'Inde par des officiers britanniques, y aurait été pratiqué dans les années 1870.",
+      "wikipedia": "Badminton"
+    },
+    {
+      "id": "sport-265",
+      "difficulty": 3,
+      "question": "Dans quelle célèbre école anglaise le squash serait-il né, vers 1830 ?",
+      "answer": "Harrow",
+      "accept": [
+        "Harrow School"
+      ],
+      "choices": [
+        "Eton",
+        "Rugby",
+        "Winchester"
+      ],
+      "explanation": "Les élèves jouaient avec une balle molle, qui « s'écrasait » contre le mur : c'est le sens du verbe anglais to squash.",
+      "wikipedia": "Squash"
+    },
+    {
+      "id": "sport-266",
+      "difficulty": 3,
+      "question": "Quel coureur, surnommé « le petit ramoneur », remporta le tout premier Tour de France en 1903 ?",
+      "answer": "Maurice Garin",
+      "accept": [
+        "Garin"
+      ],
+      "choices": [
+        "Hippolyte Aucouturier",
+        "Lucien Petit-Breton",
+        "Henri Cornet"
+      ],
+      "explanation": "Il remporta aussi le second Tour mais en fut déclassé pour tricherie, avec les trois coureurs suivants.",
+      "wikipedia": "Maurice Garin"
+    },
+    {
+      "id": "sport-267",
+      "difficulty": 3,
+      "question": "Quel porteur d'eau grec remporta en 1896, à Athènes, le premier marathon olympique de l'histoire ?",
+      "answer": "Spyrídon Loúis",
+      "accept": [
+        "Spyridon Louis",
+        "Spiridon Louis",
+        "Louis"
+      ],
+      "choices": [
+        "Charilaos Vasilakos",
+        "Gyula Kellner",
+        "Stamatios Masouris"
+      ],
+      "explanation": "Sa victoire déclencha l'enthousiasme du public grec ; en Grèce, l'expression « courir comme Loúis » signifie aller très vite.",
+      "wikipedia": "Spyrídon Loúis"
+    },
+    {
+      "id": "sport-268",
+      "difficulty": 3,
+      "question": "Quel marathonien italien fut disqualifié à Londres en 1908 pour avoir été soutenu jusqu'à la ligne d'arrivée ?",
+      "answer": "Dorando Pietri",
+      "accept": [
+        "Pietri"
+      ],
+      "choices": [
+        "Ugo Frigerio",
+        "Gelindo Bordin",
+        "Emilio Lunghi"
+      ],
+      "explanation": "Épuisé, il tomba plusieurs fois dans le stade ; la reine Alexandra lui remit une coupe en argent pour le consoler.",
+      "wikipedia": "Dorando Pietri"
+    },
+    {
+      "id": "sport-269",
+      "difficulty": 3,
+      "question": "Quelle athlète néerlandaise, surnommée « la ménagère volante », remporta quatre titres aux Jeux de Londres en 1948 ?",
+      "answer": "Fanny Blankers-Koen",
+      "accept": [
+        "Blankers-Koen"
+      ],
+      "choices": [
+        "Wilma Rudolph",
+        "Babe Didrikson",
+        "Shirley Strickland"
+      ],
+      "explanation": "Mère de deux enfants âgée de trente ans, elle fit taire ceux qui jugeaient qu'elle aurait dû rester au foyer.",
+      "wikipedia": "Fanny Blankers-Koen"
+    },
+    {
+      "id": "sport-270",
+      "difficulty": 3,
+      "question": "Quelle sprinteuse américaine, atteinte de poliomyélite dans l'enfance, remporta trois titres olympiques à Rome en 1960 ?",
+      "answer": "Wilma Rudolph",
+      "accept": [
+        "Rudolph"
+      ],
+      "choices": [
+        "Florence Griffith-Joyner",
+        "Wyomia Tyus",
+        "Evelyn Ashford"
+      ],
+      "explanation": "Enfant, elle dut porter pendant plusieurs années un appareil orthopédique à la jambe ; elle fut surnommée « la Gazelle noire ».",
+      "wikipedia": "Wilma Rudolph"
+    },
+    {
+      "id": "sport-271",
+      "difficulty": 3,
+      "question": "Quel athlète amérindien, champion olympique de pentathlon et de décathlon en 1912, fut privé de ses médailles pour professionnalisme ?",
+      "answer": "Jim Thorpe",
+      "accept": [
+        "Thorpe"
+      ],
+      "choices": [
+        "Billy Mills",
+        "Louis Tewanima",
+        "Ray Ewry"
+      ],
+      "explanation": "Il avait été payé pour jouer au baseball ; le CIO lui rendit ses titres à titre posthume, en 1983.",
+      "wikipedia": "Jim Thorpe"
+    },
+    {
+      "id": "sport-272",
+      "difficulty": 3,
+      "question": "Quel nageur hawaïen, champion olympique en 1912, est considéré comme le père du surf moderne ?",
+      "answer": "Duke Kahanamoku",
+      "accept": [
+        "Kahanamoku"
+      ],
+      "choices": [
+        "Eddie Aikau",
+        "George Freeth",
+        "Kelly Slater"
+      ],
+      "explanation": "Il fit découvrir le surf en Australie et en Californie lors de démonstrations très remarquées.",
+      "wikipedia": "Duke Kahanamoku"
+    },
+    {
+      "id": "sport-273",
+      "difficulty": 3,
+      "question": "Comment s'appelle la piste de descente mythique de Kitzbühel, en Autriche ?",
+      "answer": "Streif",
+      "accept": [],
+      "choices": [
+        "Lauberhorn",
+        "Saslong",
+        "Kandahar"
+      ],
+      "explanation": "Sa partie la plus redoutée, la Mausefalle, propulse les skieurs dans un saut de plus de 60 mètres.",
+      "wikipedia": "Streif"
+    },
+    {
+      "id": "sport-274",
+      "difficulty": 3,
+      "question": "Quel sauteur à ski suédois imposa la technique en V, d'abord pénalisée par les juges ?",
+      "answer": "Jan Boklöv",
+      "accept": [
+        "Boklöv",
+        "Boklov"
+      ],
+      "choices": [
+        "Matti Nykänen",
+        "Jens Weissflog",
+        "Simon Ammann"
+      ],
+      "explanation": "Ses skis écartés offraient plus de portance ; malgré les pénalités de style, la technique s'imposa au début des années 1990.",
+      "wikipedia": "Jan Boklöv"
+    },
+    {
+      "id": "sport-275",
+      "difficulty": 3,
+      "question": "Dans quelle station américaine le « miracle sur glace » vit-il des étudiants battre l'URSS au hockey en 1980 ?",
+      "answer": "Lake Placid",
+      "accept": [],
+      "choices": [
+        "Squaw Valley",
+        "Salt Lake City",
+        "Sun Valley"
+      ],
+      "explanation": "Cette victoire de jeunes amateurs contre l'ogre soviétique, en pleine guerre froide, est souvent élue plus grand moment du sport américain.",
+      "wikipedia": "Miracle sur glace"
+    },
+    {
+      "id": "sport-276",
+      "difficulty": 3,
+      "question": "Quel saut de patinage artistique porte le nom d'un patineur suédois du début du XXe siècle ?",
+      "answer": "salchow",
+      "accept": [],
+      "choices": [
+        "lutz",
+        "boucle",
+        "flip"
+      ],
+      "explanation": "Ulrich Salchow fut dix fois champion du monde et remporta le premier titre olympique de patinage masculin, en 1908.",
+      "wikipedia": "Salchow"
+    },
+    {
+      "id": "sport-277",
+      "difficulty": 3,
+      "question": "Quelle course de ski de fond suédoise commémore la fuite du futur roi Gustave Vasa en 1520 ?",
+      "answer": "Vasaloppet",
+      "accept": [],
+      "choices": [
+        "Birkebeiner",
+        "Marcialonga",
+        "Transjurassienne"
+      ],
+      "explanation": "Avec ses 90 kilomètres, elle est l'une des plus anciennes et des plus longues courses de ski de fond au monde.",
+      "wikipedia": "Vasaloppet"
+    },
+    {
+      "id": "sport-278",
+      "difficulty": 3,
+      "question": "Quel skieur autrichien réussit le premier le triplé olympique en ski alpin, à Cortina d'Ampezzo en 1956 ?",
+      "answer": "Toni Sailer",
+      "accept": [
+        "Sailer"
+      ],
+      "choices": [
+        "Franz Klammer",
+        "Karl Schranz",
+        "Hermann Maier"
+      ],
+      "explanation": "Il remporta la descente, le slalom et le slalom géant, exploit que seul Jean-Claude Killy égala douze ans plus tard.",
+      "wikipedia": "Toni Sailer"
+    },
+    {
+      "id": "sport-279",
+      "difficulty": 3,
+      "question": "Quelle patineuse norvégienne, triple championne olympique, fit ensuite carrière comme actrice à Hollywood ?",
+      "answer": "Sonja Henie",
+      "accept": [
+        "Henie"
+      ],
+      "choices": [
+        "Katarina Witt",
+        "Peggy Fleming",
+        "Dorothy Hamill"
+      ],
+      "explanation": "Elle participa aux Jeux de 1924 à l'âge de onze ans, puis remporta l'or en 1928, 1932 et 1936.",
+      "wikipedia": "Sonja Henie"
+    },
+    {
+      "id": "sport-280",
+      "difficulty": 3,
+      "question": "Quel marquis britannique a donné son nom aux règles fondatrices de la boxe anglaise moderne ?",
+      "answer": "Queensberry",
+      "accept": [
+        "marquis de Queensberry"
+      ],
+      "choices": [
+        "Lonsdale",
+        "Salisbury",
+        "Wellington"
+      ],
+      "explanation": "Publiées en 1867, ces règles imposent des gants et des rounds de trois minutes, et le compte de dix secondes au sol.",
+      "wikipedia": "Boxe anglaise"
+    },
+    {
+      "id": "sport-281",
+      "difficulty": 3,
+      "question": "Quel maître japonais a fondé l'aïkido au XXe siècle ?",
+      "answer": "Morihei Ueshiba",
+      "accept": [
+        "Ueshiba"
+      ],
+      "choices": [
+        "Gichin Funakoshi",
+        "Jigoro Kano",
+        "Masutatsu Oyama"
+      ],
+      "explanation": "Il est souvent appelé O-Sensei, « grand maître », par les pratiquants.",
+      "wikipedia": "Morihei Ueshiba"
+    },
+    {
+      "id": "sport-282",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on le grade suprême d'un lutteur de sumo ?",
+      "answer": "yokozuna",
+      "accept": [],
+      "choices": [
+        "ōzeki",
+        "sekiwake",
+        "komusubi"
+      ],
+      "explanation": "Il porte une corde blanche autour de la taille lors de sa cérémonie d'entrée dans l'arène ; ce grade n'est jamais retiré.",
+      "wikipedia": "Yokozuna"
+    },
+    {
+      "id": "sport-283",
+      "difficulty": 3,
+      "question": "De quel mot français dérive « caddie », le porteur de clubs d'un golfeur ?",
+      "answer": "cadet",
+      "accept": [],
+      "choices": [
+        "cadre",
+        "garçon",
+        "valet"
+      ],
+      "explanation": "Le mot aurait été importé en Écosse au XVIe siècle, où l'on désignait ainsi les jeunes coursiers.",
+      "wikipedia": "Caddie (golf)"
+    },
+    {
+      "id": "sport-284",
+      "difficulty": 3,
+      "question": "Quel golfeur américain, vainqueur de dix-huit tournois majeurs, était surnommé « The Golden Bear » ?",
+      "answer": "Jack Nicklaus",
+      "accept": [
+        "Nicklaus"
+      ],
+      "choices": [
+        "Arnold Palmer",
+        "Tom Watson",
+        "Ben Hogan"
+      ],
+      "explanation": "Il remporta six fois le Masters d'Augusta, dont le dernier en 1986 à 46 ans, après une fin de parcours restée légendaire.",
+      "wikipedia": "Jack Nicklaus"
+    },
+    {
+      "id": "sport-285",
+      "difficulty": 3,
+      "question": "Quel pivot américain marqua 100 points dans un seul match de la NBA, en 1962 ?",
+      "answer": "Wilt Chamberlain",
+      "accept": [
+        "Chamberlain"
+      ],
+      "choices": [
+        "Bill Russell",
+        "Kareem Abdul-Jabbar",
+        "George Mikan"
+      ],
+      "explanation": "Aucune image télévisée de ce match ne subsiste : seule une photo le montre brandissant une feuille portant « 100 ».",
+      "wikipedia": "Wilt Chamberlain"
+    },
+    {
+      "id": "sport-286",
+      "difficulty": 3,
+      "question": "Quel pivot américain, né Lew Alcindor, adopta un nouveau nom après sa conversion à l'islam ?",
+      "answer": "Kareem Abdul-Jabbar",
+      "accept": [
+        "Abdul-Jabbar"
+      ],
+      "choices": [
+        "Hakeem Olajuwon",
+        "Bill Walton",
+        "Patrick Ewing"
+      ],
+      "explanation": "Célèbre pour son tir en crochet, le « sky hook », il apparaît aussi en copilote dans le film Y a-t-il un pilote dans l'avion ?.",
+      "wikipedia": "Kareem Abdul-Jabbar"
+    },
+    {
+      "id": "sport-287",
+      "difficulty": 3,
+      "question": "Quel nom portait le volley-ball lors de son invention par l'Américain William G. Morgan en 1895 ?",
+      "answer": "mintonette",
+      "accept": [],
+      "choices": [
+        "netball",
+        "pushball",
+        "minton"
+      ],
+      "explanation": "Il voulait un jeu moins brutal que le basket-ball pour les hommes d'affaires de son club YMCA, dans le Massachusetts.",
+      "wikipedia": "Volley-ball"
+    },
+    {
+      "id": "sport-288",
+      "difficulty": 3,
+      "question": "Quel sport gaélique irlandais se joue avec une crosse en frêne et une petite balle appelée sliotar ?",
+      "answer": "hurling",
+      "accept": [],
+      "choices": [
+        "shinty",
+        "bandy",
+        "camogie"
+      ],
+      "explanation": "Considéré comme l'un des plus rapides sports collectifs de terrain, il est pratiqué par des amateurs en Irlande.",
+      "wikipedia": "Hurling"
+    },
+    {
+      "id": "sport-289",
+      "difficulty": 3,
+      "question": "Quel ancêtre de la pétanque se joue en prenant trois pas d'élan, sur des distances plus longues ?",
+      "answer": "jeu provençal",
+      "accept": [
+        "longue"
+      ],
+      "choices": [
+        "boule lyonnaise",
+        "mölkky",
+        "bocce"
+      ],
+      "explanation": "La pétanque serait née du jeu provençal quand un joueur rhumatisant ne pouvait plus courir : d'où les « pieds tanqués », joints et immobiles.",
+      "wikipedia": "Jeu provençal"
+    },
+    {
+      "id": "sport-290",
+      "difficulty": 3,
+      "question": "Dans la course camarguaise, comment appelle-t-on l'homme en blanc qui tente d'arracher les attributs fixés aux cornes du taureau ?",
+      "answer": "raseteur",
+      "accept": [],
+      "choices": [
+        "toréador",
+        "gardian",
+        "écarteur"
+      ],
+      "explanation": "Il utilise un crochet pour décrocher cocarde, glands et ficelles ; le taureau n'est jamais mis à mort.",
+      "wikipedia": "Course camarguaise"
+    },
+    {
+      "id": "sport-291",
+      "difficulty": 3,
+      "question": "Comment s'appelle la lutte traditionnelle bretonne, où l'on se saisit par la chemise ?",
+      "answer": "gouren",
+      "accept": [],
+      "choices": [
+        "gouraud",
+        "kenavo",
+        "ar-c'hoari"
+      ],
+      "explanation": "Les lutteurs prêtent serment avant le combat ; le vainqueur gagne traditionnellement un mouton vivant.",
+      "wikipedia": "Gouren"
+    },
+    {
+      "id": "sport-292",
+      "difficulty": 3,
+      "question": "Quelle épreuve des jeux écossais des Highlands consiste à faire basculer un long fût de bois en le lançant ?",
+      "answer": "caber",
+      "accept": [
+        "lancer de tronc",
+        "lancer du tronc"
+      ],
+      "choices": [
+        "hammer",
+        "stone put",
+        "sheaf toss"
+      ],
+      "explanation": "Le tronc doit retomber droit devant le lanceur, dans la position de midi sur un cadran d'horloge.",
+      "wikipedia": "Highland games"
+    },
+    {
+      "id": "sport-293",
+      "difficulty": 3,
+      "question": "Quel jeu équestre afghan consiste à s'emparer d'une carcasse de chèvre pour la déposer dans un cercle ?",
+      "answer": "bouzkachi",
+      "accept": [
+        "buzkashi"
+      ],
+      "choices": [
+        "kokpar",
+        "pato",
+        "horse-ball"
+      ],
+      "explanation": "Le nom signifie « attraper la chèvre » ; les parties peuvent rassembler des centaines de cavaliers.",
+      "wikipedia": "Bouzkachi"
+    },
+    {
+      "id": "sport-294",
+      "difficulty": 3,
+      "question": "Dans quelle ville italienne se dispute chaque juin le calcio storico, ancêtre brutal du football ?",
+      "answer": "Florence",
+      "accept": [],
+      "choices": [
+        "Sienne",
+        "Venise",
+        "Bologne"
+      ],
+      "explanation": "Quatre équipes, représentant les quartiers historiques, s'affrontent sur la piazza Santa Croce en costume Renaissance.",
+      "wikipedia": "Calcio florentin"
+    },
+    {
+      "id": "sport-295",
+      "difficulty": 3,
+      "question": "Quel trotteur, surnommé « le roi fainéant », a remporté quatre fois le Prix d'Amérique ?",
+      "answer": "Ourasi",
+      "accept": [],
+      "choices": [
+        "Bellino II",
+        "Roquépine",
+        "Idéal du Gazeau"
+      ],
+      "explanation": "Il ne se forçait guère à l'entraînement, ce qui lui valut son surnom.",
+      "wikipedia": "Ourasi"
+    },
+    {
+      "id": "sport-296",
+      "difficulty": 3,
+      "question": "Quel neurologue fonda à Stoke Mandeville les jeux sportifs à l'origine des Jeux paralympiques ?",
+      "answer": "Ludwig Guttmann",
+      "accept": [
+        "Guttmann"
+      ],
+      "choices": [
+        "Ludwig Wittgenstein",
+        "Oliver Sacks",
+        "Hans Asperger"
+      ],
+      "explanation": "Réfugié juif allemand, il organisa en 1948 des compétitions pour les blessés médullaires de la guerre, le jour de l'ouverture des Jeux de Londres.",
+      "wikipedia": "Ludwig Guttmann"
+    },
+    {
+      "id": "sport-297",
+      "difficulty": 3,
+      "question": "Dans quelle prestigieuse université parisienne se tint en 1894 le congrès qui rénova les Jeux olympiques ?",
+      "answer": "Sorbonne",
+      "accept": [],
+      "choices": [
+        "Collège de France",
+        "École normale supérieure",
+        "Panthéon-Assas"
+      ],
+      "explanation": "Le congrès créa le Comité international olympique et désigna Athènes pour les premiers Jeux.",
+      "wikipedia": "Pierre de Coubertin"
+    },
+    {
+      "id": "sport-298",
+      "difficulty": 3,
+      "question": "Dans quelle discipline Pierre de Coubertin remporta-t-il sous pseudonyme une médaille d'or olympique en 1912 ?",
+      "answer": "littérature",
+      "accept": [
+        "poésie"
+      ],
+      "choices": [
+        "peinture",
+        "sculpture",
+        "musique"
+      ],
+      "explanation": "Son « Ode au sport » fut signée Georges Hohrod et M. Eschbach ; les concours d'art figurèrent aux Jeux jusqu'en 1948.",
+      "wikipedia": "Compétitions artistiques aux Jeux olympiques"
+    },
+    {
+      "id": "sport-299",
+      "difficulty": 3,
+      "question": "Quel cristallier chamoniard réussit avec le docteur Paccard la première ascension du mont Blanc, en 1786 ?",
+      "answer": "Jacques Balmat",
+      "accept": [
+        "Balmat"
+      ],
+      "choices": [
+        "Horace-Bénédict de Saussure",
+        "Michel Croz",
+        "Joseph Vallot"
+      ],
+      "explanation": "Cette ascension, motivée par une prime de Saussure, marque traditionnellement la naissance de l'alpinisme.",
+      "wikipedia": "Jacques Balmat"
+    },
+    {
+      "id": "sport-300",
+      "difficulty": 3,
+      "question": "De quel mot d'ancien français, signifiant divertissement, dérive le mot anglais « sport » ?",
+      "answer": "desport",
+      "accept": [
+        "déport"
+      ],
+      "choices": [
+        "dépit",
+        "plaisance",
+        "esbat"
+      ],
+      "explanation": "Le mot est passé en anglais au Moyen Âge, avant de revenir en français au XIXe siècle avec un sens nouveau.",
+      "wikipedia": "Sport"
+    }
+  ]
+}
