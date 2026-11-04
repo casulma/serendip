@@ -1,0 +1,2157 @@
+{
+ "category": "langue",
+ "questions": [
+  {
+   "id": "langue-071",
+   "difficulty": 1,
+   "question": "Quel marquis libertin, auteur de Justine, a donné son nom au plaisir pris à faire souffrir autrui ?",
+   "answer": "Sade",
+   "accept": [
+    "marquis de Sade",
+    "Donatien Alphonse François de Sade"
+   ],
+   "choices": [
+    "Casanova",
+    "Choderlos de Laclos",
+    "Mirabeau"
+   ],
+   "explanation": "Le mot « sadisme » s'est répandu au XIXe siècle ; l'écrivain passa une grande partie de sa vie enfermé, notamment à la Bastille et à l'asile de Charenton.",
+   "wikipedia": "Sadisme"
+  },
+  {
+   "id": "langue-072",
+   "difficulty": 1,
+   "question": "Quel ambassadeur de France au Portugal a rapporté le tabac à la cour et donné son nom à son alcaloïde ?",
+   "answer": "Jean Nicot",
+   "accept": [
+    "Nicot"
+   ],
+   "choices": [
+    "Jacques Cartier",
+    "André Thevet",
+    "Jean Bart"
+   ],
+   "explanation": "Il envoya de la poudre de tabac à Catherine de Médicis pour soigner les migraines de son fils François II ; la plante fut surnommée « herbe à la Reine ».",
+   "wikipedia": "Jean Nicot"
+  },
+  {
+   "id": "langue-073",
+   "difficulty": 1,
+   "question": "Quel facteur d'instruments belge a donné son nom à l'instrument à anche en cuivre breveté en 1846 ?",
+   "answer": "Adolphe Sax",
+   "accept": [
+    "Sax"
+   ],
+   "choices": [
+    "Théobald Boehm",
+    "Ignace Pleyel",
+    "Sébastien Érard"
+   ],
+   "explanation": "Né à Dinant, il inventa aussi les saxhorns ; le saxophone, bien que fait de métal, appartient à la famille des bois en raison de son anche.",
+   "wikipedia": "Adolphe Sax"
+  },
+  {
+   "id": "langue-074",
+   "difficulty": 1,
+   "question": "Quel navigateur français a donné son nom à une plante grimpante à bractées colorées découverte au Brésil ?",
+   "answer": "Bougainville",
+   "accept": [
+    "Louis-Antoine de Bougainville"
+   ],
+   "choices": [
+    "La Pérouse",
+    "Dumont d'Urville",
+    "Jacques Cartier"
+   ],
+   "explanation": "La plante fut observée à Rio de Janeiro par le botaniste Philibert Commerson lors du tour du monde de l'expédition, entre 1766 et 1769.",
+   "wikipedia": "Bougainvillea"
+  },
+  {
+   "id": "langue-075",
+   "difficulty": 1,
+   "question": "Quel peuple germanique, qui pilla Rome en 455, a donné son nom à la destruction gratuite de biens ?",
+   "answer": "Vandales",
+   "accept": [
+    "Vandale"
+   ],
+   "choices": [
+    "Wisigoths",
+    "Huns",
+    "Ostrogoths"
+   ],
+   "explanation": "Le mot « vandalisme » fut forgé en 1794 par l'abbé Grégoire pour dénoncer les destructions de monuments pendant la Révolution.",
+   "wikipedia": "Vandalisme"
+  },
+  {
+   "id": "langue-076",
+   "difficulty": 1,
+   "question": "De quelle ville française la toile de coton servant à fabriquer les jeans tire-t-elle son nom ?",
+   "answer": "Nîmes",
+   "accept": [
+    "Nimes"
+   ],
+   "choices": [
+    "Lyon",
+    "Rouen",
+    "Lille"
+   ],
+   "explanation": "« Denim » est la contraction de « serge de Nîmes » ; le mot « jean » viendrait quant à lui de Gênes, dont les marins portaient une toile similaire.",
+   "wikipedia": "Denim"
+  },
+  {
+   "id": "langue-077",
+   "difficulty": 1,
+   "question": "Quelle ville du Pays basque a donné son nom à la lame qui se fixe au bout d'un fusil ?",
+   "answer": "Bayonne",
+   "accept": [],
+   "choices": [
+    "Biarritz",
+    "Pau",
+    "Tarbes"
+   ],
+   "explanation": "L'arme se répandit dans l'armée française au XVIIe siècle ; elle permit de supprimer les piquiers, puisque chaque fusilier pouvait désormais combattre au corps à corps.",
+   "wikipedia": "Baïonnette (arme)"
+  },
+  {
+   "id": "langue-078",
+   "difficulty": 1,
+   "question": "Quels cavaliers, dont le foulard noué intrigua les Français au XVIIe siècle, ont donné leur nom à la cravate ?",
+   "answer": "Croates",
+   "accept": [
+    "Croate"
+   ],
+   "choices": [
+    "Hongrois",
+    "Polonais",
+    "Serbes"
+   ],
+   "explanation": "Les mercenaires croates au service de Louis XIII portaient un tissu noué autour du cou ; le mot « cravate » est une déformation de « croate ».",
+   "wikipedia": "Cravate"
+  },
+  {
+   "id": "langue-079",
+   "difficulty": 1,
+   "question": "Quel atoll du Pacifique, lieu d'essais nucléaires américains, a donné son nom à un maillot de bain deux-pièces ?",
+   "answer": "Bikini",
+   "accept": [],
+   "choices": [
+    "Mururoa",
+    "Eniwetok",
+    "Tahiti"
+   ],
+   "explanation": "Le créateur Louis Réard choisit ce nom en 1946, quelques jours après le premier essai, pour suggérer un effet aussi « explosif » que la bombe.",
+   "wikipedia": "Bikini (vêtement)"
+  },
+  {
+   "id": "langue-080",
+   "difficulty": 1,
+   "question": "Quelle ville allemande a donné son nom au célèbre sandwich au steak haché ?",
+   "answer": "Hambourg",
+   "accept": [
+    "Hamburg"
+   ],
+   "choices": [
+    "Francfort",
+    "Berlin",
+    "Munich"
+   ],
+   "explanation": "Le mot a été abrégé en « burger » dans le monde entier ; au Québec, on recommande officiellement le terme « hambourgeois ».",
+   "wikipedia": "Hamburger"
+  },
+  {
+   "id": "langue-081",
+   "difficulty": 1,
+   "question": "Quel riche protecteur des arts, ami de l'empereur Auguste, a donné son nom aux bienfaiteurs des artistes ?",
+   "answer": "Mécène",
+   "accept": [
+    "Maecenas",
+    "Caius Cilnius Maecenas"
+   ],
+   "choices": [
+    "Agrippa",
+    "Cicéron",
+    "Sénèque"
+   ],
+   "explanation": "Il soutint notamment les poètes Virgile et Horace ; ses jardins sur l'Esquilin, à Rome, étaient réputés pour leur luxe.",
+   "wikipedia": "Mécène"
+  },
+  {
+   "id": "langue-082",
+   "difficulty": 1,
+   "question": "Quel personnage de Molière est devenu un nom commun désignant un faux dévot hypocrite ?",
+   "answer": "Tartuffe",
+   "accept": [
+    "Tartufe"
+   ],
+   "choices": [
+    "Harpagon",
+    "Alceste",
+    "Sganarelle"
+   ],
+   "explanation": "La pièce fut interdite après sa première représentation en 1664 sous la pression du parti dévot ; Molière dut la remanier deux fois avant de pouvoir la jouer.",
+   "wikipedia": "Le Tartuffe ou l'Imposteur"
+  },
+  {
+   "id": "langue-083",
+   "difficulty": 1,
+   "question": "Quel gamin des rues des Misérables de Victor Hugo a donné son nom aux enfants de Paris effrontés ?",
+   "answer": "Gavroche",
+   "accept": [],
+   "choices": [
+    "Cosette",
+    "Marius",
+    "Javert"
+   ],
+   "explanation": "Fils des Thénardier, il meurt sur une barricade en chantant ; son nom est devenu un nom commun puis un adjectif en français.",
+   "wikipedia": "Gavroche"
+  },
+  {
+   "id": "langue-084",
+   "difficulty": 1,
+   "question": "Quel aventurier vénitien du XVIIIe siècle, célèbre pour ses mémoires, est synonyme de grand séducteur ?",
+   "answer": "Casanova",
+   "accept": [
+    "Giacomo Casanova"
+   ],
+   "choices": [
+    "Cagliostro",
+    "Don Juan",
+    "Goldoni"
+   ],
+   "explanation": "Il s'évada en 1756 des Plombs, la prison du palais des Doges ; il finit sa vie bibliothécaire dans un château de Bohême, où il rédigea ses mémoires en français.",
+   "wikipedia": "Giacomo Casanova"
+  },
+  {
+   "id": "langue-085",
+   "difficulty": 1,
+   "question": "Quel courtisan de Denys de Syracuse dut festoyer sous une épée suspendue par un crin de cheval ?",
+   "answer": "Damoclès",
+   "accept": [
+    "Damocles"
+   ],
+   "choices": [
+    "Damon",
+    "Pythias",
+    "Aristide"
+   ],
+   "explanation": "Le tyran voulait lui montrer la précarité du bonheur des puissants ; l'anecdote nous est parvenue notamment par Cicéron.",
+   "wikipedia": "Damoclès (mythologie)"
+  },
+  {
+   "id": "langue-086",
+   "difficulty": 1,
+   "question": "Quelle fille de Minos donna à Thésée la pelote qui lui permit de sortir du labyrinthe ?",
+   "answer": "Ariane",
+   "accept": [],
+   "choices": [
+    "Phèdre",
+    "Médée",
+    "Pasiphaé"
+   ],
+   "explanation": "Thésée l'abandonna ensuite sur l'île de Naxos, où Dionysos la recueillit et l'épousa ; l'expression « fil d'Ariane » désigne un fil conducteur.",
+   "wikipedia": "Ariane (mythologie)"
+  },
+  {
+   "id": "langue-087",
+   "difficulty": 1,
+   "question": "Quel dieu grec des songes a laissé son nom à une expression désignant le sommeil, et à un antidouleur ?",
+   "answer": "Morphée",
+   "accept": [],
+   "choices": [
+    "Hypnos",
+    "Thanatos",
+    "Éros"
+   ],
+   "explanation": "Fils d'Hypnos, il prenait forme humaine dans les rêves ; la morphine, isolée de l'opium au début du XIXe siècle, lui doit son nom.",
+   "wikipedia": "Morphée"
+  },
+  {
+   "id": "langue-088",
+   "difficulty": 1,
+   "question": "Quel personnage de Rabelais fait sauter tout un troupeau à la mer en y jetant un seul animal ?",
+   "answer": "Panurge",
+   "accept": [],
+   "choices": [
+    "Gargantua",
+    "Frère Jean",
+    "Grandgousier"
+   ],
+   "explanation": "Pour se venger du marchand Dindenault, il achète un mouton et le jette par-dessus bord : tous les autres suivent, entraînant leur propriétaire.",
+   "wikipedia": "Panurge"
+  },
+  {
+   "id": "langue-089",
+   "difficulty": 1,
+   "question": "Quel jeune homme de la Bible, frère cadet de Joseph, a donné son nom au plus jeune d'un groupe ?",
+   "answer": "Benjamin",
+   "accept": [],
+   "choices": [
+    "Ruben",
+    "Juda",
+    "Isaac"
+   ],
+   "explanation": "Dernier des douze fils de Jacob et deuxième fils de Rachel, il fut l'ancêtre éponyme de l'une des douze tribus d'Israël.",
+   "wikipedia": "Benjamin (Bible)"
+  },
+  {
+   "id": "langue-090",
+   "difficulty": 1,
+   "question": "Quel préfet romain de Judée se lava les mains pour se décharger de la condamnation de Jésus ?",
+   "answer": "Ponce Pilate",
+   "accept": [
+    "Pilate"
+   ],
+   "choices": [
+    "Hérode",
+    "Caïphe",
+    "Barabbas"
+   ],
+   "explanation": "Une inscription découverte à Césarée en 1961 atteste son existence et son titre ; certaines Églises orientales le vénèrent comme saint.",
+   "wikipedia": "Ponce Pilate"
+  },
+  {
+   "id": "langue-091",
+   "difficulty": 1,
+   "question": "Quelle tour biblique, dont la construction aurait provoqué la confusion des langues, désigne un lieu où l'on ne se comprend pas ?",
+   "answer": "Babel",
+   "accept": [
+    "tour de Babel"
+   ],
+   "choices": [
+    "Jéricho",
+    "Sion",
+    "Ninive"
+   ],
+   "explanation": "Le récit figure dans la Genèse ; on le rapproche souvent des ziggourats de Mésopotamie, notamment l'Etemenanki de Babylone.",
+   "wikipedia": "Tour de Babel"
+  },
+  {
+   "id": "langue-092",
+   "difficulty": 1,
+   "question": "Quelle formule magique permet d'accéder à la caverne des voleurs dans le conte d'Ali Baba ?",
+   "answer": "Sésame, ouvre-toi",
+   "accept": [
+    "Sésame ouvre toi",
+    "Sésame"
+   ],
+   "choices": [
+    "Abracadabra",
+    "Alakazam",
+    "Bibbidi-bobbidi-boo"
+   ],
+   "explanation": "Le conte ne figure dans aucun manuscrit arabe ancien des Mille et Une Nuits : Antoine Galland l'ajouta au XVIIIe siècle d'après un conteur syrien.",
+   "wikipedia": "Ali Baba et les Quarante Voleurs"
+  },
+  {
+   "id": "langue-093",
+   "difficulty": 1,
+   "question": "Quel animal du 1er avril accroche-t-on dans le dos des distraits pour leur faire une farce ?",
+   "answer": "Poisson",
+   "accept": [
+    "poisson d'avril"
+   ],
+   "choices": [
+    "Hareng",
+    "Grenouille",
+    "Escargot"
+   ],
+   "explanation": "Une explication courante rattache la tradition à l'édit de Roussillon de 1564, qui fixa le début de l'année au 1er janvier au lieu d'avril.",
+   "wikipedia": "Poisson d'avril"
+  },
+  {
+   "id": "langue-094",
+   "difficulty": 1,
+   "question": "Quel reptile pleurerait en dévorant ses proies, selon une croyance qui a donné une expression sur l'hypocrisie ?",
+   "answer": "Crocodile",
+   "accept": [],
+   "choices": [
+    "Alligator",
+    "Caïman",
+    "Varan"
+   ],
+   "explanation": "Le crocodile sécrète réellement des larmes en mangeant, pour lubrifier ses yeux hors de l'eau, sans aucune émotion bien sûr.",
+   "wikipedia": "Larmes de crocodile"
+  },
+  {
+   "id": "langue-095",
+   "difficulty": 1,
+   "question": "Quel oiseau chanterait une ultime fois avant de mourir, selon une croyance antique devenue une expression ?",
+   "answer": "Cygne",
+   "accept": [],
+   "choices": [
+    "Rossignol",
+    "Phénix",
+    "Alouette"
+   ],
+   "explanation": "La légende remonte au moins à Platon et Aristote ; l'expression « chant du cygne » désigne la dernière œuvre remarquable d'un artiste.",
+   "wikipedia": "Chant du cygne"
+  },
+  {
+   "id": "langue-096",
+   "difficulty": 1,
+   "question": "Quelle fable de La Fontaine affirme que « la raison du plus fort est toujours la meilleure » ?",
+   "answer": "Le Loup et l'Agneau",
+   "accept": [],
+   "choices": [
+    "Le Lion et le Rat",
+    "Le Loup et le Chien",
+    "Le Chêne et le Roseau"
+   ],
+   "explanation": "Elle s'inspire d'Ésope et de Phèdre ; dixième fable du livre I, elle se termine sans procès : le loup emporte l'agneau au fond des bois.",
+   "wikipedia": "Le Loup et l'Agneau"
+  },
+  {
+   "id": "langue-097",
+   "difficulty": 1,
+   "question": "Quel animal, faute d'atteindre des raisins, déclare dans une fable de La Fontaine qu'ils sont trop verts ?",
+   "answer": "Renard",
+   "accept": [],
+   "choices": [
+    "Loup",
+    "Singe",
+    "Corbeau"
+   ],
+   "explanation": "La morale moque ceux qui dénigrent ce qu'ils ne peuvent obtenir ; comme bien des fables de La Fontaine, celle-ci s'inspire d'Ésope.",
+   "wikipedia": "Le Renard et les Raisins"
+  },
+  {
+   "id": "langue-098",
+   "difficulty": 1,
+   "question": "Quel animal remporte la course dans la fable de La Fontaine qui affirme « Rien ne sert de courir ; il faut partir à point » ?",
+   "answer": "Tortue",
+   "accept": [],
+   "choices": [
+    "Escargot",
+    "Limace",
+    "Hérisson"
+   ],
+   "explanation": "Le lièvre, sûr de sa vitesse, broute et dort avant de s'élancer trop tard ; la fable, publiée en 1668, s'inspire d'Ésope.",
+   "wikipedia": "Le Lièvre et la Tortue (La Fontaine)"
+  },
+  {
+   "id": "langue-099",
+   "difficulty": 1,
+   "question": "Quels lieux de Paris tiraient leur nom des faux infirmes qui y « guérissaient » chaque soir ?",
+   "answer": "Cours des miracles",
+   "accept": [
+    "Cour des miracles"
+   ],
+   "choices": [
+    "Halles",
+    "Faubourgs",
+    "Quinze-Vingts"
+   ],
+   "explanation": "Victor Hugo en fit le repaire des truands dans Notre-Dame de Paris ; la plus célèbre se trouvait près de l'actuelle rue Réaumur.",
+   "wikipedia": "Cour des Miracles"
+  },
+  {
+   "id": "langue-100",
+   "difficulty": 1,
+   "question": "Quel surnom donnait-on aux soldats français de la Première Guerre mondiale, en raison de leur barbe ?",
+   "answer": "Poilus",
+   "accept": [
+    "Poilu"
+   ],
+   "choices": [
+    "Grognards",
+    "Bidasses",
+    "Biffins"
+   ],
+   "explanation": "Avant 1914, le mot « poilu » désignait déjà dans l'argot militaire un homme courageux, viril ; il fut popularisé par la presse pendant le conflit.",
+   "wikipedia": "Poilu"
+  },
+  {
+   "id": "langue-101",
+   "difficulty": 1,
+   "question": "Quelle bonne bretonne de bande dessinée, créée en 1905, a donné son nom à une jeune fille naïve ?",
+   "answer": "Bécassine",
+   "accept": [],
+   "choices": [
+    "Mafalda",
+    "Cosette",
+    "Lisette"
+   ],
+   "explanation": "Créée par Jacqueline Rivière et Joseph Pinchon pour La Semaine de Suzette, elle n'avait pas de bouche dans ses premiers dessins.",
+   "wikipedia": "Bécassine (bande dessinée)"
+  },
+  {
+   "id": "langue-102",
+   "difficulty": 1,
+   "question": "Quel personnage de la commedia dell'arte a donné son nom au secret que tout le monde connaît ?",
+   "answer": "Polichinelle",
+   "accept": [
+    "Pulcinella"
+   ],
+   "choices": [
+    "Arlequin",
+    "Pierrot",
+    "Scaramouche"
+   ],
+   "explanation": "Originaire de Naples, ce bossu bavard confiait ses secrets à tout le monde ; il est aussi l'ancêtre de Punch, la marionnette anglaise.",
+   "wikipedia": "Polichinelle (commedia dell'arte)"
+  },
+  {
+   "id": "langue-103",
+   "difficulty": 1,
+   "question": "Quel dieu romain a donné son nom au jeudi, le jour qui lui était consacré ?",
+   "answer": "Jupiter",
+   "accept": [],
+   "choices": [
+    "Mars",
+    "Mercure",
+    "Saturne"
+   ],
+   "explanation": "Jeudi vient du latin Jovis dies ; de même, mardi est le jour de Mars, mercredi celui de Mercure et vendredi celui de Vénus.",
+   "wikipedia": "Jeudi"
+  },
+  {
+   "id": "langue-104",
+   "difficulty": 1,
+   "question": "Quel homme d'État romain a donné son nom au septième mois du calendrier, autrefois appelé quintilis ?",
+   "answer": "Jules César",
+   "accept": [
+    "César"
+   ],
+   "choices": [
+    "Auguste",
+    "Néron",
+    "Cicéron"
+   ],
+   "explanation": "Le mois fut renommé en 44 av. J.-C. en l'honneur de ce réformateur du calendrier ; août honora ensuite son petit-neveu Auguste.",
+   "wikipedia": "Juillet"
+  },
+  {
+   "id": "langue-105",
+   "difficulty": 1,
+   "question": "Quel animal le nom grec de l'hippopotame associe-t-il au fleuve ?",
+   "answer": "Cheval",
+   "accept": [],
+   "choices": [
+    "Taureau",
+    "Cochon",
+    "Bœuf"
+   ],
+   "explanation": "Hippopotame signifie « cheval du fleuve » ; il est pourtant plus proche parent des baleines que des chevaux.",
+   "wikipedia": "Hippopotamus amphibius"
+  },
+  {
+   "id": "langue-106",
+   "difficulty": 1,
+   "question": "Quelle roche le mot « pétrole », littéralement « huile de… », évoque-t-il ?",
+   "answer": "Pierre",
+   "accept": [],
+   "choices": [
+    "Terre",
+    "Sable",
+    "Charbon"
+   ],
+   "explanation": "Le mot vient du latin médiéval petroleum, de petra, « pierre », et oleum, « huile » ; on parlait autrefois d'huile de roche.",
+   "wikipedia": "Pétrole"
+  },
+  {
+   "id": "langue-107",
+   "difficulty": 1,
+   "question": "Quelle plante égyptienne a donné son nom au papier, qu'elle servait à fabriquer dans l'Antiquité ?",
+   "answer": "Papyrus",
+   "accept": [],
+   "choices": [
+    "Lotus",
+    "Roseau",
+    "Bambou"
+   ],
+   "explanation": "Les tiges de ce souchet étaient découpées en fines lamelles, disposées en couches croisées puis pressées et séchées pour former des feuilles.",
+   "wikipedia": "Papyrus (papier)"
+  },
+  {
+   "id": "langue-108",
+   "difficulty": 1,
+   "question": "Quel dramaturge a donné son nom aux dilemmes où s'affrontent le devoir et la passion ?",
+   "answer": "Corneille",
+   "accept": [
+    "Pierre Corneille"
+   ],
+   "choices": [
+    "Racine",
+    "Molière",
+    "Marivaux"
+   ],
+   "explanation": "Dans Le Cid, Rodrigue doit choisir entre son amour pour Chimène et l'honneur de son père : c'est le modèle du choix « cornélien ».",
+   "wikipedia": "Pierre Corneille"
+  },
+  {
+   "id": "langue-109",
+   "difficulty": 1,
+   "question": "Quel écrivain pragois a donné un adjectif qualifiant une situation absurde et oppressante ?",
+   "answer": "Franz Kafka",
+   "accept": [
+    "Kafka"
+   ],
+   "choices": [
+    "Milan Kundera",
+    "Robert Musil",
+    "Stefan Zweig"
+   ],
+   "explanation": "L'adjectif « kafkaïen » évoque surtout Le Procès, où Joseph K. est poursuivi par une justice dont il ignore les motifs ; Kafka demanda en vain qu'on brûle ses manuscrits.",
+   "wikipedia": "Franz Kafka"
+  },
+  {
+   "id": "langue-110",
+   "difficulty": 1,
+   "question": "Quel poète florentin a donné un adjectif qualifiant un spectacle d'une grandeur effrayante ?",
+   "answer": "Dante",
+   "accept": [
+    "Dante Alighieri"
+   ],
+   "choices": [
+    "Pétrarque",
+    "Boccace",
+    "Machiavel"
+   ],
+   "explanation": "L'adjectif « dantesque » renvoie à l'Enfer de la Divine Comédie, dont les neuf cercles inspirèrent Gustave Doré et Auguste Rodin.",
+   "wikipedia": "Dante Alighieri"
+  },
+  {
+   "id": "langue-111",
+   "difficulty": 1,
+   "question": "Quel séducteur légendaire espagnol, héros d'une pièce de Molière, est synonyme de coureur de jupons ?",
+   "answer": "Don Juan",
+   "accept": [
+    "Dom Juan"
+   ],
+   "choices": [
+    "Casanova",
+    "Figaro",
+    "Lovelace"
+   ],
+   "explanation": "Le personnage apparaît en 1630 chez l'Espagnol Tirso de Molina ; Mozart en a tiré l'opéra Don Giovanni.",
+   "wikipedia": "Don Juan"
+  },
+  {
+   "id": "langue-112",
+   "difficulty": 1,
+   "question": "Quelle langue surnomme-t-on « la langue de Cervantès », en hommage à l'auteur de Don Quichotte ?",
+   "answer": "Espagnol",
+   "accept": [
+    "castillan"
+   ],
+   "choices": [
+    "Portugais",
+    "Catalan",
+    "Italien"
+   ],
+   "explanation": "On parle de même de la langue de Molière pour le français, de Shakespeare pour l'anglais, de Goethe pour l'allemand et de Dante pour l'italien.",
+   "wikipedia": "Espagnol"
+  },
+  {
+   "id": "langue-113",
+   "difficulty": 1,
+   "question": "Quel physicien anglais, lui-même atteint, a décrit le premier l'incapacité à distinguer certaines couleurs ?",
+   "answer": "John Dalton",
+   "accept": [
+    "Dalton"
+   ],
+   "choices": [
+    "Isaac Newton",
+    "Thomas Young",
+    "Michael Faraday"
+   ],
+   "explanation": "Il publia une description de son propre trouble ; l'analyse de l'ADN de son œil conservé confirma en 1995 qu'il souffrait de deutéranopie, une insensibilité au vert.",
+   "wikipedia": "Daltonisme"
+  },
+  {
+   "id": "langue-114",
+   "difficulty": 1,
+   "question": "Quelle locution latine du Confiteor, prononcée en se frappant la poitrine, signifie « par ma faute » ?",
+   "answer": "Mea culpa",
+   "accept": [],
+   "choices": [
+    "Mea maxima",
+    "Ad nauseam",
+    "Ipso facto"
+   ],
+   "explanation": "Dans la prière, la formule est répétée trois fois, la dernière en « mea maxima culpa » ; faire son mea culpa, c'est reconnaître ses torts.",
+   "wikipedia": "Confiteor"
+  },
+  {
+   "id": "langue-115",
+   "difficulty": 1,
+   "question": "Quelle île de la baie d'Alexandrie, où se dressait une tour lumineuse, a donné son nom aux phares ?",
+   "answer": "Pharos",
+   "accept": [],
+   "choices": [
+    "Rhodes",
+    "Délos",
+    "Philae"
+   ],
+   "explanation": "Le phare d'Alexandrie, l'une des Sept Merveilles du monde, fut achevé vers 280 av. J.-C. et détruit par des séismes au Moyen Âge.",
+   "wikipedia": "Phare d'Alexandrie"
+  },
+  {
+   "id": "langue-116",
+   "difficulty": 1,
+   "question": "Quelle volaille, rapportée d'Amérique au XVIe siècle, doit son nom à l'expression « poule d'Inde » ?",
+   "answer": "Dinde",
+   "accept": [
+    "dindon"
+   ],
+   "choices": [
+    "Pintade",
+    "Faisan",
+    "Paon"
+   ],
+   "explanation": "Rapportée d'Amérique, que l'on croyait alors être les Indes, la « poule d'Inde » est devenue la dinde ; les Anglais l'ont appelée turkey.",
+   "wikipedia": "Dinde domestique"
+  },
+  {
+   "id": "langue-117",
+   "difficulty": 1,
+   "question": "Quel ami d'Ulysse, dont Athéna prit l'apparence pour guider Télémaque, désigne un conseiller expérimenté ?",
+   "answer": "Mentor",
+   "accept": [],
+   "choices": [
+    "Nestor",
+    "Eumée",
+    "Laërte"
+   ],
+   "explanation": "Le sens moderne doit beaucoup au Télémaque de Fénelon, en 1699, où Mentor tient une place centrale d'éducateur.",
+   "wikipedia": "Mentor (mythologie)"
+  },
+  {
+   "id": "langue-118",
+   "difficulty": 1,
+   "question": "Quel dieu grec des bergers, au cri terrifiant, a donné son nom à la peur soudaine et collective ?",
+   "answer": "Pan",
+   "accept": [],
+   "choices": [
+    "Hermès",
+    "Dionysos",
+    "Priape"
+   ],
+   "explanation": "Les Athéniens lui attribuèrent la déroute des Perses à Marathon ; mi-homme mi-bouc, il joue de la flûte à plusieurs tuyaux, la syrinx.",
+   "wikipedia": "Pan"
+  },
+  {
+   "id": "langue-119",
+   "difficulty": 1,
+   "question": "De quelle langue vient le mot « safari », qui signifie « voyage » ?",
+   "answer": "Swahili",
+   "accept": [],
+   "choices": [
+    "Zoulou",
+    "Amharique",
+    "Haoussa"
+   ],
+   "explanation": "Le swahili l'a lui-même emprunté à l'arabe safar ; le mot a été popularisé en Europe par les chasses coloniales en Afrique de l'Est.",
+   "wikipedia": "Safari"
+  },
+  {
+   "id": "langue-120",
+   "difficulty": 1,
+   "question": "Quel jour de la semaine signifie étymologiquement « jour du Seigneur » ?",
+   "answer": "Dimanche",
+   "accept": [],
+   "choices": [
+    "Samedi",
+    "Lundi",
+    "Vendredi"
+   ],
+   "explanation": "Le mot vient du latin dies dominicus ; l'empereur Constantin en fit en 321 un jour chômé, le « jour du Soleil », nom resté dans l'anglais Sunday.",
+   "wikipedia": "Dimanche"
+  },
+  {
+   "id": "langue-121",
+   "difficulty": 1,
+   "question": "Quelle partie du corps évoque le grec « kheir », à l'origine du mot « chirurgie » ?",
+   "answer": "Main",
+   "accept": [],
+   "choices": [
+    "Pied",
+    "Œil",
+    "Bras"
+   ],
+   "explanation": "Chirurgie signifie littéralement « travail de la main » ; le chiromancien, de la même racine, lit l'avenir dans les lignes de la main.",
+   "wikipedia": "Chirurgie"
+  },
+  {
+   "id": "langue-122",
+   "difficulty": 1,
+   "question": "Quel roi de Judée, mort peu après la naissance de Jésus, est cité dans l'expression « vieux comme… » ?",
+   "answer": "Hérode",
+   "accept": [
+    "Hérode le Grand"
+   ],
+   "choices": [
+    "Salomon",
+    "David",
+    "Melchisédech"
+   ],
+   "explanation": "Hérode le Grand fit rebâtir le Temple de Jérusalem ; l'Évangile de Matthieu lui attribue le massacre des Innocents.",
+   "wikipedia": "Hérode Ier le Grand"
+  },
+  {
+   "id": "langue-123",
+   "difficulty": 1,
+   "question": "Quelle nourriture tombée du ciel nourrit les Hébreux dans le désert, devenue synonyme d'aubaine ?",
+   "answer": "Manne",
+   "accept": [],
+   "choices": [
+    "Ambroisie",
+    "Nectar",
+    "Myrrhe"
+   ],
+   "explanation": "Selon l'Exode, elle tombait chaque matin pendant les quarante ans de l'errance ; on la rapproche parfois de sécrétions d'insectes sur les tamaris.",
+   "wikipedia": "Manne"
+  },
+  {
+   "id": "langue-124",
+   "difficulty": 1,
+   "question": "Quel habitant d'une région méprisée secourt un blessé dans une parabole de l'Évangile de Luc ?",
+   "answer": "Samaritain",
+   "accept": [
+    "bon Samaritain"
+   ],
+   "choices": [
+    "Galiléen",
+    "Pharisien",
+    "Lévite"
+   ],
+   "explanation": "Un prêtre et un lévite étaient passés sans s'arrêter ; la parabole répond à la question « qui est mon prochain ? ».",
+   "wikipedia": "Bon Samaritain"
+  },
+  {
+   "id": "langue-125",
+   "difficulty": 1,
+   "question": "Quel insecte s'agite autour d'un attelage embourbé dans une fable de La Fontaine, croyant tout faire ?",
+   "answer": "Mouche",
+   "accept": [],
+   "choices": [
+    "Guêpe",
+    "Abeille",
+    "Taon"
+   ],
+   "explanation": "Six forts chevaux tirent un coche dans une côte ; la mouche bourdonne, pique et s'attribue le mérite de l'effort.",
+   "wikipedia": "Le Coche et la Mouche"
+  },
+  {
+   "id": "langue-126",
+   "difficulty": 1,
+   "question": "Quel écrivain des Mémoires d'outre-tombe a donné son nom à une épaisse tranche de filet de bœuf grillée ?",
+   "answer": "Chateaubriand",
+   "accept": [
+    "François-René de Chateaubriand"
+   ],
+   "choices": [
+    "Talleyrand",
+    "Lamartine",
+    "Guizot"
+   ],
+   "explanation": "La pièce aurait été mise au point par son cuisinier Montmireil ; on l'écrit parfois « châteaubriant », du nom de la ville de Loire-Atlantique.",
+   "wikipedia": "Chateaubriand (viande)"
+  },
+  {
+   "id": "langue-127",
+   "difficulty": 2,
+   "question": "Quel écrivain autrichien a donné son nom au plaisir de subir la souffrance, décrit dans La Vénus à la fourrure ?",
+   "answer": "Sacher-Masoch",
+   "accept": [
+    "Leopold von Sacher-Masoch",
+    "Masoch"
+   ],
+   "choices": [
+    "Krafft-Ebing",
+    "Arthur Schnitzler",
+    "Stefan Zweig"
+   ],
+   "explanation": "C'est le psychiatre Richard von Krafft-Ebing qui forgea le terme « masochisme » en 1886, au grand déplaisir de l'écrivain, encore vivant.",
+   "wikipedia": "Leopold von Sacher-Masoch"
+  },
+  {
+   "id": "langue-128",
+   "difficulty": 2,
+   "question": "Quel ingénieur écossais a donné son nom au revêtement de route en pierres concassées et tassées ?",
+   "answer": "John Loudon McAdam",
+   "accept": [
+    "McAdam",
+    "Mac Adam"
+   ],
+   "choices": [
+    "Thomas Telford",
+    "John Smeaton",
+    "James Watt"
+   ],
+   "explanation": "Son procédé, mis au point au début du XIXe siècle, reposait sur des couches de pierres anguleuses ; le goudron ne fut ajouté que plus tard.",
+   "wikipedia": "John Loudon McAdam"
+  },
+  {
+   "id": "langue-129",
+   "difficulty": 2,
+   "question": "Quel mathématicien de Louis XIV, auteur de tables de calcul toutes faites, a donné son nom au mot « barème » ?",
+   "answer": "François Barrême",
+   "accept": [
+    "Barrême",
+    "Barreme"
+   ],
+   "choices": [
+    "Blaise Pascal",
+    "Pierre de Fermat",
+    "Gaspard Monge"
+   ],
+   "explanation": "Son ouvrage Les Comptes faits du grand commerce rendait service aux marchands ; le mot a perdu un r en devenant nom commun.",
+   "wikipedia": "François Barrême"
+  },
+  {
+   "id": "langue-130",
+   "difficulty": 2,
+   "question": "Quel statisticien a donné son nom à l'annuaire du commerce, puis à l'annuaire téléphonique français ?",
+   "answer": "Sébastien Bottin",
+   "accept": [
+    "Bottin"
+   ],
+   "choices": [
+    "Charles Havas",
+    "Pierre Larousse",
+    "Louis Hachette"
+   ],
+   "explanation": "Ancien prêtre devenu administrateur dans le Bas-Rhin, il publia des annuaires statistiques puis un almanach du commerce ; le « Bottin mondain » recense aujourd'hui la haute société.",
+   "wikipedia": "Sébastien Bottin"
+  },
+  {
+   "id": "langue-131",
+   "difficulty": 2,
+   "question": "Quel industriel fournisseur de l'armée a donné son nom aux grosses chaussures militaires ?",
+   "answer": "Alexis Godillot",
+   "accept": [
+    "Godillot"
+   ],
+   "choices": [
+    "Eugène Schneider",
+    "Émile Hermès",
+    "Louis Vuitton"
+   ],
+   "explanation": "Il ouvrit des tanneries à Saint-Ouen et devint le grand fournisseur de l'armée du Second Empire ; il décorait aussi les villes que visitait Napoléon III.",
+   "wikipedia": "Alexis Godillot"
+  },
+  {
+   "id": "langue-132",
+   "difficulty": 2,
+   "question": "Quel roi de Carie a donné son nom aux tombeaux monumentaux grâce à celui d'Halicarnasse ?",
+   "answer": "Mausole",
+   "accept": [],
+   "choices": [
+    "Crésus",
+    "Midas",
+    "Darius"
+   ],
+   "explanation": "Son épouse et sœur Artémise II acheva ce tombeau, l'une des Sept Merveilles du monde ; ses vestiges sont à Bodrum, en Turquie.",
+   "wikipedia": "Mausole"
+  },
+  {
+   "id": "langue-133",
+   "difficulty": 2,
+   "question": "Quelle Érinye, déesse de la vengeance, a donné son nom à une femme méchante et acariâtre ?",
+   "answer": "Mégère",
+   "accept": [],
+   "choices": [
+    "Alecto",
+    "Tisiphone",
+    "Némésis"
+   ],
+   "explanation": "Avec ses sœurs Alecto et Tisiphone, elle persécutait les criminels ; son nom grec signifie « la jalouse » ou « l'ennemie ».",
+   "wikipedia": "Érinyes"
+  },
+  {
+   "id": "langue-134",
+   "difficulty": 2,
+   "question": "Quel serviteur, dont Mercure prend l'apparence chez Plaute et Molière, désigne une personne qui ressemble parfaitement à une autre ?",
+   "answer": "Sosie",
+   "accept": [],
+   "choices": [
+    "Scapin",
+    "Frontin",
+    "Mascarille"
+   ],
+   "explanation": "Dans Amphitryon, Mercure se dédouble en Sosie pendant que Jupiter prend les traits du maître : le valet finit par douter de sa propre identité.",
+   "wikipedia": "Sosie"
+  },
+  {
+   "id": "langue-135",
+   "difficulty": 2,
+   "question": "Quel héros de feuilleton de Ponson du Terrail a donné un adjectif qualifiant des aventures invraisemblables ?",
+   "answer": "Rocambole",
+   "accept": [],
+   "choices": [
+    "Fantômas",
+    "Judex",
+    "Chéri-Bibi"
+   ],
+   "explanation": "Ses aventures parurent en feuilleton sous le Second Empire ; leurs rebondissements extravagants ont donné l'adjectif « rocambolesque ».",
+   "wikipedia": "Rocambole (personnage de fiction)"
+  },
+  {
+   "id": "langue-136",
+   "difficulty": 2,
+   "question": "Quelle ville d'Algérie a donné son nom aux chandelles de cire qu'elle exportait au Moyen Âge ?",
+   "answer": "Béjaïa",
+   "accept": [
+    "Bougie",
+    "Bejaia"
+   ],
+   "choices": [
+    "Oran",
+    "Annaba",
+    "Tlemcen"
+   ],
+   "explanation": "Les Européens appelaient ce port de Kabylie « Bougie » ; il exportait la cire d'abeille qui servait à fabriquer les chandelles.",
+   "wikipedia": "Béjaïa"
+  },
+  {
+   "id": "langue-137",
+   "difficulty": 2,
+   "question": "Quelle bataille de 1859, victoire franco-sarde sur l'Autriche, a donné son nom à une couleur rose pourpre ?",
+   "answer": "Magenta",
+   "accept": [],
+   "choices": [
+    "Solférino",
+    "Marengo",
+    "Sébastopol"
+   ],
+   "explanation": "Le colorant, synthétisé peu après la bataille, reçut le nom de cette ville lombarde ; c'est l'une des encres de base des imprimantes.",
+   "wikipedia": "Magenta (couleur)"
+  },
+  {
+   "id": "langue-138",
+   "difficulty": 2,
+   "question": "Quelle région de Grèce, patrie des Spartiates avares de paroles, a donné l'adjectif « laconique » ?",
+   "answer": "Laconie",
+   "accept": [],
+   "choices": [
+    "Béotie",
+    "Arcadie",
+    "Attique"
+   ],
+   "explanation": "À Philippe II qui menaçait de raser Sparte s'il entrait en Laconie, les Spartiates auraient répondu d'un seul mot : « Si ».",
+   "wikipedia": "Laconie"
+  },
+  {
+   "id": "langue-139",
+   "difficulty": 2,
+   "question": "Quel juge de Virginie a donné son nom aux exécutions sommaires pratiquées par une foule ?",
+   "answer": "Charles Lynch",
+   "accept": [
+    "Lynch"
+   ],
+   "choices": [
+    "John Brown",
+    "Roy Bean",
+    "Andrew Jackson"
+   ],
+   "explanation": "Pendant la guerre d'indépendance américaine, il présidait un tribunal irrégulier contre les loyalistes ; la « loi de Lynch » prit ensuite un sens sinistre.",
+   "wikipedia": "Lynchage et loi de Lynch"
+  },
+  {
+   "id": "langue-140",
+   "difficulty": 2,
+   "question": "Quel médecin italien de Bologne, qui fit tressaillir des cuisses de grenouille, a donné le verbe « galvaniser » ?",
+   "answer": "Luigi Galvani",
+   "accept": [
+    "Galvani"
+   ],
+   "choices": [
+    "Alessandro Volta",
+    "Lazzaro Spallanzani",
+    "Giovanni Aldini"
+   ],
+   "explanation": "Il croyait à une « électricité animale » ; Volta contesta cette interprétation et inventa la pile pour lui répondre.",
+   "wikipedia": "Luigi Galvani"
+  },
+  {
+   "id": "langue-141",
+   "difficulty": 2,
+   "question": "Quel financier, maître d'hôtel de Louis XIV, aurait donné son nom à la sauce blanche au lait et au beurre ?",
+   "answer": "Béchameil",
+   "accept": [
+    "Louis de Béchameil",
+    "Béchamel"
+   ],
+   "choices": [
+    "Vatel",
+    "La Varenne",
+    "Carême"
+   ],
+   "explanation": "Le financier Louis de Béchameil, marquis de Nointel, fut maître d'hôtel du roi ; la paternité réelle de la sauce reste discutée.",
+   "wikipedia": "Sauce béchamel"
+  },
+  {
+   "id": "langue-142",
+   "difficulty": 2,
+   "question": "Quel maréchal de France, dont le cuisinier enroba des amandes de sucre, a donné son nom à la praline ?",
+   "answer": "Plessis-Praslin",
+   "accept": [
+    "César de Choiseul du Plessis-Praslin",
+    "du Plessis-Praslin",
+    "Praslin"
+   ],
+   "choices": [
+    "Turenne",
+    "Condé",
+    "Vauban"
+   ],
+   "explanation": "La confiserie aurait été créée au XVIIe siècle par son officier de bouche Clément Jaluzot, qui s'installa ensuite à Montargis.",
+   "wikipedia": "Praline (amande)"
+  },
+  {
+   "id": "langue-143",
+   "difficulty": 2,
+   "question": "Quel acrobate français a donné son nom au justaucorps moulant d'une seule pièce ?",
+   "answer": "Jules Léotard",
+   "accept": [
+    "Léotard"
+   ],
+   "choices": [
+    "Jean-François Blondin",
+    "Jean-Baptiste Auriol",
+    "Auguste Durand"
+   ],
+   "explanation": "Inventeur du trapèze volant, il fit sensation au Cirque Napoléon en 1859 ; le mot « leotard » s'est surtout imposé en anglais.",
+   "wikipedia": "Jules Léotard"
+  },
+  {
+   "id": "langue-144",
+   "difficulty": 2,
+   "question": "Quel architecte de Louis XIII a donné son nom aux combles brisés aménagés en logement ?",
+   "answer": "François Mansart",
+   "accept": [
+    "Mansart"
+   ],
+   "choices": [
+    "Louis Le Vau",
+    "Salomon de Brosse",
+    "Jacques Lemercier"
+   ],
+   "explanation": "Il n'inventa pas ce type de toit, déjà connu, mais le popularisa ; il était le grand-oncle de Jules Hardouin-Mansart.",
+   "wikipedia": "Mansarde"
+  },
+  {
+   "id": "langue-145",
+   "difficulty": 2,
+   "question": "Quels membres d'une secte ismaélienne du Moyen Âge, réputés fumeurs de haschich, ont donné le mot « assassin » ?",
+   "answer": "Assassins",
+   "accept": [
+    "Nizârites",
+    "Hashashins"
+   ],
+   "choices": [
+    "Templiers",
+    "Mamelouks",
+    "Janissaires"
+   ],
+   "explanation": "Leur chef, le « Vieux de la Montagne », régnait depuis la forteresse d'Alamut, en Iran ; Marco Polo contribua à leur légende.",
+   "wikipedia": "Assassins"
+  },
+  {
+   "id": "langue-146",
+   "difficulty": 2,
+   "question": "De quel peuple arctique viennent les mots « kayak » et « anorak » ?",
+   "answer": "Inuits",
+   "accept": [
+    "Inuit",
+    "Esquimaux"
+   ],
+   "choices": [
+    "Samis",
+    "Iakoutes",
+    "Aléoutes"
+   ],
+   "explanation": "Le kayak, embarcation de chasse, était tendu de peaux de phoque ; l'anorak était une veste à capuche imperméable portée par-dessus.",
+   "wikipedia": "Kayak"
+  },
+  {
+   "id": "langue-147",
+   "difficulty": 2,
+   "question": "De quelle langue polynésienne vient le mot « tatouage », popularisé par le récit de voyage de James Cook ?",
+   "answer": "Tahitien",
+   "accept": [],
+   "choices": [
+    "Maori",
+    "Hawaïen",
+    "Samoan"
+   ],
+   "explanation": "Le mot tatau imite le bruit du petit marteau frappant l'aiguille ; les marins de Cook en rapportèrent la pratique en Europe.",
+   "wikipedia": "Tatouage"
+  },
+  {
+   "id": "langue-148",
+   "difficulty": 2,
+   "question": "Quel navigateur britannique popularisa en Europe le mot « tabou », rapporté des îles du Pacifique ?",
+   "answer": "James Cook",
+   "accept": [
+    "Cook"
+   ],
+   "choices": [
+    "Bougainville",
+    "La Pérouse",
+    "Abel Tasman"
+   ],
+   "explanation": "Le mot vient du polynésien tapu, qui désigne ce qui est sacré et interdit de contact ; Freud en fit le sujet de son essai Totem et Tabou.",
+   "wikipedia": "Tabou"
+  },
+  {
+   "id": "langue-149",
+   "difficulty": 2,
+   "question": "Quel photographe fictif de La dolce vita a donné son nom aux chasseurs d'images de célébrités ?",
+   "answer": "Paparazzo",
+   "accept": [],
+   "choices": [
+    "Mastroianni",
+    "Marcello",
+    "Fellini"
+   ],
+   "explanation": "Le mot provient de La dolce vita, sorti en 1960, où Paparazzo est le photographe qui accompagne le journaliste Marcello ; le pluriel italien paparazzi s'est imposé partout.",
+   "wikipedia": "Paparazzi"
+  },
+  {
+   "id": "langue-150",
+   "difficulty": 2,
+   "question": "Quelle question allemande aurait donné le nom de la petite fenêtre mobile au-dessus d'une porte ?",
+   "answer": "Was ist das ?",
+   "accept": [
+    "Was ist das"
+   ],
+   "choices": [
+    "Wie geht's ?",
+    "Wer ist da ?",
+    "Wo ist das ?"
+   ],
+   "explanation": "La légende veut que des Allemands l'aient demandée en découvrant ce dispositif ; en allemand, il se nomme pourtant Oberlicht.",
+   "wikipedia": "Vasistas"
+  },
+  {
+   "id": "langue-151",
+   "difficulty": 2,
+   "question": "Quel vêtement anglais de cavalier, le « riding coat », a donné un nom français de longue veste croisée ?",
+   "answer": "Redingote",
+   "accept": [],
+   "choices": [
+    "Carmagnole",
+    "Houppelande",
+    "Pourpoint"
+   ],
+   "explanation": "Arrivée en France au XVIIIe siècle, elle fut la tenue emblématique de Napoléon avec son bicorne ; le mot a ensuite désigné un manteau de femme.",
+   "wikipedia": "Redingote"
+  },
+  {
+   "id": "langue-152",
+   "difficulty": 2,
+   "question": "Quel mot anglais signifiant « rate », organe de l'humeur noire, Baudelaire a-t-il utilisé pour la mélancolie ?",
+   "answer": "Spleen",
+   "accept": [],
+   "choices": [
+    "Blues",
+    "Gloom",
+    "Ennui"
+   ],
+   "explanation": "La médecine antique attribuait la mélancolie à la bile noire produite par la rate ; Baudelaire a réuni ses poèmes sous le titre « Spleen et Idéal ».",
+   "wikipedia": "Spleen baudelairien"
+  },
+  {
+   "id": "langue-153",
+   "difficulty": 2,
+   "question": "De quelle langue vient le mot « karaoké », signifiant littéralement « orchestre vide » ?",
+   "answer": "Japonais",
+   "accept": [],
+   "choices": [
+    "Coréen",
+    "Chinois",
+    "Thaï"
+   ],
+   "explanation": "Le mot associe kara, « vide », et ōkesutora, « orchestre » ; la machine fut mise au point dans les années 1970 à Kobe.",
+   "wikipedia": "Karaoké"
+  },
+  {
+   "id": "langue-154",
+   "difficulty": 2,
+   "question": "Dans quelle ville le quartier juif fut-il établi en 1516 près d'une fonderie, donnant le mot « ghetto » ?",
+   "answer": "Venise",
+   "accept": [],
+   "choices": [
+    "Rome",
+    "Florence",
+    "Prague"
+   ],
+   "explanation": "Le mot viendrait du vénitien geto, la fonderie de cuivre établie sur le site ; les portes du quartier étaient fermées la nuit.",
+   "wikipedia": "Ghetto de Venise"
+  },
+  {
+   "id": "langue-155",
+   "difficulty": 2,
+   "question": "Pendant combien de jours les navires étaient-ils isolés à Venise, durée qui a donné le mot « quarantaine » ?",
+   "answer": "40",
+   "accept": [
+    "quarante"
+   ],
+   "choices": [
+    "30",
+    "14",
+    "21"
+   ],
+   "explanation": "La mesure visait la peste ; Raguse, l'actuelle Dubrovnik, avait instauré dès 1377 un premier isolement préventif des voyageurs venus de zones infectées.",
+   "wikipedia": "Quarantaine"
+  },
+  {
+   "id": "langue-156",
+   "difficulty": 2,
+   "question": "Quelle heure romaine, la sixième après le lever du soleil, a donné le nom du repos de midi ?",
+   "answer": "Sieste",
+   "accept": [],
+   "choices": [
+    "None",
+    "Vêpres",
+    "Matines"
+   ],
+   "explanation": "Le latin sexta hora, la sixième heure, correspondait à midi ; le mot est arrivé en français par l'espagnol siesta.",
+   "wikipedia": "Sieste"
+  },
+  {
+   "id": "langue-157",
+   "difficulty": 2,
+   "question": "Quel instrument de torture à trois pieux, le « tripalium », serait à l'origine d'un mot de la vie quotidienne ?",
+   "answer": "Travail",
+   "accept": [],
+   "choices": [
+    "Torture",
+    "Tribunal",
+    "Trépied"
+   ],
+   "explanation": "Cette étymologie traditionnelle est discutée ; en ancien français, « travailler » signifiait d'abord tourmenter ou faire souffrir.",
+   "wikipedia": "Tripalium"
+  },
+  {
+   "id": "langue-158",
+   "difficulty": 2,
+   "question": "Quel petit animal le latin « musculus » évoque-t-il, à l'origine du mot « muscle » ?",
+   "answer": "Souris",
+   "accept": [],
+   "choices": [
+    "Lézard",
+    "Ver",
+    "Poisson"
+   ],
+   "explanation": "Les Romains comparaient le muscle qui se contracte sous la peau à une petite souris qui bouge ; le mot « moule », coquillage, a la même racine.",
+   "wikipedia": "Muscle"
+  },
+  {
+   "id": "langue-159",
+   "difficulty": 2,
+   "question": "De quelle couleur était la toge des Romains briguant une charge, d'où le mot « candidat » ?",
+   "answer": "Blanche",
+   "accept": [
+    "blanc"
+   ],
+   "choices": [
+    "Pourpre",
+    "Noire",
+    "Rouge"
+   ],
+   "explanation": "Candidatus signifie « vêtu de blanc » : les aspirants blanchissaient leur toge à la craie pour paraître purs aux électeurs.",
+   "wikipedia": "Candidat"
+  },
+  {
+   "id": "langue-160",
+   "difficulty": 2,
+   "question": "Quel paléontologue britannique a baptisé les dinosaures, les « terribles lézards » de l'ère secondaire ?",
+   "answer": "Richard Owen",
+   "accept": [
+    "Owen"
+   ],
+   "choices": [
+    "Charles Darwin",
+    "Gideon Mantell",
+    "William Buckland"
+   ],
+   "explanation": "Spécialiste d'anatomie comparée, il s'opposa à la théorie de l'évolution de Darwin ; il fut aussi à l'origine du Muséum d'histoire naturelle de Londres.",
+   "wikipedia": "Richard Owen"
+  },
+  {
+   "id": "langue-161",
+   "difficulty": 2,
+   "question": "Quel port phénicien, grand exportateur de papyrus, a donné son nom au mot « bible » ?",
+   "answer": "Byblos",
+   "accept": [],
+   "choices": [
+    "Tyr",
+    "Sidon",
+    "Ougarit"
+   ],
+   "explanation": "Les Grecs appelaient biblos le papyrus qui transitait par ce port, aujourd'hui Jbeil, au Liban ; biblia signifiait « les livres ».",
+   "wikipedia": "Byblos"
+  },
+  {
+   "id": "langue-162",
+   "difficulty": 2,
+   "question": "Quel animal le chat Raton aide-t-il en tirant les marrons du feu, dans une fable de La Fontaine ?",
+   "answer": "Singe",
+   "accept": [
+    "Bertrand"
+   ],
+   "choices": [
+    "Renard",
+    "Chien",
+    "Loup"
+   ],
+   "explanation": "Raton se brûle les pattes pour retirer les marrons de la cendre pendant que le singe Bertrand les croque ; l'arrivée d'une servante les fait fuir.",
+   "wikipedia": "Le Singe et le Chat"
+  },
+  {
+   "id": "langue-163",
+   "difficulty": 2,
+   "question": "De quelle pièce comique médiévale vient l'expression « revenons à nos moutons » ?",
+   "answer": "Maître Pathelin",
+   "accept": [
+    "La Farce de maître Pathelin",
+    "Pathelin"
+   ],
+   "choices": [
+    "Le Roman de Renart",
+    "Le Jeu de Robin et Marion",
+    "Le Roman de la Rose"
+   ],
+   "explanation": "Lors d'un procès, le drapier mélange l'affaire de ses moutons volés et celle de son drap, et le juge le rappelle à l'ordre.",
+   "wikipedia": "La Farce de Maître Pathelin"
+  },
+  {
+   "id": "langue-164",
+   "difficulty": 2,
+   "question": "Quel monstre marin du détroit de Messine, face à Charybde, complète une expression signifiant aller de mal en pis ?",
+   "answer": "Scylla",
+   "accept": [],
+   "choices": [
+    "Typhon",
+    "Hydre",
+    "Léviathan"
+   ],
+   "explanation": "En voulant éviter le tourbillon Charybde, Ulysse s'approcha trop de ce monstre à six têtes, qui dévora six de ses compagnons.",
+   "wikipedia": "Scylla (monstre)"
+  },
+  {
+   "id": "langue-165",
+   "difficulty": 2,
+   "question": "Quel lien inextricable, tranché d'un coup d'épée par Alexandre le Grand, désigne une difficulté insoluble ?",
+   "answer": "Nœud gordien",
+   "accept": [
+    "noeud gordien"
+   ],
+   "choices": [
+    "Nœud de Salomon",
+    "Nœud d'Hercule",
+    "Nœud de Phrygie"
+   ],
+   "explanation": "Un oracle promettait l'Asie à celui qui le déferait ; il liait le joug du char du roi Gordias, à Gordion, en Phrygie.",
+   "wikipedia": "Nœud gordien"
+  },
+  {
+   "id": "langue-166",
+   "difficulty": 2,
+   "question": "Quelle ville de Galilée, où Jésus vécut, a donné son nom à un lieu en grand désordre ?",
+   "answer": "Capharnaüm",
+   "accept": [
+    "Capernaüm"
+   ],
+   "choices": [
+    "Nazareth",
+    "Bethléem",
+    "Cana"
+   ],
+   "explanation": "La foule s'y pressait autour de Jésus, d'où l'idée d'entassement ; les ruines d'une synagogue antique y sont visibles au bord du lac de Tibériade.",
+   "wikipedia": "Capharnaüm"
+  },
+  {
+   "id": "langue-167",
+   "difficulty": 2,
+   "question": "Quel argot ajoute la syllabe « av » à l'intérieur des mots, comme « bavonjavour » pour « bonjour » ?",
+   "answer": "Javanais",
+   "accept": [],
+   "choices": [
+    "Largonji",
+    "Verlan",
+    "Louchébem"
+   ],
+   "explanation": "Né au XIXe siècle, il fut popularisé par Serge Gainsbourg dans sa chanson « La Javanaise », en 1963, qui multiplie les syllabes en « av ».",
+   "wikipedia": "Javanais (argot)"
+  },
+  {
+   "id": "langue-168",
+   "difficulty": 2,
+   "question": "Quel émir algérien vit son immense campement nomade capturé par le duc d'Aumale en 1843 ?",
+   "answer": "Abd el-Kader",
+   "accept": [
+    "Abdelkader",
+    "Abd el Kader"
+   ],
+   "choices": [
+    "Bou Maza",
+    "Mokrani",
+    "Ahmed Bey"
+   ],
+   "explanation": "Le mot « smala », qui désignait sa suite, est passé en français pour une famille nombreuse et encombrante ; Horace Vernet peignit la scène.",
+   "wikipedia": "Smala"
+  },
+  {
+   "id": "langue-169",
+   "difficulty": 2,
+   "question": "Quels trois escrocs de bande dessinée, créés par Louis Forton, désignent une équipe d'incapables ?",
+   "answer": "Pieds Nickelés",
+   "accept": [
+    "Les Pieds Nickelés"
+   ],
+   "choices": [
+    "Rapetou",
+    "Dalton",
+    "Branquignols"
+   ],
+   "explanation": "Croquignol, Filochard et Ribouldingue apparurent en 1908 dans L'Épatant ; « avoir les pieds nickelés » signifiait refuser de travailler.",
+   "wikipedia": "Les Pieds nickelés"
+  },
+  {
+   "id": "langue-170",
+   "difficulty": 2,
+   "question": "Quel capitan fanfaron de la comédie espagnole a donné son nom à un vantard qui fuit le combat ?",
+   "answer": "Matamore",
+   "accept": [],
+   "choices": [
+    "Scaramouche",
+    "Capitan",
+    "Fracasse"
+   ],
+   "explanation": "Son nom signifie « tueur de Maures » ; Corneille le met en scène dans L'Illusion comique en 1636.",
+   "wikipedia": "Matamore (commedia dell'arte)"
+  },
+  {
+   "id": "langue-171",
+   "difficulty": 2,
+   "question": "Quel dramaturge a créé le Père Ubu, à l'origine de l'adjectif qualifiant une situation grotesque et absurde ?",
+   "answer": "Alfred Jarry",
+   "accept": [
+    "Jarry"
+   ],
+   "choices": [
+    "Guillaume Apollinaire",
+    "Antonin Artaud",
+    "Eugène Ionesco"
+   ],
+   "explanation": "La première d'Ubu roi, en 1896, provoqua un scandale dès le premier mot, « Merdre » ; Jarry l'avait conçu au lycée pour moquer un professeur.",
+   "wikipedia": "Ubu roi"
+  },
+  {
+   "id": "langue-172",
+   "difficulty": 2,
+   "question": "Quel dramaturge du XVIIIe siècle a donné son nom à un badinage amoureux raffiné ?",
+   "answer": "Marivaux",
+   "accept": [
+    "Pierre de Marivaux"
+   ],
+   "choices": [
+    "Beaumarchais",
+    "Regnard",
+    "Destouches"
+   ],
+   "explanation": "Le mot « marivaudage » fut d'abord péjoratif ; il désigne le langage précieux des Fausses Confidences ou du Jeu de l'amour et du hasard.",
+   "wikipedia": "Marivaudage"
+  },
+  {
+   "id": "langue-173",
+   "difficulty": 2,
+   "question": "Quel objet irrégulier, appelé « barroco » en portugais, a donné son nom au style artistique baroque ?",
+   "answer": "Perle",
+   "accept": [],
+   "choices": [
+    "Coquillage",
+    "Diamant",
+    "Corail"
+   ],
+   "explanation": "Le mot désignait une perle de forme imparfaite ; il qualifia d'abord avec mépris un art jugé bizarre et surchargé.",
+   "wikipedia": "Baroque"
+  },
+  {
+   "id": "langue-174",
+   "difficulty": 2,
+   "question": "Quelle langue, que parlaient les étudiants de la Sorbonne, a donné son nom à un quartier de la rive gauche ?",
+   "answer": "Latin",
+   "accept": [],
+   "choices": [
+    "Grec",
+    "Occitan",
+    "Hébreu"
+   ],
+   "explanation": "Jusqu'à la Révolution, l'enseignement universitaire se faisait en latin ; le quartier entoure la montagne Sainte-Geneviève.",
+   "wikipedia": "Quartier latin (Paris)"
+  },
+  {
+   "id": "langue-175",
+   "difficulty": 2,
+   "question": "Quelle sainte, pécheresse repentante des Évangiles, est à l'origine de l'expression « pleurer comme une… » ?",
+   "answer": "Madeleine",
+   "accept": [
+    "Marie-Madeleine",
+    "Marie de Magdala"
+   ],
+   "choices": [
+    "Véronique",
+    "Marthe",
+    "Thérèse"
+   ],
+   "explanation": "Marie de Magdala est la première témoin de la Résurrection ; la tradition l'a confondue avec la pécheresse qui lava de ses larmes les pieds de Jésus.",
+   "wikipedia": "Marie Madeleine"
+  },
+  {
+   "id": "langue-176",
+   "difficulty": 2,
+   "question": "Quel navigateur aurait fait tenir un œuf debout en écrasant sa pointe, d'où une expression sur l'évidence ?",
+   "answer": "Christophe Colomb",
+   "accept": [
+    "Colomb"
+   ],
+   "choices": [
+    "Vasco de Gama",
+    "Amerigo Vespucci",
+    "Magellan"
+   ],
+   "explanation": "Selon l'anecdote, il répondait à des convives qui minimisaient sa découverte : une fois la solution montrée, n'importe qui pouvait la trouver.",
+   "wikipedia": "Œuf de Colomb"
+  },
+  {
+   "id": "langue-177",
+   "difficulty": 2,
+   "question": "Quelle locution latine désigne l'intervention providentielle qui dénoue artificiellement une intrigue ?",
+   "answer": "Deus ex machina",
+   "accept": [],
+   "choices": [
+    "Sine qua non",
+    "Ex nihilo",
+    "Ad hoc"
+   ],
+   "explanation": "Au théâtre grec, un dieu descendait sur scène suspendu à une grue, la mékhanè ; Euripide usa souvent de ce procédé.",
+   "wikipedia": "Deus ex machina"
+  },
+  {
+   "id": "langue-178",
+   "difficulty": 2,
+   "question": "Quel poète satirique latin a dénoncé un peuple qui ne réclame plus que « du pain et des jeux » ?",
+   "answer": "Juvénal",
+   "accept": [],
+   "choices": [
+    "Horace",
+    "Martial",
+    "Ovide"
+   ],
+   "explanation": "La formule « panem et circenses » vient de sa dixième satire ; les empereurs distribuaient du blé et offraient des spectacles pour s'assurer la paix sociale.",
+   "wikipedia": "Panem et circenses"
+  },
+  {
+   "id": "langue-179",
+   "difficulty": 2,
+   "question": "Quel peintre vénitien a donné son nom au plat de fines tranches de bœuf cru, créé au Harry's Bar ?",
+   "answer": "Vittore Carpaccio",
+   "accept": [
+    "Carpaccio"
+   ],
+   "choices": [
+    "Titien",
+    "Tintoret",
+    "Véronèse"
+   ],
+   "explanation": "Giuseppe Cipriani l'aurait créé en 1950 pour une comtesse à qui son médecin interdisait la viande cuite, en référence aux rouges du peintre.",
+   "wikipedia": "Carpaccio"
+  },
+  {
+   "id": "langue-180",
+   "difficulty": 2,
+   "question": "Quelle cantatrice australienne a inspiré à Auguste Escoffier un dessert de pêches, de glace et de coulis de framboise ?",
+   "answer": "Nellie Melba",
+   "accept": [
+    "Melba"
+   ],
+   "choices": [
+    "Adelina Patti",
+    "Jenny Lind",
+    "Emma Calvé"
+   ],
+   "explanation": "Escoffier, alors chef du Savoy à Londres, créa la coupe vers 1893 ; il donna aussi son nom aux toasts Melba.",
+   "wikipedia": "Nellie Melba"
+  },
+  {
+   "id": "langue-181",
+   "difficulty": 2,
+   "question": "Quel héros athénien a donné son nom au jardin où Platon enseignait, à l'origine du mot « académie » ?",
+   "answer": "Académos",
+   "accept": [
+    "Akadémos",
+    "Akademos",
+    "Hékadémos"
+   ],
+   "choices": [
+    "Thésée",
+    "Cécrops",
+    "Érechthée"
+   ],
+   "explanation": "L'école de Platon, fondée vers 387 av. J.-C. dans ce bois sacré, fut active pendant des siècles ; Justinien ferma l'école néoplatonicienne en 529.",
+   "wikipedia": "Académie de Platon"
+  },
+  {
+   "id": "langue-182",
+   "difficulty": 2,
+   "question": "Quel animal se cache derrière le nom des philosophes cyniques, comme Diogène ?",
+   "answer": "Chien",
+   "accept": [],
+   "choices": [
+    "Loup",
+    "Âne",
+    "Chat"
+   ],
+   "explanation": "Le mot vient du grec kunikos, « canin » ; Diogène vivait dans une jarre et revendiquait l'impudeur d'un chien.",
+   "wikipedia": "Cynisme"
+  },
+  {
+   "id": "langue-183",
+   "difficulty": 3,
+   "question": "Quel humaniste italien a donné son nom au petit carnet de notes, d'après son grand dictionnaire latin ?",
+   "answer": "Ambrogio Calepino",
+   "accept": [
+    "Calepino",
+    "Calepin"
+   ],
+   "choices": [
+    "Alde Manuce",
+    "Marsile Ficin",
+    "Lorenzo Valla"
+   ],
+   "explanation": "Son dictionnaire latin, paru en 1502, connut plus de 200 éditions multilingues ; jusqu'au XVIIe siècle, « calepin » désignait en français un gros dictionnaire.",
+   "wikipedia": "Calepin"
+  },
+  {
+   "id": "langue-184",
+   "difficulty": 3,
+   "question": "Quel botaniste suédois, mort en 1789, a donné son nom à une fleur à tubercules originaire du Mexique ?",
+   "answer": "Anders Dahl",
+   "accept": [
+    "Dahl"
+   ],
+   "choices": [
+    "Carl Peter Thunberg",
+    "Pehr Kalm",
+    "Daniel Solander"
+   ],
+   "explanation": "Le genre fut nommé en 1791 par Antonio José Cavanilles, directeur du jardin botanique de Madrid, qui obtint la première floraison européenne ; les Mexicas la cultivaient déjà.",
+   "wikipedia": "Dahlia"
+  },
+  {
+   "id": "langue-185",
+   "difficulty": 3,
+   "question": "Quel peuple indigène du Brésil a donné son nom, par confusion, au tubercule nord-américain appelé topinambour ?",
+   "answer": "Tupinambas",
+   "accept": [
+    "Tupinamba",
+    "Topinambous"
+   ],
+   "choices": [
+    "Guaranis",
+    "Arawaks",
+    "Caraïbes"
+   ],
+   "explanation": "Des Tupinambas furent présentés à Paris en 1613 au moment où la plante arrivait du Canada ; le public associa les deux nouveautés exotiques.",
+   "wikipedia": "Topinambour"
+  },
+  {
+   "id": "langue-186",
+   "difficulty": 3,
+   "question": "Quel feuilletoniste a créé, dans Les Mystères de Paris, le couple de concierges bavards à l'origine du mot « pipelette » ?",
+   "answer": "Eugène Sue",
+   "accept": [
+    "Sue"
+   ],
+   "choices": [
+    "Paul Féval",
+    "Alexandre Dumas",
+    "Frédéric Soulié"
+   ],
+   "explanation": "Ce feuilleton, publié dans le Journal des débats en 1842 et 1843, passionna toutes les classes sociales et fit de son auteur l'un des écrivains les plus lus de son temps.",
+   "wikipedia": "Les Mystères de Paris"
+  },
+  {
+   "id": "langue-187",
+   "difficulty": 3,
+   "question": "Quel abbé révolutionnaire forgea en 1794 le mot « vandalisme » pour dénoncer les destructions de monuments ?",
+   "answer": "Henri Grégoire",
+   "accept": [
+    "abbé Grégoire",
+    "Grégoire"
+   ],
+   "choices": [
+    "Sieyès",
+    "Talleyrand",
+    "Fauchet"
+   ],
+   "explanation": "Il défendit aussi l'abolition de l'esclavage et l'émancipation des Juifs ; son rapport de 1794 visait à éradiquer les patois au profit du français.",
+   "wikipedia": "Abbé Grégoire"
+  },
+  {
+   "id": "langue-188",
+   "difficulty": 3,
+   "question": "De quelle île venait l'herbe dont le poison provoquait un rictus, donnant le rire « sardonique » ?",
+   "answer": "Sardaigne",
+   "accept": [],
+   "choices": [
+    "Sicile",
+    "Corse",
+    "Crète"
+   ],
+   "explanation": "Il s'agirait de l'œnanthe safranée, plante très toxique qui contracte les muscles du visage ; elle servait peut-être à exécuter les vieillards.",
+   "wikipedia": "Rire sardonique"
+  },
+  {
+   "id": "langue-189",
+   "difficulty": 3,
+   "question": "Comment s'appelait l'escalier de Rome où l'on exposait les corps des condamnés, donnant une expression d'opprobre ?",
+   "answer": "Gémonies",
+   "accept": [],
+   "choices": [
+    "Roche Tarpéienne",
+    "Tullianum",
+    "Rostres"
+   ],
+   "explanation": "Il descendait du Capitole vers le Forum ; « vouer aux gémonies », c'est livrer quelqu'un au mépris public.",
+   "wikipedia": "Escalier des Gémonies"
+  },
+  {
+   "id": "langue-190",
+   "difficulty": 3,
+   "question": "Quel brigand de l'Attique étirait ou mutilait ses victimes pour les ajuster à la taille de son lit ?",
+   "answer": "Procuste",
+   "accept": [
+    "Procruste"
+   ],
+   "choices": [
+    "Sinis",
+    "Sciron",
+    "Cercyon"
+   ],
+   "explanation": "Thésée lui infligea son propre supplice ; le « lit de Procuste » désigne une tentative de forcer la réalité dans un cadre rigide.",
+   "wikipedia": "Procuste"
+  },
+  {
+   "id": "langue-191",
+   "difficulty": 3,
+   "question": "Quels piliers mythiques, aux limites du monde connu, auraient porté l'avertissement « Non plus ultra » aux marins ?",
+   "answer": "Colonnes d'Hercule",
+   "accept": [
+    "Colonnes d'Héraclès"
+   ],
+   "choices": [
+    "Colonnes de Melqart",
+    "Colonnes de Trajan",
+    "Colonnes de Salomon"
+   ],
+   "explanation": "Elles désignaient les promontoires encadrant le détroit de Gibraltar ; l'expression « nec plus ultra » qualifie aujourd'hui ce qui ne peut être surpassé.",
+   "wikipedia": "Colonnes d'Hercule"
+  },
+  {
+   "id": "langue-192",
+   "difficulty": 3,
+   "question": "Quelle bande de malfaiteurs du XVe siècle, jugée à Dijon, parlait un jargon que François Villon employa dans certaines ballades ?",
+   "answer": "Coquillards",
+   "accept": [
+    "Coquillard"
+   ],
+   "choices": [
+    "Écorcheurs",
+    "Routiers",
+    "Truands"
+   ],
+   "explanation": "Leur procès en 1455 a conservé une liste de leurs mots secrets ; la coquille de Saint-Jacques leur aurait servi de signe de reconnaissance.",
+   "wikipedia": "Coquillard"
+  },
+  {
+   "id": "langue-193",
+   "difficulty": 3,
+   "question": "Quelle grande bourse médiévale suspendue à la ceinture survit dans l'expression « remplir son… » ?",
+   "answer": "Escarcelle",
+   "accept": [],
+   "choices": [
+    "Aumônière",
+    "Besace",
+    "Gibecière"
+   ],
+   "explanation": "Le mot viendrait de l'italien scarsella, « petite avare » ; elle servait à porter monnaie et menus objets.",
+   "wikipedia": "Aumônière"
+  },
+  {
+   "id": "langue-194",
+   "difficulty": 3,
+   "question": "Quelles religieuses laïques de Flandre ont donné leur nom au bonnet d'une expression amoureuse ?",
+   "answer": "Béguines",
+   "accept": [
+    "Béguine"
+   ],
+   "choices": [
+    "Clarisses",
+    "Ursulines",
+    "Carmélites"
+   ],
+   "explanation": "Ces femmes pieuses vivaient en communauté sans prononcer de vœux perpétuels ; les béguinages flamands sont inscrits au patrimoine mondial.",
+   "wikipedia": "Béguinage"
+  },
+  {
+   "id": "langue-195",
+   "difficulty": 3,
+   "question": "Quelle distinction de chevalerie, créée par Henri III, a donné l'expression « cordon-bleu » par la couleur de son ruban ?",
+   "answer": "Ordre du Saint-Esprit",
+   "accept": [
+    "Saint-Esprit"
+   ],
+   "choices": [
+    "Ordre de Saint-Michel",
+    "Ordre de la Toison d'or",
+    "Ordre de la Jarretière"
+   ],
+   "explanation": "Fondé en 1578, c'était l'ordre le plus prestigieux de la monarchie ; ses chevaliers portaient une croix suspendue à un large ruban bleu céleste.",
+   "wikipedia": "Ordre du Saint-Esprit"
+  },
+  {
+   "id": "langue-196",
+   "difficulty": 3,
+   "question": "Quel nom porte la langue de contact méditerranéenne, mêlant italien, espagnol et arabe, parlée dans les ports ?",
+   "answer": "Sabir",
+   "accept": [
+    "lingua franca"
+   ],
+   "choices": [
+    "Pidgin",
+    "Ladino",
+    "Maltais"
+   ],
+   "explanation": "Molière l'utilise dans la cérémonie turque du Bourgeois gentilhomme ; son nom vient de « saber », savoir.",
+   "wikipedia": "Sabir"
+  },
+  {
+   "id": "langue-197",
+   "difficulty": 3,
+   "question": "De quelle ville de Chine, appelée Zayton par les Arabes, vient le nom de l'étoffe lustrée appelée satin ?",
+   "answer": "Quanzhou",
+   "accept": [
+    "Zaitun"
+   ],
+   "choices": [
+    "Canton",
+    "Nankin",
+    "Ningbo"
+   ],
+   "explanation": "Ce grand port du Fujian, visité par Marco Polo et Ibn Battûta, exportait de la soie vers le monde musulman.",
+   "wikipedia": "Satin"
+  },
+  {
+   "id": "langue-198",
+   "difficulty": 3,
+   "question": "Quelle ville d'Irak a donné son nom au baldaquin, d'après les riches soieries qu'on en importait ?",
+   "answer": "Bagdad",
+   "accept": [
+    "Baghdad"
+   ],
+   "choices": [
+    "Bassora",
+    "Mossoul",
+    "Samarra"
+   ],
+   "explanation": "En italien, Baldacco désignait Bagdad ; le baldacchino était d'abord une étoffe de soie tendue au-dessus d'un trône ou d'un lit.",
+   "wikipedia": "Baldaquin"
+  },
+  {
+   "id": "langue-199",
+   "difficulty": 3,
+   "question": "Quel moine irlandais a donné son nom aux voitures de louage, d'après l'enseigne d'un hôtel parisien ?",
+   "answer": "Fiacre",
+   "accept": [
+    "saint Fiacre"
+   ],
+   "choices": [
+    "Colomban",
+    "Patrick",
+    "Brendan"
+   ],
+   "explanation": "Les premières voitures de louage stationnaient devant l'hôtellerie Saint-Fiacre, à l'angle de la rue Saint-Martin à Paris ; le saint est aussi le patron des jardiniers.",
+   "wikipedia": "Fiacre (hippomobile)"
+  },
+  {
+   "id": "langue-200",
+   "difficulty": 3,
+   "question": "Quel écrivain anglais a forgé en 1754 le mot « sérendipité », d'après un conte persan ?",
+   "answer": "Horace Walpole",
+   "accept": [
+    "Walpole"
+   ],
+   "choices": [
+    "Samuel Johnson",
+    "Jonathan Swift",
+    "Laurence Sterne"
+   ],
+   "explanation": "Il s'inspira des Trois Princes de Serendip, qui faisaient sans cesse des découvertes par hasard ; Serendip est l'ancien nom de Sri Lanka.",
+   "wikipedia": "Sérendipité"
+  },
+  {
+   "id": "langue-201",
+   "difficulty": 3,
+   "question": "Quel latiniste de la Sorbonne proposa en 1955 à IBM le mot « ordinateur » ?",
+   "answer": "Jacques Perret",
+   "accept": [
+    "Perret"
+   ],
+   "choices": [
+    "Émile Benveniste",
+    "Georges Dumézil",
+    "Albert Dauzat"
+   ],
+   "explanation": "IBM cherchait un nom français pour sa machine 650 ; Perret rappela que l'ordinateur désignait Dieu qui met de l'ordre dans le monde.",
+   "wikipedia": "Ordinateur"
+  },
+  {
+   "id": "langue-202",
+   "difficulty": 3,
+   "question": "Quel mot des jardins à la française, désignant un parterre de gazon, vient de l'anglais « bowling green » ?",
+   "answer": "Boulingrin",
+   "accept": [],
+   "choices": [
+    "Gazon",
+    "Parterre",
+    "Pelouse"
+   ],
+   "explanation": "Le mot s'est répandu sous Louis XIV ; il désigne une pièce de gazon souvent bordée de talus, à l'image des pelouses anglaises où l'on jouait aux boules.",
+   "wikipedia": "Boulingrin (jardin)"
+  },
+  {
+   "id": "langue-203",
+   "difficulty": 3,
+   "question": "De quel mot néerlandais signifiant « ouvrage de défense » vient le mot « boulevard » ?",
+   "answer": "Bolwerk",
+   "accept": [
+    "bolwerc"
+   ],
+   "choices": [
+    "Burcht",
+    "Dijk",
+    "Gracht"
+   ],
+   "explanation": "Les boulevards parisiens furent tracés sur l'emplacement d'anciens remparts ; le mot anglais bulwark a la même origine.",
+   "wikipedia": "Boulevard"
+  },
+  {
+   "id": "langue-204",
+   "difficulty": 3,
+   "question": "Quel mécanicien français a donné son nom à la machine qui coupe les piles de papier ?",
+   "answer": "Guillaume Massiquot",
+   "accept": [
+    "Massiquot"
+   ],
+   "choices": [
+    "Firmin Didot",
+    "Nicolas-Louis Robert",
+    "Joseph Marinoni"
+   ],
+   "explanation": "Il fit breveter sa machine à rogner en 1844 ; le mot massicot s'emploie depuis pour tout coupe-papier à lame.",
+   "wikipedia": "Massicot (machine)"
+  },
+  {
+   "id": "langue-205",
+   "difficulty": 3,
+   "question": "Quel amiral britannique, surnommé « Old Grog », a donné son nom à une boisson chaude au rhum ?",
+   "answer": "Edward Vernon",
+   "accept": [
+    "Vernon"
+   ],
+   "choices": [
+    "Horatio Nelson",
+    "George Anson",
+    "Edward Hawke"
+   ],
+   "explanation": "Il portait un manteau en grogram, tissu grossier ; en 1740, il ordonna de couper d'eau la ration de rhum de ses marins.",
+   "wikipedia": "Grog"
+  },
+  {
+   "id": "langue-206",
+   "difficulty": 3,
+   "question": "Quelle cité grecque d'Italie du Sud, célèbre pour son luxe, a donné son nom aux amateurs de plaisirs raffinés ?",
+   "answer": "Sybaris",
+   "accept": [],
+   "choices": [
+    "Crotone",
+    "Tarente",
+    "Métaponte"
+   ],
+   "explanation": "Elle fut détruite à la fin du VIe siècle av. J.-C. par sa rivale Crotone ; le mot « sybarite » désigne une personne qui recherche une vie raffinée et voluptueuse.",
+   "wikipedia": "Sybaris"
+  },
+  {
+   "id": "langue-207",
+   "difficulty": 3,
+   "question": "Quel personnage de Plaute et de Molière a donné son nom à l'hôte qui offre à dîner ?",
+   "answer": "Amphitryon",
+   "accept": [],
+   "choices": [
+    "Sosie",
+    "Alcmène",
+    "Mercure"
+   ],
+   "explanation": "Le mot vient d'une réplique de Molière : « Le véritable Amphitryon est l'Amphitryon où l'on dîne », Jupiter ayant usurpé l'identité du général thébain.",
+   "wikipedia": "Amphitryon (Molière)"
+  },
+  {
+   "id": "langue-208",
+   "difficulty": 3,
+   "question": "Quel peuple des Antilles, que Christophe Colomb croyait mangeur d'hommes, a donné le mot « cannibale » ?",
+   "answer": "Caraïbes",
+   "accept": [
+    "Caribes",
+    "Kalinagos",
+    "Kalinago"
+   ],
+   "choices": [
+    "Taïnos",
+    "Arawaks",
+    "Aztèques"
+   ],
+   "explanation": "Colomb nota « caniba » ou « canibales » d'après le nom des Caraïbes ; Montaigne consacra aux Indiens du Brésil son essai « Des cannibales ».",
+   "wikipedia": "Cannibalisme"
+  },
+  {
+   "id": "langue-209",
+   "difficulty": 3,
+   "question": "Dans quel cabaret parisien des années 1920 serait née l'expression musicale désignant une improvisation collective ?",
+   "answer": "Bœuf sur le toit",
+   "accept": [
+    "Le Bœuf sur le toit",
+    "Boeuf sur le toit"
+   ],
+   "choices": [
+    "Le Chat noir",
+    "Le Lapin agile",
+    "Le Moulin Rouge"
+   ],
+   "explanation": "Le lieu tirait son nom d'un ballet de Darius Milhaud sur un argument de Cocteau ; les musiciens de jazz y jouaient en fin de nuit.",
+   "wikipedia": "Le Bœuf sur le toit"
+  },
+  {
+   "id": "langue-210",
+   "difficulty": 3,
+   "question": "Pour quels soldats le médecin Johannes Hofer forgea-t-il en 1688 le mot « nostalgie », désignant le mal du pays ?",
+   "answer": "Mercenaires suisses",
+   "accept": [
+    "Suisses",
+    "soldats suisses"
+   ],
+   "choices": [
+    "Lansquenets allemands",
+    "Gardes écossais",
+    "Mercenaires irlandais"
+   ],
+   "explanation": "Le mot associe le grec nostos, le retour, et algos, la douleur ; on disait que le Ranz des vaches faisait déserter ces soldats.",
+   "wikipedia": "Nostalgie (sentiment)"
+  }
+ ]
+}
