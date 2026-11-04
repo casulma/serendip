@@ -1,0 +1,1859 @@
+{
+  "category": "cinema-tv",
+  "questions": [
+    {
+      "id": "cinema-tv-281",
+      "difficulty": 2,
+      "question": "Quel extraterrestre poilu, venu de la planète Melmac, est recueilli par la famille Tanner et rêve de manger des chats ?",
+      "answer": "ALF",
+      "accept": [
+        "Alf",
+        "Gordon Shumway"
+      ],
+      "choices": [
+        "Mork",
+        "Gizmo",
+        "E.T."
+      ],
+      "explanation": "Son nom est l'acronyme d'« Alien Life Form » ; son vrai nom sur Melmac est Gordon Shumway, et il était animé par son créateur Paul Fusco.",
+      "wikipedia": "Alf (série télévisée)"
+    },
+    {
+      "id": "cinema-tv-282",
+      "difficulty": 1,
+      "question": "Dans quel café de New York les six héros de la série « Friends » ont-ils l'habitude de se retrouver ?",
+      "answer": "Central Perk",
+      "accept": [],
+      "choices": [
+        "Monk's Café",
+        "Moe's Tavern",
+        "Luke's Diner"
+      ],
+      "explanation": "C'est dans ce café que Rachel Green, qui vient de fuir son mariage, retrouve son amie d'enfance Monica au premier épisode ; Phoebe y chante « Smelly Cat ».",
+      "wikipedia": "Friends"
+    },
+    {
+      "id": "cinema-tv-283",
+      "difficulty": 1,
+      "question": "Quelle série suit Walter White, professeur de chimie atteint d'un cancer devenu fabricant de méthamphétamine au Nouveau-Mexique ?",
+      "answer": "Breaking Bad",
+      "accept": [],
+      "choices": [
+        "Weeds",
+        "Ozark",
+        "The Wire"
+      ],
+      "explanation": "Créée par Vince Gilligan, elle se déroule à Albuquerque ; Walter White s'y fait appeler « Heisenberg », en hommage au physicien allemand.",
+      "wikipedia": "Breaking Bad"
+    },
+    {
+      "id": "cinema-tv-284",
+      "difficulty": 2,
+      "question": "Comment s'appelle le continent principal, divisé en Sept Couronnes, où se déroule l'essentiel de la série « Game of Thrones » ?",
+      "answer": "Westeros",
+      "accept": [],
+      "choices": [
+        "Essos",
+        "Valyria",
+        "Numenor"
+      ],
+      "explanation": "Adaptée des romans de George R. R. Martin, la série oppose les grandes maisons de Westeros pour le Trône de fer, tandis qu'Essos s'étend à l'est.",
+      "wikipedia": "Game of Thrones"
+    },
+    {
+      "id": "cinema-tv-285",
+      "difficulty": 1,
+      "question": "Quel agent du FBI, convaincu de l'existence des extraterrestres, enquête aux côtés de Dana Scully dans « X-Files » ?",
+      "answer": "Fox Mulder",
+      "accept": [
+        "Mulder"
+      ],
+      "choices": [
+        "Walter Skinner",
+        "Dale Cooper",
+        "Jack Bauer"
+      ],
+      "explanation": "Interprété par David Duchovny, Mulder affiche dans son bureau l'affiche « I want to believe » ; Scully, médecin sceptique, est mutée aux X-Files pour le surveiller.",
+      "wikipedia": "X-Files : Aux frontières du réel"
+    },
+    {
+      "id": "cinema-tv-286",
+      "difficulty": 2,
+      "question": "Quelle lycéenne est retrouvée morte, enveloppée dans du plastique, au début de la série de David Lynch « Twin Peaks » ?",
+      "answer": "Laura Palmer",
+      "accept": [
+        "Palmer"
+      ],
+      "choices": [
+        "Audrey Horne",
+        "Donna Hayward",
+        "Shelly Johnson"
+      ],
+      "explanation": "La question « Qui a tué Laura Palmer ? » passionna le public ; l'enquête est menée par l'agent spécial Dale Cooper, amateur de café et de tarte aux cerises.",
+      "wikipedia": "Twin Peaks (série télévisée)"
+    },
+    {
+      "id": "cinema-tv-287",
+      "difficulty": 1,
+      "question": "Quel agent secret de série américaine se tire d'affaire grâce à son couteau suisse et à des bricolages ingénieux, sans jamais porter d'arme à feu ?",
+      "answer": "MacGyver",
+      "accept": [
+        "Mac Gyver"
+      ],
+      "choices": [
+        "Magnum",
+        "Columbo",
+        "Hooker"
+      ],
+      "explanation": "Incarné par Richard Dean Anderson, ce héros de la série d'ABC travaille pour la fondation Phoenix et préfère toujours la débrouillardise aux armes.",
+      "wikipedia": "MacGyver"
+    },
+    {
+      "id": "cinema-tv-288",
+      "difficulty": 2,
+      "question": "Comment s'appelle la machine à voyager dans le temps du Docteur, plus grande à l'intérieur qu'à l'extérieur, dans « Doctor Who » ?",
+      "answer": "TARDIS",
+      "accept": [],
+      "choices": [
+        "DeLorean",
+        "Nautilus",
+        "Enterprise"
+      ],
+      "explanation": "Son nom signifie « Time And Relative Dimension In Space » ; il a l'apparence d'une cabine téléphonique de la police britannique, et la série existe depuis 1963.",
+      "wikipedia": "Doctor Who"
+    },
+    {
+      "id": "cinema-tv-289",
+      "difficulty": 1,
+      "question": "Quel acteur et réalisateur lyonnais a créé la série « Kaamelott », dans laquelle il incarne le roi Arthur ?",
+      "answer": "Alexandre Astier",
+      "accept": [
+        "Astier"
+      ],
+      "choices": [
+        "Franck Dubosc",
+        "Jean Dujardin",
+        "Kad Merad"
+      ],
+      "explanation": "D'abord pastille courte sur M6, la série a pris de l'ampleur au fil des livres ; Astier en a aussi composé la musique, et son père y joue Léodagan.",
+      "wikipedia": "Kaamelott"
+    },
+    {
+      "id": "cinema-tv-290",
+      "difficulty": 3,
+      "question": "Dans « Les Envahisseurs », quel doigt raide permet à David Vincent de reconnaître certains extraterrestres ayant pris forme humaine ?",
+      "answer": "auriculaire",
+      "accept": [
+        "petit doigt"
+      ],
+      "choices": [
+        "pouce",
+        "index",
+        "majeur"
+      ],
+      "explanation": "En mourant, les envahisseurs se consument dans un halo rougeâtre et ne laissent que quelques cendres, si bien que l'architecte David Vincent ne parvient jamais à prouver leur présence.",
+      "wikipedia": "Les Envahisseurs"
+    },
+    {
+      "id": "cinema-tv-291",
+      "difficulty": 2,
+      "question": "Quelle partenaire experte en arts martiaux, souvent vêtue de cuir, accompagne John Steed dans « Chapeau melon et bottes de cuir » ?",
+      "answer": "Emma Peel",
+      "accept": [
+        "Mrs Peel",
+        "Peel"
+      ],
+      "choices": [
+        "Tara King",
+        "Cathy Gale",
+        "Purdey"
+      ],
+      "explanation": "Interprétée par Diana Rigg, Emma Peel succéda à Cathy Gale, jouée par Honor Blackman, aux côtés de l'élégant John Steed au chapeau melon et au parapluie.",
+      "wikipedia": "Chapeau melon et bottes de cuir"
+    },
+    {
+      "id": "cinema-tv-292",
+      "difficulty": 3,
+      "question": "Quel acteur incarnait le héros du feuilleton « Thierry la Fronde », qui combat les Anglais pendant la guerre de Cent Ans ?",
+      "answer": "Jean-Claude Drouot",
+      "accept": [
+        "Drouot"
+      ],
+      "choices": [
+        "Jean Marais",
+        "Gérard Barray",
+        "Robert Hossein"
+      ],
+      "explanation": "Diffusé à partir de 1963 sur l'ORTF, le feuilleton connut un tel succès que les frondes devinrent le jouet préféré des enfants dans les cours de récréation.",
+      "wikipedia": "Thierry la Fronde"
+    },
+    {
+      "id": "cinema-tv-293",
+      "difficulty": 2,
+      "question": "Quel serviteur, qui feint d'être sourd et muet, est le complice de Don Diego de la Vega dans la série « Zorro » de Disney ?",
+      "answer": "Bernardo",
+      "accept": [],
+      "choices": [
+        "Sergent Garcia",
+        "Tornado",
+        "Alejandro"
+      ],
+      "explanation": "Joué par Gene Sheldon, il fait semblant d'être sourd pour espionner ; le sergent Garcia, lui, est le gros militaire sympathique que Zorro ridiculise.",
+      "wikipedia": "Zorro (série télévisée, 1957)"
+    },
+    {
+      "id": "cinema-tv-294",
+      "difficulty": 1,
+      "question": "Quel pétrolier texan sans scrupules, au chapeau de cow-boy, est la figure centrale du feuilleton « Dallas » ?",
+      "answer": "J. R. Ewing",
+      "accept": [
+        "JR",
+        "J.R.",
+        "J. R.",
+        "JR Ewing",
+        "J.R. Ewing"
+      ],
+      "choices": [
+        "Bobby Ewing",
+        "Cliff Barnes",
+        "Blake Carrington"
+      ],
+      "explanation": "Incarné par Larry Hagman, il est victime d'un attentat en fin de saison ; la question « Qui a tiré sur J. R. ? » tint le monde en haleine tout un été.",
+      "wikipedia": "Dallas (série télévisée, 1978)"
+    },
+    {
+      "id": "cinema-tv-295",
+      "difficulty": 3,
+      "question": "Quelle psychiatre reçoit en consultation le parrain Tony Soprano dans la série « Les Soprano » ?",
+      "answer": "Jennifer Melfi",
+      "accept": [
+        "Melfi",
+        "Dr Melfi"
+      ],
+      "choices": [
+        "Carmela Soprano",
+        "Adriana La Cerva",
+        "Livia Soprano"
+      ],
+      "explanation": "La série de HBO s'ouvre sur les crises de panique du mafieux du New Jersey ; ses séances avec la docteure Melfi servent de fil conducteur aux six saisons.",
+      "wikipedia": "Les Soprano"
+    },
+    {
+      "id": "cinema-tv-296",
+      "difficulty": 3,
+      "question": "Dans quelle agence de publicité new-yorkaise des années 1960 travaille Don Draper, héros de « Mad Men » ?",
+      "answer": "Sterling Cooper",
+      "accept": [],
+      "choices": [
+        "Dunder Mifflin",
+        "Pearson Hardman",
+        "Wolfram & Hart"
+      ],
+      "explanation": "Le titre « Mad Men » joue sur « Madison Avenue », l'avenue de Manhattan où étaient installées les grandes agences de publicité.",
+      "wikipedia": "Mad Men"
+    },
+    {
+      "id": "cinema-tv-297",
+      "difficulty": 1,
+      "question": "Quel médecin misanthrope du New Jersey, boiteux et accro à la Vicodin, est inspiré du personnage de Sherlock Holmes ?",
+      "answer": "Gregory House",
+      "accept": [
+        "House",
+        "Dr House"
+      ],
+      "choices": [
+        "Derek Shepherd",
+        "John Carter",
+        "Perry Cox"
+      ],
+      "explanation": "Hugh Laurie l'incarne ; comme Holmes avec Watson, House a un seul véritable ami, le cancérologue James Wilson, et il habite au numéro 221B.",
+      "wikipedia": "Dr House"
+    },
+    {
+      "id": "cinema-tv-298",
+      "difficulty": 2,
+      "question": "Dans quelle ville se situe l'hôpital de la série « Urgences », qui révéla George Clooney ?",
+      "answer": "Chicago",
+      "accept": [],
+      "choices": [
+        "Boston",
+        "Seattle",
+        "Philadelphie"
+      ],
+      "explanation": "Créée par le romancier Michael Crichton, la série suit le service des urgences du County General Hospital pendant quinze saisons, de 1994 à 2009.",
+      "wikipedia": "Urgences (série télévisée)"
+    },
+    {
+      "id": "cinema-tv-299",
+      "difficulty": 2,
+      "question": "Quel acteur a incarné le commissaire Maigret dans la série de France 2, en imperméable et fumant la pipe, de 1991 à 2005 ?",
+      "answer": "Bruno Cremer",
+      "accept": [
+        "Cremer"
+      ],
+      "choices": [
+        "Jean Richard",
+        "Jean Gabin",
+        "Michel Bouquet"
+      ],
+      "explanation": "Avant lui, Jean Richard avait tenu le rôle pendant plus de vingt ans ; le personnage a été créé par le romancier belge Georges Simenon.",
+      "wikipedia": "Maigret (série télévisée, 1991)"
+    },
+    {
+      "id": "cinema-tv-300",
+      "difficulty": 1,
+      "question": "Quel inspecteur de la police criminelle de Munich, assisté de Harry Klein, a résolu des enquêtes pendant 281 épisodes ?",
+      "answer": "Derrick",
+      "accept": [
+        "Stephan Derrick"
+      ],
+      "choices": [
+        "Schimanski",
+        "Le Vieux",
+        "Rex"
+      ],
+      "explanation": "Interprété par Horst Tappert de 1974 à 1998, Stephan Derrick fut diffusé dans une centaine de pays, ce qui en fit l'une des séries allemandes les plus exportées.",
+      "wikipedia": "Inspecteur Derrick"
+    },
+    {
+      "id": "cinema-tv-301",
+      "difficulty": 1,
+      "question": "Comment s'appelle la voiture noire intelligente et parlante qui assiste Michael Knight dans « K 2000 » ?",
+      "answer": "KITT",
+      "accept": [],
+      "choices": [
+        "KARR",
+        "Bumblebee",
+        "Herbie"
+      ],
+      "explanation": "Construite sur une Pontiac Firebird Trans Am, KITT signifie « Knight Industries Two Thousand » ; son balayage lumineux rouge sur la calandre est devenu culte.",
+      "wikipedia": "K 2000 (série télévisée)"
+    },
+    {
+      "id": "cinema-tv-302",
+      "difficulty": 1,
+      "question": "Quel détective privé moustachu, vétéran du Viêt Nam, loge dans la propriété hawaïenne de l'écrivain Robin Masters ?",
+      "answer": "Magnum",
+      "accept": [
+        "Thomas Magnum"
+      ],
+      "choices": [
+        "Hooker",
+        "Mike Hammer",
+        "Simon Templar"
+      ],
+      "explanation": "Tom Selleck l'interprète au volant d'une Ferrari ; il est surveillé par le majordome Higgins et ses deux dobermans, Zeus et Apollon.",
+      "wikipedia": "Magnum (série télévisée, 1980)"
+    },
+    {
+      "id": "cinema-tv-303",
+      "difficulty": 3,
+      "question": "Quel agent maître du déguisement accompagne James West, à bord d'un train, dans « Les Mystères de l'Ouest » ?",
+      "answer": "Artemus Gordon",
+      "accept": [
+        "Gordon"
+      ],
+      "choices": [
+        "Miguelito Loveless",
+        "Jim Phelps",
+        "John Steed"
+      ],
+      "explanation": "La série mêle western et gadgets à la James Bond ; leur ennemi récurrent est le génial nain docteur Miguelito Loveless.",
+      "wikipedia": "Les Mystères de l'Ouest"
+    },
+    {
+      "id": "cinema-tv-304",
+      "difficulty": 2,
+      "question": "Sous quel titre français est connue l'anthologie fantastique de Rod Serling « The Twilight Zone » ?",
+      "answer": "La Quatrième Dimension",
+      "accept": [
+        "Quatrième Dimension"
+      ],
+      "choices": [
+        "Au-delà du réel",
+        "Les Contes de la crypte",
+        "Alfred Hitchcock présente"
+      ],
+      "explanation": "Rod Serling présentait lui-même chaque épisode ; la série, diffusée de 1959 à 1964, abordait par le fantastique les angoisses de la guerre froide.",
+      "wikipedia": "La Quatrième Dimension (série télévisée)"
+    },
+    {
+      "id": "cinema-tv-305",
+      "difficulty": 2,
+      "question": "Quelle sorcière mariée à un publicitaire jette ses sorts d'un simple mouvement du nez dans « Ma sorcière bien-aimée » ?",
+      "answer": "Samantha",
+      "accept": [
+        "Samantha Stephens"
+      ],
+      "choices": [
+        "Endora",
+        "Jeannie",
+        "Sabrina"
+      ],
+      "explanation": "Elizabeth Montgomery l'interprétait ; sa mère Endora méprise son mari Jean-Pierre, dont elle déforme sans cesse le prénom.",
+      "wikipedia": "Ma sorcière bien-aimée"
+    },
+    {
+      "id": "cinema-tv-306",
+      "difficulty": 2,
+      "question": "Quel personnage en blouson de cuir de « Happy Days » devint si populaire que la série faillit être rebaptisée à son nom ?",
+      "answer": "Fonzie",
+      "accept": [
+        "Arthur Fonzarelli",
+        "Fonz"
+      ],
+      "choices": [
+        "Richie Cunningham",
+        "Potsie",
+        "Ralph Malph"
+      ],
+      "explanation": "Henry Winkler, qui l'incarne, déteste en réalité les motos ; l'expression « sauter par-dessus le requin » vient d'un épisode où Fonzie saute un requin à ski nautique.",
+      "wikipedia": "Happy Days (série télévisée)"
+    },
+    {
+      "id": "cinema-tv-307",
+      "difficulty": 1,
+      "question": "Quels oiseaux absurdes de l'ORTF pompaient sans relâche et ne connaissaient que quatre mots : Ga, Bu, Zo, Meu ?",
+      "answer": "Shadoks",
+      "accept": [
+        "Les Shadoks"
+      ],
+      "choices": [
+        "Gibis",
+        "Barbapapas",
+        "Snorkies"
+      ],
+      "explanation": "Créés par Jacques Rouxel et commentés par Claude Piéplu, ils s'opposaient aux Gibis ; leur devise : « Pourquoi faire simple quand on peut faire compliqué ? »",
+      "wikipedia": "Les Shadoks"
+    },
+    {
+      "id": "cinema-tv-308",
+      "difficulty": 1,
+      "question": "Quel ours en peluche descendait chaque soir d'un nuage avec le Marchand de sable dans « Bonne nuit les petits » ?",
+      "answer": "Nounours",
+      "accept": [],
+      "choices": [
+        "Casimir",
+        "Colargol",
+        "Pimprenelle"
+      ],
+      "explanation": "Il venait souhaiter bonne nuit à Nicolas et Pimprenelle ; l'émission, créée par Claude Laydu, a débuté sur la télévision française en 1962.",
+      "wikipedia": "Bonne nuit les petits"
+    },
+    {
+      "id": "cinema-tv-309",
+      "difficulty": 2,
+      "question": "Quel chien à longs poils, gourmand de sucres, est l'un des héros du « Manège enchanté » ?",
+      "answer": "Pollux",
+      "accept": [],
+      "choices": [
+        "Zébulon",
+        "Pif",
+        "Idéfix"
+      ],
+      "explanation": "Dans la version originale française de Serge Danot, le ressort Zébulon fait bondir les personnages ; Pollux est devenu Dougal dans la version anglaise.",
+      "wikipedia": "Le Manège enchanté"
+    },
+    {
+      "id": "cinema-tv-310",
+      "difficulty": 2,
+      "question": "Quels animaux les équipes d'« Intervilles » doivent-elles esquiver lors des épreuves les plus célèbres du jeu ?",
+      "answer": "vachettes",
+      "accept": [
+        "vachette"
+      ],
+      "choices": [
+        "taureaux",
+        "chèvres",
+        "oies"
+      ],
+      "explanation": "Créé par Guy Lux en 1962, le jeu oppose deux villes dans des épreuves souvent glissantes, où les vachettes renversent les candidats sous les rires du public.",
+      "wikipedia": "Intervilles"
+    },
+    {
+      "id": "cinema-tv-311",
+      "difficulty": 1,
+      "question": "Quel vieux sage barbu pose ses énigmes aux candidats du haut de la vigie de « Fort Boyard » ?",
+      "answer": "Père Fouras",
+      "accept": [
+        "Fouras"
+      ],
+      "choices": [
+        "Passe-Partout",
+        "Félindra",
+        "Maître des ténèbres"
+      ],
+      "explanation": "Le fort, bâti au XIXe siècle entre l'île d'Aix et l'île d'Oléron, est situé non loin de la commune de Fouras, qui a inspiré son nom.",
+      "wikipedia": "Fort Boyard (jeu télévisé)"
+    },
+    {
+      "id": "cinema-tv-312",
+      "difficulty": 1,
+      "question": "Quelle émission satirique de Canal+ caricaturait l'actualité avec des marionnettes en latex des personnalités ?",
+      "answer": "Les Guignols de l'info",
+      "accept": [
+        "Les Guignols",
+        "Guignols de l'info"
+      ],
+      "choices": [
+        "Le Bébête Show",
+        "Groland",
+        "Spitting Image"
+      ],
+      "explanation": "Inspirée de l'émission britannique « Spitting Image », elle débuta en 1988 sous le titre « Les Arènes de l'info » ; sa marionnette de PPDA présentait le journal.",
+      "wikipedia": "Les Guignols de l'info"
+    },
+    {
+      "id": "cinema-tv-313",
+      "difficulty": 1,
+      "question": "Quelle grenouille verte, créée par Jim Henson, est le maître de cérémonie du « Muppet Show » ?",
+      "answer": "Kermit",
+      "accept": [
+        "Kermit la grenouille"
+      ],
+      "choices": [
+        "Gonzo",
+        "Fozzie",
+        "Piggy"
+      ],
+      "explanation": "Henson façonna la première version de Kermit avec un vieux manteau de sa mère et une balle de ping-pong coupée en deux pour les yeux.",
+      "wikipedia": "Kermit la grenouille"
+    },
+    {
+      "id": "cinema-tv-314",
+      "difficulty": 2,
+      "question": "Quel fantôme masqué hante le musée du Louvre dans un feuilleton de 1965 avec Juliette Gréco ?",
+      "answer": "Belphégor",
+      "accept": [],
+      "choices": [
+        "Fantômas",
+        "Judex",
+        "Rocambole"
+      ],
+      "explanation": "Adapté d'un roman d'Arthur Bernède, le feuilleton connut un succès tel que les rues de France se vidaient lors de sa diffusion.",
+      "wikipedia": "Belphégor ou le Fantôme du Louvre"
+    },
+    {
+      "id": "cinema-tv-315",
+      "difficulty": 2,
+      "question": "Quelle série d'ABC s'ouvre sur le crash du vol Oceanic 815 sur une île mystérieuse du Pacifique ?",
+      "answer": "Lost",
+      "accept": [
+        "Lost : Les Disparus",
+        "Les Disparus"
+      ],
+      "choices": [
+        "Prison Break",
+        "Heroes",
+        "Fringe"
+      ],
+      "explanation": "Coproduite par J. J. Abrams, la série est truffée d'énigmes comme la suite de nombres 4, 8, 15, 16, 23, 42 et une mystérieuse trappe souterraine.",
+      "wikipedia": "Lost : Les Disparus"
+    },
+    {
+      "id": "cinema-tv-316",
+      "difficulty": 3,
+      "question": "Pour quelle entreprise de vente de papier, à Scranton, travaillent les employés de la version américaine de « The Office » ?",
+      "answer": "Dunder Mifflin",
+      "accept": [],
+      "choices": [
+        "Sterling Cooper",
+        "Wernham Hogg",
+        "Initech"
+      ],
+      "explanation": "Adaptée de la série britannique de Ricky Gervais, elle adopte le style faux documentaire ; Steve Carell y incarne le patron Michael Scott.",
+      "wikipedia": "The Office (série télévisée, 2005)"
+    },
+    {
+      "id": "cinema-tv-317",
+      "difficulty": 2,
+      "question": "Pour quel service de renseignement extérieur français travaillent les espions du « Bureau des légendes » ?",
+      "answer": "DGSE",
+      "accept": [
+        "Direction générale de la Sécurité extérieure"
+      ],
+      "choices": [
+        "DGSI",
+        "DST",
+        "SDECE"
+      ],
+      "explanation": "Créée par Éric Rochant, la série suit des clandestins vivant sous identité fictive, appelée « légende » ; Mathieu Kassovitz y incarne Malotru.",
+      "wikipedia": "Le Bureau des légendes"
+    },
+    {
+      "id": "cinema-tv-318",
+      "difficulty": 1,
+      "question": "Dans quel quartier fictif de Marseille se déroule le feuilleton quotidien « Plus belle la vie » ?",
+      "answer": "Le Mistral",
+      "accept": [
+        "Mistral",
+        "quartier du Mistral"
+      ],
+      "choices": [
+        "Le Panier",
+        "La Canebière",
+        "Le Vieux-Port"
+      ],
+      "explanation": "Lancé sur France 3 en 2004, le feuilleton a pour lieu emblématique le bar du Mistral, tenu par Roland Marci.",
+      "wikipedia": "Plus belle la vie"
+    },
+    {
+      "id": "cinema-tv-319",
+      "difficulty": 1,
+      "question": "Dans quel type d'installation Homer Simpson travaille-t-il comme inspecteur de la sécurité, au secteur 7G ?",
+      "answer": "centrale nucléaire",
+      "accept": [
+        "centrale"
+      ],
+      "choices": [
+        "brasserie",
+        "usine chimique",
+        "raffinerie"
+      ],
+      "explanation": "Il y est employé par le richissime M. Burns ; Matt Groening a donné à Homer et à sa famille les prénoms de ses propres parents et sœurs.",
+      "wikipedia": "Homer Simpson"
+    },
+    {
+      "id": "cinema-tv-320",
+      "difficulty": 1,
+      "question": "Quel écolier en anorak orange de « South Park » meurt dans presque chaque épisode des premières saisons ?",
+      "answer": "Kenny McCormick",
+      "accept": [
+        "Kenny"
+      ],
+      "choices": [
+        "Eric Cartman",
+        "Stan Marsh",
+        "Kyle Broflovski"
+      ],
+      "explanation": "Ses amis s'exclament alors « Oh mon Dieu, ils ont tué Kenny ! » ; la capuche serrée de son anorak rend ses paroles inaudibles.",
+      "wikipedia": "Kenny McCormick"
+    },
+    {
+      "id": "cinema-tv-321",
+      "difficulty": 2,
+      "question": "Quel livreur de pizzas cryogénisé par accident se réveille en l'an 3000 dans « Futurama » ?",
+      "answer": "Fry",
+      "accept": [
+        "Philip J. Fry",
+        "Philip Fry"
+      ],
+      "choices": [
+        "Bender",
+        "Zoidberg",
+        "Hermes"
+      ],
+      "explanation": "Créée par Matt Groening, la série le fait travailler pour la société de livraison Planet Express, aux côtés du robot alcoolique Bender et de la cyclope Leela.",
+      "wikipedia": "Futurama"
+    },
+    {
+      "id": "cinema-tv-322",
+      "difficulty": 1,
+      "question": "Quel habitant de Caillouville, ouvrier dans une carrière, pousse son célèbre cri « Yabba Dabba Doo » ?",
+      "answer": "Fred Pierrafeu",
+      "accept": [
+        "Fred",
+        "Fred Flintstone"
+      ],
+      "choices": [
+        "Barney Laroche",
+        "Scooby-Doo",
+        "Yogi"
+      ],
+      "explanation": "Produits par Hanna-Barbera dès 1960, « Les Pierrafeu » furent diffusés en première partie de soirée sur ABC, une rareté pour un dessin animé à l'époque.",
+      "wikipedia": "Les Pierrafeu"
+    },
+    {
+      "id": "cinema-tv-323",
+      "difficulty": 2,
+      "question": "Comment s'appelle la camionnette aux couleurs psychédéliques de Scooby-Doo et de ses amis ?",
+      "answer": "Mystery Machine",
+      "accept": [],
+      "choices": [
+        "Batmobile",
+        "Magic Bus",
+        "Ecto-1"
+      ],
+      "explanation": "Scooby-Doo, dogue allemand peureux, mène l'enquête avec Sammy, Fred, Daphné et Véra ; à la fin, le « monstre » démasqué se révèle un humain.",
+      "wikipedia": "Scooby-Doo"
+    },
+    {
+      "id": "cinema-tv-324",
+      "difficulty": 2,
+      "question": "Quel duo d'animateurs de la MGM a créé Tom et Jerry, avant de fonder son propre studio de télévision ?",
+      "answer": "Hanna-Barbera",
+      "accept": [
+        "Hanna et Barbera",
+        "William Hanna et Joseph Barbera"
+      ],
+      "choices": [
+        "Warner Bros",
+        "Fleischer",
+        "Tex Avery"
+      ],
+      "explanation": "William Hanna et Joseph Barbera furent récompensés sept fois par l'Oscar du meilleur court métrage d'animation, avant de créer les Pierrafeu et Scooby-Doo.",
+      "wikipedia": "Tom et Jerry"
+    },
+    {
+      "id": "cinema-tv-325",
+      "difficulty": 2,
+      "question": "De quelle entreprise fictive le coyote commande-t-il tous ses gadgets pour attraper Bip Bip ?",
+      "answer": "Acme",
+      "accept": [
+        "Acme Corporation"
+      ],
+      "choices": [
+        "Wonka",
+        "Initech",
+        "Cyberdyne"
+      ],
+      "explanation": "Créés par Chuck Jones pour la Warner, les dessins animés suivent des règles strictes : Bip Bip ne quitte jamais la route et le coyote se blesse toujours lui-même.",
+      "wikipedia": "Bip Bip et Coyote"
+    },
+    {
+      "id": "cinema-tv-326",
+      "difficulty": 1,
+      "question": "Quel petit canari jaune échappe sans cesse aux griffes du chat Grosminet ?",
+      "answer": "Titi",
+      "accept": [
+        "Tweety"
+      ],
+      "choices": [
+        "Woodstock",
+        "Piou-Piou",
+        "Woody"
+      ],
+      "explanation": "Créés pour la Warner, les deux personnages sont célèbres pour la phrase de Titi « J'ai cru voir un rominet », prononcée chaque fois qu'il aperçoit le chat.",
+      "wikipedia": "Titi et Grosminet"
+    },
+    {
+      "id": "cinema-tv-327",
+      "difficulty": 1,
+      "question": "Quel légume en conserve décuple instantanément la force de Popeye, le marin à la pipe ?",
+      "answer": "épinards",
+      "accept": [
+        "épinard"
+      ],
+      "choices": [
+        "haricots",
+        "petits pois",
+        "brocolis"
+      ],
+      "explanation": "Créé dans une bande dessinée d'Elzie Crisler Segar, Popeye a été attribué à une hausse de la consommation d'épinards aux États-Unis dans les années 1930.",
+      "wikipedia": "Popeye"
+    },
+    {
+      "id": "cinema-tv-328",
+      "difficulty": 2,
+      "question": "Quel compositeur américain a écrit le thème jazzy de « La Panthère rose » ?",
+      "answer": "Henry Mancini",
+      "accept": [
+        "Mancini"
+      ],
+      "choices": [
+        "John Williams",
+        "Lalo Schifrin",
+        "Quincy Jones"
+      ],
+      "explanation": "Composé pour le film de Blake Edwards en 1963, le thème fut repris par le dessin animé du même nom ; Mancini a aussi signé « Moon River ».",
+      "wikipedia": "Henry Mancini"
+    },
+    {
+      "id": "cinema-tv-329",
+      "difficulty": 2,
+      "question": "Quel prince de la planète Euphor, réfugié sur Terre, pilote le robot géant Goldorak ?",
+      "answer": "Actarus",
+      "accept": [
+        "Duke Fleed"
+      ],
+      "choices": [
+        "Alcor",
+        "Albator",
+        "Goldorak"
+      ],
+      "explanation": "Diffusé dans « Récré A2 » à partir de 1978, Goldorak déclencha l'engouement français pour l'animation japonaise ; Actarus est caché au ranch du Bouleau blanc.",
+      "wikipedia": "Goldorak"
+    },
+    {
+      "id": "cinema-tv-330",
+      "difficulty": 1,
+      "question": "Combien de boules de cristal faut-il réunir pour invoquer le dragon sacré dans « Dragon Ball » ?",
+      "answer": "sept",
+      "accept": [
+        "7"
+      ],
+      "choices": [
+        "cinq",
+        "neuf",
+        "douze"
+      ],
+      "explanation": "Le manga d'Akira Toriyama s'inspire du roman chinois « La Pérégrination vers l'Ouest » ; son héros Son Goku est un garçon à queue de singe doué en arts martiaux.",
+      "wikipedia": "Dragon Ball"
+    },
+    {
+      "id": "cinema-tv-331",
+      "difficulty": 1,
+      "question": "Quel Pokémon jaune aux joues rouges, de type électrique, est le fidèle compagnon de Sacha dans le dessin animé ?",
+      "answer": "Pikachu",
+      "accept": [],
+      "choices": [
+        "Salamèche",
+        "Évoli",
+        "Rondoudou"
+      ],
+      "explanation": "Son nom combine deux onomatopées japonaises : « pika », le crépitement de l'électricité, et « chu », le cri de la souris.",
+      "wikipedia": "Pikachu"
+    },
+    {
+      "id": "cinema-tv-332",
+      "difficulty": 2,
+      "question": "Sous la protection de quelle constellation se place Seiya, héros des « Chevaliers du Zodiaque » ?",
+      "answer": "Pégase",
+      "accept": [],
+      "choices": [
+        "Dragon",
+        "Phénix",
+        "Cygne"
+      ],
+      "explanation": "Le manga de Masami Kurumada mêle mythologie grecque et combats ; les chevaliers protègent la déesse Athéna, réincarnée en Saori Kido.",
+      "wikipedia": "Saint Seiya"
+    },
+    {
+      "id": "cinema-tv-333",
+      "difficulty": 2,
+      "question": "Quel jeune orphelin, porteur d'un médaillon, part en quête des « Mystérieuses Cités d'or » au XVIe siècle ?",
+      "answer": "Esteban",
+      "accept": [],
+      "choices": [
+        "Zia",
+        "Tao",
+        "Mendoza"
+      ],
+      "explanation": "Coproduction franco-japonaise diffusée en 1983, la série se terminait par un documentaire sur les civilisations précolombiennes ; Esteban voyage avec Zia et Tao.",
+      "wikipedia": "Les Mystérieuses Cités d'or (série télévisée d'animation, 1982)"
+    },
+    {
+      "id": "cinema-tv-334",
+      "difficulty": 2,
+      "question": "Quel vieux savant à longue barbe blanche apparaît dans toutes les séries « Il était une fois… » d'Albert Barillé ?",
+      "answer": "Maestro",
+      "accept": [],
+      "choices": [
+        "Merlin",
+        "Professeur Tournesol",
+        "Le Grand Schtroumpf"
+      ],
+      "explanation": "Les séries éducatives de Barillé racontent l'Homme, l'espace, la vie ou les découvreurs, avec une troupe de personnages récurrents qui changent de rôle à chaque série.",
+      "wikipedia": "Il était une fois… l'Homme"
+    },
+    {
+      "id": "cinema-tv-335",
+      "difficulty": 2,
+      "question": "Comment s'appelle le chat roux de Gargamel, toujours prêt à croquer les Schtroumpfs ?",
+      "answer": "Azraël",
+      "accept": [
+        "Azrael"
+      ],
+      "choices": [
+        "Grosminet",
+        "Figaro",
+        "Lucifer"
+      ],
+      "explanation": "Créés par le Belge Peyo en 1958, les Schtroumpfs ont été popularisés dans le monde par le dessin animé de Hanna-Barbera.",
+      "wikipedia": "Les Schtroumpfs"
+    },
+    {
+      "id": "cinema-tv-336",
+      "difficulty": 3,
+      "question": "Comment s'appelle le chien de Sophie, la nièce débrouillarde de l'Inspecteur Gadget ?",
+      "answer": "Finot",
+      "accept": [
+        "Brain"
+      ],
+      "choices": [
+        "Pataud",
+        "Milou",
+        "Rantanplan"
+      ],
+      "explanation": "Coproduction franco-américaine de DIC, la série oppose le policier gaffeur au Docteur Gang, dont on ne voit jamais le visage mais seulement la main et le chat.",
+      "wikipedia": "Inspecteur Gadget (série télévisée d'animation, 1983)"
+    },
+    {
+      "id": "cinema-tv-337",
+      "difficulty": 2,
+      "question": "Quel petit robot rond, ami de Télémaque, accompagne le héros de « Ulysse 31 » dans son odyssée spatiale ?",
+      "answer": "Nono",
+      "accept": [],
+      "choices": [
+        "Gédéon",
+        "Clank",
+        "R2-D2"
+      ],
+      "explanation": "La série franco-japonaise transpose l'Odyssée d'Homère au XXXIe siècle ; Ulysse doit retrouver le chemin de la Terre après avoir offensé les dieux de l'Olympe.",
+      "wikipedia": "Ulysse 31"
+    },
+    {
+      "id": "cinema-tv-338",
+      "difficulty": 2,
+      "question": "Quel rat, maître en arts martiaux, a entraîné les quatre Tortues Ninja dans les égouts de New York ?",
+      "answer": "Splinter",
+      "accept": [
+        "Maître Splinter"
+      ],
+      "choices": [
+        "Shredder",
+        "Krang",
+        "Bebop"
+      ],
+      "explanation": "Les tortues portent les prénoms de peintres de la Renaissance : Leonardo, Michelangelo, Donatello et Raphael ; elles vivent dans les égouts et raffolent de pizza.",
+      "wikipedia": "Tortues Ninja"
+    },
+    {
+      "id": "cinema-tv-339",
+      "difficulty": 2,
+      "question": "Quel réalisateur français a créé le petit Kirikou, qui affronte la sorcière Karaba dans un village d'Afrique de l'Ouest ?",
+      "answer": "Michel Ocelot",
+      "accept": [
+        "Ocelot"
+      ],
+      "choices": [
+        "Sylvain Chomet",
+        "Paul Grimault",
+        "René Laloux"
+      ],
+      "explanation": "Sorti en 1998 avec une musique de Youssou N'Dour, le film a prouvé qu'un long métrage d'animation français pouvait rencontrer un grand succès en salles.",
+      "wikipedia": "Kirikou et la Sorcière"
+    },
+    {
+      "id": "cinema-tv-340",
+      "difficulty": 3,
+      "question": "Quel dessinateur a conçu l'univers graphique de « La Planète sauvage », film d'animation de René Laloux ?",
+      "answer": "Roland Topor",
+      "accept": [
+        "Topor"
+      ],
+      "choices": [
+        "Moebius",
+        "Philippe Druillet",
+        "Enki Bilal"
+      ],
+      "explanation": "Prix spécial du jury à Cannes en 1973, le film montre des humains, les Oms, domestiqués par les Draags, géants bleus d'une planète lointaine.",
+      "wikipedia": "La Planète sauvage"
+    },
+    {
+      "id": "cinema-tv-341",
+      "difficulty": 2,
+      "question": "Quel studio, fondé notamment par Steven Spielberg, a produit « Shrek », l'ogre vert vivant dans un marais ?",
+      "answer": "DreamWorks",
+      "accept": [
+        "DreamWorks Animation",
+        "DreamWorks SKG"
+      ],
+      "choices": [
+        "Pixar",
+        "Illumination",
+        "Blue Sky"
+      ],
+      "explanation": "Shrek a remporté en 2002 le tout premier Oscar du meilleur film d'animation ; le personnage vient d'un album pour enfants de William Steig.",
+      "wikipedia": "Shrek (film)"
+    },
+    {
+      "id": "cinema-tv-342",
+      "difficulty": 1,
+      "question": "Quel poisson-chirurgien bleu souffrant de troubles de la mémoire aide Marin à retrouver son fils dans « Le Monde de Nemo » ?",
+      "answer": "Dory",
+      "accept": [],
+      "choices": [
+        "Gill",
+        "Crush",
+        "Bruce"
+      ],
+      "explanation": "Après la sortie du film, la demande de poissons-clowns dans les animaleries a explosé ; Dory a ensuite eu son propre film, « Le Monde de Dory ».",
+      "wikipedia": "Le Monde de Nemo"
+    },
+    {
+      "id": "cinema-tv-343",
+      "difficulty": 3,
+      "question": "Comment s'appelle la petite styliste de super-héros, farouchement opposée aux capes, dans « Les Indestructibles » ?",
+      "answer": "Edna Mode",
+      "accept": [
+        "Edna"
+      ],
+      "choices": [
+        "Mirage",
+        "Frozone",
+        "Violette"
+      ],
+      "explanation": "Doublée en version originale par le réalisateur Brad Bird lui-même, elle s'inspirerait de la costumière hollywoodienne Edith Head.",
+      "wikipedia": "Les Indestructibles"
+    },
+    {
+      "id": "cinema-tv-344",
+      "difficulty": 2,
+      "question": "Quel film du studio Ghibli met en scène une jeune apprentie sorcière livreuse, accompagnée de son chat noir Jiji ?",
+      "answer": "Kiki la petite sorcière",
+      "accept": [
+        "Kiki"
+      ],
+      "choices": [
+        "Ponyo sur la falaise",
+        "Le Château ambulant",
+        "Princesse Mononoké"
+      ],
+      "explanation": "Adapté d'un roman d'Eiko Kadono, le film de Miyazaki suit Kiki qui, à treize ans, doit quitter sa famille pour vivre seule une année dans une ville inconnue.",
+      "wikipedia": "Kiki la petite sorcière"
+    },
+    {
+      "id": "cinema-tv-345",
+      "difficulty": 3,
+      "question": "Quel cofondateur du studio Ghibli a réalisé « Le Tombeau des lucioles », sur deux orphelins japonais en 1945 ?",
+      "answer": "Isao Takahata",
+      "accept": [
+        "Takahata"
+      ],
+      "choices": [
+        "Mamoru Oshii",
+        "Satoshi Kon",
+        "Katsuhiro Otomo"
+      ],
+      "explanation": "Adapté d'une nouvelle d'Akiyuki Nosaka, le film, jugé très sombre, sortit au Japon en même temps que « Mon voisin Totoro ».",
+      "wikipedia": "Le Tombeau des lucioles"
+    },
+    {
+      "id": "cinema-tv-346",
+      "difficulty": 1,
+      "question": "Quel canard milliardaire, oncle de Donald, aime plonger dans son coffre rempli de pièces d'or ?",
+      "answer": "Picsou",
+      "accept": [
+        "Balthazar Picsou",
+        "Oncle Picsou",
+        "Scrooge McDuck"
+      ],
+      "choices": [
+        "Gontran",
+        "Géo Trouvetou",
+        "Grand-Mère Donald"
+      ],
+      "explanation": "Créé par Carl Barks en 1947, il conserve précieusement son « sou fétiche », première pièce gagnée, que convoite la sorcière Miss Tick.",
+      "wikipedia": "Balthazar Picsou"
+    },
+    {
+      "id": "cinema-tv-347",
+      "difficulty": 1,
+      "question": "Quelle petite créature ailée et jalouse accompagne Peter Pan au Pays imaginaire dans le film de Disney ?",
+      "answer": "Clochette",
+      "accept": [
+        "Fée Clochette",
+        "Tinker Bell"
+      ],
+      "choices": [
+        "Wendy",
+        "Lili la Tigresse",
+        "Mouche"
+      ],
+      "explanation": "Créée par J. M. Barrie dans sa pièce « Peter Pan » en 1904, elle a connu de nombreuses adaptations avant d'avoir ses propres films Disney à partir de 2008.",
+      "wikipedia": "Fée Clochette"
+    },
+    {
+      "id": "cinema-tv-348",
+      "difficulty": 2,
+      "question": "Quel formulaire Astérix et Obélix doivent-ils obtenir dans « la maison qui rend fou » des « Douze Travaux d'Astérix » ?",
+      "answer": "laissez-passer A-38",
+      "accept": [
+        "A-38",
+        "A38",
+        "laissez-passer A38"
+      ],
+      "choices": [
+        "formulaire B-65",
+        "permis C-12",
+        "laissez-passer B-52"
+      ],
+      "explanation": "Réalisé par Goscinny et Uderzo en 1976, ce film d'animation est une histoire originale ; la séquence est devenue une référence pour décrire l'absurdité administrative.",
+      "wikipedia": "Les Douze Travaux d'Astérix"
+    },
+    {
+      "id": "cinema-tv-349",
+      "difficulty": 2,
+      "question": "Quel petit manchot en pâte à modeler, héros d'une série suisse, parle une langue inventée faite de borborygmes ?",
+      "answer": "Pingu",
+      "accept": [],
+      "choices": [
+        "Pingo",
+        "Tux",
+        "Gromit"
+      ],
+      "explanation": "Développée pour la télévision suisse par Otmar Gutmann, cette série d'animation en volume compte 156 épisodes de cinq minutes ; Pingu vit dans un igloo en Antarctique.",
+      "wikipedia": "Pingu"
+    },
+    {
+      "id": "cinema-tv-350",
+      "difficulty": 2,
+      "question": "Dans quelle ville sous-marine Bob l'éponge vit-il, dans un ananas, près de son ami l'étoile de mer Patrick ?",
+      "answer": "Bikini Bottom",
+      "accept": [],
+      "choices": [
+        "Atlantis",
+        "Bedrock",
+        "Springfield"
+      ],
+      "explanation": "Créée par Stephen Hillenburg, la série suit une éponge de mer naïve qui travaille comme cuisinier au Crabe Croustillant.",
+      "wikipedia": "Bob l'éponge"
+    },
+    {
+      "id": "cinema-tv-351",
+      "difficulty": 3,
+      "question": "Quel savant, dont le cerveau a été implanté dans un petit robot volant, accompagne Capitaine Flam ?",
+      "answer": "Simon Wright",
+      "accept": [
+        "Simon",
+        "professeur Simon"
+      ],
+      "choices": [
+        "Crag",
+        "Mala",
+        "Ken Scott"
+      ],
+      "explanation": "Adaptée des romans d'Edmond Hamilton, la série japonaise réunit aussi le robot humanoïde Crag et l'androïde Mala, capable de changer d'apparence.",
+      "wikipedia": "Capitaine Flam"
+    },
+    {
+      "id": "cinema-tv-352",
+      "difficulty": 1,
+      "question": "Quel chat bleu est harcelé chez lui par trois cafards nommés Joey, Marky et Deedee ?",
+      "answer": "Oggy",
+      "accept": [],
+      "choices": [
+        "Garfield",
+        "Grosminet",
+        "Tom"
+      ],
+      "explanation": "« Oggy et les Cafards » est produit par le studio français Xilam ; la série est presque muette, sans dialogues, ce qui facilite sa diffusion dans le monde entier.",
+      "wikipedia": "Oggy et les Cafards"
+    },
+    {
+      "id": "cinema-tv-353",
+      "difficulty": 1,
+      "question": "Quel petit poussin noir, coiffé d'une coquille d'œuf, répète que « c'est vraiment trop injuste » ?",
+      "answer": "Calimero",
+      "accept": [],
+      "choices": [
+        "Piou-Piou",
+        "Titi",
+        "Woodstock"
+      ],
+      "explanation": "Né dans une publicité italienne pour une lessive en 1963, Calimero a donné son nom en français à toute personne qui se plaint d'être mal traitée.",
+      "wikipedia": "Calimero (personnage)"
+    },
+    {
+      "id": "cinema-tv-354",
+      "difficulty": 1,
+      "question": "Quels oursons colorés, portant chacun un symbole sur le ventre, vivent dans un royaume au milieu des nuages ?",
+      "answer": "Bisounours",
+      "accept": [
+        "Care Bears"
+      ],
+      "choices": [
+        "Barbapapa",
+        "Schtroumpfs",
+        "Snorky"
+      ],
+      "explanation": "Créés en 1981 pour des cartes de vœux américaines, les « Care Bears » sont devenus des peluches puis des dessins animés à succès.",
+      "wikipedia": "Bisounours"
+    },
+    {
+      "id": "cinema-tv-355",
+      "difficulty": 1,
+      "question": "Sous quelle forme animale Robin des Bois apparaît-il dans le film d'animation de Disney de 1973 ?",
+      "answer": "renard",
+      "accept": [],
+      "choices": [
+        "loup",
+        "lion",
+        "blaireau"
+      ],
+      "explanation": "Disney envisageait d'adapter le « Roman de Renart » dès les années 1930 ; le film réutilise aussi des éléments d'animation de précédentes productions du studio.",
+      "wikipedia": "Robin des Bois (film, 1973)"
+    },
+    {
+      "id": "cinema-tv-356",
+      "difficulty": 2,
+      "question": "Quel chat de gouttière séduit Duchesse et l'aide à rentrer à Paris dans « Les Aristochats » ?",
+      "answer": "Thomas O'Malley",
+      "accept": [
+        "O'Malley"
+      ],
+      "choices": [
+        "Lucifer",
+        "Scat Cat",
+        "Edgar"
+      ],
+      "explanation": "Le majordome Edgar enlève les chats pour hériter de leur maîtresse ; le film de 1970 se déroule dans le Paris de la Belle Époque.",
+      "wikipedia": "Les Aristochats"
+    },
+    {
+      "id": "cinema-tv-357",
+      "difficulty": 1,
+      "question": "Quel film de Pixar se déroule dans la tête de Riley, une fillette dont les émotions sont personnifiées ?",
+      "answer": "Vice-versa",
+      "accept": [
+        "Vice versa",
+        "Inside Out"
+      ],
+      "choices": [
+        "Coco",
+        "Soul",
+        "Alerte rouge"
+      ],
+      "explanation": "Joie, Tristesse, Colère, Peur et Dégoût pilotent le quartier général du cerveau de Riley après le déménagement de sa famille à San Francisco.",
+      "wikipedia": "Vice-versa (film, 2015)"
+    },
+    {
+      "id": "cinema-tv-358",
+      "difficulty": 1,
+      "question": "Comment s'appelle la voiture de course rouge portant le numéro 95, héroïne du film « Cars » de Pixar ?",
+      "answer": "Flash McQueen",
+      "accept": [
+        "Lightning McQueen",
+        "McQueen"
+      ],
+      "choices": [
+        "Martin",
+        "Doc Hudson",
+        "Chick Hicks"
+      ],
+      "explanation": "Perdu sur la Route 66, il échoue dans la petite ville de Radiator Springs ; le numéro 95 rappelle l'année de sortie de « Toy Story ».",
+      "wikipedia": "Cars (film)"
+    },
+    {
+      "id": "cinema-tv-359",
+      "difficulty": 1,
+      "question": "Quel écureuil à dents de sabre poursuit obstinément un gland dans la saga « L'Âge de glace » ?",
+      "answer": "Scrat",
+      "accept": [],
+      "choices": [
+        "Sid",
+        "Diego",
+        "Manny"
+      ],
+      "explanation": "Créé par Blue Sky Studios, ce personnage muet ouvre le premier film en cherchant où cacher son gland, et provoque en l'enfonçant une brèche dans la glace.",
+      "wikipedia": "L'Âge de glace"
+    },
+    {
+      "id": "cinema-tv-360",
+      "difficulty": 1,
+      "question": "Comment s'appellent les petites créatures jaunes en salopette, au service du méchant Gru dans « Moi, moche et méchant » ?",
+      "answer": "Minions",
+      "accept": [
+        "Minion",
+        "Les Minions"
+      ],
+      "choices": [
+        "Lapins crétins",
+        "Gremlins",
+        "Oompa-Loompas"
+      ],
+      "explanation": "Ils parlent un charabia mêlant plusieurs langues ; le réalisateur français Pierre Coffin leur prête sa voix.",
+      "wikipedia": "Moi, moche et méchant"
+    },
+    {
+      "id": "cinema-tv-361",
+      "difficulty": 2,
+      "question": "Quel petit basset impassible, créé par Tex Avery, surgit toujours devant ses poursuivants ?",
+      "answer": "Droopy",
+      "accept": [],
+      "choices": [
+        "Pluto",
+        "Snoopy",
+        "Dingo"
+      ],
+      "explanation": "Apparu en 1943 à la MGM, il conclut souvent ses dessins animés d'un flegmatique « You know what ? I'm happy » d'une voix monotone.",
+      "wikipedia": "Droopy"
+    },
+    {
+      "id": "cinema-tv-362",
+      "difficulty": 2,
+      "question": "Quel méchant moustachu triche à chaque course des « Fous du volant », avec son chien ricaneur Diabolo ?",
+      "answer": "Satanas",
+      "accept": [
+        "Dick Dastardly"
+      ],
+      "choices": [
+        "Pierre de la Roche",
+        "Gargamel",
+        "Penelope Jolicoeur"
+      ],
+      "explanation": "Malgré ses tours pendables joués aux autres concurrents, Satanas se fait systématiquement prendre à son propre jeu ; il a ensuite eu sa propre série avec Diabolo.",
+      "wikipedia": "Les Fous du volant (série télévisée d'animation, 1968)"
+    },
+    {
+      "id": "cinema-tv-363",
+      "difficulty": 2,
+      "question": "Quel petit âne en peluche, toujours mélancolique, égare parfois sa longue queue dans les aventures de Winnie l'ourson ?",
+      "answer": "Bourriquet",
+      "accept": [
+        "Eeyore"
+      ],
+      "choices": [
+        "Porcinet",
+        "Tigrou",
+        "Coco Lapin"
+      ],
+      "explanation": "Créé par A. A. Milne pour ses livres sur Winnie l'ourson, publiés à partir de 1926, il est devenu un personnage majeur des adaptations de Disney.",
+      "wikipedia": "Bourriquet"
+    },
+    {
+      "id": "cinema-tv-364",
+      "difficulty": 1,
+      "question": "Quelle fée maléfique se transforme en dragon pour affronter le prince Philippe dans « La Belle au bois dormant » de Disney ?",
+      "answer": "Maléfique",
+      "accept": [
+        "Maleficent"
+      ],
+      "choices": [
+        "Cruella",
+        "Ursula",
+        "Jafar"
+      ],
+      "explanation": "Vexée de ne pas avoir été invitée au baptême d'Aurore, elle lui jette un sort ; l'actrice Angelina Jolie l'a incarnée au cinéma en 2014.",
+      "wikipedia": "La Belle au bois dormant (film, 1959)"
+    },
+    {
+      "id": "cinema-tv-365",
+      "difficulty": 1,
+      "question": "Quel personnage jaune en forme de disque dévore des pac-gommes, poursuivi par quatre fantômes dans un labyrinthe ?",
+      "answer": "Pac-Man",
+      "accept": [
+        "Pacman"
+      ],
+      "choices": [
+        "Kirby",
+        "Q*bert",
+        "Dig Dug"
+      ],
+      "explanation": "Créé par Tōru Iwatani pour Namco, le jeu s'appelait d'abord « Puckman » ; ses quatre fantômes se nomment Blinky, Pinky, Inky et Clyde.",
+      "wikipedia": "Pac-Man"
+    },
+    {
+      "id": "cinema-tv-366",
+      "difficulty": 2,
+      "question": "Dans quel jeu d'arcade de Nintendo, sorti en 1981, Mario apparaît-il pour la première fois sous le nom de Jumpman ?",
+      "answer": "Donkey Kong",
+      "accept": [],
+      "choices": [
+        "Mario Bros.",
+        "Space Invaders",
+        "Popeye"
+      ],
+      "explanation": "Il y était charpentier et devait sauver Pauline des griffes d'un gorille ; son nom viendrait de Mario Segale, propriétaire de l'entrepôt de Nintendo of America.",
+      "wikipedia": "Mario (personnage)"
+    },
+    {
+      "id": "cinema-tv-367",
+      "difficulty": 1,
+      "question": "Quel frère vêtu de vert, plus grand et plus peureux, accompagne Mario dans ses aventures ?",
+      "answer": "Luigi",
+      "accept": [],
+      "choices": [
+        "Wario",
+        "Toad",
+        "Yoshi"
+      ],
+      "explanation": "Né pour le jeu « Mario Bros. » de 1983 afin d'offrir un second joueur, Luigi a eu droit à sa propre série de jeux, « Luigi's Mansion ».",
+      "wikipedia": "Luigi"
+    },
+    {
+      "id": "cinema-tv-368",
+      "difficulty": 1,
+      "question": "Quelle princesse du Royaume Champignon est régulièrement enlevée par Bowser dans les jeux « Super Mario » ?",
+      "answer": "Peach",
+      "accept": [
+        "Princesse Peach",
+        "Toadstool"
+      ],
+      "choices": [
+        "Daisy",
+        "Zelda",
+        "Pauline"
+      ],
+      "explanation": "Longtemps appelée Princesse Toadstool en Occident, elle tire son nom de la pêche, fruit censé repousser les forces maléfiques au Japon.",
+      "wikipedia": "Princesse Peach"
+    },
+    {
+      "id": "cinema-tv-369",
+      "difficulty": 1,
+      "question": "Comment s'appelle le héros à la tunique verte et au bonnet pointu de la série « The Legend of Zelda » ?",
+      "answer": "Link",
+      "accept": [],
+      "choices": [
+        "Zelda",
+        "Ganon",
+        "Navi"
+      ],
+      "explanation": "On le confond souvent avec Zelda, qui est en réalité la princesse ; son nom signifie « lien » en anglais, car il devait relier passé et futur.",
+      "wikipedia": "Link (The Legend of Zelda)"
+    },
+    {
+      "id": "cinema-tv-370",
+      "difficulty": 2,
+      "question": "Quel concepteur de Nintendo, ancien étudiant en design industriel, a créé Mario, Donkey Kong et « The Legend of Zelda » ?",
+      "answer": "Shigeru Miyamoto",
+      "accept": [
+        "Miyamoto"
+      ],
+      "choices": [
+        "Satoru Iwata",
+        "Gunpei Yokoi",
+        "Hideo Kojima"
+      ],
+      "explanation": "Né à Sonobe, au Japon, il travaille comme créateur chez Nintendo depuis 1977 ; Donkey Kong fut son premier grand succès.",
+      "wikipedia": "Shigeru Miyamoto"
+    },
+    {
+      "id": "cinema-tv-371",
+      "difficulty": 2,
+      "question": "Dans quel royaume se déroulent la plupart des aventures de Link et de la princesse Zelda ?",
+      "answer": "Hyrule",
+      "accept": [],
+      "choices": [
+        "Termina",
+        "Mushroom",
+        "Eternia"
+      ],
+      "explanation": "Les jeux mettent souvent en jeu la Triforce, relique divine formée de trois triangles d'or qui exauce les vœux de quiconque la touche.",
+      "wikipedia": "The Legend of Zelda"
+    },
+    {
+      "id": "cinema-tv-372",
+      "difficulty": 1,
+      "question": "Quelle entreprise japonaise a fait du hérisson bleu Sonic sa mascotte, pour rivaliser avec Mario ?",
+      "answer": "Sega",
+      "accept": [],
+      "choices": [
+        "Nintendo",
+        "Capcom",
+        "Namco"
+      ],
+      "explanation": "Sonic est né en 1991 sur la Mega Drive ; sa couleur bleue reprend celle du logo de Sega et ses chaussures s'inspirent de la pochette de « Bad » de Michael Jackson.",
+      "wikipedia": "Sonic"
+    },
+    {
+      "id": "cinema-tv-373",
+      "difficulty": 2,
+      "question": "Quel savant fou moustachu, aussi appelé Robotnik, est l'ennemi juré de Sonic ?",
+      "answer": "Eggman",
+      "accept": [
+        "Docteur Eggman",
+        "Dr Eggman",
+        "Robotnik",
+        "Docteur Robotnik",
+        "Dr Robotnik"
+      ],
+      "choices": [
+        "Bowser",
+        "Dr Wily",
+        "Dr Neo Cortex"
+      ],
+      "explanation": "Il emprisonne les animaux dans des robots ; en libérant les petites bêtes, Sonic détruit les machines de son ennemi.",
+      "wikipedia": "Eggman"
+    },
+    {
+      "id": "cinema-tv-374",
+      "difficulty": 2,
+      "question": "Quel chercheur soviétique a inventé le jeu « Tetris » au centre informatique de l'Académie des sciences de l'URSS ?",
+      "answer": "Alexeï Pajitnov",
+      "accept": [
+        "Pajitnov",
+        "Alexey Pajitnov"
+      ],
+      "choices": [
+        "Vladimir Pokhilko",
+        "Andreï Tarkovski",
+        "Sergueï Brin"
+      ],
+      "explanation": "Le nom combine « tétra », car chaque pièce compte quatre carrés, et « tennis », le sport favori de son créateur ; les droits du jeu firent l'objet d'une véritable guerre.",
+      "wikipedia": "Tetris"
+    },
+    {
+      "id": "cinema-tv-375",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les pièces formées de quatre carrés qui tombent dans « Tetris » ?",
+      "answer": "tétrominos",
+      "accept": [
+        "tétromino",
+        "tétrominoes",
+        "tétriminos",
+        "tétrimino"
+      ],
+      "choices": [
+        "pentominos",
+        "polycubes",
+        "dominos"
+      ],
+      "explanation": "En considérant les rotations comme équivalentes, il existe sept tétrominos ; compléter une ligne la fait disparaître, et en effacer quatre d'un coup s'appelle un « Tetris ».",
+      "wikipedia": "Tétromino"
+    },
+    {
+      "id": "cinema-tv-376",
+      "difficulty": 1,
+      "question": "Quel jeu d'arcade d'Atari, simulant une partie de tennis de table, a lancé l'industrie du jeu vidéo en 1972 ?",
+      "answer": "Pong",
+      "accept": [],
+      "choices": [
+        "Breakout",
+        "Asteroids",
+        "Tennis for Two"
+      ],
+      "explanation": "Le prototype fut testé en septembre 1972 dans un bar de Sunnyvale, l'Andy Capp's Tavern, où une file d'attente se forma pour jouer à la borne.",
+      "wikipedia": "Pong"
+    },
+    {
+      "id": "cinema-tv-377",
+      "difficulty": 1,
+      "question": "Quel jeu d'arcade de Taito oppose un canon laser à des vagues d'extraterrestres qui descendent en rangs serrés ?",
+      "answer": "Space Invaders",
+      "accept": [],
+      "choices": [
+        "Galaga",
+        "Asteroids",
+        "Defender"
+      ],
+      "explanation": "Conçu par Tomohiro Nishikado en 1978, le jeu voit sa vitesse et sa musique s'accélérer à mesure que le nombre d'envahisseurs diminue.",
+      "wikipedia": "Space Invaders"
+    },
+    {
+      "id": "cinema-tv-378",
+      "difficulty": 1,
+      "question": "Quelle console portable de Nintendo, lancée en 1989, était vendue avec le jeu « Tetris » ?",
+      "answer": "Game Boy",
+      "accept": [],
+      "choices": [
+        "Game Gear",
+        "Lynx",
+        "Nintendo DS"
+      ],
+      "explanation": "Conçue sous la direction de Gunpei Yokoi, elle affichait seulement quatre nuances de gris, mais son autonomie et son prix en firent un immense succès.",
+      "wikipedia": "Game Boy"
+    },
+    {
+      "id": "cinema-tv-379",
+      "difficulty": 1,
+      "question": "Dans quelle série de jeux vidéo l'archéologue britannique Lara Croft explore-t-elle des temples oubliés ?",
+      "answer": "Tomb Raider",
+      "accept": [],
+      "choices": [
+        "Uncharted",
+        "Prince of Persia",
+        "Indiana Jones"
+      ],
+      "explanation": "Le premier épisode sortit en 1996 ; l'aventurière a été incarnée au cinéma par Angelina Jolie, puis par Alicia Vikander.",
+      "wikipedia": "Tomb Raider"
+    },
+    {
+      "id": "cinema-tv-380",
+      "difficulty": 3,
+      "question": "Quel studio britannique de Derby a créé le personnage de Lara Croft ?",
+      "answer": "Core Design",
+      "accept": [],
+      "choices": [
+        "Rare",
+        "Psygnosis",
+        "Eidos Montréal"
+      ],
+      "explanation": "Installé à Derby, le studio, dont Toby Gard fut la figure clé, a été racheté par Rebellion avant de fermer définitivement en 2010.",
+      "wikipedia": "Core Design"
+    },
+    {
+      "id": "cinema-tv-381",
+      "difficulty": 2,
+      "question": "Quel héros sans bras ni jambes, aux mains et pieds flottants, a été créé par Michel Ancel pour Ubisoft ?",
+      "answer": "Rayman",
+      "accept": [],
+      "choices": [
+        "Sonic",
+        "Spyro",
+        "Crash Bandicoot"
+      ],
+      "explanation": "Né en 1995 sur PlayStation et Jaguar, Rayman a donné naissance aux Lapins crétins, qui ont fini par avoir leurs propres jeux et une série animée.",
+      "wikipedia": "Rayman (personnage)"
+    },
+    {
+      "id": "cinema-tv-382",
+      "difficulty": 3,
+      "question": "Quel concepteur américain a créé « Prince of Persia » en filmant son frère pour animer le héros de façon réaliste ?",
+      "answer": "Jordan Mechner",
+      "accept": [
+        "Mechner"
+      ],
+      "choices": [
+        "John Romero",
+        "Richard Garriott",
+        "Sid Meier"
+      ],
+      "explanation": "Il utilisa la rotoscopie : son frère, filmé en train de courir et de sauter, servit de modèle, chaque mouvement étant décalqué image par image.",
+      "wikipedia": "Jordan Mechner"
+    },
+    {
+      "id": "cinema-tv-383",
+      "difficulty": 1,
+      "question": "Quelle petite boule rose de Nintendo aspire ses ennemis pour copier leurs pouvoirs ?",
+      "answer": "Kirby",
+      "accept": [],
+      "choices": [
+        "Jigglypuff",
+        "Yoshi",
+        "Pac-Man"
+      ],
+      "explanation": "Créé par Masahiro Sakurai pour le Game Boy en 1992, il porterait le nom de John Kirby, avocat qui défendit Nintendo dans un procès contre Universal.",
+      "wikipedia": "Kirby (personnage)"
+    },
+    {
+      "id": "cinema-tv-384",
+      "difficulty": 3,
+      "question": "Quel concepteur japonais, passionné de chasse aux insectes dans son enfance, a imaginé les Pokémon ?",
+      "answer": "Satoshi Tajiri",
+      "accept": [
+        "Tajiri"
+      ],
+      "choices": [
+        "Shigeru Miyamoto",
+        "Akira Toriyama",
+        "Hideo Kojima"
+      ],
+      "explanation": "Il raconte avoir imaginé des insectes rampant le long du câble reliant deux Game Boy, d'où l'idée d'échanger des créatures entre joueurs.",
+      "wikipedia": "Satoshi Tajiri"
+    },
+    {
+      "id": "cinema-tv-385",
+      "difficulty": 3,
+      "question": "Quel concepteur américain a créé « SimCity » puis « Les Sims » ?",
+      "answer": "Will Wright",
+      "accept": [
+        "Wright"
+      ],
+      "choices": [
+        "Sid Meier",
+        "Peter Molyneux",
+        "Richard Garriott"
+      ],
+      "explanation": "Cofondateur de la société Maxis, rachetée par Electronic Arts en 1997, il a vu « Les Sims », sortis en 2000, devenir un immense succès.",
+      "wikipedia": "Will Wright"
+    },
+    {
+      "id": "cinema-tv-386",
+      "difficulty": 3,
+      "question": "Quel studio texan, cofondé par John Carmack et John Romero, a créé « Wolfenstein 3D » et « Doom » ?",
+      "answer": "id Software",
+      "accept": [
+        "id"
+      ],
+      "choices": [
+        "Epic Games",
+        "Valve",
+        "3D Realms"
+      ],
+      "explanation": "« Doom » a popularisé le jeu de tir à la première personne et les parties en réseau ; il a été distribué en partagiciel, gratuitement pour le premier épisode.",
+      "wikipedia": "id Software"
+    },
+    {
+      "id": "cinema-tv-387",
+      "difficulty": 3,
+      "question": "Quel personnage, scientifique pris dans une expérience ratée au complexe de Black Mesa, est le héros de « Half-Life » ?",
+      "answer": "Gordon Freeman",
+      "accept": [
+        "Freeman"
+      ],
+      "choices": [
+        "Duke Nukem",
+        "Master Chief",
+        "Doomguy"
+      ],
+      "explanation": "Black Mesa se trouve au Nouveau-Mexique, où l'expérience ouvre une brèche vers une autre dimension, Xen ; le jeu a lancé le studio Valve.",
+      "wikipedia": "Half-Life"
+    },
+    {
+      "id": "cinema-tv-388",
+      "difficulty": 2,
+      "question": "Quel concepteur japonais a créé la série d'infiltration « Metal Gear » et son héros Solid Snake ?",
+      "answer": "Hideo Kojima",
+      "accept": [
+        "Kojima"
+      ],
+      "choices": [
+        "Shinji Mikami",
+        "Hironobu Sakaguchi",
+        "Yu Suzuki"
+      ],
+      "explanation": "Sorti en 1987 sur MSX2, le premier « Metal Gear » est considéré comme le précurseur du jeu d'infiltration, où il faut éviter d'être repéré.",
+      "wikipedia": "Hideo Kojima"
+    },
+    {
+      "id": "cinema-tv-389",
+      "difficulty": 3,
+      "question": "Quel studio écossais, auteur de « Lemmings », a créé le premier « Grand Theft Auto » ?",
+      "answer": "DMA Design",
+      "accept": [
+        "Rockstar North"
+      ],
+      "choices": [
+        "Rare",
+        "Codemasters",
+        "Bullfrog"
+      ],
+      "explanation": "Fondé à Dundee par David Jones, le studio est devenu Rockstar North ; le premier GTA, en vue de dessus, est sorti en 1997.",
+      "wikipedia": "Rockstar North"
+    },
+    {
+      "id": "cinema-tv-390",
+      "difficulty": 2,
+      "question": "Quel héros orange de Naughty Dog, apparu en 1996 sur PlayStation, affronte le docteur Neo Cortex ?",
+      "answer": "Crash Bandicoot",
+      "accept": [
+        "Crash"
+      ],
+      "choices": [
+        "Spyro",
+        "Sonic",
+        "Rayman"
+      ],
+      "explanation": "Les quatre premiers jeux de la série ont été développés par Naughty Dog en exclusivité pour PlayStation, avant que d'autres studios ne prennent le relais.",
+      "wikipedia": "Crash Bandicoot"
+    },
+    {
+      "id": "cinema-tv-391",
+      "difficulty": 3,
+      "question": "Quel éditeur japonais a popularisé un code secret « haut, haut, bas, bas, gauche, droite, gauche, droite, B, A » ?",
+      "answer": "Konami",
+      "accept": [],
+      "choices": [
+        "Capcom",
+        "Namco",
+        "Square"
+      ],
+      "explanation": "Créé par Kazuhisa Hashimoto pour « Gradius », il est considéré comme le premier code de triche de l'histoire du jeu vidéo.",
+      "wikipedia": "Code Konami"
+    },
+    {
+      "id": "cinema-tv-392",
+      "difficulty": 1,
+      "question": "Quel dinosaure vert, à la très longue langue, sert de monture à Mario depuis « Super Mario World » ?",
+      "answer": "Yoshi",
+      "accept": [],
+      "choices": [
+        "Bowser",
+        "Rex",
+        "Koopa"
+      ],
+      "explanation": "Miyamoto voulait offrir une monture à Mario dès le premier jeu, mais la NES n'était pas assez puissante ; Yoshi pond des œufs qu'il lance sur ses ennemis.",
+      "wikipedia": "Yoshi"
+    },
+    {
+      "id": "cinema-tv-393",
+      "difficulty": 2,
+      "question": "Quel rival de Mario, vêtu de jaune et de violet, porte un « W » sur sa casquette ?",
+      "answer": "Wario",
+      "accept": [],
+      "choices": [
+        "Waluigi",
+        "Bowser",
+        "Luigi"
+      ],
+      "explanation": "Apparu en 1992 dans « Super Mario Land 2 », son nom combine « Mario » et le mot japonais « warui », qui signifie « méchant ».",
+      "wikipedia": "Wario"
+    },
+    {
+      "id": "cinema-tv-394",
+      "difficulty": 3,
+      "question": "Quel jeu français d'Infogrames, inspiré de Lovecraft, est considéré comme le pionnier du survival horror ?",
+      "answer": "Alone in the Dark",
+      "accept": [],
+      "choices": [
+        "Another World",
+        "Resident Evil",
+        "Little Big Adventure"
+      ],
+      "explanation": "Conçu par Frédérick Raynal et sorti en 1992, il est considéré comme le premier survival horror, genre popularisé ensuite par « Resident Evil » et « Silent Hill ».",
+      "wikipedia": "Alone in the Dark (jeu vidéo, 1992)"
+    },
+    {
+      "id": "cinema-tv-395",
+      "difficulty": 3,
+      "question": "Quelles cartes à jouer japonaises fleuries l'entreprise Nintendo fabriquait-elle à sa fondation, bien avant le jeu vidéo ?",
+      "answer": "hanafuda",
+      "accept": [],
+      "choices": [
+        "tarot",
+        "mahjong",
+        "karuta"
+      ],
+      "explanation": "Fondée à Kyoto en 1889 par Fusajiro Yamauchi, Nintendo a aussi tenté sa chance dans les taxis, les hôtels et le riz instantané.",
+      "wikipedia": "Nintendo"
+    },
+    {
+      "id": "cinema-tv-396",
+      "difficulty": 1,
+      "question": "Quelle entreprise japonaise d'électronique a lancé la console PlayStation au milieu des années 1990 ?",
+      "answer": "Sony",
+      "accept": [
+        "Sony Interactive Entertainment"
+      ],
+      "choices": [
+        "Sega",
+        "Nintendo",
+        "Panasonic"
+      ],
+      "explanation": "La PlayStation est née d'un projet de lecteur CD pour la Super Nintendo, abandonné par Nintendo ; Ken Kutaragi en fit une console à part entière.",
+      "wikipedia": "PlayStation"
+    },
+    {
+      "id": "cinema-tv-397",
+      "difficulty": 1,
+      "question": "Quelles créatures blanches aux dents écartées, nées dans un jeu Rayman, sont devenues les vedettes de leur propre série ?",
+      "answer": "Lapins crétins",
+      "accept": [
+        "Les Lapins crétins",
+        "Lapins Crétins"
+      ],
+      "choices": [
+        "Minions",
+        "Lemmings",
+        "Gremlins"
+      ],
+      "explanation": "Apparus en 2006 dans « Rayman contre les lapins crétins », ces lapins mentalement instables communiquent par des « bwa bwa » et ont fini par éclipser le héros.",
+      "wikipedia": "Lapins crétins"
+    },
+    {
+      "id": "cinema-tv-398",
+      "difficulty": 3,
+      "question": "Quelle chanson populaire russe sert de musique au « Tetris » de la Game Boy ?",
+      "answer": "Korobeïniki",
+      "accept": [
+        "Korobeiniki",
+        "Korobouchka"
+      ],
+      "choices": [
+        "Kalinka",
+        "Kazatchok",
+        "Les Bateliers de la Volga"
+      ],
+      "explanation": "Tirée d'un poème de Nikolaï Nekrassov, elle évoque des colporteurs ; le thème est désigné « Type A » dans le menu du jeu.",
+      "wikipedia": "Korobeïniki"
+    },
+    {
+      "id": "cinema-tv-399",
+      "difficulty": 2,
+      "question": "Quel seigneur du mal, roi des Gerudo sous sa forme humaine, est l'ennemi principal de Link ?",
+      "answer": "Ganon",
+      "accept": [
+        "Ganondorf"
+      ],
+      "choices": [
+        "Bowser",
+        "Skeletor",
+        "Ridley"
+      ],
+      "explanation": "Sous sa forme humaine, il se nomme Ganondorf ; il détient la Triforce de la Force, tandis que Zelda possède celle de la Sagesse et Link celle du Courage.",
+      "wikipedia": "Ganon"
+    }
+  ]
+}

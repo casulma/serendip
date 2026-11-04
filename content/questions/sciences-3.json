@@ -1,0 +1,3430 @@
+{
+  "category": "sciences",
+  "questions": [
+    {
+      "id": "sciences-331",
+      "difficulty": 1,
+      "question": "Quel organe, le plus volumineux des viscères, produit la bile stockée ensuite dans la vésicule biliaire ?",
+      "answer": "foie",
+      "accept": [],
+      "choices": [
+        "rate",
+        "pancréas",
+        "estomac"
+      ],
+      "explanation": "Le foie est capable de se régénérer : on peut en greffer une partie prélevée sur un donneur vivant, qui repousse ensuite chez les deux personnes.",
+      "wikipedia": "Foie"
+    },
+    {
+      "id": "sciences-332",
+      "difficulty": 1,
+      "question": "Quel muscle en forme de dôme sépare le thorax de l'abdomen et assure l'essentiel de la respiration ?",
+      "answer": "diaphragme",
+      "accept": [],
+      "choices": [
+        "péricarde",
+        "plèvre",
+        "sternum"
+      ],
+      "explanation": "Le hoquet est provoqué par une contraction involontaire et répétée de ce muscle, suivie de la fermeture brusque de la glotte qui produit le bruit caractéristique.",
+      "wikipedia": "Diaphragme (organe)"
+    },
+    {
+      "id": "sciences-333",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les fragments de cellules sanguines qui permettent la coagulation du sang ?",
+      "answer": "plaquettes",
+      "accept": [
+        "plaquette",
+        "thrombocytes"
+      ],
+      "choices": [
+        "hématies",
+        "leucocytes",
+        "lymphocytes"
+      ],
+      "explanation": "Les plaquettes sont des fragments de grandes cellules de la moelle osseuse, les mégacaryocytes ; elles n'ont pas de noyau et vivent une dizaine de jours.",
+      "wikipedia": "Thrombocyte"
+    },
+    {
+      "id": "sciences-334",
+      "difficulty": 1,
+      "question": "Quelle partie colorée de l'œil, en forme d'anneau, détermine la couleur des yeux ?",
+      "answer": "iris",
+      "accept": [],
+      "choices": [
+        "cornée",
+        "rétine",
+        "cristallin"
+      ],
+      "explanation": "La couleur de l'iris dépend de la quantité de mélanine : les yeux bleus en contiennent très peu, et leur teinte vient de la diffusion de la lumière.",
+      "wikipedia": "Iris (anatomie)"
+    },
+    {
+      "id": "sciences-335",
+      "difficulty": 1,
+      "question": "Quelle membrane du fond de l'œil contient les cônes et les bâtonnets sensibles à la lumière ?",
+      "answer": "rétine",
+      "accept": [],
+      "choices": [
+        "cornée",
+        "choroïde",
+        "sclérotique"
+      ],
+      "explanation": "Les bâtonnets permettent la vision nocturne, en noir et blanc, tandis que les cônes, concentrés dans la fovéa, perçoivent les couleurs.",
+      "wikipedia": "Rétine"
+    },
+    {
+      "id": "sciences-336",
+      "difficulty": 2,
+      "question": "Quel organe de l'oreille interne, enroulé en spirale comme une coquille d'escargot, transforme les sons en influx nerveux ?",
+      "answer": "cochlée",
+      "accept": [
+        "limaçon"
+      ],
+      "choices": [
+        "tympan",
+        "marteau",
+        "trompe d'Eustache"
+      ],
+      "explanation": "La cochlée est tapissée de cellules ciliées qui ne se renouvellent pas : leur destruction par un bruit trop fort entraîne une surdité définitive.",
+      "wikipedia": "Oreille interne"
+    },
+    {
+      "id": "sciences-337",
+      "difficulty": 1,
+      "question": "Quels vaisseaux sanguins ramènent le sang des organes vers le cœur ?",
+      "answer": "veines",
+      "accept": [
+        "veine"
+      ],
+      "choices": [
+        "artères",
+        "capillaires",
+        "artérioles"
+      ],
+      "explanation": "Les veines des membres possèdent des valvules qui empêchent le sang de redescendre ; leur mauvais fonctionnement provoque les varices.",
+      "wikipedia": "Veine"
+    },
+    {
+      "id": "sciences-338",
+      "difficulty": 1,
+      "question": "Quelle est la plus grosse artère du corps humain, qui part du ventricule gauche du cœur ?",
+      "answer": "aorte",
+      "accept": [],
+      "choices": [
+        "carotide",
+        "artère pulmonaire",
+        "veine cave"
+      ],
+      "explanation": "Après sa sortie du cœur, l'aorte forme une crosse puis descend le long de la colonne vertébrale avant de se diviser en deux artères iliaques.",
+      "wikipedia": "Aorte"
+    },
+    {
+      "id": "sciences-339",
+      "difficulty": 1,
+      "question": "Quelle glande en forme de papillon, située à la base du cou, produit des hormones contenant de l'iode ?",
+      "answer": "thyroïde",
+      "accept": [
+        "glande thyroïde"
+      ],
+      "choices": [
+        "hypophyse",
+        "surrénale",
+        "parathyroïde"
+      ],
+      "explanation": "Un manque d'iode dans l'alimentation peut faire grossir la thyroïde et provoquer un goitre ; c'est pourquoi on ajoute de l'iode au sel de table.",
+      "wikipedia": "Glande thyroïde"
+    },
+    {
+      "id": "sciences-340",
+      "difficulty": 1,
+      "question": "Quelle hormone, sécrétée par les glandes surrénales face au danger, accélère le cœur et prépare à la fuite ?",
+      "answer": "adrénaline",
+      "accept": [
+        "épinéphrine"
+      ],
+      "choices": [
+        "insuline",
+        "mélatonine",
+        "cortisol"
+      ],
+      "explanation": "L'adrénaline fut l'une des premières hormones isolées, en 1901, par le chimiste japonais Jōkichi Takamine ; on l'injecte en urgence lors des chocs allergiques graves.",
+      "wikipedia": "Adrénaline"
+    },
+    {
+      "id": "sciences-341",
+      "difficulty": 1,
+      "question": "Quel petit prolongement en forme de doigt, attaché au gros intestin, peut s'enflammer et nécessiter une opération ?",
+      "answer": "appendice",
+      "accept": [],
+      "choices": [
+        "vésicule biliaire",
+        "côlon",
+        "duodénum"
+      ],
+      "explanation": "L'inflammation de l'appendice, l'appendicite, provoque une douleur dans le bas du ventre à droite ; non traitée, elle peut évoluer en péritonite.",
+      "wikipedia": "Appendice iléo-cæcal"
+    },
+    {
+      "id": "sciences-342",
+      "difficulty": 2,
+      "question": "Combien d'os compte en moyenne le squelette d'un être humain adulte ?",
+      "answer": "206",
+      "accept": [
+        "deux cent six",
+        "deux cent six os"
+      ],
+      "choices": [
+        "186",
+        "232",
+        "312"
+      ],
+      "explanation": "Un nouveau-né possède davantage d'os, environ 300 : beaucoup fusionnent pendant la croissance, notamment ceux du crâne et du bassin.",
+      "wikipedia": "Squelette humain"
+    },
+    {
+      "id": "sciences-343",
+      "difficulty": 2,
+      "question": "Quelle vertèbre, la première du cou, porte le nom d'un Titan qui soutenait la voûte céleste ?",
+      "answer": "atlas",
+      "accept": [],
+      "choices": [
+        "axis",
+        "coccyx",
+        "sacrum"
+      ],
+      "explanation": "L'atlas porte le crâne et pivote autour de la deuxième vertèbre, l'axis, ce qui permet de tourner la tête de gauche à droite.",
+      "wikipedia": "Atlas (os)"
+    },
+    {
+      "id": "sciences-344",
+      "difficulty": 2,
+      "question": "Quel médecin autrichien a découvert en 1901 les groupes sanguins A, B et O ?",
+      "answer": "Karl Landsteiner",
+      "accept": [
+        "Landsteiner"
+      ],
+      "choices": [
+        "Robert Koch",
+        "Sigmund Freud",
+        "Paul Ehrlich"
+      ],
+      "explanation": "Landsteiner reçut le prix Nobel en 1930 ; il codécouvrit aussi le facteur Rhésus en 1940, nommé d'après le singe utilisé dans les expériences.",
+      "wikipedia": "Karl Landsteiner"
+    },
+    {
+      "id": "sciences-345",
+      "difficulty": 2,
+      "question": "Quel chirurgien sud-africain a réalisé en 1967, au Cap, la première greffe de cœur humain ?",
+      "answer": "Christiaan Barnard",
+      "accept": [
+        "Barnard",
+        "Christian Barnard"
+      ],
+      "choices": [
+        "Norman Shumway",
+        "Michael DeBakey",
+        "Alain Carpentier"
+      ],
+      "explanation": "Le patient, Louis Washkansky, ne survécut que dix-huit jours, emporté par une pneumonie ; les rejets restèrent le principal obstacle jusqu'à l'arrivée de la ciclosporine.",
+      "wikipedia": "Christiaan Barnard"
+    },
+    {
+      "id": "sciences-346",
+      "difficulty": 1,
+      "question": "Quel médecin grec de l'Antiquité, né sur l'île de Cos, a donné son nom au serment des médecins ?",
+      "answer": "Hippocrate",
+      "accept": [],
+      "choices": [
+        "Galien",
+        "Asclépiade",
+        "Hérophile"
+      ],
+      "explanation": "Hippocrate est considéré comme le père de la médecine occidentale : il expliquait les maladies par des causes naturelles plutôt que par la colère des dieux.",
+      "wikipedia": "Hippocrate"
+    },
+    {
+      "id": "sciences-347",
+      "difficulty": 3,
+      "question": "Quel médecin grec né à Pergame soigna des gladiateurs avant de devenir le médecin de l'empereur Marc Aurèle ?",
+      "answer": "Galien",
+      "accept": [
+        "Claude Galien"
+      ],
+      "choices": [
+        "Hippocrate",
+        "Dioscoride",
+        "Celse"
+      ],
+      "explanation": "Les écrits de Galien, fondés notamment sur la dissection d'animaux, firent autorité pendant près de quinze siècles, jusqu'à leur remise en cause à la Renaissance.",
+      "wikipedia": "Claude Galien"
+    },
+    {
+      "id": "sciences-348",
+      "difficulty": 2,
+      "question": "Quel chirurgien français de la Renaissance a préféré la ligature des artères à la cautérisation au fer rouge ?",
+      "answer": "Ambroise Paré",
+      "accept": [
+        "Paré"
+      ],
+      "choices": [
+        "André Vésale",
+        "Guy de Chauliac",
+        "Dominique Larrey"
+      ],
+      "explanation": "Barbier-chirurgien au service de quatre rois de France, Ambroise Paré est considéré comme le père de la chirurgie moderne ; il conçut aussi des prothèses.",
+      "wikipedia": "Ambroise Paré"
+    },
+    {
+      "id": "sciences-349",
+      "difficulty": 3,
+      "question": "Quel anatomiste né à Bruxelles publia en 1543 le traité illustré De humani corporis fabrica ?",
+      "answer": "André Vésale",
+      "accept": [
+        "Vésale",
+        "Andreas Vesalius"
+      ],
+      "choices": [
+        "Ambroise Paré",
+        "William Harvey",
+        "Gabriel Fallope"
+      ],
+      "explanation": "Fondé sur la dissection de cadavres humains, cet ouvrage corrigea de nombreuses erreurs de Galien ; il parut la même année que le traité de Copernic.",
+      "wikipedia": "André Vésale"
+    },
+    {
+      "id": "sciences-350",
+      "difficulty": 2,
+      "question": "Quel médecin anglais a démontré en 1628 que le sang circule en circuit fermé, propulsé par le cœur ?",
+      "answer": "William Harvey",
+      "accept": [
+        "Harvey"
+      ],
+      "choices": [
+        "Edward Jenner",
+        "Thomas Sydenham",
+        "Joseph Lister"
+      ],
+      "explanation": "Harvey calcula que la quantité de sang pompée chaque heure dépassait de loin celle que l'organisme pouvait produire : il devait donc forcément revenir au cœur.",
+      "wikipedia": "William Harvey"
+    },
+    {
+      "id": "sciences-351",
+      "difficulty": 2,
+      "question": "Quel médecin allemand a identifié en 1882 le bacille responsable de la tuberculose ?",
+      "answer": "Robert Koch",
+      "accept": [
+        "Koch"
+      ],
+      "choices": [
+        "Paul Ehrlich",
+        "Rudolf Virchow",
+        "Emil von Behring"
+      ],
+      "explanation": "Le bacille de la tuberculose porte depuis le nom de « bacille de Koch » ; son découvreur reçut le prix Nobel de physiologie ou médecine en 1905.",
+      "wikipedia": "Robert Koch"
+    },
+    {
+      "id": "sciences-352",
+      "difficulty": 3,
+      "question": "Quel médecin franco-suisse de l'Institut Pasteur a découvert à Hong Kong en 1894 le bacille de la peste ?",
+      "answer": "Alexandre Yersin",
+      "accept": [
+        "Yersin"
+      ],
+      "choices": [
+        "Albert Calmette",
+        "Émile Roux",
+        "Charles Nicolle"
+      ],
+      "explanation": "Installé ensuite à Nha Trang, au Viêt Nam, Yersin y introduisit l'hévéa et l'arbre à quinquina ; le bacille porte aujourd'hui le nom de Yersinia pestis.",
+      "wikipedia": "Alexandre Yersin"
+    },
+    {
+      "id": "sciences-353",
+      "difficulty": 3,
+      "question": "Quel médecin militaire français a découvert en 1880 en Algérie le parasite responsable du paludisme ?",
+      "answer": "Alphonse Laveran",
+      "accept": [
+        "Laveran"
+      ],
+      "choices": [
+        "Ronald Ross",
+        "Alexandre Yersin",
+        "Charles Nicolle"
+      ],
+      "explanation": "Laveran observa le parasite, un hématozoaire, dans le sang de soldats malades à Constantine ; ses travaux lui valurent le prix Nobel de médecine en 1907.",
+      "wikipedia": "Alphonse Laveran"
+    },
+    {
+      "id": "sciences-354",
+      "difficulty": 1,
+      "question": "Quelle maladie infantile très contagieuse provoque de petites cloques rouges qui démangent sur tout le corps ?",
+      "answer": "varicelle",
+      "accept": [],
+      "choices": [
+        "rougeole",
+        "rubéole",
+        "scarlatine"
+      ],
+      "explanation": "Le virus de la varicelle reste ensuite dormant dans les ganglions nerveux et peut se réveiller des décennies plus tard sous forme de zona.",
+      "wikipedia": "Varicelle"
+    },
+    {
+      "id": "sciences-355",
+      "difficulty": 2,
+      "question": "Quelle maladie infectieuse, ravageuse pendant des siècles, a été déclarée éradiquée par l'OMS en 1980 ?",
+      "answer": "variole",
+      "accept": [],
+      "choices": [
+        "peste",
+        "poliomyélite",
+        "lèpre"
+      ],
+      "explanation": "C'est la première maladie humaine éradiquée grâce à la vaccination ; des échantillons du virus sont toujours conservés dans deux laboratoires, aux États-Unis et en Russie.",
+      "wikipedia": "Variole"
+    },
+    {
+      "id": "sciences-356",
+      "difficulty": 1,
+      "question": "Quelle maladie neurodégénérative, qui altère d'abord la mémoire, porte le nom d'un psychiatre allemand ?",
+      "answer": "Alzheimer",
+      "accept": [
+        "maladie d'Alzheimer"
+      ],
+      "choices": [
+        "Parkinson",
+        "Charcot",
+        "Huntington"
+      ],
+      "explanation": "Aloïs Alzheimer décrivit en 1906 le cas d'Auguste Deter, une patiente dont il observa le cerveau après sa mort au microscope.",
+      "wikipedia": "Maladie d'Alzheimer"
+    },
+    {
+      "id": "sciences-357",
+      "difficulty": 1,
+      "question": "Quelle maladie neurologique, marquée par des tremblements au repos, porte le nom d'un médecin anglais du XIXe siècle ?",
+      "answer": "Parkinson",
+      "accept": [
+        "maladie de Parkinson"
+      ],
+      "choices": [
+        "Alzheimer",
+        "Huntington",
+        "Charcot"
+      ],
+      "explanation": "James Parkinson la décrivit en 1817 sous le nom de « paralysie agitante » ; elle est liée à la disparition de neurones produisant la dopamine.",
+      "wikipedia": "Maladie de Parkinson"
+    },
+    {
+      "id": "sciences-358",
+      "difficulty": 2,
+      "question": "Quel neurologue de la Salpêtrière a donné son nom en France à la sclérose latérale amyotrophique ?",
+      "answer": "Jean-Martin Charcot",
+      "accept": [
+        "Charcot"
+      ],
+      "choices": [
+        "Paul Broca",
+        "Joseph Babinski",
+        "Pierre Janet"
+      ],
+      "explanation": "Charcot fut aussi célèbre pour ses leçons sur l'hystérie, suivies par le jeune Sigmund Freud ; son fils Jean-Baptiste devint un explorateur polaire.",
+      "wikipedia": "Jean-Martin Charcot"
+    },
+    {
+      "id": "sciences-359",
+      "difficulty": 3,
+      "question": "Quel médecin français a donné son nom au syndrome neurologique associant tics moteurs et vocaux involontaires ?",
+      "answer": "Gilles de la Tourette",
+      "accept": [
+        "Georges Gilles de la Tourette"
+      ],
+      "choices": [
+        "Joseph Babinski",
+        "Guillaume Duchenne",
+        "Jean-Martin Charcot"
+      ],
+      "explanation": "Élève de Charcot, Georges Gilles de la Tourette publia sa description en 1885 ; il fut lui-même blessé par balle par une ancienne patiente.",
+      "wikipedia": "Georges Gilles de La Tourette"
+    },
+    {
+      "id": "sciences-360",
+      "difficulty": 2,
+      "question": "De l'écorce de quel arbre a-t-on tiré à l'origine le principe actif dont dérive l'aspirine ?",
+      "answer": "saule",
+      "accept": [],
+      "choices": [
+        "chêne",
+        "bouleau",
+        "quinquina"
+      ],
+      "explanation": "Le nom de la salicine, extraite du saule, vient du latin salix ; le laboratoire Bayer commercialisa l'acide acétylsalicylique sous le nom d'Aspirine en 1899.",
+      "wikipedia": "Acide acétylsalicylique"
+    },
+    {
+      "id": "sciences-361",
+      "difficulty": 2,
+      "question": "Quel alcaloïde de l'écorce de quinquina, isolé en 1820 par Pelletier et Caventou, a longtemps soigné le paludisme ?",
+      "answer": "quinine",
+      "accept": [],
+      "choices": [
+        "morphine",
+        "caféine",
+        "codéine"
+      ],
+      "explanation": "La quinine donne son amertume caractéristique au soda appelé tonic ; les colons britanniques des Indes la buvaient mélangée au gin.",
+      "wikipedia": "Quinine"
+    },
+    {
+      "id": "sciences-362",
+      "difficulty": 2,
+      "question": "Quel antidouleur extrait de l'opium doit son nom au dieu grec des rêves ?",
+      "answer": "morphine",
+      "accept": [],
+      "choices": [
+        "codéine",
+        "quinine",
+        "héroïne"
+      ],
+      "explanation": "Isolée au début du XIXe siècle par le pharmacien allemand Friedrich Sertürner, la morphine fut l'un des premiers principes actifs extraits d'une plante.",
+      "wikipedia": "Morphine"
+    },
+    {
+      "id": "sciences-363",
+      "difficulty": 1,
+      "question": "Quelle technique d'imagerie médicale utilise des ultrasons, notamment pour suivre le déroulement d'une grossesse ?",
+      "answer": "échographie",
+      "accept": [
+        "echographie"
+      ],
+      "choices": [
+        "radiographie",
+        "scanner",
+        "scintigraphie"
+      ],
+      "explanation": "Le principe est celui du sonar des sous-marins : une sonde émet des ultrasons et capte leur écho sur les organes pour reconstituer une image.",
+      "wikipedia": "Échographie"
+    },
+    {
+      "id": "sciences-364",
+      "difficulty": 2,
+      "question": "Quelle technique d'imagerie, désignée par trois lettres, utilise un puissant aimant et les noyaux d'hydrogène du corps ?",
+      "answer": "IRM",
+      "accept": [
+        "imagerie par résonance magnétique"
+      ],
+      "choices": [
+        "PET",
+        "ECG",
+        "EEG"
+      ],
+      "explanation": "Contrairement au scanner et à la radiographie, l'IRM n'utilise pas de rayons X ; les objets métalliques sont interdits dans la salle à cause du champ magnétique.",
+      "wikipedia": "Imagerie par résonance magnétique"
+    },
+    {
+      "id": "sciences-365",
+      "difficulty": 3,
+      "question": "Quel chirurgien canadien a isolé l'insuline en 1921 à Toronto avec son étudiant Charles Best ?",
+      "answer": "Frederick Banting",
+      "accept": [
+        "Banting"
+      ],
+      "choices": [
+        "John Macleod",
+        "Wilder Penfield",
+        "Norman Bethune"
+      ],
+      "explanation": "Banting partagea le prix Nobel de 1923 avec John Macleod ; il partagea sa part avec Charles Best, que le comité Nobel avait ignoré.",
+      "wikipedia": "Frederick Banting"
+    },
+    {
+      "id": "sciences-366",
+      "difficulty": 2,
+      "question": "Quel drapier de Delft fut le premier à observer des bactéries, grâce à des microscopes qu'il fabriquait lui-même ?",
+      "answer": "Antoni van Leeuwenhoek",
+      "accept": [
+        "Leeuwenhoek",
+        "van Leeuwenhoek"
+      ],
+      "choices": [
+        "Christiaan Huygens",
+        "Robert Hooke",
+        "Jan Swammerdam"
+      ],
+      "explanation": "Ses microscopes à une seule lentille grossissaient jusqu'à près de 300 fois ; il décrivit aussi les spermatozoïdes et les globules rouges.",
+      "wikipedia": "Antoni van Leeuwenhoek"
+    },
+    {
+      "id": "sciences-367",
+      "difficulty": 3,
+      "question": "Quel zoologiste russe, prix Nobel en 1908, a découvert la phagocytose, par laquelle certaines cellules dévorent les microbes ?",
+      "answer": "Élie Metchnikoff",
+      "accept": [
+        "Metchnikoff",
+        "Ilya Metchnikov",
+        "Metchnikov"
+      ],
+      "choices": [
+        "Ivan Pavlov",
+        "Paul Ehrlich",
+        "Sergueï Winogradsky"
+      ],
+      "explanation": "Metchnikoff observa la phagocytose sur des larves d'étoile de mer ; installé à l'Institut Pasteur, il s'intéressa aussi aux bienfaits supposés du yaourt.",
+      "wikipedia": "Ilya Ilitch Metchnikov"
+    },
+    {
+      "id": "sciences-368",
+      "difficulty": 1,
+      "question": "Dans quelle partie du tube digestif, longue de plusieurs mètres, se fait l'essentiel de l'absorption des nutriments ?",
+      "answer": "intestin grêle",
+      "accept": [
+        "grêle"
+      ],
+      "choices": [
+        "côlon",
+        "estomac",
+        "œsophage"
+      ],
+      "explanation": "Sa paroi est couverte de minuscules replis, les villosités, qui multiplient sa surface d'échange avec le sang.",
+      "wikipedia": "Intestin grêle"
+    },
+    {
+      "id": "sciences-369",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les minuscules sacs des poumons où l'oxygène passe de l'air au sang ?",
+      "answer": "alvéoles pulmonaires",
+      "accept": [
+        "alvéoles",
+        "alvéole"
+      ],
+      "choices": [
+        "bronchioles",
+        "lobules",
+        "trachées"
+      ],
+      "explanation": "Les poumons humains contiennent plusieurs centaines de millions d'alvéoles : déployées, elles couvriraient une surface comparable à celle d'un court de tennis.",
+      "wikipedia": "Alvéole pulmonaire"
+    },
+    {
+      "id": "sciences-370",
+      "difficulty": 3,
+      "question": "Quelle valve cardiaque, entre l'oreillette et le ventricule gauches, doit son nom à une coiffe d'évêque ?",
+      "answer": "mitrale",
+      "accept": [
+        "valve mitrale"
+      ],
+      "choices": [
+        "tricuspide",
+        "sigmoïde",
+        "pulmonaire"
+      ],
+      "explanation": "Composée de deux feuillets, elle est aussi appelée valve bicuspide ; ses fuites sont l'une des affections valvulaires les plus fréquentes.",
+      "wikipedia": "Valve atrio-ventriculaire gauche"
+    },
+    {
+      "id": "sciences-371",
+      "difficulty": 1,
+      "question": "Quelle partie de l'encéphale, située à l'arrière sous les hémisphères, coordonne l'équilibre et les mouvements ?",
+      "answer": "cervelet",
+      "accept": [],
+      "choices": [
+        "bulbe rachidien",
+        "hypothalamus",
+        "hippocampe"
+      ],
+      "explanation": "Le cervelet ne représente qu'environ un dixième du volume de l'encéphale, mais il contient plus de la moitié de ses neurones.",
+      "wikipedia": "Cervelet"
+    },
+    {
+      "id": "sciences-372",
+      "difficulty": 3,
+      "question": "Quelle petite glande du cerveau, que Descartes croyait le siège de l'âme, sécrète la mélatonine ?",
+      "answer": "épiphyse",
+      "accept": [
+        "glande pinéale"
+      ],
+      "choices": [
+        "hypophyse",
+        "thalamus",
+        "amygdale"
+      ],
+      "explanation": "La sécrétion de mélatonine augmente dans l'obscurité et diminue à la lumière : elle aide à régler l'horloge biologique sur l'alternance du jour et de la nuit.",
+      "wikipedia": "Glande pinéale"
+    },
+    {
+      "id": "sciences-373",
+      "difficulty": 1,
+      "question": "Quelle maladie héréditaire empêchant le sang de bien coaguler est surnommée « maladie des rois » ?",
+      "answer": "hémophilie",
+      "accept": [
+        "hemophilie"
+      ],
+      "choices": [
+        "leucémie",
+        "drépanocytose",
+        "anémie"
+      ],
+      "explanation": "La reine Victoria transmit le gène à plusieurs familles royales d'Europe, dont celle de Russie : le tsarévitch Alexis en était atteint.",
+      "wikipedia": "Hémophilie"
+    },
+    {
+      "id": "sciences-374",
+      "difficulty": 1,
+      "question": "Quel trouble de la vision des couleurs porte le nom d'un chimiste anglais qui en était lui-même atteint ?",
+      "answer": "daltonisme",
+      "accept": [],
+      "choices": [
+        "astigmatisme",
+        "strabisme",
+        "achromatopsie"
+      ],
+      "explanation": "John Dalton le décrivit en 1794 ; ce trouble touche bien plus les hommes que les femmes car les gènes concernés sont portés par le chromosome X.",
+      "wikipedia": "Daltonisme"
+    },
+    {
+      "id": "sciences-375",
+      "difficulty": 2,
+      "question": "Quelle protéine fibreuse, la plus abondante du corps humain, assure la solidité de la peau, des tendons et des os ?",
+      "answer": "collagène",
+      "accept": [
+        "collagene"
+      ],
+      "choices": [
+        "kératine",
+        "élastine",
+        "myosine"
+      ],
+      "explanation": "Le mot vient du grec kolla, la colle : en faisant bouillir des os et des peaux, on en tire la gélatine utilisée en cuisine.",
+      "wikipedia": "Collagène"
+    },
+    {
+      "id": "sciences-376",
+      "difficulty": 1,
+      "question": "Quel pigment, produit par certaines cellules de la peau, est responsable du bronzage ?",
+      "answer": "mélanine",
+      "accept": [
+        "melanine"
+      ],
+      "choices": [
+        "carotène",
+        "kératine",
+        "bilirubine"
+      ],
+      "explanation": "Les mélanocytes en produisent davantage sous l'effet des ultraviolets : le bronzage est donc une réaction de défense de la peau contre le soleil.",
+      "wikipedia": "Mélanine"
+    },
+    {
+      "id": "sciences-377",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'accouchement par incision chirurgicale de l'abdomen et de l'utérus ?",
+      "answer": "césarienne",
+      "accept": [
+        "cesarienne"
+      ],
+      "choices": [
+        "épisiotomie",
+        "péridurale",
+        "forceps"
+      ],
+      "explanation": "Contrairement à une légende tenace, Jules César n'est sans doute pas né ainsi ; le nom viendrait plutôt du latin caedere, couper.",
+      "wikipedia": "Césarienne"
+    },
+    {
+      "id": "sciences-378",
+      "difficulty": 2,
+      "question": "Quel chirurgien britannique a introduit l'antisepsie en chirurgie en utilisant l'acide phénique ?",
+      "answer": "Joseph Lister",
+      "accept": [
+        "Lister"
+      ],
+      "choices": [
+        "William Harvey",
+        "John Hunter",
+        "James Simpson"
+      ],
+      "explanation": "Inspiré par les travaux de Pasteur sur les microbes, Lister fit chuter la mortalité après amputation ; une bactérie et un bain de bouche portent son nom.",
+      "wikipedia": "Joseph Lister"
+    },
+    {
+      "id": "sciences-379",
+      "difficulty": 3,
+      "question": "Quelle virologue française a partagé en 2008 le prix Nobel avec Luc Montagnier pour la découverte du VIH ?",
+      "answer": "Françoise Barré-Sinoussi",
+      "accept": [
+        "Barré-Sinoussi"
+      ],
+      "choices": [
+        "Christine Rouzioux",
+        "Marthe Gautier",
+        "Willy Rozenbaum"
+      ],
+      "explanation": "Le virus fut isolé en 1983 à l'Institut Pasteur à partir d'un ganglion d'un patient ; ils partagèrent le prix avec l'Allemand Harald zur Hausen.",
+      "wikipedia": "Françoise Barré-Sinoussi"
+    },
+    {
+      "id": "sciences-380",
+      "difficulty": 2,
+      "question": "Quelle vitamine, dont le nom vient d'un mot allemand, est indispensable à la coagulation du sang ?",
+      "answer": "K",
+      "accept": [
+        "vitamine K"
+      ],
+      "choices": [
+        "B12",
+        "C",
+        "E"
+      ],
+      "explanation": "Sa lettre vient de l'allemand Koagulation ; les nouveau-nés en reçoivent souvent une dose à la naissance car ils en manquent naturellement.",
+      "wikipedia": "Vitamine K"
+    },
+    {
+      "id": "sciences-381",
+      "difficulty": 3,
+      "question": "Quelle maladie due à une carence en vitamine B1 frappait les populations nourries de riz blanc décortiqué ?",
+      "answer": "béribéri",
+      "accept": [
+        "beriberi"
+      ],
+      "choices": [
+        "pellagre",
+        "rachitisme",
+        "kwashiorkor"
+      ],
+      "explanation": "Le médecin néerlandais Christiaan Eijkman remarqua à Java que les poules nourries de riz poli tombaient malades, découverte qui lui valut un prix Nobel.",
+      "wikipedia": "Béribéri"
+    },
+    {
+      "id": "sciences-382",
+      "difficulty": 2,
+      "question": "Quelle saveur, cinquième goût après le sucré, le salé, l'acide et l'amer, a été identifiée par un chimiste japonais ?",
+      "answer": "umami",
+      "accept": [],
+      "choices": [
+        "kokumi",
+        "piquant",
+        "astringent"
+      ],
+      "explanation": "Kikunae Ikeda l'identifia en 1908 dans le bouillon d'algue kombu ; elle est due au glutamate, présent aussi dans la tomate et le parmesan.",
+      "wikipedia": "Umami"
+    },
+    {
+      "id": "sciences-383",
+      "difficulty": 1,
+      "question": "Quel médecin anglais a inoculé en 1796 à un enfant la vaccine des vaches, posant les bases de la vaccination ?",
+      "answer": "Edward Jenner",
+      "accept": [
+        "Jenner"
+      ],
+      "choices": [
+        "William Harvey",
+        "Joseph Lister",
+        "Thomas Sydenham"
+      ],
+      "explanation": "Le mot vaccin vient du latin vacca, la vache : Jenner avait remarqué que les vachères ayant contracté la vaccine échappaient à la variole.",
+      "wikipedia": "Edward Jenner"
+    },
+    {
+      "id": "sciences-384",
+      "difficulty": 2,
+      "question": "Quel virologue américain a mis au point le premier vaccin injectable contre la poliomyélite, au début des années 1950 ?",
+      "answer": "Jonas Salk",
+      "accept": [
+        "Salk"
+      ],
+      "choices": [
+        "Albert Sabin",
+        "John Enders",
+        "Maurice Hilleman"
+      ],
+      "explanation": "Interrogé sur le brevet de son vaccin, Salk aurait répondu qu'on ne pouvait pas plus breveter le soleil ; Albert Sabin créa ensuite un vaccin oral.",
+      "wikipedia": "Jonas Salk"
+    },
+    {
+      "id": "sciences-385",
+      "difficulty": 3,
+      "question": "Quel dentiste américain réalisa en 1846 à Boston la première démonstration publique d'anesthésie à l'éther ?",
+      "answer": "William Morton",
+      "accept": [
+        "Morton",
+        "William Thomas Green Morton"
+      ],
+      "choices": [
+        "Horace Wells",
+        "Crawford Long",
+        "Charles Jackson"
+      ],
+      "explanation": "Morton avait été l'associé du dentiste Horace Wells, dont les démonstrations publiques d'anesthésie au protoxyde d'azote, le gaz hilarant, avaient échoué.",
+      "wikipedia": "William Thomas Green Morton"
+    },
+    {
+      "id": "sciences-386",
+      "difficulty": 2,
+      "question": "Quelle hormone, libérée par l'hypophyse, est surnommée « hormone de l'amour » et déclenche les contractions de l'accouchement ?",
+      "answer": "ocytocine",
+      "accept": [
+        "oxytocine"
+      ],
+      "choices": [
+        "prolactine",
+        "progestérone",
+        "dopamine"
+      ],
+      "explanation": "L'ocytocine provoque aussi l'éjection du lait pendant l'allaitement ; on l'administre parfois sous forme de synthèse pour déclencher ou accélérer un accouchement.",
+      "wikipedia": "Ocytocine"
+    },
+    {
+      "id": "sciences-387",
+      "difficulty": 1,
+      "question": "Quel inventeur italien a réalisé à la fin du XIXe siècle les premières liaisons par télégraphie sans fil ?",
+      "answer": "Guglielmo Marconi",
+      "accept": [
+        "Marconi"
+      ],
+      "choices": [
+        "Alessandro Volta",
+        "Antonio Meucci",
+        "Galileo Ferraris"
+      ],
+      "explanation": "Marconi réussit en 1901 la première liaison radio transatlantique, entre l'Angleterre et Terre-Neuve ; il reçut le prix Nobel de physique en 1909.",
+      "wikipedia": "Guglielmo Marconi"
+    },
+    {
+      "id": "sciences-388",
+      "difficulty": 1,
+      "question": "Quel inventeur français a réalisé la plus ancienne photographie connue, prise depuis sa fenêtre en Bourgogne ?",
+      "answer": "Nicéphore Niépce",
+      "accept": [
+        "Niépce",
+        "Niepce"
+      ],
+      "choices": [
+        "Louis Daguerre",
+        "Hippolyte Bayard",
+        "Nadar"
+      ],
+      "explanation": "Le Point de vue du Gras, réalisé vers 1827, a nécessité un temps de pose de plusieurs heures, voire de plusieurs jours, sur une plaque d'étain enduite de bitume.",
+      "wikipedia": "Nicéphore Niépce"
+    },
+    {
+      "id": "sciences-389",
+      "difficulty": 2,
+      "question": "Quel procédé photographique sur plaque de cuivre argentée, rendu public en 1839, porte le nom de son inventeur ?",
+      "answer": "daguerréotype",
+      "accept": [
+        "daguerreotype"
+      ],
+      "choices": [
+        "calotype",
+        "ferrotype",
+        "ambrotype"
+      ],
+      "explanation": "Chaque daguerréotype était une image unique, impossible à reproduire ; l'État français acheta le procédé et l'offrit au monde entier.",
+      "wikipedia": "Daguerréotype"
+    },
+    {
+      "id": "sciences-390",
+      "difficulty": 2,
+      "question": "Quel inventeur lyonnais a mis au point un métier à tisser programmé par des cartes perforées ?",
+      "answer": "Joseph Marie Jacquard",
+      "accept": [
+        "Jacquard"
+      ],
+      "choices": [
+        "Jacques de Vaucanson",
+        "Barthélemy Thimonnier",
+        "Philippe de Girard"
+      ],
+      "explanation": "Son principe des cartes perforées inspira Charles Babbage pour sa machine analytique, puis les premières machines de traitement de l'information.",
+      "wikipedia": "Joseph-Marie Jacquard"
+    },
+    {
+      "id": "sciences-391",
+      "difficulty": 2,
+      "question": "Quel ingénieur allemand a breveté en 1886 la première automobile à moteur à essence, un tricycle ?",
+      "answer": "Carl Benz",
+      "accept": [
+        "Karl Benz",
+        "Benz"
+      ],
+      "choices": [
+        "Gottlieb Daimler",
+        "Rudolf Diesel",
+        "August Horch"
+      ],
+      "explanation": "En 1888, sa femme Bertha Benz parcourut une centaine de kilomètres avec ce véhicule, sans prévenir son mari, réalisant le premier long trajet automobile.",
+      "wikipedia": "Carl Benz"
+    },
+    {
+      "id": "sciences-392",
+      "difficulty": 1,
+      "question": "Quel ingénieur allemand a inventé le moteur à allumage par compression qui porte son nom ?",
+      "answer": "Rudolf Diesel",
+      "accept": [
+        "Diesel"
+      ],
+      "choices": [
+        "Nikolaus Otto",
+        "Gottlieb Daimler",
+        "Felix Wankel"
+      ],
+      "explanation": "Rudolf Diesel, né à Paris, disparut mystérieusement en 1913 lors d'une traversée de la Manche à bord d'un navire en route vers l'Angleterre.",
+      "wikipedia": "Rudolf Diesel"
+    },
+    {
+      "id": "sciences-393",
+      "difficulty": 2,
+      "question": "Quel ingénieur lorrain a construit en 1769 un fardier à vapeur, considéré comme le premier véhicule automobile ?",
+      "answer": "Joseph Cugnot",
+      "accept": [
+        "Cugnot",
+        "Nicolas-Joseph Cugnot"
+      ],
+      "choices": [
+        "Denis Papin",
+        "Étienne Lenoir",
+        "Amédée Bollée"
+      ],
+      "explanation": "Ce lourd chariot était destiné à tirer des canons ; il est conservé au musée des Arts et Métiers à Paris.",
+      "wikipedia": "Nicolas Joseph Cugnot"
+    },
+    {
+      "id": "sciences-394",
+      "difficulty": 1,
+      "question": "Quels frères américains, fabricants de bicyclettes, ont réalisé en 1903 le premier vol motorisé contrôlé ?",
+      "answer": "Wright",
+      "accept": [
+        "frères Wright"
+      ],
+      "choices": [
+        "Lumière",
+        "Montgolfier",
+        "Voisin"
+      ],
+      "explanation": "Le 17 décembre 1903, à Kitty Hawk en Caroline du Nord, ils effectuèrent quatre vols successifs, le plus long couvrant environ 260 mètres.",
+      "wikipedia": "Orville et Wilbur Wright"
+    },
+    {
+      "id": "sciences-395",
+      "difficulty": 1,
+      "question": "Quels frères papetiers d'Annonay ont fait s'élever en 1783 les premiers ballons à air chaud ?",
+      "answer": "Montgolfier",
+      "accept": [
+        "frères Montgolfier"
+      ],
+      "choices": [
+        "Lumière",
+        "Wright",
+        "Goncourt"
+      ],
+      "explanation": "Avant les premiers vols humains, un mouton, un canard et un coq furent envoyés dans les airs à Versailles, devant Louis XVI.",
+      "wikipedia": "Frères Montgolfier"
+    },
+    {
+      "id": "sciences-396",
+      "difficulty": 3,
+      "question": "Quel physicien français fit voler en 1783 aux Tuileries le premier ballon habité gonflé à l'hydrogène ?",
+      "answer": "Jacques Charles",
+      "accept": [
+        "Charles"
+      ],
+      "choices": [
+        "Pilâtre de Rozier",
+        "Joseph-Louis Gay-Lussac",
+        "Jean-Pierre Blanchard"
+      ],
+      "explanation": "Ces ballons à gaz furent appelés « charlières » ; Jacques Charles a aussi donné son nom à une loi reliant le volume d'un gaz à sa température.",
+      "wikipedia": "Jacques Charles"
+    },
+    {
+      "id": "sciences-397",
+      "difficulty": 1,
+      "question": "Quel nom, celui d'un comte allemand, désigne les grands dirigeables rigides du début du XXe siècle ?",
+      "answer": "zeppelin",
+      "accept": [
+        "Ferdinand von Zeppelin"
+      ],
+      "choices": [
+        "Hindenburg",
+        "Graf",
+        "Junkers"
+      ],
+      "explanation": "La catastrophe du Hindenburg, qui prit feu en 1937 à son arrivée aux États-Unis, sonna la fin des grands dirigeables de transport de passagers.",
+      "wikipedia": "Ferdinand von Zeppelin"
+    },
+    {
+      "id": "sciences-398",
+      "difficulty": 3,
+      "question": "Quel inventeur écossais a présenté en 1926 à Londres l'une des premières démonstrations de télévision ?",
+      "answer": "John Logie Baird",
+      "accept": [
+        "Baird"
+      ],
+      "choices": [
+        "Vladimir Zworykin",
+        "Philo Farnsworth",
+        "James Clerk Maxwell"
+      ],
+      "explanation": "Son système était mécanique, fondé sur un disque de Nipkow percé de trous en spirale ; il fut supplanté par la télévision électronique.",
+      "wikipedia": "John Logie Baird"
+    },
+    {
+      "id": "sciences-399",
+      "difficulty": 2,
+      "question": "Quel physicien allemand, inventeur du thermomètre à mercure, a donné son nom à une échelle de température ?",
+      "answer": "Fahrenheit",
+      "accept": [
+        "Daniel Gabriel Fahrenheit"
+      ],
+      "choices": [
+        "Celsius",
+        "Réaumur",
+        "Kelvin"
+      ],
+      "explanation": "Sur son échelle, toujours utilisée aux États-Unis, l'eau gèle à 32 degrés et bout à 212 degrés sous la pression atmosphérique normale.",
+      "wikipedia": "Gabriel Fahrenheit"
+    },
+    {
+      "id": "sciences-400",
+      "difficulty": 1,
+      "question": "Quel astronome suédois a donné son nom à l'échelle centésimale de température ?",
+      "answer": "Celsius",
+      "accept": [
+        "Anders Celsius"
+      ],
+      "choices": [
+        "Fahrenheit",
+        "Linné",
+        "Kelvin"
+      ],
+      "explanation": "Dans sa version d'origine, l'échelle était inversée : Celsius plaçait le 100 à la congélation de l'eau et le 0 à son ébullition.",
+      "wikipedia": "Anders Celsius"
+    },
+    {
+      "id": "sciences-401",
+      "difficulty": 2,
+      "question": "Sous quel titre de noblesse connaît-on le physicien William Thomson, qui a donné son nom à une unité de température ?",
+      "answer": "Kelvin",
+      "accept": [
+        "lord Kelvin"
+      ],
+      "choices": [
+        "Rayleigh",
+        "Rutherford",
+        "Faraday"
+      ],
+      "explanation": "Le titre de lord Kelvin vient d'une rivière qui passe près de l'université de Glasgow, où il enseigna pendant plus d'un demi-siècle.",
+      "wikipedia": "William Thomson (Lord Kelvin)"
+    },
+    {
+      "id": "sciences-402",
+      "difficulty": 2,
+      "question": "Quel physicien italien, élève de Galilée, a inventé le baromètre à mercure en 1643 ?",
+      "answer": "Evangelista Torricelli",
+      "accept": [
+        "Torricelli"
+      ],
+      "choices": [
+        "Blaise Pascal",
+        "Vincenzo Viviani",
+        "Otto von Guericke"
+      ],
+      "explanation": "L'espace vide au-dessus du mercure dans le tube fut appelé « vide de Torricelli » ; une ancienne unité de pression, le torr, porte son nom.",
+      "wikipedia": "Evangelista Torricelli"
+    },
+    {
+      "id": "sciences-403",
+      "difficulty": 3,
+      "question": "Quel jardinier français eut l'idée de renforcer des bacs à fleurs en ciment par un treillis métallique, inventant le béton armé ?",
+      "answer": "Joseph Monier",
+      "accept": [
+        "Monier"
+      ],
+      "choices": [
+        "François Hennebique",
+        "Eugène Freyssinet",
+        "Auguste Perret"
+      ],
+      "explanation": "Monier déposa son premier brevet en 1867 pour des caisses horticoles, puis l'étendit aux tuyaux, aux réservoirs et aux ponts.",
+      "wikipedia": "Joseph Monier"
+    },
+    {
+      "id": "sciences-404",
+      "difficulty": 2,
+      "question": "Quel inventeur américain a conçu le frein de sécurité qui a rendu les ascenseurs fiables pour les passagers ?",
+      "answer": "Elisha Otis",
+      "accept": [
+        "Otis"
+      ],
+      "choices": [
+        "George Westinghouse",
+        "Elisha Gray",
+        "Werner von Siemens"
+      ],
+      "explanation": "Lors d'une exposition à New York, il fit couper devant le public la corde qui retenait sa plate-forme, sur laquelle il se tenait : le frein la bloqua aussitôt.",
+      "wikipedia": "Elisha Otis"
+    },
+    {
+      "id": "sciences-405",
+      "difficulty": 1,
+      "question": "Quel ingénieur d'origine serbe, rival d'Edison, a défendu le courant alternatif dans la « guerre des courants » ?",
+      "answer": "Nikola Tesla",
+      "accept": [
+        "Tesla"
+      ],
+      "choices": [
+        "George Westinghouse",
+        "Michael Pupin",
+        "Guglielmo Marconi"
+      ],
+      "explanation": "Son nom a été donné à l'unité d'induction magnétique du Système international ; on lui doit le moteur électrique à induction.",
+      "wikipedia": "Nikola Tesla"
+    },
+    {
+      "id": "sciences-406",
+      "difficulty": 3,
+      "question": "Quel ingénieur suisse a imaginé la fermeture Velcro après avoir observé des fleurs de bardane accrochées à son chien ?",
+      "answer": "George de Mestral",
+      "accept": [
+        "Mestral"
+      ],
+      "choices": [
+        "Gideon Sundback",
+        "Whitcomb Judson",
+        "Auguste Piccard"
+      ],
+      "explanation": "Le nom Velcro est un mot-valise formé à partir de « velours » et de « crochet », d'après les deux bandes du système d'attache.",
+      "wikipedia": "George de Mestral"
+    },
+    {
+      "id": "sciences-407",
+      "difficulty": 3,
+      "question": "Quel chimiste américain de la société DuPont a inventé le nylon dans les années 1930 ?",
+      "answer": "Wallace Carothers",
+      "accept": [
+        "Carothers"
+      ],
+      "choices": [
+        "Leo Baekeland",
+        "Roy Plunkett",
+        "Charles Goodyear"
+      ],
+      "explanation": "Le nylon fut d'abord utilisé pour les poils de brosse à dents puis pour les bas féminins, lancés en 1940 et vite devenus très recherchés.",
+      "wikipedia": "Wallace Hume Carothers"
+    },
+    {
+      "id": "sciences-408",
+      "difficulty": 2,
+      "question": "Quelle fibre synthétique très résistante, utilisée dans les gilets pare-balles, a été inventée par Stephanie Kwolek ?",
+      "answer": "Kevlar",
+      "accept": [],
+      "choices": [
+        "Nylon",
+        "Téflon",
+        "Gore-Tex"
+      ],
+      "explanation": "À masse égale, cette fibre est environ cinq fois plus résistante que l'acier ; elle sert aussi dans les voiles de bateau, les pneus et les casques.",
+      "wikipedia": "Kevlar"
+    },
+    {
+      "id": "sciences-409",
+      "difficulty": 2,
+      "question": "Quel appareil ménager fut inventé après qu'un ingénieur américain eut vu fondre une barre chocolatée près d'un magnétron ?",
+      "answer": "four à micro-ondes",
+      "accept": [
+        "micro-ondes",
+        "four micro-ondes"
+      ],
+      "choices": [
+        "grille-pain",
+        "lave-vaisselle",
+        "réfrigérateur"
+      ],
+      "explanation": "Percy Spencer travaillait sur des radars pour la société Raytheon ; les premiers modèles commercialisés mesuraient près de deux mètres de haut.",
+      "wikipedia": "Four à micro-ondes"
+    },
+    {
+      "id": "sciences-410",
+      "difficulty": 1,
+      "question": "Quel engin à deux roues sans pédales, ancêtre de la bicyclette, fut inventé en 1817 par le baron allemand Karl Drais ?",
+      "answer": "draisienne",
+      "accept": [],
+      "choices": [
+        "vélocipède",
+        "grand bi",
+        "trottinette"
+      ],
+      "explanation": "On avançait en poussant le sol avec les pieds ; l'engin connaît une seconde vie comme vélo d'apprentissage pour les jeunes enfants.",
+      "wikipedia": "Draisienne"
+    },
+    {
+      "id": "sciences-411",
+      "difficulty": 2,
+      "question": "Quel vétérinaire écossais a mis au point en 1888 le pneumatique à chambre à air pour le tricycle de son fils ?",
+      "answer": "John Boyd Dunlop",
+      "accept": [
+        "Dunlop"
+      ],
+      "choices": [
+        "Robert William Thomson",
+        "Charles Goodyear",
+        "Édouard Michelin"
+      ],
+      "explanation": "Dunlop voulait rendre plus confortables les trajets de son fils sur les pavés de Belfast ; son nom est resté celui d'une grande marque de pneus.",
+      "wikipedia": "John Boyd Dunlop"
+    },
+    {
+      "id": "sciences-412",
+      "difficulty": 3,
+      "question": "Quel horloger anglais a résolu au XVIIIe siècle le problème de la longitude en mer grâce à ses chronomètres ?",
+      "answer": "John Harrison",
+      "accept": [
+        "Harrison"
+      ],
+      "choices": [
+        "Robert Hooke",
+        "Thomas Tompion",
+        "George Graham"
+      ],
+      "explanation": "Son chronomètre H4, de la taille d'une grosse montre, ne dériva que de quelques secondes lors d'une traversée vers la Jamaïque.",
+      "wikipedia": "John Harrison (horloger)"
+    },
+    {
+      "id": "sciences-413",
+      "difficulty": 2,
+      "question": "Quel savant néerlandais a construit en 1656 la première horloge à pendule ?",
+      "answer": "Christiaan Huygens",
+      "accept": [
+        "Huygens",
+        "Christian Huygens"
+      ],
+      "choices": [
+        "Galilée",
+        "Antoni van Leeuwenhoek",
+        "Robert Hooke"
+      ],
+      "explanation": "Huygens découvrit aussi Titan, le plus grand satellite de Saturne, et comprit que la planète était entourée d'un anneau.",
+      "wikipedia": "Christian Huygens"
+    },
+    {
+      "id": "sciences-414",
+      "difficulty": 1,
+      "question": "Quel instrument détecte les rayonnements radioactifs en produisant des crépitements sonores ?",
+      "answer": "compteur Geiger",
+      "accept": [
+        "Geiger",
+        "compteur Geiger-Müller"
+      ],
+      "choices": [
+        "dosimètre",
+        "spectromètre",
+        "oscilloscope"
+      ],
+      "explanation": "Il porte le nom du physicien allemand Hans Geiger, qui le mit au point avec Walther Müller ; Geiger avait été l'assistant de Rutherford.",
+      "wikipedia": "Compteur Geiger"
+    },
+    {
+      "id": "sciences-415",
+      "difficulty": 1,
+      "question": "Quel officier de marine français a mis au point avec Émile Gagnan le scaphandre autonome moderne ?",
+      "answer": "Jacques-Yves Cousteau",
+      "accept": [
+        "Cousteau",
+        "commandant Cousteau"
+      ],
+      "choices": [
+        "Auguste Piccard",
+        "Paul-Émile Victor",
+        "Éric Tabarly"
+      ],
+      "explanation": "Leur détendeur, l'Aqua-Lung, libère l'air à la pression ambiante dès que le plongeur inspire ; Cousteau rendit ensuite célèbre son navire la Calypso.",
+      "wikipedia": "Jacques-Yves Cousteau"
+    },
+    {
+      "id": "sciences-416",
+      "difficulty": 2,
+      "question": "Quel armurier américain a popularisé au XIXe siècle le revolver à barillet tournant ?",
+      "answer": "Samuel Colt",
+      "accept": [
+        "Colt"
+      ],
+      "choices": [
+        "Oliver Winchester",
+        "Richard Gatling",
+        "Horace Smith"
+      ],
+      "explanation": "Colt eut l'idée du barillet tournant en observant, adolescent, le mécanisme du cabestan ou de la roue d'un navire.",
+      "wikipedia": "Samuel Colt"
+    },
+    {
+      "id": "sciences-417",
+      "difficulty": 3,
+      "question": "Quel physicien américain a fait fonctionner en 1960 le premier laser, à cristal de rubis ?",
+      "answer": "Theodore Maiman",
+      "accept": [
+        "Maiman"
+      ],
+      "choices": [
+        "Charles Townes",
+        "Arthur Schawlow",
+        "Gordon Gould"
+      ],
+      "explanation": "Le mot laser est l'acronyme anglais d'amplification de la lumière par émission stimulée de rayonnement, un principe décrit par Einstein en 1917.",
+      "wikipedia": "Theodore Maiman"
+    },
+    {
+      "id": "sciences-418",
+      "difficulty": 2,
+      "question": "Quel physicien français a conçu la lentille à échelons qui équipe les phares maritimes ?",
+      "answer": "Augustin Fresnel",
+      "accept": [
+        "Fresnel"
+      ],
+      "choices": [
+        "Léon Foucault",
+        "Hippolyte Fizeau",
+        "André-Marie Ampère"
+      ],
+      "explanation": "Plus légère et plus mince qu'une lentille classique, sa lentille permet de porter le faisceau d'un phare à plusieurs dizaines de kilomètres.",
+      "wikipedia": "Augustin Fresnel"
+    },
+    {
+      "id": "sciences-419",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le procédé, découvert par Charles Goodyear, qui consiste à chauffer le caoutchouc avec du soufre ?",
+      "answer": "vulcanisation",
+      "accept": [],
+      "choices": [
+        "galvanisation",
+        "polymérisation",
+        "nitruration"
+      ],
+      "explanation": "Le nom évoque Vulcain, dieu romain du feu ; le caoutchouc vulcanisé reste élastique sans devenir collant à la chaleur ni cassant au froid.",
+      "wikipedia": "Vulcanisation"
+    },
+    {
+      "id": "sciences-420",
+      "difficulty": 3,
+      "question": "Quel procédé de transformation de la fonte en acier par insufflation d'air porte le nom d'un ingénieur anglais ?",
+      "answer": "Bessemer",
+      "accept": [
+        "procédé Bessemer"
+      ],
+      "choices": [
+        "Martin",
+        "Solvay",
+        "Siemens"
+      ],
+      "explanation": "Breveté en 1855, le convertisseur Bessemer permit de produire de l'acier en grande quantité et à bas prix, ouvrant la voie aux rails et aux gratte-ciel.",
+      "wikipedia": "Procédé Bessemer"
+    },
+    {
+      "id": "sciences-421",
+      "difficulty": 2,
+      "question": "Quelle matière plastique, l'une des premières entièrement synthétiques, porte le nom du chimiste belge qui l'a inventée ?",
+      "answer": "bakélite",
+      "accept": [
+        "bakelite"
+      ],
+      "choices": [
+        "celluloïd",
+        "galalithe",
+        "nylon"
+      ],
+      "explanation": "Leo Baekeland l'obtint en 1907 ; isolante et résistante à la chaleur, elle servit pour les téléphones, les radios et les prises électriques.",
+      "wikipedia": "Bakélite"
+    },
+    {
+      "id": "sciences-422",
+      "difficulty": 3,
+      "question": "Quel ingénieur grec de l'Antiquité a décrit l'éolipyle, sphère mise en rotation par des jets de vapeur ?",
+      "answer": "Héron d'Alexandrie",
+      "accept": [
+        "Héron"
+      ],
+      "choices": [
+        "Archimède",
+        "Ctésibios",
+        "Euclide"
+      ],
+      "explanation": "Considéré comme la première machine à vapeur, l'éolipyle resta une curiosité ; Héron décrivit aussi des automates et des portes de temple s'ouvrant seules.",
+      "wikipedia": "Héron d'Alexandrie"
+    },
+    {
+      "id": "sciences-423",
+      "difficulty": 3,
+      "question": "Quel fonctionnaire chinois de la dynastie Han est traditionnellement crédité de l'invention du papier ?",
+      "answer": "Cai Lun",
+      "accept": [],
+      "choices": [
+        "Bi Sheng",
+        "Zhang Heng",
+        "Shen Kuo"
+      ],
+      "explanation": "Il aurait utilisé de l'écorce, des chiffons et des filets de pêche ; le papier ne parvint en Europe qu'au Moyen Âge, par l'intermédiaire du monde arabe.",
+      "wikipedia": "Cai Lun"
+    },
+    {
+      "id": "sciences-424",
+      "difficulty": 1,
+      "question": "Quelle invention chinoise, mélange de salpêtre, de soufre et de charbon, a été découverte par des alchimistes ?",
+      "answer": "poudre noire",
+      "accept": [
+        "poudre à canon"
+      ],
+      "choices": [
+        "porcelaine",
+        "boussole",
+        "papier"
+      ],
+      "explanation": "Les alchimistes chinois cherchaient un élixir d'immortalité ; la poudre servit d'abord pour les feux d'artifice avant de devenir une arme.",
+      "wikipedia": "Poudre noire"
+    },
+    {
+      "id": "sciences-425",
+      "difficulty": 1,
+      "question": "Quel instrument d'orientation, dont l'aiguille aimantée indique le nord, a été inventé en Chine ?",
+      "answer": "boussole",
+      "accept": [],
+      "choices": [
+        "sextant",
+        "astrolabe",
+        "compas"
+      ],
+      "explanation": "Une aiguille aimantée s'oriente vers le pôle Nord magnétique, qui ne coïncide pas avec le pôle Nord géographique et se déplace avec le temps.",
+      "wikipedia": "Boussole"
+    },
+    {
+      "id": "sciences-426",
+      "difficulty": 3,
+      "question": "Quel physicien français a inventé en 1859 l'accumulateur au plomb, première batterie rechargeable ?",
+      "answer": "Gaston Planté",
+      "accept": [
+        "Planté"
+      ],
+      "choices": [
+        "Georges Leclanché",
+        "Camille Faure",
+        "Edmond Becquerel"
+      ],
+      "explanation": "Les batteries de démarrage des voitures reposent toujours sur ce principe, plus d'un siècle et demi après son invention.",
+      "wikipedia": "Gaston Planté"
+    },
+    {
+      "id": "sciences-427",
+      "difficulty": 1,
+      "question": "Quel avion supersonique franco-britannique a assuré des vols commerciaux de 1976 à 2003 ?",
+      "answer": "Concorde",
+      "accept": [],
+      "choices": [
+        "Caravelle",
+        "Tupolev Tu-144",
+        "Mirage"
+      ],
+      "explanation": "Il reliait Paris ou Londres à New York en environ trois heures et demie ; un accident à Gonesse en 2000 précipita son retrait.",
+      "wikipedia": "Concorde (avion)"
+    },
+    {
+      "id": "sciences-428",
+      "difficulty": 2,
+      "question": "Quel ingénieur anglais a ouvert en 1825 la ligne Stockton–Darlington, premier chemin de fer public à vapeur ?",
+      "answer": "George Stephenson",
+      "accept": [
+        "Stephenson"
+      ],
+      "choices": [
+        "Richard Trevithick",
+        "Isambard Kingdom Brunel",
+        "James Watt"
+      ],
+      "explanation": "Avec son fils Robert, il construisit en 1829 la locomotive Rocket ; l'écartement de voie qu'il choisit est devenu la norme dans une grande partie du monde.",
+      "wikipedia": "George Stephenson"
+    },
+    {
+      "id": "sciences-429",
+      "difficulty": 1,
+      "question": "Quel train de luxe, lancé en 1883, reliait Paris à Constantinople ?",
+      "answer": "Orient-Express",
+      "accept": [
+        "Orient Express"
+      ],
+      "choices": [
+        "Transsibérien",
+        "Mistral",
+        "Train bleu"
+      ],
+      "explanation": "Il fut créé par le Belge Georges Nagelmackers, fondateur de la Compagnie internationale des wagons-lits ; Agatha Christie y situa un célèbre roman policier.",
+      "wikipedia": "Orient-Express"
+    },
+    {
+      "id": "sciences-430",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'ouvrage à portes qui permet aux bateaux de franchir une dénivellation sur un canal ?",
+      "answer": "écluse",
+      "accept": [
+        "ecluse"
+      ],
+      "choices": [
+        "barrage",
+        "digue",
+        "chenal"
+      ],
+      "explanation": "Les écluses à sas modernes, avec leurs portes busquées, sont attribuées à Léonard de Vinci ; les plus grandes séries forment des échelles d'écluses.",
+      "wikipedia": "Écluse"
+    },
+    {
+      "id": "sciences-431",
+      "difficulty": 2,
+      "question": "Quel ingénieur et entrepreneur a conçu et fait creuser le canal du Midi sous Louis XIV ?",
+      "answer": "Pierre-Paul Riquet",
+      "accept": [
+        "Riquet"
+      ],
+      "choices": [
+        "Vauban",
+        "Ferdinand de Lesseps",
+        "Colbert"
+      ],
+      "explanation": "Riquet mourut quelques mois avant l'inauguration du canal en 1681 ; l'ouvrage relie Toulouse à la Méditerranée grâce à un réservoir alimenté par la Montagne Noire.",
+      "wikipedia": "Pierre-Paul Riquet"
+    },
+    {
+      "id": "sciences-432",
+      "difficulty": 1,
+      "question": "Quel diplomate français a fait percer le canal de Suez, inauguré en 1869 ?",
+      "answer": "Ferdinand de Lesseps",
+      "accept": [
+        "Lesseps"
+      ],
+      "choices": [
+        "Gustave Eiffel",
+        "Pierre-Paul Riquet",
+        "Haussmann"
+      ],
+      "explanation": "Lesseps tenta ensuite de percer le canal de Panama, mais l'entreprise échoua et déboucha sur un retentissant scandale financier en France.",
+      "wikipedia": "Ferdinand de Lesseps"
+    },
+    {
+      "id": "sciences-433",
+      "difficulty": 3,
+      "question": "Quel mécanicien normand réalisa en 1907 le premier vol libre d'un hélicoptère avec un pilote à bord ?",
+      "answer": "Paul Cornu",
+      "accept": [
+        "Cornu"
+      ],
+      "choices": [
+        "Louis Breguet",
+        "Igor Sikorsky",
+        "Étienne Œhmichen"
+      ],
+      "explanation": "Son appareil à deux rotors ne s'éleva que de quelques dizaines de centimètres, dans un champ de Coquainvilliers, près de Lisieux.",
+      "wikipedia": "Paul Cornu (inventeur)"
+    },
+    {
+      "id": "sciences-434",
+      "difficulty": 1,
+      "question": "Quel aviateur français a réussi en 1909 la première traversée de la Manche en avion ?",
+      "answer": "Louis Blériot",
+      "accept": [
+        "Blériot"
+      ],
+      "choices": [
+        "Roland Garros",
+        "Henri Farman",
+        "Hubert Latham"
+      ],
+      "explanation": "Parti des environs de Calais, il se posa à Douvres après environ 37 minutes de vol ; le journal Daily Mail lui remit un prix de mille livres.",
+      "wikipedia": "Louis Blériot"
+    },
+    {
+      "id": "sciences-435",
+      "difficulty": 1,
+      "question": "Quel aviateur américain a réussi en 1927 la première traversée de l'Atlantique en solitaire et sans escale ?",
+      "answer": "Charles Lindbergh",
+      "accept": [
+        "Lindbergh"
+      ],
+      "choices": [
+        "Amelia Earhart",
+        "Howard Hughes",
+        "Wiley Post"
+      ],
+      "explanation": "À bord du Spirit of St. Louis, il relia New York au Bourget en environ trente-trois heures et demie et fut accueilli par une foule immense.",
+      "wikipedia": "Charles Lindbergh"
+    },
+    {
+      "id": "sciences-436",
+      "difficulty": 2,
+      "question": "Quel aviateur français a réalisé en 1913 la première traversée de la Méditerranée en avion ?",
+      "answer": "Roland Garros",
+      "accept": [
+        "Garros"
+      ],
+      "choices": [
+        "Louis Blériot",
+        "Jean Mermoz",
+        "Hélène Boucher"
+      ],
+      "explanation": "Parti de Fréjus, il atterrit à Bizerte en Tunisie après près de huit heures de vol ; un stade de tennis parisien porte son nom.",
+      "wikipedia": "Roland Garros"
+    },
+    {
+      "id": "sciences-437",
+      "difficulty": 1,
+      "question": "Quel industriel américain a généralisé en 1913 la chaîne de montage mobile dans ses usines automobiles ?",
+      "answer": "Henry Ford",
+      "accept": [
+        "Ford"
+      ],
+      "choices": [
+        "Walter Chrysler",
+        "William Durant",
+        "Louis Renault"
+      ],
+      "explanation": "Grâce à la chaîne, le temps d'assemblage d'un châssis de Ford T passa de plus de douze heures à environ une heure et demie.",
+      "wikipedia": "Henry Ford"
+    },
+    {
+      "id": "sciences-438",
+      "difficulty": 2,
+      "question": "Quel ingénieur américain lança en 1807 sur l'Hudson le premier bateau à vapeur commercialement rentable ?",
+      "answer": "Robert Fulton",
+      "accept": [
+        "Fulton"
+      ],
+      "choices": [
+        "John Fitch",
+        "Cornelius Vanderbilt",
+        "Isambard Kingdom Brunel"
+      ],
+      "explanation": "Fulton avait auparavant proposé à Napoléon un sous-marin, le Nautilus, qui fut essayé en France mais n'intéressa pas le gouvernement.",
+      "wikipedia": "Robert Fulton"
+    },
+    {
+      "id": "sciences-439",
+      "difficulty": 3,
+      "question": "Quel marquis français fit naviguer en 1783 sur la Saône, près de Lyon, le Pyroscaphe, bateau à vapeur à roues ?",
+      "answer": "Jouffroy d'Abbans",
+      "accept": [
+        "Claude de Jouffroy d'Abbans"
+      ],
+      "choices": [
+        "Joseph Cugnot",
+        "Denis Papin",
+        "Jacques Périer"
+      ],
+      "explanation": "Le bateau remonta la Saône pendant une quinzaine de minutes ; faute de privilège royal, l'inventeur ne put exploiter sa découverte.",
+      "wikipedia": "Claude de Jouffroy d'Abbans"
+    },
+    {
+      "id": "sciences-440",
+      "difficulty": 1,
+      "question": "Quelle unité de vitesse, utilisée en mer et en aviation, correspond à un mille marin par heure ?",
+      "answer": "nœud",
+      "accept": [
+        "noeud",
+        "nœuds"
+      ],
+      "choices": [
+        "mach",
+        "brasse",
+        "encablure"
+      ],
+      "explanation": "Le nom vient de la ligne de loch, corde à nœuds régulièrement espacés que l'on laissait filer à l'arrière du navire pendant un temps donné.",
+      "wikipedia": "Nœud (unité)"
+    },
+    {
+      "id": "sciences-441",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le côté gauche d'un navire lorsque l'on regarde vers l'avant ?",
+      "answer": "bâbord",
+      "accept": [
+        "babord"
+      ],
+      "choices": [
+        "tribord",
+        "proue",
+        "poupe"
+      ],
+      "explanation": "La nuit, le côté gauche du navire porte un feu rouge et le côté droit, tribord, un feu vert, afin que l'on devine sa direction.",
+      "wikipedia": "Bâbord et tribord"
+    },
+    {
+      "id": "sciences-442",
+      "difficulty": 2,
+      "question": "Quel ingénieur breton est surnommé le « père du métro » de Paris, inauguré en 1900 ?",
+      "answer": "Fulgence Bienvenüe",
+      "accept": [
+        "Bienvenüe",
+        "Bienvenue"
+      ],
+      "choices": [
+        "Hector Guimard",
+        "Eugène Belgrand",
+        "Haussmann"
+      ],
+      "explanation": "Bienvenüe avait perdu un bras dans un accident de chantier ; une station, Montparnasse-Bienvenüe, porte son nom.",
+      "wikipedia": "Fulgence Bienvenüe"
+    },
+    {
+      "id": "sciences-443",
+      "difficulty": 1,
+      "question": "Dans quelle ville a été mis en service en 1863 le premier métro du monde ?",
+      "answer": "Londres",
+      "accept": [
+        "London"
+      ],
+      "choices": [
+        "Paris",
+        "New York",
+        "Budapest"
+      ],
+      "explanation": "Les premières rames étaient tirées par des locomotives à vapeur, ce qui remplissait les tunnels de fumée ; les Londoniens surnomment leur métro « the Tube ».",
+      "wikipedia": "Métro de Londres"
+    },
+    {
+      "id": "sciences-444",
+      "difficulty": 2,
+      "question": "Quel accessoire automobile, breveté en 1903 par l'Américaine Mary Anderson, permet de voir sous la pluie ?",
+      "answer": "essuie-glace",
+      "accept": [
+        "essuie-glaces"
+      ],
+      "choices": [
+        "dégivreur",
+        "rétroviseur",
+        "pare-soleil"
+      ],
+      "explanation": "Le premier modèle de Mary Anderson s'actionnait à la main depuis l'intérieur du véhicule, à l'aide d'un levier.",
+      "wikipedia": "Essuie-glace"
+    },
+    {
+      "id": "sciences-445",
+      "difficulty": 2,
+      "question": "Quel ingénieur allemand a conçu les fusées V2, puis le lanceur américain Saturn V du programme Apollo ?",
+      "answer": "Wernher von Braun",
+      "accept": [
+        "von Braun"
+      ],
+      "choices": [
+        "Hermann Oberth",
+        "Sergueï Korolev",
+        "Robert Goddard"
+      ],
+      "explanation": "Après la guerre, il fut emmené aux États-Unis avec une partie de son équipe et dirigea le centre Marshall de la NASA.",
+      "wikipedia": "Wernher von Braun"
+    },
+    {
+      "id": "sciences-446",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la réaction nucléaire au cours de laquelle un noyau lourd se scinde en deux noyaux plus légers ?",
+      "answer": "fission",
+      "accept": [
+        "fission nucléaire"
+      ],
+      "choices": [
+        "fusion",
+        "décroissance",
+        "ionisation"
+      ],
+      "explanation": "C'est la fission de l'uranium 235 qui produit la chaleur des centrales nucléaires actuelles ; elle libère des neutrons qui entretiennent une réaction en chaîne.",
+      "wikipedia": "Fission nucléaire"
+    },
+    {
+      "id": "sciences-447",
+      "difficulty": 1,
+      "question": "Quel métal radioactif est le combustible le plus utilisé dans les centrales nucléaires ?",
+      "answer": "uranium",
+      "accept": [],
+      "choices": [
+        "plutonium",
+        "thorium",
+        "radium"
+      ],
+      "explanation": "Il fut nommé en 1789 d'après la planète Uranus, découverte quelques années plus tôt ; c'est sur un sel d'uranium que Becquerel découvrit la radioactivité.",
+      "wikipedia": "Uranium"
+    },
+    {
+      "id": "sciences-448",
+      "difficulty": 1,
+      "question": "Près de quelle ville ukrainienne une centrale nucléaire a-t-elle explosé en avril 1986 ?",
+      "answer": "Tchernobyl",
+      "accept": [
+        "Chernobyl"
+      ],
+      "choices": [
+        "Kharkiv",
+        "Odessa",
+        "Zaporijia"
+      ],
+      "explanation": "La ville voisine de Pripiat, construite pour les employés, fut évacuée et reste une ville fantôme au cœur d'une zone d'exclusion.",
+      "wikipedia": "Catastrophe nucléaire de Tchernobyl"
+    },
+    {
+      "id": "sciences-449",
+      "difficulty": 2,
+      "question": "Quel réacteur expérimental international, destiné à étudier la fusion nucléaire, est construit à Cadarache ?",
+      "answer": "ITER",
+      "accept": [],
+      "choices": [
+        "JET",
+        "CERN",
+        "Superphénix"
+      ],
+      "explanation": "Le projet réunit notamment l'Union européenne, les États-Unis, la Chine, la Russie, le Japon, l'Inde et la Corée du Sud ; son nom signifie « le chemin » en latin.",
+      "wikipedia": "ITER"
+    },
+    {
+      "id": "sciences-450",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'énergie tirée de la chaleur des profondeurs de la Terre ?",
+      "answer": "géothermie",
+      "accept": [
+        "geothermie",
+        "énergie géothermique"
+      ],
+      "choices": [
+        "hydrolienne",
+        "biomasse",
+        "marémotrice"
+      ],
+      "explanation": "L'Islande utilise abondamment la géothermie pour chauffer ses maisons et ses serres et pour produire de l'électricité.",
+      "wikipedia": "Géothermie"
+    },
+    {
+      "id": "sciences-451",
+      "difficulty": 2,
+      "question": "Quel adjectif qualifie l'énergie tirée des marées, exploitée depuis 1966 par l'usine de la Rance ?",
+      "answer": "marémotrice",
+      "accept": [
+        "maremotrice",
+        "énergie marémotrice"
+      ],
+      "choices": [
+        "hydrolienne",
+        "houlomotrice",
+        "géothermique"
+      ],
+      "explanation": "Le barrage de la Rance, entre Saint-Malo et Dinard, fut la première usine marémotrice au monde ; ses turbines fonctionnent dans les deux sens du courant.",
+      "wikipedia": "Usine marémotrice de la Rance"
+    },
+    {
+      "id": "sciences-452",
+      "difficulty": 3,
+      "question": "Quel physicien français a découvert en 1839 l'effet photovoltaïque, à la base des panneaux solaires ?",
+      "answer": "Edmond Becquerel",
+      "accept": [
+        "Alexandre Edmond Becquerel"
+      ],
+      "choices": [
+        "Henri Becquerel",
+        "Augustin Fresnel",
+        "Antoine Becquerel"
+      ],
+      "explanation": "Il était le père d'Henri Becquerel, qui découvrit la radioactivité ; quatre générations de Becquerel se succédèrent au Muséum d'histoire naturelle.",
+      "wikipedia": "Edmond Becquerel"
+    },
+    {
+      "id": "sciences-453",
+      "difficulty": 1,
+      "question": "Quel combustible fossile solide, extrait des mines, a alimenté la révolution industrielle ?",
+      "answer": "charbon",
+      "accept": [
+        "houille"
+      ],
+      "choices": [
+        "pétrole",
+        "tourbe",
+        "uranium"
+      ],
+      "explanation": "Le charbon provient de la transformation, sur des millions d'années, d'immenses forêts ensevelies ; le Nord de la France en a extrait jusqu'en 1990.",
+      "wikipedia": "Charbon"
+    },
+    {
+      "id": "sciences-454",
+      "difficulty": 1,
+      "question": "Quelle unité du Système international mesure l'énergie, du nom d'un physicien anglais fils de brasseur ?",
+      "answer": "joule",
+      "accept": [],
+      "choices": [
+        "watt",
+        "calorie",
+        "newton"
+      ],
+      "explanation": "James Prescott Joule montra que le travail mécanique pouvait se transformer en chaleur ; une calorie vaut environ 4,18 joules.",
+      "wikipedia": "Joule"
+    },
+    {
+      "id": "sciences-455",
+      "difficulty": 1,
+      "question": "Quelle unité de base du Système international mesure l'intensité du courant électrique ?",
+      "answer": "ampère",
+      "accept": [
+        "ampere"
+      ],
+      "choices": [
+        "volt",
+        "watt",
+        "coulomb"
+      ],
+      "explanation": "Elle porte le nom d'André-Marie Ampère, physicien lyonnais fondateur de l'électrodynamique ; son nom figure parmi les 72 savants inscrits sur la tour Eiffel.",
+      "wikipedia": "Ampère"
+    },
+    {
+      "id": "sciences-456",
+      "difficulty": 2,
+      "question": "Quel immense barrage hydroélectrique chinois a été construit sur le Yangzi Jiang ?",
+      "answer": "Trois-Gorges",
+      "accept": [
+        "barrage des Trois-Gorges"
+      ],
+      "choices": [
+        "Itaipu",
+        "Assouan",
+        "Grand Coulee"
+      ],
+      "explanation": "C'est la plus puissante centrale électrique jamais construite ; sa mise en eau a nécessité le déplacement de plus d'un million d'habitants.",
+      "wikipedia": "Barrage des Trois-Gorges"
+    },
+    {
+      "id": "sciences-457",
+      "difficulty": 1,
+      "question": "Quel métal très léger est au cœur des batteries des téléphones portables et des voitures électriques ?",
+      "answer": "lithium",
+      "accept": [],
+      "choices": [
+        "cobalt",
+        "sodium",
+        "magnésium"
+      ],
+      "explanation": "C'est le plus léger de tous les métaux : il est si peu dense qu'il flotte sur l'eau, avec laquelle il réagit vivement.",
+      "wikipedia": "Lithium"
+    },
+    {
+      "id": "sciences-458",
+      "difficulty": 1,
+      "question": "Quelle centrale nucléaire japonaise a été gravement endommagée par le tsunami de mars 2011 ?",
+      "answer": "Fukushima",
+      "accept": [
+        "Fukushima Daiichi"
+      ],
+      "choices": [
+        "Hiroshima",
+        "Kashiwazaki",
+        "Tokaimura"
+      ],
+      "explanation": "Comme Tchernobyl, cet accident a été classé au niveau 7, le plus élevé de l'échelle internationale des événements nucléaires.",
+      "wikipedia": "Accident nucléaire de Fukushima"
+    },
+    {
+      "id": "sciences-459",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le gaz naturel piégé dans des roches argileuses, extrait par fracturation hydraulique ?",
+      "answer": "gaz de schiste",
+      "accept": [
+        "gaz de shale"
+      ],
+      "choices": [
+        "gaz de houille",
+        "grisou",
+        "biogaz"
+      ],
+      "explanation": "La France a interdit la fracturation hydraulique en 2011, alors que son essor a fait des États-Unis un grand producteur de gaz.",
+      "wikipedia": "Gaz de schiste"
+    },
+    {
+      "id": "sciences-460",
+      "difficulty": 2,
+      "question": "Quelle unité de puissance, notée ch, fut introduite pour comparer les premières machines industrielles aux animaux de trait ?",
+      "answer": "cheval-vapeur",
+      "accept": [
+        "cheval vapeur",
+        "chevaux-vapeur"
+      ],
+      "choices": [
+        "kilowatt",
+        "watt",
+        "frigorie"
+      ],
+      "explanation": "Le cheval-vapeur vaut environ 735 watts ; il ne faut pas le confondre avec le cheval fiscal, qui sert à calculer le prix de la carte grise.",
+      "wikipedia": "Cheval-vapeur"
+    },
+    {
+      "id": "sciences-461",
+      "difficulty": 1,
+      "question": "Quelle roche volcanique très légère et poreuse a la particularité de flotter sur l'eau ?",
+      "answer": "pierre ponce",
+      "accept": [
+        "ponce"
+      ],
+      "choices": [
+        "basalte",
+        "obsidienne",
+        "granite"
+      ],
+      "explanation": "Ses nombreuses bulles viennent du gaz contenu dans la lave qui s'échappe brutalement lors d'éruptions explosives ; elle sert à adoucir la peau des pieds.",
+      "wikipedia": "Ponce"
+    },
+    {
+      "id": "sciences-462",
+      "difficulty": 2,
+      "question": "Quelle roche volcanique sombre, souvent en orgues hexagonales, forme l'essentiel du plancher océanique ?",
+      "answer": "basalte",
+      "accept": [],
+      "choices": [
+        "granite",
+        "calcaire",
+        "gneiss"
+      ],
+      "explanation": "La Chaussée des Géants, en Irlande du Nord, est formée de milliers de colonnes de basalte nées du refroidissement lent d'une coulée de lave.",
+      "wikipedia": "Basalte"
+    },
+    {
+      "id": "sciences-463",
+      "difficulty": 2,
+      "question": "Quel verre volcanique noir et très tranchant servait aux peuples préhistoriques à fabriquer des lames ?",
+      "answer": "obsidienne",
+      "accept": [],
+      "choices": [
+        "silex",
+        "jade",
+        "quartz"
+      ],
+      "explanation": "Elle se forme quand une lave riche en silice refroidit si vite que les cristaux n'ont pas le temps de se former ; les Aztèques en faisaient des armes.",
+      "wikipedia": "Obsidienne"
+    },
+    {
+      "id": "sciences-464",
+      "difficulty": 1,
+      "question": "Quelle roche magmatique à gros grains de quartz, feldspath et mica affleure en rose à Ploumanac'h ?",
+      "answer": "granite",
+      "accept": [
+        "granit"
+      ],
+      "choices": [
+        "basalte",
+        "marbre",
+        "grès"
+      ],
+      "explanation": "Le granite se forme par refroidissement lent du magma en profondeur, ce qui laisse le temps aux cristaux de grossir ; il est très utilisé pour les pavés.",
+      "wikipedia": "Granite"
+    },
+    {
+      "id": "sciences-465",
+      "difficulty": 1,
+      "question": "Quelle roche métamorphique issue du calcaire a été extraite à Carrare pour les sculptures de Michel-Ange ?",
+      "answer": "marbre",
+      "accept": [],
+      "choices": [
+        "granite",
+        "albâtre",
+        "travertin"
+      ],
+      "explanation": "Le marbre provient de la recristallisation du calcaire sous l'effet de la chaleur et de la pression ; ses veines colorées sont dues à des impuretés.",
+      "wikipedia": "Marbre"
+    },
+    {
+      "id": "sciences-466",
+      "difficulty": 1,
+      "question": "Quelle roche qui se débite en fines plaques sert traditionnellement à couvrir les toits, notamment en Anjou ?",
+      "answer": "ardoise",
+      "accept": [],
+      "choices": [
+        "tuile",
+        "lauze",
+        "schiste"
+      ],
+      "explanation": "Avant le papier bon marché, les écoliers écrivaient à la craie sur de petites plaques de cette roche ; Trélazé, près d'Angers, l'exploita pendant des siècles.",
+      "wikipedia": "Ardoise"
+    },
+    {
+      "id": "sciences-467",
+      "difficulty": 1,
+      "question": "Quel minéral, dioxyde de silicium, est le principal constituant de la plupart des sables ?",
+      "answer": "quartz",
+      "accept": [],
+      "choices": [
+        "mica",
+        "feldspath",
+        "calcite"
+      ],
+      "explanation": "Le quartz est piézoélectrique : soumis à un courant, il vibre à une fréquence très stable, ce qui sert à régler les montres à quartz.",
+      "wikipedia": "Quartz (minéral)"
+    },
+    {
+      "id": "sciences-468",
+      "difficulty": 1,
+      "question": "Quelle forme cristalline du carbone, tendre et grise, sert à fabriquer les mines de crayon ?",
+      "answer": "graphite",
+      "accept": [],
+      "choices": [
+        "plomb",
+        "anthracite",
+        "diamant"
+      ],
+      "explanation": "On parle encore de « mine de plomb » car on a longtemps confondu le graphite avec un minerai de plomb ; il ne contient pas ce métal.",
+      "wikipedia": "Graphite"
+    },
+    {
+      "id": "sciences-469",
+      "difficulty": 2,
+      "question": "Quel minerai d'aluminium doit son nom à un village des Alpilles, en Provence ?",
+      "answer": "bauxite",
+      "accept": [],
+      "choices": [
+        "hématite",
+        "galène",
+        "cassitérite"
+      ],
+      "explanation": "Le minerai fut identifié en 1821 aux Baux-de-Provence par Pierre Berthier ; l'aluminium en est extrait par électrolyse.",
+      "wikipedia": "Bauxite"
+    },
+    {
+      "id": "sciences-470",
+      "difficulty": 2,
+      "question": "Quel minéral jaune et brillant, sulfure de fer, est surnommé « l'or des fous » ?",
+      "answer": "pyrite",
+      "accept": [],
+      "choices": [
+        "chalcopyrite",
+        "galène",
+        "mica"
+      ],
+      "explanation": "Son nom vient du grec pyr, le feu, car frappée contre un silex elle produit des étincelles : elle servit à allumer le feu dès la Préhistoire.",
+      "wikipedia": "Pyrite"
+    },
+    {
+      "id": "sciences-471",
+      "difficulty": 3,
+      "question": "Quel minéral d'oxyde de fer, souvent rouge sang à l'état de poudre, est le principal minerai de fer ?",
+      "answer": "hématite",
+      "accept": [
+        "hematite"
+      ],
+      "choices": [
+        "magnétite",
+        "sidérite",
+        "limonite"
+      ],
+      "explanation": "Son nom vient du grec haima, le sang ; réduite en poudre, elle servait de pigment ocre rouge aux peintres de la Préhistoire.",
+      "wikipedia": "Hématite"
+    },
+    {
+      "id": "sciences-472",
+      "difficulty": 3,
+      "question": "Quel nom abrégé donne-t-on à la discontinuité entre la croûte et le manteau, découverte par un sismologue croate ?",
+      "answer": "Moho",
+      "accept": [
+        "Mohorovičić",
+        "discontinuité de Mohorovičić",
+        "Mohorovicic"
+      ],
+      "choices": [
+        "Gutenberg",
+        "Lehmann",
+        "Conrad"
+      ],
+      "explanation": "Andrija Mohorovičić la découvrit en 1909 en constatant que les ondes sismiques accéléraient brusquement à quelques dizaines de kilomètres de profondeur.",
+      "wikipedia": "Discontinuité de Mohorovičić"
+    },
+    {
+      "id": "sciences-473",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'alignement de volcans et de zones sismiques qui entoure l'océan Pacifique ?",
+      "answer": "ceinture de feu",
+      "accept": [
+        "ceinture de feu du Pacifique",
+        "cercle de feu"
+      ],
+      "choices": [
+        "dorsale atlantique",
+        "rift africain",
+        "arc alpin"
+      ],
+      "explanation": "On y trouve la majorité des volcans actifs émergés de la planète ; elle correspond aux zones où les plaques océaniques plongent sous d'autres plaques.",
+      "wikipedia": "Ceinture de feu du Pacifique"
+    },
+    {
+      "id": "sciences-474",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une source chaude qui projette périodiquement de l'eau et de la vapeur en hauteur ?",
+      "answer": "geyser",
+      "accept": [],
+      "choices": [
+        "fumerolle",
+        "solfatare",
+        "résurgence"
+      ],
+      "explanation": "Le mot vient du Geysir, une source jaillissante d'Islande ; le parc de Yellowstone aux États-Unis en abrite plus de la moitié du nombre mondial.",
+      "wikipedia": "Geyser"
+    },
+    {
+      "id": "sciences-475",
+      "difficulty": 2,
+      "question": "Quel volcan indonésien a produit en 1815 une éruption si violente que l'année suivante fut appelée « l'année sans été » ?",
+      "answer": "Tambora",
+      "accept": [],
+      "choices": [
+        "Krakatoa",
+        "Merapi",
+        "Pinatubo"
+      ],
+      "explanation": "Les cendres projetées dans l'atmosphère refroidirent le climat : en 1816, les récoltes furent désastreuses en Europe et en Amérique du Nord.",
+      "wikipedia": "Tambora"
+    },
+    {
+      "id": "sciences-476",
+      "difficulty": 2,
+      "question": "Quel volcan indonésien, situé dans le détroit de la Sonde, a explosé en 1883 avec un bruit entendu à des milliers de kilomètres ?",
+      "answer": "Krakatoa",
+      "accept": [
+        "Krakatau"
+      ],
+      "choices": [
+        "Tambora",
+        "Merapi",
+        "Agung"
+      ],
+      "explanation": "Les tsunamis provoqués par l'éruption firent des dizaines de milliers de victimes ; un nouveau volcan, l'Anak Krakatau, l'« enfant du Krakatoa », a émergé depuis.",
+      "wikipedia": "Krakatoa"
+    },
+    {
+      "id": "sciences-477",
+      "difficulty": 3,
+      "question": "Quel adjectif, tiré d'une montagne de la Martinique, qualifie les éruptions très explosives à nuées ardentes ?",
+      "answer": "péléen",
+      "accept": [
+        "péléenne",
+        "peleen"
+      ],
+      "choices": [
+        "strombolien",
+        "hawaïen",
+        "vulcanien"
+      ],
+      "explanation": "En 1902, une nuée ardente de la montagne Pelée détruisit la ville de Saint-Pierre en quelques minutes, faisant environ 28 000 morts.",
+      "wikipedia": "Montagne Pelée"
+    },
+    {
+      "id": "sciences-478",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la vaste dépression circulaire formée par l'effondrement du sommet d'un volcan ?",
+      "answer": "caldeira",
+      "accept": [
+        "caldera"
+      ],
+      "choices": [
+        "cratère",
+        "maar",
+        "cirque"
+      ],
+      "explanation": "Le mot vient du portugais et signifie « chaudron » ; certaines caldeiras, comme celle de Yellowstone, mesurent plusieurs dizaines de kilomètres.",
+      "wikipedia": "Caldeira"
+    },
+    {
+      "id": "sciences-479",
+      "difficulty": 2,
+      "question": "Quel alignement de quelque quatre-vingts volcans endormis d'Auvergne est inscrit au patrimoine mondial depuis 2018 ?",
+      "answer": "chaîne des Puys",
+      "accept": [
+        "chaine des Puys",
+        "monts Dômes"
+      ],
+      "choices": [
+        "monts Dore",
+        "monts du Cantal",
+        "massif du Cézallier"
+      ],
+      "explanation": "Longue de plus de 45 kilomètres et dominée par le puy de Dôme, la chaîne est géologiquement très jeune : ses éruptions les plus récentes remontent à environ 8 600 ans.",
+      "wikipedia": "Chaîne des Puys"
+    },
+    {
+      "id": "sciences-480",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la science qui étudie les fossiles et les êtres vivants disparus ?",
+      "answer": "paléontologie",
+      "accept": [
+        "paleontologie"
+      ],
+      "choices": [
+        "archéologie",
+        "anthropologie",
+        "géomorphologie"
+      ],
+      "explanation": "La paléontologie permet de dater les couches de roches : certains fossiles très répandus mais ayant vécu peu de temps servent de repères, les fossiles stratigraphiques.",
+      "wikipedia": "Paléontologie"
+    },
+    {
+      "id": "sciences-481",
+      "difficulty": 2,
+      "question": "Quel naturaliste français, père de l'anatomie comparée, a démontré que des espèces avaient disparu ?",
+      "answer": "Georges Cuvier",
+      "accept": [
+        "Cuvier"
+      ],
+      "choices": [
+        "Jean-Baptiste de Lamarck",
+        "Buffon",
+        "Étienne Geoffroy Saint-Hilaire"
+      ],
+      "explanation": "Cuvier se vantait de pouvoir reconstituer un animal entier à partir d'un seul os ; il expliquait les extinctions par une série de catastrophes.",
+      "wikipedia": "Georges Cuvier"
+    },
+    {
+      "id": "sciences-482",
+      "difficulty": 1,
+      "question": "Quel mollusque marin fossile, à coquille enroulée en spirale, a disparu en même temps que les dinosaures ?",
+      "answer": "ammonite",
+      "accept": [
+        "ammonites"
+      ],
+      "choices": [
+        "nautile",
+        "trilobite",
+        "bélemnite"
+      ],
+      "explanation": "Leur nom vient d'Amon, dieu égyptien représenté avec des cornes de bélier enroulées ; le nautile actuel en est un lointain cousin.",
+      "wikipedia": "Ammonoidea"
+    },
+    {
+      "id": "sciences-483",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la résine fossile d'arbres, souvent jaune doré, qui peut emprisonner des insectes ?",
+      "answer": "ambre",
+      "accept": [],
+      "choices": [
+        "copal",
+        "jais",
+        "ocre"
+      ],
+      "explanation": "Frotté, l'ambre attire les petits objets : son nom grec, elektron, est à l'origine du mot électricité.",
+      "wikipedia": "Ambre"
+    },
+    {
+      "id": "sciences-484",
+      "difficulty": 3,
+      "question": "Quel géologue écossais du XVIIIe siècle est considéré comme le père de la géologie moderne ?",
+      "answer": "James Hutton",
+      "accept": [
+        "Hutton"
+      ],
+      "choices": [
+        "Charles Lyell",
+        "William Smith",
+        "Adam Sedgwick"
+      ],
+      "explanation": "Hutton comprit que les paysages se forment par des processus lents encore actifs aujourd'hui, ce qui impliquait une Terre bien plus vieille qu'on ne le pensait.",
+      "wikipedia": "James Hutton"
+    },
+    {
+      "id": "sciences-485",
+      "difficulty": 2,
+      "question": "Quelle période de l'ère primaire doit son nom aux nombreux gisements de houille formés à cette époque ?",
+      "answer": "Carbonifère",
+      "accept": [
+        "carbonifere"
+      ],
+      "choices": [
+        "Dévonien",
+        "Permien",
+        "Silurien"
+      ],
+      "explanation": "Les immenses forêts de fougères arborescentes et de prêles géantes de cette époque sont à l'origine d'une grande partie du charbon exploité depuis la révolution industrielle.",
+      "wikipedia": "Carbonifère"
+    },
+    {
+      "id": "sciences-486",
+      "difficulty": 1,
+      "question": "Quelle période géologique de l'ère secondaire tire son nom d'un massif montagneux franco-suisse ?",
+      "answer": "Jurassique",
+      "accept": [
+        "jurassique"
+      ],
+      "choices": [
+        "Crétacé",
+        "Trias",
+        "Permien"
+      ],
+      "explanation": "Le nom fut proposé par le naturaliste Alexander von Humboldt d'après les calcaires du massif du Jura ; c'est l'âge d'or des grands dinosaures sauropodes.",
+      "wikipedia": "Jurassique"
+    },
+    {
+      "id": "sciences-487",
+      "difficulty": 2,
+      "question": "Quelle période géologique doit son nom au mot latin désignant la craie ?",
+      "answer": "Crétacé",
+      "accept": [
+        "cretace"
+      ],
+      "choices": [
+        "Trias",
+        "Jurassique",
+        "Éocène"
+      ],
+      "explanation": "Les falaises blanches d'Étretat et de Douvres datent de cette période ; elles sont formées de squelettes d'algues microscopiques accumulés au fond des mers.",
+      "wikipedia": "Crétacé"
+    },
+    {
+      "id": "sciences-488",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la chaîne de montagnes sous-marines où se forme la nouvelle croûte océanique ?",
+      "answer": "dorsale",
+      "accept": [
+        "dorsale océanique"
+      ],
+      "choices": [
+        "fosse",
+        "rift",
+        "guyot"
+      ],
+      "explanation": "La dorsale médio-atlantique émerge en Islande : on y voit les plaques nord-américaine et eurasienne s'écarter de quelques centimètres par an.",
+      "wikipedia": "Dorsale (géologie)"
+    },
+    {
+      "id": "sciences-489",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le phénomène par lequel une plaque océanique plonge sous une autre plaque ?",
+      "answer": "subduction",
+      "accept": [],
+      "choices": [
+        "obduction",
+        "collision",
+        "rifting"
+      ],
+      "explanation": "Les zones de subduction provoquent les séismes les plus puissants et forment des fosses océaniques profondes, comme celle des Mariannes.",
+      "wikipedia": "Subduction"
+    },
+    {
+      "id": "sciences-490",
+      "difficulty": 2,
+      "question": "Comment s'appelle la grande faille de Californie qui sépare la plaque pacifique de la plaque nord-américaine ?",
+      "answer": "San Andreas",
+      "accept": [
+        "faille de San Andreas"
+      ],
+      "choices": [
+        "San Jacinto",
+        "Hayward",
+        "Garlock"
+      ],
+      "explanation": "Elle est responsable du séisme de San Francisco de 1906, suivi d'un gigantesque incendie qui détruisit une grande partie de la ville.",
+      "wikipedia": "Faille de San Andreas"
+    },
+    {
+      "id": "sciences-491",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'appareil qui enregistre les mouvements du sol lors des tremblements de terre ?",
+      "answer": "sismographe",
+      "accept": [
+        "sismomètre",
+        "séismographe"
+      ],
+      "choices": [
+        "gravimètre",
+        "magnétomètre",
+        "inclinomètre"
+      ],
+      "explanation": "Le plus ancien détecteur de séismes connu fut conçu en Chine au IIe siècle par Zhang Heng : une bille tombait de la gueule d'un dragon de bronze.",
+      "wikipedia": "Sismographe"
+    },
+    {
+      "id": "sciences-492",
+      "difficulty": 3,
+      "question": "Quel relief calcaire, creusé de grottes, de dolines et de rivières souterraines, tire son nom d'une région de Slovénie ?",
+      "answer": "karst",
+      "accept": [],
+      "choices": [
+        "causse",
+        "lapiaz",
+        "aven"
+      ],
+      "explanation": "La dissolution du calcaire par l'eau de pluie chargée de dioxyde de carbone crée ces paysages, comme les Causses ou le gouffre de Padirac en France.",
+      "wikipedia": "Karst"
+    },
+    {
+      "id": "sciences-493",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une ancienne vallée glaciaire envahie par la mer, typique des côtes de Norvège ?",
+      "answer": "fjord",
+      "accept": [],
+      "choices": [
+        "ria",
+        "estuaire",
+        "lagune"
+      ],
+      "explanation": "Les glaciers ont creusé ces vallées bien en dessous du niveau de la mer : certains fjords norvégiens dépassent mille mètres de profondeur.",
+      "wikipedia": "Fjord"
+    },
+    {
+      "id": "sciences-494",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'accumulation de débris rocheux transportés puis déposés par un glacier ?",
+      "answer": "moraine",
+      "accept": [],
+      "choices": [
+        "éboulis",
+        "alluvion",
+        "sérac"
+      ],
+      "explanation": "Les moraines frontales marquent l'avancée maximale d'un glacier ; elles retiennent parfois des lacs, comme plusieurs lacs du nord de l'Italie.",
+      "wikipedia": "Moraine"
+    },
+    {
+      "id": "sciences-495",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on un gros rocher transporté très loin de son lieu d'origine par un glacier ?",
+      "answer": "bloc erratique",
+      "accept": [
+        "erratique"
+      ],
+      "choices": [
+        "dolmen",
+        "menhir",
+        "inselberg"
+      ],
+      "explanation": "Ces blocs, parfois énormes, ont longtemps intrigué : on les attribuait au Déluge avant de comprendre que les glaciers s'étendaient autrefois beaucoup plus loin.",
+      "wikipedia": "Bloc erratique"
+    },
+    {
+      "id": "sciences-496",
+      "difficulty": 1,
+      "question": "Quelle roche siliceuse très dure, qui se brise en éclats tranchants, servait aux hommes préhistoriques pour leurs outils ?",
+      "answer": "silex",
+      "accept": [],
+      "choices": [
+        "obsidienne",
+        "grès",
+        "quartzite"
+      ],
+      "explanation": "Frappé contre de la pyrite, le silex produit des étincelles ; il équipa les platines des armes à feu jusqu'au XIXe siècle, d'où le nom de fusil.",
+      "wikipedia": "Silex"
+    },
+    {
+      "id": "sciences-497",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les gouttelettes d'eau qui se déposent sur l'herbe au petit matin par condensation ?",
+      "answer": "rosée",
+      "accept": [
+        "rosee"
+      ],
+      "choices": [
+        "givre",
+        "bruine",
+        "brume"
+      ],
+      "explanation": "La rosée se forme lorsque le sol se refroidit pendant une nuit claire jusqu'à une température appelée point de rosée ; sous zéro degré, elle devient gelée blanche.",
+      "wikipedia": "Rosée"
+    },
+    {
+      "id": "sciences-498",
+      "difficulty": 1,
+      "question": "Quel nuage de haute altitude, en fins filaments blancs, est composé de cristaux de glace ?",
+      "answer": "cirrus",
+      "accept": [],
+      "choices": [
+        "cumulus",
+        "stratus",
+        "nimbostratus"
+      ],
+      "explanation": "Son nom latin signifie « boucle de cheveux » ; les traînées de condensation des avions peuvent se transformer en nuages semblables.",
+      "wikipedia": "Cirrus"
+    },
+    {
+      "id": "sciences-499",
+      "difficulty": 1,
+      "question": "Quel vent froid et sec descend la vallée du Rhône jusqu'à la Méditerranée ?",
+      "answer": "mistral",
+      "accept": [],
+      "choices": [
+        "tramontane",
+        "sirocco",
+        "autan"
+      ],
+      "explanation": "Son nom vient de l'occitan et signifie « magistral » ; il chasse les nuages, ce qui donne à la Provence son ciel bleu et sa lumière.",
+      "wikipedia": "Mistral (vent)"
+    },
+    {
+      "id": "sciences-500",
+      "difficulty": 2,
+      "question": "Quel vent froid du nord-ouest souffle sur le Roussillon et le Languedoc ?",
+      "answer": "tramontane",
+      "accept": [],
+      "choices": [
+        "mistral",
+        "marin",
+        "sirocco"
+      ],
+      "explanation": "Son nom italien signifie « au-delà des montagnes » ; il est aussi à l'origine de l'expression « perdre la tramontane », c'est-à-dire perdre le nord.",
+      "wikipedia": "Tramontane"
+    },
+    {
+      "id": "sciences-501",
+      "difficulty": 2,
+      "question": "Quel vent chaud et sec, venu du Sahara, souffle parfois sur le sud de l'Europe ?",
+      "answer": "sirocco",
+      "accept": [
+        "siroco"
+      ],
+      "choices": [
+        "mistral",
+        "bora",
+        "zéphyr"
+      ],
+      "explanation": "En traversant la Méditerranée, il se charge d'humidité et peut déposer sur l'Europe des pluies teintées de sable rouge.",
+      "wikipedia": "Sirocco"
+    },
+    {
+      "id": "sciences-502",
+      "difficulty": 3,
+      "question": "Quel vent sec et chargé de poussière souffle en hiver du Sahara vers le golfe de Guinée ?",
+      "answer": "harmattan",
+      "accept": [],
+      "choices": [
+        "simoun",
+        "khamsin",
+        "sirocco"
+      ],
+      "explanation": "Ce vent d'alizé continental assèche l'air au point de fendiller le bois et de voiler le soleil pendant des jours en Afrique de l'Ouest.",
+      "wikipedia": "Harmattan"
+    },
+    {
+      "id": "sciences-503",
+      "difficulty": 1,
+      "question": "Quel vent saisonnier apporte en été des pluies abondantes sur l'Inde et l'Asie du Sud ?",
+      "answer": "mousson",
+      "accept": [],
+      "choices": [
+        "alizé",
+        "typhon",
+        "blizzard"
+      ],
+      "explanation": "La mousson s'inverse selon la saison : elle souffle de la mer vers les terres en été et des terres vers la mer en hiver.",
+      "wikipedia": "Mousson"
+    },
+    {
+      "id": "sciences-504",
+      "difficulty": 2,
+      "question": "Quelle échelle, imaginée par un amiral britannique, mesure la force du vent de 0 à 12 ?",
+      "answer": "Beaufort",
+      "accept": [
+        "échelle de Beaufort"
+      ],
+      "choices": [
+        "Saffir-Simpson",
+        "Fujita",
+        "Mercalli"
+      ],
+      "explanation": "Le degré 12 correspond à un ouragan ; à l'origine, l'échelle décrivait l'effet du vent sur la voilure d'un navire de guerre.",
+      "wikipedia": "Échelle de Beaufort"
+    },
+    {
+      "id": "sciences-505",
+      "difficulty": 3,
+      "question": "Quelle échelle classe les ouragans en cinq catégories selon la vitesse de leurs vents ?",
+      "answer": "Saffir-Simpson",
+      "accept": [
+        "échelle de Saffir-Simpson"
+      ],
+      "choices": [
+        "Beaufort",
+        "Fujita",
+        "Douglas"
+      ],
+      "explanation": "Elle doit son nom à l'ingénieur Herbert Saffir et au météorologue Robert Simpson ; la catégorie 5 correspond à des vents supérieurs à 250 km/h environ.",
+      "wikipedia": "Échelle de Saffir-Simpson"
+    },
+    {
+      "id": "sciences-506",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un cyclone tropical dans le nord-ouest de l'océan Pacifique, en Asie ?",
+      "answer": "typhon",
+      "accept": [],
+      "choices": [
+        "ouragan",
+        "tornade",
+        "mousson"
+      ],
+      "explanation": "Ouragan, typhon et cyclone désignent le même phénomène : seul le nom change selon l'océan où il se forme.",
+      "wikipedia": "Cyclone tropical"
+    },
+    {
+      "id": "sciences-507",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une zone de hautes pressions atmosphériques, généralement associée au beau temps ?",
+      "answer": "anticyclone",
+      "accept": [],
+      "choices": [
+        "dépression",
+        "talweg",
+        "front froid"
+      ],
+      "explanation": "Dans l'hémisphère Nord, les vents tournent autour des anticyclones dans le sens des aiguilles d'une montre, et en sens inverse autour des dépressions.",
+      "wikipedia": "Anticyclone"
+    },
+    {
+      "id": "sciences-508",
+      "difficulty": 2,
+      "question": "Quel instrument mesure le taux d'humidité de l'air ?",
+      "answer": "hygromètre",
+      "accept": [
+        "hygrometre"
+      ],
+      "choices": [
+        "pluviomètre",
+        "thermomètre",
+        "manomètre"
+      ],
+      "explanation": "Certains hygromètres anciens utilisaient un cheveu, qui s'allonge quand l'air devient humide ; Horace-Bénédict de Saussure en construisit un célèbre modèle.",
+      "wikipedia": "Hygromètre"
+    },
+    {
+      "id": "sciences-509",
+      "difficulty": 1,
+      "question": "Quel instrument souvent placé au sommet des clochers indique la direction du vent ?",
+      "answer": "girouette",
+      "accept": [],
+      "choices": [
+        "anémomètre",
+        "manche à air",
+        "baromètre"
+      ],
+      "explanation": "Le coq qui orne de nombreux clochers est une girouette ; on désigne par le même mot une personne qui change souvent d'avis.",
+      "wikipedia": "Girouette"
+    },
+    {
+      "id": "sciences-510",
+      "difficulty": 2,
+      "question": "Quelle force due à la rotation de la Terre dévie les vents et fait tourner les cyclones ?",
+      "answer": "Coriolis",
+      "accept": [
+        "force de Coriolis"
+      ],
+      "choices": [
+        "Laplace",
+        "Lorentz",
+        "Euler"
+      ],
+      "explanation": "Elle porte le nom de l'ingénieur français Gaspard-Gustave Coriolis ; elle fait tourner les cyclones en sens inverse dans les deux hémisphères.",
+      "wikipedia": "Force de Coriolis"
+    },
+    {
+      "id": "sciences-511",
+      "difficulty": 3,
+      "question": "Quel chimiste suédois a calculé dès 1896 le réchauffement que provoquerait un doublement du CO2 atmosphérique ?",
+      "answer": "Svante Arrhenius",
+      "accept": [
+        "Arrhenius"
+      ],
+      "choices": [
+        "Anders Celsius",
+        "Alfred Nobel",
+        "Jöns Jacob Berzelius"
+      ],
+      "explanation": "Arrhenius reçut le prix Nobel de chimie en 1903 pour ses travaux sur les solutions ; il voyait plutôt d'un bon œil un climat suédois plus doux.",
+      "wikipedia": "Svante August Arrhenius"
+    },
+    {
+      "id": "sciences-512",
+      "difficulty": 1,
+      "question": "Quel sigle désigne le groupe d'experts intergouvernemental sur l'évolution du climat, créé en 1988 ?",
+      "answer": "GIEC",
+      "accept": [
+        "IPCC"
+      ],
+      "choices": [
+        "OMM",
+        "PNUE",
+        "COP"
+      ],
+      "explanation": "Le GIEC ne mène pas lui-même de recherches : il synthétise les travaux scientifiques publiés ; il a reçu le prix Nobel de la paix en 2007.",
+      "wikipedia": "Groupe d'experts intergouvernemental sur l'évolution du climat"
+    },
+    {
+      "id": "sciences-513",
+      "difficulty": 1,
+      "question": "Dans quelle ville japonaise a été signé en 1997 un protocole de réduction des émissions de gaz à effet de serre ?",
+      "answer": "Kyoto",
+      "accept": [
+        "Kyōto"
+      ],
+      "choices": [
+        "Tokyo",
+        "Osaka",
+        "Nagoya"
+      ],
+      "explanation": "Le protocole de Kyoto n'est entré en vigueur qu'en 2005 ; il a été prolongé puis remplacé par l'accord de Paris, adopté en 2015.",
+      "wikipedia": "Protocole de Kyoto"
+    },
+    {
+      "id": "sciences-514",
+      "difficulty": 1,
+      "question": "Quel courant océanique chaud, né dans le golfe du Mexique, adoucit le climat de l'Europe de l'Ouest ?",
+      "answer": "Gulf Stream",
+      "accept": [],
+      "choices": [
+        "Kuroshio",
+        "courant du Labrador",
+        "courant de Humboldt"
+      ],
+      "explanation": "Benjamin Franklin fit dresser l'une des premières cartes de ce courant pour accélérer les traversées postales entre l'Amérique et l'Angleterre.",
+      "wikipedia": "Gulf Stream"
+    },
+    {
+      "id": "sciences-515",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la période de refroidissement qui a touché l'Europe du XIVe au XIXe siècle environ ?",
+      "answer": "petit âge glaciaire",
+      "accept": [
+        "petit age glaciaire"
+      ],
+      "choices": [
+        "optimum médiéval",
+        "dryas récent",
+        "minimum de Maunder"
+      ],
+      "explanation": "Pendant cette période, la Tamise et les canaux néerlandais gelaient régulièrement, et les glaciers alpins avancèrent jusqu'à menacer des villages.",
+      "wikipedia": "Petit âge glaciaire"
+    },
+    {
+      "id": "sciences-516",
+      "difficulty": 3,
+      "question": "Quelle station russe de l'Antarctique a fourni des carottes de glace retraçant des centaines de milliers d'années de climat ?",
+      "answer": "Vostok",
+      "accept": [
+        "station Vostok"
+      ],
+      "choices": [
+        "Concordia",
+        "Mirny",
+        "Dumont d'Urville"
+      ],
+      "explanation": "Elle détient le record de la température la plus basse mesurée sur Terre par une station météo ; un immense lac est enfoui sous la glace à proximité.",
+      "wikipedia": "Base antarctique Vostok"
+    },
+    {
+      "id": "sciences-517",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la fine couche de glace transparente formée sur les routes par une pluie qui gèle au sol ?",
+      "answer": "verglas",
+      "accept": [],
+      "choices": [
+        "givre",
+        "grésil",
+        "névé"
+      ],
+      "explanation": "Le verglas est particulièrement dangereux car il est presque invisible ; on parle alors de « verglas noir » sur une chaussée sombre.",
+      "wikipedia": "Verglas"
+    },
+    {
+      "id": "sciences-518",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la couche la plus basse de l'atmosphère, où se forment les nuages et la météo ?",
+      "answer": "troposphère",
+      "accept": [
+        "troposphere"
+      ],
+      "choices": [
+        "stratosphère",
+        "mésosphère",
+        "thermosphère"
+      ],
+      "explanation": "Son épaisseur varie d'environ sept kilomètres aux pôles à près de dix-sept kilomètres à l'équateur ; la température y baisse avec l'altitude.",
+      "wikipedia": "Troposphère"
+    },
+    {
+      "id": "sciences-519",
+      "difficulty": 3,
+      "question": "Quel climatologue d'origine russe a établi la classification des climats la plus utilisée, qui porte son nom ?",
+      "answer": "Wladimir Köppen",
+      "accept": [
+        "Köppen",
+        "Koppen"
+      ],
+      "choices": [
+        "Alexander von Humboldt",
+        "Milutin Milanković",
+        "Alfred Wegener"
+      ],
+      "explanation": "Sa classification repose sur les températures, les précipitations et la végétation ; Köppen était le beau-père d'Alfred Wegener.",
+      "wikipedia": "Wladimir Peter Köppen"
+    },
+    {
+      "id": "sciences-520",
+      "difficulty": 3,
+      "question": "Quel astronome serbe a expliqué les grandes glaciations par les variations de l'orbite et de l'inclinaison de la Terre ?",
+      "answer": "Milutin Milanković",
+      "accept": [
+        "Milankovitch",
+        "Milankovic",
+        "Milanković"
+      ],
+      "choices": [
+        "Wladimir Köppen",
+        "Svante Arrhenius",
+        "Louis Agassiz"
+      ],
+      "explanation": "Les cycles qui portent son nom durent de quelques dizaines à plus de cent mille ans ; ils ont été confirmés par l'étude des sédiments marins.",
+      "wikipedia": "Milutin Milanković"
+    },
+    {
+      "id": "sciences-521",
+      "difficulty": 2,
+      "question": "Quel naturaliste suisse a défendu au XIXe siècle l'idée d'un « âge glaciaire » où les glaciers recouvraient l'Europe ?",
+      "answer": "Louis Agassiz",
+      "accept": [
+        "Agassiz"
+      ],
+      "choices": [
+        "Horace-Bénédict de Saussure",
+        "Georges Cuvier",
+        "Charles Lyell"
+      ],
+      "explanation": "Agassiz émigra ensuite aux États-Unis où il enseigna à Harvard ; un immense lac glaciaire préhistorique d'Amérique du Nord porte son nom.",
+      "wikipedia": "Louis Agassiz"
+    },
+    {
+      "id": "sciences-522",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la bande proche de l'équateur où convergent les alizés des deux hémisphères ?",
+      "answer": "zone de convergence intertropicale",
+      "accept": [
+        "ZCIT",
+        "pot au noir"
+      ],
+      "choices": [
+        "front polaire",
+        "tropique du Cancer",
+        "ceinture subtropicale"
+      ],
+      "explanation": "Les marins la redoutaient sous le nom de « pot au noir » : vents faibles et orages soudains pouvaient y immobiliser les voiliers pendant des jours.",
+      "wikipedia": "Zone de convergence intertropicale"
+    },
+    {
+      "id": "sciences-523",
+      "difficulty": 1,
+      "question": "Quelle unité du Système international, nommée d'après un savant anglais, mesure la force ?",
+      "answer": "newton",
+      "accept": [],
+      "choices": [
+        "joule",
+        "pascal",
+        "watt"
+      ],
+      "explanation": "Un newton correspond environ au poids d'une petite pomme de cent grammes, clin d'œil involontaire à la célèbre légende.",
+      "wikipedia": "Newton (unité)"
+    },
+    {
+      "id": "sciences-524",
+      "difficulty": 2,
+      "question": "Quelle unité du Système international de pression vaut un newton par mètre carré ?",
+      "answer": "pascal",
+      "accept": [],
+      "choices": [
+        "bar",
+        "atmosphère",
+        "torr"
+      ],
+      "explanation": "Le pascal est une très petite unité : la pression atmosphérique normale vaut environ 101 325 pascals, ce qui explique l'usage de l'hectopascal en météo.",
+      "wikipedia": "Pascal (unité)"
+    },
+    {
+      "id": "sciences-525",
+      "difficulty": 2,
+      "question": "Quelle unité de base du Système international mesure la quantité de matière ?",
+      "answer": "mole",
+      "accept": [],
+      "choices": [
+        "kilogramme",
+        "candela",
+        "kelvin"
+      ],
+      "explanation": "Une mole contient environ 6,022 × 10²³ entités, le nombre d'Avogadro ; une mole d'eau pèse à peu près dix-huit grammes.",
+      "wikipedia": "Mole (unité)"
+    },
+    {
+      "id": "sciences-526",
+      "difficulty": 2,
+      "question": "Quelle unité mesure l'activité d'une source radioactive, du nom d'un physicien français ?",
+      "answer": "becquerel",
+      "accept": [],
+      "choices": [
+        "curie",
+        "sievert",
+        "gray"
+      ],
+      "explanation": "Un becquerel correspond à une désintégration par seconde ; c'est une unité minuscule, le corps humain en émet naturellement plusieurs milliers.",
+      "wikipedia": "Becquerel"
+    },
+    {
+      "id": "sciences-527",
+      "difficulty": 1,
+      "question": "Quelle unité logarithmique sert à exprimer le niveau d'intensité sonore ?",
+      "answer": "décibel",
+      "accept": [
+        "decibel",
+        "dB"
+      ],
+      "choices": [
+        "hertz",
+        "phone",
+        "baud"
+      ],
+      "explanation": "Une augmentation de trois décibels correspond à un doublement de l'énergie sonore ; au-delà de 120 décibels, le bruit devient douloureux.",
+      "wikipedia": "Décibel"
+    },
+    {
+      "id": "sciences-528",
+      "difficulty": 2,
+      "question": "Quelle unité de masse utilisée pour les pierres précieuses vaut 0,2 gramme ?",
+      "answer": "carat",
+      "accept": [],
+      "choices": [
+        "once",
+        "grain",
+        "scrupule"
+      ],
+      "explanation": "Le mot viendrait des graines de caroubier, réputées de masse régulière ; pour l'or, le carat indique en revanche la pureté sur 24.",
+      "wikipedia": "Carat (gemmologie)"
+    },
+    {
+      "id": "sciences-529",
+      "difficulty": 3,
+      "question": "Quelle unité de longueur, égale à un dix-milliardième de mètre, porte le nom d'un physicien suédois ?",
+      "answer": "ångström",
+      "accept": [
+        "angström",
+        "angstrom"
+      ],
+      "choices": [
+        "micron",
+        "fermi",
+        "nanomètre"
+      ],
+      "explanation": "Elle est commode pour exprimer la taille des atomes, de l'ordre d'un ångström ; Anders Jonas Ångström étudia le spectre lumineux du Soleil.",
+      "wikipedia": "Ångström"
+    },
+    {
+      "id": "sciences-530",
+      "difficulty": 1,
+      "question": "Quelle unité d'aire correspond à un carré de cent mètres de côté, soit dix mille mètres carrés ?",
+      "answer": "hectare",
+      "accept": [
+        "ha"
+      ],
+      "choices": [
+        "are",
+        "acre",
+        "centiare"
+      ],
+      "explanation": "Un hectare équivaut à cent ares ; un terrain de football mesure souvent un peu moins d'un hectare.",
+      "wikipedia": "Hectare"
+    },
+    {
+      "id": "sciences-531",
+      "difficulty": 1,
+      "question": "Combien de litres contient un mètre cube ?",
+      "answer": "mille",
+      "accept": [
+        "1000",
+        "1 000"
+      ],
+      "choices": [
+        "cent",
+        "dix mille",
+        "dix"
+      ],
+      "explanation": "Le litre correspond exactement à un décimètre cube ; à l'origine, le kilogramme était défini comme la masse d'un litre d'eau.",
+      "wikipedia": "Mètre cube"
+    },
+    {
+      "id": "sciences-532",
+      "difficulty": 3,
+      "question": "Quels deux astronomes ont mesuré sous la Révolution la méridienne de Dunkerque à Barcelone pour définir le mètre ?",
+      "answer": "Delambre et Méchain",
+      "accept": [
+        "Méchain et Delambre"
+      ],
+      "choices": [
+        "Laplace et Lagrange",
+        "Cassini et Picard",
+        "Arago et Biot"
+      ],
+      "explanation": "Le mètre fut défini comme la dix-millionième partie du quart du méridien terrestre ; la mission dura de 1792 à 1798.",
+      "wikipedia": "Mètre"
+    },
+    {
+      "id": "sciences-533",
+      "difficulty": 2,
+      "question": "Quel instrument de navigation sert à mesurer la hauteur des astres au-dessus de l'horizon ?",
+      "answer": "sextant",
+      "accept": [],
+      "choices": [
+        "astrolabe",
+        "octant",
+        "compas"
+      ],
+      "explanation": "Son arc correspond à un sixième de cercle, d'où son nom ; grâce à un jeu de miroirs, il permet de déterminer sa latitude.",
+      "wikipedia": "Sextant"
+    },
+    {
+      "id": "sciences-534",
+      "difficulty": 2,
+      "question": "Quel instrument à vernier, muni de deux becs, mesure précisément épaisseurs et diamètres ?",
+      "answer": "pied à coulisse",
+      "accept": [
+        "pied-à-coulisse"
+      ],
+      "choices": [
+        "micromètre",
+        "compas",
+        "rapporteur"
+      ],
+      "explanation": "Le vernier, petite règle graduée qui glisse le long de la règle principale, porte le nom du mathématicien franc-comtois Pierre Vernier.",
+      "wikipedia": "Pied à coulisse"
+    },
+    {
+      "id": "sciences-535",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'horloge à eau utilisée dans l'Antiquité pour mesurer le temps ?",
+      "answer": "clepsydre",
+      "accept": [],
+      "choices": [
+        "sablier",
+        "gnomon",
+        "astrolabe"
+      ],
+      "explanation": "À Athènes, une clepsydre limitait le temps de parole des orateurs dans les tribunaux ; le mot signifie « qui vole l'eau » en grec.",
+      "wikipedia": "Clepsydre"
+    },
+    {
+      "id": "sciences-536",
+      "difficulty": 1,
+      "question": "Quel instrument indique l'heure grâce à l'ombre projetée par une tige appelée style ?",
+      "answer": "cadran solaire",
+      "accept": [],
+      "choices": [
+        "sablier",
+        "clepsydre",
+        "astrolabe"
+      ],
+      "explanation": "Un cadran solaire donne l'heure solaire vraie, qui peut différer de plus d'un quart d'heure de l'heure moyenne au fil de l'année.",
+      "wikipedia": "Cadran solaire"
+    },
+    {
+      "id": "sciences-537",
+      "difficulty": 1,
+      "question": "Quel petit appareil compte le nombre de pas effectués par une personne ?",
+      "answer": "podomètre",
+      "accept": [
+        "podometre"
+      ],
+      "choices": [
+        "odomètre",
+        "chronomètre",
+        "tachymètre"
+      ],
+      "explanation": "Le mot vient du grec pous, podos, le pied ; on en connaît des modèles mécaniques du XVIIe siècle, probablement utilisés par les pèlerins de Compostelle.",
+      "wikipedia": "Podomètre"
+    },
+    {
+      "id": "sciences-538",
+      "difficulty": 2,
+      "question": "Dans quelle ville des Hauts-de-Seine est conservé le prototype international du kilogramme en platine iridié ?",
+      "answer": "Sèvres",
+      "accept": [
+        "Sevres"
+      ],
+      "choices": [
+        "Meudon",
+        "Saint-Cloud",
+        "Boulogne-Billancourt"
+      ],
+      "explanation": "Ce cylindre a servi de référence jusqu'en 2019, quand le kilogramme a été redéfini à partir de la constante de Planck.",
+      "wikipedia": "Kilogramme"
+    },
+    {
+      "id": "sciences-539",
+      "difficulty": 3,
+      "question": "Quelle unité de longueur ancienne valait six pieds, soit près de deux mètres ?",
+      "answer": "toise",
+      "accept": [],
+      "choices": [
+        "aune",
+        "brasse",
+        "perche"
+      ],
+      "explanation": "Utilisée en France jusqu'à l'adoption du système métrique, la toise sert encore de nom à l'appareil qui mesure la taille des personnes.",
+      "wikipedia": "Toise"
+    },
+    {
+      "id": "sciences-540",
+      "difficulty": 1,
+      "question": "Quelle unité de longueur, utilisée pour la profondeur de l'eau, correspond à la longueur des deux bras tendus ?",
+      "answer": "brasse",
+      "accept": [],
+      "choices": [
+        "toise",
+        "encablure",
+        "coudée"
+      ],
+      "explanation": "Elle vaut environ 1,6 à 1,8 mètre selon les pays ; les marins mesuraient les fonds en lançant une ligne de sonde marquée de brasse en brasse.",
+      "wikipedia": "Brasse (unité)"
+    },
+    {
+      "id": "sciences-541",
+      "difficulty": 2,
+      "question": "Quel appareil enregistre l'activité électrique du cœur sous forme de tracé sur papier ou écran ?",
+      "answer": "électrocardiographe",
+      "accept": [
+        "électrocardiogramme",
+        "ECG",
+        "electrocardiographe"
+      ],
+      "choices": [
+        "électroencéphalographe",
+        "tensiomètre",
+        "spiromètre"
+      ],
+      "explanation": "Le Néerlandais Willem Einthoven reçut le prix Nobel en 1924 pour l'avoir mis au point ; il nomma les ondes P, Q, R, S et T.",
+      "wikipedia": "Électrocardiographie"
+    },
+    {
+      "id": "sciences-542",
+      "difficulty": 2,
+      "question": "Quel organe produit le suc gastrique, très acide, qui commence la digestion des protéines ?",
+      "answer": "estomac",
+      "accept": [],
+      "choices": [
+        "pancréas",
+        "duodénum",
+        "foie"
+      ],
+      "explanation": "L'estomac se protège de sa propre acidité grâce à une couche de mucus ; sa muqueuse se renouvelle entièrement en quelques jours.",
+      "wikipedia": "Estomac"
+    },
+    {
+      "id": "sciences-543",
+      "difficulty": 1,
+      "question": "Quel est le seul os mobile du crâne, qui permet de mâcher ?",
+      "answer": "mandibule",
+      "accept": [
+        "mâchoire inférieure",
+        "maxillaire inférieur"
+      ],
+      "choices": [
+        "maxillaire",
+        "os temporal",
+        "os hyoïde"
+      ],
+      "explanation": "La mandibule s'articule avec l'os temporal juste devant l'oreille, ce que l'on sent en posant un doigt devant l'oreille en ouvrant la bouche.",
+      "wikipedia": "Mandibule"
+    },
+    {
+      "id": "sciences-544",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'os en forme de triangle situé au bas de la colonne vertébrale, au-dessus du coccyx ?",
+      "answer": "sacrum",
+      "accept": [],
+      "choices": [
+        "ilion",
+        "ischion",
+        "atlas"
+      ],
+      "explanation": "Il est formé de cinq vertèbres soudées ; son nom latin, os sacrum, signifie « os sacré », peut-être parce qu'on l'offrait lors des sacrifices.",
+      "wikipedia": "Sacrum"
+    },
+    {
+      "id": "sciences-545",
+      "difficulty": 2,
+      "question": "Quelle glande située à la base du cerveau, de la taille d'un pois, commande la plupart des autres glandes endocrines ?",
+      "answer": "hypophyse",
+      "accept": [
+        "glande pituitaire"
+      ],
+      "choices": [
+        "épiphyse",
+        "thyroïde",
+        "thymus"
+      ],
+      "explanation": "Elle sécrète notamment l'hormone de croissance ; un excès pendant l'enfance provoque le gigantisme, un déficit une petite taille.",
+      "wikipedia": "Hypophyse"
+    },
+    {
+      "id": "sciences-546",
+      "difficulty": 3,
+      "question": "Quelle partie du cerveau, nommée d'après un animal marin, joue un rôle clé dans la mémoire ?",
+      "answer": "hippocampe",
+      "accept": [],
+      "choices": [
+        "amygdale",
+        "thalamus",
+        "cervelet"
+      ],
+      "explanation": "Il doit son nom à sa forme recourbée qui évoque le petit poisson ; il joue aussi un rôle dans l'orientation et fait partie des premières régions touchées par la maladie d'Alzheimer.",
+      "wikipedia": "Hippocampe (cerveau)"
+    },
+    {
+      "id": "sciences-547",
+      "difficulty": 2,
+      "question": "Quelle maladie, autrefois appelée « mal des ardents », était causée par un champignon parasite du seigle ?",
+      "answer": "ergotisme",
+      "accept": [],
+      "choices": [
+        "peste",
+        "lèpre",
+        "pellagre"
+      ],
+      "explanation": "Le champignon, l'ergot du seigle, contient des alcaloïdes proches du LSD, qui provoquaient hallucinations et gangrène des membres au Moyen Âge.",
+      "wikipedia": "Ergotisme"
+    },
+    {
+      "id": "sciences-548",
+      "difficulty": 2,
+      "question": "Quel médecin français a mis au point avec Camille Guérin le vaccin BCG contre la tuberculose ?",
+      "answer": "Albert Calmette",
+      "accept": [
+        "Calmette"
+      ],
+      "choices": [
+        "Émile Roux",
+        "Alexandre Yersin",
+        "Charles Nicolle"
+      ],
+      "explanation": "BCG signifie « bacille de Calmette et Guérin » : il s'agit d'une souche affaiblie du bacille tuberculeux bovin, cultivée pendant treize ans.",
+      "wikipedia": "Albert Calmette"
+    },
+    {
+      "id": "sciences-549",
+      "difficulty": 3,
+      "question": "Quel médecin français, directeur de l'Institut Pasteur de Tunis, a démontré que le pou transmet le typhus ?",
+      "answer": "Charles Nicolle",
+      "accept": [
+        "Nicolle"
+      ],
+      "choices": [
+        "Albert Calmette",
+        "Alphonse Laveran",
+        "Émile Roux"
+      ],
+      "explanation": "Il avait remarqué que les malades cessaient d'être contagieux une fois lavés et débarrassés de leurs vêtements ; il reçut le prix Nobel en 1928.",
+      "wikipedia": "Charles Nicolle"
+    },
+    {
+      "id": "sciences-550",
+      "difficulty": 3,
+      "question": "Quel médecin britannique a démontré en 1854 qu'une pompe à eau contaminée propageait le choléra à Londres ?",
+      "answer": "John Snow",
+      "accept": [
+        "Snow"
+      ],
+      "choices": [
+        "Edwin Chadwick",
+        "William Farr",
+        "Joseph Lister"
+      ],
+      "explanation": "En cartographiant les décès du quartier de Soho, il localisa la pompe de Broad Street ; il est considéré comme l'un des pères de l'épidémiologie.",
+      "wikipedia": "John Snow"
+    }
+  ]
+}
