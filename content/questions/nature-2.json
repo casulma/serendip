@@ -563,7 +563,7 @@
     {
       "id": "nature-129",
       "difficulty": 1,
-      "question": "Quel ours possède une peau noire sous un pelage aux poils incolores et creux ?",
+      "question": "Quel plantigrade possède une peau noire sous un pelage aux poils incolores et creux ?",
       "answer": "ours blanc",
       "accept": [
         "ours polaire"
@@ -713,7 +713,7 @@
     {
       "id": "nature-139",
       "difficulty": 1,
-      "question": "Quel rapace au plumage brun et à la tête immaculée est l'emblème national des États-Unis ?",
+      "question": "Quel rapace au plumage brun et au capuchon immaculé est l'emblème national des États-Unis ?",
       "answer": "pygargue à tête blanche",
       "accept": [
         "aigle à tête blanche"
@@ -1220,7 +1220,7 @@
     {
       "id": "nature-173",
       "difficulty": 2,
-      "question": "Quel petit mammifère roux de l'Himalaya, mangeur de bambou, a inspiré le nom anglais d'un navigateur web ?",
+      "question": "Quel petit mammifère au pelage fauve de l'Himalaya, mangeur de bambou, a inspiré le nom anglais d'un navigateur web ?",
       "answer": "panda roux",
       "accept": [
         "petit panda"
@@ -1416,7 +1416,7 @@
     {
       "id": "nature-186",
       "difficulty": 2,
-      "question": "Quel équidé de Mongolie est considéré comme le dernier cheval sauvage, jamais domestiqué ?",
+      "question": "Quel équidé trapu de Mongolie, jamais domestiqué, est souvent présenté comme le dernier représentant sauvage de sa lignée ?",
       "answer": "cheval de Przewalski",
       "accept": [],
       "choices": [
@@ -1760,7 +1760,7 @@
         "anolis"
       ],
       "explanation": "Ses longs orteils postérieurs bordés d'écailles frappent l'eau très rapidement, créant des poches d'air qui le soutiennent un court instant.",
-      "wikipedia": "Basiliscus"
+      "wikipedia": "Basiliscus (genre)"
     },
     {
       "id": "nature-208",
@@ -1993,7 +1993,10 @@
       "difficulty": 2,
       "question": "Quel animal marin urticant, appelé galère portugaise, est une colonie d'organismes et non une méduse ?",
       "answer": "physalie",
-      "accept": [],
+      "accept": [
+        "physalies",
+        "galère portugaise"
+      ],
       "choices": [
         "cuboméduse",
         "vélelle",
@@ -2067,7 +2070,9 @@
       "difficulty": 2,
       "question": "Quel céphalopode à coquille spiralée et cloisonnée est souvent qualifié de fossile vivant ?",
       "answer": "nautile",
-      "accept": [],
+      "accept": [
+        "nautiles"
+      ],
       "choices": [
         "ammonite",
         "argonaute",
@@ -2591,7 +2596,7 @@
     {
       "id": "nature-263",
       "difficulty": 3,
-      "question": "Quel est le plus grand papillon d'Europe, aux ailes ornées de quatre grands ocelles ?",
+      "question": "Quel lépidoptère, record d'envergure en Europe, a les ailes ornées de quatre larges ocelles ?",
       "answer": "grand paon de nuit",
       "accept": [],
       "choices": [

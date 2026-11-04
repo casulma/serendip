@@ -1,0 +1,3523 @@
+{
+  "category": "geographie",
+  "questions": [
+    {
+      "id": "geographie-121",
+      "difficulty": 1,
+      "question": "Quelle ville de Haute-Savoie, traversée par des canaux, est surnommée « la Venise des Alpes » ?",
+      "answer": "Annecy",
+      "accept": [],
+      "choices": [
+        "Chambéry",
+        "Grenoble",
+        "Évian-les-Bains"
+      ],
+      "explanation": "Le canal du Thiou y relie le lac à la vieille ville ; au milieu de l'eau se dresse le palais de l'Isle, ancienne prison du XIIe siècle.",
+      "wikipedia": "Annecy"
+    },
+    {
+      "id": "geographie-122",
+      "difficulty": 1,
+      "question": "Quelle ville de Bretagne, ancien repaire de Surcouf, est surnommée « la cité corsaire » ?",
+      "answer": "Saint-Malo",
+      "accept": [],
+      "choices": [
+        "Brest",
+        "Lorient",
+        "Concarneau"
+      ],
+      "explanation": "Ses remparts, presque entièrement reconstruits après les destructions de 1944, enserrent toujours la ville close, appelée intra-muros.",
+      "wikipedia": "Saint-Malo"
+    },
+    {
+      "id": "geographie-123",
+      "difficulty": 1,
+      "question": "Quelle ville de la Marne, où fut sacré Charles VII, est surnommée « la cité des sacres » ?",
+      "answer": "Reims",
+      "accept": [],
+      "choices": [
+        "Chartres",
+        "Laon",
+        "Soissons"
+      ],
+      "explanation": "Selon la tradition, Clovis y fut baptisé par l'évêque Remi ; la plupart des rois de France furent ensuite sacrés dans sa cathédrale Notre-Dame.",
+      "wikipedia": "Reims"
+    },
+    {
+      "id": "geographie-124",
+      "difficulty": 2,
+      "question": "Quelle ville du Gard, riche de ses arènes et de sa Maison carrée, est surnommée « la Rome française » ?",
+      "answer": "Nîmes",
+      "accept": [],
+      "choices": [
+        "Arles",
+        "Orange",
+        "Vienne"
+      ],
+      "explanation": "Son emblème, un crocodile enchaîné à un palmier, rappelle les vétérans de la campagne d'Égypte installés là par l'empereur Auguste.",
+      "wikipedia": "Nîmes"
+    },
+    {
+      "id": "geographie-125",
+      "difficulty": 2,
+      "question": "Quelle ville du Tarn, dont la cathédrale Sainte-Cécile est bâtie en brique, est surnommée « la ville rouge » ?",
+      "answer": "Albi",
+      "accept": [],
+      "choices": [
+        "Castres",
+        "Montauban",
+        "Rodez"
+      ],
+      "explanation": "Sa cité épiscopale est inscrite au patrimoine mondial ; la ville abrite aussi le principal musée consacré au peintre Henri de Toulouse-Lautrec, qui y naquit.",
+      "wikipedia": "Albi"
+    },
+    {
+      "id": "geographie-126",
+      "difficulty": 1,
+      "question": "Quelle ville de l'Isère est souvent surnommée « la capitale des Alpes » ?",
+      "answer": "Grenoble",
+      "accept": [],
+      "choices": [
+        "Chambéry",
+        "Annecy",
+        "Briançon"
+      ],
+      "explanation": "Ses célèbres « bulles », le téléphérique ouvert en 1934, relient le centre-ville au fort de la Bastille qui domine le confluent de l'Isère et du Drac.",
+      "wikipedia": "Grenoble"
+    },
+    {
+      "id": "geographie-127",
+      "difficulty": 2,
+      "question": "Quelle ville de l'Allier fut surnommée « la reine des villes d'eaux » ?",
+      "answer": "Vichy",
+      "accept": [],
+      "choices": [
+        "Évian-les-Bains",
+        "Aix-les-Bains",
+        "Plombières-les-Bains"
+      ],
+      "explanation": "Ses sources thermales, appréciées dès l'Antiquité, firent sa fortune au XIXe siècle grâce aux séjours de Napoléon III.",
+      "wikipedia": "Vichy"
+    },
+    {
+      "id": "geographie-128",
+      "difficulty": 1,
+      "question": "Quelle ville de la Haute-Vienne est mondialement réputée pour sa porcelaine ?",
+      "answer": "Limoges",
+      "accept": [],
+      "choices": [
+        "Sèvres",
+        "Vierzon",
+        "Gien"
+      ],
+      "explanation": "L'essor de cette porcelaine suivit la découverte en 1768 d'un gisement de kaolin à Saint-Yrieix-la-Perche, au sud de la ville.",
+      "wikipedia": "Limoges"
+    },
+    {
+      "id": "geographie-129",
+      "difficulty": 2,
+      "question": "Quelle ville des Vosges a donné son nom à des estampes populaires aux couleurs vives ?",
+      "answer": "Épinal",
+      "accept": [],
+      "choices": [
+        "Saint-Dié-des-Vosges",
+        "Remiremont",
+        "Gérardmer"
+      ],
+      "explanation": "L'imagerie fondée par Jean-Charles Pellerin à la fin du XVIIIe siècle a rendu proverbiale l'expression « image d'Épinal » pour une vision naïve et idéalisée.",
+      "wikipedia": "Épinal"
+    },
+    {
+      "id": "geographie-130",
+      "difficulty": 1,
+      "question": "Quelle cité médiévale de l'Aude, restaurée par Viollet-le-Duc, possède une double enceinte de remparts ?",
+      "answer": "Carcassonne",
+      "accept": [],
+      "choices": [
+        "Aigues-Mortes",
+        "Provins",
+        "Foix"
+      ],
+      "explanation": "Ses trois kilomètres de remparts comptent 52 tours ; la cité est inscrite au patrimoine mondial de l'UNESCO depuis 1997.",
+      "wikipedia": "Cité de Carcassonne"
+    },
+    {
+      "id": "geographie-131",
+      "difficulty": 3,
+      "question": "Quelle ville du Nord, patrie du sculpteur Carpeaux, est surnommée « l'Athènes du Nord » ?",
+      "answer": "Valenciennes",
+      "accept": [],
+      "choices": [
+        "Douai",
+        "Cambrai",
+        "Arras"
+      ],
+      "explanation": "Ce surnom évoque le grand nombre d'artistes qu'elle a vus naître ou former, dont le peintre Antoine Watteau.",
+      "wikipedia": "Valenciennes"
+    },
+    {
+      "id": "geographie-132",
+      "difficulty": 2,
+      "question": "Quelle ville des Alpes-Maritimes organise chaque hiver une célèbre fête des agrumes ?",
+      "answer": "Menton",
+      "accept": [],
+      "choices": [
+        "Nice",
+        "Antibes",
+        "Hyères"
+      ],
+      "explanation": "Lancée dans les années 1930, la fête du Citron y expose des sculptures géantes faites de tonnes d'oranges et de citrons.",
+      "wikipedia": "Menton (Alpes-Maritimes)"
+    },
+    {
+      "id": "geographie-133",
+      "difficulty": 3,
+      "question": "Quel port de l'Hérault, chanté par Brassens et Paul Valéry, est surnommé « l'île singulière » ?",
+      "answer": "Sète",
+      "accept": [],
+      "choices": [
+        "Agde",
+        "Palavas-les-Flots",
+        "Frontignan"
+      ],
+      "explanation": "Bâtie entre la Méditerranée et l'étang de Thau, la ville est célèbre pour ses joutes nautiques et son cimetière marin.",
+      "wikipedia": "Sète"
+    },
+    {
+      "id": "geographie-134",
+      "difficulty": 2,
+      "question": "Quelle ville des Bouches-du-Rhône, traversée de canaux, est surnommée « la Venise provençale » ?",
+      "answer": "Martigues",
+      "accept": [],
+      "choices": [
+        "Aigues-Mortes",
+        "Istres",
+        "Cassis"
+      ],
+      "explanation": "Elle commande le chenal de Caronte, qui relie l'étang de Berre à la Méditerranée.",
+      "wikipedia": "Martigues"
+    },
+    {
+      "id": "geographie-135",
+      "difficulty": 3,
+      "question": "Quelle ville champenoise doit le surnom de « bouchon de champagne » à la forme de son centre ancien ?",
+      "answer": "Troyes",
+      "accept": [],
+      "choices": [
+        "Épernay",
+        "Reims",
+        "Châlons-en-Champagne"
+      ],
+      "explanation": "Ancienne capitale des comtes de Champagne, elle a gardé de nombreuses maisons à pans de bois et accueille aujourd'hui de grands magasins d'usine.",
+      "wikipedia": "Troyes"
+    },
+    {
+      "id": "geographie-136",
+      "difficulty": 3,
+      "question": "Quelle ville du Nord était surnommée « la ville aux mille cheminées » pour ses usines textiles ?",
+      "answer": "Roubaix",
+      "accept": [],
+      "choices": [
+        "Tourcoing",
+        "Lille",
+        "Armentières"
+      ],
+      "explanation": "Son ancienne piscine Art déco a été transformée en musée d'art et d'industrie ; la ville est aussi l'arrivée de la célèbre course cycliste Paris-Roubaix.",
+      "wikipedia": "Roubaix"
+    },
+    {
+      "id": "geographie-137",
+      "difficulty": 2,
+      "question": "Quelle ville normande a été entièrement reconstruite après-guerre par l'architecte Auguste Perret ?",
+      "answer": "Le Havre",
+      "accept": [],
+      "choices": [
+        "Caen",
+        "Cherbourg-en-Cotentin",
+        "Dieppe"
+      ],
+      "explanation": "Son centre reconstruit en béton, avec l'église Saint-Joseph haute de plus de cent mètres, est inscrit au patrimoine mondial de l'UNESCO depuis 2005.",
+      "wikipedia": "Le Havre"
+    },
+    {
+      "id": "geographie-138",
+      "difficulty": 1,
+      "question": "Quelle ville, ancienne capitale des ducs de Bretagne, fait aujourd'hui partie des Pays de la Loire ?",
+      "answer": "Nantes",
+      "accept": [],
+      "choices": [
+        "Rennes",
+        "Vannes",
+        "Angers"
+      ],
+      "explanation": "C'est au château des ducs de Bretagne que naquit Anne de Bretagne ; la ville est aussi la patrie de l'écrivain Jules Verne.",
+      "wikipedia": "Nantes"
+    },
+    {
+      "id": "geographie-139",
+      "difficulty": 1,
+      "question": "Dans quelle ville lorraine se trouve la place Stanislas, aux grilles dorées de Jean Lamour ?",
+      "answer": "Nancy",
+      "accept": [],
+      "choices": [
+        "Metz",
+        "Épinal",
+        "Lunéville"
+      ],
+      "explanation": "La place porte le nom de Stanislas Leszczynski, roi de Pologne déchu devenu duc de Lorraine, beau-père de Louis XV.",
+      "wikipedia": "Place Stanislas"
+    },
+    {
+      "id": "geographie-140",
+      "difficulty": 1,
+      "question": "Quelle ville de Touraine accueillit Léonard de Vinci pour ses dernières années, au manoir du Clos Lucé ?",
+      "answer": "Amboise",
+      "accept": [],
+      "choices": [
+        "Blois",
+        "Chinon",
+        "Loches"
+      ],
+      "explanation": "Invité par François Ier, le maître italien y mourut en 1519 ; il est inhumé dans la chapelle Saint-Hubert du château.",
+      "wikipedia": "Château du Clos-Lucé"
+    },
+    {
+      "id": "geographie-141",
+      "difficulty": 1,
+      "question": "Près de quelle ville de la Vienne se trouve le parc d'attractions du Futuroscope ?",
+      "answer": "Poitiers",
+      "accept": [],
+      "choices": [
+        "Châtellerault",
+        "Niort",
+        "Angoulême"
+      ],
+      "explanation": "Ouvert en 1987 à Chasseneuil-du-Poitou, ce parc consacré à l'image et aux nouvelles technologies fut voulu par René Monory, président du conseil général.",
+      "wikipedia": "Futuroscope"
+    },
+    {
+      "id": "geographie-142",
+      "difficulty": 1,
+      "question": "Dans quelle commune normande se trouvent l'Aiguille creuse et la falaise d'Aval ?",
+      "answer": "Étretat",
+      "accept": [],
+      "choices": [
+        "Fécamp",
+        "Dieppe",
+        "Granville"
+      ],
+      "explanation": "Ces falaises de craie ont inspiré Courbet et Monet, et Maurice Leblanc y situe le repaire d'Arsène Lupin dans L'Aiguille creuse.",
+      "wikipedia": "Étretat"
+    },
+    {
+      "id": "geographie-143",
+      "difficulty": 2,
+      "question": "Quelle ville du Maine-et-Loire abrite le Cadre noir, corps d'élite de l'équitation française ?",
+      "answer": "Saumur",
+      "accept": [],
+      "choices": [
+        "Angers",
+        "Cholet",
+        "Chinon"
+      ],
+      "explanation": "Ses écuyers, reconnaissables à leur tenue noire, sont célèbres pour les sauts d'école comme la cabriole et la courbette.",
+      "wikipedia": "Saumur"
+    },
+    {
+      "id": "geographie-144",
+      "difficulty": 2,
+      "question": "Quelle ville du Maine-et-Loire conserve dans son château la tenture de l'Apocalypse ?",
+      "answer": "Angers",
+      "accept": [],
+      "choices": [
+        "Saumur",
+        "Bayeux",
+        "Tours"
+      ],
+      "explanation": "Réalisée à la fin du XIVe siècle pour le duc Louis Ier d'Anjou, c'est la plus grande tapisserie médiévale conservée.",
+      "wikipedia": "Tenture de l'Apocalypse"
+    },
+    {
+      "id": "geographie-145",
+      "difficulty": 1,
+      "question": "Quelle célèbre promenade longe la baie des Anges à Nice ?",
+      "answer": "Promenade des Anglais",
+      "accept": [],
+      "choices": [
+        "Croisette",
+        "Corniche Kennedy",
+        "Promenade du Paillon"
+      ],
+      "explanation": "Son nom rappelle les riches hivernants britanniques qui financèrent, au début du XIXe siècle, un premier chemin en bord de mer.",
+      "wikipedia": "Promenade des Anglais"
+    },
+    {
+      "id": "geographie-146",
+      "difficulty": 1,
+      "question": "Quelle butte parisienne, couronnée par le Sacré-Cœur, est le point culminant naturel de Paris ?",
+      "answer": "Montmartre",
+      "accept": [],
+      "choices": [
+        "Belleville",
+        "Ménilmontant",
+        "Montparnasse"
+      ],
+      "explanation": "Rattachée à Paris en 1860, elle abrite le vignoble du Clos Montmartre, dont les vendanges donnent lieu chaque automne à une fête.",
+      "wikipedia": "Montmartre"
+    },
+    {
+      "id": "geographie-147",
+      "difficulty": 1,
+      "question": "Quel îlot de la Seine abrite la cathédrale Notre-Dame et la Sainte-Chapelle ?",
+      "answer": "île de la Cité",
+      "accept": [
+        "Cité"
+      ],
+      "choices": [
+        "île Saint-Louis",
+        "île aux Cygnes",
+        "île Seguin"
+      ],
+      "explanation": "Berceau de Paris, elle accueillait déjà la tribu gauloise des Parisii ; le point zéro des routes de France est gravé sur le parvis de Notre-Dame.",
+      "wikipedia": "Île de la Cité"
+    },
+    {
+      "id": "geographie-148",
+      "difficulty": 1,
+      "question": "En combien d'arrondissements la ville de Paris est-elle divisée ?",
+      "answer": "20",
+      "accept": [
+        "vingt"
+      ],
+      "choices": [
+        "16",
+        "24",
+        "12"
+      ],
+      "explanation": "Ils sont numérotés en spirale dans le sens des aiguilles d'une montre, à partir du centre de la rive droite, autour du Louvre.",
+      "wikipedia": "Arrondissements de Paris"
+    },
+    {
+      "id": "geographie-149",
+      "difficulty": 1,
+      "question": "Quel surnom géométrique donne-t-on à la France métropolitaine en raison de sa forme ?",
+      "answer": "Hexagone",
+      "accept": [],
+      "choices": [
+        "Pentagone",
+        "Losange",
+        "Octogone"
+      ],
+      "explanation": "L'image ne s'est vraiment imposée que dans les années 1960 ; on parle par extension d'« hexagonal » pour ce qui concerne la France métropolitaine.",
+      "wikipedia": "France métropolitaine"
+    },
+    {
+      "id": "geographie-150",
+      "difficulty": 1,
+      "question": "Quelle préfecture des Yvelines est surtout célèbre pour son château royal ?",
+      "answer": "Versailles",
+      "accept": [],
+      "choices": [
+        "Saint-Germain-en-Laye",
+        "Rambouillet",
+        "Poissy"
+      ],
+      "explanation": "Louis XIV y installa la cour et le gouvernement en 1682 ; la ville resta le siège du pouvoir royal jusqu'à la Révolution.",
+      "wikipedia": "Versailles"
+    },
+    {
+      "id": "geographie-151",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les habitants de Nancy, en Meurthe-et-Moselle ?",
+      "answer": "Nancéiens",
+      "accept": [],
+      "choices": [
+        "Nancyens",
+        "Nancillons",
+        "Nanciois"
+      ],
+      "explanation": "La ville a donné son nom à l'École de Nancy, foyer majeur de l'Art nouveau autour d'Émile Gallé et des frères Daum.",
+      "wikipedia": "Nancy"
+    },
+    {
+      "id": "geographie-152",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les habitants de Tours, en Indre-et-Loire ?",
+      "answer": "Tourangeaux",
+      "accept": [],
+      "choices": [
+        "Tourois",
+        "Turonais",
+        "Touriens"
+      ],
+      "explanation": "Le même gentilé désigne les habitants de la Touraine, province réputée pour la pureté de son français.",
+      "wikipedia": "Tours"
+    },
+    {
+      "id": "geographie-153",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les habitants de Reims, dans la Marne ?",
+      "answer": "Rémois",
+      "accept": [],
+      "choices": [
+        "Reimsois",
+        "Rhémiens",
+        "Champenois"
+      ],
+      "explanation": "Le nom vient du peuple gaulois des Rèmes, dont la ville était la capitale sous le nom de Durocortorum.",
+      "wikipedia": "Reims"
+    },
+    {
+      "id": "geographie-154",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les habitants de Saint-Brieuc, dans les Côtes-d'Armor ?",
+      "answer": "Briochins",
+      "accept": [],
+      "choices": [
+        "Brieucois",
+        "Briocains",
+        "Brieuchins"
+      ],
+      "explanation": "Ils doivent leur nom au moine gallois Brioc, venu évangéliser l'Armorique au Ve siècle.",
+      "wikipedia": "Saint-Brieuc"
+    },
+    {
+      "id": "geographie-155",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les habitants du Mans, dans la Sarthe ?",
+      "answer": "Manceaux",
+      "accept": [],
+      "choices": [
+        "Mansois",
+        "Manseaux",
+        "Sarthois"
+      ],
+      "explanation": "Le nom évoque le peuple gaulois des Aulerques Cénomans, qui a donné le nom de la province du Maine.",
+      "wikipedia": "Le Mans"
+    },
+    {
+      "id": "geographie-156",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les habitants de Fontainebleau, en Seine-et-Marne ?",
+      "answer": "Bellifontains",
+      "accept": [],
+      "choices": [
+        "Fontainebleaulais",
+        "Bléaudins",
+        "Fontebliens"
+      ],
+      "explanation": "Ce gentilé savant traduit le latin bellus fons, « belle fontaine », allusion à la source qui aurait donné son nom à la ville.",
+      "wikipedia": "Fontainebleau"
+    },
+    {
+      "id": "geographie-157",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les habitants de Limoges, en Haute-Vienne ?",
+      "answer": "Limougeauds",
+      "accept": [],
+      "choices": [
+        "Limogeois",
+        "Limousins",
+        "Lémovices"
+      ],
+      "explanation": "La ville tire son nom du peuple gaulois des Lémovices ; elle est aussi célèbre pour son émail peint sur cuivre depuis le Moyen Âge.",
+      "wikipedia": "Limoges"
+    },
+    {
+      "id": "geographie-158",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les habitants de Cahors, préfecture du Lot ?",
+      "answer": "Cadurciens",
+      "accept": [],
+      "choices": [
+        "Cahorsais",
+        "Caoursins",
+        "Lotois"
+      ],
+      "explanation": "Le nom vient des Cadurques, peuple gaulois ; la ville est célèbre pour le pont Valentré, fortifié au XIVe siècle.",
+      "wikipedia": "Cahors"
+    },
+    {
+      "id": "geographie-159",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les habitants de Rodez, préfecture de l'Aveyron ?",
+      "answer": "Ruthénois",
+      "accept": [],
+      "choices": [
+        "Rodéziens",
+        "Rouergats",
+        "Rodéens"
+      ],
+      "explanation": "Le gentilé rappelle les Rutènes, peuple gaulois ; la ville abrite un musée consacré au peintre Pierre Soulages, qui y est né.",
+      "wikipedia": "Rodez"
+    },
+    {
+      "id": "geographie-160",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les habitants de Brive-la-Gaillarde, en Corrèze ?",
+      "answer": "Brivistes",
+      "accept": [],
+      "choices": [
+        "Brivois",
+        "Gaillards",
+        "Brivaux"
+      ],
+      "explanation": "Le surnom « la Gaillarde » salue la vaillance de ses habitants lors de sièges ; Brassens a chanté sa foire dans « Hécatombe ».",
+      "wikipedia": "Brive-la-Gaillarde"
+    },
+    {
+      "id": "geographie-161",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Nice, dans les Alpes-Maritimes ?",
+      "answer": "Niçois",
+      "accept": [],
+      "choices": [
+        "Nicéens",
+        "Niciens",
+        "Nissards"
+      ],
+      "explanation": "Nice fut rattachée à la France en 1860 par le traité de Turin, avec la Savoie, après des siècles sous la maison de Savoie.",
+      "wikipedia": "Nice"
+    },
+    {
+      "id": "geographie-162",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les habitants de Chamonix-Mont-Blanc, en Haute-Savoie ?",
+      "answer": "Chamoniards",
+      "accept": [],
+      "choices": [
+        "Chamoniens",
+        "Chamonixois",
+        "Montblanais"
+      ],
+      "explanation": "C'est de Chamonix que Jacques Balmat et Michel Paccard partirent pour la première ascension du mont Blanc, en 1786.",
+      "wikipedia": "Chamonix-Mont-Blanc"
+    },
+    {
+      "id": "geographie-163",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les habitants de Mayotte, département français de l'océan Indien ?",
+      "answer": "Mahorais",
+      "accept": [],
+      "choices": [
+        "Mayottais",
+        "Comoriens",
+        "Maorais"
+      ],
+      "explanation": "Mayotte est devenue en 2011 le 101e département français ; son île principale s'appelle Grande-Terre et l'autre Petite-Terre.",
+      "wikipedia": "Mayotte"
+    },
+    {
+      "id": "geographie-164",
+      "difficulty": 1,
+      "question": "Quelle rivière rejoint le Rhône à Lyon, au quartier du Confluent ?",
+      "answer": "Saône",
+      "accept": [],
+      "choices": [
+        "Isère",
+        "Ain",
+        "Durance"
+      ],
+      "explanation": "Son cours très lent et sa faible pente en ont fait une voie navigable majeure ; elle prend sa source dans les Vosges, à Vioménil.",
+      "wikipedia": "Saône"
+    },
+    {
+      "id": "geographie-165",
+      "difficulty": 3,
+      "question": "Dans quel département la Seine prend-elle sa source, sur le plateau de Langres ?",
+      "answer": "Côte-d'Or",
+      "accept": [],
+      "choices": [
+        "Haute-Marne",
+        "Aube",
+        "Yonne"
+      ],
+      "explanation": "La source, sur la commune de Source-Seine, appartient depuis 1864 à la Ville de Paris, qui y a fait installer une statue de nymphe.",
+      "wikipedia": "Seine"
+    },
+    {
+      "id": "geographie-166",
+      "difficulty": 1,
+      "question": "Quelle rivière a creusé des gorges spectaculaires entre les causses de la Lozère et de l'Aveyron ?",
+      "answer": "Tarn",
+      "accept": [],
+      "choices": [
+        "Lot",
+        "Aveyron",
+        "Hérault"
+      ],
+      "explanation": "Prenant sa source sur le mont Lozère, elle traverse Albi et Montauban avant de rejoindre la Garonne.",
+      "wikipedia": "Tarn (rivière)"
+    },
+    {
+      "id": "geographie-167",
+      "difficulty": 1,
+      "question": "Quelle rivière provençale a creusé un célèbre grand canyon avant d'alimenter le lac de Sainte-Croix ?",
+      "answer": "Verdon",
+      "accept": [],
+      "choices": [
+        "Durance",
+        "Var",
+        "Argens"
+      ],
+      "explanation": "Elle doit son nom à la couleur vert émeraude de ses eaux ; ses gorges attirent kayakistes et grimpeurs.",
+      "wikipedia": "Verdon (rivière)"
+    },
+    {
+      "id": "geographie-168",
+      "difficulty": 1,
+      "question": "Quelle rivière passe sous l'arche naturelle du Pont-d'Arc avant de se jeter dans le Rhône ?",
+      "answer": "Ardèche",
+      "accept": [],
+      "choices": [
+        "Cèze",
+        "Gard",
+        "Drôme"
+      ],
+      "explanation": "Ses gorges, longues d'une trentaine de kilomètres, sont protégées par une réserve naturelle très prisée des canoéistes.",
+      "wikipedia": "Ardèche (rivière)"
+    },
+    {
+      "id": "geographie-169",
+      "difficulty": 2,
+      "question": "Quel fleuve né en Haute-Marne arrose Verdun et Sedan avant de traverser la Belgique et les Pays-Bas ?",
+      "answer": "Meuse",
+      "accept": [],
+      "choices": [
+        "Moselle",
+        "Escaut",
+        "Sambre"
+      ],
+      "explanation": "Il a donné son nom à un département ; en Wallonie, il traverse Namur et Liège, et les Néerlandais le nomment Maas.",
+      "wikipedia": "Meuse (fleuve)"
+    },
+    {
+      "id": "geographie-170",
+      "difficulty": 1,
+      "question": "Quel fleuve picard se jette dans une grande baie célèbre pour ses colonies de phoques ?",
+      "answer": "Somme",
+      "accept": [],
+      "choices": [
+        "Authie",
+        "Canche",
+        "Bresle"
+      ],
+      "explanation": "Il a donné son nom à une des batailles les plus meurtrières de la Première Guerre mondiale, en 1916.",
+      "wikipedia": "Baie de Somme"
+    },
+    {
+      "id": "geographie-171",
+      "difficulty": 2,
+      "question": "Quelle rivière décrit une boucle presque fermée autour du centre historique de Besançon ?",
+      "answer": "Doubs",
+      "accept": [],
+      "choices": [
+        "Loue",
+        "Ognon",
+        "Saône"
+      ],
+      "explanation": "La citadelle de Vauban verrouille l'étroit passage laissé par ce méandre ; la rivière marque aussi une partie de la frontière franco-suisse.",
+      "wikipedia": "Doubs (rivière)"
+    },
+    {
+      "id": "geographie-172",
+      "difficulty": 2,
+      "question": "Quel fleuve, qualifié par Henri IV de « plus beau ruisseau du royaume », arrose Angoulême et Cognac ?",
+      "answer": "Charente",
+      "accept": [],
+      "choices": [
+        "Dordogne",
+        "Vienne",
+        "Sèvre niortaise"
+      ],
+      "explanation": "Il se jette dans l'Atlantique près de Rochefort, dont l'arsenal construisit l'Hermione de La Fayette.",
+      "wikipedia": "Charente (fleuve)"
+    },
+    {
+      "id": "geographie-173",
+      "difficulty": 1,
+      "question": "Quelle rivière traverse Grenoble avant de se jeter dans le Rhône près de Valence ?",
+      "answer": "Isère",
+      "accept": [],
+      "choices": [
+        "Drac",
+        "Arc",
+        "Durance"
+      ],
+      "explanation": "Elle prend sa source au pied du glacier de la Galise, en Savoie, et a donné son nom au département dont Grenoble est la préfecture.",
+      "wikipedia": "Isère (rivière)"
+    },
+    {
+      "id": "geographie-174",
+      "difficulty": 3,
+      "question": "Quel fleuve a donné son nom à un département qu'il ne traverse plus depuis 1860 ?",
+      "answer": "Var",
+      "accept": [],
+      "choices": [
+        "Loir",
+        "Aude",
+        "Hérault"
+      ],
+      "explanation": "Après le rattachement de Nice, l'arrondissement de Grasse fut transféré aux Alpes-Maritimes, si bien que le fleuve Var ne coule plus dans le département du Var.",
+      "wikipedia": "Var (fleuve)"
+    },
+    {
+      "id": "geographie-175",
+      "difficulty": 2,
+      "question": "Au pied de quel mont ardéchois la Loire prend-elle sa source ?",
+      "answer": "Gerbier de Jonc",
+      "accept": [
+        "mont Gerbier-de-Jonc",
+        "Gerbier-de-Jonc",
+        "mont Gerbier de Jonc"
+      ],
+      "choices": [
+        "mont Mézenc",
+        "mont Lozère",
+        "mont Aigoual"
+      ],
+      "explanation": "Ce suc volcanique en forme de pain de sucre domine le plateau ; trois sources différentes revendiquent l'honneur d'être celle du fleuve.",
+      "wikipedia": "Mont Gerbier-de-Jonc"
+    },
+    {
+      "id": "geographie-176",
+      "difficulty": 2,
+      "question": "Quel fleuve breton, barré près de Saint-Malo, alimente la première usine marémotrice du monde ?",
+      "answer": "Rance",
+      "accept": [],
+      "choices": [
+        "Vilaine",
+        "Odet",
+        "Aulne"
+      ],
+      "explanation": "Inaugurée en 1966, l'usine utilise la force des marées de l'estuaire, parmi les plus fortes du monde ; Dinan s'élève sur ses rives.",
+      "wikipedia": "Rance"
+    },
+    {
+      "id": "geographie-177",
+      "difficulty": 3,
+      "question": "Quel fleuve frontalier basque abrite l'île des Faisans, gouvernée tour à tour par la France et l'Espagne ?",
+      "answer": "Bidassoa",
+      "accept": [],
+      "choices": [
+        "Nive",
+        "Nivelle",
+        "Adour"
+      ],
+      "explanation": "Le traité des Pyrénées y fut négocié en 1659 ; l'île change de souveraineté tous les six mois.",
+      "wikipedia": "Bidassoa"
+    },
+    {
+      "id": "geographie-178",
+      "difficulty": 1,
+      "question": "Quelle voie d'eau construite sous Louis XIV par Pierre-Paul Riquet relie Toulouse à la Méditerranée ?",
+      "answer": "canal du Midi",
+      "accept": [],
+      "choices": [
+        "canal de Bourgogne",
+        "canal de Briare",
+        "canal du Rhône au Rhin"
+      ],
+      "explanation": "Inscrit au patrimoine mondial de l'UNESCO, il est alimenté par les eaux de la Montagne Noire grâce au bassin de Saint-Ferréol.",
+      "wikipedia": "Canal du Midi"
+    },
+    {
+      "id": "geographie-179",
+      "difficulty": 1,
+      "question": "Quel fleuve marque la frontière entre l'Alsace et l'Allemagne ?",
+      "answer": "Rhin",
+      "accept": [],
+      "choices": [
+        "Danube",
+        "Moselle",
+        "Main"
+      ],
+      "explanation": "Né dans les Alpes suisses, il traverse le lac de Constance et termine sa course dans un vaste delta aux Pays-Bas.",
+      "wikipedia": "Rhin"
+    },
+    {
+      "id": "geographie-180",
+      "difficulty": 2,
+      "question": "Dans quel pays le Rhône prend-il sa source, au pied d'un glacier qui porte son nom ?",
+      "answer": "Suisse",
+      "accept": [],
+      "choices": [
+        "Italie",
+        "Autriche",
+        "France"
+      ],
+      "explanation": "Le fleuve traverse le Valais puis le lac Léman avant d'entrer en France à l'aval de Genève.",
+      "wikipedia": "Rhône"
+    },
+    {
+      "id": "geographie-181",
+      "difficulty": 3,
+      "question": "Quel torrent pyrénéen passe au pied de la grotte de Massabielle, à Lourdes ?",
+      "answer": "gave de Pau",
+      "accept": [],
+      "choices": [
+        "gave d'Oloron",
+        "Adour",
+        "Neste"
+      ],
+      "explanation": "Né au cirque de Gavarnie, il arrose ensuite la ville de Pau, au pied du château natal d'Henri IV, avant de rejoindre l'Adour.",
+      "wikipedia": "Gave de Pau"
+    },
+    {
+      "id": "geographie-182",
+      "difficulty": 1,
+      "question": "Quel sommet isolé du Vaucluse est surnommé « le Géant de Provence » ?",
+      "answer": "mont Ventoux",
+      "accept": [
+        "Ventoux"
+      ],
+      "choices": [
+        "mont Aigoual",
+        "Sainte-Victoire",
+        "montagne de Lure"
+      ],
+      "explanation": "Son sommet pelé, couvert de cailloux calcaires blancs, est l'une des ascensions les plus redoutées du Tour de France.",
+      "wikipedia": "Mont Ventoux"
+    },
+    {
+      "id": "geographie-183",
+      "difficulty": 1,
+      "question": "Quelle montagne provençale le peintre Paul Cézanne a-t-il représentée dans des dizaines de tableaux ?",
+      "answer": "Sainte-Victoire",
+      "accept": [
+        "montagne Sainte-Victoire"
+      ],
+      "choices": [
+        "Sainte-Baume",
+        "mont Ventoux",
+        "Alpilles"
+      ],
+      "explanation": "Ce chaînon calcaire domine Aix-en-Provence, ville natale du peintre ; son versant sud forme une longue falaise.",
+      "wikipedia": "Montagne Sainte-Victoire"
+    },
+    {
+      "id": "geographie-184",
+      "difficulty": 1,
+      "question": "Quel massif franco-suisse a donné son nom à une période géologique, celle des dinosaures ?",
+      "answer": "Jura",
+      "accept": [],
+      "choices": [
+        "Vosges",
+        "Morvan",
+        "Vercors"
+      ],
+      "explanation": "Le Jurassique doit son nom aux couches calcaires de ce massif, étudiées par Alexander von Humboldt et Alexandre Brongniart.",
+      "wikipedia": "Jurassique"
+    },
+    {
+      "id": "geographie-185",
+      "difficulty": 1,
+      "question": "Quel volcan endormi, gravi par un train à crémaillère, domine Clermont-Ferrand ?",
+      "answer": "puy de Dôme",
+      "accept": [],
+      "choices": [
+        "puy de Sancy",
+        "puy Mary",
+        "puy de Pariou"
+      ],
+      "explanation": "Blaise Pascal y fit réaliser en 1648 une expérience prouvant que la pression atmosphérique diminue avec l'altitude.",
+      "wikipedia": "Puy de Dôme"
+    },
+    {
+      "id": "geographie-186",
+      "difficulty": 2,
+      "question": "Quelle montagne des Pyrénées-Orientales est considérée comme la montagne sacrée des Catalans ?",
+      "answer": "Canigou",
+      "accept": [
+        "pic du Canigou"
+      ],
+      "choices": [
+        "Puigmal",
+        "Carlit",
+        "Montserrat"
+      ],
+      "explanation": "Chaque 23 juin, la flamme du Canigou y est allumée puis portée dans toute la Catalogne pour embraser les feux de la Saint-Jean.",
+      "wikipedia": "Pic du Canigou"
+    },
+    {
+      "id": "geographie-187",
+      "difficulty": 1,
+      "question": "Quel parc national, entre Marseille et Cassis, protège des criques calcaires aux eaux turquoise ?",
+      "answer": "Calanques",
+      "accept": [
+        "parc national des Calanques"
+      ],
+      "choices": [
+        "Port-Cros",
+        "Mercantour",
+        "Cévennes"
+      ],
+      "explanation": "Créé en 2012, c'est le premier parc national d'Europe à la fois terrestre, marin et périurbain ; la grotte Cosquer s'y cache sous la mer.",
+      "wikipedia": "Parc national des Calanques"
+    },
+    {
+      "id": "geographie-188",
+      "difficulty": 3,
+      "question": "Quel sommet est le point culminant du massif jurassien ?",
+      "answer": "crêt de la Neige",
+      "accept": [],
+      "choices": [
+        "mont Tendre",
+        "Grand Colombier",
+        "Dôle"
+      ],
+      "explanation": "Il domine le pays de Gex dans l'Ain ; le massif du Jura doit ses rides à la poussée alpine qui l'a plissé.",
+      "wikipedia": "Crêt de la Neige"
+    },
+    {
+      "id": "geographie-189",
+      "difficulty": 2,
+      "question": "Quel sommet est le point culminant de la Corse ?",
+      "answer": "Monte Cinto",
+      "accept": [
+        "Cinto"
+      ],
+      "choices": [
+        "Monte Rotondo",
+        "Monte d'Oro",
+        "Monte Renoso"
+      ],
+      "explanation": "Il se dresse dans le nord de l'île, en Haute-Corse ; la Corse est la plus montagneuse des îles de Méditerranée occidentale.",
+      "wikipedia": "Monte Cinto"
+    },
+    {
+      "id": "geographie-190",
+      "difficulty": 2,
+      "question": "Quel cirque des Hautes-Pyrénées, que Victor Hugo appela « le colosseum de la nature », possède une immense cascade ?",
+      "answer": "Gavarnie",
+      "accept": [
+        "cirque de Gavarnie"
+      ],
+      "choices": [
+        "cirque de Troumouse",
+        "cirque d'Estaubé",
+        "cirque de Lescun"
+      ],
+      "explanation": "Sa grande cascade est l'une des plus hautes chutes d'eau d'Europe ; le site fait partie du bien UNESCO Pyrénées-Mont Perdu.",
+      "wikipedia": "Cirque de Gavarnie"
+    },
+    {
+      "id": "geographie-191",
+      "difficulty": 2,
+      "question": "Quel sommet du massif du Mont-Blanc est atteint par un téléphérique depuis Chamonix ?",
+      "answer": "aiguille du Midi",
+      "accept": [],
+      "choices": [
+        "aiguille Verte",
+        "Dent du Géant",
+        "Grandes Jorasses"
+      ],
+      "explanation": "Une cage vitrée, le « Pas dans le vide », permet d'y marcher au-dessus d'un millier de mètres de vide.",
+      "wikipedia": "Aiguille du Midi"
+    },
+    {
+      "id": "geographie-192",
+      "difficulty": 3,
+      "question": "Quelle montagne du Vercors fut gravie en 1492 sur ordre de Charles VIII, acte de naissance de l'alpinisme ?",
+      "answer": "mont Aiguille",
+      "accept": [],
+      "choices": [
+        "Grand Veymont",
+        "Moucherotte",
+        "dent de Crolles"
+      ],
+      "explanation": "Antoine de Ville et ses compagnons y montèrent à l'aide d'échelles ; Rabelais le surnomma « le mont inaccessible ».",
+      "wikipedia": "Mont Aiguille"
+    },
+    {
+      "id": "geographie-193",
+      "difficulty": 3,
+      "question": "Quel plateau limousin doit son nom non pas aux bovins mais probablement à ses nombreuses sources ?",
+      "answer": "Millevaches",
+      "accept": [
+        "plateau de Millevaches"
+      ],
+      "choices": [
+        "plateau de Lannemezan",
+        "plateau d'Aubrac",
+        "plateau du Larzac"
+      ],
+      "explanation": "Le nom viendrait d'un mot celtique désignant les sources ; de nombreuses rivières y naissent, comme la Vienne, la Creuse ou la Vézère.",
+      "wikipedia": "Plateau de Millevaches"
+    },
+    {
+      "id": "geographie-194",
+      "difficulty": 2,
+      "question": "Quel plateau de l'Aveyron fut le théâtre d'une longue lutte paysanne contre l'extension d'un camp militaire ?",
+      "answer": "Larzac",
+      "accept": [
+        "causse du Larzac"
+      ],
+      "choices": [
+        "Aubrac",
+        "causse Méjean",
+        "Ségala"
+      ],
+      "explanation": "Les brebis qui y pâturent fournissent le lait du roquefort ; la lutte, de 1971 à 1981, obtint l'abandon du projet.",
+      "wikipedia": "Causse du Larzac"
+    },
+    {
+      "id": "geographie-195",
+      "difficulty": 3,
+      "question": "Quel cirque calcaire de l'Hérault et du Gard, creusé par la Vis, forme un méandre abandonné ?",
+      "answer": "Navacelles",
+      "accept": [
+        "cirque de Navacelles"
+      ],
+      "choices": [
+        "cirque de Mourèze",
+        "cirque de Gavarnie",
+        "cirque de Baume"
+      ],
+      "explanation": "Au fond de ce gouffre de plusieurs centaines de mètres se blottit un petit village ; le site est classé Grand Site de France.",
+      "wikipedia": "Cirque de Navacelles"
+    },
+    {
+      "id": "geographie-196",
+      "difficulty": 3,
+      "question": "Quel plan d'eau de cratère auvergnat, presque parfaitement circulaire, est l'un des rares lacs méromictiques de France ?",
+      "answer": "lac Pavin",
+      "accept": [
+        "Pavin"
+      ],
+      "choices": [
+        "lac Chambon",
+        "lac d'Aydat",
+        "lac de Guéry"
+      ],
+      "explanation": "Ses eaux profondes ne se mélangent jamais avec celles de surface ; son nom viendrait du latin pavens, « épouvantable ».",
+      "wikipedia": "Lac Pavin"
+    },
+    {
+      "id": "geographie-197",
+      "difficulty": 3,
+      "question": "Quel sommet de l'Oisans est le plus méridional des Alpes à dépasser 4 000 mètres ?",
+      "answer": "barre des Écrins",
+      "accept": [],
+      "choices": [
+        "Meije",
+        "Pelvoux",
+        "Ailefroide"
+      ],
+      "explanation": "Jusqu'au rattachement de la Savoie en 1860, c'était le plus haut sommet de France ; il fut gravi pour la première fois en 1864.",
+      "wikipedia": "Barre des Écrins"
+    },
+    {
+      "id": "geographie-198",
+      "difficulty": 2,
+      "question": "Quel gouffre du Lot permet de naviguer en barque sur une rivière souterraine ?",
+      "answer": "Padirac",
+      "accept": [
+        "gouffre de Padirac"
+      ],
+      "choices": [
+        "aven Armand",
+        "gouffre de Proumeyssac",
+        "grotte de Lacave"
+      ],
+      "explanation": "Exploré à partir de 1889 par Édouard-Alfred Martel, père de la spéléologie moderne, il s'ouvre par un puits d'environ 35 mètres de diamètre.",
+      "wikipedia": "Gouffre de Padirac"
+    },
+    {
+      "id": "geographie-199",
+      "difficulty": 1,
+      "question": "Quelle région administrative a pour chef-lieu Strasbourg ?",
+      "answer": "Grand Est",
+      "accept": [],
+      "choices": [
+        "Bourgogne-Franche-Comté",
+        "Hauts-de-France",
+        "Alsace-Lorraine"
+      ],
+      "explanation": "Créée en 2016, elle réunit l'Alsace, la Lorraine et Champagne-Ardenne ; c'est la seule région française frontalière de quatre pays.",
+      "wikipedia": "Grand Est"
+    },
+    {
+      "id": "geographie-200",
+      "difficulty": 2,
+      "question": "Quelle est la plus vaste région de France métropolitaine ?",
+      "answer": "Nouvelle-Aquitaine",
+      "accept": [],
+      "choices": [
+        "Occitanie",
+        "Auvergne-Rhône-Alpes",
+        "Grand Est"
+      ],
+      "explanation": "Formée en 2016 par la fusion de l'Aquitaine, du Limousin et de Poitou-Charentes, elle compte douze départements et a Bordeaux pour chef-lieu.",
+      "wikipedia": "Nouvelle-Aquitaine"
+    },
+    {
+      "id": "geographie-201",
+      "difficulty": 2,
+      "question": "Quelle ville est le chef-lieu de la région Normandie ?",
+      "answer": "Rouen",
+      "accept": [],
+      "choices": [
+        "Caen",
+        "Le Havre",
+        "Évreux"
+      ],
+      "explanation": "Caen accueille toutefois le conseil régional, tandis que Rouen abrite la préfecture de région : une répartition décidée lors de la réunification de 2016.",
+      "wikipedia": "Normandie (région administrative)"
+    },
+    {
+      "id": "geographie-202",
+      "difficulty": 1,
+      "question": "Quelle ville est le chef-lieu de la région Bretagne ?",
+      "answer": "Rennes",
+      "accept": [],
+      "choices": [
+        "Brest",
+        "Nantes",
+        "Vannes"
+      ],
+      "explanation": "Le Parlement de Bretagne y siégeait sous l'Ancien Régime ; son palais, incendié en 1994, a été restauré.",
+      "wikipedia": "Bretagne (région administrative)"
+    },
+    {
+      "id": "geographie-203",
+      "difficulty": 1,
+      "question": "Quel département porte le numéro 13 et a Marseille pour préfecture ?",
+      "answer": "Bouches-du-Rhône",
+      "accept": [],
+      "choices": [
+        "Var",
+        "Vaucluse",
+        "Gard"
+      ],
+      "explanation": "Son nom évoque les embouchures du Rhône, qui forment le delta de la Camargue, en grande partie situé dans ce département.",
+      "wikipedia": "Bouches-du-Rhône"
+    },
+    {
+      "id": "geographie-204",
+      "difficulty": 2,
+      "question": "Quel département est né de la partie du Haut-Rhin restée française en 1871 ?",
+      "answer": "Territoire de Belfort",
+      "accept": [
+        "Belfort"
+      ],
+      "choices": [
+        "Haut-Rhin",
+        "Doubs",
+        "Haute-Saône"
+      ],
+      "explanation": "Ce territoire dut d'échapper à l'annexion à la résistance du colonel Denfert-Rochereau, que célèbre le Lion de Bartholdi.",
+      "wikipedia": "Territoire de Belfort"
+    },
+    {
+      "id": "geographie-205",
+      "difficulty": 3,
+      "question": "Quelle ville est la préfecture de l'Ariège ?",
+      "answer": "Foix",
+      "accept": [],
+      "choices": [
+        "Pamiers",
+        "Saint-Girons",
+        "Tarascon-sur-Ariège"
+      ],
+      "explanation": "Son château aux trois tours fut le siège des comtes de Foix, dont Gaston Fébus ; c'est l'une des plus petites préfectures de France.",
+      "wikipedia": "Foix"
+    },
+    {
+      "id": "geographie-206",
+      "difficulty": 3,
+      "question": "Quelle ville est la préfecture du Gers, dominée par la cathédrale Sainte-Marie ?",
+      "answer": "Auch",
+      "accept": [],
+      "choices": [
+        "Condom",
+        "Lectoure",
+        "Mirande"
+      ],
+      "explanation": "Un monumental escalier mène à la statue de d'Artagnan ; la cathédrale abrite des stalles et des vitraux Renaissance exceptionnels.",
+      "wikipedia": "Auch"
+    },
+    {
+      "id": "geographie-207",
+      "difficulty": 3,
+      "question": "Quelle ville est la préfecture de la Manche, plutôt que Cherbourg ?",
+      "answer": "Saint-Lô",
+      "accept": [],
+      "choices": [
+        "Coutances",
+        "Avranches",
+        "Granville"
+      ],
+      "explanation": "Presque entièrement détruite en 1944, elle fut surnommée « la capitale des ruines » par Samuel Beckett, qui y travailla pour la Croix-Rouge.",
+      "wikipedia": "Saint-Lô"
+    },
+    {
+      "id": "geographie-208",
+      "difficulty": 2,
+      "question": "Quelle ville est devenue la préfecture du Var en 1974, à la place de Draguignan ?",
+      "answer": "Toulon",
+      "accept": [],
+      "choices": [
+        "Hyères",
+        "Fréjus",
+        "Brignoles"
+      ],
+      "explanation": "Elle abrite le premier port militaire de France, base de la flotte de Méditerranée et du porte-avions Charles-de-Gaulle.",
+      "wikipedia": "Toulon"
+    },
+    {
+      "id": "geographie-209",
+      "difficulty": 2,
+      "question": "Quel département breton s'appelait officiellement Côtes-du-Nord jusqu'en 1990 ?",
+      "answer": "Côtes-d'Armor",
+      "accept": [],
+      "choices": [
+        "Finistère",
+        "Ille-et-Vilaine",
+        "Morbihan"
+      ],
+      "explanation": "Armor signifie « le pays de la mer » en breton ; la côte de Granit rose et l'île de Bréhat se trouvent dans ce département.",
+      "wikipedia": "Côtes-d'Armor"
+    },
+    {
+      "id": "geographie-210",
+      "difficulty": 1,
+      "question": "Quelle région naturelle autour de Chartres est surnommée « le grenier à blé de la France » ?",
+      "answer": "Beauce",
+      "accept": [],
+      "choices": [
+        "Brie",
+        "Sologne",
+        "Vexin"
+      ],
+      "explanation": "Ses vastes plaines limoneuses, presque sans arbres, ont inspiré à Charles Péguy sa « Présentation de la Beauce à Notre-Dame de Chartres ».",
+      "wikipedia": "Beauce (France)"
+    },
+    {
+      "id": "geographie-211",
+      "difficulty": 2,
+      "question": "Quelle région naturelle du Centre, couverte d'étangs et de forêts, s'étend au sud d'Orléans ?",
+      "answer": "Sologne",
+      "accept": [],
+      "choices": [
+        "Brenne",
+        "Beauce",
+        "Puisaye"
+      ],
+      "explanation": "Terre de chasse prisée, elle sert de cadre au Grand Meaulnes d'Alain-Fournier et à Raboliot de Maurice Genevoix.",
+      "wikipedia": "Sologne"
+    },
+    {
+      "id": "geographie-212",
+      "difficulty": 1,
+      "question": "Quelle région du delta du Rhône est célèbre pour ses chevaux blancs, ses taureaux et ses flamants roses ?",
+      "answer": "Camargue",
+      "accept": [],
+      "choices": [
+        "Crau",
+        "Dombes",
+        "Brenne"
+      ],
+      "explanation": "Les gardians y élèvent les manades ; le riz y est aussi cultivé, et les salins d'Aigues-Mortes et de Salin-de-Giraud y produisent du sel.",
+      "wikipedia": "Camargue"
+    },
+    {
+      "id": "geographie-213",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le littoral rocheux du Pas-de-Calais, entre la baie d'Authie et la frontière belge ?",
+      "answer": "Côte d'Opale",
+      "accept": [],
+      "choices": [
+        "Côte d'Albâtre",
+        "Côte Fleurie",
+        "Côte Picarde"
+      ],
+      "explanation": "Le nom fut donné en 1911 par le peintre Édouard Lévêque, frappé par les reflets laiteux de la mer et du ciel.",
+      "wikipedia": "Côte d'Opale"
+    },
+    {
+      "id": "geographie-214",
+      "difficulty": 1,
+      "question": "Quel littoral breton, autour de Perros-Guirec et Ploumanac'h, est célèbre pour ses rochers aux formes étranges ?",
+      "answer": "Côte de Granit rose",
+      "accept": [],
+      "choices": [
+        "Côte d'Émeraude",
+        "Côte des Abers",
+        "Côte d'Amour"
+      ],
+      "explanation": "La couleur rose de son granite, très rare dans le monde, est due à l'abondance de feldspath ; l'érosion a sculpté des formes évocatrices.",
+      "wikipedia": "Côte de granit rose"
+    },
+    {
+      "id": "geographie-215",
+      "difficulty": 1,
+      "question": "Comment s'appelle la partie de l'Atlantique qui borde la France entre la Bretagne et le Pays basque ?",
+      "answer": "golfe de Gascogne",
+      "accept": [
+        "golfe de Biscaye"
+      ],
+      "choices": [
+        "golfe du Lion",
+        "golfe du Morbihan",
+        "mer Celtique"
+      ],
+      "explanation": "Réputé pour ses violentes tempêtes, il est appelé « golfe de Biscaye » par les Espagnols et les Anglais.",
+      "wikipedia": "Golfe de Gascogne"
+    },
+    {
+      "id": "geographie-216",
+      "difficulty": 1,
+      "question": "Quel promontoire rocheux du Finistère, face à l'île de Sein, est classé Grand Site de France ?",
+      "answer": "pointe du Raz",
+      "accept": [],
+      "choices": [
+        "pointe de Penhir",
+        "pointe Saint-Mathieu",
+        "pointe du Van"
+      ],
+      "explanation": "Le passage qui la sépare de l'île de Sein, le raz de Sein, est réputé pour ses courants parmi les plus dangereux d'Europe.",
+      "wikipedia": "Pointe du Raz"
+    },
+    {
+      "id": "geographie-217",
+      "difficulty": 2,
+      "question": "Quelle région du sud du Finistère est célèbre pour la haute coiffe de dentelle de ses femmes ?",
+      "answer": "pays Bigouden",
+      "accept": [
+        "Bigouden"
+      ],
+      "choices": [
+        "pays de Léon",
+        "Trégor",
+        "Cornouaille"
+      ],
+      "explanation": "Cette coiffe en forme de menhir, appelée bigoudène, s'est allongée au cours du XXe siècle pour atteindre plus de trente centimètres.",
+      "wikipedia": "Pays Bigouden"
+    },
+    {
+      "id": "geographie-218",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on en breton l'intérieur boisé de la Bretagne, par opposition à l'Armor ?",
+      "answer": "Argoat",
+      "accept": [],
+      "choices": [
+        "Léon",
+        "Trégor",
+        "Penn-ar-Bed"
+      ],
+      "explanation": "Argoat signifie « pays des bois » et Armor « pays de la mer » ; le Finistère est appelé Penn-ar-Bed, « le bout du monde ».",
+      "wikipedia": "Argoat"
+    },
+    {
+      "id": "geographie-219",
+      "difficulty": 2,
+      "question": "Quel plateau provençal des Alpes-de-Haute-Provence est célèbre pour ses champs de lavande ?",
+      "answer": "Valensole",
+      "accept": [
+        "plateau de Valensole"
+      ],
+      "choices": [
+        "plateau d'Albion",
+        "plateau de Caussols",
+        "Crau"
+      ],
+      "explanation": "On y cultive surtout le lavandin, hybride plus productif, dont la floraison culmine en juillet ; ses paysages attirent photographes du monde entier.",
+      "wikipedia": "Plateau de Valensole"
+    },
+    {
+      "id": "geographie-220",
+      "difficulty": 1,
+      "question": "Dans quelle commune du Morbihan se dressent les célèbres alignements de menhirs ?",
+      "answer": "Carnac",
+      "accept": [],
+      "choices": [
+        "Locmariaquer",
+        "Quiberon",
+        "Plouharnel"
+      ],
+      "explanation": "Près de trois mille menhirs y furent dressés au Néolithique ; la légende y voit des soldats romains pétrifiés par saint Cornély.",
+      "wikipedia": "Alignements de Carnac"
+    },
+    {
+      "id": "geographie-221",
+      "difficulty": 1,
+      "question": "Quel ouvrage autoroutier, conçu avec l'architecte Norman Foster, franchit la vallée du Tarn dans l'Aveyron ?",
+      "answer": "viaduc de Millau",
+      "accept": [
+        "Millau"
+      ],
+      "choices": [
+        "viaduc de Garabit",
+        "pont de Normandie",
+        "viaduc de la Souleuvre"
+      ],
+      "explanation": "Inauguré en 2004 et conçu par l'ingénieur Michel Virlogeux, ce pont à haubans a désengorgé l'autoroute A75.",
+      "wikipedia": "Viaduc de Millau"
+    },
+    {
+      "id": "geographie-222",
+      "difficulty": 2,
+      "question": "Quelle ville du Vaucluse possède un théâtre antique dont le mur de scène est presque intact ?",
+      "answer": "Orange",
+      "accept": [],
+      "choices": [
+        "Vaison-la-Romaine",
+        "Carpentras",
+        "Cavaillon"
+      ],
+      "explanation": "Louis XIV aurait qualifié ce mur de « plus belle muraille de mon royaume » ; la ville a aussi un arc de triomphe romain.",
+      "wikipedia": "Théâtre antique d'Orange"
+    },
+    {
+      "id": "geographie-223",
+      "difficulty": 2,
+      "question": "Quelle cité religieuse du Lot, accrochée à une falaise, abrite le sanctuaire d'une Vierge noire ?",
+      "answer": "Rocamadour",
+      "accept": [],
+      "choices": [
+        "Conques",
+        "Padirac",
+        "Saint-Cirq-Lapopie"
+      ],
+      "explanation": "Son grand escalier, que les pèlerins gravissaient à genoux, mène à la chapelle où l'on vénère la Vierge noire.",
+      "wikipedia": "Rocamadour"
+    },
+    {
+      "id": "geographie-224",
+      "difficulty": 3,
+      "question": "Quel village de l'Aveyron abrite l'abbatiale Sainte-Foy et un trésor d'orfèvrerie médiévale ?",
+      "answer": "Conques",
+      "accept": [],
+      "choices": [
+        "Rocamadour",
+        "Moissac",
+        "Belcastel"
+      ],
+      "explanation": "La statue-reliquaire de sainte Foy, couverte d'or et de pierreries, est l'une des plus anciennes sculptures en ronde-bosse du Moyen Âge ; Pierre Soulages en a dessiné les vitraux.",
+      "wikipedia": "Conques"
+    },
+    {
+      "id": "geographie-225",
+      "difficulty": 2,
+      "question": "Dans quelle ville de Côte-d'Or se trouve l'Hôtel-Dieu aux toits de tuiles vernissées multicolores ?",
+      "answer": "Beaune",
+      "accept": [],
+      "choices": [
+        "Dijon",
+        "Nuits-Saint-Georges",
+        "Autun"
+      ],
+      "explanation": "Fondés en 1443 par le chancelier Nicolas Rolin, ses Hospices organisent chaque automne une célèbre vente aux enchères de vins.",
+      "wikipedia": "Hospices de Beaune"
+    },
+    {
+      "id": "geographie-226",
+      "difficulty": 2,
+      "question": "Quel facteur de la Drôme a bâti seul, pendant 33 ans, un « Palais idéal » à Hauterives ?",
+      "answer": "Ferdinand Cheval",
+      "accept": [
+        "facteur Cheval",
+        "Cheval"
+      ],
+      "choices": [
+        "Raymond Isidore",
+        "Robert Tatin",
+        "Joseph Ferdinand Gueldry"
+      ],
+      "explanation": "Il commença en ramassant des pierres lors de ses tournées ; André Breton et les surréalistes saluèrent son œuvre.",
+      "wikipedia": "Ferdinand Cheval"
+    },
+    {
+      "id": "geographie-227",
+      "difficulty": 2,
+      "question": "Quel château de la Loire inspira à Hergé le château de Moulinsart ?",
+      "answer": "Cheverny",
+      "accept": [
+        "château de Cheverny"
+      ],
+      "choices": [
+        "Chaumont-sur-Loire",
+        "Azay-le-Rideau",
+        "Villandry"
+      ],
+      "explanation": "Hergé en retira les deux ailes latérales ; le château, toujours habité par la même famille, abrite une exposition consacrée à Tintin.",
+      "wikipedia": "Château de Cheverny"
+    },
+    {
+      "id": "geographie-228",
+      "difficulty": 1,
+      "question": "Quelle cathédrale de la Beauce est célèbre pour ses vitraux d'un bleu unique et son labyrinthe ?",
+      "answer": "Chartres",
+      "accept": [
+        "cathédrale de Chartres"
+      ],
+      "choices": [
+        "Bourges",
+        "Amiens",
+        "Beauvais"
+      ],
+      "explanation": "Le labyrinthe dallé de sa nef mesure environ 260 mètres de chemin ; la cathédrale conserve un voile attribué à la Vierge.",
+      "wikipedia": "Cathédrale Notre-Dame de Chartres"
+    },
+    {
+      "id": "geographie-229",
+      "difficulty": 2,
+      "question": "Quelle cathédrale picarde est la plus vaste de France par son volume intérieur ?",
+      "answer": "Amiens",
+      "accept": [
+        "cathédrale d'Amiens"
+      ],
+      "choices": [
+        "Beauvais",
+        "Reims",
+        "Laon"
+      ],
+      "explanation": "On pourrait y loger deux fois Notre-Dame de Paris ; sa façade est parfois éclairée pour retrouver ses couleurs médiévales.",
+      "wikipedia": "Cathédrale Notre-Dame d'Amiens"
+    },
+    {
+      "id": "geographie-230",
+      "difficulty": 3,
+      "question": "Dans quelle commune de Haute-Saône Le Corbusier a-t-il bâti la chapelle Notre-Dame-du-Haut ?",
+      "answer": "Ronchamp",
+      "accept": [],
+      "choices": [
+        "Vesoul",
+        "Luxeuil-les-Bains",
+        "Lure"
+      ],
+      "explanation": "Sa toiture en coque de béton, évoquant une coque de crabe, en fait une icône de l'architecture du XXe siècle, inscrite à l'UNESCO.",
+      "wikipedia": "Chapelle Notre-Dame du Haut"
+    },
+    {
+      "id": "geographie-231",
+      "difficulty": 2,
+      "question": "Quel phare de l'estuaire de la Gironde est surnommé « le roi des phares » ?",
+      "answer": "Cordouan",
+      "accept": [
+        "phare de Cordouan"
+      ],
+      "choices": [
+        "Ar-Men",
+        "phare des Baleines",
+        "phare de la Coubre"
+      ],
+      "explanation": "Bâti en mer à partir de 1584 sous Henri III, ce phare-palais Renaissance abrite une chapelle ; il est inscrit au patrimoine mondial depuis 2021.",
+      "wikipedia": "Phare de Cordouan"
+    },
+    {
+      "id": "geographie-232",
+      "difficulty": 1,
+      "question": "Quelle presqu'île de Loire-Atlantique est réputée pour ses marais salants et sa fleur de sel ?",
+      "answer": "Guérande",
+      "accept": [
+        "presqu'île de Guérande"
+      ],
+      "choices": [
+        "Noirmoutier",
+        "Quiberon",
+        "Rhuys"
+      ],
+      "explanation": "Les paludiers y récoltent le sel selon une technique héritée du Moyen Âge ; la cité médiévale de Guérande conserve ses remparts.",
+      "wikipedia": "Marais salants de Guérande"
+    },
+    {
+      "id": "geographie-233",
+      "difficulty": 2,
+      "question": "Quelle cité fortifiée du Gard fut fondée par Saint Louis pour disposer d'un port sur la Méditerranée ?",
+      "answer": "Aigues-Mortes",
+      "accept": [],
+      "choices": [
+        "Carcassonne",
+        "Beaucaire",
+        "Saint-Gilles"
+      ],
+      "explanation": "C'est de là que le roi partit pour la septième puis la huitième croisade ; la mer s'est depuis retirée.",
+      "wikipedia": "Aigues-Mortes"
+    },
+    {
+      "id": "geographie-234",
+      "difficulty": 2,
+      "question": "Quel ouvrage médiéval d'Avignon, en partie emporté par les crues du Rhône, est célébré par une chanson enfantine ?",
+      "answer": "pont Saint-Bénézet",
+      "accept": [
+        "Saint-Bénézet",
+        "pont d'Avignon"
+      ],
+      "choices": [
+        "pont Valentré",
+        "pont du Gard",
+        "pont Neuf"
+      ],
+      "explanation": "Selon la légende, un jeune berger nommé Bénezet en lança la construction au XIIe siècle ; il n'en reste que quatre arches.",
+      "wikipedia": "Pont Saint-Bénézet"
+    },
+    {
+      "id": "geographie-235",
+      "difficulty": 2,
+      "question": "Quel château ariégeois perché fut le dernier grand refuge des cathares, pris en 1244 ?",
+      "answer": "Montségur",
+      "accept": [
+        "château de Montségur"
+      ],
+      "choices": [
+        "Peyrepertuse",
+        "Quéribus",
+        "Puilaurens"
+      ],
+      "explanation": "Après sa reddition, plus de deux cents cathares refusèrent d'abjurer et périrent sur un bûcher au pied du pog.",
+      "wikipedia": "Château de Montségur"
+    },
+    {
+      "id": "geographie-236",
+      "difficulty": 3,
+      "question": "Quel château de l'Oise, entièrement reconstruit par Viollet-le-Duc pour Napoléon III, a servi de décor à Merlin ?",
+      "answer": "Pierrefonds",
+      "accept": [
+        "château de Pierrefonds"
+      ],
+      "choices": [
+        "Compiègne",
+        "Chantilly",
+        "Coucy"
+      ],
+      "explanation": "La forteresse de Louis d'Orléans, démantelée sous Louis XIII, fut rêvée par l'architecte comme un château médiéval idéal.",
+      "wikipedia": "Château de Pierrefonds"
+    },
+    {
+      "id": "geographie-237",
+      "difficulty": 3,
+      "question": "Quel château d'Indre-et-Loire aurait inspiré à Charles Perrault La Belle au bois dormant ?",
+      "answer": "Ussé",
+      "accept": [
+        "château d'Ussé"
+      ],
+      "choices": [
+        "Langeais",
+        "Azay-le-Rideau",
+        "Villandry"
+      ],
+      "explanation": "Dressé en lisière de la forêt de Chinon, il présente dans une tour des scènes du conte avec des mannequins en costume.",
+      "wikipedia": "Château d'Ussé"
+    },
+    {
+      "id": "geographie-238",
+      "difficulty": 1,
+      "question": "Quel château royal de Seine-et-Marne Napoléon qualifiait-il de « vraie demeure des rois, la maison des siècles » ?",
+      "answer": "Fontainebleau",
+      "accept": [
+        "château de Fontainebleau"
+      ],
+      "choices": [
+        "Compiègne",
+        "Vincennes",
+        "Saint-Germain-en-Laye"
+      ],
+      "explanation": "C'est dans sa cour du Cheval-Blanc, dite depuis cour des Adieux, que l'Empereur fit ses adieux à la Garde en 1814.",
+      "wikipedia": "Château de Fontainebleau"
+    },
+    {
+      "id": "geographie-239",
+      "difficulty": 1,
+      "question": "Quelle terre charentaise est reliée à La Rochelle par un pont ouvert en 1988 ?",
+      "answer": "île de Ré",
+      "accept": [
+        "Ré"
+      ],
+      "choices": [
+        "île d'Oléron",
+        "île d'Aix",
+        "île Madame"
+      ],
+      "explanation": "Surnommée « Ré la Blanche », elle est célèbre pour ses marais salants, ses ânes en culotte et le phare des Baleines.",
+      "wikipedia": "Île de Ré"
+    },
+    {
+      "id": "geographie-240",
+      "difficulty": 2,
+      "question": "Quelle île bretonne, connue pour son phare du Créac'h, marque l'entrée de la Manche à l'ouest ?",
+      "answer": "Ouessant",
+      "accept": [
+        "île d'Ouessant"
+      ],
+      "choices": [
+        "île de Sein",
+        "île de Batz",
+        "île Molène"
+      ],
+      "explanation": "Un dicton dit : « Qui voit Ouessant voit son sang » ; ses moutons noirs nains forment une race originale.",
+      "wikipedia": "Ouessant"
+    },
+    {
+      "id": "geographie-241",
+      "difficulty": 3,
+      "question": "Quelle petite terre bretonne vit presque tous ses hommes rejoindre de Gaulle à Londres dès juin 1940 ?",
+      "answer": "île de Sein",
+      "accept": [
+        "Sein"
+      ],
+      "choices": [
+        "Ouessant",
+        "Molène",
+        "Groix"
+      ],
+      "explanation": "De Gaulle la fit compagnon de la Libération et aurait déclaré que l'île de Sein représentait à elle seule le quart de la France.",
+      "wikipedia": "Île-de-Sein"
+    },
+    {
+      "id": "geographie-242",
+      "difficulty": 2,
+      "question": "Quelle île des Côtes-d'Armor, sans voitures, est surnommée « l'île aux fleurs » ?",
+      "answer": "Bréhat",
+      "accept": [
+        "île de Bréhat"
+      ],
+      "choices": [
+        "île de Batz",
+        "Groix",
+        "Houat"
+      ],
+      "explanation": "Grâce au climat doux, mimosas, agapanthes et figuiers y prospèrent ; l'archipel compte plusieurs dizaines d'îlots de granite rose.",
+      "wikipedia": "Île-de-Bréhat"
+    },
+    {
+      "id": "geographie-243",
+      "difficulty": 1,
+      "question": "Quelle île vendéenne est reliée au continent par le passage du Gois, submergé à marée haute ?",
+      "answer": "Noirmoutier",
+      "accept": [
+        "île de Noirmoutier"
+      ],
+      "choices": [
+        "île d'Yeu",
+        "île de Ré",
+        "Belle-Île-en-Mer"
+      ],
+      "explanation": "Le Gois, long de plus de quatre kilomètres, sert chaque année de cadre à une course à pied disputée contre la marée montante.",
+      "wikipedia": "Île de Noirmoutier"
+    },
+    {
+      "id": "geographie-244",
+      "difficulty": 3,
+      "question": "Sur quelle terre vendéenne le maréchal Pétain fut-il détenu jusqu'à sa mort en 1951 ?",
+      "answer": "île d'Yeu",
+      "accept": [
+        "Yeu"
+      ],
+      "choices": [
+        "île de Ré",
+        "Noirmoutier",
+        "île d'Aix"
+      ],
+      "explanation": "Il fut enfermé au fort de la Pierre-Levée et est inhumé dans le cimetière de Port-Joinville, le principal port de l'île.",
+      "wikipedia": "Île d'Yeu"
+    },
+    {
+      "id": "geographie-245",
+      "difficulty": 1,
+      "question": "Quelle île italienne est séparée de la Corse par les bouches de Bonifacio ?",
+      "answer": "Sardaigne",
+      "accept": [],
+      "choices": [
+        "Sicile",
+        "Elbe",
+        "Capri"
+      ],
+      "explanation": "Ce détroit, large d'une douzaine de kilomètres, est réputé pour ses courants et ses vents violents ; une réserve marine franco-italienne le protège.",
+      "wikipedia": "Bouches de Bonifacio"
+    },
+    {
+      "id": "geographie-246",
+      "difficulty": 1,
+      "question": "Quelle ville corse est perchée sur des falaises calcaires face à la Sardaigne ?",
+      "answer": "Bonifacio",
+      "accept": [],
+      "choices": [
+        "Porto-Vecchio",
+        "Calvi",
+        "Propriano"
+      ],
+      "explanation": "On y accède à la mer par l'escalier du roi d'Aragon, taillé dans la falaise selon la légende en une seule nuit.",
+      "wikipedia": "Bonifacio"
+    },
+    {
+      "id": "geographie-247",
+      "difficulty": 1,
+      "question": "Quelle ville est la préfecture de la Guyane ?",
+      "answer": "Cayenne",
+      "accept": [],
+      "choices": [
+        "Kourou",
+        "Saint-Laurent-du-Maroni",
+        "Fort-de-France"
+      ],
+      "explanation": "La ville a donné son nom au piment de Cayenne ; elle est dominée par le fort Cépérou, bâti au XVIIe siècle.",
+      "wikipedia": "Cayenne"
+    },
+    {
+      "id": "geographie-248",
+      "difficulty": 2,
+      "question": "Comment s'appelle la partie orientale de la Guadeloupe, séparée de Basse-Terre par la rivière Salée ?",
+      "answer": "Grande-Terre",
+      "accept": [],
+      "choices": [
+        "Marie-Galante",
+        "La Désirade",
+        "Petite-Terre"
+      ],
+      "explanation": "Paradoxalement, Grande-Terre est plus petite que Basse-Terre ; les deux îles dessinent ensemble la forme d'un papillon.",
+      "wikipedia": "Grande-Terre (île en Guadeloupe)"
+    },
+    {
+      "id": "geographie-249",
+      "difficulty": 1,
+      "question": "Quel volcan de la Martinique détruisit la ville de Saint-Pierre en 1902 ?",
+      "answer": "montagne Pelée",
+      "accept": [
+        "Pelée"
+      ],
+      "choices": [
+        "Soufrière",
+        "piton du Carbet",
+        "morne Jacob"
+      ],
+      "explanation": "Une nuée ardente tua presque tous les habitants ; l'un des rares survivants, le prisonnier Ludger Sylbaris, fut protégé par l'épaisseur de son cachot.",
+      "wikipedia": "Montagne Pelée"
+    },
+    {
+      "id": "geographie-250",
+      "difficulty": 2,
+      "question": "Quelle île des Antilles est surnommée « l'île aux fleurs », Madinina en créole ?",
+      "answer": "Martinique",
+      "accept": [],
+      "choices": [
+        "Guadeloupe",
+        "Sainte-Lucie",
+        "Dominique"
+      ],
+      "explanation": "C'est sur cette île que naquit Joséphine de Beauharnais, première épouse de Napoléon, au domaine de la Pagerie.",
+      "wikipedia": "Martinique"
+    },
+    {
+      "id": "geographie-251",
+      "difficulty": 1,
+      "question": "Quelle ville est la préfecture de la Martinique ?",
+      "answer": "Fort-de-France",
+      "accept": [],
+      "choices": [
+        "Saint-Pierre",
+        "Le Lamentin",
+        "Basse-Terre"
+      ],
+      "explanation": "Elle devint la principale ville de l'île après la destruction de Saint-Pierre ; Aimé Césaire en fut le maire pendant plus de cinquante ans.",
+      "wikipedia": "Fort-de-France"
+    },
+    {
+      "id": "geographie-252",
+      "difficulty": 2,
+      "question": "Quel cirque de La Réunion n'est accessible qu'à pied ou en hélicoptère ?",
+      "answer": "Mafate",
+      "accept": [
+        "cirque de Mafate"
+      ],
+      "choices": [
+        "Cilaos",
+        "Salazie",
+        "Bébour"
+      ],
+      "explanation": "Ses îlets, petits hameaux isolés, furent d'abord peuplés par des esclaves marrons ; le courrier y arrive à pied.",
+      "wikipedia": "Cirque de Mafate"
+    },
+    {
+      "id": "geographie-253",
+      "difficulty": 1,
+      "question": "Quelle ville est la préfecture de La Réunion ?",
+      "answer": "Saint-Denis",
+      "accept": [],
+      "choices": [
+        "Saint-Pierre",
+        "Saint-Paul",
+        "Le Port"
+      ],
+      "explanation": "Elle succéda à Saint-Paul comme chef-lieu de l'île au XVIIIe siècle, sous le gouverneur Mahé de La Bourdonnais.",
+      "wikipedia": "Saint-Denis (La Réunion)"
+    },
+    {
+      "id": "geographie-254",
+      "difficulty": 2,
+      "question": "Quel territoire français du Pacifique est familièrement surnommé « le Caillou » ?",
+      "answer": "Nouvelle-Calédonie",
+      "accept": [],
+      "choices": [
+        "Wallis-et-Futuna",
+        "Polynésie française",
+        "Clipperton"
+      ],
+      "explanation": "Son sous-sol renferme une part importante des réserves mondiales de nickel ; Nouméa en est le chef-lieu.",
+      "wikipedia": "Nouvelle-Calédonie"
+    },
+    {
+      "id": "geographie-255",
+      "difficulty": 1,
+      "question": "Sur quelle île de Polynésie française se trouve la ville de Papeete ?",
+      "answer": "Tahiti",
+      "accept": [],
+      "choices": [
+        "Moorea",
+        "Bora-Bora",
+        "Raiatea"
+      ],
+      "explanation": "Tahiti est formée de deux volcans reliés par l'isthme de Taravao ; Gauguin y séjourna avant de partir pour les Marquises.",
+      "wikipedia": "Papeete"
+    },
+    {
+      "id": "geographie-256",
+      "difficulty": 2,
+      "question": "Dans quel archipel polynésien Jacques Brel et Paul Gauguin sont-ils enterrés ?",
+      "answer": "Marquises",
+      "accept": [
+        "îles Marquises"
+      ],
+      "choices": [
+        "Tuamotu",
+        "îles de la Société",
+        "Australes"
+      ],
+      "explanation": "Tous deux reposent au cimetière d'Atuona, sur l'île d'Hiva Oa ; Brel y chanta « Les Marquises » dans son dernier album.",
+      "wikipedia": "Îles Marquises"
+    },
+    {
+      "id": "geographie-257",
+      "difficulty": 2,
+      "question": "Quel atoll polynésien fut, avec Fangataufa, le site des essais nucléaires français ?",
+      "answer": "Mururoa",
+      "accept": [
+        "Moruroa"
+      ],
+      "choices": [
+        "Rangiroa",
+        "Bikini",
+        "Tetiaroa"
+      ],
+      "explanation": "Les essais s'y succédèrent de 1966 à 1996 ; la dernière campagne, voulue par Jacques Chirac, suscita une vague de protestations internationales.",
+      "wikipedia": "Moruroa"
+    },
+    {
+      "id": "geographie-258",
+      "difficulty": 2,
+      "question": "Quel archipel français de l'Atlantique Nord se trouve au large de Terre-Neuve ?",
+      "answer": "Saint-Pierre-et-Miquelon",
+      "accept": [],
+      "choices": [
+        "Kerguelen",
+        "Crozet",
+        "îles Chausey"
+      ],
+      "explanation": "Dernier vestige de la Nouvelle-France, l'archipel servit de base aux contrebandiers d'alcool pendant la prohibition américaine.",
+      "wikipedia": "Saint-Pierre-et-Miquelon"
+    },
+    {
+      "id": "geographie-259",
+      "difficulty": 3,
+      "question": "Quel territoire français du Pacifique comprend trois royaumes coutumiers, dont Uvea ?",
+      "answer": "Wallis-et-Futuna",
+      "accept": [],
+      "choices": [
+        "Nouvelle-Calédonie",
+        "Polynésie française",
+        "Clipperton"
+      ],
+      "explanation": "Les rois coutumiers d'Uvea, d'Alo et de Sigave y siègent au conseil territorial aux côtés de l'administrateur supérieur.",
+      "wikipedia": "Wallis-et-Futuna"
+    },
+    {
+      "id": "geographie-260",
+      "difficulty": 3,
+      "question": "Quel atoll inhabité du Pacifique oriental, au large du Mexique, appartient à la France ?",
+      "answer": "Clipperton",
+      "accept": [
+        "île de Clipperton"
+      ],
+      "choices": [
+        "Tromelin",
+        "Europa",
+        "Mururoa"
+      ],
+      "explanation": "Il doit son nom à un pirate anglais ; une garnison mexicaine oubliée y vécut un drame entre 1914 et 1917, dont peu de survivants réchappèrent.",
+      "wikipedia": "Île Clipperton"
+    },
+    {
+      "id": "geographie-261",
+      "difficulty": 2,
+      "question": "Quelle île des Antilles françaises fut suédoise pendant près d'un siècle, d'où le nom de sa capitale Gustavia ?",
+      "answer": "Saint-Barthélemy",
+      "accept": [],
+      "choices": [
+        "Saint-Martin",
+        "Marie-Galante",
+        "La Désirade"
+      ],
+      "explanation": "Louis XVI la céda à la Suède en 1784 contre un droit d'entrepôt à Göteborg ; la France la racheta en 1878.",
+      "wikipedia": "Saint-Barthélemy (Antilles françaises)"
+    },
+    {
+      "id": "geographie-262",
+      "difficulty": 2,
+      "question": "Quelle terre antarctique revendiquée par la France porte le prénom de l'épouse de Dumont d'Urville ?",
+      "answer": "Terre Adélie",
+      "accept": [
+        "Terre-Adélie"
+      ],
+      "choices": [
+        "Terre de Graham",
+        "Terre de Kemp",
+        "Terre de la Reine-Maud"
+      ],
+      "explanation": "L'explorateur y débarqua en 1840 ; la base scientifique Dumont-d'Urville y étudie notamment les manchots empereurs.",
+      "wikipedia": "Terre Adélie"
+    },
+    {
+      "id": "geographie-263",
+      "difficulty": 3,
+      "question": "Quelle île de l'archipel guadeloupéen, ronde et plate, est surnommée « la grande galette » ?",
+      "answer": "Marie-Galante",
+      "accept": [],
+      "choices": [
+        "La Désirade",
+        "Terre-de-Haut",
+        "Petite-Terre"
+      ],
+      "explanation": "Elle porte le nom du navire de Christophe Colomb, qui la découvrit en 1493 ; on y produit un rhum agricole réputé.",
+      "wikipedia": "Marie-Galante"
+    },
+    {
+      "id": "geographie-264",
+      "difficulty": 2,
+      "question": "Sur quel rocher guyanais le capitaine Dreyfus fut-il déporté ?",
+      "answer": "île du Diable",
+      "accept": [],
+      "choices": [
+        "île Royale",
+        "île Saint-Joseph",
+        "île de Cayenne"
+      ],
+      "explanation": "Elle fait partie des îles du Salut, au large de Kourou ; le bagne y fut définitivement fermé après la Seconde Guerre mondiale.",
+      "wikipedia": "Île du Diable"
+    },
+    {
+      "id": "geographie-265",
+      "difficulty": 3,
+      "question": "Quel fleuve sépare la Guyane du Suriname ?",
+      "answer": "Maroni",
+      "accept": [],
+      "choices": [
+        "Oyapock",
+        "Approuague",
+        "Mana"
+      ],
+      "explanation": "Les pirogues y assurent l'essentiel des transports ; Saint-Laurent-du-Maroni, sur sa rive, accueillait les bagnards débarqués de France.",
+      "wikipedia": "Maroni (fleuve)"
+    },
+    {
+      "id": "geographie-266",
+      "difficulty": 1,
+      "question": "Quelle ville est la capitale fédérale de la Suisse, plutôt que Zurich ou Genève ?",
+      "answer": "Berne",
+      "accept": [],
+      "choices": [
+        "Bâle",
+        "Lucerne",
+        "Lausanne"
+      ],
+      "explanation": "La Constitution suisse ne mentionne pas de capitale : Berne est officiellement la « ville fédérale », siège du gouvernement et du Parlement.",
+      "wikipedia": "Berne"
+    },
+    {
+      "id": "geographie-267",
+      "difficulty": 2,
+      "question": "Quelle ville est la capitale de la Slovénie ?",
+      "answer": "Ljubljana",
+      "accept": [],
+      "choices": [
+        "Zagreb",
+        "Maribor",
+        "Bratislava"
+      ],
+      "explanation": "Son emblème est un dragon, que la légende relie au héros grec Jason ; l'architecte Jože Plečnik a façonné son centre.",
+      "wikipedia": "Ljubljana"
+    },
+    {
+      "id": "geographie-268",
+      "difficulty": 2,
+      "question": "Quelle capitale européenne, sur le Danube, est la seule à toucher deux autres pays frontaliers ?",
+      "answer": "Bratislava",
+      "accept": [],
+      "choices": [
+        "Vienne",
+        "Budapest",
+        "Ljubljana"
+      ],
+      "explanation": "La capitale slovaque borde à la fois l'Autriche et la Hongrie ; elle fut longtemps la ville du couronnement des rois de Hongrie, sous le nom de Presbourg.",
+      "wikipedia": "Bratislava"
+    },
+    {
+      "id": "geographie-269",
+      "difficulty": 3,
+      "question": "Quelle ville est la capitale de la Macédoine du Nord ?",
+      "answer": "Skopje",
+      "accept": [],
+      "choices": [
+        "Ohrid",
+        "Bitola",
+        "Tirana"
+      ],
+      "explanation": "Mère Teresa y est née ; la ville fut en grande partie reconstruite après un tremblement de terre dévastateur en 1963.",
+      "wikipedia": "Skopje"
+    },
+    {
+      "id": "geographie-270",
+      "difficulty": 2,
+      "question": "Quelle ville, fondée par les chevaliers de Saint-Jean, est la capitale de Malte ?",
+      "answer": "La Valette",
+      "accept": [
+        "Valletta"
+      ],
+      "choices": [
+        "Mdina",
+        "Sliema",
+        "Rabat"
+      ],
+      "explanation": "Elle porte le nom du grand maître Jean de La Valette, vainqueur du grand siège ottoman de 1565.",
+      "wikipedia": "La Valette"
+    },
+    {
+      "id": "geographie-271",
+      "difficulty": 1,
+      "question": "Quelle ville est la capitale de l'Islande ?",
+      "answer": "Reykjavik",
+      "accept": [
+        "Reykjavík"
+      ],
+      "choices": [
+        "Akureyri",
+        "Tórshavn",
+        "Nuuk"
+      ],
+      "explanation": "Son nom signifie « baie des fumées », à cause des vapeurs des sources chaudes ; c'est la capitale d'État la plus septentrionale du monde.",
+      "wikipedia": "Reykjavik"
+    },
+    {
+      "id": "geographie-272",
+      "difficulty": 2,
+      "question": "Quelle ville est la capitale du pays de Galles ?",
+      "answer": "Cardiff",
+      "accept": [],
+      "choices": [
+        "Swansea",
+        "Newport",
+        "Bangor"
+      ],
+      "explanation": "Ancien grand port d'exportation du charbon gallois, elle accueille le Parlement gallois, le Senedd, dans la baie de Cardiff.",
+      "wikipedia": "Cardiff"
+    },
+    {
+      "id": "geographie-273",
+      "difficulty": 1,
+      "question": "Quel fleuve traverse Londres, passant sous le Tower Bridge ?",
+      "answer": "Tamise",
+      "accept": [],
+      "choices": [
+        "Severn",
+        "Trent",
+        "Avon"
+      ],
+      "explanation": "Ses marées se font sentir jusqu'à Teddington ; une barrière mobile la protège des inondations depuis les années 1980.",
+      "wikipedia": "Tamise"
+    },
+    {
+      "id": "geographie-274",
+      "difficulty": 2,
+      "question": "Quel fleuve ibérique se jette dans l'Atlantique à Lisbonne ?",
+      "answer": "Tage",
+      "accept": [],
+      "choices": [
+        "Douro",
+        "Guadiana",
+        "Minho"
+      ],
+      "explanation": "C'est le plus long fleuve de la péninsule Ibérique ; il traverse Tolède, enserrée dans l'un de ses méandres.",
+      "wikipedia": "Tage"
+    },
+    {
+      "id": "geographie-275",
+      "difficulty": 1,
+      "question": "Quel fleuve, né dans les Apennins, traverse la ville de Rome ?",
+      "answer": "Tibre",
+      "accept": [],
+      "choices": [
+        "Arno",
+        "Pô",
+        "Adige"
+      ],
+      "explanation": "Selon la légende, Romulus et Rémus furent abandonnés dans un panier sur ses eaux ; l'île Tibérine, au centre de Rome, abritait un temple d'Esculape.",
+      "wikipedia": "Tibre"
+    },
+    {
+      "id": "geographie-276",
+      "difficulty": 1,
+      "question": "Quel est le plus long fleuve d'Italie, qui traverse Turin et la plaine padane ?",
+      "answer": "Pô",
+      "accept": [],
+      "choices": [
+        "Tibre",
+        "Adige",
+        "Arno"
+      ],
+      "explanation": "Il se jette dans l'Adriatique par un vaste delta ; la plaine qu'il arrose est la principale région agricole et industrielle du pays.",
+      "wikipedia": "Pô"
+    },
+    {
+      "id": "geographie-277",
+      "difficulty": 2,
+      "question": "Quelle rivière traverse Prague, enjambée par le pont Charles ?",
+      "answer": "Vltava",
+      "accept": [
+        "Moldau"
+      ],
+      "choices": [
+        "Elbe",
+        "Oder",
+        "Morava"
+      ],
+      "explanation": "Les Allemands la nomment Moldau, titre du célèbre poème symphonique de Smetana dans son cycle « Ma patrie ».",
+      "wikipedia": "Moldau"
+    },
+    {
+      "id": "geographie-278",
+      "difficulty": 2,
+      "question": "Quel fleuve espagnol a donné son nom à la péninsule Ibérique ?",
+      "answer": "Èbre",
+      "accept": [
+        "Ebre"
+      ],
+      "choices": [
+        "Tage",
+        "Douro",
+        "Guadalquivir"
+      ],
+      "explanation": "Les Grecs l'appelaient Iber ; il traverse Saragosse et se jette en Méditerranée par un delta en Catalogne.",
+      "wikipedia": "Èbre"
+    },
+    {
+      "id": "geographie-279",
+      "difficulty": 2,
+      "question": "Quel rocher du Rhin, en Allemagne, est associé à une sirène qui attirait les bateliers par son chant ?",
+      "answer": "Lorelei",
+      "accept": [
+        "Loreley"
+      ],
+      "choices": [
+        "Drachenfels",
+        "Rolandsbogen",
+        "Mäuseturm"
+      ],
+      "explanation": "Heinrich Heine a immortalisé la légende dans un poème mis en musique ; ce passage du fleuve est réputé dangereux pour la navigation.",
+      "wikipedia": "Lorelei"
+    },
+    {
+      "id": "geographie-280",
+      "difficulty": 1,
+      "question": "Où le Danube achève-t-il sa course, par un vaste delta en grande partie roumain ?",
+      "answer": "mer Noire",
+      "accept": [],
+      "choices": [
+        "mer Égée",
+        "mer Adriatique",
+        "mer Caspienne"
+      ],
+      "explanation": "Le delta du Danube, en grande partie en Roumanie, est l'une des plus grandes zones humides d'Europe, inscrite à l'UNESCO.",
+      "wikipedia": "Delta du Danube"
+    },
+    {
+      "id": "geographie-281",
+      "difficulty": 1,
+      "question": "Quelle mer sépare la péninsule italienne des Balkans ?",
+      "answer": "Adriatique",
+      "accept": [
+        "mer Adriatique"
+      ],
+      "choices": [
+        "mer Tyrrhénienne",
+        "mer Ionienne",
+        "mer Égée"
+      ],
+      "explanation": "Elle doit son nom à l'ancienne ville étrusque d'Adria, autrefois un port, aujourd'hui éloignée de la côte par les alluvions du Pô.",
+      "wikipedia": "Mer Adriatique"
+    },
+    {
+      "id": "geographie-282",
+      "difficulty": 3,
+      "question": "Quelle étendue marine est bordée par la Corse, la Sardaigne, la Sicile et la côte ouest de l'Italie ?",
+      "answer": "mer Tyrrhénienne",
+      "accept": [
+        "Tyrrhénienne"
+      ],
+      "choices": [
+        "mer Ionienne",
+        "mer Ligure",
+        "mer Adriatique"
+      ],
+      "explanation": "Son nom vient des Tyrrhéniens, nom grec des Étrusques ; les îles Éoliennes et le Stromboli s'y dressent.",
+      "wikipedia": "Mer Tyrrhénienne"
+    },
+    {
+      "id": "geographie-283",
+      "difficulty": 1,
+      "question": "Quelle mer intérieure borde la Suède, la Finlande et les pays baltes ?",
+      "answer": "Baltique",
+      "accept": [
+        "mer Baltique"
+      ],
+      "choices": [
+        "mer du Nord",
+        "mer Blanche",
+        "mer de Norvège"
+      ],
+      "explanation": "Peu salée, elle gèle en partie l'hiver dans son golfe de Botnie ; on y trouve de l'ambre en abondance.",
+      "wikipedia": "Mer Baltique"
+    },
+    {
+      "id": "geographie-284",
+      "difficulty": 1,
+      "question": "Quel détroit sépare la Sicile de la Calabre ?",
+      "answer": "Messine",
+      "accept": [
+        "détroit de Messine"
+      ],
+      "choices": [
+        "Bonifacio",
+        "Otrante",
+        "Sicile"
+      ],
+      "explanation": "Les Anciens y situaient les monstres Charybde et Scylla, d'où l'expression « tomber de Charybde en Scylla ».",
+      "wikipedia": "Détroit de Messine"
+    },
+    {
+      "id": "geographie-285",
+      "difficulty": 2,
+      "question": "Quel détroit turc, autrefois nommé Hellespont, relie la mer Égée à la mer de Marmara ?",
+      "answer": "Dardanelles",
+      "accept": [
+        "détroit des Dardanelles"
+      ],
+      "choices": [
+        "Bosphore",
+        "Ormuz",
+        "Otrante"
+      ],
+      "explanation": "Selon la légende, Léandre le traversait à la nage chaque nuit pour rejoindre Héro ; Byron le franchit à son tour en 1810.",
+      "wikipedia": "Dardanelles"
+    },
+    {
+      "id": "geographie-286",
+      "difficulty": 1,
+      "question": "Quel détroit sépare la France de l'Angleterre dans sa partie la plus étroite ?",
+      "answer": "pas de Calais",
+      "accept": [],
+      "choices": [
+        "Manche",
+        "Solent",
+        "détroit de Douvres"
+      ],
+      "explanation": "Par temps clair, on aperçoit les falaises anglaises depuis le cap Gris-Nez ; c'est l'une des voies maritimes les plus fréquentées du monde.",
+      "wikipedia": "Pas de Calais"
+    },
+    {
+      "id": "geographie-287",
+      "difficulty": 3,
+      "question": "Près de quelle ville anglaise débouche le tunnel sous la Manche, face à Coquelles ?",
+      "answer": "Folkestone",
+      "accept": [],
+      "choices": [
+        "Douvres",
+        "Brighton",
+        "Canterbury"
+      ],
+      "explanation": "Inauguré en 1994, le tunnel comporte deux tubes ferroviaires et une galerie de service ; sa partie sous-marine est la plus longue du monde.",
+      "wikipedia": "Tunnel sous la Manche"
+    },
+    {
+      "id": "geographie-288",
+      "difficulty": 2,
+      "question": "Quel détroit, franchi depuis 2000 par un pont-tunnel, relie Copenhague à Malmö ?",
+      "answer": "Øresund",
+      "accept": [
+        "Oresund",
+        "Öresund",
+        "Sund"
+      ],
+      "choices": [
+        "Skagerrak",
+        "Kattegat",
+        "Grand Belt"
+      ],
+      "explanation": "Le pont a donné son nom à une série télévisée policière suédo-danoise, « Bron » ; l'ouvrage s'achève par un tunnel sur une île artificielle.",
+      "wikipedia": "Øresund"
+    },
+    {
+      "id": "geographie-289",
+      "difficulty": 1,
+      "question": "Quel sommet pyramidal des Alpes, entre la Suisse et l'Italie, figure sur l'emballage du Toblerone ?",
+      "answer": "Cervin",
+      "accept": [
+        "Matterhorn"
+      ],
+      "choices": [
+        "Mont Rose",
+        "Eiger",
+        "Jungfrau"
+      ],
+      "explanation": "Sa première ascension, en 1865 par Edward Whymper, tourna au drame : quatre des sept alpinistes périrent à la descente.",
+      "wikipedia": "Cervin"
+    },
+    {
+      "id": "geographie-290",
+      "difficulty": 1,
+      "question": "Quel volcan de Sicile est le plus haut volcan actif d'Europe ?",
+      "answer": "Etna",
+      "accept": [],
+      "choices": [
+        "Vésuve",
+        "Stromboli",
+        "Vulcano"
+      ],
+      "explanation": "Les Siciliens l'appellent affectueusement « Mongibello » ; sa hauteur varie au gré des éruptions qui remodèlent son sommet.",
+      "wikipedia": "Etna"
+    },
+    {
+      "id": "geographie-291",
+      "difficulty": 2,
+      "question": "Quel sommet du Caucase, en Russie, est souvent présenté comme le point culminant de l'Europe ?",
+      "answer": "Elbrouz",
+      "accept": [
+        "Elbrous"
+      ],
+      "choices": [
+        "Kazbek",
+        "mont Blanc",
+        "Ararat"
+      ],
+      "explanation": "Ce volcan endormi possède deux sommets ; il fait partie des « Sept Sommets » que les alpinistes collectionnent.",
+      "wikipedia": "Elbrouz"
+    },
+    {
+      "id": "geographie-292",
+      "difficulty": 1,
+      "question": "Quel est le plus haut sommet de Grèce, demeure des dieux selon la mythologie ?",
+      "answer": "mont Olympe",
+      "accept": [
+        "Olympe"
+      ],
+      "choices": [
+        "Parnasse",
+        "Pélion",
+        "Ida"
+      ],
+      "explanation": "Son point culminant, le Mytikas, ne fut atteint qu'en 1913 ; le massif est le premier parc national grec.",
+      "wikipedia": "Mont Olympe"
+    },
+    {
+      "id": "geographie-293",
+      "difficulty": 1,
+      "question": "Quelle chaîne de montagnes en arc entoure la Transylvanie ?",
+      "answer": "Carpates",
+      "accept": [],
+      "choices": [
+        "Balkans",
+        "Alpes dinariques",
+        "Tatras"
+      ],
+      "explanation": "Elles s'étendent de la Tchéquie à la Serbie ; le château de Bran, en Roumanie, y est associé à la légende de Dracula.",
+      "wikipedia": "Carpates"
+    },
+    {
+      "id": "geographie-294",
+      "difficulty": 2,
+      "question": "Quel massif des Alpes italiennes doit son nom à un géologue français ?",
+      "answer": "Dolomites",
+      "accept": [],
+      "choices": [
+        "Apennins",
+        "Alpes bergamasques",
+        "Alpes carniques"
+      ],
+      "explanation": "Déodat de Dolomieu y étudia une roche carbonatée, la dolomie ; ses tours rocheuses rosissent au coucher du soleil.",
+      "wikipedia": "Dolomites"
+    },
+    {
+      "id": "geographie-295",
+      "difficulty": 1,
+      "question": "Quelle chaîne de montagnes forme l'épine dorsale de la péninsule italienne ?",
+      "answer": "Apennins",
+      "accept": [],
+      "choices": [
+        "Alpes",
+        "Dolomites",
+        "Abruzzes"
+      ],
+      "explanation": "Longue de plus de mille kilomètres, elle culmine au Corno Grande, dans le massif du Gran Sasso, dans les Abruzzes.",
+      "wikipedia": "Apennins"
+    },
+    {
+      "id": "geographie-296",
+      "difficulty": 3,
+      "question": "Quel sommet de la Sierra Nevada andalouse est le point culminant de l'Espagne continentale ?",
+      "answer": "Mulhacén",
+      "accept": [
+        "Mulhacen"
+      ],
+      "choices": [
+        "Veleta",
+        "Aneto",
+        "Teide"
+      ],
+      "explanation": "Il porterait le nom d'un émir nasride de Grenade qui, selon la légende, s'y serait fait enterrer.",
+      "wikipedia": "Mulhacén"
+    },
+    {
+      "id": "geographie-297",
+      "difficulty": 3,
+      "question": "Quel sommet, point culminant de la Slovénie, figure sur le drapeau de ce pays ?",
+      "answer": "Triglav",
+      "accept": [],
+      "choices": [
+        "Grintovec",
+        "Stol",
+        "Mangart"
+      ],
+      "explanation": "Son nom signifie « trois têtes » ; la tradition veut que tout bon Slovène le gravisse au moins une fois dans sa vie.",
+      "wikipedia": "Triglav"
+    },
+    {
+      "id": "geographie-298",
+      "difficulty": 2,
+      "question": "Quel col alpin, entre le Valais et la vallée d'Aoste, a donné son nom à une race de chiens sauveteurs ?",
+      "answer": "Grand-Saint-Bernard",
+      "accept": [
+        "col du Grand-Saint-Bernard"
+      ],
+      "choices": [
+        "Simplon",
+        "Saint-Gothard",
+        "Petit-Saint-Bernard"
+      ],
+      "explanation": "Les chanoines de l'hospice y élevaient ces chiens ; Bonaparte franchit le col avec son armée en 1800.",
+      "wikipedia": "Col du Grand-Saint-Bernard"
+    },
+    {
+      "id": "geographie-299",
+      "difficulty": 1,
+      "question": "Quelle est la plus grande île de la Méditerranée ?",
+      "answer": "Sicile",
+      "accept": [],
+      "choices": [
+        "Sardaigne",
+        "Chypre",
+        "Corse"
+      ],
+      "explanation": "Elle a vu passer Grecs, Carthaginois, Romains, Arabes et Normands ; son chef-lieu Palerme garde de splendides mosaïques arabo-normandes.",
+      "wikipedia": "Sicile"
+    },
+    {
+      "id": "geographie-300",
+      "difficulty": 1,
+      "question": "Sur quelle île grecque se trouve le palais minoen de Cnossos ?",
+      "answer": "Crète",
+      "accept": [],
+      "choices": [
+        "Rhodes",
+        "Chypre",
+        "Santorin"
+      ],
+      "explanation": "L'archéologue britannique Arthur Evans fouilla et restaura le site au début du XXe siècle ; il est situé près d'Héraklion.",
+      "wikipedia": "Cnossos"
+    },
+    {
+      "id": "geographie-301",
+      "difficulty": 2,
+      "question": "Quelle île italienne du golfe de Naples est célèbre pour sa Grotte bleue ?",
+      "answer": "Capri",
+      "accept": [],
+      "choices": [
+        "Ischia",
+        "Procida",
+        "Elbe"
+      ],
+      "explanation": "La lumière qui pénètre par une ouverture sous-marine colore l'eau d'un bleu intense ; l'empereur Tibère y passa ses dernières années.",
+      "wikipedia": "Capri"
+    },
+    {
+      "id": "geographie-302",
+      "difficulty": 1,
+      "question": "Quelle est la plus grande île de l'archipel espagnol des Baléares ?",
+      "answer": "Majorque",
+      "accept": [],
+      "choices": [
+        "Minorque",
+        "Ibiza",
+        "Formentera"
+      ],
+      "explanation": "Sa capitale Palma est dominée par la cathédrale de la Seu ; Chopin et George Sand y passèrent l'hiver 1838-1839.",
+      "wikipedia": "Majorque"
+    },
+    {
+      "id": "geographie-303",
+      "difficulty": 1,
+      "question": "Quel archipel espagnol de l'Atlantique se situe au large du Maroc ?",
+      "answer": "Canaries",
+      "accept": [
+        "îles Canaries"
+      ],
+      "choices": [
+        "Baléares",
+        "Açores",
+        "Madère"
+      ],
+      "explanation": "Son nom viendrait du latin canis, « chien », et non des oiseaux, qui doivent au contraire leur nom aux îles.",
+      "wikipedia": "Îles Canaries"
+    },
+    {
+      "id": "geographie-304",
+      "difficulty": 3,
+      "question": "Quelle est la plus grande île de Suède, dans la mer Baltique ?",
+      "answer": "Gotland",
+      "accept": [],
+      "choices": [
+        "Öland",
+        "Bornholm",
+        "Saaremaa"
+      ],
+      "explanation": "Son chef-lieu Visby, ancienne ville hanséatique, a conservé ses remparts médiévaux ; il est inscrit au patrimoine mondial.",
+      "wikipedia": "Gotland"
+    },
+    {
+      "id": "geographie-305",
+      "difficulty": 2,
+      "question": "Sur quel archipel norvégien a été aménagée une réserve mondiale de semences ?",
+      "answer": "Svalbard",
+      "accept": [
+        "Spitzberg"
+      ],
+      "choices": [
+        "Lofoten",
+        "Féroé",
+        "Jan Mayen"
+      ],
+      "explanation": "Creusée dans le permafrost près de Longyearbyen, la chambre forte conserve des échantillons de graines du monde entier.",
+      "wikipedia": "Svalbard"
+    },
+    {
+      "id": "geographie-306",
+      "difficulty": 1,
+      "question": "Sur quelle île toscane Napoléon fut-il exilé après sa première abdication ?",
+      "answer": "Elbe",
+      "accept": [
+        "île d'Elbe"
+      ],
+      "choices": [
+        "Sainte-Hélène",
+        "Corse",
+        "Capri"
+      ],
+      "explanation": "Souverain de l'île pendant dix mois, il s'en échappa en février 1815 pour les Cent-Jours.",
+      "wikipedia": "Île d'Elbe"
+    },
+    {
+      "id": "geographie-307",
+      "difficulty": 2,
+      "question": "Quelle île ionienne abrite l'Achilléion, palais construit pour l'impératrice Sissi ?",
+      "answer": "Corfou",
+      "accept": [],
+      "choices": [
+        "Céphalonie",
+        "Zante",
+        "Ithaque"
+      ],
+      "explanation": "Longtemps vénitienne puis britannique, elle a gardé de cette histoire une vieille ville élégante et le jeu de cricket.",
+      "wikipedia": "Corfou"
+    },
+    {
+      "id": "geographie-308",
+      "difficulty": 2,
+      "question": "Quel archipel grec de la mer Égée comprend Mykonos, Naxos et Santorin ?",
+      "answer": "Cyclades",
+      "accept": [],
+      "choices": [
+        "Dodécanèse",
+        "Sporades",
+        "îles Ioniennes"
+      ],
+      "explanation": "Leur nom vient du cercle (kyklos) qu'elles formaient autour de l'île sacrée de Délos, sanctuaire d'Apollon.",
+      "wikipedia": "Cyclades"
+    },
+    {
+      "id": "geographie-309",
+      "difficulty": 3,
+      "question": "Quel archipel autonome et démilitarisé appartient à la Finlande mais parle suédois ?",
+      "answer": "Åland",
+      "accept": [
+        "Aland",
+        "îles Åland"
+      ],
+      "choices": [
+        "Gotland",
+        "Bornholm",
+        "Saaremaa"
+      ],
+      "explanation": "La Société des Nations régla en 1921 la querelle entre la Suède et la Finlande en lui garantissant langue et autonomie.",
+      "wikipedia": "Åland"
+    },
+    {
+      "id": "geographie-310",
+      "difficulty": 1,
+      "question": "Quelle ville italienne est surnommée « la Sérénissime » ?",
+      "answer": "Venise",
+      "accept": [],
+      "choices": [
+        "Florence",
+        "Gênes",
+        "Naples"
+      ],
+      "explanation": "Le surnom vient du titre de l'ancienne république, la « Sérénissime République de Venise », gouvernée par un doge pendant plus de mille ans.",
+      "wikipedia": "Venise"
+    },
+    {
+      "id": "geographie-311",
+      "difficulty": 1,
+      "question": "Quelle capitale européenne est surnommée « la Ville éternelle » ?",
+      "answer": "Rome",
+      "accept": [],
+      "choices": [
+        "Athènes",
+        "Jérusalem",
+        "Constantinople"
+      ],
+      "explanation": "Le surnom remonte à l'Antiquité, chez des poètes comme Tibulle ; la ville est bâtie, selon la tradition, sur sept collines.",
+      "wikipedia": "Rome"
+    },
+    {
+      "id": "geographie-312",
+      "difficulty": 2,
+      "question": "Quelle capitale d'Europe centrale est surnommée « la ville aux cent clochers » ?",
+      "answer": "Prague",
+      "accept": [],
+      "choices": [
+        "Vienne",
+        "Cracovie",
+        "Budapest"
+      ],
+      "explanation": "Son horloge astronomique, installée en 1410 sur l'hôtel de ville de la Vieille Ville, est l'une des plus anciennes encore en fonctionnement.",
+      "wikipedia": "Prague"
+    },
+    {
+      "id": "geographie-313",
+      "difficulty": 1,
+      "question": "Quel ouvrage médiéval de Florence, bordé de boutiques de bijoutiers, enjambe le fleuve de la ville ?",
+      "answer": "Ponte Vecchio",
+      "accept": [],
+      "choices": [
+        "pont du Rialto",
+        "pont Saint-Ange",
+        "pont des Soupirs"
+      ],
+      "explanation": "Il fut le seul pont de Florence épargné par les Allemands en 1944 ; le corridor de Vasari passe au-dessus des boutiques.",
+      "wikipedia": "Ponte Vecchio"
+    },
+    {
+      "id": "geographie-314",
+      "difficulty": 1,
+      "question": "Dans quelle ville toscane se trouve la célèbre tour penchée ?",
+      "answer": "Pise",
+      "accept": [],
+      "choices": [
+        "Sienne",
+        "Lucques",
+        "Florence"
+      ],
+      "explanation": "Ce campanile s'inclina dès sa construction à cause d'un sol meuble ; des travaux achevés en 2001 ont réduit son inclinaison.",
+      "wikipedia": "Tour de Pise"
+    },
+    {
+      "id": "geographie-315",
+      "difficulty": 2,
+      "question": "Quelle ville toscane organise deux fois par été le Palio, course de chevaux sur la Piazza del Campo ?",
+      "answer": "Sienne",
+      "accept": [],
+      "choices": [
+        "Florence",
+        "Pise",
+        "Lucques"
+      ],
+      "explanation": "Dix des dix-sept quartiers, les contrade, s'y affrontent ; les chevaux montés à cru font trois tours de la place en quelques minutes.",
+      "wikipedia": "Sienne"
+    },
+    {
+      "id": "geographie-316",
+      "difficulty": 1,
+      "question": "Dans quelle ville du Pays basque espagnol se trouve le musée Guggenheim conçu par Frank Gehry ?",
+      "answer": "Bilbao",
+      "accept": [],
+      "choices": [
+        "Saint-Sébastien",
+        "Vitoria-Gasteiz",
+        "Santander"
+      ],
+      "explanation": "Inauguré en 1997, le musée couvert de titane a transformé l'image de cette ancienne ville industrielle, phénomène nommé « effet Bilbao ».",
+      "wikipedia": "Bilbao"
+    },
+    {
+      "id": "geographie-317",
+      "difficulty": 2,
+      "question": "Quelle ville andalouse possède la Mezquita, mosquée transformée en cathédrale ?",
+      "answer": "Cordoue",
+      "accept": [],
+      "choices": [
+        "Séville",
+        "Grenade",
+        "Tolède"
+      ],
+      "explanation": "Ancienne capitale du califat omeyyade, elle vit naître le philosophe Averroès ; sa forêt de colonnes porte des arcs bicolores.",
+      "wikipedia": "Cordoue"
+    },
+    {
+      "id": "geographie-318",
+      "difficulty": 1,
+      "question": "Dans quelle ville de Navarre se déroulent chaque juillet les lâchers de taureaux des fêtes de San Fermín ?",
+      "answer": "Pampelune",
+      "accept": [],
+      "choices": [
+        "Saragosse",
+        "Burgos",
+        "Logroño"
+      ],
+      "explanation": "Hemingway les fit connaître dans « Le soleil se lève aussi » ; les coureurs, vêtus de blanc et de rouge, devancent les taureaux.",
+      "wikipedia": "Pampelune"
+    },
+    {
+      "id": "geographie-319",
+      "difficulty": 2,
+      "question": "Quelle ville espagnole célèbre en mars les Fallas, où d'immenses figures sont brûlées ?",
+      "answer": "Valence",
+      "accept": [],
+      "choices": [
+        "Séville",
+        "Alicante",
+        "Murcie"
+      ],
+      "explanation": "La nuit de la Cremà, le 19 mars, jour de la Saint-Joseph, les statues de carton-pâte partent en flammes ; la fête est inscrite à l'UNESCO.",
+      "wikipedia": "Fallas"
+    },
+    {
+      "id": "geographie-320",
+      "difficulty": 2,
+      "question": "Quelle ville espagnole, appelée Donostia en basque, est célèbre pour sa baie de la Concha ?",
+      "answer": "Saint-Sébastien",
+      "accept": [
+        "San Sebastián",
+        "Donostia-San Sebastián"
+      ],
+      "choices": [
+        "Bilbao",
+        "Santander",
+        "Hondarribia"
+      ],
+      "explanation": "La ville accueille un grand festival international de cinéma et passe pour l'une des capitales mondiales de la gastronomie.",
+      "wikipedia": "Saint-Sébastien (Espagne)"
+    },
+    {
+      "id": "geographie-321",
+      "difficulty": 3,
+      "question": "Quelle ville basque espagnole accueille le gouvernement et le parlement de la communauté autonome ?",
+      "answer": "Vitoria-Gasteiz",
+      "accept": [
+        "Vitoria"
+      ],
+      "choices": [
+        "Bilbao",
+        "Saint-Sébastien",
+        "Pampelune"
+      ],
+      "explanation": "Wellington y battit les troupes de Joseph Bonaparte en 1813 ; Beethoven composa pour l'occasion « La Victoire de Wellington ».",
+      "wikipedia": "Vitoria-Gasteiz"
+    },
+    {
+      "id": "geographie-322",
+      "difficulty": 2,
+      "question": "Quelle ville espagnole est traversée par un aqueduc romain à deux étages de grande hauteur ?",
+      "answer": "Ségovie",
+      "accept": [],
+      "choices": [
+        "Tarragone",
+        "Mérida",
+        "Tolède"
+      ],
+      "explanation": "Ses arches de granite tiennent sans mortier ni ciment ; la ville possède aussi l'Alcázar, qui aurait inspiré Walt Disney.",
+      "wikipedia": "Ségovie"
+    },
+    {
+      "id": "geographie-323",
+      "difficulty": 1,
+      "question": "Dans quelle ville se trouve la statue du Manneken-Pis ?",
+      "answer": "Bruxelles",
+      "accept": [],
+      "choices": [
+        "Anvers",
+        "Gand",
+        "Liège"
+      ],
+      "explanation": "Cette petite statue de bronze possède une garde-robe de plus d'un millier de costumes, offerts du monde entier.",
+      "wikipedia": "Manneken-Pis"
+    },
+    {
+      "id": "geographie-324",
+      "difficulty": 2,
+      "question": "Quelle ville flamande est un grand centre mondial du commerce du diamant ?",
+      "answer": "Anvers",
+      "accept": [],
+      "choices": [
+        "Gand",
+        "Bruges",
+        "Malines"
+      ],
+      "explanation": "Elle fut la ville de Rubens, dont la maison-atelier se visite ; son port sur l'Escaut est parmi les plus grands d'Europe.",
+      "wikipedia": "Anvers"
+    },
+    {
+      "id": "geographie-325",
+      "difficulty": 1,
+      "question": "Quelle ville suisse est célèbre pour son jet d'eau jaillissant du lac Léman ?",
+      "answer": "Genève",
+      "accept": [],
+      "choices": [
+        "Lausanne",
+        "Montreux",
+        "Neuchâtel"
+      ],
+      "explanation": "Le jet servit d'abord de soupape à une usine hydraulique à la fin du XIXe siècle, avant de devenir un emblème touristique.",
+      "wikipedia": "Jet d'eau de Genève"
+    },
+    {
+      "id": "geographie-326",
+      "difficulty": 2,
+      "question": "Quelle ville suisse accueille le siège du Comité international olympique ?",
+      "answer": "Lausanne",
+      "accept": [],
+      "choices": [
+        "Genève",
+        "Zurich",
+        "Berne"
+      ],
+      "explanation": "Pierre de Coubertin y installa le CIO en 1915 ; la ville abrite aussi le Musée olympique, au bord du Léman.",
+      "wikipedia": "Lausanne"
+    },
+    {
+      "id": "geographie-327",
+      "difficulty": 1,
+      "question": "Quelle ville autrichienne, patrie de Mozart, accueille chaque été un grand festival de musique ?",
+      "answer": "Salzbourg",
+      "accept": [],
+      "choices": [
+        "Vienne",
+        "Innsbruck",
+        "Graz"
+      ],
+      "explanation": "Son nom signifie « château du sel », car la ville s'enrichit du commerce du sel ; « La Mélodie du bonheur » y fut tournée.",
+      "wikipedia": "Salzbourg"
+    },
+    {
+      "id": "geographie-328",
+      "difficulty": 1,
+      "question": "Quelle ville allemande accueille chaque automne l'Oktoberfest, la fête de la bière ?",
+      "answer": "Munich",
+      "accept": [],
+      "choices": [
+        "Berlin",
+        "Cologne",
+        "Francfort"
+      ],
+      "explanation": "La fête naquit en 1810 des noces du prince héritier Louis de Bavière ; la Theresienwiese, où elle se tient, porte le nom de la mariée.",
+      "wikipedia": "Oktoberfest"
+    },
+    {
+      "id": "geographie-329",
+      "difficulty": 1,
+      "question": "Quelle ville allemande est dominée par une immense cathédrale gothique au bord du Rhin ?",
+      "answer": "Cologne",
+      "accept": [],
+      "choices": [
+        "Mayence",
+        "Bonn",
+        "Düsseldorf"
+      ],
+      "explanation": "Commencée en 1248, elle ne fut achevée qu'en 1880 ; elle abrite la châsse des Rois mages.",
+      "wikipedia": "Cathédrale de Cologne"
+    },
+    {
+      "id": "geographie-330",
+      "difficulty": 2,
+      "question": "Dans quelle ville allemande Charlemagne établit-il sa résidence favorite et fut-il inhumé ?",
+      "answer": "Aix-la-Chapelle",
+      "accept": [
+        "Aachen"
+      ],
+      "choices": [
+        "Cologne",
+        "Trèves",
+        "Mayence"
+      ],
+      "explanation": "Sa chapelle palatine octogonale, cœur de la cathédrale, accueillit le couronnement de nombreux rois germaniques.",
+      "wikipedia": "Aix-la-Chapelle"
+    },
+    {
+      "id": "geographie-331",
+      "difficulty": 3,
+      "question": "Quelle ville allemande, sur l'Elbe, est surnommée « la Florence de l'Elbe » ?",
+      "answer": "Dresde",
+      "accept": [],
+      "choices": [
+        "Leipzig",
+        "Magdebourg",
+        "Hambourg"
+      ],
+      "explanation": "Détruite par un bombardement en février 1945, elle a reconstruit à l'identique son église Notre-Dame, la Frauenkirche, achevée en 2005.",
+      "wikipedia": "Dresde"
+    },
+    {
+      "id": "geographie-332",
+      "difficulty": 2,
+      "question": "Quelle ville portuaire polonaise portait le nom allemand de Dantzig ?",
+      "answer": "Gdańsk",
+      "accept": [
+        "Gdansk"
+      ],
+      "choices": [
+        "Szczecin",
+        "Gdynia",
+        "Wrocław"
+      ],
+      "explanation": "C'est dans ses chantiers navals que naquit en 1980 le syndicat Solidarność, mené par l'électricien Lech Wałęsa.",
+      "wikipedia": "Gdańsk"
+    },
+    {
+      "id": "geographie-333",
+      "difficulty": 2,
+      "question": "Quelle enclave russe sur la Baltique s'appelait autrefois Königsberg ?",
+      "answer": "Kaliningrad",
+      "accept": [],
+      "choices": [
+        "Klaipėda",
+        "Mourmansk",
+        "Saint-Pétersbourg"
+      ],
+      "explanation": "Le philosophe Emmanuel Kant y passa toute sa vie ; le problème des sept ponts de la ville a fondé la théorie des graphes.",
+      "wikipedia": "Kaliningrad"
+    },
+    {
+      "id": "geographie-334",
+      "difficulty": 1,
+      "question": "Quelle ville russe, fondée par Pierre le Grand, s'appela Leningrad pendant la période soviétique ?",
+      "answer": "Saint-Pétersbourg",
+      "accept": [],
+      "choices": [
+        "Moscou",
+        "Novgorod",
+        "Kronstadt"
+      ],
+      "explanation": "Elle fut la capitale de l'Empire russe de 1712 à 1918 ; le musée de l'Ermitage occupe son ancien palais d'Hiver.",
+      "wikipedia": "Saint-Pétersbourg"
+    },
+    {
+      "id": "geographie-335",
+      "difficulty": 2,
+      "question": "Dans quelle ville de Laponie finlandaise prétend résider le Père Noël ?",
+      "answer": "Rovaniemi",
+      "accept": [],
+      "choices": [
+        "Kiruna",
+        "Tromsø",
+        "Oulu"
+      ],
+      "explanation": "Le village du Père Noël y est traversé par le cercle polaire arctique ; la ville fut reconstruite d'après des plans d'Alvar Aalto.",
+      "wikipedia": "Rovaniemi"
+    },
+    {
+      "id": "geographie-336",
+      "difficulty": 2,
+      "question": "Dans quelle ville est remis chaque année le prix Nobel de la paix ?",
+      "answer": "Oslo",
+      "accept": [],
+      "choices": [
+        "Stockholm",
+        "Genève",
+        "Copenhague"
+      ],
+      "explanation": "Alfred Nobel confia ce prix au Parlement norvégien, alors que les autres prix sont remis à Stockholm ; la Norvège et la Suède étaient alors unies.",
+      "wikipedia": "Prix Nobel de la paix"
+    },
+    {
+      "id": "geographie-337",
+      "difficulty": 1,
+      "question": "Quelle capitale est née en 1873 de la réunion de Buda, d'Óbuda et de Pest ?",
+      "answer": "Budapest",
+      "accept": [],
+      "choices": [
+        "Vienne",
+        "Prague",
+        "Bratislava"
+      ],
+      "explanation": "Buda, sur la rive droite du Danube, porte le château royal ; Pest, plus plate, abrite l'immense Parlement néogothique.",
+      "wikipedia": "Budapest"
+    },
+    {
+      "id": "geographie-338",
+      "difficulty": 1,
+      "question": "Quel est le plus petit État du monde, enclavé dans Rome ?",
+      "answer": "Vatican",
+      "accept": [
+        "Cité du Vatican"
+      ],
+      "choices": [
+        "Monaco",
+        "Saint-Marin",
+        "Liechtenstein"
+      ],
+      "explanation": "Il est né en 1929 des accords du Latran entre le Saint-Siège et l'Italie de Mussolini ; sa garde est assurée par des Suisses.",
+      "wikipedia": "Vatican"
+    },
+    {
+      "id": "geographie-339",
+      "difficulty": 3,
+      "question": "Quel pays européen, entre la Suisse et l'Autriche, est doublement enclavé comme l'Ouzbékistan ?",
+      "answer": "Liechtenstein",
+      "accept": [],
+      "choices": [
+        "Andorre",
+        "Saint-Marin",
+        "Luxembourg"
+      ],
+      "explanation": "Il n'a pas d'armée depuis 1868 ; sa capitale Vaduz est dominée par le château du prince, qui y réside toujours.",
+      "wikipedia": "Liechtenstein"
+    },
+    {
+      "id": "geographie-340",
+      "difficulty": 1,
+      "question": "Quelle région du sud de la Belgique est majoritairement francophone ?",
+      "answer": "Wallonie",
+      "accept": [],
+      "choices": [
+        "Flandre",
+        "Campine",
+        "Brabant"
+      ],
+      "explanation": "Elle a Namur pour capitale ; son ancien sillon industriel, autour de Liège et Charleroi, vivait du charbon et de l'acier.",
+      "wikipedia": "Wallonie"
+    },
+    {
+      "id": "geographie-341",
+      "difficulty": 2,
+      "question": "Quel canton suisse, au sud des Alpes, est entièrement italophone ?",
+      "answer": "Tessin",
+      "accept": [],
+      "choices": [
+        "Valais",
+        "Grisons",
+        "Uri"
+      ],
+      "explanation": "Son chef-lieu est Bellinzone, dont les trois châteaux sont inscrits à l'UNESCO ; Lugano et Locarno sont ses principales villes.",
+      "wikipedia": "Canton du Tessin"
+    },
+    {
+      "id": "geographie-342",
+      "difficulty": 2,
+      "question": "Comment s'appellent les deux villes espagnoles situées sur la côte marocaine ?",
+      "answer": "Ceuta et Melilla",
+      "accept": [
+        "Melilla et Ceuta"
+      ],
+      "choices": [
+        "Tanger et Tétouan",
+        "Oran et Alger",
+        "Cadix et Tarifa"
+      ],
+      "explanation": "Ces deux villes autonomes sont les seules frontières terrestres entre l'Union européenne et l'Afrique.",
+      "wikipedia": "Ceuta"
+    },
+    {
+      "id": "geographie-343",
+      "difficulty": 2,
+      "question": "Quelle région autonome italienne a le français pour langue co-officielle ?",
+      "answer": "Vallée d'Aoste",
+      "accept": [],
+      "choices": [
+        "Piémont",
+        "Trentin-Haut-Adige",
+        "Ligurie"
+      ],
+      "explanation": "Bordée par le mont Blanc, le Cervin et le Mont Rose, c'est la plus petite région d'Italie ; le Grand Paradis y forme un parc national.",
+      "wikipedia": "Vallée d'Aoste"
+    },
+    {
+      "id": "geographie-344",
+      "difficulty": 3,
+      "question": "Dans quelle ville du Haut-Adige est exposée la momie Ötzi, retrouvée dans un glacier ?",
+      "answer": "Bolzano",
+      "accept": [],
+      "choices": [
+        "Innsbruck",
+        "Trente",
+        "Merano"
+      ],
+      "explanation": "Découvert en 1991 à la frontière austro-italienne, l'homme des glaces a vécu il y a plus de 5 000 ans ; il portait une hache de cuivre.",
+      "wikipedia": "Ötzi"
+    },
+    {
+      "id": "geographie-345",
+      "difficulty": 3,
+      "question": "Quelle ville de Basilicate est célèbre pour ses Sassi, habitations troglodytiques ?",
+      "answer": "Matera",
+      "accept": [],
+      "choices": [
+        "Lecce",
+        "Bari",
+        "Tarente"
+      ],
+      "explanation": "Ces quartiers, jugés insalubres dans les années 1950, ont été réhabilités ; Mel Gibson y a tourné « La Passion du Christ ».",
+      "wikipedia": "Matera"
+    },
+    {
+      "id": "geographie-346",
+      "difficulty": 1,
+      "question": "Quel château de Bavière, bâti pour le roi Louis II, aurait inspiré celui de la Belle au bois dormant de Disney ?",
+      "answer": "Neuschwanstein",
+      "accept": [
+        "château de Neuschwanstein"
+      ],
+      "choices": [
+        "Linderhof",
+        "Herrenchiemsee",
+        "Hohenschwangau"
+      ],
+      "explanation": "Le « roi fou » Louis II, passionné par Wagner, mourut mystérieusement en 1886 sans avoir vu le château achevé.",
+      "wikipedia": "Château de Neuschwanstein"
+    },
+    {
+      "id": "geographie-347",
+      "difficulty": 1,
+      "question": "Quel massif boisé du Bade-Wurtemberg a donné son nom à un célèbre gâteau au chocolat et aux cerises ?",
+      "answer": "Forêt-Noire",
+      "accept": [],
+      "choices": [
+        "Jura souabe",
+        "Odenwald",
+        "Spessart"
+      ],
+      "explanation": "Le Danube y prend sa source ; la région est aussi réputée pour ses horloges à coucou et son kirsch.",
+      "wikipedia": "Forêt-Noire"
+    },
+    {
+      "id": "geographie-348",
+      "difficulty": 2,
+      "question": "Quel site grec est célèbre pour ses monastères perchés au sommet de pitons rocheux ?",
+      "answer": "Météores",
+      "accept": [],
+      "choices": [
+        "mont Athos",
+        "Delphes",
+        "Mystra"
+      ],
+      "explanation": "Les moines y montaient autrefois par des échelles ou dans des filets hissés au treuil ; le nom signifie « suspendus dans les airs ».",
+      "wikipedia": "Météores"
+    },
+    {
+      "id": "geographie-349",
+      "difficulty": 1,
+      "question": "Quelle région du sud du Portugal est réputée pour ses plages et ses falaises dorées ?",
+      "answer": "Algarve",
+      "accept": [],
+      "choices": [
+        "Alentejo",
+        "Minho",
+        "Estrémadure"
+      ],
+      "explanation": "Son nom vient de l'arabe al-gharb, « l'occident » ; le cap Saint-Vincent en marque l'extrémité sud-ouest.",
+      "wikipedia": "Algarve"
+    },
+    {
+      "id": "geographie-350",
+      "difficulty": 3,
+      "question": "Quelle ville portugaise abrite l'une des plus anciennes universités d'Europe, avec sa bibliothèque baroque Joanina ?",
+      "answer": "Coimbra",
+      "accept": [],
+      "choices": [
+        "Braga",
+        "Évora",
+        "Porto"
+      ],
+      "explanation": "Ancienne capitale du royaume, elle a donné naissance à un fado particulier, chanté par les étudiants en cape noire.",
+      "wikipedia": "Coimbra"
+    },
+    {
+      "id": "geographie-351",
+      "difficulty": 3,
+      "question": "Quel promontoire portugais est le point le plus occidental de l'Europe continentale ?",
+      "answer": "cabo da Roca",
+      "accept": [
+        "cap Roca"
+      ],
+      "choices": [
+        "cap Saint-Vincent",
+        "cap Finisterre",
+        "cap Espichel"
+      ],
+      "explanation": "Le poète Luís de Camões l'a décrit comme le lieu « où la terre s'achève et où la mer commence ».",
+      "wikipedia": "Cabo da Roca"
+    },
+    {
+      "id": "geographie-352",
+      "difficulty": 2,
+      "question": "Quelle province néerlandaise a donné son nom à un pays d'Océanie ?",
+      "answer": "Zélande",
+      "accept": [],
+      "choices": [
+        "Frise",
+        "Hollande",
+        "Gueldre"
+      ],
+      "explanation": "Le navigateur Abel Tasman découvrit la Nouvelle-Zélande en 1642 ; la province est formée d'îles du delta du Rhin, de la Meuse et de l'Escaut.",
+      "wikipedia": "Zélande"
+    },
+    {
+      "id": "geographie-353",
+      "difficulty": 1,
+      "question": "Quel site d'Irlande du Nord est formé de dizaines de milliers de colonnes de basalte ?",
+      "answer": "Chaussée des Géants",
+      "accept": [],
+      "choices": [
+        "falaises de Moher",
+        "Skellig Michael",
+        "Burren"
+      ],
+      "explanation": "La légende en attribue la construction au géant Finn McCool, qui voulait rejoindre l'Écosse pour affronter un rival.",
+      "wikipedia": "Chaussée des Géants"
+    },
+    {
+      "id": "geographie-354",
+      "difficulty": 2,
+      "question": "Quelles falaises de la côte ouest de l'Irlande, dans le comté de Clare, plongent dans l'Atlantique ?",
+      "answer": "falaises de Moher",
+      "accept": [
+        "Moher"
+      ],
+      "choices": [
+        "falaises de Douvres",
+        "Slieve League",
+        "Chaussée des Géants"
+      ],
+      "explanation": "Elles abritent d'importantes colonies d'oiseaux marins, dont des macareux moines ; on y aperçoit les îles d'Aran.",
+      "wikipedia": "Falaises de Moher"
+    },
+    {
+      "id": "geographie-355",
+      "difficulty": 1,
+      "question": "Quel massif forestier s'étend sur la Belgique, le Luxembourg et le nord-est de la France ?",
+      "answer": "Ardennes",
+      "accept": [
+        "massif des Ardennes"
+      ],
+      "choices": [
+        "Vosges",
+        "Eifel",
+        "Hunsrück"
+      ],
+      "explanation": "Le massif fut le théâtre de la bataille des Ardennes, dernière grande offensive allemande, à l'hiver 1944-1945.",
+      "wikipedia": "Massif ardennais"
+    },
+    {
+      "id": "geographie-356",
+      "difficulty": 2,
+      "question": "Quel parc national croate est célèbre pour ses seize lacs reliés par des cascades ?",
+      "answer": "Plitvice",
+      "accept": [
+        "lacs de Plitvice"
+      ],
+      "choices": [
+        "Krka",
+        "Kornati",
+        "Paklenica"
+      ],
+      "explanation": "Les barrières de travertin qui séparent les lacs grandissent sans cesse grâce au dépôt de calcaire ; le parc fut inscrit à l'UNESCO dès 1979.",
+      "wikipedia": "Parc national des lacs de Plitvice"
+    },
+    {
+      "id": "geographie-357",
+      "difficulty": 3,
+      "question": "Quel fjord norvégien, inscrit à l'UNESCO, est célèbre pour la cascade des Sept Sœurs ?",
+      "answer": "Geirangerfjord",
+      "accept": [
+        "Geiranger"
+      ],
+      "choices": [
+        "Sognefjord",
+        "Hardangerfjord",
+        "Lysefjord"
+      ],
+      "explanation": "Il est inscrit avec le Nærøyfjord au patrimoine mondial ; des fermes abandonnées s'accrochent encore à ses parois vertigineuses.",
+      "wikipedia": "Geirangerfjord"
+    },
+    {
+      "id": "geographie-358",
+      "difficulty": 1,
+      "question": "Quelle ville anglaise, réputée pour ses falaises blanches, est le port le plus proche de Calais ?",
+      "answer": "Douvres",
+      "accept": [
+        "Dover"
+      ],
+      "choices": [
+        "Folkestone",
+        "Portsmouth",
+        "Brighton"
+      ],
+      "explanation": "Son château, perché au-dessus des falaises de craie, est surnommé « la clé de l'Angleterre » ; un tunnel secret y abritait un QG en 1940.",
+      "wikipedia": "Douvres"
+    },
+    {
+      "id": "geographie-359",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Madrid, la capitale espagnole ?",
+      "answer": "Madrilènes",
+      "accept": [],
+      "choices": [
+        "Madridiens",
+        "Madrisiens",
+        "Castillans"
+      ],
+      "explanation": "Madrid ne devint capitale qu'en 1561, sous Philippe II ; son musée du Prado conserve les chefs-d'œuvre de Velázquez et Goya.",
+      "wikipedia": "Madrid"
+    },
+    {
+      "id": "geographie-360",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Naples, en Campanie ?",
+      "answer": "Napolitains",
+      "accept": [],
+      "choices": [
+        "Naplais",
+        "Napoliens",
+        "Parthénopéens"
+      ],
+      "explanation": "La ville fut fondée par des colons grecs sous le nom de Neapolis, « la ville nouvelle » ; son centre historique est inscrit à l'UNESCO.",
+      "wikipedia": "Naples"
+    }
+  ]
+}
