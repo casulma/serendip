@@ -1,0 +1,3138 @@
+{
+  "category": "arts-litterature",
+  "questions": [
+    {
+      "id": "arts-litterature-101",
+      "difficulty": 1,
+      "question": "Dans une fable de La Fontaine, quel animal très lent remporte-t-il une course contre un adversaire bien plus rapide ?",
+      "answer": "tortue",
+      "accept": [
+        "la tortue"
+      ],
+      "choices": [
+        "escargot",
+        "limace",
+        "hérisson"
+      ],
+      "explanation": "La fable s'ouvre sur sa morale, « Rien ne sert de courir ; il faut partir à point », et reprend un apologue antique attribué à Ésope.",
+      "wikipedia": "Le Lièvre et la Tortue"
+    },
+    {
+      "id": "arts-litterature-102",
+      "difficulty": 2,
+      "question": "Dans une fable de La Fontaine, quelle plante fragile plie sans rompre sous la tempête qui déracine un arbre orgueilleux ?",
+      "answer": "roseau",
+      "accept": [
+        "le roseau"
+      ],
+      "choices": [
+        "jonc",
+        "bambou",
+        "saule"
+      ],
+      "explanation": "C'est la vingt-deuxième et dernière fable du premier livre ; le roseau y lance la célèbre formule « Je plie, et ne romps pas ».",
+      "wikipedia": "Le Chêne et le Roseau"
+    },
+    {
+      "id": "arts-litterature-103",
+      "difficulty": 1,
+      "question": "Quel fabuliste grec de l'Antiquité, qui aurait été esclave, a inspiré une grande partie des fables de La Fontaine ?",
+      "answer": "Ésope",
+      "accept": [
+        "Esope"
+      ],
+      "choices": [
+        "Phèdre",
+        "Babrius",
+        "Hésiode"
+      ],
+      "explanation": "Sa vie est entourée de légendes : la tradition le dit originaire de Phrygie ou de Thrace, laid et bègue, mais d'une ruse redoutable.",
+      "wikipedia": "Ésope"
+    },
+    {
+      "id": "arts-litterature-104",
+      "difficulty": 3,
+      "question": "Quel fabuliste du XVIIIe siècle, petit-neveu de Voltaire par alliance, a écrit la morale « Pour vivre heureux, vivons cachés » ?",
+      "answer": "Florian",
+      "accept": [
+        "Jean-Pierre Claris de Florian",
+        "Jean-Pierre de Florian"
+      ],
+      "choices": [
+        "Houdar de La Motte",
+        "Antoine Furetière",
+        "Isaac de Benserade"
+      ],
+      "explanation": "Jean-Pierre Claris de Florian conclut ainsi sa fable Le Grillon ; on lui doit aussi la romance « Plaisir d'amour ne dure qu'un moment ».",
+      "wikipedia": "Jean-Pierre Claris de Florian"
+    },
+    {
+      "id": "arts-litterature-105",
+      "difficulty": 1,
+      "question": "Quel personnage de Charles Perrault sème des cailloux blancs pour retrouver le chemin de la maison familiale ?",
+      "answer": "Petit Poucet",
+      "accept": [
+        "Le Petit Poucet"
+      ],
+      "choices": [
+        "Riquet à la houppe",
+        "Petit Chaperon rouge",
+        "Chat botté"
+      ],
+      "explanation": "Le plus jeune de sept frères finit par dérober à l'ogre ses bottes de sept lieues, qui s'ajustent par magie à la taille de celui qui les chausse.",
+      "wikipedia": "Le Petit Poucet"
+    },
+    {
+      "id": "arts-litterature-106",
+      "difficulty": 1,
+      "question": "Quel personnage de Perrault interdit à sa jeune épouse d'ouvrir un petit cabinet, sous peine de mort ?",
+      "answer": "Barbe bleue",
+      "accept": [
+        "La Barbe bleue",
+        "Barbe-Bleue"
+      ],
+      "choices": [
+        "Riquet à la houppe",
+        "Le Chat botté",
+        "L'Ogre"
+      ],
+      "explanation": "La clé tachée de sang qui trahit la curiosité de l'épouse est « fée » : impossible de la nettoyer. Les frères de la jeune femme arrivent à temps pour la sauver.",
+      "wikipedia": "La Barbe bleue"
+    },
+    {
+      "id": "arts-litterature-107",
+      "difficulty": 1,
+      "question": "Dans quel conte de Perrault une princesse, piquée par un fuseau, s'endort-elle pour cent ans ?",
+      "answer": "Belle au bois dormant",
+      "accept": [
+        "La Belle au bois dormant"
+      ],
+      "choices": [
+        "Peau d'Âne",
+        "Les Fées",
+        "Cendrillon"
+      ],
+      "explanation": "Chez Perrault, le conte ne s'arrête pas au réveil : la belle-mère du prince, une ogresse, veut ensuite dévorer la princesse et ses enfants.",
+      "wikipedia": "La Belle au bois dormant"
+    },
+    {
+      "id": "arts-litterature-108",
+      "difficulty": 1,
+      "question": "Quel conte de Perrault s'achève sur la dévoration de la fillette par le loup, sans chasseur pour la sauver ?",
+      "answer": "Le Petit Chaperon rouge",
+      "accept": [
+        "Petit Chaperon rouge"
+      ],
+      "choices": [
+        "Le Petit Poucet",
+        "Les Fées",
+        "Peau d'Âne"
+      ],
+      "explanation": "La fin heureuse, où un chasseur ouvre le ventre du loup, est due à la version des frères Grimm ; Perrault préférait une morale mettant en garde les jeunes filles.",
+      "wikipedia": "Le Petit Chaperon rouge"
+    },
+    {
+      "id": "arts-litterature-109",
+      "difficulty": 1,
+      "question": "Quel oiseau moqué de tous découvre en grandissant qu'il est en réalité un cygne, dans un conte d'Andersen ?",
+      "answer": "Le Vilain Petit Canard",
+      "accept": [
+        "Vilain Petit Canard"
+      ],
+      "choices": [
+        "Le Rossignol",
+        "La Petite Sirène",
+        "Poucette"
+      ],
+      "explanation": "Andersen y aurait glissé une part d'autobiographie : fils d'un cordonnier pauvre d'Odense, il fut longtemps raillé avant d'être célébré dans toute l'Europe.",
+      "wikipedia": "Le Vilain Petit Canard"
+    },
+    {
+      "id": "arts-litterature-110",
+      "difficulty": 2,
+      "question": "Quel conteur danois a écrit La Reine des neiges et La Petite Fille aux allumettes ?",
+      "answer": "Hans Christian Andersen",
+      "accept": [
+        "Andersen"
+      ],
+      "choices": [
+        "Charles Perrault",
+        "Wilhelm Hauff",
+        "Selma Lagerlöf"
+      ],
+      "explanation": "Le jour de sa naissance, le 2 avril, a été choisi pour la Journée internationale du livre pour enfants, et le grand prix de littérature jeunesse porte son nom.",
+      "wikipedia": "Hans Christian Andersen"
+    },
+    {
+      "id": "arts-litterature-111",
+      "difficulty": 2,
+      "question": "Quels frères philologues allemands ont publié à partir de 1812 les Contes de l'enfance et du foyer ?",
+      "answer": "Grimm",
+      "accept": [
+        "frères Grimm",
+        "Jacob et Wilhelm Grimm"
+      ],
+      "choices": [
+        "Schlegel",
+        "Humboldt",
+        "Mann"
+      ],
+      "explanation": "Jacob et Wilhelm Grimm étaient aussi linguistes : on doit à Jacob la loi de Grimm sur l'évolution des consonnes germaniques, et aux deux frères un grand dictionnaire allemand.",
+      "wikipedia": "Frères Grimm"
+    },
+    {
+      "id": "arts-litterature-112",
+      "difficulty": 1,
+      "question": "Quelle jeune fille enfermée dans une tour sans porte laisse pendre sa longue chevelure, dans un conte des frères Grimm ?",
+      "answer": "Raiponce",
+      "accept": [],
+      "choices": [
+        "Blanche-Neige",
+        "Cendrillon",
+        "Peau d'Âne"
+      ],
+      "explanation": "Son nom vient d'une plante, la raiponce, que sa mère enceinte avait tant désirée que son père en vola dans le jardin d'une sorcière.",
+      "wikipedia": "Raiponce (conte)"
+    },
+    {
+      "id": "arts-litterature-113",
+      "difficulty": 1,
+      "question": "Quelle conteuse des Mille et Une Nuits échappe chaque nuit à la mort en laissant son récit inachevé jusqu'au lendemain ?",
+      "answer": "Schéhérazade",
+      "accept": [
+        "Shéhérazade",
+        "Scheherazade"
+      ],
+      "choices": [
+        "Dinarzade",
+        "Morgiane",
+        "Boudour"
+      ],
+      "explanation": "Le roi Shahriar, trahi par sa première épouse, faisait exécuter chaque nouvelle femme au matin ; les récits de Schéhérazade finissent par le guérir de sa cruauté.",
+      "wikipedia": "Les Mille et Une Nuits"
+    },
+    {
+      "id": "arts-litterature-114",
+      "difficulty": 1,
+      "question": "Quel pauvre bûcheron des Mille et Une Nuits découvre la caverne au trésor des quarante voleurs ?",
+      "answer": "Ali Baba",
+      "accept": [
+        "Ali-Baba"
+      ],
+      "choices": [
+        "Aladin",
+        "Sindbad",
+        "Kassim"
+      ],
+      "explanation": "C'est la servante Morgiane qui sauve son maître en ébouillantant les voleurs cachés dans des jarres, puis en démasquant leur chef.",
+      "wikipedia": "Ali Baba et les Quarante Voleurs"
+    },
+    {
+      "id": "arts-litterature-115",
+      "difficulty": 2,
+      "question": "Comment s'appelle le loup, éternel souffre-douleur du goupil, dans le Roman de Renart ?",
+      "answer": "Isengrin",
+      "accept": [
+        "Ysengrin"
+      ],
+      "choices": [
+        "Brun",
+        "Noble",
+        "Tibert"
+      ],
+      "explanation": "Dans ce recueil du Moyen Âge, Brun est l'ours, Noble le lion, Tibert le chat et Chantecler le coq : chaque animal porte un nom propre.",
+      "wikipedia": "Roman de Renart"
+    },
+    {
+      "id": "arts-litterature-116",
+      "difficulty": 2,
+      "question": "Comment s'appelle l'épée du neveu de Charlemagne dans La Chanson de Roland ?",
+      "answer": "Durandal",
+      "accept": [],
+      "choices": [
+        "Joyeuse",
+        "Excalibur",
+        "Hauteclaire"
+      ],
+      "explanation": "Avant de mourir, Roland tente en vain de la briser sur un rocher pour qu'elle ne tombe pas aux mains des Sarrasins ; Joyeuse est l'épée de Charlemagne.",
+      "wikipedia": "Chanson de Roland"
+    },
+    {
+      "id": "arts-litterature-117",
+      "difficulty": 1,
+      "question": "Dans quel col des Pyrénées l'arrière-garde de Charlemagne est-elle massacrée, dans la Chanson de geste du neveu de l'empereur ?",
+      "answer": "Roncevaux",
+      "accept": [],
+      "choices": [
+        "Somport",
+        "Puymorens",
+        "Tourmalet"
+      ],
+      "explanation": "Historiquement, l'embuscade de 778 fut menée par des Vascons ; la chanson de geste en a fait une bataille épique contre les Sarrasins.",
+      "wikipedia": "Chanson de Roland"
+    },
+    {
+      "id": "arts-litterature-118",
+      "difficulty": 1,
+      "question": "Quel chevalier de Cornouailles boit par erreur un philtre d'amour avec Iseut la Blonde, promise au roi Marc ?",
+      "answer": "Tristan",
+      "accept": [],
+      "choices": [
+        "Lancelot",
+        "Perceval",
+        "Gauvain"
+      ],
+      "explanation": "La légende a inspiré au Moyen Âge les versions de Béroul et de Thomas, puis l'opéra de Wagner ; Iseut aux Blanches Mains est une autre femme que Tristan épouse.",
+      "wikipedia": "Tristan et Iseut"
+    },
+    {
+      "id": "arts-litterature-119",
+      "difficulty": 2,
+      "question": "Quel romancier champenois du XIIe siècle a écrit Perceval ou le Conte du Graal, resté inachevé ?",
+      "answer": "Chrétien de Troyes",
+      "accept": [],
+      "choices": [
+        "Marie de France",
+        "Jean de Meun",
+        "Robert Wace"
+      ],
+      "explanation": "Il est aussi l'auteur de Lancelot ou le Chevalier de la charrette et d'Yvain ou le Chevalier au lion, piliers de la légende arthurienne.",
+      "wikipedia": "Chrétien de Troyes"
+    },
+    {
+      "id": "arts-litterature-120",
+      "difficulty": 2,
+      "question": "Quel poète du XVe siècle a écrit la Ballade des pendus, qui commence par « Frères humains qui après nous vivez » ?",
+      "answer": "François Villon",
+      "accept": [
+        "Villon"
+      ],
+      "choices": [
+        "Charles d'Orléans",
+        "Clément Marot",
+        "Rutebeuf"
+      ],
+      "explanation": "Condamné à la pendaison, il vit sa peine commuée en bannissement de Paris en 1463 ; on perd ensuite toute trace de lui.",
+      "wikipedia": "François Villon"
+    },
+    {
+      "id": "arts-litterature-121",
+      "difficulty": 2,
+      "question": "Par quelle partie du corps de sa mère Gargamelle le géant Gargantua vient-il au monde, chez Rabelais ?",
+      "answer": "oreille",
+      "accept": [
+        "l'oreille",
+        "oreille gauche"
+      ],
+      "choices": [
+        "nombril",
+        "bouche",
+        "narine"
+      ],
+      "explanation": "Il naît par l'oreille gauche en criant « À boire ! », ce qui vaut son nom au géant : son père s'exclame « Que grand tu as ! ».",
+      "wikipedia": "Gargantua"
+    },
+    {
+      "id": "arts-litterature-122",
+      "difficulty": 3,
+      "question": "Quelle abbaye utopique imaginée par Rabelais a pour unique règle « Fais ce que voudras » ?",
+      "answer": "Thélème",
+      "accept": [
+        "Theleme",
+        "abbaye de Thélème"
+      ],
+      "choices": [
+        "Cîteaux",
+        "Utopie",
+        "Fontevraud"
+      ],
+      "explanation": "Frère Jean des Entommeures la reçoit en récompense ; hommes et femmes y vivent ensemble, librement, sans murailles ni horloges.",
+      "wikipedia": "Abbaye de Thélème"
+    },
+    {
+      "id": "arts-litterature-123",
+      "difficulty": 2,
+      "question": "De quel ami Montaigne écrit-il, dans les Essais : « Parce que c'était lui, parce que c'était moi » ?",
+      "answer": "Étienne de La Boétie",
+      "accept": [
+        "La Boétie",
+        "Etienne de La Boetie",
+        "La Boetie"
+      ],
+      "choices": [
+        "Pierre Charron",
+        "Michel de L'Hospital",
+        "Jacques Amyot"
+      ],
+      "explanation": "La Boétie, mort en 1563, avait écrit très jeune le Discours de la servitude volontaire, réflexion sur l'obéissance consentie aux tyrans.",
+      "wikipedia": "Étienne de La Boétie"
+    },
+    {
+      "id": "arts-litterature-124",
+      "difficulty": 2,
+      "question": "Quel poète de la Pléiade a écrit le sonnet « Heureux qui, comme Ulysse, a fait un beau voyage » ?",
+      "answer": "Joachim du Bellay",
+      "accept": [
+        "Du Bellay"
+      ],
+      "choices": [
+        "Rémy Belleau",
+        "Jean-Antoine de Baïf",
+        "Étienne Jodelle"
+      ],
+      "explanation": "Ce sonnet des Regrets exprime sa nostalgie de son Anjou natal, qu'il préférait aux palais romains où il séjournait auprès de son oncle cardinal.",
+      "wikipedia": "Joachim du Bellay"
+    },
+    {
+      "id": "arts-litterature-125",
+      "difficulty": 2,
+      "question": "Quel nom de famille portait Molière avant d'adopter son nom de théâtre ?",
+      "answer": "Poquelin",
+      "accept": [
+        "Jean-Baptiste Poquelin"
+      ],
+      "choices": [
+        "Béjart",
+        "Arouet",
+        "Scarron"
+      ],
+      "explanation": "Fils d'un tapissier du roi, il renonça à la charge paternelle pour fonder l'Illustre Théâtre avec Madeleine Béjart, compagnie qui fit rapidement faillite.",
+      "wikipedia": "Molière"
+    },
+    {
+      "id": "arts-litterature-126",
+      "difficulty": 1,
+      "question": "Après la quatrième représentation de quelle comédie Molière mourut-il en février 1673 ?",
+      "answer": "Le Malade imaginaire",
+      "accept": [
+        "Malade imaginaire"
+      ],
+      "choices": [
+        "Le Misanthrope",
+        "Les Femmes savantes",
+        "Dom Juan"
+      ],
+      "explanation": "Il jouait lui-même Argan, l'hypocondriaque ; la superstition qui bannit le vert des théâtres est souvent rattachée, sans certitude, à cet épisode.",
+      "wikipedia": "Le Malade imaginaire"
+    },
+    {
+      "id": "arts-litterature-127",
+      "difficulty": 1,
+      "question": "Quel personnage de Molière découvre avec émerveillement qu'il fait de la prose sans le savoir ?",
+      "answer": "Monsieur Jourdain",
+      "accept": [
+        "Jourdain",
+        "M. Jourdain"
+      ],
+      "choices": [
+        "Monsieur Purgon",
+        "Monsieur de Pourceaugnac",
+        "Sganarelle"
+      ],
+      "explanation": "Le Bourgeois gentilhomme fut créé en 1670 à Chambord, avec une musique de Lully et une fameuse cérémonie turque.",
+      "wikipedia": "Le Bourgeois gentilhomme"
+    },
+    {
+      "id": "arts-litterature-128",
+      "difficulty": 2,
+      "question": "Comment s'appelle le valet peureux qui accompagne le séducteur dans le Dom Juan de Molière ?",
+      "answer": "Sganarelle",
+      "accept": [],
+      "choices": [
+        "Leporello",
+        "Mascarille",
+        "Covielle"
+      ],
+      "explanation": "À la fin de la pièce, alors que son maître est englouti, Sganarelle se lamente surtout de ses gages perdus ; chez Mozart, le valet s'appelle Leporello.",
+      "wikipedia": "Dom Juan ou le Festin de Pierre"
+    },
+    {
+      "id": "arts-litterature-129",
+      "difficulty": 1,
+      "question": "Quelle héroïne de Racine, épouse de Thésée, brûle d'un amour coupable pour son beau-fils Hippolyte ?",
+      "answer": "Phèdre",
+      "accept": [
+        "Phedre"
+      ],
+      "choices": [
+        "Andromaque",
+        "Bérénice",
+        "Hermione"
+      ],
+      "explanation": "Créée en 1677, la pièce fut concurrencée par une Phèdre rivale de Pradon, soutenue par une cabale ; Racine se retira ensuite du théâtre profane.",
+      "wikipedia": "Phèdre (Racine)"
+    },
+    {
+      "id": "arts-litterature-130",
+      "difficulty": 3,
+      "question": "Quelle tragédie de Corneille oppose trois frères romains à trois frères champions de la ville d'Albe ?",
+      "answer": "Horace",
+      "accept": [],
+      "choices": [
+        "Cinna",
+        "Polyeucte",
+        "Nicomède"
+      ],
+      "explanation": "Le vieil Horace y prononce le fameux « Qu'il mourût ! » à propos de son fils qu'il croit en fuite ; les adversaires sont les trois Curiaces.",
+      "wikipedia": "Horace (Corneille)"
+    },
+    {
+      "id": "arts-litterature-131",
+      "difficulty": 2,
+      "question": "Quel poète et critique a écrit « Ce que l'on conçoit bien s'énonce clairement » dans son Art poétique ?",
+      "answer": "Nicolas Boileau",
+      "accept": [
+        "Boileau"
+      ],
+      "choices": [
+        "Jean de La Bruyère",
+        "François de Malherbe",
+        "Charles Perrault"
+      ],
+      "explanation": "Les vers suivants sont tout aussi célèbres : « Et les mots pour le dire arrivent aisément ». Boileau fut aussi historiographe de Louis XIV avec Racine.",
+      "wikipedia": "Nicolas Boileau"
+    },
+    {
+      "id": "arts-litterature-132",
+      "difficulty": 2,
+      "question": "Quelle marquise du XVIIe siècle est célèbre pour les lettres écrites à sa fille, la comtesse de Grignan ?",
+      "answer": "Madame de Sévigné",
+      "accept": [
+        "Sévigné",
+        "Marquise de Sévigné",
+        "Madame de Sevigne"
+      ],
+      "choices": [
+        "Madame de La Fayette",
+        "Madame de Maintenon",
+        "Madame de Scudéry"
+      ],
+      "explanation": "Elle écrivit plus d'un millier de lettres, publiées après sa mort ; sa fille vivait en Provence, au château de Grignan, dont le mari était lieutenant général.",
+      "wikipedia": "Madame de Sévigné"
+    },
+    {
+      "id": "arts-litterature-133",
+      "difficulty": 2,
+      "question": "Quelle romancière du XVIIe siècle a publié anonymement La Princesse de Clèves ?",
+      "answer": "Madame de La Fayette",
+      "accept": [
+        "La Fayette",
+        "Madame de Lafayette"
+      ],
+      "choices": [
+        "Madeleine de Scudéry",
+        "Madame de Sévigné",
+        "Madame d'Aulnoy"
+      ],
+      "explanation": "Paru en 1678, le roman passe pour le premier roman d'analyse psychologique ; il se déroule à la cour d'Henri II.",
+      "wikipedia": "Madame de La Fayette"
+    },
+    {
+      "id": "arts-litterature-134",
+      "difficulty": 1,
+      "question": "Quel valet rusé, ancien barbier de Séville, épouse la camériste Suzanne dans une comédie de Beaumarchais ?",
+      "answer": "Figaro",
+      "accept": [],
+      "choices": [
+        "Bartholo",
+        "Basile",
+        "Almaviva"
+      ],
+      "explanation": "La pièce, jugée subversive, fut longtemps interdite par Louis XVI avant d'être créée en 1784 ; Mozart en tira son opéra deux ans plus tard.",
+      "wikipedia": "Le Mariage de Figaro"
+    },
+    {
+      "id": "arts-litterature-135",
+      "difficulty": 2,
+      "question": "Quel est le vrai nom de l'écrivain qui prit le pseudonyme de Voltaire ?",
+      "answer": "François-Marie Arouet",
+      "accept": [
+        "Arouet"
+      ],
+      "choices": [
+        "Jean-Baptiste Poquelin",
+        "Henri Beyle",
+        "Charles de Secondat"
+      ],
+      "explanation": "Il prit ce nom à sa sortie de la Bastille en 1718 ; l'une des hypothèses en fait l'anagramme d'« Arouet l. j. » (le jeune).",
+      "wikipedia": "Voltaire"
+    },
+    {
+      "id": "arts-litterature-136",
+      "difficulty": 3,
+      "question": "Quel seigneur persan, voyageant en France, écrit la plupart des lettres des Lettres persanes de Montesquieu ?",
+      "answer": "Usbek",
+      "accept": [],
+      "choices": [
+        "Rica",
+        "Roxane",
+        "Zadig"
+      ],
+      "explanation": "Son compagnon Rica pose un regard plus léger sur Paris, tandis que le sérail d'Usbek, resté à Ispahan, finit par se révolter.",
+      "wikipedia": "Lettres persanes"
+    },
+    {
+      "id": "arts-litterature-137",
+      "difficulty": 3,
+      "question": "Quel abbé a écrit l'Histoire du chevalier des Grieux et de Manon Lescaut ?",
+      "answer": "Prévost",
+      "accept": [
+        "Abbé Prévost",
+        "Antoine François Prévost",
+        "Prevost"
+      ],
+      "choices": [
+        "Raynal",
+        "Delille",
+        "Mably"
+      ],
+      "explanation": "Le roman fut d'abord le septième tome des Mémoires et aventures d'un homme de qualité ; Massenet et Puccini en ont tiré chacun un opéra.",
+      "wikipedia": "Antoine François Prévost"
+    },
+    {
+      "id": "arts-litterature-138",
+      "difficulty": 1,
+      "question": "Sous quel titre d'ensemble Balzac a-t-il réuni ses romans, comme Le Père Goriot et Eugénie Grandet ?",
+      "answer": "La Comédie humaine",
+      "accept": [
+        "Comédie humaine"
+      ],
+      "choices": [
+        "Les Rougon-Macquart",
+        "La Légende des siècles",
+        "Les Thibault"
+      ],
+      "explanation": "Balzac y fait revenir les mêmes personnages d'un roman à l'autre, procédé qu'il appliqua pour la première fois dans Le Père Goriot.",
+      "wikipedia": "La Comédie humaine"
+    },
+    {
+      "id": "arts-litterature-139",
+      "difficulty": 3,
+      "question": "Quel ancien forçat, surnommé Trompe-la-Mort, revient sous divers déguisements dans plusieurs romans de Balzac ?",
+      "answer": "Vautrin",
+      "accept": [],
+      "choices": [
+        "Gobseck",
+        "Lucien de Rubempré",
+        "Corentin"
+      ],
+      "explanation": "Inspiré en partie du célèbre bagnard devenu policier Vidocq, Vautrin finit lui-même chef de la police de sûreté dans Splendeurs et misères des courtisanes.",
+      "wikipedia": "Vautrin (personnage de Balzac)"
+    },
+    {
+      "id": "arts-litterature-140",
+      "difficulty": 2,
+      "question": "Quel tonnelier de Saumur, avare légendaire chez Balzac, tyrannise sa fille Eugénie ?",
+      "answer": "Grandet",
+      "accept": [
+        "Félix Grandet",
+        "père Grandet"
+      ],
+      "choices": [
+        "Gobseck",
+        "Goriot",
+        "Rigou"
+      ],
+      "explanation": "Ancien tonnelier enrichi sous la Révolution, il compte et recompte son or ; sur son lit de mort, il tente encore de saisir le crucifix doré du prêtre.",
+      "wikipedia": "Eugénie Grandet"
+    },
+    {
+      "id": "arts-litterature-141",
+      "difficulty": 3,
+      "question": "Quel jeune héros de Stendhal erre sur le champ de bataille de Waterloo sans comprendre ce qui s'y passe ?",
+      "answer": "Fabrice del Dongo",
+      "accept": [
+        "Fabrice"
+      ],
+      "choices": [
+        "Lucien Leuwen",
+        "Octave de Malivert",
+        "Julien Sorel"
+      ],
+      "explanation": "Ce passage de La Chartreuse de Parme est célèbre pour son point de vue limité : la bataille est vue à hauteur d'homme, dans la confusion.",
+      "wikipedia": "La Chartreuse de Parme"
+    },
+    {
+      "id": "arts-litterature-142",
+      "difficulty": 1,
+      "question": "Quelle petite fille des Misérables, exploitée par les Thénardier à Montfermeil, est recueillie par Jean Valjean ?",
+      "answer": "Cosette",
+      "accept": [],
+      "choices": [
+        "Éponine",
+        "Fantine",
+        "Azelma"
+      ],
+      "explanation": "Sa mère Fantine a vendu ses cheveux et ses dents pour payer sa pension ; Cosette épouse finalement Marius Pontmercy.",
+      "wikipedia": "Cosette"
+    },
+    {
+      "id": "arts-litterature-143",
+      "difficulty": 3,
+      "question": "Comment s'appelle la chèvre savante de la bohémienne Esmeralda dans Notre-Dame de Paris de Victor Hugo ?",
+      "answer": "Djali",
+      "accept": [],
+      "choices": [
+        "Blanquette",
+        "Fadette",
+        "Gringoire"
+      ],
+      "explanation": "La chèvre sait épeler le nom de Phœbus avec des lettres mobiles, ce qui vaut à Esmeralda d'être accusée de sorcellerie.",
+      "wikipedia": "Notre-Dame de Paris (roman)"
+    },
+    {
+      "id": "arts-litterature-144",
+      "difficulty": 2,
+      "question": "Quelle pièce de Victor Hugo déclencha en 1830 une célèbre « bataille » entre classiques et romantiques ?",
+      "answer": "Hernani",
+      "accept": [],
+      "choices": [
+        "Ruy Blas",
+        "Cromwell",
+        "Marion Delorme"
+      ],
+      "explanation": "Théophile Gautier y arbora un gilet rouge resté légendaire ; le premier vers, avec son enjambement « escalier / Dérobé », choqua les classiques.",
+      "wikipedia": "Hernani"
+    },
+    {
+      "id": "arts-litterature-145",
+      "difficulty": 3,
+      "question": "Dans quel drame de Victor Hugo un laquais devenu ministre lance-t-il aux grands d'Espagne « Bon appétit, messieurs ! » ?",
+      "answer": "Ruy Blas",
+      "accept": [],
+      "choices": [
+        "Hernani",
+        "Lucrèce Borgia",
+        "Les Burgraves"
+      ],
+      "explanation": "La pièce inaugura en 1838 le théâtre de la Renaissance ; Ruy Blas, laquais, est amoureux de la reine d'Espagne.",
+      "wikipedia": "Ruy Blas"
+    },
+    {
+      "id": "arts-litterature-146",
+      "difficulty": 2,
+      "question": "Sur quelle île anglo-normande Victor Hugo a-t-il passé la plus grande partie de son exil sous le Second Empire ?",
+      "answer": "Guernesey",
+      "accept": [
+        "Guernsey"
+      ],
+      "choices": [
+        "Jersey",
+        "Aurigny",
+        "Sercq"
+      ],
+      "explanation": "Expulsé de Jersey en 1855, il s'installa à Hauteville House, à Saint-Pierre-Port ; il y écrivit notamment Les Travailleurs de la mer.",
+      "wikipedia": "Hauteville House (maison)"
+    },
+    {
+      "id": "arts-litterature-147",
+      "difficulty": 2,
+      "question": "À quelle fille, noyée dans la Seine, Victor Hugo s'adresse-t-il dans le poème « Demain, dès l'aube » ?",
+      "answer": "Léopoldine",
+      "accept": [
+        "Léopoldine Hugo",
+        "Leopoldine"
+      ],
+      "choices": [
+        "Adèle",
+        "Juliette",
+        "Didine"
+      ],
+      "explanation": "Léopoldine se noya en 1843 à Villequier avec son mari Charles Vacquerie, quelques mois après leur mariage ; le poème figure dans Les Contemplations.",
+      "wikipedia": "Léopoldine Hugo"
+    },
+    {
+      "id": "arts-litterature-148",
+      "difficulty": 3,
+      "question": "Dans quel recueil Victor Hugo exilé a-t-il écrit « Waterloo ! Waterloo ! Waterloo ! morne plaine ! » ?",
+      "answer": "Les Châtiments",
+      "accept": [
+        "Châtiments"
+      ],
+      "choices": [
+        "Les Contemplations",
+        "Les Orientales",
+        "La Légende des siècles"
+      ],
+      "explanation": "Ce recueil satirique de 1853 vise Napoléon III, que Hugo surnomme « Napoléon le Petit » ; le poème L'Expiation y oppose l'oncle au neveu.",
+      "wikipedia": "Les Châtiments"
+    },
+    {
+      "id": "arts-litterature-149",
+      "difficulty": 2,
+      "question": "Quel poète romantique a écrit « Ô temps ! suspends ton vol » dans son poème Le Lac ?",
+      "answer": "Alphonse de Lamartine",
+      "accept": [
+        "Lamartine"
+      ],
+      "choices": [
+        "Alfred de Vigny",
+        "Alfred de Musset",
+        "Gérard de Nerval"
+      ],
+      "explanation": "Le poème évoque Julie Charles, rencontrée au lac du Bourget et morte peu après ; il parut dans les Méditations poétiques en 1820.",
+      "wikipedia": "Le Lac (poème)"
+    },
+    {
+      "id": "arts-litterature-150",
+      "difficulty": 3,
+      "question": "Quel poète romantique a écrit « Seul le silence est grand ; tout le reste est faiblesse » dans La Mort du loup ?",
+      "answer": "Alfred de Vigny",
+      "accept": [
+        "Vigny"
+      ],
+      "choices": [
+        "Alfred de Musset",
+        "Alphonse de Lamartine",
+        "Leconte de Lisle"
+      ],
+      "explanation": "Ancien officier, Vigny fut aussi l'auteur du drame Chatterton, qui fit pleurer le Paris romantique en 1835.",
+      "wikipedia": "Alfred de Vigny"
+    },
+    {
+      "id": "arts-litterature-151",
+      "difficulty": 3,
+      "question": "Quel poète a écrit « Je suis le Ténébreux, — le Veuf, — l'Inconsolé » dans le sonnet El Desdichado ?",
+      "answer": "Gérard de Nerval",
+      "accept": [
+        "Nerval"
+      ],
+      "choices": [
+        "Charles Baudelaire",
+        "Tristan Corbière",
+        "Aloysius Bertrand"
+      ],
+      "explanation": "Le sonnet ouvre le recueil Les Chimères ; Nerval, qui promenait un homard en laisse au Palais-Royal, fut retrouvé pendu rue de la Vieille-Lanterne en 1855.",
+      "wikipedia": "Les Filles du feu"
+    },
+    {
+      "id": "arts-litterature-152",
+      "difficulty": 2,
+      "question": "Quel oiseau des mers, « prince des nuées », Baudelaire compare-t-il au poète exilé sur le sol ?",
+      "answer": "albatros",
+      "accept": [
+        "L'Albatros"
+      ],
+      "choices": [
+        "goéland",
+        "pélican",
+        "cormoran"
+      ],
+      "explanation": "Dans L'Albatros, les marins s'amusent de l'oiseau maladroit sur le pont : « Ses ailes de géant l'empêchent de marcher ».",
+      "wikipedia": "L'Albatros (poème)"
+    },
+    {
+      "id": "arts-litterature-153",
+      "difficulty": 2,
+      "question": "Quel poème d'Arthur Rimbaud commence par « Comme je descendais des Fleuves impassibles » ?",
+      "answer": "Le Bateau ivre",
+      "accept": [
+        "Bateau ivre"
+      ],
+      "choices": [
+        "Le Dormeur du val",
+        "Ophélie",
+        "Ma bohème"
+      ],
+      "explanation": "Rimbaud l'écrivit vers seize ans sans avoir jamais vu la mer ; il l'apporta à Paris lors de sa venue chez Verlaine en 1871.",
+      "wikipedia": "Le Bateau ivre"
+    },
+    {
+      "id": "arts-litterature-154",
+      "difficulty": 2,
+      "question": "Quel sonnet de Rimbaud commence par « A noir, E blanc, I rouge, U vert, O bleu » ?",
+      "answer": "Voyelles",
+      "accept": [],
+      "choices": [
+        "Le Dormeur du val",
+        "Sensation",
+        "Aube"
+      ],
+      "explanation": "Ce sonnet a été rapproché de la synesthésie, cette association spontanée des sens ; Rimbaud écrivit plus tard « J'inventai la couleur des voyelles ».",
+      "wikipedia": "Arthur Rimbaud"
+    },
+    {
+      "id": "arts-litterature-155",
+      "difficulty": 2,
+      "question": "Dans quelle ville Paul Verlaine blessa-t-il Arthur Rimbaud d'un coup de revolver en juillet 1873 ?",
+      "answer": "Bruxelles",
+      "accept": [],
+      "choices": [
+        "Londres",
+        "Charleville",
+        "Paris"
+      ],
+      "explanation": "Rimbaud fut atteint au poignet ; Verlaine fut condamné à deux ans de prison, qu'il purgea en partie à Mons.",
+      "wikipedia": "Arthur Rimbaud"
+    },
+    {
+      "id": "arts-litterature-156",
+      "difficulty": 3,
+      "question": "Dans quelle ville d'Éthiopie Rimbaud s'installa-t-il comme négociant après avoir renoncé à la poésie ?",
+      "answer": "Harar",
+      "accept": [
+        "Harrar"
+      ],
+      "choices": [
+        "Addis-Abeba",
+        "Aden",
+        "Gondar"
+      ],
+      "explanation": "Il y fit le commerce du café, des peaux et même des armes ; atteint d'une tumeur au genou, il mourut à Marseille en 1891, à trente-sept ans.",
+      "wikipedia": "Arthur Rimbaud"
+    },
+    {
+      "id": "arts-litterature-157",
+      "difficulty": 2,
+      "question": "Quel poème de Verlaine, « Les sanglots longs des violons », servit de message codé avant le Débarquement ?",
+      "answer": "Chanson d'automne",
+      "accept": [],
+      "choices": [
+        "Il pleure dans mon cœur",
+        "Mon rêve familier",
+        "Clair de lune"
+      ],
+      "explanation": "Radio Londres diffusa ses vers début juin 1944 pour annoncer à la Résistance l'imminence du Débarquement ; le poème figure dans les Poèmes saturniens.",
+      "wikipedia": "Chanson d'automne"
+    },
+    {
+      "id": "arts-litterature-158",
+      "difficulty": 1,
+      "question": "Quel cycle de vingt romans d'Émile Zola suit une famille sous le Second Empire, sur cinq générations ?",
+      "answer": "Les Rougon-Macquart",
+      "accept": [
+        "Rougon-Macquart"
+      ],
+      "choices": [
+        "La Comédie humaine",
+        "Les Thibault",
+        "Les Hommes de bonne volonté"
+      ],
+      "explanation": "Son sous-titre est « Histoire naturelle et sociale d'une famille sous le Second Empire » ; le docteur Pascal en conclut la série.",
+      "wikipedia": "Les Rougon-Macquart"
+    },
+    {
+      "id": "arts-litterature-159",
+      "difficulty": 2,
+      "question": "Quel surnom porte la prostituée au grand cœur qui voyage en diligence dans une nouvelle de Maupassant ?",
+      "answer": "Boule de suif",
+      "accept": [],
+      "choices": [
+        "La Maison Tellier",
+        "Mademoiselle Fifi",
+        "La Parure"
+      ],
+      "explanation": "Publiée en 1880 dans Les Soirées de Médan, la nouvelle se déroule pendant la guerre de 1870 et fit connaître Maupassant du jour au lendemain.",
+      "wikipedia": "Boule de Suif"
+    },
+    {
+      "id": "arts-litterature-160",
+      "difficulty": 1,
+      "question": "Quel surnom porte Georges Duroy, journaliste séducteur et arriviste créé par Maupassant ?",
+      "answer": "Bel-Ami",
+      "accept": [
+        "Bel Ami"
+      ],
+      "choices": [
+        "Beau Brummell",
+        "Le Horla",
+        "Pierre et Jean"
+      ],
+      "explanation": "Ancien sous-officier en Algérie, il gravit les échelons de La Vie française grâce aux femmes, notamment Madeleine Forestier.",
+      "wikipedia": "Bel-Ami"
+    },
+    {
+      "id": "arts-litterature-161",
+      "difficulty": 2,
+      "question": "Quel être invisible, dans une nouvelle de Maupassant, boit l'eau et le lait du narrateur pendant son sommeil ?",
+      "answer": "Le Horla",
+      "accept": [
+        "Horla"
+      ],
+      "choices": [
+        "Le Golem",
+        "Le Spectre",
+        "L'Invisible"
+      ],
+      "explanation": "Le récit, en forme de journal intime, s'achève sur l'incendie de la maison du narrateur, qui envisage de se tuer pour échapper à l'être.",
+      "wikipedia": "Le Horla"
+    },
+    {
+      "id": "arts-litterature-162",
+      "difficulty": 3,
+      "question": "Dans quel bourg normand imaginaire Emma Bovary s'installe-t-elle avec son mari, le médecin Charles ?",
+      "answer": "Yonville-l'Abbaye",
+      "accept": [
+        "Yonville"
+      ],
+      "choices": [
+        "Tostes",
+        "Ry",
+        "Croisset"
+      ],
+      "explanation": "Le bourg s'inspire de Ry, près de Rouen ; le pharmacien Homais y incarne la bêtise satisfaite que Flaubert aimait railler.",
+      "wikipedia": "Madame Bovary"
+    },
+    {
+      "id": "arts-litterature-163",
+      "difficulty": 3,
+      "question": "Quel roman historique de Gustave Flaubert se déroule à Carthage, après la première guerre punique ?",
+      "answer": "Salammbô",
+      "accept": [
+        "Salammbo"
+      ],
+      "choices": [
+        "Hérodias",
+        "La Tentation de saint Antoine",
+        "Bouvard et Pécuchet"
+      ],
+      "explanation": "Flaubert voyagea en Tunisie pour s'y documenter ; l'héroïne, fille d'Hamilcar, est aimée du chef mercenaire Mâtho.",
+      "wikipedia": "Salammbô"
+    },
+    {
+      "id": "arts-litterature-164",
+      "difficulty": 3,
+      "question": "Quelle courtisane de La Dame aux camélias, d'Alexandre Dumas fils, a inspiré la Violetta de Verdi ?",
+      "answer": "Marguerite Gautier",
+      "accept": [],
+      "choices": [
+        "Nana Coupeau",
+        "Manon Lescaut",
+        "Fantine"
+      ],
+      "explanation": "Le personnage s'inspire de Marie Duplessis, morte de tuberculose à vingt-trois ans, que Dumas fils avait aimée.",
+      "wikipedia": "La Dame aux camélias"
+    },
+    {
+      "id": "arts-litterature-165",
+      "difficulty": 1,
+      "question": "Dans quelle forteresse, au large de Marseille, Edmond Dantès est-il emprisonné, dans Le Comte de Monte-Cristo ?",
+      "answer": "Château d'If",
+      "accept": [
+        "If"
+      ],
+      "choices": [
+        "Fort Boyard",
+        "Fort de Brégançon",
+        "Citadelle de Sisteron"
+      ],
+      "explanation": "Le château, construit sous François Ier, se visite aujourd'hui ; on y montre une cellule dite de Dantès, bien que le personnage soit fictif.",
+      "wikipedia": "Château d'If"
+    },
+    {
+      "id": "arts-litterature-166",
+      "difficulty": 2,
+      "question": "Quel prêtre italien, compagnon de captivité d'Edmond Dantès, lui révèle l'existence d'un fabuleux trésor ?",
+      "answer": "Abbé Faria",
+      "accept": [
+        "Faria"
+      ],
+      "choices": [
+        "Abbé Busoni",
+        "Abbé Carlos Herrera",
+        "Abbé Coignard"
+      ],
+      "explanation": "Dumas emprunta le nom à un vrai abbé Faria, pionnier portugais de l'hypnose ; Dantès s'évade en prenant sa place dans le linceul.",
+      "wikipedia": "Le Comte de Monte-Cristo"
+    },
+    {
+      "id": "arts-litterature-167",
+      "difficulty": 2,
+      "question": "Quelle espionne de Richelieu porte une fleur de lys marquée au fer rouge sur l'épaule, dans Les Trois Mousquetaires ?",
+      "answer": "Milady de Winter",
+      "accept": [
+        "Milady"
+      ],
+      "choices": [
+        "Constance Bonacieux",
+        "Anne d'Autriche",
+        "Duchesse de Chevreuse"
+      ],
+      "explanation": "On apprend qu'elle fut l'épouse d'Athos, qui la croyait morte après l'avoir fait pendre ; elle est finalement décapitée par le bourreau de Lille.",
+      "wikipedia": "Milady de Winter"
+    },
+    {
+      "id": "arts-litterature-168",
+      "difficulty": 3,
+      "question": "Quel chevalier, héros du Bossu de Paul Féval, maîtrise la redoutable botte de Nevers ?",
+      "answer": "Lagardère",
+      "accept": [
+        "Henri de Lagardère"
+      ],
+      "choices": [
+        "Pardaillan",
+        "Capitaine Fracasse",
+        "Scaramouche"
+      ],
+      "explanation": "Sa réplique « Si tu ne viens pas à Lagardère, Lagardère ira à toi ! » est passée dans la langue ; il se déguise en bossu pour accomplir sa vengeance.",
+      "wikipedia": "Le Bossu"
+    },
+    {
+      "id": "arts-litterature-169",
+      "difficulty": 1,
+      "question": "Quel courrier du tsar traverse la Sibérie jusqu'à Irkoutsk dans un roman de Jules Verne ?",
+      "answer": "Michel Strogoff",
+      "accept": [
+        "Strogoff"
+      ],
+      "choices": [
+        "Mathias Sandorf",
+        "Kéraban",
+        "Robur"
+      ],
+      "explanation": "Condamné à être aveuglé au sabre chauffé à blanc, il est sauvé par les larmes qui protègent ses yeux en s'évaporant.",
+      "wikipedia": "Michel Strogoff"
+    },
+    {
+      "id": "arts-litterature-170",
+      "difficulty": 3,
+      "question": "Par le cratère de quel volcan islandais le professeur Lidenbrock entre-t-il dans Voyage au centre de la Terre ?",
+      "answer": "Sneffels",
+      "accept": [
+        "Snæfellsjökull",
+        "Snaefellsjokull"
+      ],
+      "choices": [
+        "Hekla",
+        "Krafla",
+        "Katla"
+      ],
+      "explanation": "Les explorateurs ressortent à la fin par le Stromboli, en Italie, projetés par une éruption sur un radeau.",
+      "wikipedia": "Voyage au centre de la Terre"
+    },
+    {
+      "id": "arts-litterature-171",
+      "difficulty": 3,
+      "question": "Quelle association d'artilleurs de Baltimore, chez Jules Verne, projette d'envoyer un obus habité vers la Lune ?",
+      "answer": "Gun-Club",
+      "accept": [
+        "Gun Club"
+      ],
+      "choices": [
+        "Reform Club",
+        "Weldon Institute",
+        "Club des Explorateurs"
+      ],
+      "explanation": "Le canon géant, la Columbiad, est fondu en Floride ; un siècle plus tard, Apollo 11 partit de Floride lui aussi.",
+      "wikipedia": "De la Terre à la Lune"
+    },
+    {
+      "id": "arts-litterature-172",
+      "difficulty": 1,
+      "question": "Quel gentleman anglais de Jules Verne parie au Reform Club qu'il bouclera le tour du monde en quatre-vingts jours ?",
+      "answer": "Phileas Fogg",
+      "accept": [
+        "Fogg"
+      ],
+      "choices": [
+        "Passepartout",
+        "Cyrus Smith",
+        "Philéas Lebègue"
+      ],
+      "explanation": "Il croit avoir perdu son pari, mais en voyageant vers l'est il a gagné un jour : il arrive à temps au club, avec son valet Passepartout.",
+      "wikipedia": "Le Tour du monde en quatre-vingts jours"
+    },
+    {
+      "id": "arts-litterature-173",
+      "difficulty": 1,
+      "question": "Quel surnom porte le petit garçon roux, mal aimé de sa mère, dans le roman de Jules Renard ?",
+      "answer": "Poil de carotte",
+      "accept": [
+        "Poil-de-carotte"
+      ],
+      "choices": [
+        "Le Petit Chose",
+        "Le Grand Meaulnes",
+        "Tom Pouce"
+      ],
+      "explanation": "Jules Renard s'inspira de sa propre enfance ; il est aussi l'auteur d'un célèbre Journal plein de traits d'esprit.",
+      "wikipedia": "Poil de Carotte"
+    },
+    {
+      "id": "arts-litterature-174",
+      "difficulty": 2,
+      "question": "Comment s'appelle la chèvre d'Alphonse Daudet qui se bat toute la nuit contre le loup dans la montagne ?",
+      "answer": "Blanquette",
+      "accept": [],
+      "choices": [
+        "Renaude",
+        "Djali",
+        "Biquette"
+      ],
+      "explanation": "Dans La Chèvre de monsieur Seguin, la vieille Renaude s'était déjà battue toute une nuit avant d'être mangée au matin, comme Blanquette.",
+      "wikipedia": "La Chèvre de monsieur Seguin"
+    },
+    {
+      "id": "arts-litterature-175",
+      "difficulty": 2,
+      "question": "Quel chasseur fanfaron du Midi, héros d'Alphonse Daudet, part chasser le lion en Algérie ?",
+      "answer": "Tartarin",
+      "accept": [
+        "Tartarin de Tarascon"
+      ],
+      "choices": [
+        "Numa Roumestan",
+        "Le Petit Chose",
+        "Maître Cornille"
+      ],
+      "explanation": "Faute de gibier, les chasseurs de sa ville tirent sur leurs casquettes lancées en l'air ; en Algérie, Tartarin finit par abattre un vieux lion aveugle.",
+      "wikipedia": "Tartarin de Tarascon"
+    },
+    {
+      "id": "arts-litterature-176",
+      "difficulty": 1,
+      "question": "Quelle fillette de la comtesse de Ségur découpe des poissons rouges et fait fondre sa poupée de cire ?",
+      "answer": "Sophie",
+      "accept": [
+        "Sophie de Réan"
+      ],
+      "choices": [
+        "Camille",
+        "Madeleine",
+        "Marguerite"
+      ],
+      "explanation": "Sophie de Réan est en partie inspirée de l'enfance de l'autrice, née Rostopchine en Russie ; à la fin du livre, la fillette part pour l'Amérique.",
+      "wikipedia": "Les Malheurs de Sophie"
+    },
+    {
+      "id": "arts-litterature-177",
+      "difficulty": 1,
+      "question": "Quel romancier a écrit l'incipit « Longtemps, je me suis couché de bonne heure » ?",
+      "answer": "Marcel Proust",
+      "accept": [
+        "Proust"
+      ],
+      "choices": [
+        "André Gide",
+        "Anatole France",
+        "Romain Rolland"
+      ],
+      "explanation": "C'est la première phrase de Du côté de chez Swann ; le roman fut refusé par plusieurs éditeurs, dont Gallimard sur l'avis de Gide, et publié à compte d'auteur chez Grasset.",
+      "wikipedia": "À la recherche du temps perdu"
+    },
+    {
+      "id": "arts-litterature-178",
+      "difficulty": 1,
+      "question": "Quel roman d'Alain-Fournier, mort au front en 1914, suit Augustin à la recherche d'un domaine mystérieux ?",
+      "answer": "Le Grand Meaulnes",
+      "accept": [
+        "Grand Meaulnes"
+      ],
+      "choices": [
+        "Le Petit Chose",
+        "Les Thibault",
+        "Le Rivage des Syrtes"
+      ],
+      "explanation": "Le narrateur est François Seurel ; Augustin y poursuit le souvenir d'Yvonne de Galais, rencontrée lors d'une fête étrange.",
+      "wikipedia": "Le Grand Meaulnes"
+    },
+    {
+      "id": "arts-litterature-179",
+      "difficulty": 2,
+      "question": "Quelle écrivaine bourguignonne a créé la série des Claudine, d'abord signée par son mari Willy ?",
+      "answer": "Colette",
+      "accept": [
+        "Sidonie-Gabrielle Colette"
+      ],
+      "choices": [
+        "Anna de Noailles",
+        "Rachilde",
+        "Gyp"
+      ],
+      "explanation": "Elle fut la deuxième femme élue à l'académie Goncourt, et la première à la présider ; elle eut droit à des obsèques nationales en 1954.",
+      "wikipedia": "Colette"
+    },
+    {
+      "id": "arts-litterature-180",
+      "difficulty": 1,
+      "question": "Quel écrivain provençal a raconté son enfance dans La Gloire de mon père et Le Château de ma mère ?",
+      "answer": "Marcel Pagnol",
+      "accept": [
+        "Pagnol"
+      ],
+      "choices": [
+        "Jean Giono",
+        "Alphonse Daudet",
+        "Henri Bosco"
+      ],
+      "explanation": "Ces Souvenirs d'enfance évoquent les collines du massif du Garlaban, près d'Aubagne, et la célèbre partie de chasse aux bartavelles.",
+      "wikipedia": "Marcel Pagnol"
+    },
+    {
+      "id": "arts-litterature-181",
+      "difficulty": 2,
+      "question": "Dans quelle ville algérienne Albert Camus situe-t-il l'épidémie de La Peste ?",
+      "answer": "Oran",
+      "accept": [],
+      "choices": [
+        "Alger",
+        "Constantine",
+        "Tipasa"
+      ],
+      "explanation": "Le roman, paru en 1947, est raconté par le docteur Rieux ; beaucoup y ont lu une allégorie de l'Occupation et de la Résistance.",
+      "wikipedia": "La Peste"
+    },
+    {
+      "id": "arts-litterature-182",
+      "difficulty": 1,
+      "question": "Dans quelle pièce de Jean-Paul Sartre un personnage conclut-il que « l'enfer, c'est les autres » ?",
+      "answer": "Huis clos",
+      "accept": [],
+      "choices": [
+        "Les Mouches",
+        "Les Mains sales",
+        "Le Diable et le Bon Dieu"
+      ],
+      "explanation": "Trois morts, Garcin, Inès et Estelle, sont enfermés ensemble dans un salon Second Empire : ils comprennent qu'ils seront à jamais le bourreau l'un de l'autre.",
+      "wikipedia": "Huis clos (Sartre)"
+    },
+    {
+      "id": "arts-litterature-183",
+      "difficulty": 1,
+      "question": "Quelle gamine délurée de Raymond Queneau, en visite chez son oncle, rêve de prendre le métro parisien ?",
+      "answer": "Zazie",
+      "accept": [],
+      "choices": [
+        "Lolita",
+        "Fanchon",
+        "Claudine"
+      ],
+      "explanation": "Manque de chance, le métro est en grève ; l'oncle Gabriel est danseur dans un cabaret, et le perroquet Laverdure répète « Tu causes, tu causes ».",
+      "wikipedia": "Zazie dans le métro"
+    },
+    {
+      "id": "arts-litterature-184",
+      "difficulty": 2,
+      "question": "Quel livre de Raymond Queneau raconte quatre-vingt-dix-neuf fois la même anecdote survenue dans un autobus ?",
+      "answer": "Exercices de style",
+      "accept": [],
+      "choices": [
+        "Cent mille milliards de poèmes",
+        "Le Chiendent",
+        "Les Fleurs bleues"
+      ],
+      "explanation": "L'histoire, un jeune homme au long cou et au chapeau orné d'une tresse se disputant dans l'autobus S, est racontée en alexandrins, en anglicismes ou en onomatopées.",
+      "wikipedia": "Exercices de style"
+    },
+    {
+      "id": "arts-litterature-185",
+      "difficulty": 3,
+      "question": "Quelle fleur aquatique pousse dans le poumon de Chloé dans L'Écume des jours de Boris Vian ?",
+      "answer": "nénuphar",
+      "accept": [
+        "nenuphar"
+      ],
+      "choices": [
+        "lotus",
+        "jacinthe d'eau",
+        "iris des marais"
+      ],
+      "explanation": "Pour la soigner, Colin l'entoure de fleurs coupées et s'épuise à travailler ; l'appartement rétrécit à mesure que le bonheur s'en va.",
+      "wikipedia": "L'Écume des jours"
+    },
+    {
+      "id": "arts-litterature-186",
+      "difficulty": 3,
+      "question": "Sous quel pseudonyme américain Boris Vian publia-t-il en 1946 J'irai cracher sur vos tombes ?",
+      "answer": "Vernon Sullivan",
+      "accept": [
+        "Sullivan"
+      ],
+      "choices": [
+        "Sally Mara",
+        "Bison Ravi",
+        "Peter Cheyney"
+      ],
+      "explanation": "Vian se présenta comme simple traducteur ; le roman fit scandale et l'auteur fut condamné pour outrage aux bonnes mœurs.",
+      "wikipedia": "J'irai cracher sur vos tombes"
+    },
+    {
+      "id": "arts-litterature-187",
+      "difficulty": 3,
+      "question": "Sous quel pseudonyme Jean Bruller publia-t-il clandestinement Le Silence de la mer en 1942 ?",
+      "answer": "Vercors",
+      "accept": [],
+      "choices": [
+        "Aragon",
+        "Pierre Seghers",
+        "Jean Moulin"
+      ],
+      "explanation": "Le récit inaugura les Éditions de Minuit, nées dans la clandestinité ; l'auteur, dessinateur, avait choisi le nom d'un massif de la Résistance.",
+      "wikipedia": "Vercors (écrivain)"
+    },
+    {
+      "id": "arts-litterature-188",
+      "difficulty": 1,
+      "question": "Quel poète a écrit le recueil Paroles, où figure le poème « Rappelle-toi Barbara » ?",
+      "answer": "Jacques Prévert",
+      "accept": [
+        "Prévert",
+        "Prevert"
+      ],
+      "choices": [
+        "Robert Desnos",
+        "Boris Vian",
+        "Paul Éluard"
+      ],
+      "explanation": "Paru en 1946, Paroles fut un immense succès ; Prévert écrivit aussi les dialogues des Enfants du paradis et des chansons comme Les Feuilles mortes.",
+      "wikipedia": "Paroles (Prévert)"
+    },
+    {
+      "id": "arts-litterature-189",
+      "difficulty": 2,
+      "question": "Quel poète a écrit « Sur mes cahiers d'écolier… J'écris ton nom », poème parachuté par la RAF en 1942 ?",
+      "answer": "Paul Éluard",
+      "accept": [
+        "Éluard",
+        "Eluard"
+      ],
+      "choices": [
+        "Louis Aragon",
+        "René Char",
+        "Robert Desnos"
+      ],
+      "explanation": "Le poème, d'abord intitulé « Une seule pensée », s'achève sur le mot « Liberté » ; il fut largué sur la France occupée par avions alliés.",
+      "wikipedia": "Liberté (poème)"
+    },
+    {
+      "id": "arts-litterature-190",
+      "difficulty": 2,
+      "question": "Quel écrivain a rédigé en 1924 le premier Manifeste du surréalisme ?",
+      "answer": "André Breton",
+      "accept": [
+        "Breton"
+      ],
+      "choices": [
+        "Tristan Tzara",
+        "Louis Aragon",
+        "Philippe Soupault"
+      ],
+      "explanation": "Il y définit le surréalisme comme un « automatisme psychique pur » ; avec Soupault, il avait déjà écrit Les Champs magnétiques par écriture automatique.",
+      "wikipedia": "André Breton"
+    },
+    {
+      "id": "arts-litterature-191",
+      "difficulty": 1,
+      "question": "Quelle pièce d'Alfred Jarry commence par le juron « Merdre ! », qui fit scandale en 1896 ?",
+      "answer": "Ubu roi",
+      "accept": [
+        "Ubu"
+      ],
+      "choices": [
+        "Les Mamelles de Tirésias",
+        "Le Roi se meurt",
+        "Le Cocu magnifique"
+      ],
+      "explanation": "Jarry l'avait d'abord écrite au lycée de Rennes pour se moquer d'un professeur de physique ; le père Ubu s'empare du trône de Pologne.",
+      "wikipedia": "Ubu roi"
+    },
+    {
+      "id": "arts-litterature-192",
+      "difficulty": 2,
+      "question": "Dans quelle pièce d'Eugène Ionesco les habitants d'une ville se transforment-ils un à un en pachydermes cornus ?",
+      "answer": "Rhinocéros",
+      "accept": [
+        "Rhinoceros"
+      ],
+      "choices": [
+        "Les Chaises",
+        "La Leçon",
+        "Le Roi se meurt"
+      ],
+      "explanation": "Seul Bérenger résiste à la contagion ; la pièce de 1959 a été lue comme une parabole sur la montée des totalitarismes.",
+      "wikipedia": "Rhinocéros (Ionesco)"
+    },
+    {
+      "id": "arts-litterature-193",
+      "difficulty": 2,
+      "question": "Quelle « anti-pièce » d'Eugène Ionesco, créée en 1950, ne fait jamais apparaître le personnage de son titre ?",
+      "answer": "La Cantatrice chauve",
+      "accept": [
+        "Cantatrice chauve"
+      ],
+      "choices": [
+        "En attendant Godot",
+        "La Leçon",
+        "Les Chaises"
+      ],
+      "explanation": "Ionesco l'écrivit en s'inspirant des phrases absurdes d'une méthode d'anglais ; elle est jouée sans interruption au théâtre de la Huchette depuis 1957.",
+      "wikipedia": "La Cantatrice chauve"
+    },
+    {
+      "id": "arts-litterature-194",
+      "difficulty": 3,
+      "question": "Quel drame d'Edmond Rostand met en scène le fils de Napoléon, joué à sa création par Sarah Bernhardt ?",
+      "answer": "L'Aiglon",
+      "accept": [
+        "Aiglon"
+      ],
+      "choices": [
+        "Chantecler",
+        "La Princesse lointaine",
+        "Les Romanesques"
+      ],
+      "explanation": "Créée en 1900, la pièce montre le duc de Reichstadt, tenu à Schönbrunn ; Sarah Bernhardt, plus de cinquante ans, y jouait un jeune homme de vingt ans.",
+      "wikipedia": "L'Aiglon"
+    },
+    {
+      "id": "arts-litterature-195",
+      "difficulty": 2,
+      "question": "Quel surnom, rappelant son illustre fondateur symbolique, désigne la Comédie-Française ?",
+      "answer": "Maison de Molière",
+      "accept": [],
+      "choices": [
+        "Maison de Racine",
+        "Maison de Corneille",
+        "Maison du roi"
+      ],
+      "explanation": "La troupe fut fondée en 1680 par Louis XIV, sept ans après la mort de Molière, en fusionnant sa troupe avec celle de l'Hôtel de Bourgogne.",
+      "wikipedia": "Comédie-Française"
+    },
+    {
+      "id": "arts-litterature-196",
+      "difficulty": 2,
+      "question": "Quel acteur et metteur en scène a fondé en 1947 le Festival d'Avignon ?",
+      "answer": "Jean Vilar",
+      "accept": [
+        "Vilar"
+      ],
+      "choices": [
+        "Jean-Louis Barrault",
+        "Louis Jouvet",
+        "Charles Dullin"
+      ],
+      "explanation": "Il dirigea aussi le Théâtre national populaire ; la première édition s'appelait « Une semaine d'art en Avignon » et se jouait dans la cour d'honneur du palais des Papes.",
+      "wikipedia": "Jean Vilar"
+    },
+    {
+      "id": "arts-litterature-197",
+      "difficulty": 2,
+      "question": "Dans quel restaurant parisien le prix Goncourt est-il traditionnellement proclamé ?",
+      "answer": "Drouant",
+      "accept": [],
+      "choices": [
+        "Maxim's",
+        "Lipp",
+        "Le Procope"
+      ],
+      "explanation": "Les dix membres de l'académie Goncourt y déjeunent chaque mois depuis 1914, chacun avec son couvert attitré, dans un salon du premier étage.",
+      "wikipedia": "Drouant"
+    },
+    {
+      "id": "arts-litterature-198",
+      "difficulty": 2,
+      "question": "Quel écrivain a obtenu deux fois le prix Goncourt, la seconde sous le pseudonyme d'Émile Ajar ?",
+      "answer": "Romain Gary",
+      "accept": [
+        "Gary"
+      ],
+      "choices": [
+        "André Malraux",
+        "Michel Tournier",
+        "Patrick Modiano"
+      ],
+      "explanation": "Il fut couronné pour Les Racines du ciel en 1956, puis pour La Vie devant soi en 1975 ; la supercherie ne fut révélée qu'après sa mort.",
+      "wikipedia": "Romain Gary"
+    },
+    {
+      "id": "arts-litterature-199",
+      "difficulty": 3,
+      "question": "Quelle écrivaine fut, au titre de l'année 1944, la première femme lauréate du prix Goncourt ?",
+      "answer": "Elsa Triolet",
+      "accept": [
+        "Triolet"
+      ],
+      "choices": [
+        "Colette",
+        "Simone de Beauvoir",
+        "Marguerite Yourcenar"
+      ],
+      "explanation": "Elle fut récompensée pour le recueil Le Premier accroc coûte deux cents francs ; la phrase du titre servit de message codé pour le débarquement de Provence.",
+      "wikipedia": "Elsa Triolet"
+    },
+    {
+      "id": "arts-litterature-200",
+      "difficulty": 2,
+      "question": "Quel roman d'André Malraux, situé à Shanghai pendant l'insurrection de 1927, a obtenu le prix Goncourt ?",
+      "answer": "La Condition humaine",
+      "accept": [
+        "Condition humaine"
+      ],
+      "choices": [
+        "L'Espoir",
+        "La Voie royale",
+        "Les Conquérants"
+      ],
+      "explanation": "Couronné en 1933, le roman suit des révolutionnaires communistes, dont le terroriste Tchen, lors de l'écrasement de l'insurrection par Tchang Kaï-chek.",
+      "wikipedia": "La Condition humaine"
+    },
+    {
+      "id": "arts-litterature-201",
+      "difficulty": 2,
+      "question": "Quel roman autobiographique de Marguerite Duras, situé en Indochine, a obtenu le prix Goncourt en 1984 ?",
+      "answer": "L'Amant",
+      "accept": [
+        "Amant"
+      ],
+      "choices": [
+        "Un barrage contre le Pacifique",
+        "Moderato cantabile",
+        "Le Vice-consul"
+      ],
+      "explanation": "Elle y raconte sa liaison, à quinze ans et demi, avec un riche Chinois ; le roman fut un succès mondial et fut adapté au cinéma par Jean-Jacques Annaud.",
+      "wikipedia": "L'Amant (roman)"
+    },
+    {
+      "id": "arts-litterature-202",
+      "difficulty": 3,
+      "question": "Quel roman de Saint-Exupéry sur les pilotes de l'Aéropostale volant dans l'obscurité a obtenu le prix Femina en 1931 ?",
+      "answer": "Vol de nuit",
+      "accept": [],
+      "choices": [
+        "Terre des hommes",
+        "Courrier sud",
+        "Pilote de guerre"
+      ],
+      "explanation": "La préface est signée André Gide ; le personnage de Rivière, chef exigeant, s'inspire de Didier Daurat, directeur de l'exploitation de l'Aéropostale.",
+      "wikipedia": "Vol de nuit"
+    },
+    {
+      "id": "arts-litterature-203",
+      "difficulty": 2,
+      "question": "Quel prix littéraire, créé en 1904 par les collaboratrices d'un magazine, est décerné par un jury exclusivement féminin ?",
+      "answer": "Femina",
+      "accept": [
+        "prix Femina"
+      ],
+      "choices": [
+        "Médicis",
+        "Interallié",
+        "Renaudot"
+      ],
+      "explanation": "Il naquit en réaction au Goncourt, accusé de bouder les femmes ; il fut fondé par vingt-deux collaboratrices du magazine La Vie heureuse.",
+      "wikipedia": "Prix Femina"
+    },
+    {
+      "id": "arts-litterature-204",
+      "difficulty": 2,
+      "question": "Quel poète français a reçu en 1901 le tout premier prix Nobel de littérature ?",
+      "answer": "Sully Prudhomme",
+      "accept": [
+        "Prudhomme"
+      ],
+      "choices": [
+        "Frédéric Mistral",
+        "Anatole France",
+        "José-Maria de Heredia"
+      ],
+      "explanation": "Le choix fut critiqué car beaucoup attendaient Tolstoï ; Sully Prudhomme consacra une partie de la somme à fonder un prix de poésie.",
+      "wikipedia": "Sully Prudhomme"
+    },
+    {
+      "id": "arts-litterature-205",
+      "difficulty": 2,
+      "question": "Quel poète, auteur de Mirèio, a reçu le prix Nobel de littérature en 1904 pour son œuvre en langue d'oc ?",
+      "answer": "Frédéric Mistral",
+      "accept": [
+        "Mistral"
+      ],
+      "choices": [
+        "Théodore Aubanel",
+        "Joseph Roumanille",
+        "Alphonse Daudet"
+      ],
+      "explanation": "Fondateur du Félibrige, il consacra une partie de son prix au Museon Arlaten, musée d'ethnographie provençale ouvert à Arles.",
+      "wikipedia": "Frédéric Mistral"
+    },
+    {
+      "id": "arts-litterature-206",
+      "difficulty": 2,
+      "question": "Quelle romancière suédoise, auteure du Merveilleux Voyage de Nils Holgersson, fut la première femme Nobel de littérature ?",
+      "answer": "Selma Lagerlöf",
+      "accept": [
+        "Lagerlöf",
+        "Selma Lagerlof",
+        "Lagerlof"
+      ],
+      "choices": [
+        "Astrid Lindgren",
+        "Karin Boye",
+        "Sigrid Undset"
+      ],
+      "explanation": "Nils Holgersson était une commande pour apprendre la géographie de la Suède aux écoliers : le garçon, rapetissé, survole le pays sur le dos d'un jars.",
+      "wikipedia": "Selma Lagerlöf"
+    },
+    {
+      "id": "arts-litterature-207",
+      "difficulty": 2,
+      "question": "Quel poète bengali fut, en 1913, le premier lauréat non européen du prix Nobel de littérature ?",
+      "answer": "Rabindranath Tagore",
+      "accept": [
+        "Tagore"
+      ],
+      "choices": [
+        "Muhammad Iqbal",
+        "Sri Aurobindo",
+        "Kazi Nazrul Islam"
+      ],
+      "explanation": "Il est l'auteur des hymnes nationaux de l'Inde et du Bangladesh ; Gide traduisit en français son recueil L'Offrande lyrique.",
+      "wikipedia": "Rabindranath Tagore"
+    },
+    {
+      "id": "arts-litterature-208",
+      "difficulty": 2,
+      "question": "Quel homme d'État britannique a reçu le prix Nobel de littérature en 1953 ?",
+      "answer": "Winston Churchill",
+      "accept": [
+        "Churchill"
+      ],
+      "choices": [
+        "Clement Attlee",
+        "Anthony Eden",
+        "Harold Macmillan"
+      ],
+      "explanation": "Il fut récompensé pour ses ouvrages historiques et biographiques, notamment ses mémoires de la Seconde Guerre mondiale, ainsi que pour son éloquence.",
+      "wikipedia": "Winston Churchill"
+    },
+    {
+      "id": "arts-litterature-209",
+      "difficulty": 2,
+      "question": "Quelle autrice des Mémoires d'Hadrien fut, en 1980, la première femme élue à l'Académie française ?",
+      "answer": "Marguerite Yourcenar",
+      "accept": [
+        "Yourcenar"
+      ],
+      "choices": [
+        "Marguerite Duras",
+        "Nathalie Sarraute",
+        "Louise de Vilmorin"
+      ],
+      "explanation": "Son pseudonyme est une anagramme presque parfaite de son nom de naissance, Crayencour ; elle vivait alors dans l'île des Monts-Déserts, aux États-Unis.",
+      "wikipedia": "Marguerite Yourcenar"
+    },
+    {
+      "id": "arts-litterature-210",
+      "difficulty": 2,
+      "question": "Quelle écrivaine, autrice des Années, est devenue en 2022 la première Française lauréate du prix Nobel de littérature ?",
+      "answer": "Annie Ernaux",
+      "accept": [
+        "Ernaux"
+      ],
+      "choices": [
+        "Marie NDiaye",
+        "Annie Le Brun",
+        "Hélène Cixous"
+      ],
+      "explanation": "Originaire de Normandie, elle a fait de sa vie la matière de récits qu'elle qualifie d'« auto-socio-biographiques », comme La Place, prix Renaudot 1984.",
+      "wikipedia": "Annie Ernaux"
+    },
+    {
+      "id": "arts-litterature-211",
+      "difficulty": 1,
+      "question": "Quel roi écossais de Shakespeare assassine le roi Duncan après la prophétie de trois sorcières ?",
+      "answer": "Macbeth",
+      "accept": [],
+      "choices": [
+        "Banquo",
+        "Malcolm",
+        "Macduff"
+      ],
+      "explanation": "Par superstition, les comédiens anglais évitent de prononcer le titre dans un théâtre et parlent de « la pièce écossaise ».",
+      "wikipedia": "Macbeth"
+    },
+    {
+      "id": "arts-litterature-212",
+      "difficulty": 1,
+      "question": "Quel général maure de Venise, manipulé par son enseigne Iago, tue son épouse Desdémone par jalousie ?",
+      "answer": "Othello",
+      "accept": [],
+      "choices": [
+        "Cassio",
+        "Shylock",
+        "Brabantio"
+      ],
+      "explanation": "Le mouchoir brodé qu'Iago glisse chez Cassio sert de fausse preuve ; Verdi en tira l'avant-dernier de ses opéras, Otello.",
+      "wikipedia": "Othello ou le Maure de Venise"
+    },
+    {
+      "id": "arts-litterature-213",
+      "difficulty": 2,
+      "question": "Quel roi de Shakespeare s'écrie « Un cheval ! un cheval ! mon royaume pour un cheval ! » ?",
+      "answer": "Richard III",
+      "accept": [],
+      "choices": [
+        "Henry V",
+        "Richard II",
+        "Jean sans Terre"
+      ],
+      "explanation": "Ses restes ont été retrouvés en 2012 sous un parking de Leicester ; Shakespeare l'a dépeint en bossu machiavélique.",
+      "wikipedia": "Richard III (Shakespeare)"
+    },
+    {
+      "id": "arts-litterature-214",
+      "difficulty": 1,
+      "question": "Comment s'appelle le cheval efflanqué du chevalier de la Manche, chez Cervantes ?",
+      "answer": "Rossinante",
+      "accept": [],
+      "choices": [
+        "Bucéphale",
+        "Babieca",
+        "Grisou"
+      ],
+      "explanation": "Le nom joue sur « rocín », la rosse, et « antes », autrefois : il était une rosse avant de devenir le premier des chevaux. Sancho, lui, monte un âne.",
+      "wikipedia": "Rossinante"
+    },
+    {
+      "id": "arts-litterature-215",
+      "difficulty": 2,
+      "question": "Quel poète latin guide Dante à travers l'Enfer et le Purgatoire dans La Divine Comédie ?",
+      "answer": "Virgile",
+      "accept": [],
+      "choices": [
+        "Ovide",
+        "Horace",
+        "Lucrèce"
+      ],
+      "explanation": "Païen, l'auteur de l'Énéide ne peut entrer au Paradis ; c'est Béatrice, la femme aimée par Dante, qui prend alors le relais.",
+      "wikipedia": "Divine Comédie"
+    },
+    {
+      "id": "arts-litterature-216",
+      "difficulty": 2,
+      "question": "Quel démon conclut un pacte avec le docteur Faust dans la tragédie de Goethe ?",
+      "answer": "Méphistophélès",
+      "accept": [
+        "Mephistopheles",
+        "Méphisto"
+      ],
+      "choices": [
+        "Belzébuth",
+        "Asmodée",
+        "Lucifer"
+      ],
+      "explanation": "Goethe travailla à son Faust pendant près de soixante ans ; la seconde partie fut publiée après sa mort, en 1832.",
+      "wikipedia": "Faust (Goethe)"
+    },
+    {
+      "id": "arts-litterature-217",
+      "difficulty": 1,
+      "question": "Quel jeune héros de Goethe se donne la mort par amour pour Charlotte, promise à un autre ?",
+      "answer": "Werther",
+      "accept": [],
+      "choices": [
+        "Wilhelm Meister",
+        "Egmont",
+        "Götz"
+      ],
+      "explanation": "Le roman provoqua une vague de suicides par imitation ; les sociologues parlent depuis d'« effet Werther ». Massenet en fit un opéra.",
+      "wikipedia": "Les Souffrances du jeune Werther"
+    },
+    {
+      "id": "arts-litterature-218",
+      "difficulty": 1,
+      "question": "Quel chirurgien de marine imaginé par Jonathan Swift fait naufrage au pays des minuscules Lilliputiens ?",
+      "answer": "Gulliver",
+      "accept": [
+        "Lemuel Gulliver"
+      ],
+      "choices": [
+        "Robinson",
+        "Sindbad",
+        "Münchhausen"
+      ],
+      "explanation": "Ses voyages, satire de la société anglaise, le mènent aussi chez les géants de Brobdingnag et chez les chevaux sages, les Houyhnhnms.",
+      "wikipedia": "Les Voyages de Gulliver"
+    },
+    {
+      "id": "arts-litterature-219",
+      "difficulty": 1,
+      "question": "Quel roman de Herman Melville commence par la phrase « Appelez-moi Ismaël » ?",
+      "answer": "Moby Dick",
+      "accept": [
+        "Moby-Dick"
+      ],
+      "choices": [
+        "Billy Budd",
+        "Typee",
+        "Bartleby"
+      ],
+      "explanation": "Échec commercial à sa parution en 1851, le roman ne fut reconnu comme un chef-d'œuvre qu'au XXe siècle ; Ismaël est le seul survivant du naufrage.",
+      "wikipedia": "Moby-Dick"
+    },
+    {
+      "id": "arts-litterature-220",
+      "difficulty": 1,
+      "question": "Quel pirate unijambiste, flanqué d'un perroquet, est engagé comme cuisinier dans L'Île au trésor ?",
+      "answer": "Long John Silver",
+      "accept": [
+        "John Silver",
+        "Silver"
+      ],
+      "choices": [
+        "Billy Bones",
+        "Capitaine Flint",
+        "Ben Gunn"
+      ],
+      "explanation": "Le perroquet porte le nom de l'ancien capitaine Flint et crie « Pièces de huit ! » ; Stevenson inventa l'histoire à partir d'une carte dessinée pour son beau-fils.",
+      "wikipedia": "L'Île au trésor"
+    },
+    {
+      "id": "arts-litterature-221",
+      "difficulty": 1,
+      "question": "Quel double maléfique le docteur Jekyll libère-t-il en buvant sa potion, chez Robert Louis Stevenson ?",
+      "answer": "Mister Hyde",
+      "accept": [
+        "Hyde",
+        "Mr Hyde",
+        "Edward Hyde"
+      ],
+      "choices": [
+        "Moriarty",
+        "Dorian Gray",
+        "Mister Smith"
+      ],
+      "explanation": "Stevenson aurait rêvé l'intrigue ; sa femme jugea le premier jet raté, qu'il brûla avant de tout réécrire en quelques jours.",
+      "wikipedia": "L'Étrange Cas du docteur Jekyll et de mister Hyde"
+    },
+    {
+      "id": "arts-litterature-222",
+      "difficulty": 1,
+      "question": "Quel orphelin de Charles Dickens ose réclamer une seconde portion de gruau à l'hospice ?",
+      "answer": "Oliver Twist",
+      "accept": [
+        "Oliver"
+      ],
+      "choices": [
+        "David Copperfield",
+        "Pip",
+        "Nicholas Nickleby"
+      ],
+      "explanation": "À Londres, il tombe entre les mains du receleur Fagin et de sa bande de pickpockets, dont le rusé Artful Dodger.",
+      "wikipedia": "Oliver Twist"
+    },
+    {
+      "id": "arts-litterature-223",
+      "difficulty": 1,
+      "question": "Quel vieil avare de Charles Dickens reçoit la visite des esprits des Noëls passé, présent et futur ?",
+      "answer": "Ebenezer Scrooge",
+      "accept": [
+        "Scrooge"
+      ],
+      "choices": [
+        "Fagin",
+        "Uriah Heep",
+        "Jacob Marley"
+      ],
+      "explanation": "Le fantôme de son associé Jacob Marley lui annonce leur venue ; en anglais, « scrooge » est devenu un nom commun désignant un grippe-sou.",
+      "wikipedia": "Un chant de Noël"
+    },
+    {
+      "id": "arts-litterature-224",
+      "difficulty": 2,
+      "question": "Quel riche et orgueilleux gentleman de Jane Austen finit par épouser Elizabeth Bennet ?",
+      "answer": "Darcy",
+      "accept": [
+        "Mr Darcy",
+        "Fitzwilliam Darcy"
+      ],
+      "choices": [
+        "Bingley",
+        "Wickham",
+        "Knightley"
+      ],
+      "explanation": "Orgueil et Préjugés devait d'abord s'appeler First Impressions ; il parut anonymement en 1813, signé « par l'auteur de Raison et Sentiments ».",
+      "wikipedia": "Orgueil et Préjugés"
+    },
+    {
+      "id": "arts-litterature-225",
+      "difficulty": 2,
+      "question": "Quelle sœur Brontë a écrit Les Hauts de Hurlevent, son unique roman ?",
+      "answer": "Emily",
+      "accept": [
+        "Emily Brontë",
+        "Emily Bronte"
+      ],
+      "choices": [
+        "Charlotte",
+        "Anne",
+        "Elizabeth"
+      ],
+      "explanation": "Publié en 1847 sous le pseudonyme d'Ellis Bell, le roman met en scène l'amour destructeur de Heathcliff et de Catherine ; Emily mourut l'année suivante.",
+      "wikipedia": "Emily Brontë"
+    },
+    {
+      "id": "arts-litterature-226",
+      "difficulty": 1,
+      "question": "Quel jeune savant genevois, dans le roman de Mary Shelley, donne vie à une créature faite de morceaux de cadavres ?",
+      "answer": "Victor Frankenstein",
+      "accept": [
+        "Frankenstein"
+      ],
+      "choices": [
+        "Henry Clerval",
+        "Docteur Moreau",
+        "Docteur Jekyll"
+      ],
+      "explanation": "Mary Shelley conçut le récit en 1816, au bord du Léman, lors d'un concours d'histoires de fantômes lancé par Lord Byron ; la créature n'a pas de nom.",
+      "wikipedia": "Frankenstein ou le Prométhée moderne"
+    },
+    {
+      "id": "arts-litterature-227",
+      "difficulty": 1,
+      "question": "Quel écrivain irlandais a créé le comte Dracula dans un roman épistolaire de 1897 ?",
+      "answer": "Bram Stoker",
+      "accept": [
+        "Stoker"
+      ],
+      "choices": [
+        "Sheridan Le Fanu",
+        "Oscar Wilde",
+        "John Polidori"
+      ],
+      "explanation": "Stoker était l'administrateur du Lyceum Theatre de Londres ; il n'est jamais allé en Transylvanie et s'est documenté en bibliothèque.",
+      "wikipedia": "Bram Stoker"
+    },
+    {
+      "id": "arts-litterature-228",
+      "difficulty": 2,
+      "question": "Quel oiseau répète « Jamais plus » au narrateur endeuillé, dans le plus célèbre poème d'Edgar Allan Poe ?",
+      "answer": "corbeau",
+      "accept": [
+        "Le Corbeau"
+      ],
+      "choices": [
+        "hibou",
+        "perroquet",
+        "vautour"
+      ],
+      "explanation": "Le poème, paru en 1845, fut traduit en prose par Baudelaire puis par Mallarmé, illustré par Manet ; le mot anglais est « Nevermore ».",
+      "wikipedia": "Le Corbeau (poème)"
+    },
+    {
+      "id": "arts-litterature-229",
+      "difficulty": 3,
+      "question": "Quel détective parisien, créé par Edgar Allan Poe, élucide le Double assassinat dans la rue Morgue ?",
+      "answer": "Auguste Dupin",
+      "accept": [
+        "Dupin",
+        "C. Auguste Dupin"
+      ],
+      "choices": [
+        "Vidocq",
+        "Lecoq",
+        "Rouletabille"
+      ],
+      "explanation": "Ce récit de 1841 passe pour la première nouvelle policière moderne ; le coupable se révèle être un orang-outan.",
+      "wikipedia": "Auguste Dupin"
+    },
+    {
+      "id": "arts-litterature-230",
+      "difficulty": 2,
+      "question": "Sous quel pseudonyme, emprunté au jargon des pilotes du Mississippi, Samuel Clemens a-t-il signé ses livres ?",
+      "answer": "Mark Twain",
+      "accept": [
+        "Twain"
+      ],
+      "choices": [
+        "O. Henry",
+        "Artemus Ward",
+        "Bret Harte"
+      ],
+      "explanation": "L'expression signifie « deux brasses », la profondeur minimale pour qu'un bateau à vapeur navigue en sécurité ; Clemens avait été lui-même pilote sur le fleuve.",
+      "wikipedia": "Mark Twain"
+    },
+    {
+      "id": "arts-litterature-231",
+      "difficulty": 1,
+      "question": "Quel romancier américain a écrit Le Vieil Homme et la Mer, l'histoire d'un pêcheur cubain aux prises avec un espadon ?",
+      "answer": "Ernest Hemingway",
+      "accept": [
+        "Hemingway"
+      ],
+      "choices": [
+        "John Steinbeck",
+        "William Faulkner",
+        "Jack London"
+      ],
+      "explanation": "Le court roman lui valut le prix Pulitzer en 1953, un an avant le prix Nobel ; le vieux pêcheur s'appelle Santiago.",
+      "wikipedia": "Le Vieil Homme et la Mer"
+    },
+    {
+      "id": "arts-litterature-232",
+      "difficulty": 3,
+      "question": "Quel adolescent fugueur, héros de L'Attrape-cœurs de J. D. Salinger, erre trois jours dans New York ?",
+      "answer": "Holden Caulfield",
+      "accept": [
+        "Holden"
+      ],
+      "choices": [
+        "Dean Moriarty",
+        "Tom Sawyer",
+        "Nick Carraway"
+      ],
+      "explanation": "Paru en 1951, le roman est devenu un symbole de la révolte adolescente ; son titre vient d'un poème de Robert Burns mal compris par Holden.",
+      "wikipedia": "L'Attrape-cœurs"
+    },
+    {
+      "id": "arts-litterature-233",
+      "difficulty": 2,
+      "question": "Dans quelle ville se déroule, le seul 16 juin 1904, l'Ulysse de James Joyce ?",
+      "answer": "Dublin",
+      "accept": [],
+      "choices": [
+        "Trieste",
+        "Cork",
+        "Belfast"
+      ],
+      "explanation": "Ses admirateurs célèbrent chaque année le Bloomsday, du nom du héros Leopold Bloom ; Joyce écrivit le roman en exil, entre Trieste, Zurich et Paris.",
+      "wikipedia": "Ulysse (roman)"
+    },
+    {
+      "id": "arts-litterature-234",
+      "difficulty": 1,
+      "question": "Quelle héroïne de Tolstoï se jette sous un train après sa liaison avec le comte Vronski ?",
+      "answer": "Anna Karénine",
+      "accept": [
+        "Anna Karenine"
+      ],
+      "choices": [
+        "Natacha Rostova",
+        "Emma Bovary",
+        "Nastassia Philippovna"
+      ],
+      "explanation": "Le roman commence par « Toutes les familles heureuses se ressemblent, mais chaque famille malheureuse l'est à sa façon ».",
+      "wikipedia": "Anna Karénine"
+    },
+    {
+      "id": "arts-litterature-235",
+      "difficulty": 1,
+      "question": "Quel roman de Tolstoï suit les familles Rostov et Bolkonski pendant les guerres napoléoniennes ?",
+      "answer": "Guerre et Paix",
+      "accept": [],
+      "choices": [
+        "Anna Karénine",
+        "Les Démons",
+        "Le Docteur Jivago"
+      ],
+      "explanation": "Le roman, qui compte plusieurs centaines de personnages, contient de longs passages en français, langue de l'aristocratie russe de l'époque.",
+      "wikipedia": "Guerre et Paix"
+    },
+    {
+      "id": "arts-litterature-236",
+      "difficulty": 3,
+      "question": "Quel ultime roman de Dostoïevski contient la célèbre légende du Grand Inquisiteur ?",
+      "answer": "Les Frères Karamazov",
+      "accept": [
+        "Frères Karamazov"
+      ],
+      "choices": [
+        "Les Démons",
+        "L'Idiot",
+        "Les Possédés"
+      ],
+      "explanation": "Ivan raconte cette légende à son frère Aliocha : le Christ, revenu à Séville, est arrêté par l'Inquisition. Dostoïevski mourut quelques mois après la parution.",
+      "wikipedia": "Les Frères Karamazov"
+    },
+    {
+      "id": "arts-litterature-237",
+      "difficulty": 3,
+      "question": "Quel roman de Gogol suit Tchitchikov, qui rachète des serfs décédés encore inscrits sur les registres ?",
+      "answer": "Les Âmes mortes",
+      "accept": [
+        "Âmes mortes",
+        "Les Ames mortes"
+      ],
+      "choices": [
+        "Le Manteau",
+        "Le Revizor",
+        "Oblomov"
+      ],
+      "explanation": "En Russie, « âme » désignait un serf dans les recensements ; Gogol aurait brûlé la suite du roman peu avant de mourir.",
+      "wikipedia": "Les Âmes mortes"
+    },
+    {
+      "id": "arts-litterature-238",
+      "difficulty": 3,
+      "question": "Quel roman en vers d'Alexandre Pouchkine a inspiré à Tchaïkovski un opéra du même nom ?",
+      "answer": "Eugène Onéguine",
+      "accept": [
+        "Onéguine",
+        "Eugene Oneguine"
+      ],
+      "choices": [
+        "Boris Godounov",
+        "La Dame de pique",
+        "Rouslan et Ludmila"
+      ],
+      "explanation": "Tatiana y écrit une lettre d'amour qu'Onéguine repousse ; Pouchkine, comme son héros Lenski, mourut dans un duel.",
+      "wikipedia": "Eugène Onéguine"
+    },
+    {
+      "id": "arts-litterature-239",
+      "difficulty": 3,
+      "question": "Quel romancier soviétique a écrit Le Maître et Marguerite, où le diable sème le chaos dans Moscou ?",
+      "answer": "Mikhaïl Boulgakov",
+      "accept": [
+        "Boulgakov"
+      ],
+      "choices": [
+        "Boris Pasternak",
+        "Vassili Grossman",
+        "Andreï Platonov"
+      ],
+      "explanation": "Le roman, achevé peu avant sa mort en 1940, ne parut en URSS qu'en 1966-1967, sous une forme censurée ; le chat Béhémoth y est célèbre.",
+      "wikipedia": "Le Maître et Marguerite"
+    },
+    {
+      "id": "arts-litterature-240",
+      "difficulty": 2,
+      "question": "Dans quel village imaginaire se déroule Cent ans de solitude de Gabriel García Márquez ?",
+      "answer": "Macondo",
+      "accept": [],
+      "choices": [
+        "Comala",
+        "Santa Teresa",
+        "Yoknapatawpha"
+      ],
+      "explanation": "Le village est fondé par José Arcadio Buendía ; le roman suit sept générations de la famille, et un personnage finit emporté au ciel avec les draps.",
+      "wikipedia": "Cent Ans de solitude"
+    },
+    {
+      "id": "arts-litterature-241",
+      "difficulty": 2,
+      "question": "Quel employé de banque est arrêté un matin sans savoir de quoi on l'accuse, dans Le Procès de Kafka ?",
+      "answer": "Joseph K.",
+      "accept": [
+        "Joseph K",
+        "K."
+      ],
+      "choices": [
+        "Gregor Samsa",
+        "Karl Rossmann",
+        "Josef Švejk"
+      ],
+      "explanation": "Kafka demanda à son ami Max Brod de brûler ses manuscrits ; Brod désobéit et publia Le Procès en 1925, après la mort de l'auteur.",
+      "wikipedia": "Le Procès"
+    },
+    {
+      "id": "arts-litterature-242",
+      "difficulty": 2,
+      "question": "Quel meurtrier au nez prodigieux, lui-même dépourvu d'odeur, est le héros du Parfum de Patrick Süskind ?",
+      "answer": "Jean-Baptiste Grenouille",
+      "accept": [
+        "Grenouille"
+      ],
+      "choices": [
+        "Baldini",
+        "Antoine Richis",
+        "Lucien Chardon"
+      ],
+      "explanation": "Né sur le marché aux poissons de Paris au XVIIIe siècle, il apprend son art à Grasse ; le roman de 1985 est un succès mondial.",
+      "wikipedia": "Le Parfum"
+    },
+    {
+      "id": "arts-litterature-243",
+      "difficulty": 3,
+      "question": "Quel poète japonais du XVIIe siècle, maître du haïku, a écrit La Sente étroite du Bout-du-Monde ?",
+      "answer": "Matsuo Bashō",
+      "accept": [
+        "Bashō",
+        "Basho",
+        "Matsuo Basho"
+      ],
+      "choices": [
+        "Kobayashi Issa",
+        "Yosa Buson",
+        "Masaoka Shiki"
+      ],
+      "explanation": "Son nom de plume vient d'un bananier planté devant sa cabane ; son haïku de la vieille mare où plonge une grenouille est le plus célèbre du Japon.",
+      "wikipedia": "Matsuo Bashō"
+    },
+    {
+      "id": "arts-litterature-244",
+      "difficulty": 3,
+      "question": "Quel savant persan est célèbre pour ses Rubaïyat, des quatrains chantant le vin et la fugacité de la vie ?",
+      "answer": "Omar Khayyam",
+      "accept": [
+        "Khayyam",
+        "Omar Khayyām"
+      ],
+      "choices": [
+        "Hafez",
+        "Rumi",
+        "Ferdowsi"
+      ],
+      "explanation": "Il fut aussi mathématicien et astronome, réformateur du calendrier persan ; ses quatrains furent popularisés en Occident par Edward FitzGerald.",
+      "wikipedia": "Omar Khayyam"
+    },
+    {
+      "id": "arts-litterature-245",
+      "difficulty": 3,
+      "question": "Quelle pièce d'Anton Tchekhov voit une famille aristocrate perdre son domaine et son verger, vendus aux enchères ?",
+      "answer": "La Cerisaie",
+      "accept": [
+        "Cerisaie"
+      ],
+      "choices": [
+        "La Mouette",
+        "Oncle Vania",
+        "Les Trois Sœurs"
+      ],
+      "explanation": "C'est sa dernière pièce, créée en 1904 au Théâtre d'art de Moscou ; elle se termine sur le bruit des haches abattant les arbres.",
+      "wikipedia": "La Cerisaie"
+    },
+    {
+      "id": "arts-litterature-246",
+      "difficulty": 3,
+      "question": "Quelle pièce de George Bernard Shaw, où un phonéticien transforme une fleuriste, a inspiré la comédie musicale My Fair Lady ?",
+      "answer": "Pygmalion",
+      "accept": [],
+      "choices": [
+        "Candida",
+        "Sainte Jeanne",
+        "Major Barbara"
+      ],
+      "explanation": "Le titre renvoie au sculpteur mythique amoureux de sa statue ; Shaw reçut le prix Nobel de littérature en 1925.",
+      "wikipedia": "Pygmalion (Shaw)"
+    },
+    {
+      "id": "arts-litterature-247",
+      "difficulty": 3,
+      "question": "Quelle écrivaine finlandaise a créé les Moumines, gentils trolls blancs à la silhouette d'hippopotame ?",
+      "answer": "Tove Jansson",
+      "accept": [
+        "Jansson"
+      ],
+      "choices": [
+        "Astrid Lindgren",
+        "Selma Lagerlöf",
+        "Elsa Beskow"
+      ],
+      "explanation": "Elle écrivait en suédois, langue de la minorité suédophone de Finlande ; les Moumines sont aussi devenus une bande dessinée publiée dans la presse britannique.",
+      "wikipedia": "Tove Jansson"
+    },
+    {
+      "id": "arts-litterature-248",
+      "difficulty": 1,
+      "question": "Quel animal pressé, consultant sa montre de gousset, entraîne Alice au fond d'un terrier ?",
+      "answer": "Lapin blanc",
+      "accept": [
+        "Le Lapin blanc"
+      ],
+      "choices": [
+        "Lièvre de Mars",
+        "Chat du Cheshire",
+        "Chapelier fou"
+      ],
+      "explanation": "Lewis Carroll improvisa l'histoire en 1862 lors d'une promenade en barque pour les sœurs Liddell, dont la petite Alice.",
+      "wikipedia": "Les Aventures d'Alice au pays des merveilles"
+    },
+    {
+      "id": "arts-litterature-249",
+      "difficulty": 1,
+      "question": "Quel pirate à la main de fer, ennemi juré de Peter Pan, est poursuivi par un crocodile ?",
+      "answer": "Capitaine Crochet",
+      "accept": [
+        "Crochet",
+        "James Crochet"
+      ],
+      "choices": [
+        "Barbe-Noire",
+        "Long John Silver",
+        "Capitaine Flint"
+      ],
+      "explanation": "Le crocodile a avalé un réveil : son tic-tac annonce son approche. Dans la version originale, le capitaine s'appelle Hook.",
+      "wikipedia": "Capitaine Crochet"
+    },
+    {
+      "id": "arts-litterature-250",
+      "difficulty": 1,
+      "question": "Quel enfant élevé par les loups est le héros du Livre de la jungle de Rudyard Kipling ?",
+      "answer": "Mowgli",
+      "accept": [],
+      "choices": [
+        "Kim",
+        "Tarzan",
+        "Bagheera"
+      ],
+      "explanation": "Son nom signifierait « petite grenouille » ; il est protégé par l'ours Baloo et la panthère Bagheera, contre le tigre Shere Khan.",
+      "wikipedia": "Mowgli"
+    },
+    {
+      "id": "arts-litterature-251",
+      "difficulty": 1,
+      "question": "Quelle petite orpheline, héroïne de Johanna Spyri, vit dans les Alpes suisses chez son grand-père ?",
+      "answer": "Heidi",
+      "accept": [],
+      "choices": [
+        "Clara",
+        "Pollyanna",
+        "Rémi"
+      ],
+      "explanation": "Envoyée à Francfort comme dame de compagnie de Clara, en fauteuil roulant, elle dépérit loin des montagnes ; Clara finit par remarcher sur l'alpage.",
+      "wikipedia": "Heidi (roman)"
+    },
+    {
+      "id": "arts-litterature-252",
+      "difficulty": 1,
+      "question": "Quelle fillette aux nattes rousses et d'une force colossale a été inventée par Astrid Lindgren ?",
+      "answer": "Fifi Brindacier",
+      "accept": [
+        "Fifi"
+      ],
+      "choices": [
+        "Heidi",
+        "Mafalda",
+        "Zazie"
+      ],
+      "explanation": "Elle vit seule avec un cheval et un singe, la villa Drôlederepos ; en suédois, elle s'appelle Pippi Långstrump.",
+      "wikipedia": "Fifi Brindacier"
+    },
+    {
+      "id": "arts-litterature-253",
+      "difficulty": 1,
+      "question": "Quel ours gourmand de miel, ami de Porcinet et de Tigrou, a été créé par A. A. Milne ?",
+      "answer": "Winnie l'ourson",
+      "accept": [
+        "Winnie",
+        "Winnie the Pooh"
+      ],
+      "choices": [
+        "Paddington",
+        "Baloo",
+        "Petit Ours brun"
+      ],
+      "explanation": "Milne s'inspira des peluches de son fils, Christopher Robin ; le prénom vient d'une ourse noire canadienne, Winnipeg, pensionnaire du zoo de Londres.",
+      "wikipedia": "Winnie l'ourson"
+    },
+    {
+      "id": "arts-litterature-254",
+      "difficulty": 1,
+      "question": "Quel éléphant devenu roi, vêtu d'un costume vert, a été créé par Jean de Brunhoff ?",
+      "answer": "Babar",
+      "accept": [],
+      "choices": [
+        "Dumbo",
+        "Pachyderme",
+        "Elmer"
+      ],
+      "explanation": "L'histoire fut d'abord inventée par Cécile de Brunhoff, l'épouse de l'auteur, pour endormir leurs enfants ; leur fils Laurent poursuivit la série.",
+      "wikipedia": "Babar"
+    },
+    {
+      "id": "arts-litterature-255",
+      "difficulty": 1,
+      "question": "Quel chocolatier excentrique ouvre les portes de son usine à cinq enfants, dans un roman de Roald Dahl ?",
+      "answer": "Willy Wonka",
+      "accept": [
+        "Wonka"
+      ],
+      "choices": [
+        "Charlie Bucket",
+        "Augustus Gloop",
+        "Mister Twit"
+      ],
+      "explanation": "Les enfants gagnent la visite grâce à des tickets d'or cachés dans les tablettes ; l'usine est tenue par les minuscules Oompa-Loompas.",
+      "wikipedia": "Charlie et la Chocolaterie"
+    },
+    {
+      "id": "arts-litterature-256",
+      "difficulty": 2,
+      "question": "Comment s'appelle le lion qui règne sur le monde de Narnia dans les romans de C. S. Lewis ?",
+      "answer": "Aslan",
+      "accept": [],
+      "choices": [
+        "Caspian",
+        "Tumnus",
+        "Rilian"
+      ],
+      "explanation": "Ami de Tolkien à Oxford, Lewis faisait d'Aslan une figure christique ; le nom signifie « lion » en turc.",
+      "wikipedia": "Le Monde de Narnia"
+    },
+    {
+      "id": "arts-litterature-257",
+      "difficulty": 2,
+      "question": "Quel dragon garde le trésor des nains sous le Mont Solitaire, dans Le Hobbit de Tolkien ?",
+      "answer": "Smaug",
+      "accept": [],
+      "choices": [
+        "Glaurung",
+        "Ancalagon",
+        "Scatha"
+      ],
+      "explanation": "Bilbo découvre qu'il lui manque une écaille sur la poitrine ; c'est l'archer Bard qui l'abat d'une flèche noire lors de son assaut sur la ville du Lac.",
+      "wikipedia": "Smaug"
+    },
+    {
+      "id": "arts-litterature-258",
+      "difficulty": 1,
+      "question": "Comment s'appelle le monde imaginaire où se déroule l'essentiel du Seigneur des anneaux de Tolkien ?",
+      "answer": "Terre du Milieu",
+      "accept": [
+        "Terre du milieu"
+      ],
+      "choices": [
+        "Narnia",
+        "Westeros",
+        "Terremer"
+      ],
+      "explanation": "Le nom traduit l'anglais Middle-earth, lui-même tiré du vieil anglais middangeard qui désignait le monde des hommes ; Tolkien était philologue.",
+      "wikipedia": "Terre du Milieu"
+    },
+    {
+      "id": "arts-litterature-259",
+      "difficulty": 1,
+      "question": "Comment s'appelle l'école de sorcellerie où Harry Potter entre à onze ans ?",
+      "answer": "Poudlard",
+      "accept": [
+        "Hogwarts"
+      ],
+      "choices": [
+        "Beauxbâtons",
+        "Durmstrang",
+        "Ilvermorny"
+      ],
+      "explanation": "Elle compte quatre maisons, Gryffondor, Poufsouffle, Serdaigle et Serpentard, et l'on y accède en train depuis le quai 9 ¾ de la gare de King's Cross.",
+      "wikipedia": "Poudlard"
+    },
+    {
+      "id": "arts-litterature-260",
+      "difficulty": 1,
+      "question": "Quel mage noir de la saga Harry Potter est surnommé « Celui-dont-on-ne-doit-pas-prononcer-le-nom » ?",
+      "answer": "Voldemort",
+      "accept": [
+        "Lord Voldemort",
+        "Tom Jedusor"
+      ],
+      "choices": [
+        "Grindelwald",
+        "Drago Malefoy",
+        "Severus Rogue"
+      ],
+      "explanation": "Son vrai nom, Tom Elvis Jedusor en français, forme l'anagramme « Je suis Voldemort » ; en anglais, Tom Marvolo Riddle donne « I am Lord Voldemort ».",
+      "wikipedia": "Voldemort"
+    },
+    {
+      "id": "arts-litterature-261",
+      "difficulty": 1,
+      "question": "Quel roman de Ray Bradbury met en scène des pompiers chargés de brûler les livres ?",
+      "answer": "Fahrenheit 451",
+      "accept": [],
+      "choices": [
+        "Chroniques martiennes",
+        "Le Meilleur des mondes",
+        "Soleil vert"
+      ],
+      "explanation": "Le titre renvoie à la température à laquelle le papier s'enflammerait ; à la fin, des rebelles apprennent les livres par cœur pour les sauver.",
+      "wikipedia": "Fahrenheit 451"
+    },
+    {
+      "id": "arts-litterature-262",
+      "difficulty": 1,
+      "question": "Dans quel court roman de George Orwell les cochons Napoléon et Boule de Neige prennent-ils le pouvoir après avoir chassé le fermier ?",
+      "answer": "La Ferme des animaux",
+      "accept": [
+        "Ferme des animaux"
+      ],
+      "choices": [
+        "Le Meilleur des mondes",
+        "Watership Down",
+        "Nous autres"
+      ],
+      "explanation": "Cette fable de 1945 vise la révolution russe ; sa devise finale, « tous les animaux sont égaux, mais certains sont plus égaux que d'autres », est devenue proverbiale.",
+      "wikipedia": "La Ferme des animaux"
+    },
+    {
+      "id": "arts-litterature-263",
+      "difficulty": 2,
+      "question": "Sur quelle planète désertique, seule source de l'Épice, se déroule le roman Dune de Frank Herbert ?",
+      "answer": "Arrakis",
+      "accept": [],
+      "choices": [
+        "Caladan",
+        "Giedi Prime",
+        "Tatooine"
+      ],
+      "explanation": "Ses habitants, les Fremen, recueillent l'eau de leur corps dans des distilles ; d'immenses vers des sables y patrouillent le désert.",
+      "wikipedia": "Dune (roman)"
+    },
+    {
+      "id": "arts-litterature-264",
+      "difficulty": 3,
+      "question": "Quel écrivain français a écrit La Planète des singes et Le Pont de la rivière Kwaï ?",
+      "answer": "Pierre Boulle",
+      "accept": [
+        "Boulle"
+      ],
+      "choices": [
+        "René Barjavel",
+        "Jacques Spitz",
+        "Gérard Klein"
+      ],
+      "explanation": "Ancien planteur en Malaisie et prisonnier pendant la guerre, il vit l'adaptation du Pont remporter sept Oscars ; il ne parlait pas anglais.",
+      "wikipedia": "Pierre Boulle"
+    },
+    {
+      "id": "arts-litterature-265",
+      "difficulty": 1,
+      "question": "À quelle adresse de Londres habite Sherlock Holmes, en colocation avec le docteur Watson ?",
+      "answer": "221B Baker Street",
+      "accept": [
+        "Baker Street",
+        "221B"
+      ],
+      "choices": [
+        "10 Downing Street",
+        "32 Windsor Gardens",
+        "7 Savile Row"
+      ],
+      "explanation": "Un musée Sherlock Holmes s'y est installé ; la logeuse du détective, Mrs Hudson, reçut longtemps du courrier de lecteurs persuadés de son existence.",
+      "wikipedia": "Sherlock Holmes"
+    },
+    {
+      "id": "arts-litterature-266",
+      "difficulty": 2,
+      "question": "Quel professeur, surnommé le « Napoléon du crime », est l'ennemi juré de Sherlock Holmes ?",
+      "answer": "Moriarty",
+      "accept": [
+        "James Moriarty",
+        "Professeur Moriarty"
+      ],
+      "choices": [
+        "Moran",
+        "Milverton",
+        "Lestrade"
+      ],
+      "explanation": "Conan Doyle le créa pour se débarrasser de son héros : tous deux tombent dans les chutes du Reichenbach, mais les lecteurs obtinrent le retour de Holmes.",
+      "wikipedia": "Professeur Moriarty"
+    },
+    {
+      "id": "arts-litterature-267",
+      "difficulty": 1,
+      "question": "Quel détective belge d'Agatha Christie fait travailler ses « petites cellules grises » ?",
+      "answer": "Hercule Poirot",
+      "accept": [
+        "Poirot"
+      ],
+      "choices": [
+        "Jules Maigret",
+        "Arsène Lupin",
+        "Joseph Rouletabille"
+      ],
+      "explanation": "Il est le seul personnage de fiction à avoir eu droit à une nécrologie en une du New York Times, à la parution de Hercule Poirot quitte la scène en 1975.",
+      "wikipedia": "Hercule Poirot"
+    },
+    {
+      "id": "arts-litterature-268",
+      "difficulty": 3,
+      "question": "Dans quel village anglais imaginaire vit Miss Marple, l'enquêtrice amateur d'Agatha Christie ?",
+      "answer": "St. Mary Mead",
+      "accept": [
+        "Saint Mary Mead",
+        "St Mary Mead"
+      ],
+      "choices": [
+        "Midsomer",
+        "Little Hangleton",
+        "Chipping Cleghorn"
+      ],
+      "explanation": "Vieille fille observatrice, elle résout les crimes en les comparant à de petites affaires de son village ; elle apparaît dans douze romans.",
+      "wikipedia": "Miss Marple"
+    },
+    {
+      "id": "arts-litterature-269",
+      "difficulty": 1,
+      "question": "Quel commissaire de la police judiciaire, fumeur de pipe, est le héros de plus de soixante-dix romans de Georges Simenon ?",
+      "answer": "Maigret",
+      "accept": [
+        "Jules Maigret",
+        "Commissaire Maigret"
+      ],
+      "choices": [
+        "Juve",
+        "Lecoq",
+        "San-Antonio"
+      ],
+      "explanation": "Il travaille au 36, quai des Orfèvres ; son épouse, Madame Maigret, l'attend boulevard Richard-Lenoir.",
+      "wikipedia": "Commissaire Maigret"
+    },
+    {
+      "id": "arts-litterature-270",
+      "difficulty": 2,
+      "question": "Quel jeune reporter de Gaston Leroux élucide Le Mystère de la chambre jaune ?",
+      "answer": "Rouletabille",
+      "accept": [
+        "Joseph Rouletabille"
+      ],
+      "choices": [
+        "Fandor",
+        "Tintin",
+        "Fantômas"
+      ],
+      "explanation": "Le roman de 1907 est un modèle du crime en chambre close ; Rouletabille doit son surnom à sa tête ronde comme une bille.",
+      "wikipedia": "Le Mystère de la chambre jaune"
+    },
+    {
+      "id": "arts-litterature-271",
+      "difficulty": 2,
+      "question": "Quel personnage défiguré, chez Gaston Leroux, hante les dessous du palais Garnier et s'éprend de Christine Daaé ?",
+      "answer": "Fantôme de l'Opéra",
+      "accept": [
+        "Erik",
+        "Le Fantôme de l'Opéra"
+      ],
+      "choices": [
+        "Quasimodo",
+        "Phantom",
+        "Monsieur Hyde"
+      ],
+      "explanation": "Leroux s'inspira d'un vrai fait divers, la chute d'un contrepoids du lustre de l'opéra en 1896, et du lac souterrain du bâtiment.",
+      "wikipedia": "Le Fantôme de l'Opéra"
+    },
+    {
+      "id": "arts-litterature-272",
+      "difficulty": 1,
+      "question": "Quel justicier masqué de la Californie espagnole signe ses exploits d'un Z tracé à la pointe de l'épée ?",
+      "answer": "Zorro",
+      "accept": [],
+      "choices": [
+        "Le Mouron rouge",
+        "Robin des Bois",
+        "Le Fantôme"
+      ],
+      "explanation": "Créé en 1919 par le journaliste Johnston McCulley, il cache sous sa cape don Diego de la Vega ; son nom signifie « renard » en espagnol.",
+      "wikipedia": "Zorro"
+    },
+    {
+      "id": "arts-litterature-273",
+      "difficulty": 2,
+      "question": "Comment Apollinaire a-t-il nommé ses poèmes dont les vers dessinent une image, comme une colombe ou la tour Eiffel ?",
+      "answer": "calligrammes",
+      "accept": [
+        "calligramme"
+      ],
+      "choices": [
+        "idéogrammes",
+        "acrostiches",
+        "rébus"
+      ],
+      "explanation": "Le mot, tiré de « calligraphie » et « idéogramme », est le titre du recueil de 1918 ; des poèmes figuratifs existaient déjà dans l'Antiquité grecque.",
+      "wikipedia": "Calligramme"
+    },
+    {
+      "id": "arts-litterature-274",
+      "difficulty": 1,
+      "question": "Quel dessinateur a créé Astérix en 1959 avec le scénariste René Goscinny ?",
+      "answer": "Albert Uderzo",
+      "accept": [
+        "Uderzo"
+      ],
+      "choices": [
+        "Morris",
+        "Franquin",
+        "Jean Tabary"
+      ],
+      "explanation": "Né de parents italiens, Uderzo était daltonien ; après la mort de Goscinny en 1977, il poursuivit seul la série.",
+      "wikipedia": "Albert Uderzo"
+    },
+    {
+      "id": "arts-litterature-275",
+      "difficulty": 1,
+      "question": "Quel barde du village d'Astérix finit souvent ligoté et bâillonné pendant le banquet final ?",
+      "answer": "Assurancetourix",
+      "accept": [],
+      "choices": [
+        "Agecanonix",
+        "Cétautomatix",
+        "Ordralfabétix"
+      ],
+      "explanation": "Son nom est un jeu de mots sur l'assurance tous risques ; en anglais il s'appelle Cacofonix. Il chante si mal qu'il en fait pleuvoir.",
+      "wikipedia": "Assurancetourix"
+    },
+    {
+      "id": "arts-litterature-276",
+      "difficulty": 1,
+      "question": "Quel livreur de menhirs est tombé dans la marmite de potion magique quand il était petit ?",
+      "answer": "Obélix",
+      "accept": [
+        "Obelix"
+      ],
+      "choices": [
+        "Abraracourcix",
+        "Idéfix",
+        "Agecanonix"
+      ],
+      "explanation": "Interdit de potion à cause de cet accident, il en garde une force permanente ; il se vexe dès qu'on le traite de gros.",
+      "wikipedia": "Obélix"
+    },
+    {
+      "id": "arts-litterature-277",
+      "difficulty": 1,
+      "question": "Quel grand vizir, créé par Goscinny et Tabary, veut devenir calife à la place du calife ?",
+      "answer": "Iznogoud",
+      "accept": [],
+      "choices": [
+        "Haroun el Poussah",
+        "Dilat Laraht",
+        "Jafar"
+      ],
+      "explanation": "Son nom est un jeu de mots sur l'anglais « he's no good » ; son homme de main dévoué s'appelle Dilat Laraht.",
+      "wikipedia": "Iznogoud"
+    },
+    {
+      "id": "arts-litterature-278",
+      "difficulty": 1,
+      "question": "Comment s'appellent les deux détectives moustachus et maladroits des aventures de Tintin ?",
+      "answer": "Dupond et Dupont",
+      "accept": [
+        "Dupont et Dupond"
+      ],
+      "choices": [
+        "Lampion et Wagner",
+        "Nestor et Séraphin",
+        "Rastapopoulos et Allan"
+      ],
+      "explanation": "Ils se distinguent à la moustache : celle de Dupont est droite, celle de Dupond retroussée ; ils renchérissent par « Je dirais même plus ».",
+      "wikipedia": "Dupond et Dupont"
+    },
+    {
+      "id": "arts-litterature-279",
+      "difficulty": 1,
+      "question": "Quel savant dur d'oreille, ami de Tintin, se promène avec un pendule et a inventé une fusée lunaire ?",
+      "answer": "Tryphon Tournesol",
+      "accept": [
+        "Tournesol",
+        "Professeur Tournesol"
+      ],
+      "choices": [
+        "Hippolyte Calys",
+        "Philémon Siclone",
+        "Paul Cantonneau"
+      ],
+      "explanation": "Hergé s'inspira en partie du physicien suisse Auguste Piccard, qui explora la stratosphère en ballon ; Tournesol apparaît dans Le Trésor de Rackham le Rouge.",
+      "wikipedia": "Professeur Tournesol"
+    },
+    {
+      "id": "arts-litterature-280",
+      "difficulty": 2,
+      "question": "Quel est le vrai nom de Hergé, dont le pseudonyme reprend ses initiales inversées ?",
+      "answer": "Georges Remi",
+      "accept": [
+        "Remi"
+      ],
+      "choices": [
+        "Georges Prosper",
+        "Edgar Jacobs",
+        "Jacques Martin"
+      ],
+      "explanation": "R. G. prononcé à la française donne « Hergé » ; avant Tintin, il avait créé Totor, chef de patrouille des hannetons.",
+      "wikipedia": "Hergé"
+    },
+    {
+      "id": "arts-litterature-281",
+      "difficulty": 2,
+      "question": "Quel est le nom du château du capitaine Haddock, dans les aventures de Tintin ?",
+      "answer": "Moulinsart",
+      "accept": [
+        "château de Moulinsart"
+      ],
+      "choices": [
+        "Cheverny",
+        "Marlinspike",
+        "Fourmilière"
+      ],
+      "explanation": "Le château, inspiré de celui de Cheverny amputé de ses ailes, apparaît dans Le Trésor de Rackham le Rouge ; il appartenait à l'ancêtre du capitaine.",
+      "wikipedia": "Château de Moulinsart"
+    },
+    {
+      "id": "arts-litterature-282",
+      "difficulty": 2,
+      "question": "Quel jeune Chinois Tintin sauve-t-il de la noyade dans Le Lotus bleu ?",
+      "answer": "Tchang",
+      "accept": [
+        "Tchang Tchong-Jen"
+      ],
+      "choices": [
+        "Wang Jen-Ghié",
+        "Mitsuhirato",
+        "Didi"
+      ],
+      "explanation": "Hergé lui donna le nom de Zhang Chongren, étudiant chinois à Bruxelles qui l'aida à se documenter sur la Chine ; ils se revirent en 1981.",
+      "wikipedia": "Zhang Chongren"
+    },
+    {
+      "id": "arts-litterature-283",
+      "difficulty": 1,
+      "question": "Quel garçon de bureau paresseux, créé par Franquin, sème la pagaille à la rédaction du journal Spirou ?",
+      "answer": "Gaston Lagaffe",
+      "accept": [
+        "Gaston"
+      ],
+      "choices": [
+        "Achille Talon",
+        "Fantasio",
+        "Prunelle"
+      ],
+      "explanation": "Il ne porte que des espadrilles et un pull vert trop court ; son chat et sa mouette rieuse sont aussi des héros des gags.",
+      "wikipedia": "Gaston Lagaffe"
+    },
+    {
+      "id": "arts-litterature-284",
+      "difficulty": 1,
+      "question": "Quel animal imaginaire à la queue démesurée, créé par Franquin, pousse le cri « Houba » ?",
+      "answer": "Marsupilami",
+      "accept": [],
+      "choices": [
+        "Spip",
+        "Gaston",
+        "Rantanplan"
+      ],
+      "explanation": "Il apparaît en 1952 dans Spirou et les Héritiers ; il vit dans la jungle de Palombie, un pays imaginaire d'Amérique du Sud.",
+      "wikipedia": "Marsupilami"
+    },
+    {
+      "id": "arts-litterature-285",
+      "difficulty": 1,
+      "question": "Quel groom en uniforme rouge, héros d'un journal belge, a pour compagnon l'écureuil Spip ?",
+      "answer": "Spirou",
+      "accept": [],
+      "choices": [
+        "Fantasio",
+        "Benoît Brisefer",
+        "Tif"
+      ],
+      "explanation": "Créé en 1938 par Rob-Vel, il a été repris par de nombreux auteurs, dont Franquin ; son nom signifie « écureuil » en wallon.",
+      "wikipedia": "Spirou"
+    },
+    {
+      "id": "arts-litterature-286",
+      "difficulty": 1,
+      "question": "Quel dessinateur belge a créé les Schtroumpfs, petits lutins bleus vivant dans des champignons ?",
+      "answer": "Peyo",
+      "accept": [
+        "Pierre Culliford"
+      ],
+      "choices": [
+        "Franquin",
+        "Roba",
+        "Morris"
+      ],
+      "explanation": "Le mot serait né d'un repas où Peyo, cherchant la salière, demanda à Franquin de lui passer le « schtroumpf » ; les lutins parurent en 1958 dans Johan et Pirlouit.",
+      "wikipedia": "Les Schtroumpfs"
+    },
+    {
+      "id": "arts-litterature-287",
+      "difficulty": 1,
+      "question": "Quels quatre frères bandits, rangés du plus petit au plus grand, sont les ennemis de Lucky Luke ?",
+      "answer": "Dalton",
+      "accept": [
+        "frères Dalton",
+        "les Dalton"
+      ],
+      "choices": [
+        "James",
+        "Younger",
+        "Earp"
+      ],
+      "explanation": "Joe est le plus petit et le plus colérique, Averell le plus grand et le plus bête ; ils sont les cousins fictifs de vrais hors-la-loi de l'Ouest.",
+      "wikipedia": "Frères Dalton (Lucky Luke)"
+    },
+    {
+      "id": "arts-litterature-288",
+      "difficulty": 1,
+      "question": "Dans quelle ville se tient chaque année, depuis 1974, le plus grand festival de bande dessinée francophone ?",
+      "answer": "Angoulême",
+      "accept": [
+        "Angouleme"
+      ],
+      "choices": [
+        "Saint-Malo",
+        "Bruxelles",
+        "Blois"
+      ],
+      "explanation": "La ville abrite aussi la Cité internationale de la bande dessinée et de l'image ; le grand prix y récompense chaque année un auteur pour l'ensemble de son œuvre.",
+      "wikipedia": "Festival international de la bande dessinée d'Angoulême"
+    },
+    {
+      "id": "arts-litterature-289",
+      "difficulty": 1,
+      "question": "Quel écolier à la mèche blonde dressée sur la tête a été créé par le dessinateur suisse Zep ?",
+      "answer": "Titeuf",
+      "accept": [],
+      "choices": [
+        "Le Petit Nicolas",
+        "Kid Paddle",
+        "Cédric"
+      ],
+      "explanation": "Il apparaît en 1992 ; son exclamation favorite est « Tchô ! » et il est amoureux de Nadia.",
+      "wikipedia": "Titeuf"
+    },
+    {
+      "id": "arts-litterature-290",
+      "difficulty": 2,
+      "question": "Quel marin aventurier au manteau bleu et à l'anneau d'oreille a été créé par Hugo Pratt ?",
+      "answer": "Corto Maltese",
+      "accept": [
+        "Corto"
+      ],
+      "choices": [
+        "Capitaine Haddock",
+        "Barbe-Rouge",
+        "Long John Silver"
+      ],
+      "explanation": "Il apparaît en 1967 dans La Ballade de la mer salée ; né à La Valette d'une gitane et d'un marin, il se serait gravé lui-même la ligne de chance.",
+      "wikipedia": "Corto Maltese"
+    },
+    {
+      "id": "arts-litterature-291",
+      "difficulty": 3,
+      "question": "Comment s'appelle le colonel, ennemi récurrent de Blake et Mortimer dans la série d'Edgar P. Jacobs ?",
+      "answer": "Olrik",
+      "accept": [
+        "Colonel Olrik"
+      ],
+      "choices": [
+        "Septimus",
+        "Moriarty",
+        "Rastapopoulos"
+      ],
+      "explanation": "Jacobs lui prêta ses propres traits ; dans La Marque jaune, Olrik est manipulé par le docteur Septimus grâce à une onde mystérieuse.",
+      "wikipedia": "Olrik"
+    },
+    {
+      "id": "arts-litterature-292",
+      "difficulty": 2,
+      "question": "Quel lieutenant de cavalerie, héros de western de Charlier et Giraud, a été dessiné d'après les traits de Belmondo ?",
+      "answer": "Blueberry",
+      "accept": [
+        "Mike Blueberry",
+        "Lieutenant Blueberry"
+      ],
+      "choices": [
+        "Comanche",
+        "Jerry Spring",
+        "Buddy Longway"
+      ],
+      "explanation": "Il apparaît en 1963 dans Fort Navajo ; Mike Steve Donovan de son vrai nom, il a pris le nom de Blueberry en fuyant le Sud.",
+      "wikipedia": "Blueberry"
+    },
+    {
+      "id": "arts-litterature-293",
+      "difficulty": 3,
+      "question": "Sous quel pseudonyme Jean Giraud, dessinateur de Blueberry, a-t-il signé ses œuvres de science-fiction ?",
+      "answer": "Mœbius",
+      "accept": [
+        "Moebius"
+      ],
+      "choices": [
+        "Druillet",
+        "Gir",
+        "Bilal"
+      ],
+      "explanation": "Cofondateur du magazine Métal hurlant, il a collaboré à des films comme Alien et Tron ; Gir était l'autre signature qu'il utilisait.",
+      "wikipedia": "Jean Giraud"
+    },
+    {
+      "id": "arts-litterature-294",
+      "difficulty": 2,
+      "question": "Quel roman graphique d'Art Spiegelman, où les Juifs sont des souris et les nazis des chats, a reçu un prix Pulitzer ?",
+      "answer": "Maus",
+      "accept": [],
+      "choices": [
+        "Persepolis",
+        "Watchmen",
+        "L'Arabe du futur"
+      ],
+      "explanation": "Spiegelman y raconte la déportation de son père à Auschwitz ; c'est la première bande dessinée à avoir reçu ce prix, en 1992.",
+      "wikipedia": "Maus"
+    },
+    {
+      "id": "arts-litterature-295",
+      "difficulty": 1,
+      "question": "Quel lycéen new-yorkais, mordu par une araignée radioactive, devient l'Homme-Araignée ?",
+      "answer": "Peter Parker",
+      "accept": [
+        "Parker"
+      ],
+      "choices": [
+        "Clark Kent",
+        "Bruce Banner",
+        "Tony Stark"
+      ],
+      "explanation": "Créé par Stan Lee et Steve Ditko en 1962, il devient photographe de presse ; sa devise vient de son oncle Ben : un grand pouvoir implique de grandes responsabilités.",
+      "wikipedia": "Spider-Man"
+    },
+    {
+      "id": "arts-litterature-296",
+      "difficulty": 2,
+      "question": "Quel jeune pirate au chapeau de paille, au corps élastique, est le héros du manga One Piece ?",
+      "answer": "Monkey D. Luffy",
+      "accept": [
+        "Luffy"
+      ],
+      "choices": [
+        "Roronoa Zoro",
+        "Portgas D. Ace",
+        "Naruto Uzumaki"
+      ],
+      "explanation": "Son corps de caoutchouc lui vient d'un fruit du démon avalé enfant ; il rêve de devenir le roi des pirates.",
+      "wikipedia": "Monkey D. Luffy"
+    },
+    {
+      "id": "arts-litterature-297",
+      "difficulty": 1,
+      "question": "Quel chat roux, paresseux et amateur de lasagnes, a été créé par l'Américain Jim Davis ?",
+      "answer": "Garfield",
+      "accept": [],
+      "choices": [
+        "Tom",
+        "Félix",
+        "Grosminet"
+      ],
+      "explanation": "Le comic strip paraît depuis 1978 ; le chat déteste les lundis et tourmente le chien Odie et son maître Jon Arbuckle.",
+      "wikipedia": "Garfield (bande dessinée)"
+    },
+    {
+      "id": "arts-litterature-298",
+      "difficulty": 1,
+      "question": "Quel beagle de la bande dessinée Peanuts dort sur le toit de sa niche ?",
+      "answer": "Snoopy",
+      "accept": [],
+      "choices": [
+        "Odie",
+        "Pluto",
+        "Idéfix"
+      ],
+      "explanation": "Il appartient à Charlie Brown et s'imagine souvent en pilote de la Première Guerre mondiale affrontant le Baron rouge.",
+      "wikipedia": "Snoopy"
+    },
+    {
+      "id": "arts-litterature-299",
+      "difficulty": 2,
+      "question": "Quel tigre en peluche, bien vivant aux yeux du petit Calvin, est son meilleur ami dans la série de Bill Watterson ?",
+      "answer": "Hobbes",
+      "accept": [],
+      "choices": [
+        "Tigrou",
+        "Shere Khan",
+        "Garfield"
+      ],
+      "explanation": "Les deux personnages portent les noms du théologien Jean Calvin et du philosophe Thomas Hobbes ; Watterson a toujours refusé tout produit dérivé.",
+      "wikipedia": "Calvin et Hobbes"
+    },
+    {
+      "id": "arts-litterature-300",
+      "difficulty": 2,
+      "question": "Quelle fillette argentine, inquiète pour la paix du monde et détestant la soupe, a été créée par Quino ?",
+      "answer": "Mafalda",
+      "accept": [],
+      "choices": [
+        "Susanita",
+        "Libertad",
+        "Zazie"
+      ],
+      "explanation": "Le personnage fut d'abord conçu pour une publicité d'électroménager restée sans suite ; Quino cessa la série en 1973.",
+      "wikipedia": "Mafalda"
+    }
+  ]
+}
