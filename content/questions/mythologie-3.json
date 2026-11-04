@@ -1,0 +1,1643 @@
+{
+  "category": "mythologie",
+  "questions": [
+    {
+      "id": "mythologie-151",
+      "difficulty": 1,
+      "question": "Quel prophète, cousin de Jésus, le baptisa dans les eaux du Jourdain ?",
+      "answer": "Jean le Baptiste",
+      "accept": [
+        "Jean-Baptiste",
+        "saint Jean-Baptiste",
+        "Jean Baptiste"
+      ],
+      "choices": [
+        "Élie",
+        "Zacharie",
+        "Isaïe"
+      ],
+      "explanation": "Ascète vivant au désert, il se nourrissait de « sauterelles et de miel sauvage » ; Hérode Antipas, qu'il avait admonesté, le fit emprisonner puis décapiter.",
+      "wikipedia": "Jean le Baptiste"
+    },
+    {
+      "id": "mythologie-152",
+      "difficulty": 1,
+      "question": "Quel apôtre renia Jésus trois fois avant que le coq ne chante ?",
+      "answer": "Pierre",
+      "accept": [
+        "Simon-Pierre",
+        "saint Pierre",
+        "Simon"
+      ],
+      "choices": [
+        "Jean",
+        "André",
+        "Jacques"
+      ],
+      "explanation": "Pêcheur du lac de Tibériade, il est considéré par l'Église catholique comme le premier évêque de Rome, donc le premier pape ; la basilique Saint-Pierre s'élèverait sur son tombeau.",
+      "wikipedia": "Pierre (apôtre)"
+    },
+    {
+      "id": "mythologie-153",
+      "difficulty": 1,
+      "question": "Quel apôtre refusa de croire à la résurrection tant qu'il n'aurait pas touché les plaies du Christ ?",
+      "answer": "Thomas",
+      "accept": [
+        "saint Thomas"
+      ],
+      "choices": [
+        "Barthélemy",
+        "Philippe",
+        "Matthieu"
+      ],
+      "explanation": "Surnommé Didyme, « le jumeau », il aurait selon la tradition évangélisé l'Inde et serait mort à Méliapour, près de Madras, où une basilique lui est consacrée.",
+      "wikipedia": "Thomas (apôtre)"
+    },
+    {
+      "id": "mythologie-154",
+      "difficulty": 1,
+      "question": "Quel jeune berger abattit le géant philistin Goliath d'une pierre lancée avec sa fronde ?",
+      "answer": "David",
+      "accept": [
+        "roi David"
+      ],
+      "choices": [
+        "Saül",
+        "Samson",
+        "Josué"
+      ],
+      "explanation": "Devenu roi d'Israël, il fit de Jérusalem sa capitale ; la tradition lui attribue une grande partie des Psaumes, et son fils Salomon lui succéda.",
+      "wikipedia": "David (roi d'Israël)"
+    },
+    {
+      "id": "mythologie-155",
+      "difficulty": 1,
+      "question": "Quel héros biblique tirait sa force prodigieuse de sa chevelure, avant d'être trahi par Dalila ?",
+      "answer": "Samson",
+      "accept": [],
+      "choices": [
+        "Gédéon",
+        "Goliath",
+        "Absalom"
+      ],
+      "explanation": "Aveuglé et enchaîné par les Philistins, il retrouva sa force quand ses cheveux repoussèrent et fit s'écrouler le temple de Dagon sur ses ennemis et sur lui-même.",
+      "wikipedia": "Samson"
+    },
+    {
+      "id": "mythologie-156",
+      "difficulty": 1,
+      "question": "Selon la Genèse, quelle construction inachevée explique la confusion des langues entre les hommes ?",
+      "answer": "Tour de Babel",
+      "accept": [
+        "Babel"
+      ],
+      "choices": [
+        "Arche de Noé",
+        "Temple de Salomon",
+        "Murailles de Jéricho"
+      ],
+      "explanation": "Les hommes voulaient bâtir une tour dont le sommet toucherait le ciel ; le récit aurait pu être inspiré par l'Etemenanki, ziggurat de Babylone dédiée au dieu Mardouk.",
+      "wikipedia": "Tour de Babel"
+    },
+    {
+      "id": "mythologie-157",
+      "difficulty": 1,
+      "question": "Quel ami de Jésus, mort depuis quatre jours, fut ramené à la vie à Béthanie ?",
+      "answer": "Lazare",
+      "accept": [
+        "Lazare de Béthanie"
+      ],
+      "choices": [
+        "Nicodème",
+        "Zachée",
+        "Bartimée"
+      ],
+      "explanation": "Frère de Marthe et de Marie, il est à l'origine du mot « lazaret » ; une tradition provençale le fait débarquer en Gaule et devenir évêque de Marseille.",
+      "wikipedia": "Lazare de Béthanie"
+    },
+    {
+      "id": "mythologie-158",
+      "difficulty": 1,
+      "question": "Sur la route de quelle ville Saul de Tarse fut-il terrassé par une vision et se convertit-il ?",
+      "answer": "Damas",
+      "accept": [],
+      "choices": [
+        "Antioche",
+        "Jérusalem",
+        "Corinthe"
+      ],
+      "explanation": "Devenu l'apôtre Paul, ce juif persécuteur des chrétiens fit de grands voyages missionnaires et écrivit des épîtres qui forment une part importante du Nouveau Testament.",
+      "wikipedia": "Paul de Tarse"
+    },
+    {
+      "id": "mythologie-159",
+      "difficulty": 1,
+      "question": "Quelle fête chrétienne célèbre la descente du Saint-Esprit sur les apôtres, cinquante jours après Pâques ?",
+      "answer": "Pentecôte",
+      "accept": [],
+      "choices": [
+        "Ascension",
+        "Épiphanie",
+        "Assomption"
+      ],
+      "explanation": "Son nom vient du grec pentêkostê, « cinquantième » ; selon les Actes des Apôtres, l'Esprit apparut sous forme de langues de feu et les apôtres se mirent à parler en diverses langues.",
+      "wikipedia": "Pentecôte"
+    },
+    {
+      "id": "mythologie-160",
+      "difficulty": 1,
+      "question": "Quelle fête chrétienne du 6 janvier commémore la visite des mages venus adorer l'Enfant Jésus ?",
+      "answer": "Épiphanie",
+      "accept": [
+        "Epiphanie",
+        "fête des Rois",
+        "jour des Rois"
+      ],
+      "choices": [
+        "Chandeleur",
+        "Annonciation",
+        "Présentation"
+      ],
+      "explanation": "Le mot vient du grec, « manifestation » : la fête célèbre la manifestation de Dieu au monde. En France, elle est souvent fêtée le premier dimanche de janvier.",
+      "wikipedia": "Épiphanie"
+    },
+    {
+      "id": "mythologie-161",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la période de quarante jours de jeûne et de pénitence qui précède Pâques ?",
+      "answer": "Carême",
+      "accept": [
+        "Careme"
+      ],
+      "choices": [
+        "Avent",
+        "Octave",
+        "Vigile"
+      ],
+      "explanation": "Le mot dérive du latin quadragesima, « quarantième » ; la période commence le mercredi des Cendres et rappelle les quarante jours passés par Jésus au désert.",
+      "wikipedia": "Carême"
+    },
+    {
+      "id": "mythologie-162",
+      "difficulty": 1,
+      "question": "Quel dimanche, une semaine avant Pâques, commémore l'entrée de Jésus à Jérusalem acclamé avec des palmes ?",
+      "answer": "Rameaux",
+      "accept": [
+        "dimanche des Rameaux"
+      ],
+      "choices": [
+        "Quasimodo",
+        "Laetare",
+        "Trinité"
+      ],
+      "explanation": "Il ouvre la Semaine sainte ; en France, faute de palmiers, les fidèles font généralement bénir des branches de buis qu'ils rapportent ensuite chez eux.",
+      "wikipedia": "Dimanche des Rameaux"
+    },
+    {
+      "id": "mythologie-163",
+      "difficulty": 1,
+      "question": "Quelle fête catholique du 15 août célèbre l'élévation de la Vierge Marie au ciel ?",
+      "answer": "Assomption",
+      "accept": [],
+      "choices": [
+        "Ascension",
+        "Annonciation",
+        "Visitation"
+      ],
+      "explanation": "Croyance très ancienne, elle n'a été proclamée dogme par le pape Pie XII qu'en 1950 ; en France, le 15 août est un jour férié depuis le vœu de Louis XIII.",
+      "wikipedia": "Assomption"
+    },
+    {
+      "id": "mythologie-164",
+      "difficulty": 1,
+      "question": "Quel saint patron de l'Irlande aurait utilisé le trèfle pour expliquer la Trinité ?",
+      "answer": "Patrick",
+      "accept": [
+        "saint Patrick",
+        "Patrice"
+      ],
+      "choices": [
+        "Colomban",
+        "Brendan",
+        "Kevin"
+      ],
+      "explanation": "Né en Bretagne insulaire, il fut enlevé par des pirates et réduit en esclavage en Irlande avant d'y revenir comme missionnaire ; sa fête, le 17 mars, est célébrée dans le monde entier.",
+      "wikipedia": "Patrick d'Irlande"
+    },
+    {
+      "id": "mythologie-165",
+      "difficulty": 1,
+      "question": "Quel saint chevalier, patron de l'Angleterre, est représenté terrassant un dragon ?",
+      "answer": "Georges",
+      "accept": [
+        "saint Georges",
+        "Georges de Lydda"
+      ],
+      "choices": [
+        "Michel",
+        "Sébastien",
+        "Maurice"
+      ],
+      "explanation": "Soldat martyr de l'Antiquité, il est aussi le saint patron de la Géorgie, de la Catalogne, de l'Éthiopie et du scoutisme.",
+      "wikipedia": "Georges de Lydda"
+    },
+    {
+      "id": "mythologie-166",
+      "difficulty": 1,
+      "question": "Quel saint italien, fondateur d'un ordre mendiant, aurait prêché aux oiseaux et apprivoisé un loup ?",
+      "answer": "François d'Assise",
+      "accept": [
+        "saint François d'Assise",
+        "François"
+      ],
+      "choices": [
+        "Dominique de Guzmán",
+        "Antoine de Padoue",
+        "Benoît de Nursie"
+      ],
+      "explanation": "Fils d'un riche drapier, il renonça à tous ses biens ; son Cantique des créatures est l'un des premiers textes de la littérature italienne, et il est le patron de l'écologie.",
+      "wikipedia": "François d'Assise"
+    },
+    {
+      "id": "mythologie-167",
+      "difficulty": 1,
+      "question": "Dans quelle ville des Pyrénées Bernadette Soubirous affirma-t-elle avoir vu la Vierge Marie en 1858 ?",
+      "answer": "Lourdes",
+      "accept": [],
+      "choices": [
+        "Lisieux",
+        "Rocamadour",
+        "Paray-le-Monial"
+      ],
+      "explanation": "Les apparitions eurent lieu dans la grotte de Massabielle ; la ville est devenue l'un des plus grands lieux de pèlerinage catholiques, connu pour ses malades venant chercher la guérison.",
+      "wikipedia": "Lourdes"
+    },
+    {
+      "id": "mythologie-168",
+      "difficulty": 1,
+      "question": "Dans quelle chapelle du Vatican, dont Michel-Ange a peint le plafond, les cardinaux élisent-ils le pape ?",
+      "answer": "Sixtine",
+      "accept": [
+        "chapelle Sixtine"
+      ],
+      "choices": [
+        "Pauline",
+        "Niccoline",
+        "Scrovegni"
+      ],
+      "explanation": "Elle doit son nom au pape Sixte IV qui la fit construire ; Michel-Ange y peignit aussi le Jugement dernier, sur le mur de l'autel.",
+      "wikipedia": "Chapelle Sixtine"
+    },
+    {
+      "id": "mythologie-169",
+      "difficulty": 1,
+      "question": "Quelle troupe aux uniformes rayés jaune, bleu et rouge assure la protection du pape depuis 1506 ?",
+      "answer": "Garde suisse",
+      "accept": [
+        "Garde suisse pontificale",
+        "gardes suisses"
+      ],
+      "choices": [
+        "Garde noble",
+        "Garde palatine",
+        "Gendarmerie vaticane"
+      ],
+      "explanation": "Ses recrues doivent être catholiques, célibataires et de nationalité suisse ; elle prête serment chaque 6 mai, en souvenir du sac de Rome de 1527.",
+      "wikipedia": "Garde suisse pontificale"
+    },
+    {
+      "id": "mythologie-170",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les images saintes peintes sur bois, vénérées dans les Églises orthodoxes ?",
+      "answer": "Icônes",
+      "accept": [
+        "icône"
+      ],
+      "choices": [
+        "Fresques",
+        "Enluminures",
+        "Retables"
+      ],
+      "explanation": "Le mot vient du grec eikôn, « image » ; réalisée selon des règles très codifiées, l'icône est enfin protégée par une préparation à base d'huile de lin, l'olifa.",
+      "wikipedia": "Icône"
+    },
+    {
+      "id": "mythologie-171",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les cinq premiers livres de la Bible hébraïque, attribués à Moïse ?",
+      "answer": "Torah",
+      "accept": [
+        "Tora",
+        "Pentateuque",
+        "Thora"
+      ],
+      "choices": [
+        "Talmud",
+        "Mishna",
+        "Zohar"
+      ],
+      "explanation": "Elle comprend la Genèse, l'Exode, le Lévitique, les Nombres et le Deutéronome ; dans les synagogues, elle est lue sur un rouleau de parchemin copié à la main.",
+      "wikipedia": "Torah"
+    },
+    {
+      "id": "mythologie-172",
+      "difficulty": 1,
+      "question": "Quel jour de repos hebdomadaire du judaïsme commence le vendredi au coucher du soleil ?",
+      "answer": "Shabbat",
+      "accept": [
+        "sabbat",
+        "chabbat"
+      ],
+      "choices": [
+        "Pourim",
+        "Soukkot",
+        "Tichri"
+      ],
+      "explanation": "Il commémore le septième jour où Dieu se reposa après la Création ; il s'achève le samedi à la tombée de la nuit par la havdala, la prière de « séparation ».",
+      "wikipedia": "Shabbat"
+    },
+    {
+      "id": "mythologie-173",
+      "difficulty": 1,
+      "question": "Quelle fête juive, jour du Grand Pardon, est consacrée à un jeûne complet de vingt-cinq heures ?",
+      "answer": "Yom Kippour",
+      "accept": [
+        "Kippour",
+        "Yom Kippur"
+      ],
+      "choices": [
+        "Roch Hachana",
+        "Soukkot",
+        "Chavouot"
+      ],
+      "explanation": "C'est le jour le plus saint du calendrier juif ; il clôt les dix « jours redoutables » ouverts par Roch Hachana, le Nouvel An.",
+      "wikipedia": "Yom Kippour"
+    },
+    {
+      "id": "mythologie-174",
+      "difficulty": 1,
+      "question": "Quelle cérémonie marque la majorité religieuse d'un garçon juif à l'âge de treize ans ?",
+      "answer": "Bar-mitsva",
+      "accept": [
+        "bar mitzvah",
+        "bar mitsva",
+        "bar-mitzvah"
+      ],
+      "choices": [
+        "Brit milah",
+        "Kiddouch",
+        "Havdala"
+      ],
+      "explanation": "Le terme signifie « fils du commandement » ; le jeune homme lit pour la première fois publiquement un passage de la Torah. Pour les filles, la bat-mitsva a lieu à douze ans.",
+      "wikipedia": "Bar-mitsvah"
+    },
+    {
+      "id": "mythologie-175",
+      "difficulty": 1,
+      "question": "Quel vestige du Second Temple d'Hérode est le lieu de prière le plus sacré du judaïsme à Jérusalem ?",
+      "answer": "Mur des Lamentations",
+      "accept": [
+        "mur occidental",
+        "Kotel"
+      ],
+      "choices": [
+        "Tour de David",
+        "Porte dorée",
+        "Tombeau de Rachel"
+      ],
+      "explanation": "Les fidèles glissent de petits papiers portant des prières entre ses pierres ; il s'agit en réalité d'une partie du mur de soutènement de l'esplanade du Temple.",
+      "wikipedia": "Mur des Lamentations"
+    },
+    {
+      "id": "mythologie-176",
+      "difficulty": 1,
+      "question": "Durant quel mois du calendrier musulman les fidèles jeûnent-ils du lever au coucher du soleil ?",
+      "answer": "Ramadan",
+      "accept": [
+        "ramadhan"
+      ],
+      "choices": [
+        "Chawwal",
+        "Mouharram",
+        "Rajab"
+      ],
+      "explanation": "Le calendrier hégirien étant lunaire, ce mois avance d'une dizaine de jours chaque année par rapport au calendrier grégorien ; sa fin est marquée par l'Aïd el-Fitr.",
+      "wikipedia": "Ramadan"
+    },
+    {
+      "id": "mythologie-177",
+      "difficulty": 1,
+      "question": "Quel édifice cubique, au centre de la Grande Mosquée de La Mecque, est le lieu le plus saint de l'islam ?",
+      "answer": "Kaaba",
+      "accept": [
+        "Kaʿba",
+        "Ka'ba",
+        "Caaba"
+      ],
+      "choices": [
+        "Mihrab",
+        "Minbar",
+        "Qibla"
+      ],
+      "explanation": "Recouverte d'un voile noir brodé d'or, la kiswa, elle renferme dans un de ses angles la Pierre noire ; les pèlerins en font sept fois le tour.",
+      "wikipedia": "Kaaba"
+    },
+    {
+      "id": "mythologie-178",
+      "difficulty": 1,
+      "question": "Vers quelle ville Mahomet émigra-t-il en 622, événement qui marque le début du calendrier musulman ?",
+      "answer": "Médine",
+      "accept": [
+        "Medine",
+        "Yathrib"
+      ],
+      "choices": [
+        "Damas",
+        "Jérusalem",
+        "Taïf"
+      ],
+      "explanation": "Cette migration, l'Hégire, a donné son nom au calendrier ; la ville, alors appelée Yathrib, devint « la ville du Prophète », qui y est enterré.",
+      "wikipedia": "Médine"
+    },
+    {
+      "id": "mythologie-179",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'homme chargé de lancer l'appel à la prière du haut d'un minaret ?",
+      "answer": "Muezzin",
+      "accept": [
+        "muezzine",
+        "mouezzin"
+      ],
+      "choices": [
+        "Imam",
+        "Mufti",
+        "Cadi"
+      ],
+      "explanation": "L'appel, nommé adhan, retentit cinq fois par jour ; selon la tradition, le premier muezzin fut Bilal, un ancien esclave affranchi, compagnon de Mahomet.",
+      "wikipedia": "Muezzin"
+    },
+    {
+      "id": "mythologie-180",
+      "difficulty": 1,
+      "question": "Quelle fête hindoue du printemps se célèbre en se lançant des poudres et de l'eau colorées ?",
+      "answer": "Holi",
+      "accept": [],
+      "choices": [
+        "Navratri",
+        "Pongal",
+        "Onam"
+      ],
+      "explanation": "Elle se tient à la pleine lune du mois de phalguna ; la veille, on allume des bûchers rappelant la légende de la démone Holika, brûlée à la place du jeune Prahlad.",
+      "wikipedia": "Holi"
+    },
+    {
+      "id": "mythologie-181",
+      "difficulty": 1,
+      "question": "Quel mot sanskrit désigne la loi selon laquelle les actes d'un être déterminent ses existences futures ?",
+      "answer": "Karma",
+      "accept": [],
+      "choices": [
+        "Dharma",
+        "Mantra",
+        "Moksha"
+      ],
+      "explanation": "Le mot signifie littéralement « action » ; ce principe est commun à l'hindouisme, au bouddhisme, au jaïnisme et au sikhisme, avec des interprétations différentes.",
+      "wikipedia": "Karma"
+    },
+    {
+      "id": "mythologie-182",
+      "difficulty": 1,
+      "question": "Quel titre porte le chef spirituel du bouddhisme tibétain, considéré comme la réincarnation de ses prédécesseurs ?",
+      "answer": "Dalaï-lama",
+      "accept": [
+        "dalaï lama",
+        "dalai lama"
+      ],
+      "choices": [
+        "Panchen-lama",
+        "Rinpoché",
+        "Karmapa"
+      ],
+      "explanation": "Le mot dalaï signifie « océan » en mongol : le titre fut conféré au XVIe siècle par un khan mongol. Chaque successeur est recherché parmi les enfants nés après la mort du précédent.",
+      "wikipedia": "Dalaï-lama"
+    },
+    {
+      "id": "mythologie-183",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on, dans le bouddhisme, l'extinction de la souffrance qui libère du cycle des renaissances ?",
+      "answer": "Nirvana",
+      "accept": [
+        "nirvāṇa",
+        "nibbana"
+      ],
+      "choices": [
+        "Samadhi",
+        "Satori",
+        "Dharma"
+      ],
+      "explanation": "Le mot sanskrit évoque l'extinction d'une flamme qu'on souffle ; il désigne l'état atteint par le Bouddha lors de son Éveil.",
+      "wikipedia": "Nirvana (monde indien)"
+    },
+    {
+      "id": "mythologie-184",
+      "difficulty": 1,
+      "question": "Quelle école du bouddhisme japonais, issue du chan chinois, privilégie la méditation assise et dépouillée ?",
+      "answer": "Zen",
+      "accept": [],
+      "choices": [
+        "Tendai",
+        "Shingon",
+        "Jōdo"
+      ],
+      "explanation": "Le mot vient du sanskrit dhyana, « méditation », passé par le chinois chan ; ses maîtres utilisent les kōans, énigmes destinées à dépasser la pensée logique.",
+      "wikipedia": "Zen"
+    },
+    {
+      "id": "mythologie-185",
+      "difficulty": 1,
+      "question": "Quelle religion traditionnelle du Japon rend un culte aux kami, divinités présentes dans la nature ?",
+      "answer": "Shintoïsme",
+      "accept": [
+        "shinto",
+        "shintō",
+        "shintoisme"
+      ],
+      "choices": [
+        "Taoïsme",
+        "Confucianisme",
+        "Bouddhisme"
+      ],
+      "explanation": "Son nom signifie « la voie des dieux » ; il ne possède ni fondateur ni texte sacré unique, et coexiste au Japon avec le bouddhisme depuis des siècles.",
+      "wikipedia": "Shintoïsme"
+    },
+    {
+      "id": "mythologie-186",
+      "difficulty": 1,
+      "question": "Quelle idole les Hébreux adorèrent-ils au pied du Sinaï pendant l'absence de Moïse ?",
+      "answer": "Veau d'or",
+      "accept": [],
+      "choices": [
+        "Serpent d'airain",
+        "Baal",
+        "Dagon"
+      ],
+      "explanation": "Aaron, frère aîné de Moïse, le fondit avec les boucles d'oreilles en or des femmes et des enfants, peut-être à l'image du taureau sacré Apis vénéré en Égypte.",
+      "wikipedia": "Veau d'or"
+    },
+    {
+      "id": "mythologie-187",
+      "difficulty": 1,
+      "question": "Quelle ville vit ses murailles s'effondrer au son des trompettes des Hébreux conduits par Josué ?",
+      "answer": "Jéricho",
+      "accept": [
+        "Jericho"
+      ],
+      "choices": [
+        "Hébron",
+        "Gaza",
+        "Sichem"
+      ],
+      "explanation": "Les Hébreux en firent le tour pendant sept jours en portant l'Arche d'alliance ; située près du Jourdain, Jéricho est l'une des plus anciennes villes habitées du monde.",
+      "wikipedia": "Jéricho"
+    },
+    {
+      "id": "mythologie-188",
+      "difficulty": 1,
+      "question": "Quel roi biblique proposa de couper un enfant en deux pour démasquer la véritable mère ?",
+      "answer": "Salomon",
+      "accept": [
+        "roi Salomon"
+      ],
+      "choices": [
+        "David",
+        "Saül",
+        "Ézéchias"
+      ],
+      "explanation": "Ce « jugement de Salomon » illustre la sagesse proverbiale du fils de David, à qui la Bible attribue aussi la construction du premier Temple de Jérusalem.",
+      "wikipedia": "Salomon (roi d'Israël)"
+    },
+    {
+      "id": "mythologie-189",
+      "difficulty": 1,
+      "question": "Dans quelle ville de Galilée Jésus passa-t-il son enfance et sa jeunesse ?",
+      "answer": "Nazareth",
+      "accept": [
+        "Nazaret"
+      ],
+      "choices": [
+        "Capharnaüm",
+        "Bethléem",
+        "Tibériade"
+      ],
+      "explanation": "C'est là que l'ange Gabriel aurait annoncé à Marie qu'elle enfanterait ; la basilique de l'Annonciation, la plus grande église du Moyen-Orient, commémore cet épisode.",
+      "wikipedia": "Nazareth"
+    },
+    {
+      "id": "mythologie-190",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le dernier repas que Jésus partagea avec ses apôtres avant son arrestation ?",
+      "answer": "Cène",
+      "accept": [
+        "Cene",
+        "dernier repas",
+        "Sainte Cène"
+      ],
+      "choices": [
+        "Agape",
+        "Pâque",
+        "Collation"
+      ],
+      "explanation": "Le mot vient du latin cena, « repas du soir » ; Léonard de Vinci l'a peinte sur un mur du réfectoire de Santa Maria delle Grazie à Milan.",
+      "wikipedia": "Cène"
+    },
+    {
+      "id": "mythologie-191",
+      "difficulty": 2,
+      "question": "Quel patriarche, après avoir lutté toute une nuit avec un ange, reçut le nom d'Israël ?",
+      "answer": "Jacob",
+      "accept": [],
+      "choices": [
+        "Abraham",
+        "Isaac",
+        "Joseph"
+      ],
+      "explanation": "Ses douze fils sont les ancêtres des douze tribus d'Israël ; la Bible lui attribue aussi le songe d'une échelle reliant la terre au ciel, parcourue par des anges.",
+      "wikipedia": "Jacob"
+    },
+    {
+      "id": "mythologie-192",
+      "difficulty": 2,
+      "question": "En quoi la femme de Loth fut-elle changée pour s'être retournée vers Sodome en flammes ?",
+      "answer": "Statue de sel",
+      "accept": [
+        "sel",
+        "colonne de sel"
+      ],
+      "choices": [
+        "Statue de pierre",
+        "Colonne de cendres",
+        "Statue de bronze"
+      ],
+      "explanation": "Les anges avaient interdit à la famille de regarder en arrière pendant la destruction de Sodome et Gomorrhe ; Loth correspond au personnage de Lût dans le Coran.",
+      "wikipedia": "Loth"
+    },
+    {
+      "id": "mythologie-193",
+      "difficulty": 2,
+      "question": "Quelle princesse, après avoir dansé devant Hérode Antipas, réclama la tête de Jean le Baptiste ?",
+      "answer": "Salomé",
+      "accept": [
+        "Salome"
+      ],
+      "choices": [
+        "Hérodiade",
+        "Bérénice",
+        "Jézabel"
+      ],
+      "explanation": "Les Évangiles ne la nomment pas : son nom vient de l'historien Flavius Josèphe. Elle a inspiré une pièce d'Oscar Wilde et l'opéra de Richard Strauss avec sa « danse des sept voiles ».",
+      "wikipedia": "Salomé (fille d'Hérodiade)"
+    },
+    {
+      "id": "mythologie-194",
+      "difficulty": 2,
+      "question": "Selon les Évangiles, quelle disciple fut la première témoin de la résurrection de Jésus ?",
+      "answer": "Marie-Madeleine",
+      "accept": [
+        "Marie de Magdala",
+        "Madeleine",
+        "Marie Madeleine"
+      ],
+      "choices": [
+        "Marthe",
+        "Véronique",
+        "Salomé"
+      ],
+      "explanation": "Une tradition provençale la fait finir ses jours dans la grotte de la Sainte-Baume ; ses reliques présumées sont vénérées à Saint-Maximin-la-Sainte-Baume.",
+      "wikipedia": "Marie Madeleine"
+    },
+    {
+      "id": "mythologie-195",
+      "difficulty": 2,
+      "question": "Dans quel village de Galilée Jésus aurait-il changé l'eau en vin lors d'un mariage ?",
+      "answer": "Cana",
+      "accept": [],
+      "choices": [
+        "Emmaüs",
+        "Naïn",
+        "Béthanie"
+      ],
+      "explanation": "Selon l'Évangile de Jean, c'est le premier miracle de Jésus, accompli à la demande de sa mère ; Véronèse en a tiré un immense tableau conservé au Louvre.",
+      "wikipedia": "Noces de Cana"
+    },
+    {
+      "id": "mythologie-196",
+      "difficulty": 2,
+      "question": "Quel évangéliste est traditionnellement symbolisé par un lion, animal devenu l'emblème de Venise ?",
+      "answer": "Marc",
+      "accept": [
+        "saint Marc"
+      ],
+      "choices": [
+        "Luc",
+        "Matthieu",
+        "Jean"
+      ],
+      "explanation": "Ses reliques, rapportées d'Alexandrie au IXe siècle par des marchands vénitiens, reposent dans la basilique Saint-Marc. Luc est figuré par un taureau, Matthieu par un homme, Jean par un aigle.",
+      "wikipedia": "Marc (évangéliste)"
+    },
+    {
+      "id": "mythologie-197",
+      "difficulty": 2,
+      "question": "Sur quelle île grecque du Dodécanèse saint Jean aurait-il rédigé le livre de l'Apocalypse ?",
+      "answer": "Patmos",
+      "accept": [],
+      "choices": [
+        "Rhodes",
+        "Lesbos",
+        "Naxos"
+      ],
+      "explanation": "Exilé sur l'île par les Romains, il y aurait reçu ses visions dans une grotte ; le monastère Saint-Jean-le-Théologien qui domine l'île est inscrit au patrimoine mondial.",
+      "wikipedia": "Patmos"
+    },
+    {
+      "id": "mythologie-198",
+      "difficulty": 2,
+      "question": "Quel mage est traditionnellement nommé avec Gaspard et Balthazar parmi les visiteurs de l'Enfant Jésus ?",
+      "answer": "Melchior",
+      "accept": [],
+      "choices": [
+        "Barnabé",
+        "Zacharie",
+        "Siméon"
+      ],
+      "explanation": "L'Évangile de Matthieu ne donne ni leur nombre ni leurs noms ; le chiffre trois vient des trois présents offerts : l'or, l'encens et la myrrhe.",
+      "wikipedia": "Rois mages"
+    },
+    {
+      "id": "mythologie-199",
+      "difficulty": 2,
+      "question": "Quel saint, soldat romain, partagea son manteau avec un pauvre à Amiens avant de devenir évêque de Tours ?",
+      "answer": "Martin",
+      "accept": [
+        "saint Martin",
+        "Martin de Tours"
+      ],
+      "choices": [
+        "Rémi",
+        "Hilaire",
+        "Germain"
+      ],
+      "explanation": "Le manteau partagé, la « chape », devint une relique vénérée des rois mérovingiens et carolingiens ; de nombreuses églises d'Europe portent son nom.",
+      "wikipedia": "Martin de Tours"
+    },
+    {
+      "id": "mythologie-200",
+      "difficulty": 2,
+      "question": "Quel apôtre, fils de Zébédée, aurait son tombeau en Galice, but d'un célèbre pèlerinage ?",
+      "answer": "Jacques",
+      "accept": [
+        "Jacques le Majeur",
+        "saint Jacques",
+        "Jacques de Zébédée"
+      ],
+      "choices": [
+        "André",
+        "Barthélemy",
+        "Philippe"
+      ],
+      "explanation": "Frère de l'apôtre Jean, il fut le premier apôtre martyr, décapité à Jérusalem ; la coquille qu'arborent les pèlerins de Compostelle est devenue son attribut.",
+      "wikipedia": "Jacques de Zébédée"
+    },
+    {
+      "id": "mythologie-201",
+      "difficulty": 2,
+      "question": "Dans quelle ville normande vécut et mourut la carmélite Thérèse de l'Enfant-Jésus ?",
+      "answer": "Lisieux",
+      "accept": [],
+      "choices": [
+        "Bayeux",
+        "Alençon",
+        "Lourdes"
+      ],
+      "explanation": "Entrée au Carmel à quinze ans et morte à vingt-quatre, elle a été proclamée docteur de l'Église ; sa ville est devenue un grand lieu de pèlerinage avec une imposante basilique.",
+      "wikipedia": "Thérèse de Lisieux"
+    },
+    {
+      "id": "mythologie-202",
+      "difficulty": 2,
+      "question": "Quel moine italien du VIe siècle rédigea la règle suivie par de nombreux monastères d'Occident ?",
+      "answer": "Benoît de Nursie",
+      "accept": [
+        "Benoît",
+        "saint Benoît"
+      ],
+      "choices": [
+        "Bernard de Clairvaux",
+        "Bruno le Chartreux",
+        "Colomban"
+      ],
+      "explanation": "Sa règle, résumée par la devise « Ora et labora » (prie et travaille), fut rédigée au Mont-Cassin ; il est l'un des saints patrons de l'Europe.",
+      "wikipedia": "Benoît de Nursie"
+    },
+    {
+      "id": "mythologie-203",
+      "difficulty": 2,
+      "question": "De quelle abbaye bourguignonne, fondée en 1098, l'ordre des Cisterciens tire-t-il son nom ?",
+      "answer": "Cîteaux",
+      "accept": [
+        "Citeaux",
+        "abbaye de Cîteaux"
+      ],
+      "choices": [
+        "Cluny",
+        "Clairvaux",
+        "Fontenay"
+      ],
+      "explanation": "Son nom latin Cistercium a donné « cistercien » ; l'ordre, prônant la simplicité, connut un essor fulgurant grâce à Bernard de Clairvaux.",
+      "wikipedia": "Abbaye de Cîteaux"
+    },
+    {
+      "id": "mythologie-204",
+      "difficulty": 2,
+      "question": "Quel ordre monastique, fondé par saint Bruno près de Grenoble, élabore une célèbre liqueur verte ?",
+      "answer": "Chartreux",
+      "accept": [
+        "ordre des Chartreux"
+      ],
+      "choices": [
+        "Trappistes",
+        "Bénédictins",
+        "Prémontrés"
+      ],
+      "explanation": "Les moines y vivent en ermites, chacun dans sa cellule, et ne se retrouvent que pour certains offices ; la Grande Chartreuse, en Isère, est leur maison mère.",
+      "wikipedia": "Ordre des Chartreux"
+    },
+    {
+      "id": "mythologie-205",
+      "difficulty": 2,
+      "question": "Quel ancien soldat basque, blessé au siège de Pampelune, fonda la Compagnie de Jésus ?",
+      "answer": "Ignace de Loyola",
+      "accept": [
+        "Ignace",
+        "saint Ignace"
+      ],
+      "choices": [
+        "François Xavier",
+        "Dominique de Guzmán",
+        "Vincent de Paul"
+      ],
+      "explanation": "C'est pendant sa convalescence qu'il se convertit ; étudiant à Paris, il y réunit ses premiers compagnons, dont François Xavier, noyau de l'ordre des Jésuites.",
+      "wikipedia": "Ignace de Loyola"
+    },
+    {
+      "id": "mythologie-206",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la partie d'une église, au-delà du transept, où se trouve le maître-autel ?",
+      "answer": "Chœur",
+      "accept": [
+        "choeur"
+      ],
+      "choices": [
+        "Nef",
+        "Narthex",
+        "Crypte"
+      ],
+      "explanation": "On l'appelle ainsi car c'est là que se tenaient les chanoines ou les moines pour chanter l'office ; le déambulatoire permet d'en faire le tour.",
+      "wikipedia": "Chœur (architecture)"
+    },
+    {
+      "id": "mythologie-207",
+      "difficulty": 2,
+      "question": "Quelle péninsule grecque, interdite aux femmes depuis des siècles, abrite une vingtaine de monastères orthodoxes ?",
+      "answer": "Mont Athos",
+      "accept": [
+        "Athos"
+      ],
+      "choices": [
+        "Météores",
+        "Péloponnèse",
+        "Chalcidique"
+      ],
+      "explanation": "Cette république monastique autonome interdit aussi l'accès aux animaux femelles domestiques ; les hommes eux-mêmes n'y entrent qu'avec un permis spécial.",
+      "wikipedia": "Communauté monastique du mont Athos"
+    },
+    {
+      "id": "mythologie-208",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les chrétiens d'Égypte, dont l'Église revendique saint Marc pour fondateur ?",
+      "answer": "Coptes",
+      "accept": [
+        "copte"
+      ],
+      "choices": [
+        "Maronites",
+        "Melkites",
+        "Nestoriens"
+      ],
+      "explanation": "Leur langue ancestrale, le copte, langue vivante jusqu'au XVIIe siècle et aujourd'hui liturgique, servit à Champollion pour ses études sur les hiéroglyphes.",
+      "wikipedia": "Coptes"
+    },
+    {
+      "id": "mythologie-209",
+      "difficulty": 2,
+      "question": "Quel royaume du Caucase fut le premier à adopter le christianisme comme religion d'État, au début du IVe siècle ?",
+      "answer": "Arménie",
+      "accept": [
+        "Armenie"
+      ],
+      "choices": [
+        "Géorgie",
+        "Éthiopie",
+        "Empire romain"
+      ],
+      "explanation": "Le roi Tiridate III fut converti par saint Grégoire l'Illuminateur ; l'Église apostolique arménienne a son siège à Etchmiadzin.",
+      "wikipedia": "Église apostolique arménienne"
+    },
+    {
+      "id": "mythologie-210",
+      "difficulty": 2,
+      "question": "Quelle fête juive de printemps commémore la sortie d'Égypte et se célèbre en mangeant du pain azyme ?",
+      "answer": "Pessa'h",
+      "accept": [
+        "Pessah",
+        "Pâque juive",
+        "Pessach",
+        "Pessa h"
+      ],
+      "choices": [
+        "Soukkot",
+        "Chavouot",
+        "Pourim"
+      ],
+      "explanation": "Le pain sans levain rappelle que les Hébreux partirent si vite qu'ils n'eurent pas le temps de laisser lever la pâte ; le repas rituel du premier soir s'appelle le Seder.",
+      "wikipedia": "Pessa'h"
+    },
+    {
+      "id": "mythologie-211",
+      "difficulty": 2,
+      "question": "Quel chandelier à sept branches, qui éclairait le Temple de Jérusalem, figure sur l'emblème de l'État d'Israël ?",
+      "answer": "Menorah",
+      "accept": [
+        "ménorah",
+        "menora",
+        "ménora"
+      ],
+      "choices": [
+        "Hanoukia",
+        "Mezouza",
+        "Téfilin"
+      ],
+      "explanation": "Celle du Temple fut emportée à Rome en 70 après la prise de Jérusalem, comme le montre un bas-relief de l'arc de Titus ; la Hanoukia, elle, compte neuf branches.",
+      "wikipedia": "Menorah"
+    },
+    {
+      "id": "mythologie-212",
+      "difficulty": 2,
+      "question": "Quel vaste recueil du judaïsme réunit la Mishna et son commentaire, la Guemara ?",
+      "answer": "Talmud",
+      "accept": [],
+      "choices": [
+        "Zohar",
+        "Midrash",
+        "Tanakh"
+      ],
+      "explanation": "Il en existe deux versions, celle de Jérusalem et celle de Babylone, la plus utilisée ; au Moyen Âge, les commentaires de Rachi ont façonné sa lecture.",
+      "wikipedia": "Talmud"
+    },
+    {
+      "id": "mythologie-213",
+      "difficulty": 2,
+      "question": "Quelle tradition mystique et ésotérique du judaïsme a pour ouvrage majeur le Zohar ?",
+      "answer": "Kabbale",
+      "accept": [
+        "cabale",
+        "kabbala",
+        "qabbale"
+      ],
+      "choices": [
+        "Hassidisme",
+        "Haskala",
+        "Karaïsme"
+      ],
+      "explanation": "Le mot hébreu signifie « réception » ou « tradition » ; elle s'est notamment épanouie en Espagne puis à Safed, en Galilée, au XVIe siècle.",
+      "wikipedia": "Kabbale"
+    },
+    {
+      "id": "mythologie-214",
+      "difficulty": 2,
+      "question": "Quelle grande fête musulmane commémore le sacrifice qu'Abraham s'apprêtait à faire de son fils ?",
+      "answer": "Aïd al-Adha",
+      "accept": [
+        "Aïd el-Kébir",
+        "Aid al-Adha",
+        "Aïd el-Kebir",
+        "fête du Sacrifice",
+        "Tabaski"
+      ],
+      "choices": [
+        "Aïd el-Fitr",
+        "Mawlid",
+        "Achoura"
+      ],
+      "explanation": "Elle a lieu pendant le pèlerinage à La Mecque ; les familles qui le peuvent sacrifient un mouton et en partagent la viande, notamment avec les plus pauvres.",
+      "wikipedia": "Aïd al-Adha"
+    },
+    {
+      "id": "mythologie-215",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la branche de l'islam qui reconnaît Ali, gendre de Mahomet, comme successeur légitime ?",
+      "answer": "Chiisme",
+      "accept": [
+        "chiites",
+        "chiite"
+      ],
+      "choices": [
+        "Sunnisme",
+        "Kharidjisme",
+        "Wahhabisme"
+      ],
+      "explanation": "Le nom vient de chi'at Ali, « le parti d'Ali » ; majoritaire en Iran et en Irak, le chiisme vénère notamment Hussein, fils d'Ali, tué à Kerbala.",
+      "wikipedia": "Chiisme"
+    },
+    {
+      "id": "mythologie-216",
+      "difficulty": 2,
+      "question": "Quel sanctuaire octogonal à coupole dorée, achevé en 691, domine l'esplanade des Mosquées à Jérusalem ?",
+      "answer": "Dôme du Rocher",
+      "accept": [
+        "Dome du Rocher",
+        "Coupole du Rocher"
+      ],
+      "choices": [
+        "Mosquée al-Aqsa",
+        "Saint-Sépulcre",
+        "Mosquée des Omeyyades"
+      ],
+      "explanation": "Bâti par le calife omeyyade Abd al-Malik, il abrite le rocher d'où Mahomet serait monté au ciel ; ce n'est pas une mosquée à proprement parler.",
+      "wikipedia": "Dôme du Rocher"
+    },
+    {
+      "id": "mythologie-217",
+      "difficulty": 2,
+      "question": "Quel courant mystique de l'islam compte parmi ses confréries celle des derviches tourneurs ?",
+      "answer": "Soufisme",
+      "accept": [
+        "soufis",
+        "soufi"
+      ],
+      "choices": [
+        "Salafisme",
+        "Ismaélisme",
+        "Malékisme"
+      ],
+      "explanation": "Son nom viendrait de souf, la laine dont étaient faits les vêtements des premiers ascètes ; la danse tournoyante des derviches est une forme de prière.",
+      "wikipedia": "Soufisme"
+    },
+    {
+      "id": "mythologie-218",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les plus anciens textes sacrés de l'hindouisme, composés en sanskrit védique ?",
+      "answer": "Védas",
+      "accept": [
+        "Veda",
+        "Véda",
+        "Vedas"
+      ],
+      "choices": [
+        "Upanishads",
+        "Puranas",
+        "Sutras"
+      ],
+      "explanation": "Le mot signifie « savoir » ; longtemps transmis oralement, ils sont au nombre de quatre, le plus ancien étant le Rig-Veda, recueil d'hymnes aux dieux.",
+      "wikipedia": "Veda"
+    },
+    {
+      "id": "mythologie-219",
+      "difficulty": 2,
+      "question": "Quelle déesse hindoue de la prospérité et de la fortune est l'épouse de Vishnou ?",
+      "answer": "Lakshmi",
+      "accept": [
+        "Lakshmî",
+        "Laxmi"
+      ],
+      "choices": [
+        "Parvati",
+        "Sarasvati",
+        "Durga"
+      ],
+      "explanation": "Souvent représentée assise sur un lotus, des pièces d'or s'échappant d'une de ses mains, elle s'incarne aux côtés de Vishnou sous les traits de Sîtâ dans le Ramayana.",
+      "wikipedia": "Lakshmi"
+    },
+    {
+      "id": "mythologie-220",
+      "difficulty": 2,
+      "question": "Quelle immense épopée sanskrite raconte la guerre entre les Pandava et leurs cousins Kaurava ?",
+      "answer": "Mahabharata",
+      "accept": [
+        "Mahâbhârata",
+        "Mahābhārata"
+      ],
+      "choices": [
+        "Ramayana",
+        "Rig-Veda",
+        "Gita Govinda"
+      ],
+      "explanation": "Attribuée au sage Vyasa, c'est l'un des plus longs poèmes jamais écrits ; elle contient la Bhagavad-Gita. Peter Brook l'a adaptée au théâtre en 1985.",
+      "wikipedia": "Mahabharata"
+    },
+    {
+      "id": "mythologie-221",
+      "difficulty": 2,
+      "question": "Quel immense temple bouddhique en forme de pyramide à degrés se dresse sur l'île indonésienne de Java ?",
+      "answer": "Borobudur",
+      "accept": [],
+      "choices": [
+        "Angkor Vat",
+        "Prambanan",
+        "Bagan"
+      ],
+      "explanation": "Édifié vers le IXe siècle, il fut oublié sous la cendre volcanique et la végétation avant d'être redécouvert au XIXe siècle ; ses terrasses comptent des centaines de statues du Bouddha.",
+      "wikipedia": "Temple de Borobudur"
+    },
+    {
+      "id": "mythologie-222",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le portique, souvent peint en rouge, qui marque l'entrée d'un sanctuaire shinto ?",
+      "answer": "Torii",
+      "accept": [],
+      "choices": [
+        "Pagode",
+        "Tatami",
+        "Shoji"
+      ],
+      "explanation": "Il marque le passage du monde profane au monde sacré ; au sanctuaire Fushimi Inari de Kyoto, des torii juxtaposés forment de véritables tunnels.",
+      "wikipedia": "Torii"
+    },
+    {
+      "id": "mythologie-223",
+      "difficulty": 2,
+      "question": "Quelle religion indienne, dont Mahavira est la grande figure, prône une non-violence absolue envers tous les êtres vivants ?",
+      "answer": "Jaïnisme",
+      "accept": [
+        "jainisme",
+        "jaïns"
+      ],
+      "choices": [
+        "Sikhisme",
+        "Hindouisme",
+        "Zoroastrisme"
+      ],
+      "explanation": "Ses moines et nonnes ne se déplacent qu'à pied, notamment pour éviter de tuer des insectes ; ce principe de non-violence se nomme ahimsa.",
+      "wikipedia": "Jaïnisme"
+    },
+    {
+      "id": "mythologie-224",
+      "difficulty": 2,
+      "question": "Quelle religion, pratiquée en Haïti et au Bénin, rend un culte à des esprits appelés loas ou vodouns ?",
+      "answer": "Vaudou",
+      "accept": [
+        "vodou",
+        "vodoun",
+        "vaudouisme"
+      ],
+      "choices": [
+        "Candomblé",
+        "Santería",
+        "Rastafarisme"
+      ],
+      "explanation": "Né dans l'ancien royaume du Dahomey, il fut emporté aux Amériques par les esclaves ; le Bénin lui consacre une fête nationale chaque 10 janvier.",
+      "wikipedia": "Vaudou"
+    },
+    {
+      "id": "mythologie-225",
+      "difficulty": 2,
+      "question": "Quelle inscription latine de quatre lettres figure au sommet de la croix dans les représentations de la crucifixion ?",
+      "answer": "INRI",
+      "accept": [
+        "I.N.R.I."
+      ],
+      "choices": [
+        "IHS",
+        "SPQR",
+        "DOM"
+      ],
+      "explanation": "Ce sont les initiales de « Iesus Nazarenus Rex Iudaeorum », Jésus le Nazaréen, roi des Juifs, motif de la condamnation inscrit sur ordre de Pilate.",
+      "wikipedia": "INRI"
+    },
+    {
+      "id": "mythologie-226",
+      "difficulty": 2,
+      "question": "Quel prophète biblique fut enlevé au ciel dans un char de feu, sous les yeux de son disciple Élisée ?",
+      "answer": "Élie",
+      "accept": [
+        "Elie"
+      ],
+      "choices": [
+        "Ézéchiel",
+        "Jérémie",
+        "Hénoch"
+      ],
+      "explanation": "N'étant pas mort, il est attendu comme précurseur du Messie : lors de la Pâque juive, une porte ouverte et un siège inoccupé l'attendent toujours.",
+      "wikipedia": "Élie"
+    },
+    {
+      "id": "mythologie-227",
+      "difficulty": 2,
+      "question": "Près de quel site de Cisjordanie un berger découvrit-il en 1947 les premiers manuscrits de la mer Morte ?",
+      "answer": "Qumrân",
+      "accept": [
+        "Qumran",
+        "Khirbet Qumrân"
+      ],
+      "choices": [
+        "Massada",
+        "Hébron",
+        "Ein Gedi"
+      ],
+      "explanation": "Cachés dans des jarres au fond de grottes, ces rouleaux contiennent les plus anciens manuscrits connus de la Bible hébraïque, antérieurs d'un millénaire aux copies connues jusque-là.",
+      "wikipedia": "Manuscrits de la mer Morte"
+    },
+    {
+      "id": "mythologie-228",
+      "difficulty": 2,
+      "question": "Quelle sainte, patronne de Paris, aurait convaincu les habitants de ne pas fuir devant Attila ?",
+      "answer": "Geneviève",
+      "accept": [
+        "sainte Geneviève",
+        "Genevieve"
+      ],
+      "choices": [
+        "Clotilde",
+        "Radegonde",
+        "Odile"
+      ],
+      "explanation": "Les Huns épargnèrent finalement la ville ; ses reliques, en partie dispersées à la Révolution, sont honorées dans l'église Saint-Étienne-du-Mont, près du Panthéon.",
+      "wikipedia": "Geneviève de Paris"
+    },
+    {
+      "id": "mythologie-229",
+      "difficulty": 2,
+      "question": "Quelle sainte romaine, qui aurait chanté pendant ses noces, est la patronne des musiciens ?",
+      "answer": "Cécile",
+      "accept": [
+        "sainte Cécile",
+        "Cecile"
+      ],
+      "choices": [
+        "Agnès",
+        "Lucie",
+        "Agathe"
+      ],
+      "explanation": "Fêtée le 22 novembre, elle a donné son nom à de nombreuses sociétés musicales, les « Sainte-Cécile » ; des compositeurs comme Purcell ou Gounod lui ont dédié des œuvres.",
+      "wikipedia": "Cécile de Rome"
+    },
+    {
+      "id": "mythologie-230",
+      "difficulty": 2,
+      "question": "Quel saint, à qui un cerf portant une croix entre ses bois serait apparu, est le patron des chasseurs ?",
+      "answer": "Hubert",
+      "accept": [
+        "saint Hubert"
+      ],
+      "choices": [
+        "Eustache",
+        "Gilles",
+        "Roch"
+      ],
+      "explanation": "Évêque de Liège au VIIIe siècle, il est fêté le 3 novembre ; ce jour-là, le sel, le pain et l'eau sont traditionnellement bénis, car on l'invoquait contre la rage.",
+      "wikipedia": "Hubert de Liège"
+    },
+    {
+      "id": "mythologie-231",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la cloison couverte d'icônes qui sépare le sanctuaire de la nef dans une église orthodoxe ?",
+      "answer": "Iconostase",
+      "accept": [],
+      "choices": [
+        "Jubé",
+        "Ambon",
+        "Baldaquin"
+      ],
+      "explanation": "Elle est percée de trois portes, dont la porte centrale, dite « porte royale », réservée au prêtre ; les icônes y sont disposées selon un ordre précis.",
+      "wikipedia": "Iconostase"
+    },
+    {
+      "id": "mythologie-232",
+      "difficulty": 3,
+      "question": "Quelle corne de bélier, utilisée comme instrument, sonne-t-on à Roch Hachana et à la fin de Yom Kippour ?",
+      "answer": "Shofar",
+      "accept": [
+        "chophar",
+        "chofar",
+        "schofar"
+      ],
+      "choices": [
+        "Kinnor",
+        "Nevel",
+        "Halil"
+      ],
+      "explanation": "Fabriqué avec une corne de bélier ou de grand koudou, il est utilisé depuis l'Antiquité ; le livre de Josué le mentionne lors de la prise des murailles de Jéricho.",
+      "wikipedia": "Chophar"
+    },
+    {
+      "id": "mythologie-233",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on le petit étui renfermant un parchemin, fixé au montant des portes des maisons juives ?",
+      "answer": "Mezouza",
+      "accept": [
+        "mezouzah",
+        "mezuzah",
+        "mezuza"
+      ],
+      "choices": [
+        "Téfiline",
+        "Talith",
+        "Hanoukia"
+      ],
+      "explanation": "Le parchemin porte deux passages du Deutéronome, dont le Shema Israël ; la lettre shin inscrite sur l'étui représente Shaddaï, l'un des noms de Dieu.",
+      "wikipedia": "Mezouzah"
+    },
+    {
+      "id": "mythologie-234",
+      "difficulty": 3,
+      "question": "Quelle fête juive joyeuse et costumée commémore la reine Esther déjouant un massacre en Perse ?",
+      "answer": "Pourim",
+      "accept": [
+        "Purim"
+      ],
+      "choices": [
+        "Hanoucca",
+        "Soukkot",
+        "Chavouot"
+      ],
+      "explanation": "Pendant la lecture du Livre d'Esther, on fait du bruit à chaque mention du nom d'Haman, le ministre qui voulait exterminer les Juifs ; on y mange des « oreilles d'Aman ».",
+      "wikipedia": "Pourim"
+    },
+    {
+      "id": "mythologie-235",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la niche d'une mosquée qui indique la direction de La Mecque ?",
+      "answer": "Mihrab",
+      "accept": [
+        "mihrâb"
+      ],
+      "choices": [
+        "Minbar",
+        "Iwan",
+        "Muqarnas"
+      ],
+      "explanation": "La direction qu'il indique, celle de la Kaaba vers laquelle les fidèles se tournent pendant la prière, s'appelle la qibla ; il occupe souvent le milieu du mur de la qibla.",
+      "wikipedia": "Mihrab"
+    },
+    {
+      "id": "mythologie-236",
+      "difficulty": 3,
+      "question": "Quel poète persan du XIIIe siècle, installé à Konya, inspira la confrérie des derviches tourneurs ?",
+      "answer": "Rûmî",
+      "accept": [
+        "Rumi",
+        "Djalâl ad-Dîn Rûmî",
+        "Mevlana",
+        "Djalal al-Din Rumi"
+      ],
+      "choices": [
+        "Omar Khayyam",
+        "Hafez",
+        "Saadi"
+      ],
+      "explanation": "Son œuvre principale, le Masnavi, est un vaste commentaire poétique et ésotérique du Coran ; son titre de Mevlana, « notre maître », est intimement lié à l'ordre des mevlevis.",
+      "wikipedia": "Rûmî"
+    },
+    {
+      "id": "mythologie-237",
+      "difficulty": 3,
+      "question": "Quelle sourate de sept versets, dont le nom signifie « l'Ouverture », est la première du Coran ?",
+      "answer": "Fatiha",
+      "accept": [
+        "Al-Fatiha",
+        "al-Fâtiha",
+        "Fâtiha"
+      ],
+      "choices": [
+        "Al-Baqara",
+        "Al-Ikhlas",
+        "Yasin"
+      ],
+      "explanation": "Enseignée très tôt aux enfants, elle est récitée au début de chaque unité de la prière rituelle, appelée rak'ah ; Fatiha est aussi un prénom féminin arabe.",
+      "wikipedia": "Al-Fatiha"
+    },
+    {
+      "id": "mythologie-238",
+      "difficulty": 3,
+      "question": "Quelle riche commerçante de La Mecque fut la première épouse de Mahomet et la première à embrasser l'islam ?",
+      "answer": "Khadija",
+      "accept": [
+        "Khadîja",
+        "Khadidja"
+      ],
+      "choices": [
+        "Aïcha",
+        "Fatima",
+        "Hafsa"
+      ],
+      "explanation": "Veuve et femme d'affaires, elle avait d'abord engagé le jeune Mahomet pour conduire son commerce caravanier vers la Syrie ; leur fille Fâtima est vénérée dans tout le monde musulman.",
+      "wikipedia": "Khadija bint Khuwaylid"
+    },
+    {
+      "id": "mythologie-239",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on le cycle des naissances, morts et renaissances dans l'hindouisme et le bouddhisme ?",
+      "answer": "Samsara",
+      "accept": [
+        "saṃsāra",
+        "samsâra"
+      ],
+      "choices": [
+        "Moksha",
+        "Ahimsa",
+        "Bhakti"
+      ],
+      "explanation": "Le mot sanskrit signifie « ensemble de ce qui circule », d'où « transmigration » ; la libération de ce cycle est appelée moksha dans l'hindouisme.",
+      "wikipedia": "Saṃsāra"
+    },
+    {
+      "id": "mythologie-240",
+      "difficulty": 3,
+      "question": "Quel oiseau mythique, ennemi juré des serpents, sert de monture au dieu Vishnou ?",
+      "answer": "Garuda",
+      "accept": [
+        "Garouda"
+      ],
+      "choices": [
+        "Nandi",
+        "Airavata",
+        "Simurgh"
+      ],
+      "explanation": "Aigle géant mythique, ennemi naturel des nâgas, il est l'emblème de la monarchie en Thaïlande, et la compagnie aérienne nationale d'Indonésie porte son nom.",
+      "wikipedia": "Garuda"
+    },
+    {
+      "id": "mythologie-241",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on le monument bouddhique en forme de dôme, érigé pour abriter des reliques ?",
+      "answer": "Stupa",
+      "accept": [
+        "stūpa",
+        "stoupa"
+      ],
+      "choices": [
+        "Pagode",
+        "Vihara",
+        "Mandala"
+      ],
+      "explanation": "Les fidèles en font le tour dans le sens des aiguilles d'une montre ; au Tibet on l'appelle chorten, et la pagode d'Extrême-Orient en est une évolution.",
+      "wikipedia": "Stūpa"
+    },
+    {
+      "id": "mythologie-242",
+      "difficulty": 3,
+      "question": "Dans quelle ville se trouve le grand sanctuaire shinto dédié à Amaterasu, entièrement reconstruit tous les vingt ans ?",
+      "answer": "Ise",
+      "accept": [],
+      "choices": [
+        "Nikkō",
+        "Nara",
+        "Izumo"
+      ],
+      "explanation": "Cette reconstruction rituelle est un gage de pureté ; le sanctuaire est réputé abriter le miroir sacré Yata-no-Kagami, l'un des trois éléments du Trésor impérial.",
+      "wikipedia": "Sanctuaire d'Ise"
+    },
+    {
+      "id": "mythologie-243",
+      "difficulty": 3,
+      "question": "Quel maître spirituel du Pendjab, premier des dix gourous, fonda le sikhisme à la fin du XVe siècle ?",
+      "answer": "Nanak",
+      "accept": [
+        "Guru Nanak",
+        "Gourou Nanak"
+      ],
+      "choices": [
+        "Kabir",
+        "Gobind Singh",
+        "Arjan"
+      ],
+      "explanation": "Il aurait affirmé qu'il n'y a « ni hindous, ni musulmans » ; le mot sikh dérive d'un terme sanskrit signifiant « disciple ».",
+      "wikipedia": "Guru Nanak"
+    },
+    {
+      "id": "mythologie-244",
+      "difficulty": 3,
+      "question": "Quelle religion, fondée en Perse au XIXe siècle par Bahá'u'lláh, a son centre mondial à Haïfa ?",
+      "answer": "Bahaïsme",
+      "accept": [
+        "foi bahá'íe",
+        "bahaisme",
+        "baha'isme"
+      ],
+      "choices": [
+        "Babisme",
+        "Zoroastrisme",
+        "Druzisme"
+      ],
+      "explanation": "Elle prône l'unité de l'humanité et des religions ; ses jardins en terrasses sur le mont Carmel sont inscrits au patrimoine mondial de l'Unesco.",
+      "wikipedia": "Foi baháʼíe"
+    },
+    {
+      "id": "mythologie-245",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les zoroastriens installés en Inde, notamment à Bombay, depuis le Moyen Âge ?",
+      "answer": "Parsis",
+      "accept": [
+        "Parsi",
+        "Parsees"
+      ],
+      "choices": [
+        "Sikhs",
+        "Jaïns",
+        "Moghols"
+      ],
+      "explanation": "Venus de Perse pour fuir l'islamisation, ils exposaient leurs morts dans des « tours du silence » ; la famille Tata, célèbre dynastie industrielle, en est issue.",
+      "wikipedia": "Parsis"
+    },
+    {
+      "id": "mythologie-246",
+      "difficulty": 3,
+      "question": "Quel prophète perse du IIIe siècle a donné son nom à une religion dualiste opposant la Lumière et les Ténèbres ?",
+      "answer": "Mani",
+      "accept": [],
+      "choices": [
+        "Mazdak",
+        "Zoroastre",
+        "Marcion"
+      ],
+      "explanation": "Sa doctrine s'est diffusée de l'Afrique jusqu'en Chine ; saint Augustin fut quelque temps manichéen, et le mot désigne aujourd'hui une vision du monde en noir et blanc.",
+      "wikipedia": "Mani (prophète)"
+    },
+    {
+      "id": "mythologie-247",
+      "difficulty": 3,
+      "question": "Quel monogramme formé des lettres grecques khi et rhô superposées symbolise le Christ ?",
+      "answer": "Chrisme",
+      "accept": [
+        "chi-rho",
+        "khi-rhô"
+      ],
+      "choices": [
+        "Ichthys",
+        "Tau",
+        "Staurogramme"
+      ],
+      "explanation": "Selon la tradition, Constantin le fit peindre sur les boucliers de ses soldats avant la bataille du pont Milvius ; il est souvent accompagné des lettres alpha et oméga.",
+      "wikipedia": "Chrisme"
+    },
+    {
+      "id": "mythologie-248",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la traduction grecque de la Bible hébraïque réalisée à Alexandrie, selon la légende par soixante-douze savants ?",
+      "answer": "Septante",
+      "accept": [
+        "la Septante"
+      ],
+      "choices": [
+        "Vulgate",
+        "Hexaples",
+        "Peshitta"
+      ],
+      "explanation": "Une légende née de la Lettre d'Aristée veut que les traducteurs, isolés les uns des autres, aient produit des textes identiques, preuve supposée de son inspiration divine.",
+      "wikipedia": "Septante"
+    },
+    {
+      "id": "mythologie-249",
+      "difficulty": 3,
+      "question": "Quelle traduction latine de la Bible, réalisée à la fin du IVe siècle, est attribuée à saint Jérôme ?",
+      "answer": "Vulgate",
+      "accept": [
+        "la Vulgate"
+      ],
+      "choices": [
+        "Septante",
+        "Vetus Latina",
+        "Itala"
+      ],
+      "explanation": "Plusieurs fois révisée, elle fut désignée par le concile de Trente, en 1546, comme « vetus et vulgata editio » ; Jean-Paul II promulgua en 1979 une Nova Vulgata.",
+      "wikipedia": "Vulgate"
+    },
+    {
+      "id": "mythologie-250",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les quatre consonnes hébraïques YHWH qui forment le nom de Dieu dans la Bible ?",
+      "answer": "Tétragramme",
+      "accept": [
+        "Tetragramme",
+        "tétragramme sacré"
+      ],
+      "choices": [
+        "Pentagramme",
+        "Shekhina",
+        "Elohim"
+      ],
+      "explanation": "Par respect, les juifs ne le prononcent pas et lisent à la place Adonaï, « mon Seigneur » ; la lecture « Jéhovah » est née d'une combinaison de ces consonnes avec les voyelles d'Adonaï.",
+      "wikipedia": "YHWH"
+    }
+  ]
+}

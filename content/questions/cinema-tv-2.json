@@ -1,0 +1,3961 @@
+{
+  "category": "cinema-tv",
+  "questions": [
+    {
+      "id": "cinema-tv-081",
+      "difficulty": 1,
+      "question": "Quel acteur américain incarne le capitaine Jack Sparrow dans la saga « Pirates des Caraïbes » ?",
+      "answer": "Johnny Depp",
+      "accept": [
+        "Depp"
+      ],
+      "choices": [
+        "Orlando Bloom",
+        "Brad Pitt",
+        "Keanu Reeves"
+      ],
+      "explanation": "Pour composer ce pirate titubant, Johnny Depp s'est inspiré de Keith Richards, guitariste des Rolling Stones, qui a ensuite joué le père de Jack Sparrow.",
+      "wikipedia": "Jack Sparrow"
+    },
+    {
+      "id": "cinema-tv-082",
+      "difficulty": 1,
+      "question": "Quel film de Steven Spielberg ramène les dinosaures à la vie grâce à de l'ADN retrouvé dans de l'ambre ?",
+      "answer": "Jurassic Park",
+      "accept": [],
+      "choices": [
+        "Le Monde perdu",
+        "King Kong",
+        "Godzilla"
+      ],
+      "explanation": "Le film est adapté d'un roman de Michael Crichton ; ses dinosaures mêlent images de synthèse pionnières et créatures animatroniques conçues par Stan Winston.",
+      "wikipedia": "Jurassic Park (film)"
+    },
+    {
+      "id": "cinema-tv-083",
+      "difficulty": 1,
+      "question": "Quel éléphanteau de Disney, moqué pour ses oreilles immenses, découvre qu'elles lui permettent de voler ?",
+      "answer": "Dumbo",
+      "accept": [],
+      "choices": [
+        "Bambi",
+        "Babar",
+        "Pinocchio"
+      ],
+      "explanation": "Dans le film de 1941, c'est une plume « magique » offerte par des corbeaux qui donne confiance à l'éléphanteau, dont le vrai nom est Jumbo Junior.",
+      "wikipedia": "Dumbo"
+    },
+    {
+      "id": "cinema-tv-084",
+      "difficulty": 1,
+      "question": "Quel film de Patrice Leconte suit des vacanciers en quête d'aventures dans un club de vacances en Côte d'Ivoire ?",
+      "answer": "Les Bronzés",
+      "accept": [],
+      "choices": [
+        "Camping",
+        "Les Sous-doués",
+        "Le Père Noël est une ordure"
+      ],
+      "explanation": "Le film est tiré d'une pièce de la troupe du Splendid, « Amours, coquillages et crustacés », et a connu deux suites, au ski puis entre amis.",
+      "wikipedia": "Les Bronzés"
+    },
+    {
+      "id": "cinema-tv-085",
+      "difficulty": 1,
+      "question": "Quel film de Dany Boon raconte la mutation d'un directeur de bureau de poste à Bergues, dans le Nord ?",
+      "answer": "Bienvenue chez les Ch'tis",
+      "accept": [
+        "Bienvenue chez les Chtis"
+      ],
+      "choices": [
+        "Rien à déclarer",
+        "Camping",
+        "Le Dîner de cons"
+      ],
+      "explanation": "Kad Merad y incarne Philippe Abrams, persuadé de partir au bout du monde, tandis que Dany Boon joue le facteur Antoine Bailleul, carillonneur du beffroi.",
+      "wikipedia": "Bienvenue chez les Ch'tis"
+    },
+    {
+      "id": "cinema-tv-086",
+      "difficulty": 1,
+      "question": "Quel film d'Éric Toledano et Olivier Nakache réunit un riche tétraplégique et son auxiliaire de vie venu de banlieue ?",
+      "answer": "Intouchables",
+      "accept": [],
+      "choices": [
+        "Le Sens de la fête",
+        "Hors normes",
+        "Samba"
+      ],
+      "explanation": "L'histoire s'inspire de Philippe Pozzo di Borgo et de son aide Abdel Sellou ; Omar Sy y a gagné le César du meilleur acteur.",
+      "wikipedia": "Intouchables"
+    },
+    {
+      "id": "cinema-tv-087",
+      "difficulty": 1,
+      "question": "Quel film de Christophe Barratier montre un surveillant qui forme une chorale dans un internat de garçons difficiles ?",
+      "answer": "Les Choristes",
+      "accept": [],
+      "choices": [
+        "La Guerre des boutons",
+        "Le Petit Nicolas",
+        "Les Quatre Cents Coups"
+      ],
+      "explanation": "Gérard Jugnot y joue Clément Mathieu ; le film est une nouvelle version de « La Cage aux rossignols », tourné en 1945 avec Noël-Noël.",
+      "wikipedia": "Les Choristes"
+    },
+    {
+      "id": "cinema-tv-088",
+      "difficulty": 1,
+      "question": "Quel humoriste des Nuls a réalisé « Astérix & Obélix : Mission Cléopâtre » en s'y réservant le rôle de César ?",
+      "answer": "Alain Chabat",
+      "accept": [
+        "Chabat"
+      ],
+      "choices": [
+        "Dominique Farrugia",
+        "Jamel Debbouze",
+        "Christian Clavier"
+      ],
+      "explanation": "Le film multiplie les clins d'œil à la culture populaire ; Jamel Debbouze y incarne l'architecte Numérobis et Gérard Darmon le maléfique Amonbofis.",
+      "wikipedia": "Astérix et Obélix : Mission Cléopâtre"
+    },
+    {
+      "id": "cinema-tv-089",
+      "difficulty": 1,
+      "question": "Quelle comédie du Splendid se déroule une nuit de Noël dans la permanence téléphonique SOS Détresse Amitié ?",
+      "answer": "Le Père Noël est une ordure",
+      "accept": [],
+      "choices": [
+        "Les Bronzés",
+        "Papy fait de la résistance",
+        "Le Dîner de cons"
+      ],
+      "explanation": "Le film de Jean-Marie Poiré est adapté d'une pièce de la troupe ; on y découvre la célèbre « doubitchou » et les « dobitchous » de Sofia.",
+      "wikipedia": "Le Père Noël est une ordure (film)"
+    },
+    {
+      "id": "cinema-tv-090",
+      "difficulty": 1,
+      "question": "Quel film d'Oury montre Louis de Funès en industriel déguisé en rabbin, poursuivi par des tueurs ?",
+      "answer": "Les Aventures de Rabbi Jacob",
+      "accept": [
+        "Rabbi Jacob"
+      ],
+      "choices": [
+        "Le Corniaud",
+        "La Folie des grandeurs",
+        "L'Aile ou la Cuisse"
+      ],
+      "explanation": "Victor Pivert, raciste et colérique, y finit par danser avec des juifs hassidiques dans une scène restée célèbre de la rue des Rosiers.",
+      "wikipedia": "Les Aventures de Rabbi Jacob"
+    },
+    {
+      "id": "cinema-tv-091",
+      "difficulty": 1,
+      "question": "Quel film de Luc Besson met en scène Leeloo et le chauffeur de taxi Korben Dallas dans un New York futuriste ?",
+      "answer": "Le Cinquième Élément",
+      "accept": [],
+      "choices": [
+        "Valérian",
+        "Lucy",
+        "Nikita"
+      ],
+      "explanation": "Bruce Willis et Milla Jovovich y portent des costumes signés Jean-Paul Gaultier, et la diva Plavalaguna y chante un air de « Lucia di Lammermoor ».",
+      "wikipedia": "Le Cinquième Élément"
+    },
+    {
+      "id": "cinema-tv-092",
+      "difficulty": 1,
+      "question": "Quel film de Luc Besson associe un tueur à gages amateur de plantes vertes et une fillette de douze ans ?",
+      "answer": "Léon",
+      "accept": [],
+      "choices": [
+        "Nikita",
+        "Subway",
+        "Lucy"
+      ],
+      "explanation": "Jean Reno y incarne le nettoyeur et Natalie Portman, dont c'est le premier rôle au cinéma, la jeune Mathilda.",
+      "wikipedia": "Léon (film)"
+    },
+    {
+      "id": "cinema-tv-093",
+      "difficulty": 1,
+      "question": "Quel agent secret français, incarné par Jean Dujardin, est envoyé au Caire dans un « nid d'espions » ?",
+      "answer": "OSS 117",
+      "accept": [
+        "Hubert Bonisseur de La Bath"
+      ],
+      "choices": [
+        "Le Grand Blond",
+        "Bob Morane",
+        "Frank Martin"
+      ],
+      "explanation": "Hubert Bonisseur de La Bath est à l'origine un héros des romans de Jean Bruce ; Michel Hazanavicius en a fait une parodie des films d'espionnage.",
+      "wikipedia": "OSS 117 : Le Caire, nid d'espions"
+    },
+    {
+      "id": "cinema-tv-094",
+      "difficulty": 1,
+      "question": "Quel film de Georges Lautner contient une scène culte de cuisine où l'on boit un alcool qui « date du Mexicain » ?",
+      "answer": "Les Tontons flingueurs",
+      "accept": [],
+      "choices": [
+        "Les Barbouzes",
+        "Le Pacha",
+        "Les Grandes Gueules"
+      ],
+      "explanation": "Lino Ventura y joue Fernand Naudin, ancien truand reconverti dans le commerce de machines agricoles à Montauban.",
+      "wikipedia": "Les Tontons flingueurs"
+    },
+    {
+      "id": "cinema-tv-095",
+      "difficulty": 1,
+      "question": "Quel film de 1939 raconte les amours de Scarlett O'Hara et Rhett Butler pendant la guerre de Sécession ?",
+      "answer": "Autant en emporte le vent",
+      "accept": [],
+      "choices": [
+        "Casablanca",
+        "Ben-Hur",
+        "Les Raisins de la colère"
+      ],
+      "explanation": "Hattie McDaniel, interprète de la nourrice Mama, y devint la première personne afro-américaine récompensée par un Oscar.",
+      "wikipedia": "Autant en emporte le vent (film)"
+    },
+    {
+      "id": "cinema-tv-096",
+      "difficulty": 1,
+      "question": "Quel psychiatre cannibale, joué par Anthony Hopkins, aide l'agente du FBI Clarice Starling à traquer un tueur ?",
+      "answer": "Hannibal Lecter",
+      "accept": [
+        "Lecter"
+      ],
+      "choices": [
+        "Norman Bates",
+        "Jack Torrance",
+        "Buffalo Bill"
+      ],
+      "explanation": "Anthony Hopkins a remporté l'Oscar du meilleur acteur pour « Le Silence des agneaux » alors qu'il n'apparaît qu'environ seize minutes à l'écran.",
+      "wikipedia": "Hannibal Lecter"
+    },
+    {
+      "id": "cinema-tv-097",
+      "difficulty": 1,
+      "question": "Quel personnage joué par Tom Hanks affirme que « la vie, c'est comme une boîte de chocolats » ?",
+      "answer": "Forrest Gump",
+      "accept": [
+        "Forrest"
+      ],
+      "choices": [
+        "Chuck Noland",
+        "Jim Lovell",
+        "Andrew Beckett"
+      ],
+      "explanation": "Le film de Robert Zemeckis insère son héros dans des images d'archives, où il croise notamment les présidents Kennedy et Nixon.",
+      "wikipedia": "Forrest Gump"
+    },
+    {
+      "id": "cinema-tv-098",
+      "difficulty": 1,
+      "question": "Quel cyborg venu du futur, incarné par Arnold Schwarzenegger, prévient qu'il reviendra par « I'll be back » ?",
+      "answer": "Terminator",
+      "accept": [
+        "T-800"
+      ],
+      "choices": [
+        "RoboCop",
+        "Predator",
+        "Ultron"
+      ],
+      "explanation": "Dans le premier film de James Cameron, la machine doit tuer Sarah Connor, future mère du chef de la résistance humaine, John Connor.",
+      "wikipedia": "Terminator (film)"
+    },
+    {
+      "id": "cinema-tv-099",
+      "difficulty": 1,
+      "question": "Dans quel film des Wachowski Neo doit-il choisir entre une pilule rouge et une pilule bleue ?",
+      "answer": "Matrix",
+      "accept": [
+        "The Matrix"
+      ],
+      "choices": [
+        "Inception",
+        "Total Recall",
+        "Tron"
+      ],
+      "explanation": "Morpheus, joué par Laurence Fishburne, propose à Neo la pilule rouge pour découvrir la vérité, et la bleue pour retourner à sa vie ordinaire.",
+      "wikipedia": "Matrix"
+    },
+    {
+      "id": "cinema-tv-100",
+      "difficulty": 1,
+      "question": "Quel gorille géant capturé sur l'île du Crâne escalade l'Empire State Building dans un film de 1933 ?",
+      "answer": "King Kong",
+      "accept": [
+        "Kong"
+      ],
+      "choices": [
+        "Godzilla",
+        "Mighty Joe Young",
+        "Rodan"
+      ],
+      "explanation": "Le singe était une marionnette d'une cinquantaine de centimètres animée image par image par Willis O'Brien.",
+      "wikipedia": "King Kong (film, 1933)"
+    },
+    {
+      "id": "cinema-tv-101",
+      "difficulty": 1,
+      "question": "Quelle créature du « Seigneur des anneaux » appelle l'Anneau unique « mon précieux » ?",
+      "answer": "Gollum",
+      "accept": [
+        "Sméagol"
+      ],
+      "choices": [
+        "Saroumane",
+        "Gríma",
+        "Bilbon"
+      ],
+      "explanation": "Avant d'être corrompu par l'Anneau, Gollum était un hobbit de la famille des Fortchaps nommé Sméagol, qui tua son ami Déagol pour l'obtenir.",
+      "wikipedia": "Gollum"
+    },
+    {
+      "id": "cinema-tv-102",
+      "difficulty": 1,
+      "question": "Quel réalisateur néo-zélandais a porté à l'écran la trilogie « Le Seigneur des anneaux » ?",
+      "answer": "Peter Jackson",
+      "accept": [
+        "Jackson"
+      ],
+      "choices": [
+        "Guillermo del Toro",
+        "Sam Raimi",
+        "Ridley Scott"
+      ],
+      "explanation": "Les trois films ont été tournés simultanément en Nouvelle-Zélande ; le dernier, « Le Retour du roi », a remporté l'Oscar du meilleur film.",
+      "wikipedia": "Peter Jackson"
+    },
+    {
+      "id": "cinema-tv-103",
+      "difficulty": 1,
+      "question": "Quel ogre vert des studios DreamWorks voit son marais envahi et part en voyage avec un âne bavard ?",
+      "answer": "Shrek",
+      "accept": [],
+      "choices": [
+        "Hulk",
+        "Grinch",
+        "Fiona"
+      ],
+      "explanation": "Le film fut en 2002 le premier lauréat de l'Oscar du meilleur film d'animation, catégorie créée cette année-là.",
+      "wikipedia": "Shrek"
+    },
+    {
+      "id": "cinema-tv-104",
+      "difficulty": 1,
+      "question": "Quelle princesse aux pouvoirs glacés chante « Libérée, délivrée » dans un film d'animation de Disney ?",
+      "answer": "Elsa",
+      "accept": [],
+      "choices": [
+        "Anna",
+        "Raiponce",
+        "Vaiana"
+      ],
+      "explanation": "Le film « La Reine des neiges » s'inspire librement du conte de Hans Christian Andersen ; Elsa y a pour sœur cadette la princesse Anna.",
+      "wikipedia": "La Reine des neiges (film, 2013)"
+    },
+    {
+      "id": "cinema-tv-105",
+      "difficulty": 1,
+      "question": "Quel ours chante « Il en faut peu pour être heureux » au petit Mowgli dans le dessin animé de Disney ?",
+      "answer": "Baloo",
+      "accept": [],
+      "choices": [
+        "Bagheera",
+        "Shere Khan",
+        "Petit Jean"
+      ],
+      "explanation": "« Le Livre de la jungle » de 1967 fut le dernier long métrage d'animation supervisé par Walt Disney, mort pendant sa production.",
+      "wikipedia": "Le Livre de la jungle (film, 1967)"
+    },
+    {
+      "id": "cinema-tv-106",
+      "difficulty": 1,
+      "question": "Quel insecte sert de conscience au pantin Pinocchio dans le dessin animé de Disney de 1940 ?",
+      "answer": "Jiminy Cricket",
+      "accept": [
+        "Jiminy"
+      ],
+      "choices": [
+        "Gepetto",
+        "Figaro",
+        "Grand Coquin"
+      ],
+      "explanation": "Sa chanson « When You Wish Upon a Star » a remporté l'Oscar et est devenue l'hymne musical des studios Disney.",
+      "wikipedia": "Pinocchio (film, 1940)"
+    },
+    {
+      "id": "cinema-tv-107",
+      "difficulty": 1,
+      "question": "Quel faon des studios Disney perd sa mère, abattue par un chasseur, au cours d'un hiver dans la forêt ?",
+      "answer": "Bambi",
+      "accept": [],
+      "choices": [
+        "Dumbo",
+        "Panpan",
+        "Rox"
+      ],
+      "explanation": "Le film adapte un roman de l'écrivain autrichien Felix Salten ; Bambi y a pour amis le lapin Panpan et la mouffette Fleur.",
+      "wikipedia": "Bambi"
+    },
+    {
+      "id": "cinema-tv-108",
+      "difficulty": 1,
+      "question": "Quel film de Pixar suit le poisson-clown Marlin parti à la recherche de son fils capturé par un plongeur ?",
+      "answer": "Le Monde de Nemo",
+      "accept": [],
+      "choices": [
+        "Le Monde de Dory",
+        "Les Indestructibles",
+        "Toy Story"
+      ],
+      "explanation": "Marlin y fait équipe avec Dory, poisson-chirurgien bleu à la mémoire défaillante, qui aura droit à son propre film en 2016.",
+      "wikipedia": "Le Monde de Nemo"
+    },
+    {
+      "id": "cinema-tv-109",
+      "difficulty": 1,
+      "question": "Quel petit robot de Pixar compacte seul les déchets d'une Terre abandonnée avant de rencontrer EVE ?",
+      "answer": "WALL-E",
+      "accept": [
+        "Wall-E",
+        "Wall E"
+      ],
+      "choices": [
+        "R2-D2",
+        "Baymax",
+        "Johnny 5"
+      ],
+      "explanation": "Les premières quarante minutes du film ne comportent presque aucun dialogue ; les sons du robot sont l'œuvre de Ben Burtt, créateur de ceux de R2-D2.",
+      "wikipedia": "WALL-E"
+    },
+    {
+      "id": "cinema-tv-110",
+      "difficulty": 1,
+      "question": "Quelle lettre désigne le responsable des gadgets fournis à James Bond par les services secrets britanniques ?",
+      "answer": "Q",
+      "accept": [],
+      "choices": [
+        "M",
+        "C",
+        "X"
+      ],
+      "explanation": "Le nom vient de « Quartermaster », l'intendant ; Desmond Llewelyn a tenu le rôle dans dix-sept films de la saga.",
+      "wikipedia": "Q (James Bond)"
+    },
+    {
+      "id": "cinema-tv-111",
+      "difficulty": 1,
+      "question": "Quel petit maître Jedi vert, vivant sur Dagobah, s'exprime en inversant l'ordre des mots ?",
+      "answer": "Yoda",
+      "accept": [],
+      "choices": [
+        "Obi-Wan Kenobi",
+        "Mace Windu",
+        "Qui-Gon Jinn"
+      ],
+      "explanation": "Dans la trilogie originale, Yoda était une marionnette animée et doublée par Frank Oz, aussi interprète de Miss Piggy du Muppet Show.",
+      "wikipedia": "Yoda"
+    },
+    {
+      "id": "cinema-tv-112",
+      "difficulty": 1,
+      "question": "Quel petit droïde bleu et blanc de « Star Wars » s'exprime uniquement par des bips et des sifflements ?",
+      "answer": "R2-D2",
+      "accept": [
+        "R2D2"
+      ],
+      "choices": [
+        "C-3PO",
+        "BB-8",
+        "K-2SO"
+      ],
+      "explanation": "Le droïde était le plus souvent animé de l'intérieur par l'acteur Kenny Baker, qui mesurait environ un mètre douze.",
+      "wikipedia": "R2-D2"
+    },
+    {
+      "id": "cinema-tv-113",
+      "difficulty": 1,
+      "question": "Quel cinéaste américain a créé la saga « Star Wars » et la société d'effets spéciaux Industrial Light & Magic ?",
+      "answer": "George Lucas",
+      "accept": [
+        "Lucas"
+      ],
+      "choices": [
+        "Steven Spielberg",
+        "James Cameron",
+        "J. J. Abrams"
+      ],
+      "explanation": "George Lucas a vendu sa société Lucasfilm, et avec elle la saga, à la Walt Disney Company en 2012.",
+      "wikipedia": "George Lucas"
+    },
+    {
+      "id": "cinema-tv-114",
+      "difficulty": 1,
+      "question": "Quel ancien béret vert, prénommé John, Sylvester Stallone incarne-t-il dans « Rambo » et ses suites ?",
+      "answer": "John Rambo",
+      "accept": [
+        "Rambo"
+      ],
+      "choices": [
+        "Rocky Balboa",
+        "Marion Cobretti",
+        "Ray Tango"
+      ],
+      "explanation": "Le personnage est né dans le roman « Premier Sang » de l'écrivain canadien David Morrell, publié en 1972.",
+      "wikipedia": "John Rambo"
+    },
+    {
+      "id": "cinema-tv-115",
+      "difficulty": 1,
+      "question": "Dans quel film de Billy Wilder la robe blanche de Marilyn Monroe se soulève-t-elle au-dessus d'une grille de métro ?",
+      "answer": "Sept ans de réflexion",
+      "accept": [],
+      "choices": [
+        "Certains l'aiment chaud",
+        "Les hommes préfèrent les blondes",
+        "Niagara"
+      ],
+      "explanation": "Le titre original, « The Seven Year Itch », désigne la démangeaison qui saisirait les maris après sept ans de mariage.",
+      "wikipedia": "Sept ans de réflexion"
+    },
+    {
+      "id": "cinema-tv-116",
+      "difficulty": 1,
+      "question": "Quelle actrice incarne Holly Golightly, croquant un croissant devant la vitrine de Tiffany, dans « Diamants sur canapé » ?",
+      "answer": "Audrey Hepburn",
+      "accept": [
+        "Hepburn"
+      ],
+      "choices": [
+        "Grace Kelly",
+        "Marilyn Monroe",
+        "Natalie Wood"
+      ],
+      "explanation": "Le film adapte un roman de Truman Capote et c'est Audrey Hepburn qui y chante « Moon River », d'Henry Mancini.",
+      "wikipedia": "Diamants sur canapé"
+    },
+    {
+      "id": "cinema-tv-117",
+      "difficulty": 1,
+      "question": "Quel acteur incarne l'inspecteur de San Francisco Harry Callahan, armé d'un Magnum .44 ?",
+      "answer": "Clint Eastwood",
+      "accept": [
+        "Eastwood"
+      ],
+      "choices": [
+        "Charles Bronson",
+        "Steve McQueen",
+        "Lee Marvin"
+      ],
+      "explanation": "Le personnage apparaît dans cinq films ; dans le premier, réalisé par Don Siegel en 1971, il traque le tueur Scorpio.",
+      "wikipedia": "L'Inspecteur Harry"
+    },
+    {
+      "id": "cinema-tv-118",
+      "difficulty": 1,
+      "question": "Quel acteur réalise et incarne le héros écossais William Wallace dans « Braveheart » ?",
+      "answer": "Mel Gibson",
+      "accept": [
+        "Gibson"
+      ],
+      "choices": [
+        "Liam Neeson",
+        "Russell Crowe",
+        "Sean Connery"
+      ],
+      "explanation": "Le film, qui a remporté cinq Oscars dont celui du meilleur film, se termine par le célèbre cri de « Liberté ! » sous la torture.",
+      "wikipedia": "Braveheart"
+    },
+    {
+      "id": "cinema-tv-119",
+      "difficulty": 1,
+      "question": "Quel film suit le général romain Maximus, trahi par l'empereur Commode puis réduit à combattre dans l'arène ?",
+      "answer": "Gladiator",
+      "accept": [],
+      "choices": [
+        "Ben-Hur",
+        "Spartacus",
+        "Troie"
+      ],
+      "explanation": "Russell Crowe y gagne l'Oscar du meilleur acteur, et Joaquin Phoenix y joue l'empereur Commode, fils de Marc Aurèle.",
+      "wikipedia": "Gladiator (film, 2000)"
+    },
+    {
+      "id": "cinema-tv-120",
+      "difficulty": 1,
+      "question": "Quel film de Stanley Kubrick se déroule dans l'hôtel Overlook, isolé par la neige au cœur du Colorado ?",
+      "answer": "Shining",
+      "accept": [
+        "The Shining"
+      ],
+      "choices": [
+        "Misery",
+        "Psychose",
+        "Carrie"
+      ],
+      "explanation": "Adapté de Stephen King, le film déplut au romancier ; sa réplique « Here's Johnny ! » s'inspire d'une émission de télévision américaine.",
+      "wikipedia": "Shining (film)"
+    },
+    {
+      "id": "cinema-tv-121",
+      "difficulty": 1,
+      "question": "Quelle équipe new-yorkaise traque les esprits frappeurs à l'aide de packs à protons portés sur le dos ?",
+      "answer": "SOS Fantômes",
+      "accept": [
+        "Ghostbusters"
+      ],
+      "choices": [
+        "Men in Black",
+        "Les Goonies",
+        "Gremlins"
+      ],
+      "explanation": "Dans le premier film, les héros affrontent un gigantesque bonhomme Chamallow, forme choisie à son insu par Ray Stantz.",
+      "wikipedia": "SOS Fantômes"
+    },
+    {
+      "id": "cinema-tv-122",
+      "difficulty": 1,
+      "question": "Quelles créatures de cinéma ne doivent jamais être mouillées ni nourries après minuit ?",
+      "answer": "Gremlins",
+      "accept": [
+        "Mogwaï",
+        "Mogwai"
+      ],
+      "choices": [
+        "Critters",
+        "Ewoks",
+        "Goonies"
+      ],
+      "explanation": "Dans le film de Joe Dante, l'adorable Gizmo, un mogwaï, donne naissance à d'autres créatures dès qu'il est mouillé.",
+      "wikipedia": "Gremlins"
+    },
+    {
+      "id": "cinema-tv-123",
+      "difficulty": 1,
+      "question": "Quel film de James Cameron se déroule sur la lune Pandora, peuplée des grands humanoïdes bleus Na'vi ?",
+      "answer": "Avatar",
+      "accept": [],
+      "choices": [
+        "Dune",
+        "Prometheus",
+        "Abyss"
+      ],
+      "explanation": "Le film a relancé la mode de la 3D en salle grâce à un système de caméras stéréoscopiques mis au point par Cameron lui-même.",
+      "wikipedia": "Avatar (film, 2009)"
+    },
+    {
+      "id": "cinema-tv-124",
+      "difficulty": 1,
+      "question": "Quelle troupe d'humoristes britanniques a tourné « Sacré Graal ! » et « La Vie de Brian » ?",
+      "answer": "Monty Python",
+      "accept": [
+        "Monty Pythons"
+      ],
+      "choices": [
+        "Les Nuls",
+        "Les Inconnus",
+        "Little Britain"
+      ],
+      "explanation": "Dans « Sacré Graal ! », faute de budget pour des chevaux, les chevaliers miment leurs montures pendant que leurs écuyers frappent des noix de coco.",
+      "wikipedia": "Monty Python"
+    },
+    {
+      "id": "cinema-tv-125",
+      "difficulty": 1,
+      "question": "Quelle actrice britannique incarne la gouvernante volant au moyen de son parapluie dans « Mary Poppins » ?",
+      "answer": "Julie Andrews",
+      "accept": [
+        "Andrews"
+      ],
+      "choices": [
+        "Audrey Hepburn",
+        "Deborah Kerr",
+        "Maggie Smith"
+      ],
+      "explanation": "C'était son premier rôle au cinéma, et il lui valut l'Oscar ; l'année suivante, elle triompha dans « La Mélodie du bonheur ».",
+      "wikipedia": "Julie Andrews"
+    },
+    {
+      "id": "cinema-tv-126",
+      "difficulty": 1,
+      "question": "Quel acteur danse sous l'averse, accroché à un réverbère, dans « Chantons sous la pluie » ?",
+      "answer": "Gene Kelly",
+      "accept": [
+        "Kelly"
+      ],
+      "choices": [
+        "Fred Astaire",
+        "Frank Sinatra",
+        "Donald O'Connor"
+      ],
+      "explanation": "Il coréalisa le film avec Stanley Donen ; l'histoire se déroule à Hollywood au moment du passage du muet au parlant.",
+      "wikipedia": "Chantons sous la pluie"
+    },
+    {
+      "id": "cinema-tv-127",
+      "difficulty": 1,
+      "question": "Quel film musical réunit John Travolta et Olivia Newton-John en lycéens amoureux, Danny et Sandy ?",
+      "answer": "Grease",
+      "accept": [],
+      "choices": [
+        "La Fièvre du samedi soir",
+        "Fame",
+        "Footloose"
+      ],
+      "explanation": "L'action se déroule au lycée Rydell à la fin des années 1950 ; la bande des garçons s'appelle les T-Birds et celle des filles les Pink Ladies.",
+      "wikipedia": "Grease (film)"
+    },
+    {
+      "id": "cinema-tv-128",
+      "difficulty": 1,
+      "question": "Quel acteur incarne Tony Stark, milliardaire inventeur caché sous l'armure d'Iron Man, dans les films Marvel ?",
+      "answer": "Robert Downey Jr.",
+      "accept": [
+        "Robert Downey Junior",
+        "Robert Downey Jr",
+        "Downey"
+      ],
+      "choices": [
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "explanation": "Son « Iron Man » de 2008 a lancé l'univers cinématographique Marvel, et sa réplique finale « Je suis Iron Man » révèle d'emblée l'identité du héros.",
+      "wikipedia": "Robert Downey Jr."
+    },
+    {
+      "id": "cinema-tv-129",
+      "difficulty": 1,
+      "question": "Quel journaliste du Daily Planet, à Metropolis, cache l'identité secrète de Superman ?",
+      "answer": "Clark Kent",
+      "accept": [
+        "Kent"
+      ],
+      "choices": [
+        "Peter Parker",
+        "Bruce Wayne",
+        "Jimmy Olsen"
+      ],
+      "explanation": "Venu de la planète Krypton sous le nom de Kal-El, il fut recueilli enfant par un couple de fermiers du Kansas, les Kent.",
+      "wikipedia": "Superman"
+    },
+    {
+      "id": "cinema-tv-130",
+      "difficulty": 1,
+      "question": "Quel petit garçon africain, héros de Michel Ocelot, affronte la sorcière Karaba ?",
+      "answer": "Kirikou",
+      "accept": [],
+      "choices": [
+        "Azur",
+        "Mowgli",
+        "Tom Pouce"
+      ],
+      "explanation": "Le premier film de la série, sorti en 1998, a pour musique une partition du chanteur sénégalais Youssou N'Dour.",
+      "wikipedia": "Kirikou et la Sorcière"
+    },
+    {
+      "id": "cinema-tv-131",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une prise de vue où la caméra, placée plus bas que le sujet, le filme vers le haut ?",
+      "answer": "Contre-plongée",
+      "accept": [
+        "contreplongée"
+      ],
+      "choices": [
+        "Plongée",
+        "Panoramique",
+        "Travelling"
+      ],
+      "explanation": "Ce cadrage grandit le personnage et lui donne un air puissant ou menaçant, à l'inverse de la plongée qui l'écrase.",
+      "wikipedia": "Plongée et contre-plongée"
+    },
+    {
+      "id": "cinema-tv-132",
+      "difficulty": 1,
+      "question": "Quel studio hollywoodien ouvre ses films par le rugissement d'un lion dans un cercle de pellicule ?",
+      "answer": "Metro-Goldwyn-Mayer",
+      "accept": [
+        "MGM"
+      ],
+      "choices": [
+        "Paramount Pictures",
+        "Universal Pictures",
+        "Warner Bros."
+      ],
+      "explanation": "Le lion de la MGM, surnommé Leo, a été incarné par plusieurs fauves successifs ; la devise latine « Ars gratia artis » l'entoure.",
+      "wikipedia": "Metro-Goldwyn-Mayer"
+    },
+    {
+      "id": "cinema-tv-133",
+      "difficulty": 1,
+      "question": "Comment s'appellent les récompenses annuelles du cinéma français, dont la statuette compressée est l'œuvre d'un sculpteur marseillais ?",
+      "answer": "César",
+      "accept": [
+        "César du cinéma"
+      ],
+      "choices": [
+        "Molières",
+        "Victoires",
+        "Lumières"
+      ],
+      "explanation": "La statuette doit son nom au sculpteur César Baldaccini ; la première cérémonie, en 1976, fut présidée par Jean Gabin.",
+      "wikipedia": "César du cinéma"
+    },
+    {
+      "id": "cinema-tv-134",
+      "difficulty": 1,
+      "question": "Quel maître des arts martiaux affronte Chuck Norris dans le Colisée de Rome dans « La Fureur du dragon » ?",
+      "answer": "Bruce Lee",
+      "accept": [
+        "Lee"
+      ],
+      "choices": [
+        "Jackie Chan",
+        "Jet Li",
+        "Sammo Hung"
+      ],
+      "explanation": "Bruce Lee a lui-même écrit et réalisé ce film ; il mourut l'année suivante, à 32 ans, peu avant la sortie d'« Opération Dragon ».",
+      "wikipedia": "La Fureur du dragon"
+    },
+    {
+      "id": "cinema-tv-135",
+      "difficulty": 1,
+      "question": "Comment surnomme-t-on l'industrie du cinéma en langue hindi, installée à Bombay ?",
+      "answer": "Bollywood",
+      "accept": [],
+      "choices": [
+        "Kollywood",
+        "Nollywood",
+        "Tollywood"
+      ],
+      "explanation": "Le mot combine Bombay, ancien nom de Mumbai, et Hollywood ; ses films sont célèbres pour leurs séquences chantées et dansées.",
+      "wikipedia": "Bollywood"
+    },
+    {
+      "id": "cinema-tv-136",
+      "difficulty": 1,
+      "question": "Quel monstre géant né des essais nucléaires surgit de la mer pour ravager Tokyo dans un film japonais de 1954 ?",
+      "answer": "Godzilla",
+      "accept": [],
+      "choices": [
+        "Mothra",
+        "Rodan",
+        "Gamera"
+      ],
+      "explanation": "Dans le film d'Ishirō Honda, le monstre est interprété par un acteur enfermé dans un lourd costume, technique surnommée « suitmation ».",
+      "wikipedia": "Godzilla (film, 1954)"
+    },
+    {
+      "id": "cinema-tv-137",
+      "difficulty": 1,
+      "question": "Quel duo comique associait un Anglais maigre et pleurnicheur et un Américain corpulent et colérique ?",
+      "answer": "Laurel et Hardy",
+      "accept": [
+        "Laurel and Hardy"
+      ],
+      "choices": [
+        "Abbott et Costello",
+        "Les Marx Brothers",
+        "Bud et Lou"
+      ],
+      "explanation": "Stan Laurel, l'Anglais, avait débuté sur scène dans la même troupe que Charlie Chaplin, dont il fut un temps la doublure.",
+      "wikipedia": "Laurel et Hardy"
+    },
+    {
+      "id": "cinema-tv-138",
+      "difficulty": 1,
+      "question": "Quel acteur, mort à 24 ans au volant de sa Porsche, était la vedette de « La Fureur de vivre » ?",
+      "answer": "James Dean",
+      "accept": [
+        "Dean"
+      ],
+      "choices": [
+        "Montgomery Clift",
+        "Marlon Brando",
+        "Paul Newman"
+      ],
+      "explanation": "Il n'a tenu le premier rôle que dans trois films ; deux lui valurent des nominations posthumes à l'Oscar du meilleur acteur.",
+      "wikipedia": "James Dean"
+    },
+    {
+      "id": "cinema-tv-139",
+      "difficulty": 1,
+      "question": "Quelle actrice de « Fenêtre sur cour » a quitté le cinéma pour épouser le prince Rainier III de Monaco ?",
+      "answer": "Grace Kelly",
+      "accept": [
+        "Kelly"
+      ],
+      "choices": [
+        "Audrey Hepburn",
+        "Kim Novak",
+        "Ingrid Bergman"
+      ],
+      "explanation": "Fille d'un riche entrepreneur de Philadelphie, elle reçut l'Oscar pour « Une fille de la province » avant ce mariage célébré en 1956.",
+      "wikipedia": "Grace Kelly"
+    },
+    {
+      "id": "cinema-tv-140",
+      "difficulty": 1,
+      "question": "Quel acteur incarne le pilote de chasse Pete « Maverick » Mitchell dans « Top Gun » ?",
+      "answer": "Tom Cruise",
+      "accept": [
+        "Cruise"
+      ],
+      "choices": [
+        "Val Kilmer",
+        "Tom Hanks",
+        "Kevin Costner"
+      ],
+      "explanation": "Dans le film de Tony Scott, Val Kilmer joue Iceman, rival de Maverick à l'école de pilotes d'élite de la Navy.",
+      "wikipedia": "Top Gun"
+    },
+    {
+      "id": "cinema-tv-141",
+      "difficulty": 1,
+      "question": "Quel policier new-yorkais, incarné par Bruce Willis, affronte seul des preneurs d'otages dans la tour Nakatomi ?",
+      "answer": "John McClane",
+      "accept": [
+        "McClane"
+      ],
+      "choices": [
+        "Martin Riggs",
+        "Axel Foley",
+        "John Matrix"
+      ],
+      "explanation": "Dans « Piège de cristal », il affronte Hans Gruber, incarné par Alan Rickman, en courant pieds nus sur du verre brisé.",
+      "wikipedia": "Piège de cristal"
+    },
+    {
+      "id": "cinema-tv-142",
+      "difficulty": 1,
+      "question": "Quel acteur a enfin reçu l'Oscar pour « The Revenant », où un grizzli attaque son personnage de trappeur ?",
+      "answer": "Leonardo DiCaprio",
+      "accept": [
+        "DiCaprio"
+      ],
+      "choices": [
+        "Matt Damon",
+        "Brad Pitt",
+        "Christian Bale"
+      ],
+      "explanation": "Il y incarne Hugh Glass, un trappeur qui a réellement existé, laissé pour mort par ses compagnons au début du XIXe siècle.",
+      "wikipedia": "The Revenant"
+    },
+    {
+      "id": "cinema-tv-143",
+      "difficulty": 1,
+      "question": "Quel film de Spielberg s'ouvre sur le débarquement meurtrier des troupes américaines à Omaha Beach ?",
+      "answer": "Il faut sauver le soldat Ryan",
+      "accept": [
+        "Soldat Ryan"
+      ],
+      "choices": [
+        "Le Jour le plus long",
+        "La Ligne rouge",
+        "Band of Brothers"
+      ],
+      "explanation": "Tom Hanks y joue le capitaine Miller, chargé de retrouver un parachutiste dont les trois frères sont morts au combat.",
+      "wikipedia": "Il faut sauver le soldat Ryan"
+    },
+    {
+      "id": "cinema-tv-144",
+      "difficulty": 1,
+      "question": "Quel film australien de George Miller suit un policier de la route dans un monde ravagé par la pénurie d'essence ?",
+      "answer": "Mad Max",
+      "accept": [],
+      "choices": [
+        "Waterworld",
+        "Le Bon, la Brute et le Truand",
+        "Terminator"
+      ],
+      "explanation": "Mel Gibson s'y fit connaître ; la saga a connu une suite tardive en 2015, « Fury Road », avec Tom Hardy dans le rôle.",
+      "wikipedia": "Mad Max"
+    },
+    {
+      "id": "cinema-tv-145",
+      "difficulty": 1,
+      "question": "Quelle princesse d'Alderaan, jouée par Carrie Fisher, porte une coiffure en macarons dans « Star Wars » ?",
+      "answer": "Leia Organa",
+      "accept": [
+        "Leia",
+        "Princesse Leia"
+      ],
+      "choices": [
+        "Padmé Amidala",
+        "Rey",
+        "Mon Mothma"
+      ],
+      "explanation": "Dans « Le Retour du Jedi », elle apprend qu'elle est la sœur jumelle de Luke Skywalker et donc la fille d'Anakin.",
+      "wikipedia": "Leia Organa"
+    },
+    {
+      "id": "cinema-tv-146",
+      "difficulty": 1,
+      "question": "Quel film montre Jim Carrey vivant sans le savoir dans une ville-décor filmée jour et nuit pour la télévision ?",
+      "answer": "The Truman Show",
+      "accept": [],
+      "choices": [
+        "Bruce tout-puissant",
+        "The Mask",
+        "Pleasantville"
+      ],
+      "explanation": "Le film de Peter Weir imagine une ville entière, Seahaven, construite sous un dôme géant où tous les habitants sont des acteurs.",
+      "wikipedia": "The Truman Show"
+    },
+    {
+      "id": "cinema-tv-147",
+      "difficulty": 1,
+      "question": "Quelle méchante de Disney rêve d'un manteau taillé dans la fourrure de chiots dalmatiens ?",
+      "answer": "Cruella d'Enfer",
+      "accept": [
+        "Cruella",
+        "Cruella De Vil"
+      ],
+      "choices": [
+        "Ursula",
+        "Maléfique",
+        "Madame Médusa"
+      ],
+      "explanation": "Le personnage vient du roman de Dodie Smith ; Glenn Close l'a incarnée en prises de vues réelles dans les années 1990.",
+      "wikipedia": "Cruella d'Enfer"
+    },
+    {
+      "id": "cinema-tv-148",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la voix d'un narrateur que l'on entend sans le voir apparaître à l'écran ?",
+      "answer": "Voix off",
+      "accept": [
+        "voix hors champ"
+      ],
+      "choices": [
+        "Doublage",
+        "Bruitage",
+        "Sous-titre"
+      ],
+      "explanation": "Elle sert souvent à faire entendre les pensées d'un personnage, comme dans « Le Fabuleux Destin d'Amélie Poulain », raconté par André Dussollier.",
+      "wikipedia": "Voix off"
+    },
+    {
+      "id": "cinema-tv-149",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le plan qui cadre uniquement un visage, voire un objet, de très près ?",
+      "answer": "Gros plan",
+      "accept": [],
+      "choices": [
+        "Plan moyen",
+        "Plan d'ensemble",
+        "Plan américain"
+      ],
+      "explanation": "On attribue souvent à David W. Griffith la diffusion du gros plan pour faire ressentir les émotions des acteurs aux spectateurs.",
+      "wikipedia": "Plan (cinéma)"
+    },
+    {
+      "id": "cinema-tv-150",
+      "difficulty": 1,
+      "question": "Quel film de Spielberg met en scène des humains communiquant avec des extraterrestres grâce à cinq notes de musique ?",
+      "answer": "Rencontres du troisième type",
+      "accept": [],
+      "choices": [
+        "Premier Contact",
+        "Contact",
+        "Abyss"
+      ],
+      "explanation": "François Truffaut y tient le rôle du scientifique français Claude Lacombe, l'une de ses rares apparitions dans le film d'un autre.",
+      "wikipedia": "Rencontres du troisième type"
+    },
+    {
+      "id": "cinema-tv-151",
+      "difficulty": 1,
+      "question": "Quelle actrice autrichienne a incarné l'impératrice Élisabeth dans la trilogie « Sissi » d'Ernst Marischka ?",
+      "answer": "Romy Schneider",
+      "accept": [
+        "Schneider"
+      ],
+      "choices": [
+        "Marlene Dietrich",
+        "Hildegard Knef",
+        "Maria Schell"
+      ],
+      "explanation": "Lassée de ce rôle, elle s'installa en France où elle tourna notamment « Les Choses de la vie » et « César et Rosalie » avec Claude Sautet.",
+      "wikipedia": "Sissi (film)"
+    },
+    {
+      "id": "cinema-tv-152",
+      "difficulty": 1,
+      "question": "Quel acteur, surnommé « Bébel », a enchaîné les cascades dans « L'Homme de Rio » de Philippe de Broca ?",
+      "answer": "Jean-Paul Belmondo",
+      "accept": [
+        "Belmondo"
+      ],
+      "choices": [
+        "Alain Delon",
+        "Lino Ventura",
+        "Jean Marais"
+      ],
+      "explanation": "Belmondo tenait à réaliser lui-même ses cascades, comme suspendu sous un hélicoptère au-dessus de Venise dans « Le Guignolo ».",
+      "wikipedia": "Jean-Paul Belmondo"
+    },
+    {
+      "id": "cinema-tv-153",
+      "difficulty": 1,
+      "question": "Quel acteur hongkongais, réputé pour exécuter lui-même ses cascades, fait équipe avec Chris Tucker dans « Rush Hour » ?",
+      "answer": "Jackie Chan",
+      "accept": [
+        "Chan"
+      ],
+      "choices": [
+        "Jet Li",
+        "Bruce Lee",
+        "Chow Yun-fat"
+      ],
+      "explanation": "Formé dès l'enfance à l'opéra de Pékin, il a été blessé à de nombreuses reprises, notamment au crâne lors d'un tournage en Yougoslavie.",
+      "wikipedia": "Jackie Chan"
+    },
+    {
+      "id": "cinema-tv-154",
+      "difficulty": 1,
+      "question": "Quel film révèle la jeune Sophie Marceau en Vic, adolescente parisienne qui découvre ses premières soirées dansantes ?",
+      "answer": "La Boum",
+      "accept": [],
+      "choices": [
+        "L'Étudiante",
+        "À nos amours",
+        "Diabolo menthe"
+      ],
+      "explanation": "Dans le film de Claude Pinoteau, Claude Brasseur joue le père de Vic, et Brigitte Fossey sa mère ; la chanson « Reality » en est le slow emblématique.",
+      "wikipedia": "La Boum"
+    },
+    {
+      "id": "cinema-tv-155",
+      "difficulty": 1,
+      "question": "Quel film se termine sur la découverte de la statue de la Liberté ensablée par l'astronaute Taylor ?",
+      "answer": "La Planète des singes",
+      "accept": [],
+      "choices": [
+        "Le Jour d'après",
+        "Soleil vert",
+        "2001, l'Odyssée de l'espace"
+      ],
+      "explanation": "Le film adapte un roman français de Pierre Boulle ; Charlton Heston y incarne l'astronaute échoué sur une planète dominée par des singes.",
+      "wikipedia": "La Planète des singes (film, 1968)"
+    },
+    {
+      "id": "cinema-tv-156",
+      "difficulty": 1,
+      "question": "Quel cinéaste britannique a réalisé « Inception », « Interstellar » et la trilogie « The Dark Knight » ?",
+      "answer": "Christopher Nolan",
+      "accept": [
+        "Nolan"
+      ],
+      "choices": [
+        "Ridley Scott",
+        "Denis Villeneuve",
+        "Sam Mendes"
+      ],
+      "explanation": "Il a obtenu l'Oscar de la meilleure réalisation pour « Oppenheimer », biographie du physicien qui dirigea le projet Manhattan.",
+      "wikipedia": "Christopher Nolan"
+    },
+    {
+      "id": "cinema-tv-157",
+      "difficulty": 1,
+      "question": "Quel cinéaste a réalisé « Beetlejuice » et « Edward aux mains d'argent », avec Johnny Depp en jeune homme inachevé ?",
+      "answer": "Tim Burton",
+      "accept": [
+        "Burton"
+      ],
+      "choices": [
+        "Henry Selick",
+        "Sam Raimi",
+        "Terry Gilliam"
+      ],
+      "explanation": "Avant de devenir réalisateur, Tim Burton fut dessinateur aux studios Disney, qui le licencièrent après son court métrage « Frankenweenie ».",
+      "wikipedia": "Tim Burton"
+    },
+    {
+      "id": "cinema-tv-158",
+      "difficulty": 1,
+      "question": "Comment s'appelle le trottoir de Los Angeles incrusté d'étoiles portant les noms de célébrités du spectacle ?",
+      "answer": "Hollywood Walk of Fame",
+      "accept": [
+        "Walk of Fame"
+      ],
+      "choices": [
+        "Sunset Strip",
+        "Rodeo Drive",
+        "Mulholland Drive"
+      ],
+      "explanation": "Plus de 2 700 étoiles de granit rose bordent Hollywood Boulevard et Vine Street ; Mickey Mouse et Bugs Bunny y ont aussi la leur.",
+      "wikipedia": "Hollywood Walk of Fame"
+    },
+    {
+      "id": "cinema-tv-159",
+      "difficulty": 1,
+      "question": "Quelle comédie musicale filmée transpose Roméo et Juliette dans la rivalité des bandes des Jets et des Sharks ?",
+      "answer": "West Side Story",
+      "accept": [],
+      "choices": [
+        "Grease",
+        "Hair",
+        "Fame"
+      ],
+      "explanation": "Le film de 1961, coréalisé par Robert Wise et Jerome Robbins, a reçu dix Oscars ; Spielberg en a tourné une nouvelle version.",
+      "wikipedia": "West Side Story (film, 1961)"
+    },
+    {
+      "id": "cinema-tv-160",
+      "difficulty": 1,
+      "question": "Quel détective à la loupe et à la casquette de chasseur, créé par Conan Doyle, est le personnage le plus porté à l'écran ?",
+      "answer": "Sherlock Holmes",
+      "accept": [
+        "Holmes"
+      ],
+      "choices": [
+        "Hercule Poirot",
+        "Arsène Lupin",
+        "Rouletabille"
+      ],
+      "explanation": "Il a été joué par Basil Rathbone, Jeremy Brett, Robert Downey Jr. ou encore Benedict Cumberbatch, toujours flanqué du docteur Watson.",
+      "wikipedia": "Sherlock Holmes"
+    },
+    {
+      "id": "cinema-tv-161",
+      "difficulty": 2,
+      "question": "Quel dragueur malchanceux des « Bronzés », incarné par Michel Blanc, assure que « sur un malentendu, ça peut marcher » ?",
+      "answer": "Jean-Claude Dusse",
+      "accept": [
+        "Dusse"
+      ],
+      "choices": [
+        "Popeye",
+        "Bernard Morin",
+        "Jérôme Tarayre"
+      ],
+      "explanation": "La réplique est prononcée dans « Les Bronzés font du ski », où la troupe se perd dans la montagne et goûte la spécialité locale d'un paysan savoyard.",
+      "wikipedia": "Les Bronzés font du ski"
+    },
+    {
+      "id": "cinema-tv-162",
+      "difficulty": 2,
+      "question": "Quelle troupe de café-théâtre réunissait Christian Clavier, Gérard Jugnot, Thierry Lhermitte et Josiane Balasko ?",
+      "answer": "Le Splendid",
+      "accept": [
+        "Splendid",
+        "Troupe du Splendid"
+      ],
+      "choices": [
+        "Le Café de la Gare",
+        "Les Nuls",
+        "Les Inconnus"
+      ],
+      "explanation": "La troupe s'est formée au lycée Pasteur de Neuilly-sur-Seine et tire son nom de la salle parisienne où elle jouait ses spectacles.",
+      "wikipedia": "Le Splendid"
+    },
+    {
+      "id": "cinema-tv-163",
+      "difficulty": 2,
+      "question": "Quel film des Nuls se moque d'un festival de Cannes ensanglanté par un tueur armé d'une faucille et d'un marteau ?",
+      "answer": "La Cité de la peur",
+      "accept": [],
+      "choices": [
+        "Les Bronzés",
+        "Le Dîner de cons",
+        "RRRrrrr!!!"
+      ],
+      "explanation": "Le film, réalisé par Alain Berbérian, a popularisé la « Carioca », danse improvisée par Alain Chabat et Gérard Darmon.",
+      "wikipedia": "La Cité de la peur"
+    },
+    {
+      "id": "cinema-tv-164",
+      "difficulty": 2,
+      "question": "Quel film de Gérard Oury voit Bourvil perdre sa 2 CV, réduite en pièces par la voiture de Louis de Funès ?",
+      "answer": "Le Corniaud",
+      "accept": [],
+      "choices": [
+        "La Grande Vadrouille",
+        "Le Cerveau",
+        "Les Aventures de Rabbi Jacob"
+      ],
+      "explanation": "Antoine Maréchal y convoie à son insu, dans une Cadillac, de la drogue et des bijoux volés de Naples jusqu'à Bordeaux.",
+      "wikipedia": "Le Corniaud"
+    },
+    {
+      "id": "cinema-tv-165",
+      "difficulty": 2,
+      "question": "Quel film de Gérard Oury fait de Louis de Funès un ministre déchu du roi d'Espagne, Don Salluste ?",
+      "answer": "La Folie des grandeurs",
+      "accept": [],
+      "choices": [
+        "Le Corniaud",
+        "Le Cerveau",
+        "Fantômas"
+      ],
+      "explanation": "Cette parodie s'inspire librement de « Ruy Blas » de Victor Hugo ; Yves Montand y remplaça Bourvil, mort avant le tournage.",
+      "wikipedia": "La Folie des grandeurs"
+    },
+    {
+      "id": "cinema-tv-166",
+      "difficulty": 2,
+      "question": "Quel film de Jean Girault voit un extraterrestre s'éprendre de la soupe de deux paysans du Bourbonnais ?",
+      "answer": "La Soupe aux choux",
+      "accept": [],
+      "choices": [
+        "Le Gendarme et les Extra-terrestres",
+        "L'Aile ou la Cuisse",
+        "Le Viager"
+      ],
+      "explanation": "Adapté d'un roman de René Fallet, il réunit Louis de Funès et Jean Carmet ; Jacques Villeret y joue l'extraterrestre surnommé la Denrée.",
+      "wikipedia": "La Soupe aux choux (film)"
+    },
+    {
+      "id": "cinema-tv-167",
+      "difficulty": 2,
+      "question": "Quelle comédie musicale de Jacques Demy fait de Catherine Deneuve et Françoise Dorléac des sœurs jumelles ?",
+      "answer": "Les Demoiselles de Rochefort",
+      "accept": [],
+      "choices": [
+        "Peau d'âne",
+        "Lola",
+        "Les Parapluies de Cherbourg"
+      ],
+      "explanation": "Les deux actrices étaient sœurs dans la vie ; Françoise Dorléac mourut dans un accident de voiture quelques mois après la sortie du film.",
+      "wikipedia": "Les Demoiselles de Rochefort"
+    },
+    {
+      "id": "cinema-tv-168",
+      "difficulty": 2,
+      "question": "Quel film de Truffaut met en scène Jeanne Moreau en Catherine, aimée de deux amis, un Autrichien et un Français ?",
+      "answer": "Jules et Jim",
+      "accept": [],
+      "choices": [
+        "La Peau douce",
+        "Baisers volés",
+        "La Nuit américaine"
+      ],
+      "explanation": "Adapté d'un roman d'Henri-Pierre Roché, le film comporte la chanson « Le Tourbillon de la vie », chantée par Jeanne Moreau.",
+      "wikipedia": "Jules et Jim"
+    },
+    {
+      "id": "cinema-tv-169",
+      "difficulty": 2,
+      "question": "Quel film de Jacques Tati oppose Monsieur Hulot à la villa ultramoderne de la famille Arpel ?",
+      "answer": "Mon oncle",
+      "accept": [],
+      "choices": [
+        "Playtime",
+        "Jour de fête",
+        "Trafic"
+      ],
+      "explanation": "Le film a reçu l'Oscar du meilleur film en langue étrangère ; la villa Arpel, avec son poisson-fontaine, était un décor construit à Saint-Maurice.",
+      "wikipedia": "Mon oncle (film, 1958)"
+    },
+    {
+      "id": "cinema-tv-170",
+      "difficulty": 2,
+      "question": "Quel gérant de motel, dominé par sa mère, est le personnage central de « Psychose » d'Alfred Hitchcock ?",
+      "answer": "Norman Bates",
+      "accept": [
+        "Bates"
+      ],
+      "choices": [
+        "Jack Torrance",
+        "Hannibal Lecter",
+        "Michael Myers"
+      ],
+      "explanation": "Anthony Perkins l'a incarné ; le personnage s'inspire en partie du criminel Ed Gein, qui hanta aussi d'autres films d'horreur.",
+      "wikipedia": "Psychose (film, 1960)"
+    },
+    {
+      "id": "cinema-tv-171",
+      "difficulty": 2,
+      "question": "Quel film d'Hitchcock montre Cary Grant poursuivi par un avion d'épandage au milieu d'un champ de maïs ?",
+      "answer": "La Mort aux trousses",
+      "accept": [],
+      "choices": [
+        "Les Enchaînés",
+        "Sueurs froides",
+        "La Main au collet"
+      ],
+      "explanation": "Le film s'achève par une poursuite sur les visages géants des présidents sculptés du mont Rushmore.",
+      "wikipedia": "La Mort aux trousses"
+    },
+    {
+      "id": "cinema-tv-172",
+      "difficulty": 2,
+      "question": "Quel film d'Hitchcock montre James Stewart, policier sujet au vertige, obsédé par une femme jouée par Kim Novak ?",
+      "answer": "Sueurs froides",
+      "accept": [
+        "Vertigo"
+      ],
+      "choices": [
+        "Fenêtre sur cour",
+        "La Mort aux trousses",
+        "Psychose"
+      ],
+      "explanation": "Pour traduire le vertige, Hitchcock combina un travelling arrière et un zoom avant, un effet aujourd'hui appelé « effet Vertigo ».",
+      "wikipedia": "Sueurs froides"
+    },
+    {
+      "id": "cinema-tv-173",
+      "difficulty": 2,
+      "question": "Quel western de Sergio Leone met en scène un tueur mutique surnommé « Harmonica », joué par Charles Bronson ?",
+      "answer": "Il était une fois dans l'Ouest",
+      "accept": [],
+      "choices": [
+        "Il était une fois la révolution",
+        "Mon nom est Personne",
+        "Et pour quelques dollars de plus"
+      ],
+      "explanation": "Henry Fonda, habitué aux rôles de héros, y incarne à contre-emploi Frank, tueur impitoyable au service d'un baron du chemin de fer.",
+      "wikipedia": "Il était une fois dans l'Ouest"
+    },
+    {
+      "id": "cinema-tv-174",
+      "difficulty": 2,
+      "question": "Quel compositeur italien a enfin reçu un Oscar compétitif en 2016 pour la musique des « Huit Salopards » de Tarantino ?",
+      "answer": "Ennio Morricone",
+      "accept": [
+        "Morricone"
+      ],
+      "choices": [
+        "Nino Rota",
+        "Riz Ortolani",
+        "Luis Bacalov"
+      ],
+      "explanation": "Fidèle complice de Sergio Leone, il est aussi l'auteur de la musique de « Mission » et de « Cinema Paradiso ».",
+      "wikipedia": "Ennio Morricone"
+    },
+    {
+      "id": "cinema-tv-175",
+      "difficulty": 2,
+      "question": "Quel compositeur américain a écrit les thèmes de « Star Wars », des « Dents de la mer » et des premiers « Harry Potter » ?",
+      "answer": "John Williams",
+      "accept": [
+        "Williams"
+      ],
+      "choices": [
+        "Hans Zimmer",
+        "Jerry Goldsmith",
+        "James Horner"
+      ],
+      "explanation": "Il est l'une des personnes les plus nommées de l'histoire des Oscars, et a longtemps dirigé l'orchestre des Boston Pops.",
+      "wikipedia": "John Williams (compositeur)"
+    },
+    {
+      "id": "cinema-tv-176",
+      "difficulty": 2,
+      "question": "Quel compositeur allemand a signé la musique du « Roi lion », de « Gladiator » et d'« Inception » ?",
+      "answer": "Hans Zimmer",
+      "accept": [
+        "Zimmer"
+      ],
+      "choices": [
+        "John Williams",
+        "Howard Shore",
+        "Danny Elfman"
+      ],
+      "explanation": "Il a reçu l'Oscar pour « Le Roi lion », puis un second pour « Dune » de Denis Villeneuve.",
+      "wikipedia": "Hans Zimmer"
+    },
+    {
+      "id": "cinema-tv-177",
+      "difficulty": 2,
+      "question": "Quel acteur joue François Perrin, violoniste distrait pris pour un espion, dans « Le Grand Blond avec une chaussure noire » ?",
+      "answer": "Pierre Richard",
+      "accept": [
+        "Richard"
+      ],
+      "choices": [
+        "Jean Rochefort",
+        "Jacques Villeret",
+        "Bernard Blier"
+      ],
+      "explanation": "Mireille Darc y apparaît dans une célèbre robe noire au dos entièrement nu, et la musique est signée Vladimir Cosma.",
+      "wikipedia": "Le Grand Blond avec une chaussure noire"
+    },
+    {
+      "id": "cinema-tv-178",
+      "difficulty": 2,
+      "question": "Quel film de Francis Veber envoie un comptable malchanceux et un détective privé chercher une héritière au Mexique ?",
+      "answer": "La Chèvre",
+      "accept": [],
+      "choices": [
+        "Les Compères",
+        "Les Fugitifs",
+        "Le Jouet"
+      ],
+      "explanation": "C'est la première des trois comédies de Veber réunissant Pierre Richard et Gérard Depardieu, avant « Les Compères » et « Les Fugitifs ».",
+      "wikipedia": "La Chèvre (film, 1981)"
+    },
+    {
+      "id": "cinema-tv-179",
+      "difficulty": 2,
+      "question": "Quel acteur incarne Jef Costello, tueur à gages solitaire au chapeau mou, dans « Le Samouraï » de Jean-Pierre Melville ?",
+      "answer": "Alain Delon",
+      "accept": [
+        "Delon"
+      ],
+      "choices": [
+        "Jean-Paul Belmondo",
+        "Lino Ventura",
+        "Yves Montand"
+      ],
+      "explanation": "Le personnage vit dans une chambre dépouillée avec un bouvreuil en cage, qui l'avertit par son agitation des visites indésirables.",
+      "wikipedia": "Le Samouraï"
+    },
+    {
+      "id": "cinema-tv-180",
+      "difficulty": 2,
+      "question": "Quel acteur joue le mécanicien de locomotive Jacques Lantier dans « La Bête humaine » de Jean Renoir ?",
+      "answer": "Jean Gabin",
+      "accept": [
+        "Gabin"
+      ],
+      "choices": [
+        "Michel Simon",
+        "Fernandel",
+        "Pierre Fresnay"
+      ],
+      "explanation": "Le film adapte le roman d'Émile Zola ; Jean Gabin obtint son permis de conduire les locomotives pour tourner les scènes sur la ligne Paris-Le Havre.",
+      "wikipedia": "La Bête humaine (film)"
+    },
+    {
+      "id": "cinema-tv-181",
+      "difficulty": 2,
+      "question": "Quelle actrice dirige le théâtre Montmartre et cache son mari juif dans la cave dans « Le Dernier Métro » de Truffaut ?",
+      "answer": "Catherine Deneuve",
+      "accept": [
+        "Deneuve"
+      ],
+      "choices": [
+        "Isabelle Adjani",
+        "Fanny Ardant",
+        "Isabelle Huppert"
+      ],
+      "explanation": "Le film a reçu dix César en 1981, dont ceux du meilleur film, du meilleur acteur pour Gérard Depardieu et de la meilleure actrice.",
+      "wikipedia": "Le Dernier Métro"
+    },
+    {
+      "id": "cinema-tv-182",
+      "difficulty": 2,
+      "question": "Quel cinéaste espagnol a coréalisé avec Salvador Dalí « Un chien andalou » et sa scène d'œil tranché au rasoir ?",
+      "answer": "Luis Buñuel",
+      "accept": [
+        "Bunuel",
+        "Buñuel"
+      ],
+      "choices": [
+        "Pedro Almodóvar",
+        "Carlos Saura",
+        "Fernando Arrabal"
+      ],
+      "explanation": "Exilé au Mexique puis installé en France, Buñuel a reçu l'Oscar du meilleur film étranger pour « Le Charme discret de la bourgeoisie ».",
+      "wikipedia": "Un chien andalou"
+    },
+    {
+      "id": "cinema-tv-183",
+      "difficulty": 2,
+      "question": "Quel cinéaste espagnol, figure de la Movida madrilène, a réalisé « Tout sur ma mère » et « Volver » ?",
+      "answer": "Pedro Almodóvar",
+      "accept": [
+        "Almodovar"
+      ],
+      "choices": [
+        "Luis Buñuel",
+        "Carlos Saura",
+        "Alejandro Amenábar"
+      ],
+      "explanation": "Penélope Cruz est l'une de ses actrices fétiches ; il a reçu le Lion d'or d'honneur à Venise et l'Oscar du meilleur scénario pour « Parle avec elle ».",
+      "wikipedia": "Pedro Almodóvar"
+    },
+    {
+      "id": "cinema-tv-184",
+      "difficulty": 2,
+      "question": "Quel acteur et réalisateur italien fait croire à son fils, dans un camp de concentration, que tout n'est qu'un jeu ?",
+      "answer": "Roberto Benigni",
+      "accept": [
+        "Benigni"
+      ],
+      "choices": [
+        "Nanni Moretti",
+        "Marcello Mastroianni",
+        "Toni Servillo"
+      ],
+      "explanation": "Pour « La vie est belle », il reçut l'Oscar du meilleur acteur, qu'il célébra en escaladant les sièges de la salle.",
+      "wikipedia": "La vie est belle (film, 1997)"
+    },
+    {
+      "id": "cinema-tv-185",
+      "difficulty": 2,
+      "question": "Quel film de Giuseppe Tornatore raconte l'amitié d'un garçon et du projectionniste d'un cinéma de village sicilien ?",
+      "answer": "Cinema Paradiso",
+      "accept": [],
+      "choices": [
+        "Le Guépard",
+        "Amarcord",
+        "La Strada"
+      ],
+      "explanation": "Philippe Noiret y incarne Alfredo, le projectionniste ; le film se clôt sur un montage de baisers coupés jadis par le curé censeur.",
+      "wikipedia": "Cinema Paradiso"
+    },
+    {
+      "id": "cinema-tv-186",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le courant du cinéma italien d'après-guerre filmant la vie des gens modestes en décors réels ?",
+      "answer": "Néoréalisme",
+      "accept": [
+        "néoréalisme italien"
+      ],
+      "choices": [
+        "Expressionnisme",
+        "Nouvelle Vague",
+        "Réalisme poétique"
+      ],
+      "explanation": "Ses cinéastes tournaient souvent avec des acteurs non professionnels, comme dans « Le Voleur de bicyclette » de Vittorio De Sica.",
+      "wikipedia": "Néoréalisme (cinéma)"
+    },
+    {
+      "id": "cinema-tv-187",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le mouvement de jeunes cinéastes français, souvent anciens critiques, apparu à la fin des années 1950 ?",
+      "answer": "Nouvelle Vague",
+      "accept": [],
+      "choices": [
+        "Cinéma du look",
+        "Réalisme poétique",
+        "Cinéma vérité"
+      ],
+      "explanation": "L'expression, lancée par la journaliste Françoise Giroud dans « L'Express », désignait d'abord une nouvelle génération de jeunes Français.",
+      "wikipedia": "Nouvelle Vague"
+    },
+    {
+      "id": "cinema-tv-188",
+      "difficulty": 2,
+      "question": "Quelle cinéaste, épouse de Jacques Demy, a réalisé « Cléo de 5 à 7 » et « Sans toit ni loi » ?",
+      "answer": "Agnès Varda",
+      "accept": [
+        "Varda"
+      ],
+      "choices": [
+        "Chantal Akerman",
+        "Claire Denis",
+        "Marguerite Duras"
+      ],
+      "explanation": "Souvent surnommée « la grand-mère de la Nouvelle Vague », elle était aussi photographe et a reçu un Oscar d'honneur.",
+      "wikipedia": "Agnès Varda"
+    },
+    {
+      "id": "cinema-tv-189",
+      "difficulty": 2,
+      "question": "Quel cinéaste a tourné « Le Mépris », avec Brigitte Bardot et Michel Piccoli, dans la villa Malaparte de Capri ?",
+      "answer": "Jean-Luc Godard",
+      "accept": [
+        "Godard"
+      ],
+      "choices": [
+        "François Truffaut",
+        "Roger Vadim",
+        "Louis Malle"
+      ],
+      "explanation": "Le film adapte un roman d'Alberto Moravia ; Fritz Lang y joue son propre rôle, celui d'un cinéaste tournant « L'Odyssée ».",
+      "wikipedia": "Le Mépris"
+    },
+    {
+      "id": "cinema-tv-190",
+      "difficulty": 2,
+      "question": "Quel cinéaste autrichien a réalisé « Metropolis », cité futuriste où un robot prend l'apparence de la jeune Maria ?",
+      "answer": "Fritz Lang",
+      "accept": [
+        "Lang"
+      ],
+      "choices": [
+        "Friedrich Wilhelm Murnau",
+        "Georg Wilhelm Pabst",
+        "Ernst Lubitsch"
+      ],
+      "explanation": "Fritz Lang a aussi signé « M le maudit », son premier film parlant, où un tueur d'enfants est démasqué par un sifflement.",
+      "wikipedia": "Fritz Lang"
+    },
+    {
+      "id": "cinema-tv-191",
+      "difficulty": 2,
+      "question": "Quelle actrice allemande incarne la chanteuse de cabaret Lola Lola dans « L'Ange bleu » ?",
+      "answer": "Marlene Dietrich",
+      "accept": [
+        "Dietrich"
+      ],
+      "choices": [
+        "Greta Garbo",
+        "Louise Brooks",
+        "Hedy Lamarr"
+      ],
+      "explanation": "Dans ce film de Josef von Sternberg, un professeur respectable se perd par amour pour elle ; elle partit ensuite faire carrière à Hollywood.",
+      "wikipedia": "L'Ange bleu"
+    },
+    {
+      "id": "cinema-tv-192",
+      "difficulty": 2,
+      "question": "Quel film du studio Ghibli met en scène le prince Ashitaka et une jeune fille élevée par des loups ?",
+      "answer": "Princesse Mononoké",
+      "accept": [
+        "Mononoke"
+      ],
+      "choices": [
+        "Nausicaä de la vallée du vent",
+        "Le Château dans le ciel",
+        "Le Voyage de Chihiro"
+      ],
+      "explanation": "La forêt du film s'inspire de celle de Yakushima, île japonaise classée au patrimoine mondial pour ses cèdres millénaires.",
+      "wikipedia": "Princesse Mononoké"
+    },
+    {
+      "id": "cinema-tv-193",
+      "difficulty": 2,
+      "question": "Quel film d'animation japonais de Katsuhiro Otomo se déroule dans la mégalopole post-apocalyptique de Néo-Tokyo ?",
+      "answer": "Akira",
+      "accept": [],
+      "choices": [
+        "Ghost in the Shell",
+        "Perfect Blue",
+        "Paprika"
+      ],
+      "explanation": "Adapté du manga d'Otomo lui-même, le film a contribué à faire découvrir l'animation japonaise aux spectateurs occidentaux.",
+      "wikipedia": "Akira (film)"
+    },
+    {
+      "id": "cinema-tv-194",
+      "difficulty": 2,
+      "question": "Quel cinéaste taïwanais a réalisé « Tigre et Dragon » puis « Le Secret de Brokeback Mountain » ?",
+      "answer": "Ang Lee",
+      "accept": [
+        "Lee"
+      ],
+      "choices": [
+        "Zhang Yimou",
+        "Wong Kar-wai",
+        "John Woo"
+      ],
+      "explanation": "Il a reçu deux fois l'Oscar de la meilleure réalisation, pour « Brokeback Mountain » puis pour « L'Odyssée de Pi ».",
+      "wikipedia": "Ang Lee"
+    },
+    {
+      "id": "cinema-tv-195",
+      "difficulty": 2,
+      "question": "Quel film sud-coréen de Bong Joon-ho fut le premier film non anglophone à remporter l'Oscar du meilleur film ?",
+      "answer": "Parasite",
+      "accept": [],
+      "choices": [
+        "Old Boy",
+        "Snowpiercer",
+        "The Host"
+      ],
+      "explanation": "Le film, qui oppose une famille pauvre et une famille riche de Séoul, avait aussi reçu la Palme d'or au Festival de Cannes.",
+      "wikipedia": "Parasite (film, 2019)"
+    },
+    {
+      "id": "cinema-tv-196",
+      "difficulty": 2,
+      "question": "Quelle actrice suédoise, surnommée « la Divine », s'est retirée de l'écran à 36 ans après « La Reine Christine » et « Ninotchka » ?",
+      "answer": "Greta Garbo",
+      "accept": [
+        "Garbo"
+      ],
+      "choices": [
+        "Ingrid Bergman",
+        "Marlene Dietrich",
+        "Anita Ekberg"
+      ],
+      "explanation": "Pour « Ninotchka », la publicité annonçait « Garbo rit ! », car l'actrice était réputée pour ses rôles graves et mélancoliques.",
+      "wikipedia": "Greta Garbo"
+    },
+    {
+      "id": "cinema-tv-197",
+      "difficulty": 2,
+      "question": "Quel cinéaste mexicain a réalisé « Le Labyrinthe de Pan » et « La Forme de l'eau » ?",
+      "answer": "Guillermo del Toro",
+      "accept": [
+        "del Toro"
+      ],
+      "choices": [
+        "Alfonso Cuarón",
+        "Alejandro González Iñárritu",
+        "Robert Rodriguez"
+      ],
+      "explanation": "« La Forme de l'eau », histoire d'amour entre une femme muette et une créature aquatique, a reçu l'Oscar du meilleur film et le Lion d'or.",
+      "wikipedia": "Guillermo del Toro"
+    },
+    {
+      "id": "cinema-tv-198",
+      "difficulty": 2,
+      "question": "Quel film de Fernando Meirelles suit l'ascension des gangs dans une favela de Rio de Janeiro ?",
+      "answer": "La Cité de Dieu",
+      "accept": [
+        "Cidade de Deus"
+      ],
+      "choices": [
+        "Tropa de Elite",
+        "Central do Brasil",
+        "Orfeu Negro"
+      ],
+      "explanation": "Le récit est vu par Fusée, un garçon qui rêve de devenir photographe ; la plupart des acteurs venaient eux-mêmes des favelas.",
+      "wikipedia": "La Cité de Dieu (film)"
+    },
+    {
+      "id": "cinema-tv-199",
+      "difficulty": 2,
+      "question": "Quel film met en scène Julie Andrews en novice autrichienne devenue gouvernante des sept enfants von Trapp ?",
+      "answer": "La Mélodie du bonheur",
+      "accept": [],
+      "choices": [
+        "Mary Poppins",
+        "My Fair Lady",
+        "Le Magicien d'Oz"
+      ],
+      "explanation": "L'histoire s'inspire de la vraie famille von Trapp, qui fuit l'Autriche après l'Anschluss ; le film fut tourné en partie à Salzbourg.",
+      "wikipedia": "La Mélodie du bonheur (film)"
+    },
+    {
+      "id": "cinema-tv-200",
+      "difficulty": 2,
+      "question": "Quel danseur a formé avec Ginger Rogers le plus célèbre couple de danse de Hollywood, dans « Top Hat » notamment ?",
+      "answer": "Fred Astaire",
+      "accept": [
+        "Astaire"
+      ],
+      "choices": [
+        "Gene Kelly",
+        "Bing Crosby",
+        "Cyd Charisse"
+      ],
+      "explanation": "On dit de Ginger Rogers qu'elle faisait tout ce qu'il faisait, mais à reculons et en talons hauts.",
+      "wikipedia": "Fred Astaire"
+    },
+    {
+      "id": "cinema-tv-201",
+      "difficulty": 2,
+      "question": "Quel film de Damien Chazelle suit une aspirante actrice et un pianiste de jazz à Los Angeles ?",
+      "answer": "La La Land",
+      "accept": [],
+      "choices": [
+        "Whiplash",
+        "Babylon",
+        "Moulin Rouge"
+      ],
+      "explanation": "Lors de la cérémonie des Oscars, il fut annoncé par erreur meilleur film, avant que l'équipe ne rende la statuette à « Moonlight ».",
+      "wikipedia": "La La Land"
+    },
+    {
+      "id": "cinema-tv-202",
+      "difficulty": 2,
+      "question": "Quel acteur surnommé « the Duke » a été révélé par « La Chevauchée fantastique » de John Ford ?",
+      "answer": "John Wayne",
+      "accept": [
+        "Wayne"
+      ],
+      "choices": [
+        "Gary Cooper",
+        "James Stewart",
+        "Henry Fonda"
+      ],
+      "explanation": "Il a remporté l'Oscar du meilleur acteur pour « Cent dollars pour un shérif », où il incarne un marshal borgne.",
+      "wikipedia": "John Wayne"
+    },
+    {
+      "id": "cinema-tv-203",
+      "difficulty": 2,
+      "question": "Dans quel site aux buttes rocheuses, entre Utah et Arizona, John Ford a-t-il tourné plusieurs de ses westerns ?",
+      "answer": "Monument Valley",
+      "accept": [],
+      "choices": [
+        "Grand Canyon",
+        "Death Valley",
+        "Arches"
+      ],
+      "explanation": "Le site se trouve sur le territoire de la nation navajo ; un point de vue y porte le nom de John Ford Point.",
+      "wikipedia": "Monument Valley"
+    },
+    {
+      "id": "cinema-tv-204",
+      "difficulty": 2,
+      "question": "Quel immigré cubain, devenu baron de la drogue à Miami, est incarné par Al Pacino dans « Scarface » ?",
+      "answer": "Tony Montana",
+      "accept": [
+        "Montana"
+      ],
+      "choices": [
+        "Michael Corleone",
+        "Carlito Brigante",
+        "Frank Lucas"
+      ],
+      "explanation": "Le film de Brian De Palma, écrit par Oliver Stone, est le remake d'un film de gangsters d'Howard Hawks sorti en 1932.",
+      "wikipedia": "Scarface (film, 1983)"
+    },
+    {
+      "id": "cinema-tv-205",
+      "difficulty": 2,
+      "question": "Quel cinéaste new-yorkais a réalisé « Les Affranchis » et « Raging Bull », tous deux avec Robert De Niro ?",
+      "answer": "Martin Scorsese",
+      "accept": [
+        "Scorsese"
+      ],
+      "choices": [
+        "Brian De Palma",
+        "Francis Ford Coppola",
+        "Sidney Lumet"
+      ],
+      "explanation": "Il a longtemps attendu l'Oscar de la meilleure réalisation, finalement reçu pour « Les Infiltrés », remake d'un polar hongkongais.",
+      "wikipedia": "Martin Scorsese"
+    },
+    {
+      "id": "cinema-tv-206",
+      "difficulty": 2,
+      "question": "Quel acteur a refusé en 1973 son Oscar pour « Le Parrain », envoyant à sa place une militante amérindienne ?",
+      "answer": "Marlon Brando",
+      "accept": [
+        "Brando"
+      ],
+      "choices": [
+        "Al Pacino",
+        "George C. Scott",
+        "Robert Duvall"
+      ],
+      "explanation": "Sacheen Littlefeather monta sur scène pour dénoncer le traitement des Amérindiens par l'industrie du cinéma américain.",
+      "wikipedia": "Marlon Brando"
+    },
+    {
+      "id": "cinema-tv-207",
+      "difficulty": 2,
+      "question": "Quel agent du Trésor, joué par Kevin Costner, traque Al Capone dans « Les Incorruptibles » de Brian De Palma ?",
+      "answer": "Eliot Ness",
+      "accept": [
+        "Ness"
+      ],
+      "choices": [
+        "Melvin Purvis",
+        "Jim Malone",
+        "Frank Serpico"
+      ],
+      "explanation": "Sean Connery y gagne l'Oscar du meilleur second rôle, et la fusillade dans l'escalier de la gare rend hommage au « Cuirassé Potemkine ».",
+      "wikipedia": "Les Incorruptibles (film)"
+    },
+    {
+      "id": "cinema-tv-208",
+      "difficulty": 2,
+      "question": "Quel film de William Friedkin montre une fillette nommée Regan possédée par un démon ?",
+      "answer": "L'Exorciste",
+      "accept": [],
+      "choices": [
+        "La Malédiction",
+        "Rosemary's Baby",
+        "Carrie"
+      ],
+      "explanation": "Adapté d'un roman de William Peter Blatty, il fut le premier film d'horreur nommé à l'Oscar du meilleur film.",
+      "wikipedia": "L'Exorciste"
+    },
+    {
+      "id": "cinema-tv-209",
+      "difficulty": 2,
+      "question": "Quel acteur d'origine hongroise a incarné le comte Dracula dans le film de Tod Browning de 1931 ?",
+      "answer": "Bela Lugosi",
+      "accept": [
+        "Lugosi"
+      ],
+      "choices": [
+        "Boris Karloff",
+        "Lon Chaney",
+        "Christopher Lee"
+      ],
+      "explanation": "Il resta si associé au rôle qu'il fut enterré, à sa demande, vêtu de la cape du vampire.",
+      "wikipedia": "Bela Lugosi"
+    },
+    {
+      "id": "cinema-tv-210",
+      "difficulty": 2,
+      "question": "Quel acteur britannique a interprété la créature de Frankenstein dans le film de James Whale de 1931 ?",
+      "answer": "Boris Karloff",
+      "accept": [
+        "Karloff"
+      ],
+      "choices": [
+        "Bela Lugosi",
+        "Lon Chaney",
+        "Peter Cushing"
+      ],
+      "explanation": "Son maquillage, avec le crâne plat et les bornes au cou, fut créé par Jack Pierce pour Universal et reste l'image classique du monstre.",
+      "wikipedia": "Boris Karloff"
+    },
+    {
+      "id": "cinema-tv-211",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le genre de faux documentaire composé d'images censément retrouvées, comme « Le Projet Blair Witch » ?",
+      "answer": "Found footage",
+      "accept": [
+        "found-footage"
+      ],
+      "choices": [
+        "Docufiction",
+        "Mockumentaire",
+        "Cinéma vérité"
+      ],
+      "explanation": "Le procédé donne l'illusion que les images ont été tournées par les personnages eux-mêmes, souvent disparus ou morts.",
+      "wikipedia": "Found footage"
+    },
+    {
+      "id": "cinema-tv-212",
+      "difficulty": 2,
+      "question": "Quel film adapté de Philip K. Dick suit Rick Deckard, chargé d'éliminer des androïdes appelés réplicants ?",
+      "answer": "Blade Runner",
+      "accept": [],
+      "choices": [
+        "Total Recall",
+        "Minority Report",
+        "Strange Days"
+      ],
+      "explanation": "Le film de Ridley Scott se déroule dans un Los Angeles pluvieux ; sa suite, « Blade Runner 2049 », est signée Denis Villeneuve.",
+      "wikipedia": "Blade Runner"
+    },
+    {
+      "id": "cinema-tv-213",
+      "difficulty": 2,
+      "question": "Quel acteur conduit un quadrige dans la célèbre course de chars de « Ben-Hur » de William Wyler ?",
+      "answer": "Charlton Heston",
+      "accept": [
+        "Heston"
+      ],
+      "choices": [
+        "Kirk Douglas",
+        "Stephen Boyd",
+        "Yul Brynner"
+      ],
+      "explanation": "Le film a reçu onze Oscars, dont celui du meilleur acteur pour Charlton Heston, qui incarna aussi Moïse dans « Les Dix Commandements ».",
+      "wikipedia": "Ben-Hur (film, 1959)"
+    },
+    {
+      "id": "cinema-tv-214",
+      "difficulty": 2,
+      "question": "Quel acteur australien a reçu un Oscar posthume pour son interprétation du Joker dans « The Dark Knight » ?",
+      "answer": "Heath Ledger",
+      "accept": [
+        "Ledger"
+      ],
+      "choices": [
+        "Hugh Jackman",
+        "Russell Crowe",
+        "Guy Pearce"
+      ],
+      "explanation": "Il est mort d'une intoxication médicamenteuse en janvier 2008, quelques mois avant la sortie du film de Christopher Nolan.",
+      "wikipedia": "Heath Ledger"
+    },
+    {
+      "id": "cinema-tv-215",
+      "difficulty": 2,
+      "question": "Quel cofondateur d'Apple a racheté en 1986 la division informatique de Lucasfilm, devenue Pixar ?",
+      "answer": "Steve Jobs",
+      "accept": [
+        "Jobs"
+      ],
+      "choices": [
+        "Steve Wozniak",
+        "Bill Gates",
+        "Larry Ellison"
+      ],
+      "explanation": "Pixar était alors surtout un fabricant d'ordinateurs graphiques ; Disney l'a racheté en 2006, faisant de Jobs son principal actionnaire individuel.",
+      "wikipedia": "Pixar"
+    },
+    {
+      "id": "cinema-tv-216",
+      "difficulty": 2,
+      "question": "Quel film de Disney montre Mickey en apprenti sorcier, débordé par des balais, sur la musique de Paul Dukas ?",
+      "answer": "Fantasia",
+      "accept": [],
+      "choices": [
+        "Steamboat Willie",
+        "Mélodie du Sud",
+        "Coquin de printemps"
+      ],
+      "explanation": "Le film illustre plusieurs œuvres classiques dirigées par Leopold Stokowski, dont « Le Sacre du printemps » de Stravinsky.",
+      "wikipedia": "Fantasia (film, 1940)"
+    },
+    {
+      "id": "cinema-tv-217",
+      "difficulty": 2,
+      "question": "Quel poète a réalisé en 1946 « La Belle et la Bête », avec Jean Marais sous le masque du monstre ?",
+      "answer": "Jean Cocteau",
+      "accept": [
+        "Cocteau"
+      ],
+      "choices": [
+        "Jacques Prévert",
+        "Marcel Pagnol",
+        "Sacha Guitry"
+      ],
+      "explanation": "Pour les décors et les costumes, Cocteau s'inspira des gravures de Gustave Doré et des tableaux de Vermeer.",
+      "wikipedia": "La Belle et la Bête (film, 1946)"
+    },
+    {
+      "id": "cinema-tv-218",
+      "difficulty": 2,
+      "question": "Quel acteur américain prête sa voix au Génie de la lampe dans la version originale d'« Aladdin » de Disney ?",
+      "answer": "Robin Williams",
+      "accept": [
+        "Williams"
+      ],
+      "choices": [
+        "Eddie Murphy",
+        "Jim Carrey",
+        "Will Smith"
+      ],
+      "explanation": "Les animateurs ont conçu le personnage à partir de ses improvisations, si nombreuses qu'il fallut en couper des heures.",
+      "wikipedia": "Aladdin (film, 1992)"
+    },
+    {
+      "id": "cinema-tv-219",
+      "difficulty": 2,
+      "question": "Dans quel film les élèves du professeur Keating montent-ils sur leur pupitre en criant « Ô Capitaine ! Mon capitaine ! » ?",
+      "answer": "Le Cercle des poètes disparus",
+      "accept": [
+        "Cercle des poètes disparus"
+      ],
+      "choices": [
+        "Will Hunting",
+        "Esprits rebelles",
+        "Patch Adams"
+      ],
+      "explanation": "Le film de Peter Weir reprend le premier vers d'un poème de Walt Whitman écrit en hommage à Abraham Lincoln.",
+      "wikipedia": "Le Cercle des poètes disparus"
+    },
+    {
+      "id": "cinema-tv-220",
+      "difficulty": 2,
+      "question": "Quelle autrice iranienne a coréalisé l'adaptation animée de sa bande dessinée autobiographique « Persepolis » ?",
+      "answer": "Marjane Satrapi",
+      "accept": [
+        "Satrapi"
+      ],
+      "choices": [
+        "Shirin Neshat",
+        "Golshifteh Farahani",
+        "Azar Nafisi"
+      ],
+      "explanation": "Coréalisé avec Vincent Paronnaud, le film en noir et blanc a reçu le prix du jury au Festival de Cannes 2007.",
+      "wikipedia": "Persepolis (film)"
+    },
+    {
+      "id": "cinema-tv-221",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la transition où une image disparaît progressivement pendant que la suivante apparaît ?",
+      "answer": "Fondu enchaîné",
+      "accept": [],
+      "choices": [
+        "Volet",
+        "Cut",
+        "Fondu au noir"
+      ],
+      "explanation": "Cette surimpression momentanée suggère souvent l'écoulement du temps ou un changement de lieu entre deux scènes.",
+      "wikipedia": "Fondu enchaîné"
+    },
+    {
+      "id": "cinema-tv-222",
+      "difficulty": 2,
+      "question": "Comment nomme-t-on l'alternance de plans montrant tour à tour deux interlocuteurs qui se font face ?",
+      "answer": "Champ-contrechamp",
+      "accept": [
+        "champ contrechamp",
+        "champ-contre-champ"
+      ],
+      "choices": [
+        "Plan-séquence",
+        "Montage parallèle",
+        "Fondu enchaîné"
+      ],
+      "explanation": "Pour garder la cohérence des regards, on respecte la règle des 180 degrés, qui interdit à la caméra de franchir l'axe des personnages.",
+      "wikipedia": "Champ-contrechamp"
+    },
+    {
+      "id": "cinema-tv-223",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la brève apparition d'une célébrité dans un film, comme celles de Stan Lee chez Marvel ?",
+      "answer": "Caméo",
+      "accept": [
+        "cameo"
+      ],
+      "choices": [
+        "Figuration",
+        "Doublure",
+        "Guest-star"
+      ],
+      "explanation": "Alfred Hitchcock en fit une tradition en apparaissant furtivement dans la plupart de ses films, par exemple ratant un bus.",
+      "wikipedia": "Caméo"
+    },
+    {
+      "id": "cinema-tv-224",
+      "difficulty": 2,
+      "question": "Quel technicien du son recrée en studio bruits de pas, froissements et claquements de portes pour un film ?",
+      "answer": "Bruiteur",
+      "accept": [
+        "bruiteuse"
+      ],
+      "choices": [
+        "Mixeur",
+        "Perchman",
+        "Monteur"
+      ],
+      "explanation": "En anglais, ce métier se dit « Foley artist », du nom de Jack Foley, qui développa la technique aux studios Universal.",
+      "wikipedia": "Bruitage"
+    },
+    {
+      "id": "cinema-tv-225",
+      "difficulty": 2,
+      "question": "Quel technicien tient le micro au bout d'une longue tige, juste au-dessus du champ de la caméra ?",
+      "answer": "Perchman",
+      "accept": [
+        "perchiste"
+      ],
+      "choices": [
+        "Machiniste",
+        "Ingénieur du son",
+        "Cadreur"
+      ],
+      "explanation": "Il doit approcher le micro au plus près des acteurs sans que son ombre ou l'appareil n'entrent dans l'image.",
+      "wikipedia": "Perchman"
+    },
+    {
+      "id": "cinema-tv-226",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la suite de dessins qui présente, plan par plan, la mise en scène d'un film avant le tournage ?",
+      "answer": "Storyboard",
+      "accept": [
+        "story-board",
+        "scénarimage"
+      ],
+      "choices": [
+        "Synopsis",
+        "Découpage",
+        "Continuité"
+      ],
+      "explanation": "Hitchcock était réputé pour storyboarder entièrement ses films, au point de dire que le tournage l'ennuyait.",
+      "wikipedia": "Storyboard"
+    },
+    {
+      "id": "cinema-tv-227",
+      "difficulty": 2,
+      "question": "Quelle technique simule une scène nocturne filmée en plein jour, titre d'un film de Truffaut sur un tournage ?",
+      "answer": "Nuit américaine",
+      "accept": [],
+      "choices": [
+        "Effet Koulechov",
+        "Fondu au noir",
+        "Contre-jour"
+      ],
+      "explanation": "On sous-expose l'image et on la teinte de bleu ; le film de Truffaut a reçu l'Oscar du meilleur film en langue étrangère.",
+      "wikipedia": "Nuit américaine"
+    },
+    {
+      "id": "cinema-tv-228",
+      "difficulty": 2,
+      "question": "Quel procédé de couleur trichrome a donné leurs teintes éclatantes au « Magicien d'Oz » et à « Autant en emporte le vent » ?",
+      "answer": "Technicolor",
+      "accept": [],
+      "choices": [
+        "Eastmancolor",
+        "Agfacolor",
+        "Kodachrome"
+      ],
+      "explanation": "Ce procédé utilisait une caméra spéciale enregistrant simultanément trois négatifs noir et blanc, un pour chaque couleur primaire.",
+      "wikipedia": "Technicolor"
+    },
+    {
+      "id": "cinema-tv-229",
+      "difficulty": 2,
+      "question": "Quel film de 1927 avec Al Jolson est considéré comme le premier long métrage parlant ?",
+      "answer": "Le Chanteur de jazz",
+      "accept": [],
+      "choices": [
+        "Lumières de la ville",
+        "Les Ailes",
+        "Metropolis"
+      ],
+      "explanation": "Le film est en grande partie muet, mais comporte des chansons et quelques répliques synchronisées, dont « Vous n'avez encore rien entendu ! ».",
+      "wikipedia": "Le Chanteur de jazz (film, 1927)"
+    },
+    {
+      "id": "cinema-tv-230",
+      "difficulty": 2,
+      "question": "Quel court métrage des frères Lumière, où un jardinier se fait doucher par son tuyau, est souvent cité comme la première fiction comique ?",
+      "answer": "L'Arroseur arrosé",
+      "accept": [],
+      "choices": [
+        "Le Voyage dans la Lune",
+        "La Sortie de l'usine Lumière",
+        "Le Repas de bébé"
+      ],
+      "explanation": "Le gag, inspiré d'une bande dessinée, montre un garçon marchant sur le tuyau puis libérant le jet au visage du jardinier.",
+      "wikipedia": "L'Arroseur arrosé"
+    },
+    {
+      "id": "cinema-tv-231",
+      "difficulty": 2,
+      "question": "Quel appareil de Thomas Edison permettait à un seul spectateur de voir un film en regardant dans une boîte ?",
+      "answer": "Kinétoscope",
+      "accept": [
+        "kinetoscope"
+      ],
+      "choices": [
+        "Praxinoscope",
+        "Zootrope",
+        "Phénakistiscope"
+      ],
+      "explanation": "Mis au point avec William Kennedy Dickson, il fut présenté au public en 1894, peu avant le cinématographe des frères Lumière.",
+      "wikipedia": "Kinétoscope"
+    },
+    {
+      "id": "cinema-tv-232",
+      "difficulty": 2,
+      "question": "Quelle société de cinéma française, fondée par les frères Charles et Émile, a pour emblème un coq chantant ?",
+      "answer": "Pathé",
+      "accept": [],
+      "choices": [
+        "Gaumont",
+        "Éclair",
+        "Lux"
+      ],
+      "explanation": "La société était à ses débuts l'un des plus grands producteurs de films au monde, et lança en 1908 les premières actualités filmées.",
+      "wikipedia": "Pathé"
+    },
+    {
+      "id": "cinema-tv-233",
+      "difficulty": 2,
+      "question": "Quel studio hollywoodien a pour logo une montagne entourée d'un arc d'étoiles ?",
+      "answer": "Paramount Pictures",
+      "accept": [
+        "Paramount"
+      ],
+      "choices": [
+        "Universal Pictures",
+        "Columbia Pictures",
+        "20th Century Studios"
+      ],
+      "explanation": "Le dessin aurait été inspiré à son fondateur William Wadsworth Hodkinson par un sommet de l'Utah de son enfance.",
+      "wikipedia": "Paramount Pictures"
+    },
+    {
+      "id": "cinema-tv-234",
+      "difficulty": 2,
+      "question": "Quels grands studios de cinéma, fondés sous Mussolini, sont installés dans la banlieue de Rome ?",
+      "answer": "Cinecittà",
+      "accept": [
+        "Cinecitta"
+      ],
+      "choices": [
+        "Pinewood",
+        "Babelsberg",
+        "Mosfilm"
+      ],
+      "explanation": "Fellini y tourna la plupart de ses films ; il disposait du célèbre studio 5, où il recréa la Via Veneto de « La dolce vita ».",
+      "wikipedia": "Cinecittà"
+    },
+    {
+      "id": "cinema-tv-235",
+      "difficulty": 2,
+      "question": "Quel mot formait à l'origine le célèbre panneau des collines de Los Angeles, publicité pour un lotissement ?",
+      "answer": "Hollywoodland",
+      "accept": [],
+      "choices": [
+        "Hollywood Hills",
+        "Beverly Hills",
+        "Sunset Land"
+      ],
+      "explanation": "Installé en 1923 pour promouvoir un programme immobilier, le panneau perdit ses quatre dernières lettres lors d'une restauration en 1949.",
+      "wikipedia": "Hollywood (panneau)"
+    },
+    {
+      "id": "cinema-tv-236",
+      "difficulty": 2,
+      "question": "Quelle récompense suprême est décernée par le jury de la Berlinale, festival international du film de Berlin ?",
+      "answer": "Ours d'or",
+      "accept": [],
+      "choices": [
+        "Lion d'or",
+        "Coquille d'or",
+        "Léopard d'or"
+      ],
+      "explanation": "L'ours figure sur les armoiries de la ville de Berlin ; le festival a été créé en 1951 dans le secteur occidental de la ville.",
+      "wikipedia": "Berlinale"
+    },
+    {
+      "id": "cinema-tv-237",
+      "difficulty": 2,
+      "question": "Quelle station balnéaire normande accueille chaque septembre un festival consacré au cinéma américain ?",
+      "answer": "Deauville",
+      "accept": [],
+      "choices": [
+        "Cabourg",
+        "Trouville-sur-Mer",
+        "Dinard"
+      ],
+      "explanation": "Le festival a été créé en 1975 ; des cabines de plage portant le nom de stars américaines bordent les célèbres Planches.",
+      "wikipedia": "Festival du cinéma américain de Deauville"
+    },
+    {
+      "id": "cinema-tv-238",
+      "difficulty": 2,
+      "question": "Quelle ville de Haute-Savoie accueille l'un des plus grands festivals internationaux du film d'animation ?",
+      "answer": "Annecy",
+      "accept": [],
+      "choices": [
+        "Chambéry",
+        "Évian-les-Bains",
+        "Grenoble"
+      ],
+      "explanation": "Né en 1960 en marge du Festival de Cannes, le festival remet chaque année le Cristal du long métrage.",
+      "wikipedia": "Festival international du film d'animation d'Annecy"
+    },
+    {
+      "id": "cinema-tv-239",
+      "difficulty": 2,
+      "question": "Quel festival du cinéma indépendant, organisé dans l'Utah, est lié à l'institut fondé par Robert Redford ?",
+      "answer": "Sundance",
+      "accept": [
+        "Festival de Sundance"
+      ],
+      "choices": [
+        "Tribeca",
+        "Telluride",
+        "South by Southwest"
+      ],
+      "explanation": "Le nom vient du personnage de Redford dans « Butch Cassidy et le Kid », Sundance Kid ; Quentin Tarantino y présenta « Reservoir Dogs ».",
+      "wikipedia": "Festival du film de Sundance"
+    },
+    {
+      "id": "cinema-tv-240",
+      "difficulty": 2,
+      "question": "Quel cinéaste a réalisé « Un homme et une femme », Palme d'or 1966 rythmée par un célèbre « chabadabada » ?",
+      "answer": "Claude Lelouch",
+      "accept": [
+        "Lelouch"
+      ],
+      "choices": [
+        "Jacques Demy",
+        "Claude Sautet",
+        "Louis Malle"
+      ],
+      "explanation": "Anouk Aimée et Jean-Louis Trintignant s'y rencontrent à Deauville ; la musique est de Francis Lai.",
+      "wikipedia": "Un homme et une femme"
+    },
+    {
+      "id": "cinema-tv-241",
+      "difficulty": 2,
+      "question": "Quel réalisateur a cosigné « Delicatessen » et « La Cité des enfants perdus » avec Marc Caro ?",
+      "answer": "Jean-Pierre Jeunet",
+      "accept": [
+        "Jeunet"
+      ],
+      "choices": [
+        "Luc Besson",
+        "Jean-Jacques Beineix",
+        "Mathieu Kassovitz"
+      ],
+      "explanation": "Il a ensuite tourné à Hollywood « Alien, la résurrection », quatrième volet de la saga, avant de revenir en France.",
+      "wikipedia": "Jean-Pierre Jeunet"
+    },
+    {
+      "id": "cinema-tv-242",
+      "difficulty": 2,
+      "question": "Quel film de Marcel Carné, tourné sous l'Occupation, met en scène le mime Baptiste Deburau amoureux de Garance ?",
+      "answer": "Les Enfants du paradis",
+      "accept": [],
+      "choices": [
+        "Les Visiteurs du soir",
+        "Le Jour se lève",
+        "Drôle de drame"
+      ],
+      "explanation": "Écrit par Jacques Prévert, le film fait revivre le « boulevard du Crime » parisien des années 1820, reconstitué en studio à Nice.",
+      "wikipedia": "Les Enfants du paradis"
+    },
+    {
+      "id": "cinema-tv-243",
+      "difficulty": 2,
+      "question": "Quel dialoguiste a écrit « Les cons, ça ose tout. C'est même à ça qu'on les reconnaît » ?",
+      "answer": "Michel Audiard",
+      "accept": [
+        "Audiard"
+      ],
+      "choices": [
+        "Jacques Prévert",
+        "Francis Veber",
+        "Henri Jeanson"
+      ],
+      "explanation": "Cette réplique, lancée par Lino Ventura, est tirée des « Tontons flingueurs » ; Audiard fut aussi le père du réalisateur Jacques Audiard.",
+      "wikipedia": "Michel Audiard"
+    },
+    {
+      "id": "cinema-tv-244",
+      "difficulty": 2,
+      "question": "Quel commissaire, joué par Louis de Funès, poursuit sans relâche le criminel masqué Fantômas ?",
+      "answer": "Juve",
+      "accept": [
+        "Commissaire Juve"
+      ],
+      "choices": [
+        "Bourrel",
+        "Maigret",
+        "Cruchot"
+      ],
+      "explanation": "Dans la trilogie d'André Hunebelle, Jean Marais joue à la fois le journaliste Fandor et Fantômas lui-même.",
+      "wikipedia": "Fantômas (film, 1964)"
+    },
+    {
+      "id": "cinema-tv-245",
+      "difficulty": 2,
+      "question": "Quel humoriste a reçu le César du meilleur acteur pour son rôle dramatique de pompiste dans « Tchao Pantin » ?",
+      "answer": "Coluche",
+      "accept": [],
+      "choices": [
+        "Michel Blanc",
+        "Thierry Lhermitte",
+        "Jacques Villeret"
+      ],
+      "explanation": "Le film de Claude Berri, sombre polar nocturne, montrait un tout autre visage de l'humoriste, qui allait fonder les Restos du cœur.",
+      "wikipedia": "Tchao Pantin"
+    },
+    {
+      "id": "cinema-tv-246",
+      "difficulty": 2,
+      "question": "Quel acteur marseillais incarne le curé Don Camillo, en lutte avec le maire communiste Peppone ?",
+      "answer": "Fernandel",
+      "accept": [],
+      "choices": [
+        "Raimu",
+        "Bourvil",
+        "Noël-Noël"
+      ],
+      "explanation": "Les films sont adaptés de l'écrivain italien Giovannino Guareschi ; Don Camillo y converse avec le Christ en croix de son église.",
+      "wikipedia": "Le Petit Monde de don Camillo"
+    },
+    {
+      "id": "cinema-tv-247",
+      "difficulty": 2,
+      "question": "Quel acteur, mort à 36 ans, incarne le séduisant soldat « Fanfan la Tulipe » face à Gina Lollobrigida ?",
+      "answer": "Gérard Philipe",
+      "accept": [
+        "Philipe"
+      ],
+      "choices": [
+        "Jean Marais",
+        "Gérard Barray",
+        "Alain Delon"
+      ],
+      "explanation": "Grande vedette du Théâtre national populaire de Jean Vilar, il est enterré à Ramatuelle dans le costume du Cid.",
+      "wikipedia": "Fanfan la Tulipe (film, 1952)"
+    },
+    {
+      "id": "cinema-tv-248",
+      "difficulty": 2,
+      "question": "Quel film de Chaplin le montre en dictateur Adenoid Hynkel jouant avec un globe terrestre en baudruche ?",
+      "answer": "Le Dictateur",
+      "accept": [],
+      "choices": [
+        "Les Temps modernes",
+        "Le Kid",
+        "Monsieur Verdoux"
+      ],
+      "explanation": "Premier vrai film parlant de Chaplin, il se termine par un long discours humaniste du barbier juif sosie du dictateur.",
+      "wikipedia": "Le Dictateur"
+    },
+    {
+      "id": "cinema-tv-249",
+      "difficulty": 2,
+      "question": "Quel acteur burlesque, surnommé « l'homme qui ne rit jamais », a tourné « Le Mécano de la General » ?",
+      "answer": "Buster Keaton",
+      "accept": [
+        "Keaton"
+      ],
+      "choices": [
+        "Harold Lloyd",
+        "Charlie Chaplin",
+        "Stan Laurel"
+      ],
+      "explanation": "Il exécutait lui-même ses cascades ; dans « Cadet d'eau douce », une façade de maison s'abat autour de lui en le laissant indemne.",
+      "wikipedia": "Buster Keaton"
+    },
+    {
+      "id": "cinema-tv-250",
+      "difficulty": 2,
+      "question": "Quelle fratrie comique du cinéma américain comptait Groucho, Harpo et Chico ?",
+      "answer": "Marx Brothers",
+      "accept": [
+        "Frères Marx"
+      ],
+      "choices": [
+        "Three Stooges",
+        "Ritz Brothers",
+        "Warner Bros."
+      ],
+      "explanation": "Harpo ne parlait jamais à l'écran et jouait de la harpe ; Groucho était reconnaissable à sa moustache peinte et à son cigare.",
+      "wikipedia": "Marx Brothers"
+    },
+    {
+      "id": "cinema-tv-251",
+      "difficulty": 2,
+      "question": "Quelle actrice aux yeux violets a incarné la reine d'Égypte dans « Cléopâtre » de 1963, face à Richard Burton ?",
+      "answer": "Elizabeth Taylor",
+      "accept": [
+        "Taylor"
+      ],
+      "choices": [
+        "Sophia Loren",
+        "Ava Gardner",
+        "Vivien Leigh"
+      ],
+      "explanation": "Elle rencontra Richard Burton sur ce tournage et l'épousa à deux reprises ; le film faillit ruiner la 20th Century Fox.",
+      "wikipedia": "Elizabeth Taylor"
+    },
+    {
+      "id": "cinema-tv-252",
+      "difficulty": 2,
+      "question": "Quel acteur incarne Randle McMurphy, interné rebelle, dans « Vol au-dessus d'un nid de coucou » ?",
+      "answer": "Jack Nicholson",
+      "accept": [
+        "Nicholson"
+      ],
+      "choices": [
+        "Dustin Hoffman",
+        "Al Pacino",
+        "Robert Redford"
+      ],
+      "explanation": "Le film de Miloš Forman a remporté les cinq Oscars principaux, dont celui de la meilleure actrice pour l'infirmière Ratched.",
+      "wikipedia": "Vol au-dessus d'un nid de coucou (film)"
+    },
+    {
+      "id": "cinema-tv-253",
+      "difficulty": 2,
+      "question": "Quel acteur incarne Raymond, autiste doué d'une mémoire prodigieuse, dans « Rain Man » ?",
+      "answer": "Dustin Hoffman",
+      "accept": [
+        "Hoffman"
+      ],
+      "choices": [
+        "Tom Cruise",
+        "Robin Williams",
+        "Al Pacino"
+      ],
+      "explanation": "Le personnage s'inspire en partie de Kim Peek, capable de mémoriser des milliers de livres ; Tom Cruise y joue son frère Charlie.",
+      "wikipedia": "Rain Man"
+    },
+    {
+      "id": "cinema-tv-254",
+      "difficulty": 2,
+      "question": "Quelle actrice a reçu l'Oscar pour son rôle de militante obstinée face à un géant de l'énergie dans « Erin Brockovich » ?",
+      "answer": "Julia Roberts",
+      "accept": [
+        "Roberts"
+      ],
+      "choices": [
+        "Sandra Bullock",
+        "Meg Ryan",
+        "Michelle Pfeiffer"
+      ],
+      "explanation": "Le film de Steven Soderbergh relate un vrai combat contre la compagnie PG&E, accusée d'avoir pollué l'eau d'une ville californienne au chrome.",
+      "wikipedia": "Erin Brockovich, seule contre tous"
+    },
+    {
+      "id": "cinema-tv-255",
+      "difficulty": 2,
+      "question": "Quel film de Danny Boyle suit un jeune de Bombay candidat à « Qui veut gagner des millions ? » ?",
+      "answer": "Slumdog Millionaire",
+      "accept": [],
+      "choices": [
+        "Lion",
+        "Le Tigre blanc",
+        "Trainspotting"
+      ],
+      "explanation": "Chaque question du jeu rappelle au héros, Jamal, un épisode de sa vie ; le film a reçu huit Oscars dont celui du meilleur film.",
+      "wikipedia": "Slumdog Millionaire"
+    },
+    {
+      "id": "cinema-tv-256",
+      "difficulty": 2,
+      "question": "Quel cinéaste québécois a réalisé « Premier Contact », « Blade Runner 2049 » et l'adaptation de « Dune » ?",
+      "answer": "Denis Villeneuve",
+      "accept": [
+        "Villeneuve"
+      ],
+      "choices": [
+        "Xavier Dolan",
+        "Jean-Marc Vallée",
+        "Denys Arcand"
+      ],
+      "explanation": "Avant Hollywood, il s'était fait remarquer avec « Incendies », adapté d'une pièce de Wajdi Mouawad.",
+      "wikipedia": "Denis Villeneuve"
+    },
+    {
+      "id": "cinema-tv-257",
+      "difficulty": 2,
+      "question": "Quel acteur irlandais incarne l'officier britannique T. E. Lawrence dans le film épique de David Lean ?",
+      "answer": "Peter O'Toole",
+      "accept": [
+        "O'Toole"
+      ],
+      "choices": [
+        "Richard Burton",
+        "Alec Guinness",
+        "Omar Sharif"
+      ],
+      "explanation": "Nommé huit fois à l'Oscar du meilleur acteur sans jamais l'obtenir, il reçut finalement un Oscar d'honneur en 2003.",
+      "wikipedia": "Peter O'Toole"
+    },
+    {
+      "id": "cinema-tv-258",
+      "difficulty": 2,
+      "question": "Quel film de David Lean montre des prisonniers britanniques sifflant une marche militaire en construisant un ouvrage en Birmanie ?",
+      "answer": "Le Pont de la rivière Kwaï",
+      "accept": [
+        "Pont de la rivière Kwai"
+      ],
+      "choices": [
+        "Lawrence d'Arabie",
+        "La Grande Évasion",
+        "Furyo"
+      ],
+      "explanation": "Le film adapte un roman du Français Pierre Boulle ; Alec Guinness y joue le colonel Nicholson, obsédé par la réussite du chantier.",
+      "wikipedia": "Le Pont de la rivière Kwaï"
+    },
+    {
+      "id": "cinema-tv-259",
+      "difficulty": 2,
+      "question": "Quel film de Coppola sur la guerre du Viêt Nam fait dire à un officier : « J'aime l'odeur du napalm au petit matin » ?",
+      "answer": "Apocalypse Now",
+      "accept": [],
+      "choices": [
+        "Platoon",
+        "Voyage au bout de l'enfer",
+        "Full Metal Jacket"
+      ],
+      "explanation": "Le film transpose « Au cœur des ténèbres » de Joseph Conrad ; Marlon Brando y joue le colonel Kurtz, retranché dans la jungle.",
+      "wikipedia": "Apocalypse Now"
+    },
+    {
+      "id": "cinema-tv-260",
+      "difficulty": 2,
+      "question": "Quel film de Ron Howard popularise la phrase « Houston, nous avons un problème » ?",
+      "answer": "Apollo 13",
+      "accept": [],
+      "choices": [
+        "L'Étoffe des héros",
+        "Gravity",
+        "First Man"
+      ],
+      "explanation": "Tom Hanks y incarne le commandant Jim Lovell ; dans la réalité, l'astronaute Jack Swigert avait dit « nous avons eu un problème ».",
+      "wikipedia": "Apollo 13 (film)"
+    },
+    {
+      "id": "cinema-tv-261",
+      "difficulty": 2,
+      "question": "Quel acteur incarne Albin, alias Zaza Napoli, vedette d'un cabaret de travestis dans « La Cage aux folles » ?",
+      "answer": "Michel Serrault",
+      "accept": [
+        "Serrault"
+      ],
+      "choices": [
+        "Michel Galabru",
+        "Jean Poiret",
+        "Jacques Villeret"
+      ],
+      "explanation": "Jean Poiret, auteur de la pièce, l'avait jouée au théâtre avec lui ; au cinéma, c'est l'Italien Ugo Tognazzi qui joua son compagnon.",
+      "wikipedia": "La Cage aux folles (film)"
+    },
+    {
+      "id": "cinema-tv-262",
+      "difficulty": 2,
+      "question": "Quel moine franciscain, joué par Sean Connery, enquête sur des meurtres dans une abbaye dans « Le Nom de la rose » ?",
+      "answer": "Guillaume de Baskerville",
+      "accept": [
+        "Baskerville"
+      ],
+      "choices": [
+        "Adso de Melk",
+        "Jorge de Burgos",
+        "Bernard Gui"
+      ],
+      "explanation": "Son nom fait écho au « Chien des Baskerville » de Conan Doyle, et le roman d'Umberto Eco adapté par Jean-Jacques Annaud multiplie ces clins d'œil.",
+      "wikipedia": "Le Nom de la rose (film)"
+    },
+    {
+      "id": "cinema-tv-263",
+      "difficulty": 2,
+      "question": "Quel western de John Sturges transpose dans l'Ouest américain « Les Sept Samouraïs » d'Akira Kurosawa ?",
+      "answer": "Les Sept Mercenaires",
+      "accept": [],
+      "choices": [
+        "La Horde sauvage",
+        "Rio Bravo",
+        "Les Douze Salopards"
+      ],
+      "explanation": "Yul Brynner y mène une bande de pistoleros, avec Steve McQueen et Charles Bronson, pour défendre un village mexicain.",
+      "wikipedia": "Les Sept Mercenaires"
+    },
+    {
+      "id": "cinema-tv-264",
+      "difficulty": 2,
+      "question": "Quel compositeur a écrit toute la musique des « Parapluies de Cherbourg » et des « Demoiselles de Rochefort » ?",
+      "answer": "Michel Legrand",
+      "accept": [
+        "Legrand"
+      ],
+      "choices": [
+        "Francis Lai",
+        "Georges Delerue",
+        "Vladimir Cosma"
+      ],
+      "explanation": "Il a reçu trois Oscars, notamment pour la chanson « The Windmills of Your Mind » de « L'Affaire Thomas Crown ».",
+      "wikipedia": "Michel Legrand"
+    },
+    {
+      "id": "cinema-tv-265",
+      "difficulty": 2,
+      "question": "Quelle actrice incarne Ellen Ripley, officier qui affronte seule une créature extraterrestre dans « Alien » ?",
+      "answer": "Sigourney Weaver",
+      "accept": [
+        "Weaver"
+      ],
+      "choices": [
+        "Linda Hamilton",
+        "Jamie Lee Curtis",
+        "Carrie Fisher"
+      ],
+      "explanation": "Le rôle avait été écrit pour un homme ; elle l'a repris dans trois suites, dont « Aliens, le retour » de James Cameron.",
+      "wikipedia": "Sigourney Weaver"
+    },
+    {
+      "id": "cinema-tv-266",
+      "difficulty": 2,
+      "question": "Quels frères cinéastes ont réalisé « Fargo » et « The Big Lebowski », avec son héros surnommé « le Duc » ?",
+      "answer": "Coen",
+      "accept": [
+        "frères Coen",
+        "Joel et Ethan Coen"
+      ],
+      "choices": [
+        "Dardenne",
+        "Wachowski",
+        "Farrelly"
+      ],
+      "explanation": "Les deux frères ont reçu la Palme d'or pour « Barton Fink » et l'Oscar du meilleur film pour « No Country for Old Men ».",
+      "wikipedia": "Joel et Ethan Coen"
+    },
+    {
+      "id": "cinema-tv-267",
+      "difficulty": 2,
+      "question": "Quel film de M. Night Shyamalan fait murmurer à un enfant : « Je vois des gens qui sont morts » ?",
+      "answer": "Sixième Sens",
+      "accept": [
+        "Le Sixième Sens"
+      ],
+      "choices": [
+        "Les Autres",
+        "Incassable",
+        "Signes"
+      ],
+      "explanation": "Bruce Willis y joue un pédopsychiatre ; la révélation finale sur son personnage a fait la réputation du film.",
+      "wikipedia": "Sixième Sens"
+    },
+    {
+      "id": "cinema-tv-268",
+      "difficulty": 2,
+      "question": "Quel film de David Fincher réunit Edward Norton et Brad Pitt dans des combats clandestins à mains nues ?",
+      "answer": "Fight Club",
+      "accept": [],
+      "choices": [
+        "Seven",
+        "Snatch",
+        "The Game"
+      ],
+      "explanation": "Adapté du roman de Chuck Palahniuk, le film révèle que Tyler Durden n'est que le double imaginaire du narrateur.",
+      "wikipedia": "Fight Club"
+    },
+    {
+      "id": "cinema-tv-269",
+      "difficulty": 2,
+      "question": "Quelle cinéaste a réalisé « Trois hommes et un couffin », où trois célibataires élèvent un bébé abandonné ?",
+      "answer": "Coline Serreau",
+      "accept": [
+        "Serreau"
+      ],
+      "choices": [
+        "Josiane Balasko",
+        "Diane Kurys",
+        "Agnès Jaoui"
+      ],
+      "explanation": "Le film a reçu le César du meilleur film et connu un remake américain, « Trois hommes et un bébé », réalisé par Leonard Nimoy.",
+      "wikipedia": "Trois hommes et un couffin"
+    },
+    {
+      "id": "cinema-tv-270",
+      "difficulty": 2,
+      "question": "Quel personnage, joué par Daniel Auteuil, bouche la source convoitée par Jean de Florette pour récupérer ses terres ?",
+      "answer": "Ugolin",
+      "accept": [],
+      "choices": [
+        "Le Papet",
+        "Galinette",
+        "Pamphile"
+      ],
+      "explanation": "Il agit sous l'influence de son oncle César Soubeyran, dit le Papet, incarné par Yves Montand.",
+      "wikipedia": "Jean de Florette (film)"
+    },
+    {
+      "id": "cinema-tv-271",
+      "difficulty": 2,
+      "question": "Quels oiseaux de l'Antarctique sont les héros du documentaire « La Marche de l'empereur » de Luc Jacquet ?",
+      "answer": "Manchots",
+      "accept": [
+        "manchots empereurs",
+        "manchot empereur",
+        "manchot"
+      ],
+      "choices": [
+        "Pingouins",
+        "Albatros",
+        "Pétrels"
+      ],
+      "explanation": "Le film suit la longue marche des colonies vers leur lieu de reproduction ; il a reçu l'Oscar du meilleur film documentaire.",
+      "wikipedia": "La Marche de l'empereur"
+    },
+    {
+      "id": "cinema-tv-272",
+      "difficulty": 2,
+      "question": "Quelle technique enregistre les mouvements d'un acteur couvert de capteurs pour animer un personnage numérique ?",
+      "answer": "Capture de mouvement",
+      "accept": [
+        "motion capture",
+        "mocap"
+      ],
+      "choices": [
+        "Rotoscopie",
+        "Animation en volume",
+        "Incrustation"
+      ],
+      "explanation": "L'acteur Andy Serkis en est devenu le spécialiste, prêtant son corps à Gollum, à King Kong et au chimpanzé César.",
+      "wikipedia": "Capture de mouvement"
+    },
+    {
+      "id": "cinema-tv-273",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la technique d'animation qui photographie des figurines ou objets réels déplacés image par image ?",
+      "answer": "Stop motion",
+      "accept": [
+        "animation en volume",
+        "stop-motion"
+      ],
+      "choices": [
+        "Rotoscopie",
+        "Capture de mouvement",
+        "Pixilation"
+      ],
+      "explanation": "C'est la technique des films d'Aardman et de « L'Étrange Noël de monsieur Jack » d'Henry Selick.",
+      "wikipedia": "Animation en volume"
+    },
+    {
+      "id": "cinema-tv-274",
+      "difficulty": 2,
+      "question": "Combien d'images par seconde défilent dans un film de cinéma projeté selon la norme traditionnelle ?",
+      "answer": "24",
+      "accept": [
+        "vingt-quatre"
+      ],
+      "choices": [
+        "16",
+        "25",
+        "30"
+      ],
+      "explanation": "Cette cadence s'est imposée avec le cinéma parlant ; à la télévision européenne, on utilisait plutôt 25 images par seconde.",
+      "wikipedia": "Images par seconde"
+    },
+    {
+      "id": "cinema-tv-275",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on tout ce qui existe dans l'univers d'un film sans apparaître dans le cadre de l'image ?",
+      "answer": "Hors-champ",
+      "accept": [
+        "hors champ"
+      ],
+      "choices": [
+        "Arrière-plan",
+        "Contrechamp",
+        "Coulisses"
+      ],
+      "explanation": "Un bruit ou un regard dirigé vers l'extérieur du cadre suffit à le suggérer, ce que les films d'horreur exploitent abondamment.",
+      "wikipedia": "Hors-champ"
+    },
+    {
+      "id": "cinema-tv-276",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un film dont l'histoire se déroule avant celle d'une œuvre déjà sortie ?",
+      "answer": "Préquelle",
+      "accept": [
+        "prequel",
+        "préquel"
+      ],
+      "choices": [
+        "Suite",
+        "Remake",
+        "Spin-off"
+      ],
+      "explanation": "La deuxième trilogie de « Star Wars », commencée avec « La Menace fantôme », est une préquelle qui raconte la jeunesse d'Anakin Skywalker.",
+      "wikipedia": "Préquelle"
+    },
+    {
+      "id": "cinema-tv-277",
+      "difficulty": 2,
+      "question": "Quels prix parodiques récompensent chaque année les pires films hollywoodiens, la veille des Oscars ?",
+      "answer": "Razzie Awards",
+      "accept": [
+        "Razzie",
+        "Golden Raspberry Awards"
+      ],
+      "choices": [
+        "Golden Globes",
+        "Saturn Awards",
+        "MTV Movie Awards"
+      ],
+      "explanation": "Leur nom évoque le bruit moqueur de la framboise ; Halle Berry et Sandra Bullock sont venues chercher leur trophée en personne.",
+      "wikipedia": "Razzie Awards"
+    },
+    {
+      "id": "cinema-tv-278",
+      "difficulty": 2,
+      "question": "Dans quel film Charlot, affamé dans une cabane d'Alaska, fait-il cuire et mange-t-il sa chaussure ?",
+      "answer": "La Ruée vers l'or",
+      "accept": [],
+      "choices": [
+        "Le Kid",
+        "Les Lumières de la ville",
+        "Le Cirque"
+      ],
+      "explanation": "Dans ce même film, Charlot fait danser deux petits pains piqués sur des fourchettes, une séquence restée célèbre.",
+      "wikipedia": "La Ruée vers l'or"
+    },
+    {
+      "id": "cinema-tv-279",
+      "difficulty": 2,
+      "question": "Quel champion olympique de natation devint le plus célèbre Tarzan du cinéma dans les années 1930 et 1940 ?",
+      "answer": "Johnny Weissmuller",
+      "accept": [
+        "Weissmuller"
+      ],
+      "choices": [
+        "Buster Crabbe",
+        "Duke Kahanamoku",
+        "Lex Barker"
+      ],
+      "explanation": "Il remporta cinq médailles d'or olympiques ; le célèbre cri de Tarzan est associé à ses films produits par la MGM.",
+      "wikipedia": "Johnny Weissmuller"
+    },
+    {
+      "id": "cinema-tv-280",
+      "difficulty": 2,
+      "question": "Quel acteur incarne l'esclave révolté Spartacus dans le péplum de Stanley Kubrick ?",
+      "answer": "Kirk Douglas",
+      "accept": [
+        "Douglas"
+      ],
+      "choices": [
+        "Charlton Heston",
+        "Burt Lancaster",
+        "Tony Curtis"
+      ],
+      "explanation": "Producteur du film, il imposa au générique le scénariste Dalton Trumbo, alors sur la liste noire de Hollywood.",
+      "wikipedia": "Spartacus (film)"
+    },
+    {
+      "id": "cinema-tv-281",
+      "difficulty": 2,
+      "question": "Quel acteur britannique, inoubliable Hans Gruber de « Piège de cristal », fut le professeur Severus Rogue dans « Harry Potter » ?",
+      "answer": "Alan Rickman",
+      "accept": [
+        "Rickman"
+      ],
+      "choices": [
+        "Ralph Fiennes",
+        "Gary Oldman",
+        "Jeremy Irons"
+      ],
+      "explanation": "Venu du théâtre, il fit ses débuts au cinéma à plus de quarante ans avec ce rôle de terroriste raffiné.",
+      "wikipedia": "Alan Rickman"
+    },
+    {
+      "id": "cinema-tv-282",
+      "difficulty": 3,
+      "question": "Quel cinéaste, de son vrai nom Grumbach, a réalisé « L'Armée des ombres » et « Le Cercle rouge » ?",
+      "answer": "Jean-Pierre Melville",
+      "accept": [
+        "Melville"
+      ],
+      "choices": [
+        "Jacques Becker",
+        "Henri-Georges Clouzot",
+        "José Giovanni"
+      ],
+      "explanation": "Il avait choisi son pseudonyme par admiration pour Herman Melville, l'auteur de « Moby Dick », et fut lui-même résistant.",
+      "wikipedia": "Jean-Pierre Melville"
+    },
+    {
+      "id": "cinema-tv-283",
+      "difficulty": 3,
+      "question": "Quelle actrice incarne Marie, au chignon blond, dans « Casque d'or » de Jacques Becker ?",
+      "answer": "Simone Signoret",
+      "accept": [
+        "Signoret"
+      ],
+      "choices": [
+        "Danielle Darrieux",
+        "Michèle Morgan",
+        "Arletty"
+      ],
+      "explanation": "Le film s'inspire d'une affaire réelle de rivalité entre bandes d'Apaches parisiens à la Belle Époque ; Serge Reggiani y joue Manda.",
+      "wikipedia": "Casque d'or"
+    },
+    {
+      "id": "cinema-tv-284",
+      "difficulty": 3,
+      "question": "Quel film de Luchino Visconti fait de Burt Lancaster le prince sicilien Fabrizio Salina ?",
+      "answer": "Le Guépard",
+      "accept": [],
+      "choices": [
+        "Senso",
+        "Rocco et ses frères",
+        "Mort à Venise"
+      ],
+      "explanation": "Adapté du roman de Lampedusa, il a reçu la Palme d'or ; Alain Delon et Claudia Cardinale y dansent un long bal final.",
+      "wikipedia": "Le Guépard (film)"
+    },
+    {
+      "id": "cinema-tv-285",
+      "difficulty": 3,
+      "question": "Quel film de Vittorio De Sica suit un colleur d'affiches romain et son fils à la recherche de son vélo dérobé ?",
+      "answer": "Le Voleur de bicyclette",
+      "accept": [],
+      "choices": [
+        "Rome, ville ouverte",
+        "Umberto D.",
+        "Païsa"
+      ],
+      "explanation": "Le rôle principal fut confié à Lamberto Maggiorani, un ouvrier sans aucune expérience d'acteur.",
+      "wikipedia": "Le Voleur de bicyclette"
+    },
+    {
+      "id": "cinema-tv-286",
+      "difficulty": 3,
+      "question": "Quel cinéaste italien a réalisé « Rome, ville ouverte », tourné peu après la libération de la ville ?",
+      "answer": "Roberto Rossellini",
+      "accept": [
+        "Rossellini"
+      ],
+      "choices": [
+        "Vittorio De Sica",
+        "Luchino Visconti",
+        "Michelangelo Antonioni"
+      ],
+      "explanation": "Ingrid Bergman, admirative de ce film, lui écrivit pour travailler avec lui ; leur liaison fit scandale à Hollywood.",
+      "wikipedia": "Roberto Rossellini"
+    },
+    {
+      "id": "cinema-tv-287",
+      "difficulty": 3,
+      "question": "Quelle revue de critique de cinéma, à la couverture jaune, a été cofondée par André Bazin en 1951 ?",
+      "answer": "Cahiers du cinéma",
+      "accept": [
+        "Les Cahiers du cinéma"
+      ],
+      "choices": [
+        "Positif",
+        "Première",
+        "Télérama"
+      ],
+      "explanation": "Truffaut, Godard, Chabrol, Rohmer et Rivette y écrivirent avant de passer à la réalisation et de former la Nouvelle Vague.",
+      "wikipedia": "Cahiers du cinéma"
+    },
+    {
+      "id": "cinema-tv-288",
+      "difficulty": 3,
+      "question": "Quel cinéaste a réalisé les « Six contes moraux », dont « Ma nuit chez Maud » et « Le Genou de Claire » ?",
+      "answer": "Éric Rohmer",
+      "accept": [
+        "Rohmer"
+      ],
+      "choices": [
+        "Claude Chabrol",
+        "Jacques Rivette",
+        "Louis Malle"
+      ],
+      "explanation": "Ancien professeur de lettres, il signa ensuite les cycles « Comédies et proverbes » et « Contes des quatre saisons ».",
+      "wikipedia": "Éric Rohmer"
+    },
+    {
+      "id": "cinema-tv-289",
+      "difficulty": 3,
+      "question": "Quel cinéaste a tourné « Le Beau Serge » dans la Creuse, souvent considéré comme le premier film de la Nouvelle Vague ?",
+      "answer": "Claude Chabrol",
+      "accept": [
+        "Chabrol"
+      ],
+      "choices": [
+        "François Truffaut",
+        "Éric Rohmer",
+        "Alain Resnais"
+      ],
+      "explanation": "Il le finança grâce à un héritage de sa femme ; sa carrière comptera ensuite de nombreux portraits acides de la bourgeoisie de province.",
+      "wikipedia": "Le Beau Serge"
+    },
+    {
+      "id": "cinema-tv-290",
+      "difficulty": 3,
+      "question": "À quel courant appartient « Le Cabinet du docteur Caligari », célèbre pour ses décors peints aux formes tordues ?",
+      "answer": "Expressionnisme",
+      "accept": [
+        "expressionnisme allemand"
+      ],
+      "choices": [
+        "Surréalisme",
+        "Futurisme",
+        "Constructivisme"
+      ],
+      "explanation": "Dans le film de Robert Wiene, un forain hypnotiseur commande à un somnambule, Cesare, de commettre des meurtres.",
+      "wikipedia": "Le Cabinet du docteur Caligari"
+    },
+    {
+      "id": "cinema-tv-291",
+      "difficulty": 3,
+      "question": "Quel cinéaste allemand a tourné « Les Ailes du désir », où des anges invisibles veillent sur Berlin ?",
+      "answer": "Wim Wenders",
+      "accept": [
+        "Wenders"
+      ],
+      "choices": [
+        "Werner Herzog",
+        "Rainer Werner Fassbinder",
+        "Volker Schlöndorff"
+      ],
+      "explanation": "Peter Falk y joue son propre rôle, ancien ange devenu humain ; Wenders avait déjà reçu la Palme d'or pour « Paris, Texas ».",
+      "wikipedia": "Wim Wenders"
+    },
+    {
+      "id": "cinema-tv-292",
+      "difficulty": 3,
+      "question": "Quel cinéaste soviétique a réalisé « Solaris » et « Stalker », longues méditations de science-fiction ?",
+      "answer": "Andreï Tarkovski",
+      "accept": [
+        "Tarkovski"
+      ],
+      "choices": [
+        "Sergueï Eisenstein",
+        "Andreï Kontchalovski",
+        "Alexandre Sokourov"
+      ],
+      "explanation": "« Solaris » adapte un roman du Polonais Stanisław Lem ; Tarkovski mourut en exil à Paris en 1986.",
+      "wikipedia": "Andreï Tarkovski"
+    },
+    {
+      "id": "cinema-tv-293",
+      "difficulty": 3,
+      "question": "Quel acteur et réalisateur japonais a remporté le Lion d'or à Venise avec « Hana-bi » ?",
+      "answer": "Takeshi Kitano",
+      "accept": [
+        "Kitano"
+      ],
+      "choices": [
+        "Takashi Miike",
+        "Hirokazu Kore-eda",
+        "Shōhei Imamura"
+      ],
+      "explanation": "D'abord célèbre au Japon comme humoriste de télévision sous le nom de Beat Takeshi, il peint lui-même les tableaux vus dans le film.",
+      "wikipedia": "Takeshi Kitano"
+    },
+    {
+      "id": "cinema-tv-294",
+      "difficulty": 3,
+      "question": "Quel cinéaste hongkongais a réalisé « In the Mood for Love », avec Tony Leung et Maggie Cheung ?",
+      "answer": "Wong Kar-wai",
+      "accept": [],
+      "choices": [
+        "John Woo",
+        "Tsui Hark",
+        "Johnnie To"
+      ],
+      "explanation": "Tony Leung y a reçu le prix d'interprétation masculine à Cannes ; le film se déroule dans le Hong Kong des années 1960.",
+      "wikipedia": "Wong Kar-wai"
+    },
+    {
+      "id": "cinema-tv-295",
+      "difficulty": 3,
+      "question": "Quel cinéaste bengali a réalisé « La Complainte du sentier », premier volet de la trilogie d'Apu ?",
+      "answer": "Satyajit Ray",
+      "accept": [
+        "Ray"
+      ],
+      "choices": [
+        "Ritwik Ghatak",
+        "Mrinal Sen",
+        "Guru Dutt"
+      ],
+      "explanation": "Il reçut un Oscar d'honneur pour l'ensemble de son œuvre, peu avant sa mort, sur son lit d'hôpital à Calcutta.",
+      "wikipedia": "Satyajit Ray"
+    },
+    {
+      "id": "cinema-tv-296",
+      "difficulty": 3,
+      "question": "Quel cinéaste iranien a obtenu la Palme d'or pour « Le Goût de la cerise » ?",
+      "answer": "Abbas Kiarostami",
+      "accept": [
+        "Kiarostami"
+      ],
+      "choices": [
+        "Asghar Farhadi",
+        "Jafar Panahi",
+        "Mohsen Makhmalbaf"
+      ],
+      "explanation": "Il partagea cette Palme avec « L'Anguille » du Japonais Shōhei Imamura ; sa trilogie de Koker l'avait déjà fait connaître.",
+      "wikipedia": "Abbas Kiarostami"
+    },
+    {
+      "id": "cinema-tv-297",
+      "difficulty": 3,
+      "question": "Quel manifeste de cinéastes danois impose caméra à l'épaule, décors naturels et refus de tout éclairage artificiel ?",
+      "answer": "Dogme95",
+      "accept": [
+        "Dogme 95",
+        "Dogma 95"
+      ],
+      "choices": [
+        "Free Cinema",
+        "Cinéma vérité",
+        "Mumblecore"
+      ],
+      "explanation": "Signé par Lars von Trier et Thomas Vinterberg, il donna naissance à « Festen », premier film labellisé du mouvement.",
+      "wikipedia": "Dogme95"
+    },
+    {
+      "id": "cinema-tv-298",
+      "difficulty": 3,
+      "question": "Quel animateur, ancien de Disney, a réalisé « Toy Story », premier long métrage entièrement en images de synthèse ?",
+      "answer": "John Lasseter",
+      "accept": [
+        "Lasseter"
+      ],
+      "choices": [
+        "Brad Bird",
+        "Pete Docter",
+        "Andrew Stanton"
+      ],
+      "explanation": "Il avait été renvoyé de Disney pour son enthousiasme envers l'animation par ordinateur, avant de rejoindre ce qui allait devenir Pixar.",
+      "wikipedia": "John Lasseter"
+    },
+    {
+      "id": "cinema-tv-299",
+      "difficulty": 3,
+      "question": "Comment s'appelle la petite lampe de bureau sautillante devenue la mascotte des studios Pixar ?",
+      "answer": "Luxo Jr.",
+      "accept": [
+        "Luxo",
+        "Luxo Junior"
+      ],
+      "choices": [
+        "Pixo",
+        "Lumi",
+        "Bulbo"
+      ],
+      "explanation": "Ce court métrage de 1986 fut le premier film en images de synthèse nommé à l'Oscar du meilleur court métrage d'animation.",
+      "wikipedia": "Luxo Jr."
+    },
+    {
+      "id": "cinema-tv-300",
+      "difficulty": 3,
+      "question": "Quel film d'animation de Paul Grimault, écrit avec Jacques Prévert, oppose un tyran ridicule à un oiseau moqueur ?",
+      "answer": "Le Roi et l'Oiseau",
+      "accept": [],
+      "choices": [
+        "La Bergère et le Ramoneur",
+        "Les Maîtres du temps",
+        "La Planète sauvage"
+      ],
+      "explanation": "Le roi y porte le nom de Charles V et trois font huit et huit font seize ; le film inspira Hayao Miyazaki et Isao Takahata.",
+      "wikipedia": "Le Roi et l'Oiseau"
+    },
+    {
+      "id": "cinema-tv-301",
+      "difficulty": 3,
+      "question": "Quel cinéaste a réalisé « Les Triplettes de Belleville », où une grand-mère part sauver son petit-fils cycliste ?",
+      "answer": "Sylvain Chomet",
+      "accept": [
+        "Chomet"
+      ],
+      "choices": [
+        "Michel Ocelot",
+        "Jean-François Laguionie",
+        "Jacques-Rémy Girerd"
+      ],
+      "explanation": "Le film est presque sans dialogues ; Chomet a ensuite adapté « L'Illusionniste », un scénario inédit de Jacques Tati.",
+      "wikipedia": "Les Triplettes de Belleville"
+    },
+    {
+      "id": "cinema-tv-302",
+      "difficulty": 3,
+      "question": "Quel système de stabilisation, porté par l'opérateur, a permis les longues poursuites dans le labyrinthe de « Shining » ?",
+      "answer": "Steadicam",
+      "accept": [],
+      "choices": [
+        "Dolly",
+        "Louma",
+        "Grue"
+      ],
+      "explanation": "Inventé par Garrett Brown au milieu des années 1970, il fut utilisé très tôt dans « Rocky » pour la montée des marches de Philadelphie.",
+      "wikipedia": "Steadicam"
+    },
+    {
+      "id": "cinema-tv-303",
+      "difficulty": 3,
+      "question": "Quel effet de montage, nommé d'après un cinéaste soviétique, montre qu'un même visage change de sens selon l'image voisine ?",
+      "answer": "Effet Koulechov",
+      "accept": [
+        "Koulechov"
+      ],
+      "choices": [
+        "Effet Vertigo",
+        "Effet Kinescope",
+        "Effet Eisenstein"
+      ],
+      "explanation": "Lev Koulechov associa le même plan d'un acteur impassible à une assiette de soupe, un cercueil ou une enfant, et les spectateurs y lurent faim, chagrin ou tendresse.",
+      "wikipedia": "Effet Koulechov"
+    },
+    {
+      "id": "cinema-tv-304",
+      "difficulty": 3,
+      "question": "Comment Hitchcock appelait-il l'objet que tous les personnages recherchent mais qui n'importe guère au spectateur ?",
+      "answer": "MacGuffin",
+      "accept": [
+        "McGuffin"
+      ],
+      "choices": [
+        "Red herring",
+        "Leitmotiv",
+        "Deus ex machina"
+      ],
+      "explanation": "Le terme vient d'une histoire écossaise absurde ; dans « Les Enchaînés », il s'agit d'uranium caché dans des bouteilles de vin.",
+      "wikipedia": "MacGuffin"
+    },
+    {
+      "id": "cinema-tv-305",
+      "difficulty": 3,
+      "question": "Quel procédé d'écran large fut lancé par la Fox avec « La Tunique », grâce à l'objectif d'Henri Chrétien ?",
+      "answer": "CinemaScope",
+      "accept": [
+        "Cinémascope"
+      ],
+      "choices": [
+        "Cinérama",
+        "VistaVision",
+        "Todd-AO"
+      ],
+      "explanation": "L'Hypergonar d'Henri Chrétien, objectif anamorphoseur inventé dans les années 1920, comprimait l'image au tournage puis la dilatait à la projection.",
+      "wikipedia": "CinemaScope"
+    },
+    {
+      "id": "cinema-tv-306",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on l'effet de « Matrix » où la caméra semble tourner autour d'une action figée ou ralentie ?",
+      "answer": "Bullet time",
+      "accept": [],
+      "choices": [
+        "Dolly zoom",
+        "Time-lapse",
+        "Morphing"
+      ],
+      "explanation": "Pour la célèbre esquive des balles par Neo, des dizaines d'appareils photo disposés en arc se déclenchaient successivement.",
+      "wikipedia": "Bullet time"
+    },
+    {
+      "id": "cinema-tv-307",
+      "difficulty": 3,
+      "question": "Quel inventeur français projetait dès 1892 ses « Pantomimes lumineuses » au musée Grévin grâce à son Théâtre optique ?",
+      "answer": "Émile Reynaud",
+      "accept": [
+        "Reynaud"
+      ],
+      "choices": [
+        "Georges Méliès",
+        "Étienne-Jules Marey",
+        "Léon Gaumont"
+      ],
+      "explanation": "Il avait inventé auparavant le praxinoscope ; ruiné par le succès du cinématographe, il jeta une partie de ses bandes dans la Seine.",
+      "wikipedia": "Émile Reynaud"
+    },
+    {
+      "id": "cinema-tv-308",
+      "difficulty": 3,
+      "question": "Quel photographe a décomposé le galop d'un cheval en une série de clichés successifs à la fin du XIXe siècle ?",
+      "answer": "Eadweard Muybridge",
+      "accept": [
+        "Muybridge"
+      ],
+      "choices": [
+        "Étienne-Jules Marey",
+        "Nadar",
+        "Louis Daguerre"
+      ],
+      "explanation": "Ces séries prouvèrent qu'au galop, le cheval quitte entièrement le sol à un moment, mais avec les jambes repliées sous lui.",
+      "wikipedia": "Eadweard Muybridge"
+    },
+    {
+      "id": "cinema-tv-309",
+      "difficulty": 3,
+      "question": "Quelle employée de Léon Gaumont est considérée comme la première femme réalisatrice de l'histoire du cinéma ?",
+      "answer": "Alice Guy",
+      "accept": [
+        "Alice Guy-Blaché"
+      ],
+      "choices": [
+        "Germaine Dulac",
+        "Musidora",
+        "Lois Weber"
+      ],
+      "explanation": "Elle tourna dès 1896 « La Fée aux choux », puis fonda aux États-Unis sa propre société de production, la Solax.",
+      "wikipedia": "Alice Guy"
+    },
+    {
+      "id": "cinema-tv-310",
+      "difficulty": 3,
+      "question": "Quelle société de cinéma française a pour emblème une marguerite, en hommage à la mère de son fondateur ?",
+      "answer": "Gaumont",
+      "accept": [],
+      "choices": [
+        "Pathé",
+        "Éclair",
+        "UGC"
+      ],
+      "explanation": "Léon Gaumont choisit cette fleur en souvenir de sa mère, Marguerite ; la société possédait jadis le Gaumont-Palace, l'un des plus grands cinémas du monde.",
+      "wikipedia": "Gaumont"
+    },
+    {
+      "id": "cinema-tv-311",
+      "difficulty": 3,
+      "question": "Quelle station de ski de Haute-Savoie accueillit de 1973 à 1993 un festival du film fantastique ?",
+      "answer": "Avoriaz",
+      "accept": [],
+      "choices": [
+        "Gérardmer",
+        "Megève",
+        "Courchevel"
+      ],
+      "explanation": "Le premier Grand Prix fut attribué à « Duel », de Steven Spielberg ; le festival a ensuite été remplacé par celui de Gérardmer.",
+      "wikipedia": "Festival international du film fantastique d'Avoriaz"
+    },
+    {
+      "id": "cinema-tv-312",
+      "difficulty": 3,
+      "question": "Quel film sur des pilotes de la Grande Guerre a reçu le tout premier Oscar du meilleur film ?",
+      "answer": "Les Ailes",
+      "accept": [
+        "Wings"
+      ],
+      "choices": [
+        "Le Chanteur de jazz",
+        "À l'Ouest, rien de nouveau",
+        "Les Anges de l'enfer"
+      ],
+      "explanation": "Le film de William Wellman, muet, comporte d'impressionnants combats aériens ; Gary Cooper y fait une brève apparition.",
+      "wikipedia": "Les Ailes (film, 1927)"
+    },
+    {
+      "id": "cinema-tv-313",
+      "difficulty": 3,
+      "question": "Quelle cinéaste fut la première femme à recevoir l'Oscar de la meilleure réalisation, pour « Démineurs » ?",
+      "answer": "Kathryn Bigelow",
+      "accept": [
+        "Bigelow"
+      ],
+      "choices": [
+        "Sofia Coppola",
+        "Jane Campion",
+        "Greta Gerwig"
+      ],
+      "explanation": "Le film suit une unité de déminage américaine en Irak ; il l'emporta notamment face à « Avatar » de James Cameron, son ex-mari.",
+      "wikipedia": "Kathryn Bigelow"
+    },
+    {
+      "id": "cinema-tv-314",
+      "difficulty": 3,
+      "question": "Quelle cinéaste néo-zélandaise fut la première femme à recevoir la Palme d'or, pour « La Leçon de piano » ?",
+      "answer": "Jane Campion",
+      "accept": [
+        "Campion"
+      ],
+      "choices": [
+        "Agnès Varda",
+        "Kathryn Bigelow",
+        "Julia Ducournau"
+      ],
+      "explanation": "Elle partagea la Palme avec « Adieu ma concubine » de Chen Kaige ; Holly Hunter y joue une pianiste muette.",
+      "wikipedia": "Jane Campion"
+    },
+    {
+      "id": "cinema-tv-315",
+      "difficulty": 3,
+      "question": "Quel commandant a coréalisé avec Louis Malle « Le Monde du silence », documentaire sous-marin palmé à Cannes ?",
+      "answer": "Jacques-Yves Cousteau",
+      "accept": [
+        "Cousteau",
+        "Commandant Cousteau"
+      ],
+      "choices": [
+        "Haroun Tazieff",
+        "Paul-Émile Victor",
+        "Hans Hass"
+      ],
+      "explanation": "Le film, tourné à bord de la Calypso, est l'un des rares documentaires à avoir reçu la Palme d'or ; il obtint aussi un Oscar.",
+      "wikipedia": "Le Monde du silence"
+    },
+    {
+      "id": "cinema-tv-316",
+      "difficulty": 3,
+      "question": "Quel cinéaste britannique a reçu la Palme d'or pour « Le vent se lève » puis pour « Moi, Daniel Blake » ?",
+      "answer": "Ken Loach",
+      "accept": [
+        "Loach"
+      ],
+      "choices": [
+        "Mike Leigh",
+        "Stephen Frears",
+        "Danny Boyle"
+      ],
+      "explanation": "Fidèle à un cinéma social, il travaille depuis longtemps avec le scénariste Paul Laverty et souvent avec des acteurs non professionnels.",
+      "wikipedia": "Ken Loach"
+    },
+    {
+      "id": "cinema-tv-317",
+      "difficulty": 3,
+      "question": "Quels frères cinéastes belges ont reçu la Palme d'or pour « Rosetta », puis pour « L'Enfant » ?",
+      "answer": "Dardenne",
+      "accept": [
+        "frères Dardenne",
+        "Jean-Pierre et Luc Dardenne"
+      ],
+      "choices": [
+        "Coen",
+        "Larrieu",
+        "Taviani"
+      ],
+      "explanation": "Leurs films sont presque tous tournés à Seraing, ville industrielle de la région de Liège où ils ont grandi.",
+      "wikipedia": "Jean-Pierre et Luc Dardenne"
+    },
+    {
+      "id": "cinema-tv-318",
+      "difficulty": 3,
+      "question": "Quelle romancière a écrit le scénario de « Hiroshima mon amour » d'Alain Resnais ?",
+      "answer": "Marguerite Duras",
+      "accept": [
+        "Duras"
+      ],
+      "choices": [
+        "Françoise Sagan",
+        "Nathalie Sarraute",
+        "Simone de Beauvoir"
+      ],
+      "explanation": "Le film fait se répondre les souvenirs d'une Française tondue à Nevers à la Libération et ceux d'un Japonais d'Hiroshima.",
+      "wikipedia": "Hiroshima mon amour"
+    },
+    {
+      "id": "cinema-tv-319",
+      "difficulty": 3,
+      "question": "De quel film d'Akira Kurosawa « Pour une poignée de dollars » est-il un remake non autorisé ?",
+      "answer": "Yojimbo",
+      "accept": [
+        "Le Garde du corps"
+      ],
+      "choices": [
+        "Rashōmon",
+        "Le Château de l'araignée",
+        "Sanjuro"
+      ],
+      "explanation": "Toshirō Mifune y joue un rōnin qui monte deux clans l'un contre l'autre ; Kurosawa obtint réparation devant la justice.",
+      "wikipedia": "Yojimbo"
+    },
+    {
+      "id": "cinema-tv-320",
+      "difficulty": 3,
+      "question": "Quel cinéaste japonais, adepte des plans fixes filmés à hauteur de tatami, a réalisé « Voyage à Tokyo » ?",
+      "answer": "Yasujirō Ozu",
+      "accept": [
+        "Ozu",
+        "Yasujiro Ozu"
+      ],
+      "choices": [
+        "Kenji Mizoguchi",
+        "Mikio Naruse",
+        "Akira Kurosawa"
+      ],
+      "explanation": "Chishū Ryū, son acteur fétiche, y incarne un vieux père en visite chez ses enfants trop occupés pour l'accueillir.",
+      "wikipedia": "Yasujirō Ozu"
+    },
+    {
+      "id": "cinema-tv-321",
+      "difficulty": 3,
+      "question": "Quel surnom désigne l'industrie cinématographique très prolifique du Nigeria ?",
+      "answer": "Nollywood",
+      "accept": [],
+      "choices": [
+        "Bollywood",
+        "Kollywood",
+        "Riallywood"
+      ],
+      "explanation": "Elle s'est développée dans les années 1990 grâce à des films tournés à petit budget en vidéo, d'abord vendus en cassettes.",
+      "wikipedia": "Nollywood"
+    },
+    {
+      "id": "cinema-tv-322",
+      "difficulty": 3,
+      "question": "Quel écrivain et cinéaste sénégalais est souvent appelé le « père du cinéma africain » ?",
+      "answer": "Ousmane Sembène",
+      "accept": [
+        "Sembène",
+        "Sembene"
+      ],
+      "choices": [
+        "Djibril Diop Mambéty",
+        "Souleymane Cissé",
+        "Idrissa Ouedraogo"
+      ],
+      "explanation": "Ancien docker à Marseille, il réalisa « La Noire de… », considéré comme le premier long métrage d'un cinéaste d'Afrique subsaharienne.",
+      "wikipedia": "Ousmane Sembène"
+    },
+    {
+      "id": "cinema-tv-323",
+      "difficulty": 3,
+      "question": "Dans quelle capitale africaine se tient le Fespaco, grand festival panafricain du cinéma ?",
+      "answer": "Ouagadougou",
+      "accept": [],
+      "choices": [
+        "Dakar",
+        "Bamako",
+        "Niamey"
+      ],
+      "explanation": "Sa récompense suprême est l'Étalon de Yennenga, du nom d'une princesse cavalière de la légende des Mossi.",
+      "wikipedia": "Festival panafricain du cinéma et de la télévision de Ouagadougou"
+    },
+    {
+      "id": "cinema-tv-324",
+      "difficulty": 3,
+      "question": "Quel compositeur français a reçu un Oscar pour la musique de « Lawrence d'Arabie » ?",
+      "answer": "Maurice Jarre",
+      "accept": [
+        "Jarre"
+      ],
+      "choices": [
+        "Georges Delerue",
+        "Michel Legrand",
+        "Francis Lai"
+      ],
+      "explanation": "Il remporta deux autres Oscars pour « Le Docteur Jivago » et « La Route des Indes », tous de David Lean ; il est le père de Jean-Michel Jarre.",
+      "wikipedia": "Maurice Jarre"
+    },
+    {
+      "id": "cinema-tv-325",
+      "difficulty": 3,
+      "question": "Quel compositeur italien, fidèle de Fellini, a écrit la musique du « Parrain » de Coppola ?",
+      "answer": "Nino Rota",
+      "accept": [
+        "Rota"
+      ],
+      "choices": [
+        "Ennio Morricone",
+        "Riz Ortolani",
+        "Armando Trovajoli"
+      ],
+      "explanation": "Il reçut l'Oscar pour « Le Parrain, 2e partie » ; sa musique du premier film avait été écartée car elle reprenait un thème plus ancien.",
+      "wikipedia": "Nino Rota"
+    },
+    {
+      "id": "cinema-tv-326",
+      "difficulty": 3,
+      "question": "Quelle actrice, épouse de Fellini, incarne la naïve Gelsomina dans « La strada » ?",
+      "answer": "Giulietta Masina",
+      "accept": [
+        "Masina"
+      ],
+      "choices": [
+        "Anna Magnani",
+        "Silvana Mangano",
+        "Claudia Cardinale"
+      ],
+      "explanation": "Elle y accompagne la brute foraine Zampano, jouée par Anthony Quinn ; le film reçut le premier Oscar compétitif du meilleur film en langue étrangère.",
+      "wikipedia": "La strada"
+    },
+    {
+      "id": "cinema-tv-327",
+      "difficulty": 3,
+      "question": "Quelle actrice italienne a reçu l'Oscar pour un rôle tenu en italien dans « La Ciociara » de Vittorio De Sica ?",
+      "answer": "Sophia Loren",
+      "accept": [
+        "Loren"
+      ],
+      "choices": [
+        "Anna Magnani",
+        "Claudia Cardinale",
+        "Gina Lollobrigida"
+      ],
+      "explanation": "Elle fut la première à recevoir l'Oscar de la meilleure actrice pour une interprétation dans une langue autre que l'anglais.",
+      "wikipedia": "Sophia Loren"
+    },
+    {
+      "id": "cinema-tv-328",
+      "difficulty": 3,
+      "question": "Quel collectionneur passionné a cofondé la Cinémathèque française avec Georges Franju en 1936 ?",
+      "answer": "Henri Langlois",
+      "accept": [
+        "Langlois"
+      ],
+      "choices": [
+        "André Bazin",
+        "Louis Delluc",
+        "Jean Mitry"
+      ],
+      "explanation": "Son éviction par André Malraux en 1968 provoqua une mobilisation des cinéastes, prélude à l'annulation du Festival de Cannes cette année-là.",
+      "wikipedia": "Henri Langlois"
+    },
+    {
+      "id": "cinema-tv-329",
+      "difficulty": 3,
+      "question": "Quel prix français, surnommé le « Goncourt du cinéma », porte le nom d'un critique et cinéaste des années 1920 ?",
+      "answer": "Prix Louis-Delluc",
+      "accept": [
+        "Louis-Delluc",
+        "Delluc",
+        "Louis Delluc"
+      ],
+      "choices": [
+        "Prix Jean-Vigo",
+        "Prix Méliès",
+        "Prix Lumière"
+      ],
+      "explanation": "Créé en 1937, il fut d'abord attribué aux « Bas-fonds » de Jean Renoir ; son jury réunit des critiques de cinéma.",
+      "wikipedia": "Prix Louis-Delluc"
+    },
+    {
+      "id": "cinema-tv-330",
+      "difficulty": 3,
+      "question": "Quel acteur burlesque reste suspendu à l'aiguille d'une horloge au-dessus de la rue dans « Monte là-dessus ! » ?",
+      "answer": "Harold Lloyd",
+      "accept": [
+        "Lloyd"
+      ],
+      "choices": [
+        "Buster Keaton",
+        "Charlie Chaplin",
+        "Max Linder"
+      ],
+      "explanation": "Il tournait malgré la perte de deux doigts de la main droite, arrachés par une fausse bombe qui avait réellement explosé.",
+      "wikipedia": "Harold Lloyd"
+    },
+    {
+      "id": "cinema-tv-331",
+      "difficulty": 3,
+      "question": "Quel détective privé, incarné par Humphrey Bogart, convoite une statuette d'oiseau dans « Le Faucon maltais » ?",
+      "answer": "Sam Spade",
+      "accept": [
+        "Spade"
+      ],
+      "choices": [
+        "Philip Marlowe",
+        "Mike Hammer",
+        "Lew Archer"
+      ],
+      "explanation": "Le film, premier réalisé par John Huston, adapte un roman de Dashiell Hammett et passe pour l'un des premiers films noirs.",
+      "wikipedia": "Le Faucon maltais (film, 1941)"
+    },
+    {
+      "id": "cinema-tv-332",
+      "difficulty": 3,
+      "question": "Quel acteur échange avec Michel Simon la célèbre réplique « Bizarre, bizarre » dans « Drôle de drame » ?",
+      "answer": "Louis Jouvet",
+      "accept": [
+        "Jouvet"
+      ],
+      "choices": [
+        "Jean-Louis Barrault",
+        "Pierre Brasseur",
+        "Jules Berry"
+      ],
+      "explanation": "Dans ce film de Marcel Carné écrit par Jacques Prévert, Jouvet joue un évêque anglais, cousin du héros botaniste.",
+      "wikipedia": "Drôle de drame"
+    },
+    {
+      "id": "cinema-tv-333",
+      "difficulty": 3,
+      "question": "Quel film d'Henri-Georges Clouzot montre Yves Montand transportant de la nitroglycérine en camion ?",
+      "answer": "Le Salaire de la peur",
+      "accept": [],
+      "choices": [
+        "Le Corbeau",
+        "Les Diaboliques",
+        "Quai des Orfèvres"
+      ],
+      "explanation": "Il est le seul film à avoir reçu à la fois la Palme d'or à Cannes et l'Ours d'or à Berlin.",
+      "wikipedia": "Le Salaire de la peur"
+    },
+    {
+      "id": "cinema-tv-334",
+      "difficulty": 3,
+      "question": "Quel acteur italien incarne « Personne », jeune pistolero facétieux face à Henry Fonda, dans « Mon nom est Personne » ?",
+      "answer": "Terence Hill",
+      "accept": [
+        "Hill"
+      ],
+      "choices": [
+        "Bud Spencer",
+        "Giuliano Gemma",
+        "Franco Nero"
+      ],
+      "explanation": "De son vrai nom Mario Girotti, il formait au cinéma un célèbre duo avec Bud Spencer, notamment dans « On l'appelle Trinita ».",
+      "wikipedia": "Mon nom est Personne"
+    },
+    {
+      "id": "cinema-tv-335",
+      "difficulty": 3,
+      "question": "Quel cinéaste tchèque, exilé aux États-Unis, a réalisé « Amadeus » et l'adaptation de la comédie musicale « Hair » ?",
+      "answer": "Miloš Forman",
+      "accept": [
+        "Forman",
+        "Milos Forman"
+      ],
+      "choices": [
+        "Roman Polanski",
+        "Jiří Menzel",
+        "Ivan Passer"
+      ],
+      "explanation": "« Amadeus » raconte la jalousie supposée d'Antonio Salieri envers Mozart et a remporté huit Oscars.",
+      "wikipedia": "Miloš Forman"
+    },
+    {
+      "id": "cinema-tv-336",
+      "difficulty": 3,
+      "question": "Quel film de Wes Anderson se déroule dans un palace d'une république imaginaire d'Europe centrale, autour du concierge Gustave H. ?",
+      "answer": "The Grand Budapest Hotel",
+      "accept": [
+        "Grand Budapest Hotel"
+      ],
+      "choices": [
+        "Moonrise Kingdom",
+        "La Famille Tenenbaum",
+        "The French Dispatch"
+      ],
+      "explanation": "Ralph Fiennes y incarne le concierge, accompagné du jeune groom Zéro Moustafa ; le film a reçu quatre Oscars.",
+      "wikipedia": "The Grand Budapest Hotel"
+    }
+  ]
+}

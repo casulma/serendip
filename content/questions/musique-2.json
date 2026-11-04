@@ -1,0 +1,2193 @@
+{
+  "category": "musique",
+  "questions": [
+    {
+      "id": "musique-071",
+      "difficulty": 1,
+      "question": "Quelle bagatelle pour piano de Beethoven, découverte après sa mort, porte le prénom d'une mystérieuse dédicataire ?",
+      "answer": "Lettre à Élise",
+      "accept": [
+        "Für Elise"
+      ],
+      "choices": [
+        "Sonate au clair de lune",
+        "Rêverie",
+        "Romance sans paroles"
+      ],
+      "explanation": "Le manuscrit, retrouvé par le musicologue Ludwig Nohl, est aujourd'hui perdu ; l'identité d'Élise reste discutée, peut-être Therese Malfatti ou la soprano Elisabeth Röckel.",
+      "wikipedia": "Lettre à Élise"
+    },
+    {
+      "id": "musique-072",
+      "difficulty": 1,
+      "question": "Quelle sérénade pour cordes de Mozart porte un titre qui évoque un petit divertissement nocturne ?",
+      "answer": "Petite musique de nuit",
+      "accept": [
+        "Une petite musique de nuit",
+        "Eine kleine Nachtmusik"
+      ],
+      "choices": [
+        "La Flûte enchantée",
+        "Sérénade Haffner",
+        "Messe du couronnement"
+      ],
+      "explanation": "Composée à Vienne en 1787, pendant l'écriture de « Don Giovanni », l'œuvre n'a été publiée qu'en 1827, longtemps après la mort de Mozart.",
+      "wikipedia": "Une petite musique de nuit"
+    },
+    {
+      "id": "musique-073",
+      "difficulty": 2,
+      "question": "Quel opéra bouffe de Rossini voit Figaro aider le comte Almaviva à conquérir la jeune Rosine ?",
+      "answer": "Le Barbier de Séville",
+      "accept": [
+        "Barbier de Séville"
+      ],
+      "choices": [
+        "Le Comte Ory",
+        "La Cenerentola",
+        "Guillaume Tell"
+      ],
+      "explanation": "Tiré de la comédie de Beaumarchais, l'opéra fut sifflé à sa création à Rome en 1816 avant de devenir l'un des plus joués au monde.",
+      "wikipedia": "Le Barbier de Séville (Rossini)"
+    },
+    {
+      "id": "musique-074",
+      "difficulty": 1,
+      "question": "Quel compositeur né à Halle et naturalisé anglais a écrit l'oratorio « Le Messie » et son célèbre « Hallelujah » ?",
+      "answer": "Haendel",
+      "accept": [
+        "Händel",
+        "Handel",
+        "Georg Friedrich Haendel"
+      ],
+      "choices": [
+        "Telemann",
+        "Purcell",
+        "Buxtehude"
+      ],
+      "explanation": "Haendel composa « Le Messie » en à peine plus de trois semaines en 1741 ; l'oratorio fut créé à Dublin l'année suivante.",
+      "wikipedia": "Georg Friedrich Haendel"
+    },
+    {
+      "id": "musique-075",
+      "difficulty": 1,
+      "question": "Quel compositeur norvégien a écrit la musique de scène de « Peer Gynt », avec « Dans l'antre du roi de la montagne » ?",
+      "answer": "Edvard Grieg",
+      "accept": [
+        "Grieg"
+      ],
+      "choices": [
+        "Jean Sibelius",
+        "Carl Nielsen",
+        "Johan Svendsen"
+      ],
+      "explanation": "Grieg écrivit cette musique à la demande d'Henrik Ibsen pour sa pièce, puis en tira deux suites orchestrales qui comptent parmi les pages les plus jouées du répertoire.",
+      "wikipedia": "Peer Gynt (Grieg)"
+    },
+    {
+      "id": "musique-076",
+      "difficulty": 1,
+      "question": "Quel compositeur allemand a écrit la « Marche nuptiale » tirée de sa musique pour « Le Songe d'une nuit d'été » ?",
+      "answer": "Mendelssohn",
+      "accept": [
+        "Felix Mendelssohn",
+        "Félix Mendelssohn"
+      ],
+      "choices": [
+        "Robert Schumann",
+        "Carl Maria von Weber",
+        "Johannes Brahms"
+      ],
+      "explanation": "La marche devint une tradition des mariages après avoir été jouée en 1858 à celui de Victoria, fille aînée de la reine Victoria.",
+      "wikipedia": "Marche nuptiale (Mendelssohn)"
+    },
+    {
+      "id": "musique-077",
+      "difficulty": 1,
+      "question": "Quel opéra-bouffe de Jacques Offenbach contient le « galop infernal », devenu la musique du French cancan ?",
+      "answer": "Orphée aux Enfers",
+      "accept": [],
+      "choices": [
+        "La Belle Hélène",
+        "La Vie parisienne",
+        "La Périchole"
+      ],
+      "explanation": "Créé en 1858, l'ouvrage parodie le mythe d'Orphée et se moque au passage des dieux de l'Olympe, transparente satire de la société du Second Empire.",
+      "wikipedia": "Orphée aux Enfers"
+    },
+    {
+      "id": "musique-078",
+      "difficulty": 1,
+      "question": "Quel opéra de Verdi, inspiré de « La Dame aux camélias » d'Alexandre Dumas fils, a pour héroïne Violetta Valéry ?",
+      "answer": "La Traviata",
+      "accept": [
+        "Traviata"
+      ],
+      "choices": [
+        "Rigoletto",
+        "Le Trouvère",
+        "Un bal masqué"
+      ],
+      "explanation": "Son titre signifie « la dévoyée ». L'opéra fut un échec lors de sa création à la Fenice de Venise en 1853, avant d'être triomphalement repris.",
+      "wikipedia": "La traviata"
+    },
+    {
+      "id": "musique-079",
+      "difficulty": 2,
+      "question": "Quel opéra de Puccini s'achève par le saut de l'héroïne du haut du château Saint-Ange, à Rome ?",
+      "answer": "Tosca",
+      "accept": [],
+      "choices": [
+        "La Bohème",
+        "Manon Lescaut",
+        "Turandot"
+      ],
+      "explanation": "Tiré d'un drame de Victorien Sardou, l'opéra se déroule en 1800 et suit la cantatrice Floria Tosca, aux prises avec le cruel baron Scarpia, chef de la police.",
+      "wikipedia": "Tosca"
+    },
+    {
+      "id": "musique-080",
+      "difficulty": 2,
+      "question": "Quel ballet romantique d'Adolphe Adam raconte l'histoire d'une paysanne morte de chagrin qui rejoint les Wilis ?",
+      "answer": "Giselle",
+      "accept": [],
+      "choices": [
+        "La Sylphide",
+        "Coppélia",
+        "Paquita"
+      ],
+      "explanation": "Créé à l'Opéra de Paris en 1841 sur un livret de Théophile Gautier, ce ballet est l'un des sommets de l'ère romantique ; le rôle-titre exige autant de talent dramatique que de technique.",
+      "wikipedia": "Giselle"
+    },
+    {
+      "id": "musique-081",
+      "difficulty": 1,
+      "question": "Quel ballet de Tchaïkovski, créé au théâtre Mariinsky, met en scène la princesse Aurore et la fée Carabosse ?",
+      "answer": "Belle au bois dormant",
+      "accept": [
+        "La Belle au bois dormant"
+      ],
+      "choices": [
+        "Le Lac des cygnes",
+        "Casse-Noisette",
+        "Cendrillon"
+      ],
+      "explanation": "Chorégraphié par Marius Petipa et créé en 1890, ce ballet s'inspire du conte de Charles Perrault ; il fut commandé par le directeur des Théâtres impériaux.",
+      "wikipedia": "La Belle au bois dormant (ballet)"
+    },
+    {
+      "id": "musique-082",
+      "difficulty": 2,
+      "question": "Quel compositeur russe a écrit le ballet « Roméo et Juliette », dont la « Danse des chevaliers » est devenue très populaire ?",
+      "answer": "Prokofiev",
+      "accept": [
+        "Sergueï Prokofiev"
+      ],
+      "choices": [
+        "Chostakovitch",
+        "Khatchatourian",
+        "Glazounov"
+      ],
+      "explanation": "Jugée d'abord indansable par le Bolchoï, la partition fut finalement créée à Brno, en Tchécoslovaquie, en 1938.",
+      "wikipedia": "Roméo et Juliette (Prokofiev)"
+    },
+    {
+      "id": "musique-083",
+      "difficulty": 1,
+      "question": "Quel compositeur allemand a écrit la cantate scénique « Carmina Burana », qui s'ouvre sur le chœur « O Fortuna » ?",
+      "answer": "Carl Orff",
+      "accept": [
+        "Orff"
+      ],
+      "choices": [
+        "Paul Hindemith",
+        "Kurt Weill",
+        "Richard Strauss"
+      ],
+      "explanation": "Les textes proviennent d'un manuscrit médiéval de poèmes goliards retrouvé à l'abbaye de Benediktbeuern, en Bavière, d'où le titre latin « chants de Beuern ».",
+      "wikipedia": "Carmina Burana (Orff)"
+    },
+    {
+      "id": "musique-084",
+      "difficulty": 2,
+      "question": "Quel compositeur allemand baroque est surtout connu pour un canon en ré majeur souvent joué lors des mariages ?",
+      "answer": "Johann Pachelbel",
+      "accept": [
+        "Pachelbel"
+      ],
+      "choices": [
+        "Georg Philipp Telemann",
+        "Dietrich Buxtehude",
+        "Heinrich Schütz"
+      ],
+      "explanation": "Organiste à Nuremberg, Pachelbel fut le professeur de Johann Christoph Bach, frère aîné de Jean-Sébastien ; son canon ne fut redécouvert qu'au XXe siècle.",
+      "wikipedia": "Canon de Pachelbel"
+    },
+    {
+      "id": "musique-085",
+      "difficulty": 3,
+      "question": "Quel musicologue italien est le véritable auteur du célèbre « Adagio » longtemps attribué à Tomaso Albinoni ?",
+      "answer": "Remo Giazotto",
+      "accept": [
+        "Giazotto"
+      ],
+      "choices": [
+        "Ottorino Respighi",
+        "Alfredo Casella",
+        "Gian Francesco Malipiero"
+      ],
+      "explanation": "Giazotto affirma l'avoir reconstitué à partir d'un fragment retrouvé dans les ruines de la bibliothèque de Dresde, mais aucun manuscrit d'Albinoni n'a jamais été produit.",
+      "wikipedia": "Adagio d'Albinoni"
+    },
+    {
+      "id": "musique-086",
+      "difficulty": 2,
+      "question": "Quelle œuvre pour orgue en ré mineur de Jean-Sébastien Bach est devenue la musique emblématique des films d'épouvante ?",
+      "answer": "Toccata et fugue",
+      "accept": [
+        "Toccata et fugue en ré mineur",
+        "Toccata"
+      ],
+      "choices": [
+        "Passacaille et fugue",
+        "Prélude et fugue",
+        "Fantaisie chromatique"
+      ],
+      "explanation": "Son attribution à Bach est parfois contestée par les musicologues. Walt Disney l'a placée en ouverture de son film « Fantasia » en 1940.",
+      "wikipedia": "Toccata et fugue en ré mineur"
+    },
+    {
+      "id": "musique-087",
+      "difficulty": 1,
+      "question": "Quelle symphonie de Beethoven s'ouvre sur le motif de quatre notes surnommé « le destin qui frappe à la porte » ?",
+      "answer": "Cinquième",
+      "accept": [
+        "Cinquième symphonie",
+        "5e",
+        "Symphonie n° 5"
+      ],
+      "choices": [
+        "Troisième",
+        "Septième",
+        "Neuvième"
+      ],
+      "explanation": "Pendant la Seconde Guerre mondiale, la BBC utilisa ce motif « brève-brève-brève-longue », qui correspond à la lettre V en morse, comme signal de la victoire.",
+      "wikipedia": "Symphonie no 5 de Beethoven"
+    },
+    {
+      "id": "musique-088",
+      "difficulty": 2,
+      "question": "Quel surnom porte la Sixième symphonie de Beethoven, qui évoque la campagne, un ruisseau et un orage ?",
+      "answer": "Pastorale",
+      "accept": [
+        "La Pastorale",
+        "Symphonie pastorale"
+      ],
+      "choices": [
+        "Héroïque",
+        "Champêtre",
+        "Rustique"
+      ],
+      "explanation": "Beethoven y fait imiter des chants d'oiseaux par les vents : le rossignol par la flûte, la caille par le hautbois et le coucou par la clarinette.",
+      "wikipedia": "Symphonie no 6 de Beethoven"
+    },
+    {
+      "id": "musique-089",
+      "difficulty": 1,
+      "question": "À quel personnage Beethoven voulait-il dédier sa Symphonie « Héroïque » avant de rayer rageusement son nom ?",
+      "answer": "Napoléon Bonaparte",
+      "accept": [
+        "Napoléon",
+        "Bonaparte"
+      ],
+      "choices": [
+        "George Washington",
+        "Joseph II",
+        "Lafayette"
+      ],
+      "explanation": "Selon son élève Ferdinand Ries, Beethoven déchira la page de titre en apprenant que Bonaparte s'était proclamé empereur en 1804.",
+      "wikipedia": "Symphonie no 3 de Beethoven"
+    },
+    {
+      "id": "musique-090",
+      "difficulty": 2,
+      "question": "Sous quel surnom poétique, donné par le critique Ludwig Rellstab, connaît-on la Sonate pour piano n° 14 de Beethoven ?",
+      "answer": "Clair de lune",
+      "accept": [
+        "Sonate au clair de lune"
+      ],
+      "choices": [
+        "Pathétique",
+        "Appassionata",
+        "Tempête"
+      ],
+      "explanation": "Rellstab comparait le premier mouvement à un clair de lune sur le lac des Quatre-Cantons. Beethoven l'avait simplement intitulée « quasi una fantasia ».",
+      "wikipedia": "Sonate pour piano no 14 de Beethoven"
+    },
+    {
+      "id": "musique-091",
+      "difficulty": 3,
+      "question": "Quel surnom porte la Symphonie n° 94 de Haydn, en raison d'un brusque accord fortissimo dans son mouvement lent ?",
+      "answer": "La Surprise",
+      "accept": [
+        "Surprise"
+      ],
+      "choices": [
+        "L'Horloge",
+        "Le Miracle",
+        "Les Adieux"
+      ],
+      "explanation": "Selon la légende, Haydn voulait réveiller les auditeurs londoniens assoupis pendant le paisible andante ; l'œuvre fut créée à Londres en 1792.",
+      "wikipedia": "Symphonie no 94 de Haydn"
+    },
+    {
+      "id": "musique-092",
+      "difficulty": 2,
+      "question": "Quel compositeur autrichien, longtemps au service des princes Esterházy, est surnommé « le père de la symphonie » ?",
+      "answer": "Joseph Haydn",
+      "accept": [
+        "Haydn"
+      ],
+      "choices": [
+        "Christoph Willibald Gluck",
+        "Carl Philipp Emanuel Bach",
+        "Antonio Salieri"
+      ],
+      "explanation": "Haydn a écrit plus d'une centaine de symphonies. Il est aussi l'auteur de la mélodie reprise par l'hymne national allemand.",
+      "wikipedia": "Joseph Haydn"
+    },
+    {
+      "id": "musique-093",
+      "difficulty": 2,
+      "question": "Quelle symphonie de Schubert en si mineur, ne comportant que deux mouvements, porte un surnom évoquant son état ?",
+      "answer": "Inachevée",
+      "accept": [
+        "Symphonie inachevée",
+        "L'Inachevée"
+      ],
+      "choices": [
+        "Tragique",
+        "Grande",
+        "Romantique"
+      ],
+      "explanation": "Composée en 1822, la partition dormit plus de quarante ans dans les tiroirs d'un ami de Schubert, Anselm Hüttenbrenner, avant sa création à Vienne en 1865.",
+      "wikipedia": "Symphonie no 8 de Schubert"
+    },
+    {
+      "id": "musique-094",
+      "difficulty": 3,
+      "question": "Quel élève de Mozart a achevé le « Requiem » que son maître laissa inachevé à sa mort ?",
+      "answer": "Franz Xaver Süssmayr",
+      "accept": [
+        "Süssmayr",
+        "Sussmayr"
+      ],
+      "choices": [
+        "Joseph Eybler",
+        "Ignaz von Seyfried",
+        "Johann Nepomuk Hummel"
+      ],
+      "explanation": "L'œuvre avait été commandée anonymement par le comte Franz von Walsegg, qui comptait la faire passer pour sienne en mémoire de son épouse.",
+      "wikipedia": "Requiem (Mozart)"
+    },
+    {
+      "id": "musique-095",
+      "difficulty": 3,
+      "question": "Quel musicologue autrichien a dressé le catalogue des œuvres de Mozart, d'où la lettre K suivie d'un numéro ?",
+      "answer": "Ludwig von Köchel",
+      "accept": [
+        "Köchel",
+        "Kochel"
+      ],
+      "choices": [
+        "Otto Erich Deutsch",
+        "Anthony van Hoboken",
+        "Wolfgang Schmieder"
+      ],
+      "explanation": "Publié en 1862, ce catalogue chronologique compte 626 numéros, le dernier étant le Requiem ; il a été révisé à plusieurs reprises depuis.",
+      "wikipedia": "Ludwig von Köchel"
+    },
+    {
+      "id": "musique-096",
+      "difficulty": 2,
+      "question": "Dans quelle ville Jean-Sébastien Bach fut-il cantor de l'église Saint-Thomas pendant plus de vingt-cinq ans ?",
+      "answer": "Leipzig",
+      "accept": [],
+      "choices": [
+        "Dresde",
+        "Weimar",
+        "Eisenach"
+      ],
+      "explanation": "Bach y composa la majeure partie de ses cantates ainsi que la « Passion selon saint Matthieu » ; il est inhumé dans cette même église.",
+      "wikipedia": "Église Saint-Thomas de Leipzig"
+    },
+    {
+      "id": "musique-097",
+      "difficulty": 1,
+      "question": "Quel compositeur baroque, ordonné prêtre et à la chevelure flamboyante, était surnommé « le Prêtre roux » ?",
+      "answer": "Vivaldi",
+      "accept": [
+        "Antonio Vivaldi"
+      ],
+      "choices": [
+        "Corelli",
+        "Albinoni",
+        "Scarlatti"
+      ],
+      "explanation": "Vivaldi enseignait la musique aux orphelines de l'Ospedale della Pietà, à Venise, dont l'orchestre féminin devint célèbre dans toute l'Europe.",
+      "wikipedia": "Antonio Vivaldi"
+    },
+    {
+      "id": "musique-098",
+      "difficulty": 2,
+      "question": "Dans quelle ville le cœur de Frédéric Chopin est-il conservé, dans un pilier de l'église Sainte-Croix ?",
+      "answer": "Varsovie",
+      "accept": [],
+      "choices": [
+        "Cracovie",
+        "Paris",
+        "Vienne"
+      ],
+      "explanation": "Chopin est inhumé au cimetière du Père-Lachaise à Paris, mais sa sœur Ludwika rapporta clandestinement son cœur en Pologne, comme il l'avait souhaité.",
+      "wikipedia": "Frédéric Chopin"
+    },
+    {
+      "id": "musique-099",
+      "difficulty": 1,
+      "question": "Quelle romancière française, auteure de « La Mare au diable », a partagé la vie de Frédéric Chopin pendant près de dix ans ?",
+      "answer": "George Sand",
+      "accept": [
+        "Sand"
+      ],
+      "choices": [
+        "Marie d'Agoult",
+        "Juliette Drouet",
+        "Colette"
+      ],
+      "explanation": "Ils passèrent notamment un hiver à Majorque, à la chartreuse de Valldemossa, et de nombreux étés au domaine de Nohant, dans le Berry.",
+      "wikipedia": "George Sand"
+    },
+    {
+      "id": "musique-100",
+      "difficulty": 1,
+      "question": "Quel pianiste virtuose hongrois, beau-père de Richard Wagner, a composé les « Rhapsodies hongroises » ?",
+      "answer": "Franz Liszt",
+      "accept": [
+        "Liszt"
+      ],
+      "choices": [
+        "Béla Bartók",
+        "Zoltán Kodály",
+        "Ferenc Erkel"
+      ],
+      "explanation": "Sa fille Cosima épousa Wagner après avoir quitté le chef d'orchestre Hans von Bülow. Liszt reçut à la fin de sa vie les ordres mineurs et devint abbé.",
+      "wikipedia": "Franz Liszt"
+    },
+    {
+      "id": "musique-101",
+      "difficulty": 1,
+      "question": "Quel violoniste virtuose génois, auteur de vingt-quatre caprices, passait pour avoir vendu son âme au diable ?",
+      "answer": "Niccolò Paganini",
+      "accept": [
+        "Paganini"
+      ],
+      "choices": [
+        "Giuseppe Tartini",
+        "Arcangelo Corelli",
+        "Pietro Locatelli"
+      ],
+      "explanation": "Sa maigreur, sa pâleur et sa technique stupéfiante nourrissaient la rumeur. Son violon préféré, un Guarneri, était surnommé « il Cannone ».",
+      "wikipedia": "Niccolò Paganini"
+    },
+    {
+      "id": "musique-102",
+      "difficulty": 2,
+      "question": "Quel compositeur né à Hambourg a écrit une célèbre berceuse et vingt-et-une « Danses hongroises » ?",
+      "answer": "Johannes Brahms",
+      "accept": [
+        "Brahms"
+      ],
+      "choices": [
+        "Robert Schumann",
+        "Max Bruch",
+        "Felix Mendelssohn"
+      ],
+      "explanation": "Brahms fut le protégé de Robert et Clara Schumann, qui l'accueillirent en 1853 ; il s'installa ensuite définitivement à Vienne.",
+      "wikipedia": "Johannes Brahms"
+    },
+    {
+      "id": "musique-103",
+      "difficulty": 2,
+      "question": "Quel compositeur tchèque a décrit le cours d'une rivière dans « La Moldau », extraite de son cycle « Ma patrie » ?",
+      "answer": "Bedřich Smetana",
+      "accept": [
+        "Smetana"
+      ],
+      "choices": [
+        "Leoš Janáček",
+        "Josef Suk",
+        "Bohuslav Martinů"
+      ],
+      "explanation": "Comme Beethoven, Smetana était devenu complètement sourd lorsqu'il composa ce cycle de six poèmes symphoniques.",
+      "wikipedia": "Bedřich Smetana"
+    },
+    {
+      "id": "musique-104",
+      "difficulty": 2,
+      "question": "Quel compositeur finlandais a écrit le poème symphonique « Finlandia », devenu un symbole de l'identité nationale ?",
+      "answer": "Jean Sibelius",
+      "accept": [
+        "Sibelius"
+      ],
+      "choices": [
+        "Edvard Grieg",
+        "Carl Nielsen",
+        "Uuno Klami"
+      ],
+      "explanation": "Composée en 1899, en pleine domination russe, l'œuvre dut parfois être jouée sous des titres anodins pour échapper à la censure.",
+      "wikipedia": "Finlandia"
+    },
+    {
+      "id": "musique-105",
+      "difficulty": 2,
+      "question": "Quel compositeur anglais a écrit les marches « Pomp and Circumstance », chantées chaque année à la dernière soirée des Proms ?",
+      "answer": "Edward Elgar",
+      "accept": [
+        "Elgar"
+      ],
+      "choices": [
+        "Ralph Vaughan Williams",
+        "Gustav Holst",
+        "Benjamin Britten"
+      ],
+      "explanation": "La première marche est devenue l'hymne patriotique « Land of Hope and Glory » ; aux États-Unis, elle accompagne les remises de diplômes.",
+      "wikipedia": "Edward Elgar"
+    },
+    {
+      "id": "musique-106",
+      "difficulty": 2,
+      "question": "Quel compositeur anglais a consacré une suite pour grand orchestre aux « Planètes », de Mars jusqu'à Neptune ?",
+      "answer": "Gustav Holst",
+      "accept": [
+        "Holst"
+      ],
+      "choices": [
+        "Edward Elgar",
+        "Benjamin Britten",
+        "Ralph Vaughan Williams"
+      ],
+      "explanation": "Chaque mouvement s'inspire du caractère astrologique de la planète : Mars apporte la guerre, Vénus la paix et Jupiter la gaieté.",
+      "wikipedia": "Les Planètes"
+    },
+    {
+      "id": "musique-107",
+      "difficulty": 2,
+      "question": "Quel compositeur russe a écrit « Le Vol du bourdon », interlude de son opéra « Le Conte du tsar Saltane » ?",
+      "answer": "Rimski-Korsakov",
+      "accept": [
+        "Nikolaï Rimski-Korsakov"
+      ],
+      "choices": [
+        "Moussorgski",
+        "Glinka",
+        "Borodine"
+      ],
+      "explanation": "Officier de marine dans sa jeunesse, Rimski-Korsakov devint un maître de l'orchestration, auteur d'un traité qui fait encore référence.",
+      "wikipedia": "Le Vol du bourdon"
+    },
+    {
+      "id": "musique-108",
+      "difficulty": 2,
+      "question": "Quelle suite pour piano de Moussorgski, inspirée des dessins de son ami Viktor Hartmann, a été orchestrée par Ravel ?",
+      "answer": "Tableaux d'une exposition",
+      "accept": [],
+      "choices": [
+        "Une nuit sur le mont Chauve",
+        "Shéhérazade",
+        "Dans les steppes de l'Asie centrale"
+      ],
+      "explanation": "Les « Promenades » qui relient les pièces représentent le visiteur déambulant dans la galerie. Ravel réalisa son orchestration en 1922 pour Serge Koussevitzky.",
+      "wikipedia": "Tableaux d'une exposition"
+    },
+    {
+      "id": "musique-109",
+      "difficulty": 3,
+      "question": "Quel compositeur russe du groupe des Cinq menait parallèlement une brillante carrière de chimiste et de médecin ?",
+      "answer": "Alexandre Borodine",
+      "accept": [
+        "Borodine"
+      ],
+      "choices": [
+        "César Cui",
+        "Mili Balakirev",
+        "Modeste Moussorgski"
+      ],
+      "explanation": "Professeur à l'Académie de médecine de Saint-Pétersbourg, il a donné son nom à une réaction chimique ; son opéra « Le Prince Igor » resta inachevé.",
+      "wikipedia": "Alexandre Borodine"
+    },
+    {
+      "id": "musique-110",
+      "difficulty": 2,
+      "question": "Quel compositeur arménien a écrit la « Danse du sabre », tirée de son ballet « Gayaneh » ?",
+      "answer": "Aram Khatchatourian",
+      "accept": [
+        "Khatchatourian"
+      ],
+      "choices": [
+        "Sergueï Prokofiev",
+        "Dmitri Chostakovitch",
+        "Reinhold Glière"
+      ],
+      "explanation": "Le ballet fut créé en 1942 à Perm, où l'on avait évacué la troupe du Kirov. Khatchatourian est aussi l'auteur du ballet « Spartacus ».",
+      "wikipedia": "Aram Khatchatourian"
+    },
+    {
+      "id": "musique-111",
+      "difficulty": 2,
+      "question": "Quel compositeur et pianiste russe, réputé pour ses mains immenses, a écrit un célèbre Concerto pour piano n° 2 en ut mineur ?",
+      "answer": "Rachmaninov",
+      "accept": [
+        "Sergueï Rachmaninov",
+        "Rachmaninoff"
+      ],
+      "choices": [
+        "Scriabine",
+        "Medtner",
+        "Glazounov"
+      ],
+      "explanation": "Il écrivit ce concerto après une profonde dépression consécutive à l'échec de sa première symphonie, grâce à une cure auprès du docteur Nikolaï Dahl, son dédicataire.",
+      "wikipedia": "Sergueï Rachmaninov"
+    },
+    {
+      "id": "musique-112",
+      "difficulty": 2,
+      "question": "Quel compositeur soviétique a dédié sa Septième symphonie à sa ville natale assiégée, Leningrad ?",
+      "answer": "Chostakovitch",
+      "accept": [
+        "Dmitri Chostakovitch"
+      ],
+      "choices": [
+        "Prokofiev",
+        "Khatchatourian",
+        "Kabalevski"
+      ],
+      "explanation": "Exécutée dans Leningrad assiégée en 1942 par un orchestre de musiciens affamés, elle fut diffusée par haut-parleurs vers les lignes allemandes.",
+      "wikipedia": "Dmitri Chostakovitch"
+    },
+    {
+      "id": "musique-113",
+      "difficulty": 1,
+      "question": "Quel compositeur français a écrit « L'Apprenti sorcier », popularisé par Mickey Mouse dans « Fantasia » ?",
+      "answer": "Paul Dukas",
+      "accept": [
+        "Dukas"
+      ],
+      "choices": [
+        "Vincent d'Indy",
+        "Albert Roussel",
+        "Ernest Chausson"
+      ],
+      "explanation": "Ce scherzo symphonique de 1897 s'inspire d'une ballade de Goethe. Très autocritique, Dukas détruisit une grande partie de ses manuscrits.",
+      "wikipedia": "L'Apprenti sorcier (Dukas)"
+    },
+    {
+      "id": "musique-114",
+      "difficulty": 2,
+      "question": "Quelle œuvre orchestrale de Debussy, inspirée d'un poème de Mallarmé, s'ouvre sur un célèbre solo de flûte ?",
+      "answer": "L'Après-midi d'un faune",
+      "accept": [
+        "Prélude à l'après-midi d'un faune"
+      ],
+      "choices": [
+        "La Mer",
+        "Nocturnes",
+        "Images"
+      ],
+      "explanation": "Créé en 1894, ce prélude est souvent considéré comme l'acte de naissance de la musique moderne. Nijinski en tira un ballet qui fit scandale en 1912.",
+      "wikipedia": "Prélude à l'après-midi d'un faune"
+    },
+    {
+      "id": "musique-115",
+      "difficulty": 3,
+      "question": "Pour quel pianiste autrichien, amputé du bras droit pendant la Grande Guerre, Ravel a-t-il écrit un concerto pour la main gauche ?",
+      "answer": "Paul Wittgenstein",
+      "accept": [
+        "Wittgenstein"
+      ],
+      "choices": [
+        "Rudolf Serkin",
+        "Artur Schnabel",
+        "Alfred Cortot"
+      ],
+      "explanation": "Frère du philosophe Ludwig Wittgenstein, il commanda aussi des œuvres à Prokofiev, Britten et Richard Strauss.",
+      "wikipedia": "Concerto pour la main gauche"
+    },
+    {
+      "id": "musique-116",
+      "difficulty": 3,
+      "question": "De quel opéra de Jules Massenet est extraite la célèbre « Méditation » pour violon et orchestre ?",
+      "answer": "Thaïs",
+      "accept": [],
+      "choices": [
+        "Manon",
+        "Werther",
+        "Hérodiade"
+      ],
+      "explanation": "Tiré d'un roman d'Anatole France, l'opéra raconte la conversion d'une courtisane d'Alexandrie par un moine cénobite. La Méditation y sert d'entracte.",
+      "wikipedia": "Thaïs (opéra)"
+    },
+    {
+      "id": "musique-117",
+      "difficulty": 2,
+      "question": "Quel compositeur baroque français a écrit le « Te Deum » dont le prélude sert d'indicatif à l'Eurovision ?",
+      "answer": "Marc-Antoine Charpentier",
+      "accept": [
+        "Charpentier"
+      ],
+      "choices": [
+        "Jean-Philippe Rameau",
+        "Michel-Richard de Lalande",
+        "André Campra"
+      ],
+      "explanation": "Contemporain et rival de Lully, Charpentier fut maître de musique de l'église Saint-Louis des Jésuites puis de la Sainte-Chapelle.",
+      "wikipedia": "Te Deum (Charpentier)"
+    },
+    {
+      "id": "musique-118",
+      "difficulty": 2,
+      "question": "Quel compositeur de la cour de Louis XIV mourut de la gangrène après s'être frappé le pied avec son bâton de direction ?",
+      "answer": "Lully",
+      "accept": [
+        "Jean-Baptiste Lully"
+      ],
+      "choices": [
+        "Lalande",
+        "Couperin",
+        "Marais"
+      ],
+      "explanation": "En 1687, il dirigeait un Te Deum en battant la mesure avec une lourde canne. Il refusa l'amputation de l'orteil blessé et mourut quelques semaines plus tard.",
+      "wikipedia": "Jean-Baptiste Lully"
+    },
+    {
+      "id": "musique-119",
+      "difficulty": 2,
+      "question": "Pour quelle pièce d'Alphonse Daudet Georges Bizet a-t-il composé une musique de scène, devenue deux suites orchestrales ?",
+      "answer": "L'Arlésienne",
+      "accept": [
+        "Arlésienne"
+      ],
+      "choices": [
+        "Tartarin de Tarascon",
+        "Les Lettres de mon moulin",
+        "Le Petit Chose"
+      ],
+      "explanation": "Le drame fut un échec en 1872 mais la musique triompha. Le personnage-titre n'apparaît jamais sur scène, d'où l'expression « jouer l'Arlésienne ».",
+      "wikipedia": "L'Arlésienne (Bizet)"
+    },
+    {
+      "id": "musique-120",
+      "difficulty": 2,
+      "question": "Quel compositeur autrichien, directeur de l'Opéra de Vienne, a écrit la symphonie de lieder « Le Chant de la Terre » ?",
+      "answer": "Gustav Mahler",
+      "accept": [
+        "Mahler"
+      ],
+      "choices": [
+        "Anton Bruckner",
+        "Hugo Wolf",
+        "Alexander von Zemlinsky"
+      ],
+      "explanation": "Superstitieux, Mahler aurait refusé de numéroter cette œuvre comme sa neuvième symphonie, Beethoven et Bruckner étant morts après leur neuvième.",
+      "wikipedia": "Gustav Mahler"
+    },
+    {
+      "id": "musique-121",
+      "difficulty": 3,
+      "question": "Quel compositeur américain a écrit l'« Adagio pour cordes », souvent joué lors des deuils nationaux ?",
+      "answer": "Samuel Barber",
+      "accept": [
+        "Barber"
+      ],
+      "choices": [
+        "Aaron Copland",
+        "Charles Ives",
+        "Leonard Bernstein"
+      ],
+      "explanation": "Cet adagio est l'arrangement du mouvement lent de son unique quatuor à cordes ; il fut créé en 1938 par Arturo Toscanini et retentit notamment après la mort de Roosevelt et de Kennedy.",
+      "wikipedia": "Adagio pour cordes"
+    },
+    {
+      "id": "musique-122",
+      "difficulty": 2,
+      "question": "Quel compositeur américain a écrit « 4′33″ », pièce pendant laquelle l'interprète ne joue aucune note ?",
+      "answer": "John Cage",
+      "accept": [
+        "Cage"
+      ],
+      "choices": [
+        "Philip Glass",
+        "Steve Reich",
+        "Morton Feldman"
+      ],
+      "explanation": "L'œuvre invite à écouter les bruits ambiants de la salle. Cage est aussi l'inventeur du piano préparé, aux cordes garnies de vis et de gommes.",
+      "wikipedia": "4′33″"
+    },
+    {
+      "id": "musique-123",
+      "difficulty": 3,
+      "question": "Quel compositeur français, passionné de chants d'oiseaux, a écrit le « Quatuor pour la fin du Temps » dans un camp de prisonniers ?",
+      "answer": "Olivier Messiaen",
+      "accept": [
+        "Messiaen"
+      ],
+      "choices": [
+        "Henri Dutilleux",
+        "André Jolivet",
+        "Pierre Boulez"
+      ],
+      "explanation": "L'œuvre fut créée en janvier 1941 au Stalag VIII-A de Görlitz, en Silésie, devant les prisonniers du camp et leurs gardiens.",
+      "wikipedia": "Quatuor pour la fin du Temps"
+    },
+    {
+      "id": "musique-124",
+      "difficulty": 3,
+      "question": "Quel compositeur et chef d'orchestre français a fondé l'Ircam, institut de recherche musicale associé au Centre Pompidou ?",
+      "answer": "Pierre Boulez",
+      "accept": [
+        "Boulez"
+      ],
+      "choices": [
+        "Pierre Schaeffer",
+        "Iannis Xenakis",
+        "Henri Dutilleux"
+      ],
+      "explanation": "Figure du sérialisme, Boulez fonda aussi l'Ensemble intercontemporain en 1976. Il dirigea la « Tétralogie » du centenaire à Bayreuth.",
+      "wikipedia": "Pierre Boulez"
+    },
+    {
+      "id": "musique-125",
+      "difficulty": 3,
+      "question": "Sous quel nom collectif désigne-t-on Poulenc, Milhaud, Honegger, Auric, Durey et Germaine Tailleferre ?",
+      "answer": "Groupe des Six",
+      "accept": [
+        "Les Six"
+      ],
+      "choices": [
+        "Groupe des Cinq",
+        "École de Paris",
+        "Jeune France"
+      ],
+      "explanation": "Le nom fut lancé en 1920 par le critique Henri Collet, par analogie avec le groupe des Cinq russe ; Jean Cocteau et Erik Satie en furent les parrains.",
+      "wikipedia": "Groupe des Six"
+    },
+    {
+      "id": "musique-126",
+      "difficulty": 3,
+      "question": "Quel compositeur suisse a évoqué une locomotive à vapeur lancée à pleine vitesse dans « Pacific 231 » ?",
+      "answer": "Arthur Honegger",
+      "accept": [
+        "Honegger"
+      ],
+      "choices": [
+        "Darius Milhaud",
+        "Frank Martin",
+        "Francis Poulenc"
+      ],
+      "explanation": "Grand amateur de trains, Honegger tirait le titre d'un type de locomotive : deux essieux porteurs, trois moteurs et un porteur.",
+      "wikipedia": "Pacific 231"
+    },
+    {
+      "id": "musique-127",
+      "difficulty": 2,
+      "question": "Quel est l'unique opéra de Beethoven, dont l'héroïne se déguise en homme pour délivrer son mari emprisonné ?",
+      "answer": "Fidelio",
+      "accept": [],
+      "choices": [
+        "Egmont",
+        "Les Créatures de Prométhée",
+        "Les Ruines d'Athènes"
+      ],
+      "explanation": "Léonore s'y fait engager sous le nom de Fidelio comme aide du geôlier. Beethoven remania l'œuvre pendant près de dix ans et écrivit quatre ouvertures.",
+      "wikipedia": "Fidelio"
+    },
+    {
+      "id": "musique-128",
+      "difficulty": 1,
+      "question": "Quel compositeur italien, rival supposé de Mozart, est le narrateur tourmenté du film « Amadeus » de Miloš Forman ?",
+      "answer": "Antonio Salieri",
+      "accept": [
+        "Salieri"
+      ],
+      "choices": [
+        "Luigi Boccherini",
+        "Muzio Clementi",
+        "Domenico Cimarosa"
+      ],
+      "explanation": "La rumeur de l'empoisonnement de Mozart par Salieri, jamais prouvée, avait déjà inspiré une courte pièce d'Alexandre Pouchkine.",
+      "wikipedia": "Antonio Salieri"
+    },
+    {
+      "id": "musique-129",
+      "difficulty": 2,
+      "question": "Quelle œuvre de Bach doit son nom à un jeune claveciniste chargé de distraire un comte insomniaque ?",
+      "answer": "Variations Goldberg",
+      "accept": [
+        "Goldberg"
+      ],
+      "choices": [
+        "Partitas",
+        "Suites anglaises",
+        "L'Offrande musicale"
+      ],
+      "explanation": "L'anecdote du comte Keyserlingk, rapportée par le biographe Forkel, est douteuse. L'enregistrement de Glenn Gould en 1955 a rendu l'œuvre très populaire.",
+      "wikipedia": "Variations Goldberg"
+    },
+    {
+      "id": "musique-130",
+      "difficulty": 3,
+      "question": "Quelle suite de Haendel aurait été jouée sur une barge naviguant sur la Tamise pour le roi George Ier ?",
+      "answer": "Water Music",
+      "accept": [],
+      "choices": [
+        "Music for the Royal Fireworks",
+        "Zadok the Priest",
+        "Rinaldo"
+      ],
+      "explanation": "Lors de cette promenade de juillet 1717, le roi, enchanté, aurait demandé que la musique soit rejouée plusieurs fois.",
+      "wikipedia": "Water Music"
+    },
+    {
+      "id": "musique-131",
+      "difficulty": 3,
+      "question": "Quelle compositrice fut, en 1913, la première femme à remporter le premier grand prix de Rome de composition ?",
+      "answer": "Lili Boulanger",
+      "accept": [
+        "Boulanger"
+      ],
+      "choices": [
+        "Germaine Tailleferre",
+        "Cécile Chaminade",
+        "Augusta Holmès"
+      ],
+      "explanation": "Morte à vingt-quatre ans, elle était la sœur cadette de Nadia Boulanger, pédagogue légendaire qui forma Astor Piazzolla, Philip Glass et Quincy Jones.",
+      "wikipedia": "Lili Boulanger"
+    },
+    {
+      "id": "musique-132",
+      "difficulty": 1,
+      "question": "Quel compositeur allemand a écrit « Ainsi parlait Zarathoustra », dont l'introduction ouvre « 2001, l'Odyssée de l'espace » ?",
+      "answer": "Richard Strauss",
+      "accept": [],
+      "choices": [
+        "Richard Wagner",
+        "Gustav Mahler",
+        "Anton Bruckner"
+      ],
+      "explanation": "Ce poème symphonique de 1896 s'inspire de l'ouvrage de Nietzsche. Sans lien de parenté avec la dynastie viennoise, Strauss est aussi l'auteur de « Salomé ».",
+      "wikipedia": "Ainsi parlait Zarathoustra (Strauss)"
+    },
+    {
+      "id": "musique-133",
+      "difficulty": 1,
+      "question": "Quelle œuvre de Tchaïkovski, célébrant la victoire russe contre Napoléon, prévoit de vrais coups de canon ?",
+      "answer": "Ouverture 1812",
+      "accept": [
+        "1812",
+        "Ouverture solennelle 1812"
+      ],
+      "choices": [
+        "Marche slave",
+        "Capriccio italien",
+        "Francesca da Rimini"
+      ],
+      "explanation": "La partition cite « La Marseillaise » pour figurer l'armée française, puis l'hymne impérial russe « Dieu protège le tsar » pour la victoire.",
+      "wikipedia": "Ouverture solennelle 1812"
+    },
+    {
+      "id": "musique-134",
+      "difficulty": 2,
+      "question": "Quelle œuvre de Schubert pour piano et cordes emprunte son titre à l'un de ses lieder consacré à un poisson ?",
+      "answer": "La Truite",
+      "accept": [
+        "Quintette La Truite",
+        "Truite"
+      ],
+      "choices": [
+        "Le Roi des aulnes",
+        "La Jeune Fille et la Mort",
+        "Rosamunde"
+      ],
+      "explanation": "Le quatrième mouvement est une série de variations sur le lied. L'effectif est original : il remplace le second violon par une contrebasse.",
+      "wikipedia": "La Truite (Schubert)"
+    },
+    {
+      "id": "musique-135",
+      "difficulty": 3,
+      "question": "Quel compositeur irlandais a inventé le nocturne pour piano, genre que Chopin allait porter au sommet ?",
+      "answer": "John Field",
+      "accept": [
+        "Field"
+      ],
+      "choices": [
+        "Muzio Clementi",
+        "Jan Ladislav Dussek",
+        "Ignaz Moscheles"
+      ],
+      "explanation": "Élève de Clementi, Field s'établit en Russie, à Saint-Pétersbourg puis à Moscou, où il mourut ; il publia son premier nocturne en 1812.",
+      "wikipedia": "John Field"
+    },
+    {
+      "id": "musique-136",
+      "difficulty": 2,
+      "question": "Quel compositeur né à Bergame a écrit « L'Élixir d'amour » et « Lucia di Lammermoor » ?",
+      "answer": "Gaetano Donizetti",
+      "accept": [
+        "Donizetti"
+      ],
+      "choices": [
+        "Vincenzo Bellini",
+        "Gioachino Rossini",
+        "Saverio Mercadante"
+      ],
+      "explanation": "D'une fécondité prodigieuse, Donizetti écrivit environ soixante-dix opéras ; « Lucia » s'inspire d'un roman de Walter Scott.",
+      "wikipedia": "Gaetano Donizetti"
+    },
+    {
+      "id": "musique-137",
+      "difficulty": 1,
+      "question": "Quelle soprano d'origine grecque, surnommée « la Divina », a marqué l'histoire de l'opéra dans « Norma » et « Tosca » ?",
+      "answer": "Maria Callas",
+      "accept": [
+        "Callas"
+      ],
+      "choices": [
+        "Renata Tebaldi",
+        "Montserrat Caballé",
+        "Joan Sutherland"
+      ],
+      "explanation": "Née à New York de parents grecs, elle renouvela l'art lyrique par son jeu d'actrice. Elle mourut à Paris, dans son appartement de l'avenue Georges-Mandel.",
+      "wikipedia": "Maria Callas"
+    },
+    {
+      "id": "musique-138",
+      "difficulty": 1,
+      "question": "Quel ténor de Modène a formé le trio des « Trois Ténors » avec Plácido Domingo et José Carreras ?",
+      "answer": "Luciano Pavarotti",
+      "accept": [
+        "Pavarotti"
+      ],
+      "choices": [
+        "Andrea Bocelli",
+        "Roberto Alagna",
+        "Mario Lanza"
+      ],
+      "explanation": "Le premier concert des Trois Ténors eut lieu à Rome, aux thermes de Caracalla, la veille de la finale de la Coupe du monde de football 1990.",
+      "wikipedia": "Luciano Pavarotti"
+    },
+    {
+      "id": "musique-139",
+      "difficulty": 1,
+      "question": "De quel opéra de Puccini, laissé inachevé à sa mort, est extrait l'air « Nessun dorma » ?",
+      "answer": "Turandot",
+      "accept": [],
+      "choices": [
+        "La Bohème",
+        "Tosca",
+        "Gianni Schicchi"
+      ],
+      "explanation": "Franco Alfano compléta le dernier acte. À la création à la Scala en 1926, Toscanini posa sa baguette à l'endroit où Puccini s'était arrêté.",
+      "wikipedia": "Turandot"
+    },
+    {
+      "id": "musique-140",
+      "difficulty": 1,
+      "question": "Quel opéra de Verdi contient le chœur des esclaves hébreux « Va, pensiero », devenu un hymne patriotique italien ?",
+      "answer": "Nabucco",
+      "accept": [],
+      "choices": [
+        "Aida",
+        "Otello",
+        "Don Carlos"
+      ],
+      "explanation": "Le rôle-titre est le roi de Babylone Nabuchodonosor. Le chœur fut repris spontanément par la foule lors des funérailles de Verdi, à Milan, en 1901.",
+      "wikipedia": "Nabucco"
+    },
+    {
+      "id": "musique-141",
+      "difficulty": 1,
+      "question": "Quel bouffon bossu donne son nom à l'opéra de Verdi où retentit l'air « La donna è mobile » ?",
+      "answer": "Rigoletto",
+      "accept": [],
+      "choices": [
+        "Falstaff",
+        "Paillasse",
+        "Triboulet"
+      ],
+      "explanation": "L'opéra est adapté de « Le roi s'amuse » de Victor Hugo, la censure ayant obligé à remplacer le roi François Ier par un duc de Mantoue.",
+      "wikipedia": "Rigoletto"
+    },
+    {
+      "id": "musique-142",
+      "difficulty": 1,
+      "question": "Quel opéra de Mozart est tiré de la pièce de Beaumarchais qui fait suite au « Barbier de Séville » ?",
+      "answer": "Les Noces de Figaro",
+      "accept": [
+        "Noces de Figaro",
+        "Le Nozze di Figaro"
+      ],
+      "choices": [
+        "Così fan tutte",
+        "L'Enlèvement au sérail",
+        "La Clémence de Titus"
+      ],
+      "explanation": "Le livret est de Lorenzo Da Ponte. La pièce de Beaumarchais, jugée subversive, avait été un temps interdite par Louis XVI.",
+      "wikipedia": "Les Noces de Figaro"
+    },
+    {
+      "id": "musique-143",
+      "difficulty": 2,
+      "question": "De quel opéra de Gounod provient l'« air des bijoux », que la Castafiore chante sans cesse dans Tintin ?",
+      "answer": "Faust",
+      "accept": [],
+      "choices": [
+        "Roméo et Juliette",
+        "Mireille",
+        "Sapho"
+      ],
+      "explanation": "« Ah ! je ris de me voir si belle en ce miroir » est chanté par Marguerite découvrant le coffret de bijoux déposé par Méphistophélès.",
+      "wikipedia": "Faust (Gounod)"
+    },
+    {
+      "id": "musique-144",
+      "difficulty": 3,
+      "question": "Quel opéra de Léo Delibes, situé en Inde, contient le célèbre « duo des fleurs » ?",
+      "answer": "Lakmé",
+      "accept": [],
+      "choices": [
+        "Thaïs",
+        "Le Roi de Lahore",
+        "Les Pêcheurs de perles"
+      ],
+      "explanation": "Lakmé, fille d'un brahmane, s'éprend d'un officier britannique. Le duo des fleurs a été popularisé par une publicité pour une compagnie aérienne.",
+      "wikipedia": "Lakmé"
+    },
+    {
+      "id": "musique-145",
+      "difficulty": 2,
+      "question": "Dans quelle ville de Bavière Richard Wagner a-t-il fait bâtir un théâtre exclusivement consacré à ses opéras ?",
+      "answer": "Bayreuth",
+      "accept": [],
+      "choices": [
+        "Munich",
+        "Nuremberg",
+        "Augsbourg"
+      ],
+      "explanation": "Le Festspielhaus fut inauguré en 1876 avec la première « Tétralogie » complète. Sa fosse d'orchestre est entièrement recouverte, invisible du public.",
+      "wikipedia": "Festival de Bayreuth"
+    },
+    {
+      "id": "musique-146",
+      "difficulty": 3,
+      "question": "Quel opéra de Wagner s'ouvre sur un accord dissonant devenu célèbre, souvent présenté comme un tournant de l'harmonie ?",
+      "answer": "Tristan et Isolde",
+      "accept": [
+        "Tristan und Isolde"
+      ],
+      "choices": [
+        "Parsifal",
+        "Lohengrin",
+        "Tannhäuser"
+      ],
+      "explanation": "L'accord de Tristan, jamais résolu de façon classique, annonce l'éclatement de la tonalité. L'opéra fut créé à Munich en 1865.",
+      "wikipedia": "Tristan und Isolde"
+    },
+    {
+      "id": "musique-147",
+      "difficulty": 3,
+      "question": "Quel opéra de Wagner, dont le héros arrive sur une nacelle tirée par un cygne, contient une célèbre marche nuptiale ?",
+      "answer": "Lohengrin",
+      "accept": [],
+      "choices": [
+        "Parsifal",
+        "Le Vaisseau fantôme",
+        "Tannhäuser"
+      ],
+      "explanation": "Le chœur nuptial du troisième acte est devenu, avec celui de Mendelssohn, l'une des musiques favorites des mariages. Liszt dirigea la création à Weimar en 1850.",
+      "wikipedia": "Lohengrin"
+    },
+    {
+      "id": "musique-148",
+      "difficulty": 3,
+      "question": "Quel opéra de Bizet, situé à Ceylan, contient le duo « Au fond du temple saint » ?",
+      "answer": "Les Pêcheurs de perles",
+      "accept": [
+        "Pêcheurs de perles"
+      ],
+      "choices": [
+        "Djamileh",
+        "La Jolie Fille de Perth",
+        "Le Docteur Miracle"
+      ],
+      "explanation": "Bizet n'avait que vingt-quatre ans lors de la création, en 1863 au Théâtre-Lyrique. Le duo de Nadir et Zurga est devenu un classique des récitals de ténor et baryton.",
+      "wikipedia": "Les Pêcheurs de perles"
+    },
+    {
+      "id": "musique-149",
+      "difficulty": 3,
+      "question": "Quel opéra-ballet de Jean-Philippe Rameau promène le spectateur en Turquie, au Pérou, en Perse et chez les Sauvages d'Amérique ?",
+      "answer": "Les Indes galantes",
+      "accept": [
+        "Indes galantes"
+      ],
+      "choices": [
+        "Castor et Pollux",
+        "Platée",
+        "Hippolyte et Aricie"
+      ],
+      "explanation": "Créé en 1735, l'ouvrage contient la danse du Grand Calumet de la paix, sur l'air des « Sauvages » que Rameau avait d'abord écrit pour le clavecin.",
+      "wikipedia": "Les Indes galantes"
+    },
+    {
+      "id": "musique-150",
+      "difficulty": 3,
+      "question": "Quel compositeur anglais baroque a écrit l'opéra « Didon et Énée » et sa célèbre lamentation « When I am laid in earth » ?",
+      "answer": "Henry Purcell",
+      "accept": [
+        "Purcell"
+      ],
+      "choices": [
+        "John Blow",
+        "William Byrd",
+        "Thomas Arne"
+      ],
+      "explanation": "Organiste de l'abbaye de Westminster, il y est inhumé. L'opéra aurait été créé dans un pensionnat de jeunes filles de Chelsea.",
+      "wikipedia": "Henry Purcell"
+    },
+    {
+      "id": "musique-151",
+      "difficulty": 2,
+      "question": "Quel air de « Carmen » commence par les mots « L'amour est un oiseau rebelle » ?",
+      "answer": "Habanera",
+      "accept": [
+        "La Habanera"
+      ],
+      "choices": [
+        "Séguedille",
+        "Air du toréador",
+        "Chanson bohème"
+      ],
+      "explanation": "Bizet croyait reprendre une chanson populaire : c'était en fait « El Arreglito » du compositeur basque Sebastián Iradier, qu'il dut créditer.",
+      "wikipedia": "Habanera (Carmen)"
+    },
+    {
+      "id": "musique-152",
+      "difficulty": 3,
+      "question": "Quelle opérette de Johann Strauss fils tire son titre du surnom d'un notaire, humilié après un bal costumé ?",
+      "answer": "La Chauve-Souris",
+      "accept": [
+        "Chauve-Souris",
+        "Die Fledermaus"
+      ],
+      "choices": [
+        "Le Baron tzigane",
+        "Une nuit à Venise",
+        "La Veuve joyeuse"
+      ],
+      "explanation": "Créée à Vienne en 1874, elle est traditionnellement jouée le soir de la Saint-Sylvestre dans les opéras germaniques.",
+      "wikipedia": "La Chauve-Souris"
+    },
+    {
+      "id": "musique-153",
+      "difficulty": 2,
+      "question": "De quel opéra fantastique d'Offenbach, créé après la mort du compositeur, est extraite la célèbre « Barcarolle » ?",
+      "answer": "Les Contes d'Hoffmann",
+      "accept": [
+        "Contes d'Hoffmann"
+      ],
+      "choices": [
+        "La Belle Hélène",
+        "La Grande-Duchesse de Gérolstein",
+        "Les Brigands"
+      ],
+      "explanation": "La Barcarolle se chante dans l'acte vénitien. Offenbach la reprit d'un de ses opéras précédents, « Les Fées du Rhin ».",
+      "wikipedia": "Les Contes d'Hoffmann"
+    },
+    {
+      "id": "musique-154",
+      "difficulty": 2,
+      "question": "Quel style de chant italien, illustré par Bellini et Donizetti, privilégie la beauté du son et l'agilité vocale ?",
+      "answer": "Bel canto",
+      "accept": [
+        "belcanto"
+      ],
+      "choices": [
+        "Vérisme",
+        "Sprechgesang",
+        "Opera seria"
+      ],
+      "explanation": "L'expression signifie « beau chant ». Ce style exige des chanteurs de longues phrases liées et des vocalises virtuoses, notamment dans les scènes de folie.",
+      "wikipedia": "Bel canto"
+    },
+    {
+      "id": "musique-155",
+      "difficulty": 3,
+      "question": "Quel courant de l'opéra italien, illustré par « Cavalleria rusticana » de Mascagni, montre la vie réelle des gens modestes ?",
+      "answer": "Vérisme",
+      "accept": [
+        "verismo"
+      ],
+      "choices": [
+        "Bel canto",
+        "Opera buffa",
+        "Naturalisme"
+      ],
+      "explanation": "Inspiré du courant littéraire de Giovanni Verga, le vérisme préfère les drames passionnels du peuple aux héros mythologiques ; « Paillasse » de Leoncavallo en est un autre exemple.",
+      "wikipedia": "Vérisme (musique)"
+    },
+    {
+      "id": "musique-156",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le thème musical associé à un personnage ou une idée, procédé cher à Richard Wagner ?",
+      "answer": "Leitmotiv",
+      "accept": [
+        "leitmotive"
+      ],
+      "choices": [
+        "Ostinato",
+        "Refrain",
+        "Ritournelle"
+      ],
+      "explanation": "Le mot allemand signifie « motif conducteur ». La « Tétralogie » en compte plusieurs dizaines, qui se transforment au fil du drame.",
+      "wikipedia": "Leitmotiv"
+    },
+    {
+      "id": "musique-157",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le texte d'un opéra, comme ceux que Lorenzo Da Ponte écrivit pour trois opéras de Mozart ?",
+      "answer": "Livret",
+      "accept": [
+        "libretto"
+      ],
+      "choices": [
+        "Scénario",
+        "Partition",
+        "Argument"
+      ],
+      "explanation": "Le mot vient de l'italien « libretto », petit livre que les spectateurs achetaient pour suivre la représentation, souvent à la lueur d'une bougie.",
+      "wikipedia": "Livret (art lyrique)"
+    },
+    {
+      "id": "musique-158",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on, à l'opéra, la partie déclamée proche de la parole qui fait avancer l'action entre les airs ?",
+      "answer": "Récitatif",
+      "accept": [
+        "recitativo"
+      ],
+      "choices": [
+        "Arioso",
+        "Cavatine",
+        "Cabalette"
+      ],
+      "explanation": "Le récitatif « secco » n'est accompagné que par le continuo, souvent un clavecin, tandis que le récitatif « accompagnato » fait intervenir l'orchestre.",
+      "wikipedia": "Récitatif"
+    },
+    {
+      "id": "musique-159",
+      "difficulty": 1,
+      "question": "Quelle est la voix féminine la plus aiguë, celle de la Reine de la Nuit dans « La Flûte enchantée » ?",
+      "answer": "Soprano",
+      "accept": [],
+      "choices": [
+        "Alto",
+        "Contralto",
+        "Mezzo-soprano"
+      ],
+      "explanation": "Le terme vient de l'italien « sopra », au-dessus. On distingue notamment la soprano colorature, à l'agilité extrême, et la soprano dramatique, plus puissante.",
+      "wikipedia": "Soprano"
+    },
+    {
+      "id": "musique-160",
+      "difficulty": 1,
+      "question": "Quelle voix masculine se situe entre le ténor et la basse, comme celle de Figaro dans « Le Barbier de Séville » ?",
+      "answer": "Baryton",
+      "accept": [],
+      "choices": [
+        "Alto",
+        "Contre-ténor",
+        "Soprano"
+      ],
+      "explanation": "Le mot vient du grec « barytonos », au son grave. Verdi a écrit pour cette voix des rôles majeurs comme Rigoletto et Nabucco.",
+      "wikipedia": "Baryton"
+    },
+    {
+      "id": "musique-161",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un chanteur adulte qui chante dans la tessiture d'alto grâce à sa voix de tête ?",
+      "answer": "Contre-ténor",
+      "accept": [
+        "contreténor",
+        "haute-contre"
+      ],
+      "choices": [
+        "Castrat",
+        "Baryton",
+        "Basse"
+      ],
+      "explanation": "Cette voix a été remise à l'honneur au XXe siècle par l'Anglais Alfred Deller et le renouveau de la musique baroque, qui confie aux contre-ténors d'anciens rôles de castrats.",
+      "wikipedia": "Contreténor"
+    },
+    {
+      "id": "musique-162",
+      "difficulty": 2,
+      "question": "Sous quel surnom est connu Carlo Broschi, le plus célèbre castrat de l'opéra baroque ?",
+      "answer": "Farinelli",
+      "accept": [],
+      "choices": [
+        "Senesino",
+        "Caffarelli",
+        "Velluti"
+      ],
+      "explanation": "Il passa près de vingt-cinq ans à la cour d'Espagne, où il aurait chanté chaque soir les mêmes airs pour apaiser la mélancolie du roi Philippe V.",
+      "wikipedia": "Farinelli"
+    },
+    {
+      "id": "musique-163",
+      "difficulty": 1,
+      "question": "Quel mot italien, signifiant « déesse », désigne une chanteuse d'opéra vedette, et par extension une star capricieuse ?",
+      "answer": "Diva",
+      "accept": [],
+      "choices": [
+        "Prima donna",
+        "Cantatrice",
+        "Muse"
+      ],
+      "explanation": "Le terme s'est imposé au XIXe siècle pour les cantatrices adulées. Son équivalent masculin, plus rare, est « divo ».",
+      "wikipedia": "Diva"
+    },
+    {
+      "id": "musique-164",
+      "difficulty": 2,
+      "question": "Quel théâtre parisien, aussi appelé salle Favart, a vu la création de « Carmen » de Bizet ?",
+      "answer": "Opéra-Comique",
+      "accept": [
+        "Opéra Comique",
+        "Salle Favart"
+      ],
+      "choices": [
+        "Théâtre du Châtelet",
+        "Théâtre des Champs-Élysées",
+        "Opéra Garnier"
+      ],
+      "explanation": "Le nom du genre ne signifie pas comique : il désigne des œuvres mêlant dialogues parlés et chant. Le bâtiment actuel date de 1898, après un incendie meurtrier.",
+      "wikipedia": "Opéra-Comique"
+    },
+    {
+      "id": "musique-165",
+      "difficulty": 1,
+      "question": "Dans quelle ville italienne se trouve le célèbre théâtre de la Scala, inauguré en 1778 ?",
+      "answer": "Milan",
+      "accept": [],
+      "choices": [
+        "Venise",
+        "Naples",
+        "Turin"
+      ],
+      "explanation": "Le théâtre doit son nom à l'église Santa Maria alla Scala, démolie pour lui laisser la place. La saison s'ouvre traditionnellement le 7 décembre, jour de la Saint-Ambroise.",
+      "wikipedia": "La Scala"
+    },
+    {
+      "id": "musique-166",
+      "difficulty": 2,
+      "question": "Dans quelle ville se trouve l'opéra La Fenice, dont le nom signifie « le Phénix » ?",
+      "answer": "Venise",
+      "accept": [],
+      "choices": [
+        "Florence",
+        "Gênes",
+        "Rome"
+      ],
+      "explanation": "Fidèle à son nom, le théâtre a été plusieurs fois détruit par le feu puis reconstruit, la dernière fois après l'incendie criminel de 1996.",
+      "wikipedia": "La Fenice"
+    },
+    {
+      "id": "musique-167",
+      "difficulty": 1,
+      "question": "Dans quelle ville se dresse le théâtre du Bolchoï, mondialement célèbre pour sa compagnie de ballet ?",
+      "answer": "Moscou",
+      "accept": [],
+      "choices": [
+        "Saint-Pétersbourg",
+        "Kiev",
+        "Novossibirsk"
+      ],
+      "explanation": "Son nom signifie simplement « grand » en russe. Sa façade, ornée d'un quadrige d'Apollon, figure sur le billet de cent roubles.",
+      "wikipedia": "Théâtre Bolchoï"
+    },
+    {
+      "id": "musique-168",
+      "difficulty": 2,
+      "question": "Dans quelle ville se trouve le théâtre Mariinsky, où furent créés « Casse-Noisette » et « La Belle au bois dormant » ?",
+      "answer": "Saint-Pétersbourg",
+      "accept": [
+        "Saint-Petersbourg",
+        "Leningrad"
+      ],
+      "choices": [
+        "Moscou",
+        "Kiev",
+        "Odessa"
+      ],
+      "explanation": "Il porte le nom de l'impératrice Marie Alexandrovna, épouse d'Alexandre II. À l'époque soviétique, il s'appelait théâtre Kirov.",
+      "wikipedia": "Théâtre Mariinsky"
+    },
+    {
+      "id": "musique-169",
+      "difficulty": 2,
+      "question": "Quel architecte danois a dessiné l'opéra de Sydney et ses voiles de béton blanc ?",
+      "answer": "Jørn Utzon",
+      "accept": [
+        "Utzon",
+        "Jorn Utzon"
+      ],
+      "choices": [
+        "Arne Jacobsen",
+        "Alvar Aalto",
+        "Oscar Niemeyer"
+      ],
+      "explanation": "Après des conflits avec le gouvernement, Utzon quitta l'Australie en 1966 sans jamais revenir voir l'édifice achevé, inscrit au patrimoine mondial en 2007.",
+      "wikipedia": "Opéra de Sydney"
+    },
+    {
+      "id": "musique-170",
+      "difficulty": 1,
+      "question": "Quel architecte a donné son nom à l'opéra du 9e arrondissement de Paris inauguré en 1875 ?",
+      "answer": "Charles Garnier",
+      "accept": [
+        "Garnier"
+      ],
+      "choices": [
+        "Victor Baltard",
+        "Eugène Viollet-le-Duc",
+        "Gustave Eiffel"
+      ],
+      "explanation": "Garnier remporta le concours à trente-cinq ans. Sous le bâtiment se trouve une cuve d'eau qui a inspiré le lac du « Fantôme de l'Opéra ».",
+      "wikipedia": "Opéra Garnier"
+    },
+    {
+      "id": "musique-171",
+      "difficulty": 2,
+      "question": "Quel peintre a réalisé, à la demande d'André Malraux, le plafond actuel de la salle de l'opéra Garnier ?",
+      "answer": "Marc Chagall",
+      "accept": [
+        "Chagall"
+      ],
+      "choices": [
+        "Pablo Picasso",
+        "Joan Miró",
+        "Raoul Dufy"
+      ],
+      "explanation": "Inauguré en 1964, il rend hommage à quatorze compositeurs et recouvre l'ancien plafond de Jules-Eugène Lenepveu, toujours conservé dessous.",
+      "wikipedia": "Opéra Garnier"
+    },
+    {
+      "id": "musique-172",
+      "difficulty": 1,
+      "question": "Sur quelle place parisienne se dresse l'opéra inauguré à la veille du bicentenaire de la Révolution ?",
+      "answer": "Bastille",
+      "accept": [
+        "Place de la Bastille"
+      ],
+      "choices": [
+        "Concorde",
+        "Nation",
+        "République"
+      ],
+      "explanation": "Conçu par l'architecte canado-uruguayen Carlos Ott, l'opéra Bastille fut inauguré le 13 juillet 1989 ; sa grande salle compte environ 2 700 places.",
+      "wikipedia": "Opéra Bastille"
+    },
+    {
+      "id": "musique-173",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'espace en contrebas de la scène où joue l'orchestre d'un théâtre lyrique ?",
+      "answer": "Fosse",
+      "accept": [
+        "fosse d'orchestre"
+      ],
+      "choices": [
+        "Parterre",
+        "Coulisse",
+        "Avant-scène"
+      ],
+      "explanation": "Wagner fit recouvrir celle de Bayreuth afin que le son se fonde avant d'atteindre le public et que les musiciens restent invisibles.",
+      "wikipedia": "Fosse d'orchestre"
+    },
+    {
+      "id": "musique-174",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la jupe de tulle, longue ou courte, portée par les danseuses de ballet classique ?",
+      "answer": "Tutu",
+      "accept": [],
+      "choices": [
+        "Jupon",
+        "Crinoline",
+        "Justaucorps"
+      ],
+      "explanation": "Le tutu long, dit romantique, apparut avec « La Sylphide » en 1832 ; le tutu court, dit plateau, dévoile les jambes pour mettre en valeur la virtuosité.",
+      "wikipedia": "Tutu"
+    },
+    {
+      "id": "musique-175",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les chaussons rigides qui permettent aux ballerines de danser sur l'extrémité des orteils ?",
+      "answer": "Pointes",
+      "accept": [
+        "chaussons à pointes"
+      ],
+      "choices": [
+        "Demi-pointes",
+        "Ballerines",
+        "Escarpins"
+      ],
+      "explanation": "Leur bout est renforcé par des couches de tissu et de colle durcies. Une danseuse professionnelle peut user une paire en une seule représentation.",
+      "wikipedia": "Pointe (danse)"
+    },
+    {
+      "id": "musique-176",
+      "difficulty": 1,
+      "question": "Comment surnomme-t-on les jeunes élèves de l'école de danse de l'Opéra de Paris ?",
+      "answer": "Petits rats",
+      "accept": [
+        "petits rats de l'Opéra"
+      ],
+      "choices": [
+        "Petites souris",
+        "Petits chats",
+        "Petits lutins"
+      ],
+      "explanation": "Fondée en 1713 sous Louis XIV, l'école est installée depuis 1987 à Nanterre, dans un bâtiment conçu par l'architecte Christian de Portzamparc.",
+      "wikipedia": "École de danse de l'Opéra national de Paris"
+    },
+    {
+      "id": "musique-177",
+      "difficulty": 1,
+      "question": "Quel danseur soviétique, passé à l'Ouest à l'aéroport du Bourget en 1961, a dirigé le ballet de l'Opéra de Paris ?",
+      "answer": "Rudolf Noureev",
+      "accept": [
+        "Noureev",
+        "Nureyev"
+      ],
+      "choices": [
+        "Mikhaïl Barychnikov",
+        "Vaslav Nijinski",
+        "Serge Lifar"
+      ],
+      "explanation": "Il repose au cimetière russe de Sainte-Geneviève-des-Bois, sous une tombe en mosaïque imitant un tapis oriental.",
+      "wikipedia": "Rudolf Noureev"
+    },
+    {
+      "id": "musique-178",
+      "difficulty": 2,
+      "question": "Quelle expression désigne, en danse classique, le duo d'une danseuse et de son partenaire, temps fort de nombreux ballets ?",
+      "answer": "Pas de deux",
+      "accept": [],
+      "choices": [
+        "Pas de bourrée",
+        "Entrechat",
+        "Adage"
+      ],
+      "explanation": "Le grand pas de deux suit un plan codifié : entrée, adage, variation de chaque danseur, puis coda virtuose, comme les trente-deux fouettés d'Odile.",
+      "wikipedia": "Pas de deux"
+    },
+    {
+      "id": "musique-179",
+      "difficulty": 2,
+      "question": "Quel ballet de Léo Delibes raconte l'histoire d'une poupée mécanique dont un jeune villageois s'éprend ?",
+      "answer": "Coppélia",
+      "accept": [],
+      "choices": [
+        "Giselle",
+        "Sylvia",
+        "La Sylphide"
+      ],
+      "explanation": "Créé à l'Opéra de Paris en 1870, il s'inspire d'un conte d'E. T. A. Hoffmann, « L'Homme au sable », qui inspira aussi « Les Contes d'Hoffmann ».",
+      "wikipedia": "Coppélia"
+    },
+    {
+      "id": "musique-180",
+      "difficulty": 2,
+      "question": "Quel imprésario russe a fondé la compagnie des Ballets russes, qui révolutionna la danse à Paris ?",
+      "answer": "Serge de Diaghilev",
+      "accept": [
+        "Diaghilev",
+        "Sergueï Diaghilev"
+      ],
+      "choices": [
+        "Michel Fokine",
+        "Léon Bakst",
+        "Marius Petipa"
+      ],
+      "explanation": "Il commanda des partitions à Stravinsky, Ravel ou Satie et des décors à Picasso ou Matisse. Il est inhumé à Venise, dans l'île-cimetière de San Michele.",
+      "wikipedia": "Serge de Diaghilev"
+    },
+    {
+      "id": "musique-181",
+      "difficulty": 3,
+      "question": "Quelle ballerine russe a rendu célèbre le solo « La Mort du cygne », réglé pour elle par Michel Fokine ?",
+      "answer": "Anna Pavlova",
+      "accept": [
+        "Pavlova"
+      ],
+      "choices": [
+        "Tamara Karsavina",
+        "Mathilde Kschessinska",
+        "Galina Oulanova"
+      ],
+      "explanation": "Le solo, sur « Le Cygne » de Saint-Saëns, fut créé en 1905. Un dessert à la meringue, revendiqué par l'Australie et la Nouvelle-Zélande, porte son nom.",
+      "wikipedia": "Anna Pavlova"
+    },
+    {
+      "id": "musique-182",
+      "difficulty": 3,
+      "question": "Quel ballet de Stravinsky a pour héros une marionnette de foire russe éprise d'une ballerine ?",
+      "answer": "Petrouchka",
+      "accept": [],
+      "choices": [
+        "L'Oiseau de feu",
+        "Pulcinella",
+        "Apollon musagète"
+      ],
+      "explanation": "Créé par les Ballets russes en 1911 avec Nijinski dans le rôle-titre, il contient le célèbre « accord de Petrouchka », qui superpose deux tonalités.",
+      "wikipedia": "Petrouchka"
+    },
+    {
+      "id": "musique-183",
+      "difficulty": 1,
+      "question": "Quel instrument en cuivre, inventé par un Belge de Dinant, appartient pourtant à la famille des bois grâce à son anche ?",
+      "answer": "Saxophone",
+      "accept": [
+        "sax"
+      ],
+      "choices": [
+        "Clarinette",
+        "Hautbois",
+        "Cornet à pistons"
+      ],
+      "explanation": "Adolphe Sax déposa son brevet à Paris en 1846. Il conçut toute une famille d'instruments, du sopranino au contrebasse, ainsi que les saxhorns.",
+      "wikipedia": "Saxophone"
+    },
+    {
+      "id": "musique-184",
+      "difficulty": 1,
+      "question": "Quel est le plus grand et le plus grave des instruments à cordes frottées de l'orchestre symphonique ?",
+      "answer": "Contrebasse",
+      "accept": [],
+      "choices": [
+        "Violoncelle",
+        "Alto",
+        "Viole de gambe"
+      ],
+      "explanation": "Contrairement aux autres cordes, elle est le plus souvent accordée en quartes. Saint-Saëns lui confie le solo de l'éléphant dans « Le Carnaval des animaux ».",
+      "wikipedia": "Contrebasse"
+    },
+    {
+      "id": "musique-185",
+      "difficulty": 1,
+      "question": "Quel long instrument à vent des Aborigènes d'Australie est taillé dans une branche d'eucalyptus évidée par les termites ?",
+      "answer": "Didgeridoo",
+      "accept": [
+        "didjeridoo",
+        "didjeridu"
+      ],
+      "choices": [
+        "Rhombe",
+        "Alphorn",
+        "Conque"
+      ],
+      "explanation": "Le musicien pratique le souffle continu, inspirant par le nez tout en expirant par la bouche, pour tenir un bourdon sans interruption.",
+      "wikipedia": "Didgeridoo"
+    },
+    {
+      "id": "musique-186",
+      "difficulty": 1,
+      "question": "Quel instrument à vent, doté d'une poche en peau et de tuyaux bourdons, est emblématique de l'Écosse ?",
+      "answer": "Cornemuse",
+      "accept": [
+        "bagpipe"
+      ],
+      "choices": [
+        "Bombarde",
+        "Vielle à roue",
+        "Accordéon"
+      ],
+      "explanation": "On en trouve des dizaines de variantes en Europe, comme le biniou breton, la gaïta galicienne ou la musette du Centre de la France.",
+      "wikipedia": "Cornemuse"
+    },
+    {
+      "id": "musique-187",
+      "difficulty": 1,
+      "question": "Quel instrument russe à cordes pincées se reconnaît à sa caisse triangulaire et à ses trois cordes ?",
+      "answer": "Balalaïka",
+      "accept": [
+        "balalaika"
+      ],
+      "choices": [
+        "Domra",
+        "Bandoura",
+        "Gousli"
+      ],
+      "explanation": "Elle existe en plusieurs tailles, de la petite prima à la contrebasse posée au sol, réunies au sein d'orchestres de balalaïkas.",
+      "wikipedia": "Balalaïka"
+    },
+    {
+      "id": "musique-188",
+      "difficulty": 1,
+      "question": "Quel petit instrument à quatre cordes, dérivé d'une guitare de Madère, est devenu le symbole d'Hawaï ?",
+      "answer": "Ukulélé",
+      "accept": [
+        "ukulele"
+      ],
+      "choices": [
+        "Banjo",
+        "Mandoline",
+        "Charango"
+      ],
+      "explanation": "Des immigrants portugais l'apportèrent à Hawaï en 1879. Son nom hawaïen évoquerait une puce sauteuse, à cause du mouvement rapide des doigts.",
+      "wikipedia": "Ukulélé"
+    },
+    {
+      "id": "musique-189",
+      "difficulty": 1,
+      "question": "Quel petit instrument de percussion, formé de deux coquilles de bois reliées par un cordon, accompagne la danse espagnole ?",
+      "answer": "Castagnettes",
+      "accept": [
+        "castagnette"
+      ],
+      "choices": [
+        "Maracas",
+        "Claves",
+        "Crotales"
+      ],
+      "explanation": "Leur nom vient de l'espagnol « castañuela », petite châtaigne, dont elles rappellent la forme. On les taille traditionnellement dans des bois très durs.",
+      "wikipedia": "Castagnettes"
+    },
+    {
+      "id": "musique-190",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'artisan qui fabrique et répare les violons, guitares et autres instruments à cordes ?",
+      "answer": "Luthier",
+      "accept": [],
+      "choices": [
+        "Facteur",
+        "Ébéniste",
+        "Accordeur"
+      ],
+      "explanation": "Le mot dérive du luth, instrument roi de la Renaissance. Mirecourt, dans les Vosges, abrite l'École nationale de lutherie.",
+      "wikipedia": "Lutherie"
+    },
+    {
+      "id": "musique-191",
+      "difficulty": 1,
+      "question": "Quel cuivre modifie la hauteur de ses notes grâce à une coulisse plutôt qu'à des pistons ?",
+      "answer": "Trombone",
+      "accept": [
+        "trombone à coulisse"
+      ],
+      "choices": [
+        "Tuba",
+        "Cor",
+        "Bugle"
+      ],
+      "explanation": "Son nom signifie « grosse trompette » en italien. Longtemps réservé à la musique sacrée, il fit une entrée remarquée dans le finale de la Cinquième de Beethoven.",
+      "wikipedia": "Trombone"
+    },
+    {
+      "id": "musique-192",
+      "difficulty": 1,
+      "question": "Quel instrument à soufflet est familièrement surnommé le « piano à bretelles » ?",
+      "answer": "Accordéon",
+      "accept": [],
+      "choices": [
+        "Harmonium",
+        "Bandonéon",
+        "Harmonica"
+      ],
+      "explanation": "Inséparable du bal musette, il fut breveté à Vienne en 1829 par le facteur d'orgues Cyrill Demian.",
+      "wikipedia": "Accordéon"
+    },
+    {
+      "id": "musique-193",
+      "difficulty": 1,
+      "question": "Quel tambour d'Afrique de l'Ouest, en forme de calice et frappé à mains nues, est taillé dans un seul tronc ?",
+      "answer": "Djembé",
+      "accept": [
+        "djembe"
+      ],
+      "choices": [
+        "Tam-tam",
+        "Bongo",
+        "Darbouka"
+      ],
+      "explanation": "Originaire de l'aire mandingue, il est tendu d'une peau de chèvre ; on obtient des sons graves au centre et des sons claqués sur le bord.",
+      "wikipedia": "Djembé"
+    },
+    {
+      "id": "musique-194",
+      "difficulty": 2,
+      "question": "Dans quelle ville de Lombardie Antonio Stradivari fabriquait-il ses célèbres violons ?",
+      "answer": "Crémone",
+      "accept": [
+        "Cremona"
+      ],
+      "choices": [
+        "Brescia",
+        "Bergame",
+        "Mantoue"
+      ],
+      "explanation": "Crémone fut aussi le berceau des dynasties Amati et Guarneri. Le savoir-faire de ses luthiers est inscrit au patrimoine culturel immatériel de l'Unesco.",
+      "wikipedia": "Crémone"
+    },
+    {
+      "id": "musique-195",
+      "difficulty": 2,
+      "question": "Quelle résine frotte-t-on sur les crins de l'archet pour qu'ils accrochent les cordes ?",
+      "answer": "Colophane",
+      "accept": [],
+      "choices": [
+        "Cire d'abeille",
+        "Gomme arabique",
+        "Laque"
+      ],
+      "explanation": "Elle est obtenue à partir de la résine de pin. Son nom vient de Colophon, ancienne cité d'Ionie réputée pour sa production.",
+      "wikipedia": "Colophane"
+    },
+    {
+      "id": "musique-196",
+      "difficulty": 2,
+      "question": "Quelle harpe-luth d'Afrique de l'Ouest, à vingt-et-une cordes, est montée sur une grande calebasse ?",
+      "answer": "Kora",
+      "accept": [],
+      "choices": [
+        "Balafon",
+        "Ngoni",
+        "Valiha"
+      ],
+      "explanation": "Instrument des griots mandingues, elle accompagne les récits épiques comme celui de Soundiata Keïta, fondateur de l'empire du Mali.",
+      "wikipedia": "Kora"
+    },
+    {
+      "id": "musique-197",
+      "difficulty": 3,
+      "question": "Quel instrument à clavier et lames métalliques Tchaïkovski fit-il découvrir dans la « Danse de la fée Dragée » ?",
+      "answer": "Célesta",
+      "accept": [
+        "celesta"
+      ],
+      "choices": [
+        "Glockenspiel",
+        "Vibraphone",
+        "Harmonium"
+      ],
+      "explanation": "Inventé à Paris par Auguste Mustel en 1886, il aurait été acheté en secret par Tchaïkovski, qui craignait que Rimski-Korsakov ne l'utilise avant lui.",
+      "wikipedia": "Célesta"
+    },
+    {
+      "id": "musique-198",
+      "difficulty": 3,
+      "question": "Quel facteur d'orgues du XIXe siècle a bâti les grandes orgues de Saint-Sulpice et reconstruit celles de Notre-Dame de Paris ?",
+      "answer": "Aristide Cavaillé-Coll",
+      "accept": [
+        "Cavaillé-Coll"
+      ],
+      "choices": [
+        "Joseph Merklin",
+        "John Abbey",
+        "François-Henri Clicquot"
+      ],
+      "explanation": "Ses orgues symphoniques ont inspiré une école d'organistes-compositeurs, de César Franck à Charles-Marie Widor, titulaire de Saint-Sulpice pendant plus de soixante ans.",
+      "wikipedia": "Aristide Cavaillé-Coll"
+    },
+    {
+      "id": "musique-199",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le signe, en forme de petite grille, qui hausse une note d'un demi-ton ?",
+      "answer": "Dièse",
+      "accept": [],
+      "choices": [
+        "Bémol",
+        "Bécarre",
+        "Soupir"
+      ],
+      "explanation": "Son inverse est le bémol, qui abaisse la note d'un demi-ton ; le bécarre annule l'un ou l'autre. Le double dièse s'écrit comme une petite croix.",
+      "wikipedia": "Dièse"
+    },
+    {
+      "id": "musique-200",
+      "difficulty": 1,
+      "question": "Quel terme italien demande aux musiciens de pincer les cordes avec les doigts au lieu d'utiliser l'archet ?",
+      "answer": "Pizzicato",
+      "accept": [],
+      "choices": [
+        "Staccato",
+        "Legato",
+        "Tremolo"
+      ],
+      "explanation": "Le mot signifie « pincé ». Dans le « pizzicato Bartók », la corde est tirée si fort qu'elle claque contre la touche.",
+      "wikipedia": "Pizzicato"
+    },
+    {
+      "id": "musique-201",
+      "difficulty": 1,
+      "question": "Quel appareil, breveté par Johann Maelzel, bat la mesure à un tempo réglable grâce à un balancier ?",
+      "answer": "Métronome",
+      "accept": [],
+      "choices": [
+        "Diapason",
+        "Chronomètre",
+        "Sablier"
+      ],
+      "explanation": "Les indications « M.M. » des partitions signifient « métronome de Maelzel ». Beethoven fut l'un des premiers compositeurs à noter ainsi ses tempos.",
+      "wikipedia": "Métronome"
+    },
+    {
+      "id": "musique-202",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un chant interprété sans aucun accompagnement instrumental ?",
+      "answer": "A cappella",
+      "accept": [
+        "a capella",
+        "à cappella"
+      ],
+      "choices": [
+        "Ad libitum",
+        "Tutti",
+        "Recto tono"
+      ],
+      "explanation": "L'expression italienne signifie « à la chapelle », en référence à la musique d'église, notamment celle de la chapelle Sixtine où les instruments étaient bannis.",
+      "wikipedia": "A cappella"
+    },
+    {
+      "id": "musique-203",
+      "difficulty": 1,
+      "question": "Quelle forme musicale fait entrer successivement plusieurs voix sur la même mélodie, comme dans « Frère Jacques » ?",
+      "answer": "Canon",
+      "accept": [],
+      "choices": [
+        "Fugue",
+        "Rondo",
+        "Choral"
+      ],
+      "explanation": "Le canon repose sur l'imitation stricte. Bach en a écrit de très savants, comme le canon « à l'écrevisse » de « L'Offrande musicale », qui se lit aussi à rebours.",
+      "wikipedia": "Canon (musique)"
+    },
+    {
+      "id": "musique-204",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'apprentissage de la lecture et de l'écriture de la musique, longtemps préalable à l'étude d'un instrument ?",
+      "answer": "Solfège",
+      "accept": [],
+      "choices": [
+        "Harmonie",
+        "Contrepoint",
+        "Dictée musicale"
+      ],
+      "explanation": "Le mot vient des syllabes sol et fa. Dans les conservatoires français, on parle désormais plutôt de « formation musicale ».",
+      "wikipedia": "Solfège"
+    },
+    {
+      "id": "musique-205",
+      "difficulty": 1,
+      "question": "Quelle nuance, notée « pp » sur une partition, demande de jouer très doucement ?",
+      "answer": "Pianissimo",
+      "accept": [],
+      "choices": [
+        "Fortissimo",
+        "Mezzo forte",
+        "Sforzando"
+      ],
+      "explanation": "À l'opposé, « ff » signifie fortissimo. Tchaïkovski a poussé l'extrême jusqu'à écrire six p dans sa Sixième symphonie.",
+      "wikipedia": "Nuance (musique)"
+    },
+    {
+      "id": "musique-206",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le signe placé au-dessus d'une note pour indiquer qu'on doit la prolonger à volonté ?",
+      "answer": "Point d'orgue",
+      "accept": [
+        "fermata"
+      ],
+      "choices": [
+        "Liaison",
+        "Soupir",
+        "Accent"
+      ],
+      "explanation": "Le signe, un arc surmontant un point, se nomme fermata en italien. Dans un concerto, il marque souvent l'endroit où le soliste joue sa cadence.",
+      "wikipedia": "Point d'orgue"
+    },
+    {
+      "id": "musique-207",
+      "difficulty": 2,
+      "question": "Quel moine bénédictin du XIe siècle a nommé les notes d'après les syllabes d'un hymne à saint Jean-Baptiste ?",
+      "answer": "Guido d'Arezzo",
+      "accept": [
+        "Gui d'Arezzo"
+      ],
+      "choices": [
+        "Hucbald",
+        "Pérotin",
+        "Notker le Bègue"
+      ],
+      "explanation": "Ut, ré, mi, fa, sol, la proviennent de l'hymne « Ut queant laxis » ; le si fut ajouté plus tard, puis le do remplaça ut, jugé difficile à chanter.",
+      "wikipedia": "Guido d'Arezzo"
+    },
+    {
+      "id": "musique-208",
+      "difficulty": 3,
+      "question": "Quel intervalle de trois tons, surnommé « diabolus in musica », fut longtemps évité par les compositeurs ?",
+      "answer": "Triton",
+      "accept": [
+        "quarte augmentée"
+      ],
+      "choices": [
+        "Septième",
+        "Neuvième",
+        "Seconde augmentée"
+      ],
+      "explanation": "Il partage l'octave en deux moitiés égales. Saint-Saëns l'utilise dans la « Danse macabre » en désaccordant une corde du violon de la Mort.",
+      "wikipedia": "Triton (musique)"
+    },
+    {
+      "id": "musique-209",
+      "difficulty": 2,
+      "question": "Quel chef d'orchestre autrichien a été à la tête de l'Orchestre philharmonique de Berlin pendant plus de trente ans ?",
+      "answer": "Herbert von Karajan",
+      "accept": [
+        "Karajan"
+      ],
+      "choices": [
+        "Karl Böhm",
+        "Wilhelm Furtwängler",
+        "Carlos Kleiber"
+      ],
+      "explanation": "Pionnier de l'enregistrement, il aurait influencé la durée du disque compact, fixée pour contenir la Neuvième de Beethoven.",
+      "wikipedia": "Herbert von Karajan"
+    },
+    {
+      "id": "musique-210",
+      "difficulty": 2,
+      "question": "À quel maréchal autrichien Johann Strauss père a-t-il dédié la marche qui conclut le concert du Nouvel An à Vienne ?",
+      "answer": "Radetzky",
+      "accept": [
+        "Joseph Radetzky",
+        "Joseph Radetzky von Radetz"
+      ],
+      "choices": [
+        "Schwarzenberg",
+        "Windischgrätz",
+        "Laudon"
+      ],
+      "explanation": "Composée en 1848 pour célébrer la victoire de Custoza en Italie, la marche est rythmée par les battements de mains du public, que dirige le chef.",
+      "wikipedia": "Marche de Radetzky"
+    }
+  ]
+}
