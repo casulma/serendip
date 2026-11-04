@@ -1,0 +1,3151 @@
+{
+  "category": "arts-litterature",
+  "questions": [
+    {
+      "id": "arts-litterature-301",
+      "difficulty": 1,
+      "question": "Quel tableau de Van Gogh, peint à Saint-Rémy-de-Provence, montre un ciel tourbillonnant au-dessus d'un village endormi ?",
+      "answer": "La Nuit étoilée",
+      "accept": [
+        "Nuit étoilée"
+      ],
+      "choices": [
+        "Les Tournesols",
+        "La Chambre à Arles",
+        "Les Mangeurs de pommes de terre"
+      ],
+      "explanation": "Van Gogh l'a peint depuis la fenêtre de sa chambre de l'asile Saint-Paul-de-Mausole ; la toile est aujourd'hui conservée au Museum of Modern Art de New York.",
+      "wikipedia": "Nuit étoilée"
+    },
+    {
+      "id": "arts-litterature-302",
+      "difficulty": 1,
+      "question": "Quel peintre romantique a représenté les naufragés d'une frégate française entassés sur une embarcation de fortune, dans une toile immense ?",
+      "answer": "Théodore Géricault",
+      "accept": [
+        "Géricault"
+      ],
+      "choices": [
+        "Eugène Delacroix",
+        "Jacques-Louis David",
+        "Antoine-Jean Gros"
+      ],
+      "explanation": "Pour Le Radeau de La Méduse, Géricault interrogea des survivants et étudia des cadavres à la morgue afin de rendre la scène plus saisissante.",
+      "wikipedia": "Le Radeau de la Méduse"
+    },
+    {
+      "id": "arts-litterature-303",
+      "difficulty": 1,
+      "question": "Quel peintre florentin a représenté une déesse de l'amour nue, debout sur une coquille poussée vers le rivage par les vents ?",
+      "answer": "Sandro Botticelli",
+      "accept": [
+        "Botticelli"
+      ],
+      "choices": [
+        "Raphaël",
+        "Filippo Lippi",
+        "Titien"
+      ],
+      "explanation": "La Naissance de Vénus, peinte sur toile vers 1485, est conservée à la galerie des Offices de Florence ; elle aurait été commandée par un membre de la famille Médicis.",
+      "wikipedia": "La Naissance de Vénus (Botticelli)"
+    },
+    {
+      "id": "arts-litterature-304",
+      "difficulty": 1,
+      "question": "Quelle peinture murale de Léonard de Vinci orne le réfectoire du couvent Santa Maria delle Grazie, à Milan ?",
+      "answer": "La Cène",
+      "accept": [
+        "Cène",
+        "Dernière Cène"
+      ],
+      "choices": [
+        "L'Annonciation",
+        "La Vierge aux rochers",
+        "L'Adoration des mages"
+      ],
+      "explanation": "Léonard a peint La Cène à sec, sur un enduit déjà sec, au lieu de la technique de la fresque : la peinture a commencé à se dégrader de son vivant.",
+      "wikipedia": "La Cène (Léonard de Vinci)"
+    },
+    {
+      "id": "arts-litterature-305",
+      "difficulty": 1,
+      "question": "Quel peintre viennois a représenté un couple enlacé dans un décor couvert de feuilles d'or, dans Le Baiser ?",
+      "answer": "Gustav Klimt",
+      "accept": [
+        "Klimt"
+      ],
+      "choices": [
+        "Egon Schiele",
+        "Oskar Kokoschka",
+        "Koloman Moser"
+      ],
+      "explanation": "Le Baiser, chef-d'œuvre de la « période dorée » de Klimt, est conservé au palais du Belvédère, à Vienne.",
+      "wikipedia": "Le Baiser (Klimt)"
+    },
+    {
+      "id": "arts-litterature-306",
+      "difficulty": 1,
+      "question": "Quel artiste du pop art a reproduit en sérigraphie des boîtes de soupe Campbell et le visage de Marilyn Monroe ?",
+      "answer": "Andy Warhol",
+      "accept": [
+        "Warhol"
+      ],
+      "choices": [
+        "Roy Lichtenstein",
+        "Jasper Johns",
+        "Robert Rauschenberg"
+      ],
+      "explanation": "Warhol avait baptisé son atelier new-yorkais « The Factory », signe de sa volonté de produire l'art en série comme des objets industriels.",
+      "wikipedia": "Andy Warhol"
+    },
+    {
+      "id": "arts-litterature-307",
+      "difficulty": 1,
+      "question": "Quelle peintre mexicaine, épouse de Diego Rivera, a réalisé de nombreux autoportraits après un grave accident de bus ?",
+      "answer": "Frida Kahlo",
+      "accept": [
+        "Kahlo"
+      ],
+      "choices": [
+        "Tina Modotti",
+        "Leonora Carrington",
+        "María Izquierdo"
+      ],
+      "explanation": "Immobilisée de longs mois après l'accident, Frida Kahlo se mit à peindre allongée, grâce à un miroir fixé au-dessus de son lit.",
+      "wikipedia": "Frida Kahlo"
+    },
+    {
+      "id": "arts-litterature-308",
+      "difficulty": 1,
+      "question": "Quel tableau de Rembrandt, conservé au Rijksmuseum d'Amsterdam, représente une compagnie de la milice bourgeoise prête à partir ?",
+      "answer": "La Ronde de nuit",
+      "accept": [
+        "Ronde de nuit"
+      ],
+      "choices": [
+        "La Leçon d'anatomie",
+        "Le Syndic des drapiers",
+        "La Fiancée juive"
+      ],
+      "explanation": "La scène se déroule en réalité de jour : le titre vient de l'assombrissement du vernis, qui a longtemps fait croire à une scène nocturne.",
+      "wikipedia": "La Ronde de nuit"
+    },
+    {
+      "id": "arts-litterature-309",
+      "difficulty": 1,
+      "question": "Quel mouvement artistique, né vers 1907, décompose les objets en formes géométriques et les montre sous plusieurs angles à la fois ?",
+      "answer": "Cubisme",
+      "accept": [],
+      "choices": [
+        "Futurisme",
+        "Fauvisme",
+        "Orphisme"
+      ],
+      "explanation": "Le nom viendrait du critique Louis Vauxcelles, qui évoqua des « petits cubes » à propos de paysages de Georges Braque exposés en 1908.",
+      "wikipedia": "Cubisme"
+    },
+    {
+      "id": "arts-litterature-310",
+      "difficulty": 1,
+      "question": "Quel peintre néo-impressionniste a peint Un dimanche après-midi à l'île de la Grande Jatte par petites touches de couleur pure ?",
+      "answer": "Georges Seurat",
+      "accept": [
+        "Seurat"
+      ],
+      "choices": [
+        "Paul Signac",
+        "Henri-Edmond Cross",
+        "Camille Pissarro"
+      ],
+      "explanation": "Seurat théorisait cette technique, le pointillisme ou divisionnisme : les couleurs juxtaposées se mélangent dans l'œil du spectateur plutôt que sur la palette.",
+      "wikipedia": "Georges Seurat"
+    },
+    {
+      "id": "arts-litterature-311",
+      "difficulty": 1,
+      "question": "Dans quel musée parisien la Victoire de Samothrace domine-t-elle le grand escalier Daru ?",
+      "answer": "Louvre",
+      "accept": [
+        "Musée du Louvre",
+        "le Louvre"
+      ],
+      "choices": [
+        "Orsay",
+        "Petit Palais",
+        "Musée Rodin"
+      ],
+      "explanation": "Cette statue hellénistique de Niké, déesse de la Victoire, fut découverte en 1863 sur l'île grecque de Samothrace, en plusieurs fragments.",
+      "wikipedia": "Victoire de Samothrace"
+    },
+    {
+      "id": "arts-litterature-312",
+      "difficulty": 1,
+      "question": "Quel musée parisien est installé dans une ancienne gare construite pour l'Exposition universelle de 1900 ?",
+      "answer": "Orsay",
+      "accept": [
+        "Musée d'Orsay"
+      ],
+      "choices": [
+        "Louvre",
+        "Petit Palais",
+        "Grand Palais"
+      ],
+      "explanation": "Le musée, inauguré en 1986, présente l'art de 1848 à 1914 et conserve la plus grande collection de peintures impressionnistes au monde.",
+      "wikipedia": "Musée d'Orsay"
+    },
+    {
+      "id": "arts-litterature-313",
+      "difficulty": 1,
+      "question": "Quel centre culturel parisien, aux tuyaux colorés apparents en façade, a été conçu par Renzo Piano et Richard Rogers ?",
+      "answer": "Pompidou",
+      "accept": [
+        "Centre Pompidou",
+        "Beaubourg",
+        "Centre Georges-Pompidou"
+      ],
+      "choices": [
+        "Institut du monde arabe",
+        "Quai Branly",
+        "Cité des sciences"
+      ],
+      "explanation": "Les tuyaux extérieurs suivent un code couleur : bleu pour l'air, vert pour l'eau, jaune pour l'électricité et rouge pour la circulation des personnes.",
+      "wikipedia": "Centre national d'art et de culture Georges-Pompidou"
+    },
+    {
+      "id": "arts-litterature-314",
+      "difficulty": 1,
+      "question": "Dans quelle ville se trouve le musée du Prado, riche de chefs-d'œuvre de Goya, de Vélasquez et du Greco ?",
+      "answer": "Madrid",
+      "accept": [],
+      "choices": [
+        "Barcelone",
+        "Séville",
+        "Tolède"
+      ],
+      "explanation": "Le Prado a ouvert ses portes en 1819 ; son bâtiment principal, l'édifice Villanueva, avait d'abord été conçu pour abriter un cabinet d'histoire naturelle.",
+      "wikipedia": "Musée du Prado"
+    },
+    {
+      "id": "arts-litterature-315",
+      "difficulty": 1,
+      "question": "Dans quelle ville italienne la galerie des Offices, voisine du Palazzo Vecchio, abrite-t-elle des chefs-d'œuvre de la Renaissance ?",
+      "answer": "Florence",
+      "accept": [],
+      "choices": [
+        "Rome",
+        "Venise",
+        "Milan"
+      ],
+      "explanation": "Le bâtiment, conçu par Giorgio Vasari pour Cosme Ier de Médicis, devait à l'origine abriter les bureaux, « uffizi », de l'administration florentine.",
+      "wikipedia": "Galerie des Offices"
+    },
+    {
+      "id": "arts-litterature-316",
+      "difficulty": 1,
+      "question": "Dans quelle ville russe le musée de l'Ermitage occupe-t-il notamment le palais d'Hiver des tsars ?",
+      "answer": "Saint-Pétersbourg",
+      "accept": [
+        "Saint Petersbourg"
+      ],
+      "choices": [
+        "Moscou",
+        "Novgorod",
+        "Kazan"
+      ],
+      "explanation": "Le musée est né des collections de Catherine II, qui acheta en 1764 un premier lot de tableaux à un marchand berlinois.",
+      "wikipedia": "Musée de l'Ermitage"
+    },
+    {
+      "id": "arts-litterature-317",
+      "difficulty": 1,
+      "question": "Quel architecte américain a conçu le musée Solomon R. Guggenheim de New York, avec sa rampe en spirale ?",
+      "answer": "Frank Lloyd Wright",
+      "accept": [
+        "Lloyd Wright"
+      ],
+      "choices": [
+        "Louis Kahn",
+        "Philip Johnson",
+        "Ludwig Mies van der Rohe"
+      ],
+      "explanation": "Le visiteur y découvre les œuvres en descendant une longue rampe hélicoïdale qui s'enroule autour d'un atrium éclairé par une verrière.",
+      "wikipedia": "Musée Solomon-R.-Guggenheim"
+    },
+    {
+      "id": "arts-litterature-318",
+      "difficulty": 1,
+      "question": "Quel architecte canado-américain a conçu le musée Guggenheim de Bilbao, aux courbes revêtues de titane ?",
+      "answer": "Frank Gehry",
+      "accept": [
+        "Gehry"
+      ],
+      "choices": [
+        "Renzo Piano",
+        "Santiago Calatrava",
+        "Jean Nouvel"
+      ],
+      "explanation": "Inauguré en 1997, le bâtiment a tant transformé l'image de la ville qu'on parle d'« effet Bilbao » pour désigner la revitalisation urbaine par l'architecture.",
+      "wikipedia": "Musée Guggenheim (Bilbao)"
+    },
+    {
+      "id": "arts-litterature-319",
+      "difficulty": 1,
+      "question": "Quelle statue de marbre de Michel-Ange, haute de plus de cinq mètres, représente le jeune vainqueur de Goliath ?",
+      "answer": "David",
+      "accept": [
+        "David de Michel-Ange"
+      ],
+      "choices": [
+        "Moïse",
+        "Bacchus",
+        "Persée"
+      ],
+      "explanation": "L'original, sculpté dans un bloc de marbre déjà entamé et abandonné par d'autres sculpteurs, fut déplacé en 1873 à la galerie de l'Académie de Florence.",
+      "wikipedia": "David (Michel-Ange)"
+    },
+    {
+      "id": "arts-litterature-320",
+      "difficulty": 2,
+      "question": "Sur quelle île grecque des Cyclades la statue de l'Aphrodite aux bras manquants du Louvre fut-elle découverte en 1820 ?",
+      "answer": "Milos",
+      "accept": [
+        "Mélos"
+      ],
+      "choices": [
+        "Naxos",
+        "Paros",
+        "Délos"
+      ],
+      "explanation": "Un paysan exhuma la statue dans un champ ; un officier de marine français la signala et l'ambassadeur de France l'acquit pour l'offrir au roi Louis XVIII.",
+      "wikipedia": "Vénus de Milo"
+    },
+    {
+      "id": "arts-litterature-321",
+      "difficulty": 1,
+      "question": "Quel artiste de rue britannique anonyme a vu sa Fille au ballon s'autodétruire juste après une vente aux enchères ?",
+      "answer": "Banksy",
+      "accept": [],
+      "choices": [
+        "Invader",
+        "Shepard Fairey",
+        "Blek le Rat"
+      ],
+      "explanation": "En 2018, un broyeur caché dans le cadre a découpé la toile en lanières ; l'œuvre a été rebaptisée L'amour est dans la poubelle.",
+      "wikipedia": "Banksy"
+    },
+    {
+      "id": "arts-litterature-322",
+      "difficulty": 2,
+      "question": "Quelle agence photographique coopérative a été fondée en 1947 par Robert Capa, David Seymour et George Rodger, entre autres ?",
+      "answer": "Magnum Photos",
+      "accept": [
+        "Magnum"
+      ],
+      "choices": [
+        "Gamma",
+        "Sipa Press",
+        "Rapho"
+      ],
+      "explanation": "Propriété de ses photographes, l'agence leur garantit la maîtrise de leurs négatifs et de leurs droits, ce qui était rare à l'époque.",
+      "wikipedia": "Magnum Photos"
+    },
+    {
+      "id": "arts-litterature-323",
+      "difficulty": 1,
+      "question": "Quel photographe français, cofondateur de l'agence Magnum, est associé à la notion d'« instant décisif » ?",
+      "answer": "Henri Cartier-Bresson",
+      "accept": [
+        "Cartier-Bresson"
+      ],
+      "choices": [
+        "Robert Doisneau",
+        "Willy Ronis",
+        "Brassaï"
+      ],
+      "explanation": "Il travaillait presque toujours avec un petit Leica et refusait de recadrer ses images, qu'il voulait réussies dès la prise de vue.",
+      "wikipedia": "Henri Cartier-Bresson"
+    },
+    {
+      "id": "arts-litterature-324",
+      "difficulty": 1,
+      "question": "Quel photographe français a pris Le Baiser de l'hôtel de ville, un couple s'embrassant au milieu des passants parisiens ?",
+      "answer": "Robert Doisneau",
+      "accept": [
+        "Doisneau"
+      ],
+      "choices": [
+        "Willy Ronis",
+        "Izis",
+        "Édouard Boubat"
+      ],
+      "explanation": "La photo, réalisée en 1950 pour le magazine Life, avait été mise en scène avec deux jeunes comédiens, ce qui donna lieu à des procès.",
+      "wikipedia": "Robert Doisneau"
+    },
+    {
+      "id": "arts-litterature-325",
+      "difficulty": 2,
+      "question": "Quel photographe de guerre est l'auteur de Mort d'un soldat républicain, prise pendant la guerre d'Espagne ?",
+      "answer": "Robert Capa",
+      "accept": [
+        "Capa"
+      ],
+      "choices": [
+        "Gerda Taro",
+        "David Seymour",
+        "Eddie Adams"
+      ],
+      "explanation": "Robert Capa, de son vrai nom Endre Friedmann, est mort en 1954 en Indochine après avoir marché sur une mine.",
+      "wikipedia": "Robert Capa"
+    },
+    {
+      "id": "arts-litterature-326",
+      "difficulty": 2,
+      "question": "Sous quel pseudonyme le photographe Gaspard-Félix Tournachon a-t-il fait le portrait de tout le Paris du XIXe siècle ?",
+      "answer": "Nadar",
+      "accept": [],
+      "choices": [
+        "Carjat",
+        "Disdéri",
+        "Atget"
+      ],
+      "explanation": "C'est dans son ancien atelier du boulevard des Capucines que se tint en 1874 la première exposition des peintres impressionnistes.",
+      "wikipedia": "Nadar"
+    },
+    {
+      "id": "arts-litterature-327",
+      "difficulty": 2,
+      "question": "Quel designer français a dessiné pour Alessi le presse-agrumes Juicy Salif, à l'allure d'araignée ?",
+      "answer": "Philippe Starck",
+      "accept": [
+        "Starck"
+      ],
+      "choices": [
+        "Pierre Paulin",
+        "Jean Prouvé",
+        "Roger Tallon"
+      ],
+      "explanation": "Starck a aussi aménagé les appartements privés de l'Élysée pour François Mitterrand et conçu de nombreux hôtels à travers le monde.",
+      "wikipedia": "Philippe Starck"
+    },
+    {
+      "id": "arts-litterature-328",
+      "difficulty": 1,
+      "question": "Quelle école allemande d'art et d'architecture, fondée à Weimar en 1919 par Walter Gropius, a marqué le design moderne ?",
+      "answer": "Bauhaus",
+      "accept": [],
+      "choices": [
+        "Werkbund",
+        "De Stijl",
+        "Vkhoutemas"
+      ],
+      "explanation": "L'école déménagea à Dessau puis à Berlin, avant d'être fermée en 1933 sous la pression des nazis.",
+      "wikipedia": "Bauhaus"
+    },
+    {
+      "id": "arts-litterature-329",
+      "difficulty": 2,
+      "question": "Quel architecte de l'Art nouveau a dessiné les célèbres entrées du métro de Paris, en fonte verte ?",
+      "answer": "Hector Guimard",
+      "accept": [
+        "Guimard"
+      ],
+      "choices": [
+        "Hector Horeau",
+        "Victor Horta",
+        "Henri Sauvage"
+      ],
+      "explanation": "Ses entrées, vivement critiquées à l'époque, sont aujourd'hui protégées, et des copies ont été offertes à Montréal, Moscou ou Lisbonne.",
+      "wikipedia": "Hector Guimard"
+    },
+    {
+      "id": "arts-litterature-330",
+      "difficulty": 1,
+      "question": "Quel style géométrique des années 1920, illustré par le Chrysler Building, tire son nom d'une exposition parisienne de 1925 ?",
+      "answer": "Art déco",
+      "accept": [
+        "Art deco"
+      ],
+      "choices": [
+        "Art nouveau",
+        "Bauhaus",
+        "Style international"
+      ],
+      "explanation": "L'expression ne s'est imposée que dans les années 1960 ; à l'époque, on parlait plutôt de « style 1925 » ou de « style moderne ».",
+      "wikipedia": "Art déco"
+    },
+    {
+      "id": "arts-litterature-331",
+      "difficulty": 2,
+      "question": "Quelle tenture de six tapisseries, conservée au musée de Cluny, illustre les cinq sens et une sixième pièce intitulée « À mon seul désir » ?",
+      "answer": "Dame à la licorne",
+      "accept": [
+        "La Dame à la licorne"
+      ],
+      "choices": [
+        "La Chasse à la licorne",
+        "L'Apocalypse d'Angers",
+        "Le Chant du monde"
+      ],
+      "explanation": "Ces tapisseries de la fin du Moyen Âge furent redécouvertes au château de Boussac par Prosper Mérimée, puis popularisées par George Sand.",
+      "wikipedia": "La Dame à la licorne"
+    },
+    {
+      "id": "arts-litterature-332",
+      "difficulty": 2,
+      "question": "Quel joaillier russe a créé des œufs de Pâques précieux pour les tsars Alexandre III et Nicolas II ?",
+      "answer": "Fabergé",
+      "accept": [
+        "Pierre-Karl Fabergé",
+        "Peter Carl Fabergé"
+      ],
+      "choices": [
+        "Cartier",
+        "Boucheron",
+        "Tiffany"
+      ],
+      "explanation": "Chaque œuf impérial renfermait une surprise : poule en or, carrosse miniature ou modèle réduit du yacht impérial.",
+      "wikipedia": "Œuf de Fabergé"
+    },
+    {
+      "id": "arts-litterature-333",
+      "difficulty": 1,
+      "question": "Quel style architectural médiéval se caractérise par la croisée d'ogives, l'arc brisé et l'arc-boutant ?",
+      "answer": "Gothique",
+      "accept": [
+        "Art gothique",
+        "architecture gothique"
+      ],
+      "choices": [
+        "Roman",
+        "Baroque",
+        "Byzantin"
+      ],
+      "explanation": "Le mot « gothique » fut d'abord péjoratif : les artistes de la Renaissance jugeaient cet art digne des Goths, autrement dit barbare.",
+      "wikipedia": "Architecture gothique"
+    },
+    {
+      "id": "arts-litterature-334",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la sculpture saillante qui rejette l'eau de pluie loin des murs d'une cathédrale ?",
+      "answer": "Gargouille",
+      "accept": [],
+      "choices": [
+        "Chimère",
+        "Corbeau",
+        "Modillon"
+      ],
+      "explanation": "Le mot viendrait du gargouillis de l'eau ; les figures purement décoratives qui n'évacuent pas l'eau sont appelées chimères.",
+      "wikipedia": "Gargouille"
+    },
+    {
+      "id": "arts-litterature-335",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le grand vitrail circulaire qui orne la façade et les bras du transept de nombreuses cathédrales gothiques ?",
+      "answer": "Rosace",
+      "accept": [],
+      "choices": [
+        "Lancette",
+        "Oculus",
+        "Verrière"
+      ],
+      "explanation": "Les rosaces sont souvent construites selon une symétrie rayonnante qui évoque une fleur, d'où leur nom.",
+      "wikipedia": "Rosace (architecture)"
+    },
+    {
+      "id": "arts-litterature-336",
+      "difficulty": 2,
+      "question": "Quel architecte du XIXe siècle a restauré la cité de Carcassonne et le château de Pierrefonds ?",
+      "answer": "Eugène Viollet-le-Duc",
+      "accept": [
+        "Viollet-le-Duc"
+      ],
+      "choices": [
+        "Prosper Mérimée",
+        "Victor Baltard",
+        "Charles Garnier"
+      ],
+      "explanation": "Ses restaurations, parfois très libres, ont été critiquées : il ajoutait volontiers des éléments qu'il jugeait conformes à l'esprit du Moyen Âge.",
+      "wikipedia": "Eugène Viollet-le-Duc"
+    },
+    {
+      "id": "arts-litterature-337",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la technique de peinture murale appliquée sur un enduit de chaux encore humide ?",
+      "answer": "Fresque",
+      "accept": [],
+      "choices": [
+        "Détrempe",
+        "Tempera",
+        "Sgraffite"
+      ],
+      "explanation": "Le peintre ne peut couvrir qu'une petite surface par jour, appelée « giornata », avant que l'enduit ne sèche en fixant les pigments.",
+      "wikipedia": "Fresque"
+    },
+    {
+      "id": "arts-litterature-338",
+      "difficulty": 2,
+      "question": "Quel terme italien désigne l'effet vaporeux, sans contours nets, que Léonard de Vinci utilisait pour adoucir les visages ?",
+      "answer": "Sfumato",
+      "accept": [],
+      "choices": [
+        "Chiaroscuro",
+        "Pentimento",
+        "Impasto"
+      ],
+      "explanation": "Le mot dérive de « fumo », la fumée ; Léonard superposait des glacis très fins pour obtenir ces transitions insensibles.",
+      "wikipedia": "Sfumato"
+    },
+    {
+      "id": "arts-litterature-339",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une peinture qui crée l'illusion d'objets réels en relief, au point de tromper le regard ?",
+      "answer": "Trompe-l'œil",
+      "accept": [
+        "Trompe l'oeil"
+      ],
+      "choices": [
+        "Anamorphose",
+        "Grisaille",
+        "Camaïeu"
+      ],
+      "explanation": "Selon Pline l'Ancien, le peintre grec Zeuxis aurait peint des raisins si réalistes que des oiseaux venaient les picorer.",
+      "wikipedia": "Trompe-l'œil"
+    },
+    {
+      "id": "arts-litterature-340",
+      "difficulty": 1,
+      "question": "Quel genre pictural représente des objets inanimés, comme des fruits, des fleurs, de la vaisselle ou du gibier ?",
+      "answer": "Nature morte",
+      "accept": [],
+      "choices": [
+        "Vanité",
+        "Paysage",
+        "Scène de genre"
+      ],
+      "explanation": "Les Néerlandais du XVIIe siècle, grands spécialistes du genre, parlaient de « stilleven », vie immobile, d'où l'anglais « still life ».",
+      "wikipedia": "Nature morte"
+    },
+    {
+      "id": "arts-litterature-341",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une œuvre peinte composée de trois panneaux, souvent articulés entre eux ?",
+      "answer": "Triptyque",
+      "accept": [],
+      "choices": [
+        "Diptyque",
+        "Polyptyque",
+        "Retable"
+      ],
+      "explanation": "Les volets latéraux d'un triptyque peuvent se refermer sur le panneau central ; leur revers est alors souvent peint en grisaille.",
+      "wikipedia": "Triptyque"
+    },
+    {
+      "id": "arts-litterature-342",
+      "difficulty": 1,
+      "question": "Quelle technique utilise des pigments délayés dans l'eau, appliqués en couches transparentes sur du papier ?",
+      "answer": "Aquarelle",
+      "accept": [],
+      "choices": [
+        "Gouache",
+        "Pastel",
+        "Lavis"
+      ],
+      "explanation": "Contrairement à la gouache, l'aquarelle est transparente : c'est le blanc du papier, laissé en réserve, qui fournit les lumières.",
+      "wikipedia": "Aquarelle"
+    },
+    {
+      "id": "arts-litterature-343",
+      "difficulty": 1,
+      "question": "Comment s'appelle le support, souvent en bois, sur lequel le peintre pose sa toile pour travailler ?",
+      "answer": "Chevalet",
+      "accept": [],
+      "choices": [
+        "Châssis",
+        "Lutrin",
+        "Appui-main"
+      ],
+      "explanation": "Le mot désigne d'abord un petit cheval : l'objet tient son nom de sa ressemblance avec une monture à quatre pattes.",
+      "wikipedia": "Chevalet (peinture)"
+    },
+    {
+      "id": "arts-litterature-344",
+      "difficulty": 2,
+      "question": "Quel artiste du pop art américain reproduisait en grand format des cases de bande dessinée, avec leurs points de trame ?",
+      "answer": "Roy Lichtenstein",
+      "accept": [
+        "Lichtenstein"
+      ],
+      "choices": [
+        "Andy Warhol",
+        "Claes Oldenburg",
+        "James Rosenquist"
+      ],
+      "explanation": "Il imitait à la main les points Ben-Day, procédé d'impression bon marché des comics, devenus sa signature visuelle.",
+      "wikipedia": "Roy Lichtenstein"
+    },
+    {
+      "id": "arts-litterature-345",
+      "difficulty": 1,
+      "question": "Quel peintre américain de l'expressionnisme abstrait projetait la peinture sur des toiles posées à même le sol ?",
+      "answer": "Jackson Pollock",
+      "accept": [
+        "Pollock"
+      ],
+      "choices": [
+        "Mark Rothko",
+        "Willem de Kooning",
+        "Franz Kline"
+      ],
+      "explanation": "Cette technique est appelée « dripping » ; Pollock tournait autour de la toile, d'où l'expression de « peinture gestuelle » ou « action painting ».",
+      "wikipedia": "Jackson Pollock"
+    },
+    {
+      "id": "arts-litterature-346",
+      "difficulty": 1,
+      "question": "Quel peintre néerlandais composait des grilles de lignes noires et d'aplats de rouge, de jaune et de bleu ?",
+      "answer": "Piet Mondrian",
+      "accept": [
+        "Mondrian"
+      ],
+      "choices": [
+        "Theo van Doesburg",
+        "Kasimir Malevitch",
+        "Josef Albers"
+      ],
+      "explanation": "Mondrian s'était d'abord fait connaître par des paysages et une série d'arbres de plus en plus stylisés, avant d'atteindre l'abstraction.",
+      "wikipedia": "Piet Mondrian"
+    },
+    {
+      "id": "arts-litterature-347",
+      "difficulty": 3,
+      "question": "Quel mouvement néerlandais, fondé en 1917 autour de Theo van Doesburg, porte le nom d'une revue signifiant « le style » ?",
+      "answer": "De Stijl",
+      "accept": [
+        "Néoplasticisme"
+      ],
+      "choices": [
+        "Der Blaue Reiter",
+        "Die Brücke",
+        "CoBrA"
+      ],
+      "explanation": "La chaise rouge et bleue de Gerrit Rietveld et la maison Schröder d'Utrecht sont les réalisations les plus célèbres du mouvement.",
+      "wikipedia": "De Stijl"
+    },
+    {
+      "id": "arts-litterature-348",
+      "difficulty": 2,
+      "question": "Quel artiste niçois a déposé la formule d'un bleu outremer intense, connu sous le sigle IKB ?",
+      "answer": "Yves Klein",
+      "accept": [
+        "Klein"
+      ],
+      "choices": [
+        "Martial Raysse",
+        "Arman",
+        "Bernar Venet"
+      ],
+      "explanation": "Dans ses « Anthropométries », Yves Klein faisait appliquer ce bleu sur le corps de modèles qui s'imprimaient ensuite sur la toile.",
+      "wikipedia": "Yves Klein"
+    },
+    {
+      "id": "arts-litterature-349",
+      "difficulty": 2,
+      "question": "Quel peintre né à Rodez a consacré l'essentiel de son œuvre au noir, qu'il appelait « outrenoir » ?",
+      "answer": "Pierre Soulages",
+      "accept": [
+        "Soulages"
+      ],
+      "choices": [
+        "Hans Hartung",
+        "Pierre Alechinsky",
+        "Georges Mathieu"
+      ],
+      "explanation": "Soulages a également dessiné les vitraux de l'abbatiale de Conques ; un musée lui est consacré dans sa ville natale.",
+      "wikipedia": "Pierre Soulages"
+    },
+    {
+      "id": "arts-litterature-350",
+      "difficulty": 1,
+      "question": "Quel peintre aixois a représenté à de très nombreuses reprises la montagne Sainte-Victoire ?",
+      "answer": "Paul Cézanne",
+      "accept": [
+        "Cézanne"
+      ],
+      "choices": [
+        "Émile Bernard",
+        "Paul Signac",
+        "Adolphe Monticelli"
+      ],
+      "explanation": "Picasso admirait tant Cézanne qu'il acheta en 1958 le château de Vauvenargues, au pied de la montagne, où il est enterré.",
+      "wikipedia": "Paul Cézanne"
+    },
+    {
+      "id": "arts-litterature-351",
+      "difficulty": 1,
+      "question": "Quel peintre français a quitté l'Europe pour peindre la Polynésie, notamment Tahiti puis les îles Marquises ?",
+      "answer": "Paul Gauguin",
+      "accept": [
+        "Gauguin"
+      ],
+      "choices": [
+        "Henri Matisse",
+        "Émile Bernard",
+        "Paul Sérusier"
+      ],
+      "explanation": "Ancien agent de change, Gauguin ne s'est consacré entièrement à la peinture qu'après le krach boursier de 1882.",
+      "wikipedia": "Paul Gauguin"
+    },
+    {
+      "id": "arts-litterature-352",
+      "difficulty": 1,
+      "question": "Quel peintre et affichiste a immortalisé les danseuses et les artistes du Moulin-Rouge, comme La Goulue ?",
+      "answer": "Henri de Toulouse-Lautrec",
+      "accept": [
+        "Toulouse-Lautrec"
+      ],
+      "choices": [
+        "Jules Chéret",
+        "Edgar Degas",
+        "Théophile Steinlen"
+      ],
+      "explanation": "Atteint d'une maladie osseuse, Toulouse-Lautrec cessa de grandir après deux fractures des jambes à l'adolescence.",
+      "wikipedia": "Henri de Toulouse-Lautrec"
+    },
+    {
+      "id": "arts-litterature-353",
+      "difficulty": 1,
+      "question": "Quel peintre impressionniste a représenté d'innombrables danseuses de l'Opéra et sculpté La Petite Danseuse de quatorze ans ?",
+      "answer": "Edgar Degas",
+      "accept": [
+        "Degas"
+      ],
+      "choices": [
+        "Auguste Renoir",
+        "Gustave Caillebotte",
+        "Jean-Louis Forain"
+      ],
+      "explanation": "Présentée en 1881, la statuette fit scandale car elle portait de vrais vêtements, un tutu de tissu et des cheveux véritables.",
+      "wikipedia": "Edgar Degas"
+    },
+    {
+      "id": "arts-litterature-354",
+      "difficulty": 1,
+      "question": "Quel peintre impressionniste a peint le Bal du moulin de la Galette, une guinguette en plein air de Montmartre ?",
+      "answer": "Auguste Renoir",
+      "accept": [
+        "Renoir",
+        "Pierre-Auguste Renoir"
+      ],
+      "choices": [
+        "Claude Monet",
+        "Edgar Degas",
+        "Alfred Sisley"
+      ],
+      "explanation": "Atteint de polyarthrite, Renoir continua à peindre jusqu'à sa mort, le pinceau attaché à ses mains déformées.",
+      "wikipedia": "Auguste Renoir"
+    },
+    {
+      "id": "arts-litterature-355",
+      "difficulty": 2,
+      "question": "Quelle femme peintre, belle-sœur d'Édouard Manet, participa à la première exposition impressionniste de 1874 ?",
+      "answer": "Berthe Morisot",
+      "accept": [
+        "Morisot"
+      ],
+      "choices": [
+        "Mary Cassatt",
+        "Eva Gonzalès",
+        "Marie Bracquemond"
+      ],
+      "explanation": "Elle avait épousé Eugène Manet, frère du peintre, et Édouard Manet a fait d'elle de nombreux portraits.",
+      "wikipedia": "Berthe Morisot"
+    },
+    {
+      "id": "arts-litterature-356",
+      "difficulty": 2,
+      "question": "Quel peintre impressionniste a représenté des ouvriers torse nu, à genoux, dans Les Raboteurs de parquet ?",
+      "answer": "Gustave Caillebotte",
+      "accept": [
+        "Caillebotte"
+      ],
+      "choices": [
+        "Edgar Degas",
+        "Camille Pissarro",
+        "Frédéric Bazille"
+      ],
+      "explanation": "Fortuné, Caillebotte soutint ses amis en achetant leurs toiles ; il légua sa collection à l'État, qui n'en accepta qu'une partie.",
+      "wikipedia": "Gustave Caillebotte"
+    },
+    {
+      "id": "arts-litterature-357",
+      "difficulty": 2,
+      "question": "Quel peintre de l'école de Barbizon a représenté un couple de paysans priant dans un champ au son de la cloche ?",
+      "answer": "Jean-François Millet",
+      "accept": [
+        "Millet"
+      ],
+      "choices": [
+        "Camille Corot",
+        "Théodore Rousseau",
+        "Gustave Courbet"
+      ],
+      "explanation": "L'Angélus fut acheté en 1889 par un collectionneur américain, puis racheté par Alfred Chauchard qui le légua au Louvre.",
+      "wikipedia": "L'Angélus"
+    },
+    {
+      "id": "arts-litterature-358",
+      "difficulty": 2,
+      "question": "Quel chef de file du réalisme a peint Un enterrement à Ornans, scène de funérailles dans sa ville natale ?",
+      "answer": "Gustave Courbet",
+      "accept": [
+        "Courbet"
+      ],
+      "choices": [
+        "Jean-François Millet",
+        "Honoré Daumier",
+        "Jules Breton"
+      ],
+      "explanation": "Refusé à l'Exposition universelle de 1855, Courbet construisit son propre pavillon, le « Pavillon du Réalisme », pour y montrer ses toiles.",
+      "wikipedia": "Gustave Courbet"
+    },
+    {
+      "id": "arts-litterature-359",
+      "difficulty": 1,
+      "question": "Quel peintre néoclassique a représenté le couronnement de Napoléon Ier à Notre-Dame, dans une toile immense ?",
+      "answer": "Jacques-Louis David",
+      "accept": [
+        "David"
+      ],
+      "choices": [
+        "Antoine-Jean Gros",
+        "François Gérard",
+        "Anne-Louis Girodet"
+      ],
+      "explanation": "Dans Le Sacre de Napoléon, Napoléon pose la couronne sur la tête de Joséphine ; Madame Mère y figure alors qu'elle n'assistait pas à la cérémonie.",
+      "wikipedia": "Le Sacre de Napoléon"
+    },
+    {
+      "id": "arts-litterature-360",
+      "difficulty": 1,
+      "question": "Quel peintre néoclassique a donné son nom à l'expression désignant une passion pratiquée en dehors de son métier ?",
+      "answer": "Ingres",
+      "accept": [
+        "Jean-Auguste-Dominique Ingres"
+      ],
+      "choices": [
+        "Delacroix",
+        "Chassériau",
+        "Gérôme"
+      ],
+      "explanation": "Ingres jouait du violon avec talent : il fut second violon à l'orchestre du Capitole de Toulouse dans sa jeunesse, d'où le « violon d'Ingres ».",
+      "wikipedia": "Jean-Auguste-Dominique Ingres"
+    },
+    {
+      "id": "arts-litterature-361",
+      "difficulty": 2,
+      "question": "Quel peintre espagnol a représenté l'exécution de patriotes madrilènes par les soldats français dans Tres de mayo ?",
+      "answer": "Francisco de Goya",
+      "accept": [
+        "Goya"
+      ],
+      "choices": [
+        "Diego Vélasquez",
+        "Joaquín Sorolla",
+        "Bartolomé Murillo"
+      ],
+      "explanation": "Devenu sourd, Goya peignit à la fin de sa vie, sur les murs de sa maison, les sombres « Peintures noires », dont Saturne dévorant un de ses fils.",
+      "wikipedia": "Francisco de Goya"
+    },
+    {
+      "id": "arts-litterature-362",
+      "difficulty": 2,
+      "question": "Quel peintre de la Renaissance a placé Platon et Aristote au centre de L'École d'Athènes, au Vatican ?",
+      "answer": "Raphaël",
+      "accept": [
+        "Raffaello Sanzio"
+      ],
+      "choices": [
+        "Michel-Ange",
+        "Le Pérugin",
+        "Andrea del Sarto"
+      ],
+      "explanation": "Raphaël aurait donné à Platon les traits de Léonard de Vinci, et à Héraclite, accoudé au premier plan, ceux de Michel-Ange.",
+      "wikipedia": "Raphaël (peintre)"
+    },
+    {
+      "id": "arts-litterature-363",
+      "difficulty": 2,
+      "question": "Quel peintre néerlandais a peint Le Jardin des délices, triptyque peuplé de créatures fantastiques ?",
+      "answer": "Jérôme Bosch",
+      "accept": [
+        "Bosch"
+      ],
+      "choices": [
+        "Pieter Brueghel",
+        "Hans Memling",
+        "Jan van Eyck"
+      ],
+      "explanation": "Bosch tire son nom de sa ville, Bois-le-Duc, en néerlandais 's-Hertogenbosch ; le triptyque est conservé au Prado.",
+      "wikipedia": "Jérôme Bosch"
+    },
+    {
+      "id": "arts-litterature-364",
+      "difficulty": 1,
+      "question": "Quel peintre milanais de la Renaissance composait des portraits à partir de fruits, de légumes, de fleurs ou de poissons ?",
+      "answer": "Giuseppe Arcimboldo",
+      "accept": [
+        "Arcimboldo"
+      ],
+      "choices": [
+        "Le Caravage",
+        "Bronzino",
+        "Le Parmesan"
+      ],
+      "explanation": "Arcimboldo fut peintre à la cour des Habsbourg ; il représenta l'empereur Rodolphe II en Vertumne, dieu des saisons, fait de fruits et de légumes.",
+      "wikipedia": "Giuseppe Arcimboldo"
+    },
+    {
+      "id": "arts-litterature-365",
+      "difficulty": 2,
+      "question": "Quel artiste de Nuremberg a gravé un célèbre rhinocéros cuirassé sans avoir jamais vu l'animal ?",
+      "answer": "Albrecht Dürer",
+      "accept": [
+        "Dürer",
+        "Durer"
+      ],
+      "choices": [
+        "Lucas Cranach",
+        "Hans Holbein",
+        "Martin Schongauer"
+      ],
+      "explanation": "Dürer s'inspira d'une lettre et d'un croquis décrivant un rhinocéros offert au roi du Portugal ; sa gravure fit autorité pendant des siècles.",
+      "wikipedia": "Albrecht Dürer"
+    },
+    {
+      "id": "arts-litterature-366",
+      "difficulty": 3,
+      "question": "Quel peintre de la cour d'Henri VIII a peint Les Ambassadeurs, conservé à la National Gallery de Londres ?",
+      "answer": "Hans Holbein le Jeune",
+      "accept": [
+        "Holbein",
+        "Hans Holbein"
+      ],
+      "choices": [
+        "Lucas Cranach",
+        "Anthony van Dyck",
+        "Albrecht Dürer"
+      ],
+      "explanation": "Au premier plan du tableau flotte une forme étrange : un crâne déformé qui n'apparaît correctement que vu de biais, en anamorphose.",
+      "wikipedia": "Hans Holbein le Jeune"
+    },
+    {
+      "id": "arts-litterature-367",
+      "difficulty": 2,
+      "question": "Quel peintre anglais des lumières et des tempêtes a donné son nom au plus célèbre prix d'art contemporain britannique ?",
+      "answer": "William Turner",
+      "accept": [
+        "Turner",
+        "J. M. W. Turner"
+      ],
+      "choices": [
+        "John Constable",
+        "Thomas Gainsborough",
+        "William Blake"
+      ],
+      "explanation": "Turner légua à la nation britannique des centaines de toiles et des milliers de dessins, aujourd'hui en grande partie à la Tate Britain.",
+      "wikipedia": "William Turner"
+    },
+    {
+      "id": "arts-litterature-368",
+      "difficulty": 2,
+      "question": "Quel peintre romantique allemand a représenté un homme de dos dominant un paysage brumeux, dans Le Voyageur contemplant une mer de nuages ?",
+      "answer": "Caspar David Friedrich",
+      "accept": [
+        "Friedrich"
+      ],
+      "choices": [
+        "Philipp Otto Runge",
+        "Carl Spitzweg",
+        "Arnold Böcklin"
+      ],
+      "explanation": "Friedrich peint souvent ses personnages de dos, invitant le spectateur à partager leur contemplation de la nature.",
+      "wikipedia": "Caspar David Friedrich"
+    },
+    {
+      "id": "arts-litterature-369",
+      "difficulty": 1,
+      "question": "Quel peintre italien de Montparnasse est reconnaissable à ses portraits aux cous allongés et aux yeux en amande, souvent sans pupilles ?",
+      "answer": "Amedeo Modigliani",
+      "accept": [
+        "Modigliani"
+      ],
+      "choices": [
+        "Giorgio De Chirico",
+        "Gino Severini",
+        "Moïse Kisling"
+      ],
+      "explanation": "Mort de la tuberculose à trente-cinq ans, Modigliani fut suivi le lendemain par sa compagne Jeanne Hébuterne, qui se jeta d'une fenêtre.",
+      "wikipedia": "Amedeo Modigliani"
+    },
+    {
+      "id": "arts-litterature-370",
+      "difficulty": 2,
+      "question": "Quel tableau de Picasso de 1907, montrant cinq femmes nues aux visages inspirés de masques africains, annonce le cubisme ?",
+      "answer": "Les Demoiselles d'Avignon",
+      "accept": [
+        "Demoiselles d'Avignon"
+      ],
+      "choices": [
+        "Les Saltimbanques",
+        "La Vie",
+        "Guernica"
+      ],
+      "explanation": "Le titre ne renvoie pas à la ville d'Avignon mais à une rue de Barcelone, la carrer d'Avinyó.",
+      "wikipedia": "Les Demoiselles d'Avignon"
+    },
+    {
+      "id": "arts-litterature-371",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la période de Picasso, au début du XXe siècle, marquée par des tons froids et des sujets mélancoliques ?",
+      "answer": "Bleue",
+      "accept": [
+        "Période bleue"
+      ],
+      "choices": [
+        "Rose",
+        "Nègre",
+        "Classique"
+      ],
+      "explanation": "Picasso aurait sombré dans cette palette après le suicide de son ami Carlos Casagemas, en 1901.",
+      "wikipedia": "Période bleue"
+    },
+    {
+      "id": "arts-litterature-372",
+      "difficulty": 2,
+      "question": "Quel peintre belge a représenté des hommes en chapeau melon suspendus dans le ciel comme une pluie, dans Golconde ?",
+      "answer": "René Magritte",
+      "accept": [
+        "Magritte"
+      ],
+      "choices": [
+        "Paul Delvaux",
+        "James Ensor",
+        "Félicien Rops"
+      ],
+      "explanation": "Golconde est le nom d'une ancienne cité indienne réputée pour ses mines de diamants, devenue synonyme de richesse fabuleuse.",
+      "wikipedia": "René Magritte"
+    },
+    {
+      "id": "arts-litterature-373",
+      "difficulty": 3,
+      "question": "Quel peintre surréaliste allemand a mis au point le frottage et s'est inventé un double, l'oiseau Loplop ?",
+      "answer": "Max Ernst",
+      "accept": [
+        "Ernst"
+      ],
+      "choices": [
+        "Hans Arp",
+        "Yves Tanguy",
+        "Kurt Schwitters"
+      ],
+      "explanation": "Max Ernst fut l'époux de la collectionneuse Peggy Guggenheim, puis de la peintre américaine Dorothea Tanning.",
+      "wikipedia": "Max Ernst"
+    },
+    {
+      "id": "arts-litterature-374",
+      "difficulty": 3,
+      "question": "Quel peintre italien né en Grèce a fondé la peinture métaphysique, aux places désertes bordées d'arcades ?",
+      "answer": "Giorgio De Chirico",
+      "accept": [
+        "De Chirico",
+        "Giorgio de Chirico"
+      ],
+      "choices": [
+        "Carlo Carrà",
+        "Giorgio Morandi",
+        "Umberto Boccioni"
+      ],
+      "explanation": "Ses toiles énigmatiques fascinèrent les surréalistes, qui le rejetèrent pourtant lorsqu'il revint à une peinture classique.",
+      "wikipedia": "Giorgio de Chirico"
+    },
+    {
+      "id": "arts-litterature-375",
+      "difficulty": 3,
+      "question": "Dans quel quotidien parisien Filippo Tommaso Marinetti publia-t-il en 1909 le manifeste fondateur du futurisme ?",
+      "answer": "Le Figaro",
+      "accept": [
+        "Figaro"
+      ],
+      "choices": [
+        "Le Temps",
+        "Le Matin",
+        "Le Petit Journal"
+      ],
+      "explanation": "Le manifeste, publié en une, glorifiait la vitesse et la machine, affirmant qu'une automobile rugissante est plus belle que la Victoire de Samothrace.",
+      "wikipedia": "Futurisme"
+    },
+    {
+      "id": "arts-litterature-376",
+      "difficulty": 1,
+      "question": "Quel artiste japonais a réalisé la célèbre estampe de La Grande Vague de Kanagawa, où le mont Fuji apparaît au loin ?",
+      "answer": "Hokusai",
+      "accept": [
+        "Katsushika Hokusai"
+      ],
+      "choices": [
+        "Hiroshige",
+        "Utamaro",
+        "Sharaku"
+      ],
+      "explanation": "L'estampe fait partie de la série des Trente-six vues du mont Fuji ; Hokusai changea de nom d'artiste plus d'une trentaine de fois.",
+      "wikipedia": "Hokusai"
+    },
+    {
+      "id": "arts-litterature-377",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les estampes japonaises de l'époque d'Edo, littéralement « images du monde flottant » ?",
+      "answer": "Ukiyo-e",
+      "accept": [
+        "Ukiyoe"
+      ],
+      "choices": [
+        "Sumi-e",
+        "Kakemono",
+        "Emakimono"
+      ],
+      "explanation": "Arrivées en Europe au XIXe siècle, ces estampes ont profondément influencé Van Gogh, Monet ou Degas : c'est le japonisme.",
+      "wikipedia": "Ukiyo-e"
+    },
+    {
+      "id": "arts-litterature-378",
+      "difficulty": 2,
+      "question": "Quelle grotte ornée de l'Ardèche, découverte en 1994, abrite certaines des plus anciennes peintures rupestres connues ?",
+      "answer": "Chauvet",
+      "accept": [
+        "Grotte Chauvet",
+        "Chauvet-Pont-d'Arc"
+      ],
+      "choices": [
+        "Cosquer",
+        "Niaux",
+        "Font-de-Gaume"
+      ],
+      "explanation": "La grotte porte le nom de Jean-Marie Chauvet, l'un de ses trois découvreurs ; une réplique a été ouverte au public en 2015.",
+      "wikipedia": "Grotte Chauvet"
+    },
+    {
+      "id": "arts-litterature-379",
+      "difficulty": 3,
+      "question": "Quelle statuette paléolithique en calcaire, découverte en 1908 en Autriche, est la plus célèbre des figurines féminines aux formes généreuses ?",
+      "answer": "Vénus de Willendorf",
+      "accept": [
+        "Willendorf"
+      ],
+      "choices": [
+        "Vénus de Lespugue",
+        "Vénus de Brassempouy",
+        "Vénus de Laussel"
+      ],
+      "explanation": "Haute d'à peine onze centimètres, elle est conservée au musée d'histoire naturelle de Vienne ; des traces d'ocre rouge subsistent à sa surface.",
+      "wikipedia": "Vénus de Willendorf"
+    },
+    {
+      "id": "arts-litterature-380",
+      "difficulty": 2,
+      "question": "Quel sculpteur athénien dirigea le décor du Parthénon et réalisa la statue d'or et d'ivoire d'Athéna Parthénos ?",
+      "answer": "Phidias",
+      "accept": [],
+      "choices": [
+        "Praxitèle",
+        "Polyclète",
+        "Scopas"
+      ],
+      "explanation": "Phidias réalisa aussi la statue de Zeus à Olympie, l'une des Sept Merveilles du monde antique.",
+      "wikipedia": "Phidias"
+    },
+    {
+      "id": "arts-litterature-381",
+      "difficulty": 2,
+      "question": "Quel groupe sculpté antique montre un prêtre troyen et ses deux fils étouffés par des serpents de mer ?",
+      "answer": "Laocoon",
+      "accept": [
+        "Groupe du Laocoon"
+      ],
+      "choices": [
+        "Le Gladiateur Borghèse",
+        "Le Taureau Farnèse",
+        "L'Apollon du Belvédère"
+      ],
+      "explanation": "Retrouvé à Rome en 1506, le groupe fut aussitôt examiné par Michel-Ange, puis acquis par le pape Jules II pour le Vatican.",
+      "wikipedia": "Groupe du Laocoon"
+    },
+    {
+      "id": "arts-litterature-382",
+      "difficulty": 2,
+      "question": "Quel ordre architectural grec se reconnaît à son chapiteau orné de feuilles d'acanthe ?",
+      "answer": "Corinthien",
+      "accept": [
+        "Ordre corinthien"
+      ],
+      "choices": [
+        "Dorique",
+        "Ionique",
+        "Toscan"
+      ],
+      "explanation": "Selon Vitruve, le sculpteur Callimaque l'aurait imaginé en voyant une acanthe pousser autour d'un panier posé sur une tombe.",
+      "wikipedia": "Ordre corinthien"
+    },
+    {
+      "id": "arts-litterature-383",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on une statue de femme servant de colonne, comme celles de l'Érechthéion d'Athènes ?",
+      "answer": "Caryatide",
+      "accept": [
+        "Cariatide"
+      ],
+      "choices": [
+        "Atlante",
+        "Télamon",
+        "Herme"
+      ],
+      "explanation": "Une des six caryatides de l'Érechthéion, emportée par Lord Elgin, se trouve au British Museum ; les autres originaux sont au musée de l'Acropole.",
+      "wikipedia": "Cariatide"
+    },
+    {
+      "id": "arts-litterature-384",
+      "difficulty": 1,
+      "question": "Quel temple romain, couvert d'une coupole percée d'un oculus, était à l'origine dédié à tous les dieux ?",
+      "answer": "Panthéon de Rome",
+      "accept": [
+        "Panthéon"
+      ],
+      "choices": [
+        "Colisée",
+        "Temple de Vesta",
+        "Ara Pacis"
+      ],
+      "explanation": "Sa coupole en béton non armé, la plus grande du monde antique, reste aujourd'hui encore la plus large coupole de ce type.",
+      "wikipedia": "Panthéon (Rome)"
+    },
+    {
+      "id": "arts-litterature-385",
+      "difficulty": 2,
+      "question": "Quel architecte florentin a construit le dôme de la cathédrale Santa Maria del Fiore sans échafaudage porteur ?",
+      "answer": "Filippo Brunelleschi",
+      "accept": [
+        "Brunelleschi"
+      ],
+      "choices": [
+        "Leon Battista Alberti",
+        "Lorenzo Ghiberti",
+        "Michelozzo"
+      ],
+      "explanation": "Brunelleschi employa une double coque et un appareil de briques en arêtes de poisson ; on lui attribue aussi les premières démonstrations de la perspective.",
+      "wikipedia": "Filippo Brunelleschi"
+    },
+    {
+      "id": "arts-litterature-386",
+      "difficulty": 2,
+      "question": "Quel sculpteur baroque a conçu la colonnade qui entoure la place Saint-Pierre, au Vatican ?",
+      "answer": "Le Bernin",
+      "accept": [
+        "Bernin",
+        "Gian Lorenzo Bernini"
+      ],
+      "choices": [
+        "Francesco Borromini",
+        "Carlo Maderno",
+        "Michel-Ange"
+      ],
+      "explanation": "Les deux bras de la colonnade symbolisent, selon le Bernin, l'Église qui ouvre les bras pour accueillir les fidèles.",
+      "wikipedia": "Le Bernin"
+    },
+    {
+      "id": "arts-litterature-387",
+      "difficulty": 3,
+      "question": "Quel architecte de la Renaissance, auteur de nombreuses villas en Vénétie, a donné son nom à un style imité dans le monde entier ?",
+      "answer": "Andrea Palladio",
+      "accept": [
+        "Palladio"
+      ],
+      "choices": [
+        "Vincenzo Scamozzi",
+        "Jacopo Sansovino",
+        "Donato Bramante"
+      ],
+      "explanation": "Le style palladien, inspiré des temples antiques, a marqué l'architecture anglaise et américaine, jusqu'à la Maison-Blanche.",
+      "wikipedia": "Andrea Palladio"
+    },
+    {
+      "id": "arts-litterature-388",
+      "difficulty": 1,
+      "question": "Quel monument de Bruxelles, construit pour l'Exposition universelle de 1958, représente un cristal de fer agrandi ?",
+      "answer": "Atomium",
+      "accept": [],
+      "choices": [
+        "Mini-Europe",
+        "Manneken-Pis",
+        "Palais de Justice"
+      ],
+      "explanation": "L'Atomium représente une maille cristalline de fer agrandie environ 165 milliards de fois ; ses neuf sphères sont reliées par des tubes.",
+      "wikipedia": "Atomium"
+    },
+    {
+      "id": "arts-litterature-389",
+      "difficulty": 3,
+      "question": "Quel sculpteur français a réalisé la statue du Christ Rédempteur qui domine Rio de Janeiro ?",
+      "answer": "Paul Landowski",
+      "accept": [
+        "Landowski"
+      ],
+      "choices": [
+        "Antoine Bourdelle",
+        "Aristide Maillol",
+        "Charles Despiau"
+      ],
+      "explanation": "Landowski conçut la tête et les mains, et l'ingénieur Heitor da Silva Costa la structure en béton ; il a aussi sculpté la Sainte Geneviève du pont de la Tournelle.",
+      "wikipedia": "Paul Landowski"
+    },
+    {
+      "id": "arts-litterature-390",
+      "difficulty": 2,
+      "question": "Quel architecte brésilien a dessiné les principaux bâtiments de Brasília, la capitale inaugurée en 1960 ?",
+      "answer": "Oscar Niemeyer",
+      "accept": [
+        "Niemeyer"
+      ],
+      "choices": [
+        "Lúcio Costa",
+        "Paulo Mendes da Rocha",
+        "Lina Bo Bardi"
+      ],
+      "explanation": "Niemeyer a aussi conçu, à Paris, le siège du Parti communiste français, place du Colonel-Fabien, et la Maison de la culture du Havre.",
+      "wikipedia": "Oscar Niemeyer"
+    },
+    {
+      "id": "arts-litterature-391",
+      "difficulty": 2,
+      "question": "Quelle architecte irako-britannique fut la première femme à recevoir le prix Pritzker, en 2004 ?",
+      "answer": "Zaha Hadid",
+      "accept": [
+        "Hadid"
+      ],
+      "choices": [
+        "Kazuyo Sejima",
+        "Odile Decq",
+        "Lina Bo Bardi"
+      ],
+      "explanation": "Surnommée la « reine de la courbe », elle a conçu le centre aquatique des Jeux olympiques de Londres de 2012.",
+      "wikipedia": "Zaha Hadid"
+    },
+    {
+      "id": "arts-litterature-392",
+      "difficulty": 2,
+      "question": "Quel parc de Barcelone, conçu par Antoni Gaudí, est célèbre pour sa salamandre en mosaïque et son banc ondulant ?",
+      "answer": "Güell",
+      "accept": [
+        "Parc Güell",
+        "Guell"
+      ],
+      "choices": [
+        "Ciutadella",
+        "Montjuïc",
+        "Laberint d'Horta"
+      ],
+      "explanation": "Le parc devait à l'origine être une cité-jardin pour familles aisées, voulue par le mécène Eusebi Güell ; seules deux maisons furent construites.",
+      "wikipedia": "Parc Güell"
+    },
+    {
+      "id": "arts-litterature-393",
+      "difficulty": 2,
+      "question": "Quel architecte français a conçu l'Institut du monde arabe à Paris, dont la façade évoque des moucharabiehs ?",
+      "answer": "Jean Nouvel",
+      "accept": [
+        "Nouvel"
+      ],
+      "choices": [
+        "Christian de Portzamparc",
+        "Dominique Perrault",
+        "Paul Andreu"
+      ],
+      "explanation": "La façade sud est composée de centaines de diaphragmes métalliques qui devaient s'ouvrir et se fermer selon la luminosité, comme l'iris d'un œil.",
+      "wikipedia": "Institut du monde arabe"
+    },
+    {
+      "id": "arts-litterature-394",
+      "difficulty": 2,
+      "question": "Quel musée parisien du jardin des Tuileries présente les grands panneaux des Nymphéas de Monet dans deux salles ovales ?",
+      "answer": "Orangerie",
+      "accept": [
+        "Musée de l'Orangerie"
+      ],
+      "choices": [
+        "Marmottan",
+        "Jeu de Paume",
+        "Orsay"
+      ],
+      "explanation": "Monet offrit ces toiles à l'État au lendemain de l'armistice de 1918, avec l'appui de son ami Georges Clemenceau.",
+      "wikipedia": "Musée de l'Orangerie"
+    },
+    {
+      "id": "arts-litterature-395",
+      "difficulty": 3,
+      "question": "Quel musée parisien conserve le tableau Impression, soleil levant, qui a donné son nom à l'impressionnisme ?",
+      "answer": "Marmottan",
+      "accept": [
+        "Musée Marmottan-Monet",
+        "Musée Marmottan",
+        "Marmottan-Monet"
+      ],
+      "choices": [
+        "Orangerie",
+        "Orsay",
+        "Petit Palais"
+      ],
+      "explanation": "Le tableau y fut volé en 1985 avec huit autres œuvres, puis retrouvé en Corse cinq ans plus tard.",
+      "wikipedia": "Musée Marmottan Monet"
+    },
+    {
+      "id": "arts-litterature-396",
+      "difficulty": 2,
+      "question": "Dans quel musée londonien sont exposés les marbres du Parthénon rapportés par Lord Elgin ?",
+      "answer": "British Museum",
+      "accept": [],
+      "choices": [
+        "National Gallery",
+        "Victoria and Albert Museum",
+        "Tate Britain"
+      ],
+      "explanation": "La Grèce réclame leur restitution depuis des décennies ; elle leur a réservé une salle vitrée du musée de l'Acropole, avec vue sur le Parthénon.",
+      "wikipedia": "British Museum"
+    },
+    {
+      "id": "arts-litterature-397",
+      "difficulty": 2,
+      "question": "Quel musée londonien d'art moderne occupe une ancienne centrale électrique sur la rive sud de la Tamise ?",
+      "answer": "Tate Modern",
+      "accept": [],
+      "choices": [
+        "National Gallery",
+        "Saatchi Gallery",
+        "Serpentine Gallery"
+      ],
+      "explanation": "L'ancienne salle des turbines, immense hall de plusieurs étages, accueille chaque année une installation monumentale commandée à un artiste.",
+      "wikipedia": "Tate Modern"
+    },
+    {
+      "id": "arts-litterature-398",
+      "difficulty": 3,
+      "question": "Quel vitrier italien a dérobé La Joconde au Louvre en 1911, avant d'être arrêté à Florence deux ans plus tard ?",
+      "answer": "Vincenzo Peruggia",
+      "accept": [
+        "Peruggia"
+      ],
+      "choices": [
+        "Vincenzo Lancelotti",
+        "Giovanni Morelli",
+        "Luigi Lucheni"
+      ],
+      "explanation": "Peruggia prétendit vouloir rendre le tableau à l'Italie ; le vol rendit La Joconde plus célèbre que jamais.",
+      "wikipedia": "Vol de La Joconde"
+    },
+    {
+      "id": "arts-litterature-399",
+      "difficulty": 2,
+      "question": "Quel plasticien d'origine hongroise installé en France est considéré comme le père de l'art optique ?",
+      "answer": "Victor Vasarely",
+      "accept": [
+        "Vasarely"
+      ],
+      "choices": [
+        "Jesús-Rafael Soto",
+        "Bridget Riley",
+        "François Morellet"
+      ],
+      "explanation": "Vasarely a redessiné le logo de Renault en 1972 ; une fondation lui est consacrée à Aix-en-Provence.",
+      "wikipedia": "Victor Vasarely"
+    },
+    {
+      "id": "arts-litterature-400",
+      "difficulty": 2,
+      "question": "Quel sculpteur américain a inventé les mobiles, sculptures suspendues que fait bouger le moindre souffle d'air ?",
+      "answer": "Alexander Calder",
+      "accept": [
+        "Calder"
+      ],
+      "choices": [
+        "Henry Moore",
+        "David Smith",
+        "Jean Arp"
+      ],
+      "explanation": "C'est Marcel Duchamp qui proposa le mot « mobile » ; Jean Arp baptisa en retour « stabiles » les sculptures fixes de Calder.",
+      "wikipedia": "Alexander Calder"
+    },
+    {
+      "id": "arts-litterature-401",
+      "difficulty": 2,
+      "question": "Quelle artiste franco-américaine est célèbre pour ses Nanas, sculptures de femmes plantureuses aux couleurs vives ?",
+      "answer": "Niki de Saint Phalle",
+      "accept": [
+        "Saint Phalle",
+        "Niki de Saint-Phalle"
+      ],
+      "choices": [
+        "Louise Bourgeois",
+        "Sonia Delaunay",
+        "Germaine Richier"
+      ],
+      "explanation": "Elle se fit d'abord connaître par ses « Tirs », performances où elle tirait à la carabine sur des poches de peinture cachées dans du plâtre.",
+      "wikipedia": "Niki de Saint Phalle"
+    },
+    {
+      "id": "arts-litterature-402",
+      "difficulty": 3,
+      "question": "Quel sculpteur suisse est célèbre pour ses machines animées et bruyantes faites de ferraille, parfois autodestructrices ?",
+      "answer": "Jean Tinguely",
+      "accept": [
+        "Tinguely"
+      ],
+      "choices": [
+        "Alberto Giacometti",
+        "Bernhard Luginbühl",
+        "Daniel Spoerri"
+      ],
+      "explanation": "En 1960, son Hommage à New York s'est autodétruit dans le jardin du MoMA, sous les yeux du public, avant l'intervention des pompiers.",
+      "wikipedia": "Jean Tinguely"
+    },
+    {
+      "id": "arts-litterature-403",
+      "difficulty": 1,
+      "question": "Quel artiste d'origine bulgare a emballé le Pont-Neuf à Paris en 1985, avec sa compagne Jeanne-Claude ?",
+      "answer": "Christo",
+      "accept": [],
+      "choices": [
+        "Arman",
+        "Jean Tinguely",
+        "Daniel Buren"
+      ],
+      "explanation": "Christo et Jeanne-Claude finançaient eux-mêmes leurs projets en vendant dessins et maquettes ; l'emballage de l'Arc de triomphe a été réalisé à titre posthume en 2021.",
+      "wikipedia": "Christo et Jeanne-Claude"
+    },
+    {
+      "id": "arts-litterature-404",
+      "difficulty": 2,
+      "question": "Quel artiste français a installé des colonnes rayées noir et blanc de hauteurs inégales dans la cour d'honneur du Palais-Royal ?",
+      "answer": "Daniel Buren",
+      "accept": [
+        "Buren"
+      ],
+      "choices": [
+        "François Morellet",
+        "Pol Bury",
+        "Bernar Venet"
+      ],
+      "explanation": "Ses bandes verticales alternées, toujours larges de 8,7 cm, sont la signature de son travail depuis les années 1960.",
+      "wikipedia": "Daniel Buren"
+    },
+    {
+      "id": "arts-litterature-405",
+      "difficulty": 3,
+      "question": "Quel objet, fixé à l'envers sur un tabouret, constitue le premier ready-made de Marcel Duchamp, en 1913 ?",
+      "answer": "Roue de bicyclette",
+      "accept": [
+        "Une roue de bicyclette",
+        "Roue de vélo"
+      ],
+      "choices": [
+        "Porte-bouteilles",
+        "Pelle à neige",
+        "Peigne"
+      ],
+      "explanation": "Duchamp aimait la faire tourner, disant que ce mouvement l'apaisait comme le spectacle des flammes dans une cheminée.",
+      "wikipedia": "Roue de vélo"
+    },
+    {
+      "id": "arts-litterature-406",
+      "difficulty": 2,
+      "question": "Quel peintre américain d'origine lettone est célèbre pour ses grands rectangles de couleur aux bords flous ?",
+      "answer": "Mark Rothko",
+      "accept": [
+        "Rothko"
+      ],
+      "choices": [
+        "Barnett Newman",
+        "Clyfford Still",
+        "Ad Reinhardt"
+      ],
+      "explanation": "À Houston, la Rothko Chapel abrite quatorze de ses toiles très sombres dans un lieu de méditation ouvert à toutes les confessions.",
+      "wikipedia": "Mark Rothko"
+    },
+    {
+      "id": "arts-litterature-407",
+      "difficulty": 2,
+      "question": "Quel artiste new-yorkais, ami d'Andy Warhol, avait commencé par des graffitis signés SAMO ?",
+      "answer": "Jean-Michel Basquiat",
+      "accept": [
+        "Basquiat"
+      ],
+      "choices": [
+        "Keith Haring",
+        "Kenny Scharf",
+        "Futura 2000"
+      ],
+      "explanation": "Basquiat est mort d'une overdose à vingt-sept ans ; ses toiles comptent aujourd'hui parmi les plus chères de l'art contemporain.",
+      "wikipedia": "Jean-Michel Basquiat"
+    },
+    {
+      "id": "arts-litterature-408",
+      "difficulty": 2,
+      "question": "Quel artiste de rue français colle dans les villes du monde des mosaïques inspirées d'un jeu vidéo d'arcade de 1978 ?",
+      "answer": "Invader",
+      "accept": [
+        "Space Invader"
+      ],
+      "choices": [
+        "Banksy",
+        "JR",
+        "Miss Tic"
+      ],
+      "explanation": "L'artiste, qui garde l'anonymat, a même fait envoyer une de ses mosaïques à bord de la Station spatiale internationale.",
+      "wikipedia": "Invader (artiste)"
+    },
+    {
+      "id": "arts-litterature-409",
+      "difficulty": 2,
+      "question": "Quel peintre d'origine crétoise, installé à Tolède, a peint L'Enterrement du comte d'Orgaz ?",
+      "answer": "Le Greco",
+      "accept": [
+        "Greco",
+        "El Greco"
+      ],
+      "choices": [
+        "Francisco de Zurbarán",
+        "Jusepe de Ribera",
+        "Luis de Morales"
+      ],
+      "explanation": "Son vrai nom était Domínikos Theotokópoulos ; « le Grec » en italien et en espagnol rappelle ses origines.",
+      "wikipedia": "Le Greco"
+    },
+    {
+      "id": "arts-litterature-410",
+      "difficulty": 2,
+      "question": "Quel maître vénitien a peint la Vénus d'Urbino, qui inspira l'Olympia de Manet ?",
+      "answer": "Titien",
+      "accept": [
+        "Le Titien",
+        "Tiziano Vecellio"
+      ],
+      "choices": [
+        "Giorgione",
+        "Véronèse",
+        "Le Tintoret"
+      ],
+      "explanation": "Selon la légende, Charles Quint se serait baissé pour ramasser un pinceau tombé des mains de Titien, son peintre favori.",
+      "wikipedia": "Titien"
+    },
+    {
+      "id": "arts-litterature-411",
+      "difficulty": 2,
+      "question": "Quel peintre florentin a couvert de fresques la chapelle des Scrovegni, à Padoue, au début du XIVe siècle ?",
+      "answer": "Giotto",
+      "accept": [
+        "Giotto di Bondone"
+      ],
+      "choices": [
+        "Cimabue",
+        "Duccio",
+        "Masaccio"
+      ],
+      "explanation": "Dans L'Adoration des mages de ce cycle, l'étoile de Bethléem prend l'aspect d'une comète, peut-être la comète de Halley vue en 1301.",
+      "wikipedia": "Giotto di Bondone"
+    },
+    {
+      "id": "arts-litterature-412",
+      "difficulty": 3,
+      "question": "Quel peintre de la Renaissance a représenté un Christ mort dans un raccourci saisissant, vu depuis ses pieds ?",
+      "answer": "Andrea Mantegna",
+      "accept": [
+        "Mantegna"
+      ],
+      "choices": [
+        "Piero della Francesca",
+        "Giovanni Bellini",
+        "Paolo Uccello"
+      ],
+      "explanation": "Le Christ mort est conservé à la pinacothèque de Brera, à Milan ; Mantegna était le beau-frère du peintre Giovanni Bellini.",
+      "wikipedia": "Andrea Mantegna"
+    },
+    {
+      "id": "arts-litterature-413",
+      "difficulty": 2,
+      "question": "Quel peintre baroque flamand a consacré un cycle de vingt-quatre toiles à la vie de la reine Marie de Médicis ?",
+      "answer": "Pierre Paul Rubens",
+      "accept": [
+        "Rubens"
+      ],
+      "choices": [
+        "Antoine van Dyck",
+        "Jacob Jordaens",
+        "Frans Snyders"
+      ],
+      "explanation": "Le cycle, destiné au palais du Luxembourg, est aujourd'hui exposé au Louvre ; on qualifie de « rubénienne » une femme aux formes généreuses.",
+      "wikipedia": "Pierre Paul Rubens"
+    },
+    {
+      "id": "arts-litterature-414",
+      "difficulty": 2,
+      "question": "Quel peintre a fait entrer à l'Académie le genre des fêtes galantes avec Le Pèlerinage à l'île de Cythère ?",
+      "answer": "Antoine Watteau",
+      "accept": [
+        "Watteau"
+      ],
+      "choices": [
+        "Jean-Honoré Fragonard",
+        "François Boucher",
+        "Nicolas Lancret"
+      ],
+      "explanation": "L'Académie royale créa spécialement pour lui la catégorie de « peintre de fêtes galantes » lors de sa réception en 1717.",
+      "wikipedia": "Antoine Watteau"
+    },
+    {
+      "id": "arts-litterature-415",
+      "difficulty": 2,
+      "question": "Quel peintre né à Grasse a représenté une jeune femme sur une balançoire dans Les Hasards heureux de l'escarpolette ?",
+      "answer": "Jean-Honoré Fragonard",
+      "accept": [
+        "Fragonard"
+      ],
+      "choices": [
+        "François Boucher",
+        "Antoine Watteau",
+        "Jean-Baptiste Greuze"
+      ],
+      "explanation": "Le tableau est conservé à la Wallace Collection de Londres ; la parfumerie Fragonard de Grasse a été baptisée en hommage au peintre.",
+      "wikipedia": "Jean-Honoré Fragonard"
+    },
+    {
+      "id": "arts-litterature-416",
+      "difficulty": 2,
+      "question": "Quel style décoratif du XVIIIe siècle, aux formes asymétriques inspirées des coquillages, triomphe sous Louis XV ?",
+      "answer": "Rococo",
+      "accept": [
+        "Style rocaille",
+        "Rocaille"
+      ],
+      "choices": [
+        "Baroque",
+        "Néoclassicisme",
+        "Style Empire"
+      ],
+      "explanation": "Le mot, d'abord moqueur, dérive de « rocaille », ces décors de grottes artificielles faits de pierres et de coquillages.",
+      "wikipedia": "Rococo"
+    },
+    {
+      "id": "arts-litterature-417",
+      "difficulty": 2,
+      "question": "Quelle portraitiste fut la peintre attitrée de la reine Marie-Antoinette, dont elle fit une trentaine de portraits ?",
+      "answer": "Élisabeth Vigée Le Brun",
+      "accept": [
+        "Vigée Le Brun",
+        "Vigée-Lebrun"
+      ],
+      "choices": [
+        "Adélaïde Labille-Guiard",
+        "Angelica Kauffmann",
+        "Rosalba Carriera"
+      ],
+      "explanation": "Contrainte à l'exil par la Révolution, elle peignit l'aristocratie de toute l'Europe, de Rome à Saint-Pétersbourg.",
+      "wikipedia": "Élisabeth Vigée Le Brun"
+    },
+    {
+      "id": "arts-litterature-418",
+      "difficulty": 2,
+      "question": "Sous quel surnom connaît-on Henri Rousseau, peintre naïf de jungles luxuriantes qu'il n'avait jamais vues ?",
+      "answer": "Le Douanier",
+      "accept": [
+        "Douanier",
+        "Douanier Rousseau"
+      ],
+      "choices": [
+        "Le Facteur",
+        "Le Gabelou",
+        "L'Octroi"
+      ],
+      "explanation": "Le surnom vient de son emploi à l'octroi de Paris, où il percevait des taxes sur les marchandises entrant dans la ville.",
+      "wikipedia": "Henri Rousseau"
+    },
+    {
+      "id": "arts-litterature-419",
+      "difficulty": 2,
+      "question": "Quel peintre né aux Antilles danoises est le seul à avoir participé aux huit expositions impressionnistes ?",
+      "answer": "Camille Pissarro",
+      "accept": [
+        "Pissarro"
+      ],
+      "choices": [
+        "Alfred Sisley",
+        "Armand Guillaumin",
+        "Claude Monet"
+      ],
+      "explanation": "Pissarro fut un mentor pour Cézanne et Gauguin ; son fils Lucien devint lui aussi peintre et graveur, installé en Angleterre.",
+      "wikipedia": "Camille Pissarro"
+    },
+    {
+      "id": "arts-litterature-420",
+      "difficulty": 3,
+      "question": "Quel peintre néo-impressionniste, ami de Seurat, a contribué à faire de Saint-Tropez un lieu de rendez-vous des peintres ?",
+      "answer": "Paul Signac",
+      "accept": [
+        "Signac"
+      ],
+      "choices": [
+        "Henri-Edmond Cross",
+        "Théo van Rysselberghe",
+        "Maximilien Luce"
+      ],
+      "explanation": "Grand navigateur, Signac posséda une trentaine de bateaux et peignit les ports de France pendant des décennies.",
+      "wikipedia": "Paul Signac"
+    },
+    {
+      "id": "arts-litterature-421",
+      "difficulty": 3,
+      "question": "Dans quel musée madrilène la toile Guernica de Picasso est-elle exposée depuis 1992 ?",
+      "answer": "Reina Sofía",
+      "accept": [
+        "Musée Reina Sofía",
+        "Reina Sofia"
+      ],
+      "choices": [
+        "Prado",
+        "Thyssen-Bornemisza",
+        "Casón del Buen Retiro"
+      ],
+      "explanation": "Picasso avait exigé que l'œuvre ne rejoigne l'Espagne qu'après le retour de la démocratie ; elle quitta le MoMA de New York en 1981.",
+      "wikipedia": "Musée national centre d'art Reina Sofía"
+    },
+    {
+      "id": "arts-litterature-422",
+      "difficulty": 1,
+      "question": "Quel groupe sculpté de Rodin rend hommage à six notables qui se livrèrent au roi d'Angleterre pendant la guerre de Cent Ans ?",
+      "answer": "Les Bourgeois de Calais",
+      "accept": [
+        "Bourgeois de Calais"
+      ],
+      "choices": [
+        "Les Otages de Rouen",
+        "La Porte de l'Enfer",
+        "Les Martyrs de Paris"
+      ],
+      "explanation": "Rodin voulait que les statues soient posées au niveau du sol, parmi les passants, et non sur un haut piédestal comme le souhaitait la ville.",
+      "wikipedia": "Les Bourgeois de Calais"
+    },
+    {
+      "id": "arts-litterature-423",
+      "difficulty": 3,
+      "question": "Quel sculpteur animalier bourguignon est célèbre pour son Ours blanc en pierre lisse, exposé au musée d'Orsay ?",
+      "answer": "François Pompon",
+      "accept": [
+        "Pompon"
+      ],
+      "choices": [
+        "Antoine-Louis Barye",
+        "Rembrandt Bugatti",
+        "Georges Lucien Guyot"
+      ],
+      "explanation": "Longtemps praticien dans l'atelier de Rodin, Pompon ne connut le succès qu'à soixante-sept ans, avec cet ours présenté au Salon d'automne de 1922.",
+      "wikipedia": "François Pompon"
+    },
+    {
+      "id": "arts-litterature-424",
+      "difficulty": 2,
+      "question": "Quelle artiste franco-américaine est célèbre pour Maman, une araignée géante de bronze et d'acier ?",
+      "answer": "Louise Bourgeois",
+      "accept": [
+        "Bourgeois"
+      ],
+      "choices": [
+        "Niki de Saint Phalle",
+        "Germaine Richier",
+        "Annette Messager"
+      ],
+      "explanation": "L'araignée est un hommage à sa mère, restauratrice de tapisseries : elle tisse et répare, comme l'animal reconstruit sa toile.",
+      "wikipedia": "Louise Bourgeois"
+    },
+    {
+      "id": "arts-litterature-425",
+      "difficulty": 3,
+      "question": "Quel designer du Bauhaus a créé le fauteuil Wassily en tubes d'acier cintré, inspiré par un guidon de bicyclette ?",
+      "answer": "Marcel Breuer",
+      "accept": [
+        "Breuer"
+      ],
+      "choices": [
+        "Walter Gropius",
+        "Mart Stam",
+        "Josef Albers"
+      ],
+      "explanation": "Le fauteuil doit son nom au peintre Vassily Kandinsky, collègue de Breuer au Bauhaus, qui en reçut l'un des premiers exemplaires.",
+      "wikipedia": "Marcel Breuer"
+    },
+    {
+      "id": "arts-litterature-426",
+      "difficulty": 2,
+      "question": "Quel château, construit pour le surintendant Nicolas Fouquet, inspira Louis XIV et ses artistes pour Versailles ?",
+      "answer": "Vaux-le-Vicomte",
+      "accept": [
+        "Château de Vaux-le-Vicomte"
+      ],
+      "choices": [
+        "Château de Maisons",
+        "Château de Sceaux",
+        "Château de Marly"
+      ],
+      "explanation": "Le Vau, Le Brun et Le Nôtre y travaillèrent ensemble ; quelques semaines après une fête somptueuse donnée au roi en 1661, Fouquet fut arrêté.",
+      "wikipedia": "Château de Vaux-le-Vicomte"
+    },
+    {
+      "id": "arts-litterature-427",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la tour d'une mosquée du haut de laquelle le muezzin lance l'appel à la prière ?",
+      "answer": "Minaret",
+      "accept": [],
+      "choices": [
+        "Coupole",
+        "Mihrab",
+        "Campanile"
+      ],
+      "explanation": "Le mot vient de l'arabe « manâra », le phare, ce lieu élevé où l'on allumait autrefois un feu.",
+      "wikipedia": "Minaret"
+    },
+    {
+      "id": "arts-litterature-428",
+      "difficulty": 1,
+      "question": "Quel style architectural médiéval, antérieur au gothique, se caractérise par l'arc en plein cintre et des murs épais ?",
+      "answer": "Roman",
+      "accept": [
+        "Art roman",
+        "Architecture romane"
+      ],
+      "choices": [
+        "Byzantin",
+        "Carolingien",
+        "Mozarabe"
+      ],
+      "explanation": "Le terme fut inventé au XIXe siècle par analogie avec les langues romanes, nées du latin comme cet art est issu de l'architecture romaine.",
+      "wikipedia": "Art roman"
+    },
+    {
+      "id": "arts-litterature-429",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'espace sculpté, souvent semi-circulaire, situé au-dessus du portail d'une église ?",
+      "answer": "Tympan",
+      "accept": [],
+      "choices": [
+        "Linteau",
+        "Trumeau",
+        "Fronton"
+      ],
+      "explanation": "Celui de l'abbatiale de Conques, représentant le Jugement dernier, conserve encore des traces de sa polychromie d'origine.",
+      "wikipedia": "Tympan (architecture)"
+    },
+    {
+      "id": "arts-litterature-430",
+      "difficulty": 3,
+      "question": "Quelle photographe américaine a réalisé Migrant Mother, portrait d'une mère pendant la Grande Dépression ?",
+      "answer": "Dorothea Lange",
+      "accept": [
+        "Lange"
+      ],
+      "choices": [
+        "Margaret Bourke-White",
+        "Berenice Abbott",
+        "Diane Arbus"
+      ],
+      "explanation": "La photo fut prise en 1936 pour la Farm Security Administration, chargée de documenter la misère rurale américaine.",
+      "wikipedia": "Dorothea Lange"
+    },
+    {
+      "id": "arts-litterature-431",
+      "difficulty": 2,
+      "question": "Quel artiste américain a photographié Kiki de Montparnasse de dos, avec des ouïes de violon dessinées sur sa peau ?",
+      "answer": "Man Ray",
+      "accept": [
+        "Emmanuel Radnitzky"
+      ],
+      "choices": [
+        "Marcel Duchamp",
+        "Brassaï",
+        "Lee Miller"
+      ],
+      "explanation": "Man Ray a inventé les « rayogrammes », images obtenues en posant des objets directement sur le papier photosensible, sans appareil.",
+      "wikipedia": "Man Ray"
+    },
+    {
+      "id": "arts-litterature-432",
+      "difficulty": 2,
+      "question": "Quelle nourrice américaine a laissé à sa mort plus de 100 000 négatifs de photographies de rue, découverts par hasard ?",
+      "answer": "Vivian Maier",
+      "accept": [
+        "Maier"
+      ],
+      "choices": [
+        "Diane Arbus",
+        "Lisette Model",
+        "Helen Levitt"
+      ],
+      "explanation": "Ses négatifs furent achetés en 2007 lors d'une vente aux enchères de garde-meubles impayés, par un jeune agent immobilier de Chicago.",
+      "wikipedia": "Vivian Maier"
+    },
+    {
+      "id": "arts-litterature-433",
+      "difficulty": 2,
+      "question": "Quel photographe américain a réalisé le portrait de la jeune Afghane aux yeux verts publié en couverture du National Geographic ?",
+      "answer": "Steve McCurry",
+      "accept": [
+        "McCurry"
+      ],
+      "choices": [
+        "James Nachtwey",
+        "Sebastião Salgado",
+        "Annie Leibovitz"
+      ],
+      "explanation": "La jeune fille, Sharbat Gula, ne fut identifiée qu'en 2002, dix-sept ans après la parution de la célèbre couverture.",
+      "wikipedia": "Steve McCurry"
+    },
+    {
+      "id": "arts-litterature-434",
+      "difficulty": 3,
+      "question": "Quel designer franco-américain a redessiné le paquet de Lucky Strike et le logo de la compagnie pétrolière Shell ?",
+      "answer": "Raymond Loewy",
+      "accept": [
+        "Loewy"
+      ],
+      "choices": [
+        "Roger Tallon",
+        "Pierre Paulin",
+        "Henry Dreyfuss"
+      ],
+      "explanation": "Auteur de L'Esthétique industrielle, Loewy a aussi dessiné des locomotives, des voitures Studebaker et l'aménagement intérieur de Skylab.",
+      "wikipedia": "Raymond Loewy"
+    },
+    {
+      "id": "arts-litterature-435",
+      "difficulty": 3,
+      "question": "Quelle designer française a conçu avec Le Corbusier et Pierre Jeanneret la célèbre chaise longue basculante LC4 ?",
+      "answer": "Charlotte Perriand",
+      "accept": [
+        "Perriand"
+      ],
+      "choices": [
+        "Eileen Gray",
+        "Andrée Putman",
+        "Sonia Delaunay"
+      ],
+      "explanation": "À son arrivée à l'atelier de Le Corbusier, elle se serait vu répondre : « Ici, on ne brode pas de coussins ».",
+      "wikipedia": "Charlotte Perriand"
+    },
+    {
+      "id": "arts-litterature-436",
+      "difficulty": 3,
+      "question": "Quel graveur et fondeur parisien du XVIe siècle a donné son nom à une célèbre famille de caractères romains ?",
+      "answer": "Claude Garamond",
+      "accept": [
+        "Garamond"
+      ],
+      "choices": [
+        "Robert Estienne",
+        "Geoffroy Tory",
+        "Christophe Plantin"
+      ],
+      "explanation": "Beaucoup de polices vendues sous le nom de Garamond s'inspirent en réalité des caractères de Jean Jannon, graveur du siècle suivant.",
+      "wikipedia": "Claude Garamont"
+    },
+    {
+      "id": "arts-litterature-437",
+      "difficulty": 1,
+      "question": "Quelle ville des Pays-Bas a donné son nom à une faïence bleue et blanche imitant la porcelaine chinoise ?",
+      "answer": "Delft",
+      "accept": [],
+      "choices": [
+        "Gouda",
+        "Leyde",
+        "Haarlem"
+      ],
+      "explanation": "Au XVIIe siècle, l'interruption des importations de porcelaine chinoise poussa les faïenciers de la ville à en proposer des imitations.",
+      "wikipedia": "Faïence de Delft"
+    },
+    {
+      "id": "arts-litterature-438",
+      "difficulty": 3,
+      "question": "Dans quelle ville de Saxe fut fondée en 1710 la première manufacture européenne de porcelaine dure ?",
+      "answer": "Meissen",
+      "accept": [],
+      "choices": [
+        "Dresde",
+        "Nymphenburg",
+        "Leipzig"
+      ],
+      "explanation": "Le secret fut découvert par l'alchimiste Johann Friedrich Böttger, que l'électeur Auguste le Fort tenait enfermé pour qu'il fabrique de l'or.",
+      "wikipedia": "Porcelaine de Saxe"
+    },
+    {
+      "id": "arts-litterature-439",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'art japonais de la composition florale ?",
+      "answer": "Ikebana",
+      "accept": [],
+      "choices": [
+        "Bonsaï",
+        "Origami",
+        "Kirigami"
+      ],
+      "explanation": "Né dans les temples bouddhistes, l'ikebana cherche l'harmonie des lignes et laisse une grande place au vide, contrairement au bouquet occidental.",
+      "wikipedia": "Ikebana"
+    },
+    {
+      "id": "arts-litterature-440",
+      "difficulty": 2,
+      "question": "Quel art japonais consiste à réparer une céramique brisée en soulignant ses fêlures avec de la laque saupoudrée d'or ?",
+      "answer": "Kintsugi",
+      "accept": [],
+      "choices": [
+        "Raku",
+        "Urushi",
+        "Shibori"
+      ],
+      "explanation": "Plutôt que de cacher la cassure, le kintsugi la met en valeur : l'histoire de l'objet devient une part de sa beauté.",
+      "wikipedia": "Kintsugi"
+    },
+    {
+      "id": "arts-litterature-441",
+      "difficulty": 3,
+      "question": "Quel mouvement artistique autrichien fut fondé en 1897 autour de Gustav Klimt, avec pour devise « À chaque époque son art » ?",
+      "answer": "Sécession viennoise",
+      "accept": [
+        "Sécession de Vienne",
+        "Wiener Secession"
+      ],
+      "choices": [
+        "Wiener Werkstätte",
+        "Jugendstil",
+        "Biedermeier"
+      ],
+      "explanation": "Son pavillon d'exposition, coiffé d'une coupole de feuilles de laurier dorées, est surnommé « le chou doré » par les Viennois.",
+      "wikipedia": "Sécession viennoise"
+    },
+    {
+      "id": "arts-litterature-442",
+      "difficulty": 3,
+      "question": "Quel artiste et designer anglais a fondé le mouvement Arts and Crafts, prônant le retour à l'artisanat ?",
+      "answer": "William Morris",
+      "accept": [
+        "Morris"
+      ],
+      "choices": [
+        "John Ruskin",
+        "Charles Rennie Mackintosh",
+        "Dante Gabriel Rossetti"
+      ],
+      "explanation": "Morris dessinait des papiers peints et des tissus aux motifs végétaux encore édités aujourd'hui ; il fut aussi poète et militant socialiste.",
+      "wikipedia": "William Morris"
+    },
+    {
+      "id": "arts-litterature-443",
+      "difficulty": 3,
+      "question": "Quelle confrérie de peintres anglais, fondée en 1848 autour de Dante Gabriel Rossetti, prônait un retour à la peinture d'avant la Haute Renaissance ?",
+      "answer": "Préraphaélites",
+      "accept": [
+        "Préraphaélisme",
+        "Confrérie préraphaélite"
+      ],
+      "choices": [
+        "Nazaréens",
+        "Nabis",
+        "Symbolistes"
+      ],
+      "explanation": "Ses membres signaient leurs toiles des initiales PRB, pour Pre-Raphaelite Brotherhood, sans en révéler le sens au public.",
+      "wikipedia": "Préraphaélisme"
+    },
+    {
+      "id": "arts-litterature-444",
+      "difficulty": 3,
+      "question": "Quel groupe expressionniste, fondé à Dresde en 1905 par Ernst Ludwig Kirchner, porte un nom signifiant « le pont » ?",
+      "answer": "Die Brücke",
+      "accept": [
+        "Brücke"
+      ],
+      "choices": [
+        "Der Blaue Reiter",
+        "Die Neue Sachlichkeit",
+        "Der Sturm"
+      ],
+      "explanation": "Ses membres, étudiants en architecture, voulaient jeter un pont vers l'art de l'avenir ; les nazis classèrent leurs œuvres comme « art dégénéré ».",
+      "wikipedia": "Die Brücke"
+    },
+    {
+      "id": "arts-litterature-445",
+      "difficulty": 2,
+      "question": "Quel peintre français a inventé l'expression « art brut » pour désigner les créations des marginaux et des autodidactes ?",
+      "answer": "Jean Dubuffet",
+      "accept": [
+        "Dubuffet"
+      ],
+      "choices": [
+        "Gaston Chaissac",
+        "Jean Fautrier",
+        "André Masson"
+      ],
+      "explanation": "La collection d'art brut de Dubuffet a été donnée à la ville de Lausanne, qui lui a consacré un musée ouvert en 1976.",
+      "wikipedia": "Jean Dubuffet"
+    },
+    {
+      "id": "arts-litterature-446",
+      "difficulty": 3,
+      "question": "Quel mouvement artistique de 1948 tire son nom des initiales de Copenhague, Bruxelles et Amsterdam ?",
+      "answer": "CoBrA",
+      "accept": [
+        "Cobra"
+      ],
+      "choices": [
+        "Zero",
+        "Fluxus",
+        "Gutai"
+      ],
+      "explanation": "Le groupe, qui réunissait notamment Karel Appel, Asger Jorn et Pierre Alechinsky, prônait un art spontané inspiré des dessins d'enfants.",
+      "wikipedia": "Cobra (mouvement)"
+    },
+    {
+      "id": "arts-litterature-447",
+      "difficulty": 3,
+      "question": "Quel courant d'art contemporain utilise le paysage lui-même comme matériau, comme la Spiral Jetty de Robert Smithson ?",
+      "answer": "Land art",
+      "accept": [
+        "Earth art",
+        "Earthworks"
+      ],
+      "choices": [
+        "Arte povera",
+        "Art minimal",
+        "Art conceptuel"
+      ],
+      "explanation": "La Spiral Jetty, spirale de roches basaltiques du Grand Lac Salé, disparaît parfois sous l'eau selon le niveau du lac.",
+      "wikipedia": "Land art"
+    },
+    {
+      "id": "arts-litterature-448",
+      "difficulty": 2,
+      "question": "Quelle cathédrale Claude Monet a-t-il peinte une trentaine de fois, à différentes heures du jour et par tous les temps ?",
+      "answer": "Rouen",
+      "accept": [
+        "Cathédrale de Rouen",
+        "Notre-Dame de Rouen"
+      ],
+      "choices": [
+        "Chartres",
+        "Amiens",
+        "Reims"
+      ],
+      "explanation": "Monet loua des chambres face à la façade pour la peindre ; il retravailla ensuite ses toiles à Giverny pendant des mois.",
+      "wikipedia": "Série des Cathédrales de Rouen"
+    },
+    {
+      "id": "arts-litterature-449",
+      "difficulty": 2,
+      "question": "Dans quelle petite ville du Finistère Paul Gauguin a-t-il fondé une école de peintres, à la fin des années 1880 ?",
+      "answer": "Pont-Aven",
+      "accept": [],
+      "choices": [
+        "Concarneau",
+        "Douarnenez",
+        "Le Pouldu"
+      ],
+      "explanation": "C'est là que Paul Sérusier peignit sous la dictée de Gauguin Le Talisman, petit tableau qui inspira la naissance du groupe des Nabis.",
+      "wikipedia": "École de Pont-Aven"
+    },
+    {
+      "id": "arts-litterature-450",
+      "difficulty": 2,
+      "question": "Quel atelier-logement de Montmartre, où Picasso peignit Les Demoiselles d'Avignon, fut baptisé ainsi par le poète Max Jacob ?",
+      "answer": "Bateau-Lavoir",
+      "accept": [
+        "Le Bateau-Lavoir"
+      ],
+      "choices": [
+        "La Ruche",
+        "La Cité fleurie",
+        "Le Lapin agile"
+      ],
+      "explanation": "Le nom évoquait les bateaux-lavoirs de la Seine : le bâtiment de bois branlant n'avait qu'un seul point d'eau pour tous ses occupants.",
+      "wikipedia": "Bateau-Lavoir"
+    },
+    {
+      "id": "arts-litterature-451",
+      "difficulty": 3,
+      "question": "Sur quel support Léonard de Vinci a-t-il peint La Joconde, à la place d'une toile ?",
+      "answer": "Peuplier",
+      "accept": [
+        "Panneau de peuplier",
+        "Bois de peuplier"
+      ],
+      "choices": [
+        "Chêne",
+        "Noyer",
+        "Tilleul"
+      ],
+      "explanation": "Ce panneau de bois, mince de quelques centimètres, a légèrement travaillé au fil des siècles et présente une fente au sommet.",
+      "wikipedia": "La Joconde"
+    },
+    {
+      "id": "arts-litterature-452",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les bâtonnets de pigment pur aggloméré, utilisés notamment par Degas et Maurice Quentin de La Tour ?",
+      "answer": "Pastel",
+      "accept": [],
+      "choices": [
+        "Fusain",
+        "Sanguine",
+        "Crayon gras"
+      ],
+      "explanation": "Très fragile, le pastel sec doit être protégé par un fixatif ou sous verre, car ses poudres se détachent au moindre frottement.",
+      "wikipedia": "Pastel"
+    },
+    {
+      "id": "arts-litterature-453",
+      "difficulty": 1,
+      "question": "Quel bâtonnet de bois carbonisé, souvent du saule, sert depuis toujours aux esquisses et aux dessins en noir ?",
+      "answer": "Fusain",
+      "accept": [],
+      "choices": [
+        "Graphite",
+        "Sanguine",
+        "Pastel"
+      ],
+      "explanation": "Son usage est très ancien : des dessins de la grotte Chauvet ont été tracés au charbon de bois il y a quelque 36 000 ans.",
+      "wikipedia": "Fusain"
+    },
+    {
+      "id": "arts-litterature-454",
+      "difficulty": 2,
+      "question": "Quel procédé de gravure en creux utilise un acide pour mordre une plaque de métal ?",
+      "answer": "Eau-forte",
+      "accept": [],
+      "choices": [
+        "Burin",
+        "Pointe sèche",
+        "Xylographie"
+      ],
+      "explanation": "Le nom désigne l'acide nitrique employé autrefois ; Rembrandt fut l'un des plus grands maîtres de cette technique.",
+      "wikipedia": "Eau-forte"
+    },
+    {
+      "id": "arts-litterature-455",
+      "difficulty": 2,
+      "question": "Quel peintre cubiste a inventé les papiers collés en 1912, intégrant des morceaux de papier peint à ses dessins ?",
+      "answer": "Georges Braque",
+      "accept": [
+        "Braque"
+      ],
+      "choices": [
+        "Pablo Picasso",
+        "Juan Gris",
+        "Fernand Léger"
+      ],
+      "explanation": "Braque avait appris le métier de peintre-décorateur, ce qui explique son goût pour les faux bois et les faux marbres.",
+      "wikipedia": "Georges Braque"
+    },
+    {
+      "id": "arts-litterature-456",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la technique de fonte du bronze dont le modèle, fondu par la chaleur, s'écoule et disparaît du moule ?",
+      "answer": "Cire perdue",
+      "accept": [
+        "Fonte à la cire perdue"
+      ],
+      "choices": [
+        "Moulage au sable",
+        "Galvanoplastie",
+        "Repoussé"
+      ],
+      "explanation": "La cire, chauffée, s'écoule par des canaux et laisse la place au métal en fusion ; le moule doit ensuite être brisé.",
+      "wikipedia": "Cire perdue"
+    },
+    {
+      "id": "arts-litterature-457",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une sculpture qui ne se détache que légèrement d'un fond plat ?",
+      "answer": "Bas-relief",
+      "accept": [],
+      "choices": [
+        "Haut-relief",
+        "Ronde-bosse",
+        "Frise"
+      ],
+      "explanation": "Les murs des temples égyptiens et la frise du Parthénon sont couverts de bas-reliefs, souvent peints à l'origine.",
+      "wikipedia": "Bas-relief"
+    },
+    {
+      "id": "arts-litterature-458",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on une sculpture en trois dimensions dont on peut faire le tour ?",
+      "answer": "Ronde-bosse",
+      "accept": [
+        "Ronde bosse"
+      ],
+      "choices": [
+        "Bas-relief",
+        "Haut-relief",
+        "Intaille"
+      ],
+      "explanation": "On dit qu'une statue est en ronde-bosse lorsqu'elle est entièrement dégagée de son support, à la différence des reliefs.",
+      "wikipedia": "Ronde-bosse"
+    },
+    {
+      "id": "arts-litterature-459",
+      "difficulty": 1,
+      "question": "Sur quelle sculpture conservée à Saint-Pierre de Rome Michel-Ange a-t-il gravé son nom, la seule œuvre qu'il ait signée ?",
+      "answer": "Pietà",
+      "accept": [
+        "Pietà de Michel-Ange",
+        "Pieta"
+      ],
+      "choices": [
+        "Moïse",
+        "Bacchus",
+        "Christ de la Minerve"
+      ],
+      "explanation": "Il aurait gravé son nom sur l'écharpe de la Vierge après avoir entendu des visiteurs attribuer l'œuvre à un autre sculpteur.",
+      "wikipedia": "Pietà (Michel-Ange)"
+    },
+    {
+      "id": "arts-litterature-460",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la sculpture funéraire représentant le défunt allongé sur son tombeau ?",
+      "answer": "Gisant",
+      "accept": [],
+      "choices": [
+        "Orant",
+        "Transi",
+        "Cénotaphe"
+      ],
+      "explanation": "Les gisants des rois de France sont réunis à la basilique de Saint-Denis ; l'orant, lui, représente le défunt agenouillé en prière.",
+      "wikipedia": "Gisant"
+    },
+    {
+      "id": "arts-litterature-461",
+      "difficulty": 2,
+      "question": "Dans quelle villa romaine l'Académie de France à Rome accueille-t-elle des pensionnaires artistes ?",
+      "answer": "Médicis",
+      "accept": [
+        "Villa Médicis"
+      ],
+      "choices": [
+        "Borghèse",
+        "Farnèse",
+        "d'Este"
+      ],
+      "explanation": "Napoléon y installa l'Académie en 1803 ; les lauréats du prix de Rome y séjournaient, et Ingres en fut le directeur.",
+      "wikipedia": "Villa Médicis"
+    },
+    {
+      "id": "arts-litterature-462",
+      "difficulty": 2,
+      "question": "Quel architecte britannique a dessiné le viaduc de Millau et la coupole de verre du Reichstag à Berlin ?",
+      "answer": "Norman Foster",
+      "accept": [
+        "Foster"
+      ],
+      "choices": [
+        "Richard Rogers",
+        "Zaha Hadid",
+        "David Chipperfield"
+      ],
+      "explanation": "Foster est aussi l'auteur de la tour 30 St Mary Axe de Londres, surnommée « le Cornichon » en raison de sa forme.",
+      "wikipedia": "Norman Foster"
+    },
+    {
+      "id": "arts-litterature-463",
+      "difficulty": 3,
+      "question": "Quel architecte japonais autodidacte, ancien boxeur, a transformé la Bourse de commerce de Paris en musée ?",
+      "answer": "Tadao Ando",
+      "accept": [
+        "Ando"
+      ],
+      "choices": [
+        "Kengo Kuma",
+        "Shigeru Ban",
+        "Kenzō Tange"
+      ],
+      "explanation": "Ando a inséré un cylindre de béton lisse sous la coupole historique pour la collection Pinault ; il est célèbre pour son Église de la lumière, à Osaka.",
+      "wikipedia": "Tadao Andō"
+    },
+    {
+      "id": "arts-litterature-464",
+      "difficulty": 3,
+      "question": "Quel architecte belge, pionnier de l'Art nouveau, a construit l'hôtel Tassel à Bruxelles ?",
+      "answer": "Victor Horta",
+      "accept": [
+        "Horta"
+      ],
+      "choices": [
+        "Henry van de Velde",
+        "Paul Hankar",
+        "Joseph Poelaert"
+      ],
+      "explanation": "Sa maison-atelier de Saint-Gilles est devenue le musée Horta ; plusieurs de ses hôtels particuliers sont inscrits au patrimoine mondial.",
+      "wikipedia": "Victor Horta"
+    },
+    {
+      "id": "arts-litterature-465",
+      "difficulty": 1,
+      "question": "Quel édifice gothique de l'île de la Cité, aux immenses verrières, fut bâti par Saint Louis pour abriter la couronne d'épines ?",
+      "answer": "Sainte-Chapelle",
+      "accept": [
+        "Sainte Chapelle"
+      ],
+      "choices": [
+        "Chapelle expiatoire",
+        "Saint-Germain-l'Auxerrois",
+        "Saint-Séverin"
+      ],
+      "explanation": "Les reliques de la Passion avaient coûté à Louis IX plus cher que la construction de la chapelle elle-même.",
+      "wikipedia": "Sainte-Chapelle"
+    },
+    {
+      "id": "arts-litterature-466",
+      "difficulty": 3,
+      "question": "Quel musée parisien, fondé par un industriel lyonnais, est consacré aux arts asiatiques ?",
+      "answer": "Guimet",
+      "accept": [
+        "Musée Guimet",
+        "Musée national des arts asiatiques"
+      ],
+      "choices": [
+        "Cernuschi",
+        "d'Ennery",
+        "Dapper"
+      ],
+      "explanation": "Émile Guimet avait d'abord ouvert son musée à Lyon en 1879, avant de le transférer à Paris une dizaine d'années plus tard.",
+      "wikipedia": "Musée national des Arts asiatiques - Guimet"
+    },
+    {
+      "id": "arts-litterature-467",
+      "difficulty": 1,
+      "question": "Quel monument parisien construit pour l'Exposition universelle de 1900 est couvert d'une immense nef de verre et d'acier ?",
+      "answer": "Grand Palais",
+      "accept": [
+        "Le Grand Palais"
+      ],
+      "choices": [
+        "Petit Palais",
+        "Palais de Chaillot",
+        "Palais de Tokyo"
+      ],
+      "explanation": "Le Grand Palais a accueilli les épreuves d'escrime et de taekwondo des Jeux olympiques de Paris 2024 après une longue restauration.",
+      "wikipedia": "Grand Palais (Paris)"
+    },
+    {
+      "id": "arts-litterature-468",
+      "difficulty": 2,
+      "question": "Quel peintre américain a représenté un fermier tenant une fourche et une femme devant une maison, dans American Gothic ?",
+      "answer": "Grant Wood",
+      "accept": [
+        "Wood"
+      ],
+      "choices": [
+        "Edward Hopper",
+        "Norman Rockwell",
+        "Andrew Wyeth"
+      ],
+      "explanation": "Les modèles étaient la sœur du peintre et son dentiste ; la fenêtre de la maison, de style gothique charpentier, a donné son titre au tableau.",
+      "wikipedia": "American Gothic"
+    },
+    {
+      "id": "arts-litterature-469",
+      "difficulty": 3,
+      "question": "Quel mouvement artistique mexicain, porté par Diego Rivera, Orozco et Siqueiros, couvrait les bâtiments publics de grandes peintures ?",
+      "answer": "Muralisme",
+      "accept": [
+        "Muralisme mexicain"
+      ],
+      "choices": [
+        "Estridentisme",
+        "Indigénisme",
+        "Réalisme socialiste"
+      ],
+      "explanation": "Né après la révolution mexicaine, le mouvement voulait rendre l'art accessible au peuple et raconter l'histoire nationale sur les murs.",
+      "wikipedia": "Muralisme mexicain"
+    },
+    {
+      "id": "arts-litterature-470",
+      "difficulty": 1,
+      "question": "Quel peintre et sculpteur colombien est célèbre pour ses personnages aux formes rondes et volumineuses ?",
+      "answer": "Fernando Botero",
+      "accept": [
+        "Botero"
+      ],
+      "choices": [
+        "Diego Rivera",
+        "Oswaldo Guayasamín",
+        "Wifredo Lam"
+      ],
+      "explanation": "Botero refusait le mot « gros » : il disait peindre le volume et la sensualité des formes, y compris pour des fruits ou des objets.",
+      "wikipedia": "Fernando Botero"
+    },
+    {
+      "id": "arts-litterature-471",
+      "difficulty": 2,
+      "question": "Quel artiste catalan, proche des surréalistes, a dessiné le logo du tourisme espagnol avec son soleil coloré ?",
+      "answer": "Joan Miró",
+      "accept": [
+        "Miró",
+        "Miro"
+      ],
+      "choices": [
+        "Antoni Tàpies",
+        "Salvador Dalí",
+        "Antoni Clavé"
+      ],
+      "explanation": "Miró a aussi réalisé de grandes céramiques murales pour le siège de l'UNESCO à Paris, avec le céramiste Josep Llorens Artigas.",
+      "wikipedia": "Joan Miró"
+    },
+    {
+      "id": "arts-litterature-472",
+      "difficulty": 3,
+      "question": "Quel peintre irlandais a revisité le portrait du pape Innocent X de Vélasquez en un pape qui hurle ?",
+      "answer": "Francis Bacon",
+      "accept": [
+        "Bacon"
+      ],
+      "choices": [
+        "Lucian Freud",
+        "Graham Sutherland",
+        "Jack Butler Yeats"
+      ],
+      "explanation": "Bacon a peint des dizaines de variations sur ce portrait, en travaillant d'après des reproductions et des photographies plutôt que devant l'original.",
+      "wikipedia": "Francis Bacon (peintre)"
+    },
+    {
+      "id": "arts-litterature-473",
+      "difficulty": 2,
+      "question": "Quelle artiste japonaise est célèbre pour ses pois colorés obsessionnels et ses salles de miroirs infinies ?",
+      "answer": "Yayoi Kusama",
+      "accept": [
+        "Kusama"
+      ],
+      "choices": [
+        "Yoko Ono",
+        "Mariko Mori",
+        "Chiharu Shiota"
+      ],
+      "explanation": "Elle vit depuis les années 1970 dans un établissement psychiatrique de Tokyo, tout en travaillant chaque jour dans son atelier voisin.",
+      "wikipedia": "Yayoi Kusama"
+    },
+    {
+      "id": "arts-litterature-474",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une image sainte peinte sur bois dans la tradition chrétienne orthodoxe ?",
+      "answer": "Icône",
+      "accept": [],
+      "choices": [
+        "Fresque",
+        "Enluminure",
+        "Retable"
+      ],
+      "explanation": "Dans la tradition orthodoxe, on dit qu'une icône s'« écrit » plutôt qu'elle ne se peint ; elle est considérée comme une fenêtre sur le divin.",
+      "wikipedia": "Icône"
+    },
+    {
+      "id": "arts-litterature-475",
+      "difficulty": 3,
+      "question": "Quel moine peintre russe a réalisé l'icône de la Trinité, chef-d'œuvre conservé à la galerie Tretiakov ?",
+      "answer": "Andreï Roublev",
+      "accept": [
+        "Roublev"
+      ],
+      "choices": [
+        "Théophane le Grec",
+        "Denys",
+        "Simon Ouchakov"
+      ],
+      "explanation": "L'icône représente les trois anges reçus par Abraham ; Andreï Tarkovski a consacré au peintre un film célèbre en 1966.",
+      "wikipedia": "Andreï Roublev"
+    },
+    {
+      "id": "arts-litterature-476",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la décoration peinte qui orne un manuscrit médiéval, lettrines et miniatures comprises ?",
+      "answer": "Enluminure",
+      "accept": [],
+      "choices": [
+        "Calligraphie",
+        "Marginalia",
+        "Vignette"
+      ],
+      "explanation": "Le mot vient du latin « illuminare », éclairer : l'or et les couleurs vives semblaient illuminer la page.",
+      "wikipedia": "Enluminure"
+    },
+    {
+      "id": "arts-litterature-477",
+      "difficulty": 3,
+      "question": "Quels frères enlumineurs néerlandais ont réalisé Les Très Riches Heures du duc de Berry ?",
+      "answer": "Limbourg",
+      "accept": [
+        "Frères de Limbourg"
+      ],
+      "choices": [
+        "Van Eyck",
+        "Le Nain",
+        "Bellini"
+      ],
+      "explanation": "Les trois frères moururent en 1416, sans doute de la peste, laissant le manuscrit inachevé ; il est conservé au château de Chantilly.",
+      "wikipedia": "Frères de Limbourg"
+    },
+    {
+      "id": "arts-litterature-478",
+      "difficulty": 3,
+      "question": "Dans quelle ville belge est conservé le retable de L'Agneau mystique des frères Van Eyck ?",
+      "answer": "Gand",
+      "accept": [
+        "Gent"
+      ],
+      "choices": [
+        "Bruges",
+        "Anvers",
+        "Louvain"
+      ],
+      "explanation": "Le retable est l'un des tableaux les plus volés de l'histoire ; un panneau dérobé en 1934, Les Juges intègres, n'a jamais été retrouvé.",
+      "wikipedia": "L'Agneau mystique"
+    },
+    {
+      "id": "arts-litterature-479",
+      "difficulty": 1,
+      "question": "Quelle ville italienne accueille la Biennale, l'une des plus anciennes expositions d'art contemporain au monde ?",
+      "answer": "Venise",
+      "accept": [],
+      "choices": [
+        "Milan",
+        "Florence",
+        "Turin"
+      ],
+      "explanation": "Créée en 1895, la Biennale répartit une partie des pays participants dans des pavillons nationaux installés dans les jardins des Giardini.",
+      "wikipedia": "Biennale de Venise"
+    },
+    {
+      "id": "arts-litterature-480",
+      "difficulty": 3,
+      "question": "Quelle ville allemande accueille tous les cinq ans la Documenta, grande exposition d'art contemporain ?",
+      "answer": "Cassel",
+      "accept": [
+        "Kassel"
+      ],
+      "choices": [
+        "Munich",
+        "Düsseldorf",
+        "Cologne"
+      ],
+      "explanation": "La première édition, en 1955, voulait réhabiliter l'art moderne que les nazis avaient qualifié de « dégénéré ».",
+      "wikipedia": "Documenta"
+    },
+    {
+      "id": "arts-litterature-481",
+      "difficulty": 3,
+      "question": "Quel courant, baptisé par Guillaume Apollinaire, désigne la peinture colorée et dynamique de Robert et Sonia Delaunay ?",
+      "answer": "Orphisme",
+      "accept": [
+        "Cubisme orphique"
+      ],
+      "choices": [
+        "Rayonnisme",
+        "Vorticisme",
+        "Simultanéisme"
+      ],
+      "explanation": "Le nom fait référence à Orphée, le poète-musicien de la mythologie : Apollinaire voyait dans ces toiles une peinture proche de la musique.",
+      "wikipedia": "Orphisme"
+    },
+    {
+      "id": "arts-litterature-482",
+      "difficulty": 1,
+      "question": "Sur quelle butte parisienne, autour de la place du Tertre, ont vécu Renoir, Picasso ou Modigliani ?",
+      "answer": "Montmartre",
+      "accept": [
+        "Butte Montmartre"
+      ],
+      "choices": [
+        "Montparnasse",
+        "Belleville",
+        "Ménilmontant"
+      ],
+      "explanation": "Montmartre ne fut rattachée à Paris qu'en 1860 ; ses moulins et ses cabarets attiraient une foule de peintres et de noctambules.",
+      "wikipedia": "Montmartre"
+    },
+    {
+      "id": "arts-litterature-483",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une œuvre peinte ou tracée à la bombe aérosol sur un mur ?",
+      "answer": "Graffiti",
+      "accept": [
+        "Graff",
+        "Tag"
+      ],
+      "choices": [
+        "Pochoir",
+        "Fresque",
+        "Collage"
+      ],
+      "explanation": "Le mot vient de l'italien « graffiare », griffer : il désignait d'abord les inscriptions gravées sur les murs antiques, comme à Pompéi.",
+      "wikipedia": "Graffiti"
+    },
+    {
+      "id": "arts-litterature-484",
+      "difficulty": 1,
+      "question": "Quel style artistique du XVIIe siècle, succédant à la Renaissance, privilégie le mouvement, l'exubérance et les effets théâtraux ?",
+      "answer": "Baroque",
+      "accept": [
+        "Art baroque"
+      ],
+      "choices": [
+        "Gothique",
+        "Maniérisme",
+        "Classicisme"
+      ],
+      "explanation": "Le mot viendrait du portugais « barroco », qui désigne une perle de forme irrégulière ; il fut d'abord employé de façon péjorative.",
+      "wikipedia": "Baroque"
+    },
+    {
+      "id": "arts-litterature-485",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'art de tracer de belles écritures à la plume ou au pinceau ?",
+      "answer": "Calligraphie",
+      "accept": [],
+      "choices": [
+        "Typographie",
+        "Enluminure",
+        "Paléographie"
+      ],
+      "explanation": "Dans les pays d'islam, où la représentation figurée est souvent évitée dans les lieux de culte, la calligraphie est devenue un art majeur de décoration.",
+      "wikipedia": "Calligraphie"
+    },
+    {
+      "id": "arts-litterature-486",
+      "difficulty": 2,
+      "question": "Quelle ville italienne est célèbre pour les mosaïques byzantines de ses églises, comme la basilique San Vitale ?",
+      "answer": "Ravenne",
+      "accept": [],
+      "choices": [
+        "Venise",
+        "Palerme",
+        "Aquilée"
+      ],
+      "explanation": "À San Vitale, des mosaïques représentent l'empereur Justinien et l'impératrice Théodora entourés de leur cour.",
+      "wikipedia": "Ravenne"
+    },
+    {
+      "id": "arts-litterature-487",
+      "difficulty": 1,
+      "question": "Dans quelle ville a été fondé le musée de cire Madame Tussauds, aujourd'hui présent dans de nombreux pays ?",
+      "answer": "Londres",
+      "accept": [],
+      "choices": [
+        "Paris",
+        "New York",
+        "Amsterdam"
+      ],
+      "explanation": "Marie Tussaud avait appris à modeler la cire à Paris, où elle aurait réalisé des masques mortuaires de victimes de la Révolution.",
+      "wikipedia": "Madame Tussauds"
+    },
+    {
+      "id": "arts-litterature-488",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un dessin qui exagère les traits physiques d'une personne dans une intention humoristique ?",
+      "answer": "Caricature",
+      "accept": [],
+      "choices": [
+        "Portrait-charge",
+        "Croquis",
+        "Silhouette"
+      ],
+      "explanation": "Le mot vient de l'italien « caricare », charger : la caricature « charge » les traits ; Daumier y excella sous Louis-Philippe.",
+      "wikipedia": "Caricature"
+    },
+    {
+      "id": "arts-litterature-489",
+      "difficulty": 1,
+      "question": "Quelle cathédrale gothique de l'île de la Cité a rouvert ses portes en décembre 2024, après l'incendie de 2019 ?",
+      "answer": "Notre-Dame de Paris",
+      "accept": [
+        "Notre-Dame"
+      ],
+      "choices": [
+        "Sainte-Chapelle",
+        "Saint-Denis",
+        "Saint-Eustache"
+      ],
+      "explanation": "L'incendie avait détruit la charpente surnommée « la forêt » et la flèche du XIXe siècle, reconstruite à l'identique.",
+      "wikipedia": "Cathédrale Notre-Dame de Paris"
+    },
+    {
+      "id": "arts-litterature-490",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le portrait qu'un artiste réalise de lui-même, souvent à l'aide d'un miroir ?",
+      "answer": "Autoportrait",
+      "accept": [],
+      "choices": [
+        "Portrait",
+        "Caricature",
+        "Profil"
+      ],
+      "explanation": "Rembrandt a laissé des dizaines d'autoportraits, véritable journal de son visage de la jeunesse à la vieillesse.",
+      "wikipedia": "Autoportrait"
+    },
+    {
+      "id": "arts-litterature-491",
+      "difficulty": 1,
+      "question": "Quel artiste de la Renaissance a dessiné l'Homme de Vitruve, figure aux bras écartés inscrite dans un cercle et un carré ?",
+      "answer": "Léonard de Vinci",
+      "accept": [
+        "Léonard",
+        "Vinci"
+      ],
+      "choices": [
+        "Albrecht Dürer",
+        "Michel-Ange",
+        "Leon Battista Alberti"
+      ],
+      "explanation": "Le dessin illustre les proportions idéales du corps humain décrites par l'architecte romain Vitruve ; il est conservé à Venise et rarement exposé, car fragile.",
+      "wikipedia": "Homme de Vitruve"
+    },
+    {
+      "id": "arts-litterature-492",
+      "difficulty": 1,
+      "question": "Dans quelle ville néerlandaise un musée entièrement consacré à Vincent van Gogh a-t-il ouvert ses portes en 1973 ?",
+      "answer": "Amsterdam",
+      "accept": [],
+      "choices": [
+        "Rotterdam",
+        "La Haye",
+        "Utrecht"
+      ],
+      "explanation": "Le musée doit beaucoup à la famille de Théo, frère du peintre, qui avait conservé la plupart des toiles et des lettres de Vincent.",
+      "wikipedia": "Musée Van-Gogh"
+    },
+    {
+      "id": "arts-litterature-493",
+      "difficulty": 1,
+      "question": "Quel grand musée new-yorkais de la Cinquième Avenue, en bordure de Central Park, est surnommé « le Met » ?",
+      "answer": "Metropolitan Museum of Art",
+      "accept": [
+        "Metropolitan Museum",
+        "Metropolitan"
+      ],
+      "choices": [
+        "Museum of Modern Art",
+        "Frick Collection",
+        "Whitney Museum"
+      ],
+      "explanation": "Fondé en 1870, le Met possède aussi The Cloisters, annexe consacrée à l'art médiéval, installée dans des cloîtres européens remontés au nord de Manhattan.",
+      "wikipedia": "Metropolitan Museum of Art"
+    },
+    {
+      "id": "arts-litterature-494",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la planchette percée d'un trou pour le pouce, sur laquelle le peintre mélange ses couleurs ?",
+      "answer": "Palette",
+      "accept": [],
+      "choices": [
+        "Chevalet",
+        "Godet",
+        "Spatule"
+      ],
+      "explanation": "Par extension, le mot désigne l'ensemble des couleurs propres à un artiste : on parle par exemple de la palette sombre de Rembrandt.",
+      "wikipedia": "Palette (peinture)"
+    },
+    {
+      "id": "arts-litterature-495",
+      "difficulty": 1,
+      "question": "Quel style décoratif de la Belle Époque, aux lignes courbes inspirées des plantes, fut surnommé par ses détracteurs « style nouille » ?",
+      "answer": "Art nouveau",
+      "accept": [],
+      "choices": [
+        "Art déco",
+        "Rococo",
+        "Style Empire"
+      ],
+      "explanation": "Le mouvement porte des noms différents selon les pays : Jugendstil en Allemagne, Modern Style en Grande-Bretagne, Liberty en Italie.",
+      "wikipedia": "Art nouveau"
+    },
+    {
+      "id": "arts-litterature-496",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un tableau représentant la mer, des navires ou un port ?",
+      "answer": "Marine",
+      "accept": [],
+      "choices": [
+        "Veduta",
+        "Vanité",
+        "Pastorale"
+      ],
+      "explanation": "Sous l'Ancien Régime, Claude Joseph Vernet reçut de Louis XV la commande d'une série de tableaux représentant les grands ports de France.",
+      "wikipedia": "Marine (peinture)"
+    },
+    {
+      "id": "arts-litterature-497",
+      "difficulty": 1,
+      "question": "Quel tableau de Jean-François Millet montre trois paysannes courbées ramassant les épis oubliés après la moisson ?",
+      "answer": "Les Glaneuses",
+      "accept": [
+        "Glaneuses"
+      ],
+      "choices": [
+        "L'Angélus",
+        "Les Moissonneurs",
+        "Les Botteleurs"
+      ],
+      "explanation": "Présenté au Salon de 1857, le tableau inquiéta la bourgeoisie, qui y vit une dénonciation de la misère rurale ; il est conservé au musée d'Orsay.",
+      "wikipedia": "Des glaneuses"
+    },
+    {
+      "id": "arts-litterature-498",
+      "difficulty": 1,
+      "question": "Quelle petite statue de bronze d'un garçonnet en train d'uriner est devenue l'un des symboles de Bruxelles ?",
+      "answer": "Manneken-Pis",
+      "accept": [
+        "Manneken Pis"
+      ],
+      "choices": [
+        "Jeanneke-Pis",
+        "Atomium",
+        "Zinneke Pis"
+      ],
+      "explanation": "La statuette possède une garde-robe de plus d'un millier de costumes, offerts par des délégations du monde entier ; l'original est conservé à la Maison du Roi.",
+      "wikipedia": "Manneken-Pis"
+    },
+    {
+      "id": "arts-litterature-499",
+      "difficulty": 1,
+      "question": "Dans quelle ville se dresse la statue de bronze de La Petite Sirène, inspirée du conte de Hans Christian Andersen ?",
+      "answer": "Copenhague",
+      "accept": [],
+      "choices": [
+        "Oslo",
+        "Stockholm",
+        "Odense"
+      ],
+      "explanation": "La statue fut offerte à la ville en 1913 par le brasseur Carl Jacobsen ; elle a été plusieurs fois décapitée par des vandales.",
+      "wikipedia": "La Petite Sirène (Copenhague)"
+    },
+    {
+      "id": "arts-litterature-500",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un dessin rapide, pris sur le vif, qui saisit l'essentiel d'un sujet en quelques traits ?",
+      "answer": "Croquis",
+      "accept": [],
+      "choices": [
+        "Esquisse",
+        "Épure",
+        "Carton"
+      ],
+      "explanation": "Le mot vient du verbe « croquer », au sens de saisir rapidement un sujet ; les carnets de croquis permettent aux peintres de noter attitudes et paysages avant de composer.",
+      "wikipedia": "Croquis"
+    }
+  ]
+}

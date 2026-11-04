@@ -3,6 +3,20 @@
   "questions": [
     {
       "id": "nature-271",
+      "difficulty": 1,
+      "question": "Quel arbre de nos forêts produit les glands, nourriture favorite des sangliers et des geais ?",
+      "answer": "chêne",
+      "accept": [],
+      "choices": [
+        "hêtre",
+        "châtaignier",
+        "noisetier"
+      ],
+      "explanation": "Les chênes appartiennent au genre Quercus ; certains individus vivent plus de mille ans, comme le chêne d'Allouville, qui abrite deux chapelles dans son tronc creux.",
+      "wikipedia": "Chêne"
+    },
+    {
+      "id": "nature-272",
       "difficulty": 2,
       "question": "Comment appelle-t-on le petit fruit triangulaire du hêtre, comestible en petite quantité ?",
       "answer": "faîne",
@@ -18,7 +32,7 @@
       "wikipedia": "Faîne"
     },
     {
-      "id": "nature-272",
+      "id": "nature-273",
       "difficulty": 1,
       "question": "Quel arbre pionnier se reconnaît à son écorce blanche qui se détache en fines bandes de papier ?",
       "answer": "bouleau",
@@ -32,7 +46,7 @@
       "wikipedia": "Bouleau"
     },
     {
-      "id": "nature-273",
+      "id": "nature-274",
       "difficulty": 1,
       "question": "Quelle plante herbacée couverte de poils urticants provoque des démangeaisons au moindre contact ?",
       "answer": "ortie",
@@ -48,7 +62,7 @@
       "wikipedia": "Grande ortie"
     },
     {
-      "id": "nature-274",
+      "id": "nature-275",
       "difficulty": 1,
       "question": "Comment appelle-t-on l'enveloppe hérissée de piquants qui protège les châtaignes sur l'arbre ?",
       "answer": "bogue",
@@ -60,20 +74,6 @@
       ],
       "explanation": "La bogue s'ouvre à maturité en quatre valves pour libérer en général trois châtaignes ; le marron vendu en confiserie est une châtaigne non cloisonnée.",
       "wikipedia": "Châtaigne"
-    },
-    {
-      "id": "nature-275",
-      "difficulty": 1,
-      "question": "Quelle fleur venue de Turquie déclencha aux Provinces-Unies, au XVIIe siècle, l'une des premières bulles spéculatives de l'histoire ?",
-      "answer": "tulipe",
-      "accept": [],
-      "choices": [
-        "jacinthe",
-        "narcisse",
-        "pivoine"
-      ],
-      "explanation": "Au sommet de la tulipomanie, en 1637, un seul bulbe rare pouvait valoir le prix d'une maison d'Amsterdam avant l'effondrement brutal des cours.",
-      "wikipedia": "Tulipomanie"
     },
     {
       "id": "nature-276",
@@ -107,50 +107,6 @@
     },
     {
       "id": "nature-278",
-      "difficulty": 1,
-      "question": "Quelle plante aromatique aux épis violets colore chaque été les champs du plateau de Valensole ?",
-      "answer": "lavande",
-      "accept": [],
-      "choices": [
-        "sauge",
-        "romarin",
-        "thym"
-      ],
-      "explanation": "Le lavandin, hybride stérile de deux lavandes, est en réalité le plus cultivé en Provence pour la parfumerie et les lessives, car il est bien plus productif.",
-      "wikipedia": "Lavande"
-    },
-    {
-      "id": "nature-279",
-      "difficulty": 1,
-      "question": "Quel conifère majestueux figure au centre du drapeau du Liban ?",
-      "answer": "cèdre",
-      "accept": [
-        "cèdre du Liban"
-      ],
-      "choices": [
-        "pin parasol",
-        "cyprès",
-        "sapin"
-      ],
-      "explanation": "Le bois de cèdre, imputrescible et parfumé, était si recherché dans l'Antiquité que les Phéniciens l'exportaient vers l'Égypte et la Mésopotamie.",
-      "wikipedia": "Cèdre du Liban"
-    },
-    {
-      "id": "nature-280",
-      "difficulty": 1,
-      "question": "De l'écorce de quel arbre des bords de l'eau a-t-on tiré le principe actif qui a mené à l'aspirine ?",
-      "answer": "saule",
-      "accept": [],
-      "choices": [
-        "peuplier",
-        "aulne",
-        "frêne"
-      ],
-      "explanation": "L'écorce de saule contient de la salicine, dont dérive l'acide salicylique ; l'acide acétylsalicylique a ensuite été commercialisé par Bayer sous le nom d'aspirine.",
-      "wikipedia": "Saule"
-    },
-    {
-      "id": "nature-281",
       "difficulty": 2,
       "question": "Quel conifère très toxique, capable de vivre des millénaires, est souvent planté dans les cimetières et autour des églises ?",
       "answer": "if",
@@ -166,7 +122,35 @@
       "wikipedia": "If commun"
     },
     {
-      "id": "nature-282",
+      "id": "nature-279",
+      "difficulty": 1,
+      "question": "Quel arbre, dont l'écorce se détache en larges plaques, borde de nombreuses routes et places du Midi de la France ?",
+      "answer": "platane",
+      "accept": [],
+      "choices": [
+        "marronnier",
+        "tilleul",
+        "micocoulier"
+      ],
+      "explanation": "Le platane commun est un hybride apparu au XVIIe siècle ; il est aujourd'hui menacé par le chancre coloré, un champignon venu d'Amérique.",
+      "wikipedia": "Platane commun"
+    },
+    {
+      "id": "nature-280",
+      "difficulty": 1,
+      "question": "Les fleurs séchées de quel arbre servent à préparer une infusion réputée calmante et digestive ?",
+      "answer": "tilleul",
+      "accept": [],
+      "choices": [
+        "marronnier",
+        "sureau",
+        "acacia"
+      ],
+      "explanation": "Les fleurs de tilleul sont accompagnées d'une bractée en forme de languette qui sert d'aile aux fruits ; son bois tendre et homogène est très prisé des sculpteurs.",
+      "wikipedia": "Tilia"
+    },
+    {
+      "id": "nature-281",
       "difficulty": 1,
       "question": "Quel arbre ornemental venu des Balkans produit à l'automne des graines luisantes mais toxiques, que ramassent les enfants ?",
       "answer": "marronnier",
@@ -183,21 +167,7 @@
       "wikipedia": "Aesculus hippocastanum"
     },
     {
-      "id": "nature-283",
-      "difficulty": 1,
-      "question": "Quelle plante hémiparasite pousse en boule sur les branches des arbres et était cueillie à la serpe d'or par les druides ?",
-      "answer": "gui",
-      "accept": [],
-      "choices": [
-        "lierre",
-        "houx",
-        "liseron"
-      ],
-      "explanation": "Selon Pline l'Ancien, les druides cueillaient le gui, surtout quand il poussait sur un chêne, ce qui était rare et jugé sacré.",
-      "wikipedia": "Gui (plante)"
-    },
-    {
-      "id": "nature-284",
+      "id": "nature-282",
       "difficulty": 1,
       "question": "Comment appelle-t-on l'association symbiotique d'un champignon avec une algue ou une cyanobactérie, qui colonise rochers et écorces ?",
       "answer": "lichen",
@@ -211,7 +181,7 @@
       "wikipedia": "Lichen"
     },
     {
-      "id": "nature-285",
+      "id": "nature-283",
       "difficulty": 2,
       "question": "Comment appelle-t-on l'association entre les racines d'une plante et les filaments d'un champignon, qui échangent eau, sels minéraux et sucres ?",
       "answer": "mycorhize",
@@ -227,7 +197,21 @@
       "wikipedia": "Mycorhize"
     },
     {
-      "id": "nature-286",
+      "id": "nature-284",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le processus par lequel les plantes fabriquent des sucres à partir de lumière, d'eau et de dioxyde de carbone ?",
+      "answer": "photosynthèse",
+      "accept": [],
+      "choices": [
+        "respiration",
+        "fermentation",
+        "transpiration"
+      ],
+      "explanation": "La photosynthèse libère de l'oxygène comme sous-produit ; c'est elle qui a rendu respirable l'atmosphère terrestre il y a plus de deux milliards d'années.",
+      "wikipedia": "Photosynthèse"
+    },
+    {
+      "id": "nature-285",
       "difficulty": 2,
       "question": "Comment appelle-t-on les minuscules pores des feuilles, bordés de deux cellules, qui règlent les échanges de gaz et d'eau ?",
       "answer": "stomates",
@@ -243,7 +227,7 @@
       "wikipedia": "Stomate"
     },
     {
-      "id": "nature-287",
+      "id": "nature-286",
       "difficulty": 3,
       "question": "Quel tissu conducteur des plantes transporte la sève brute, l'eau et les sels minéraux, des racines vers les feuilles ?",
       "answer": "xylème",
@@ -257,7 +241,53 @@
       "wikipedia": "Xylème"
     },
     {
+      "id": "nature-287",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'organe mâle de la fleur, composé d'un filet et d'une anthère qui produit le pollen ?",
+      "answer": "étamine",
+      "accept": [
+        "étamines"
+      ],
+      "choices": [
+        "pistil",
+        "sépale",
+        "carpelle"
+      ],
+      "explanation": "L'ensemble des étamines d'une fleur forme l'androcée ; chez la tulipe, on en compte six, disposées en deux cercles.",
+      "wikipedia": "Étamine"
+    },
+    {
       "id": "nature-288",
+      "difficulty": 2,
+      "question": "Quel organe de la fleur, qui contient les ovules, se transforme en fruit après la fécondation ?",
+      "answer": "ovaire",
+      "accept": [],
+      "choices": [
+        "étamine",
+        "sépale",
+        "stigmate"
+      ],
+      "explanation": "Pendant que l'ovaire devient le fruit, les ovules fécondés deviennent les graines : un fruit est donc, au sens botanique, un ovaire mûr.",
+      "wikipedia": "Ovaire (botanique)"
+    },
+    {
+      "id": "nature-289",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les premières feuilles embryonnaires contenues dans la graine, au nombre d'une ou deux selon les plantes ?",
+      "answer": "cotylédons",
+      "accept": [
+        "cotylédon"
+      ],
+      "choices": [
+        "bractées",
+        "stipules",
+        "radicules"
+      ],
+      "explanation": "Les botanistes ont longtemps divisé les plantes à fleurs en monocotylédones, comme les graminées, et dicotylédones, comme le haricot, selon ce nombre.",
+      "wikipedia": "Cotylédon"
+    },
+    {
+      "id": "nature-290",
       "difficulty": 2,
       "question": "Comment appelle-t-on les plantes dont les graines ne sont pas enfermées dans un fruit, comme les pins et les sapins ?",
       "answer": "gymnospermes",
@@ -273,7 +303,38 @@
       "wikipedia": "Gymnosperme"
     },
     {
-      "id": "nature-289",
+      "id": "nature-291",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la croissance d'une plante qui s'oriente vers la lumière, comme une plante d'appartement penchée vers la fenêtre ?",
+      "answer": "phototropisme",
+      "accept": [],
+      "choices": [
+        "gravitropisme",
+        "thigmotropisme",
+        "hydrotropisme"
+      ],
+      "explanation": "Le phototropisme est commandé par l'auxine, une hormone qui s'accumule du côté ombragé de la tige et y accélère l'allongement des cellules.",
+      "wikipedia": "Phototropisme"
+    },
+    {
+      "id": "nature-292",
+      "difficulty": 1,
+      "question": "Comment qualifie-t-on le feuillage d'un arbre qui tombe entièrement chaque année à la mauvaise saison ?",
+      "answer": "caduc",
+      "accept": [
+        "caduque",
+        "caduques"
+      ],
+      "choices": [
+        "persistant",
+        "sempervirent",
+        "marcescent"
+      ],
+      "explanation": "Chez les arbres à feuilles caduques, la chute est préparée par une couche de cellules à la base du pétiole, qui sectionne la feuille comme une cicatrice.",
+      "wikipedia": "Plante décidue"
+    },
+    {
+      "id": "nature-293",
       "difficulty": 2,
       "question": "Comment appelle-t-on la science qui date les bois et reconstitue les climats passés grâce aux cernes des arbres ?",
       "answer": "dendrochronologie",
@@ -287,7 +348,7 @@
       "wikipedia": "Dendrochronologie"
     },
     {
-      "id": "nature-290",
+      "id": "nature-294",
       "difficulty": 3,
       "question": "Comment appelle-t-on la partie la plus récente et encore vivante du bois, située juste sous l'écorce, autour du cœur ?",
       "answer": "aubier",
@@ -301,7 +362,7 @@
       "wikipedia": "Aubier"
     },
     {
-      "id": "nature-291",
+      "id": "nature-295",
       "difficulty": 1,
       "question": "De quel arbre méditerranéen, dont l'écorce épaisse est récoltée tous les neuf à douze ans environ, tire-t-on les bouchons ?",
       "answer": "chêne-liège",
@@ -317,23 +378,7 @@
       "wikipedia": "Chêne-liège"
     },
     {
-      "id": "nature-292",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on l'art japonais de cultiver en pot des arbres miniatures par la taille des racines et des branches ?",
-      "answer": "bonsaï",
-      "accept": [
-        "bonsai"
-      ],
-      "choices": [
-        "ikebana",
-        "kokedama",
-        "origami"
-      ],
-      "explanation": "Le bonsaï dérive du penjing chinois ; certains spécimens entretenus sur plusieurs générations sont plusieurs fois centenaires.",
-      "wikipedia": "Bonsaï"
-    },
-    {
-      "id": "nature-293",
+      "id": "nature-296",
       "difficulty": 2,
       "question": "Comment appelle-t-on la tige souterraine horizontale, comme celle du gingembre ou de l'iris, qui permet à la plante de se propager ?",
       "answer": "rhizome",
@@ -347,7 +392,39 @@
       "wikipedia": "Rhizome"
     },
     {
-      "id": "nature-294",
+      "id": "nature-297",
+      "difficulty": 1,
+      "question": "Quel organe souterrain, formé de feuilles charnues serrées, l'oignon, l'ail et la tulipe développent-ils ?",
+      "answer": "bulbe",
+      "accept": [
+        "bulbes"
+      ],
+      "choices": [
+        "rhizome",
+        "tubercule",
+        "corme"
+      ],
+      "explanation": "Le bulbe stocke des réserves qui permettent à la plante de refleurir rapidement au printemps ; la gousse d'ail en est un caïeu, ou bulbille.",
+      "wikipedia": "Bulbe"
+    },
+    {
+      "id": "nature-298",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les tiges rampantes qui s'enracinent à distance et permettent au fraisier de se multiplier ?",
+      "answer": "stolons",
+      "accept": [
+        "stolon"
+      ],
+      "choices": [
+        "vrilles",
+        "drageons",
+        "rhizomes"
+      ],
+      "explanation": "Le jardinier peut détacher les jeunes plants formés au bout des stolons pour renouveler sa fraiseraie sans semis.",
+      "wikipedia": "Stolon (organe)"
+    },
+    {
+      "id": "nature-299",
       "difficulty": 2,
       "question": "Quelle plante carnivore tropicale piège les insectes dans des urnes remplies d'un liquide digestif ?",
       "answer": "népenthès",
@@ -364,7 +441,7 @@
       "wikipedia": "Nepenthes"
     },
     {
-      "id": "nature-295",
+      "id": "nature-300",
       "difficulty": 2,
       "question": "Quelle petite plante carnivore des tourbières capture les insectes grâce aux gouttelettes collantes de ses poils ?",
       "answer": "droséra",
@@ -381,7 +458,21 @@
       "wikipedia": "Droséra"
     },
     {
-      "id": "nature-296",
+      "id": "nature-301",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la plante tropicale Mimosa pudica, qui replie aussitôt ses folioles quand on la touche ?",
+      "answer": "sensitive",
+      "accept": [],
+      "choices": [
+        "belle-de-jour",
+        "balsamine",
+        "oxalide"
+      ],
+      "explanation": "Le mouvement de la sensitive est provoqué par une brusque perte d'eau de cellules situées à la base des feuilles, les pulvinus.",
+      "wikipedia": "Sensitive"
+    },
+    {
+      "id": "nature-302",
       "difficulty": 3,
       "question": "Quelle étrange plante du désert du Namib ne produit que deux feuilles, qui s'allongent pendant toute sa vie de plusieurs siècles ?",
       "answer": "welwitschia",
@@ -397,7 +488,7 @@
       "wikipedia": "Welwitschia mirabilis"
     },
     {
-      "id": "nature-297",
+      "id": "nature-303",
       "difficulty": 2,
       "question": "De quelle chaîne de montagnes la pomme de terre est-elle originaire, où les Incas en cultivaient de nombreuses variétés ?",
       "answer": "Andes",
@@ -413,7 +504,7 @@
       "wikipedia": "Pomme de terre"
     },
     {
-      "id": "nature-298",
+      "id": "nature-304",
       "difficulty": 3,
       "question": "De quelle graminée sauvage du Mexique le maïs cultivé a-t-il été domestiqué il y a environ neuf mille ans ?",
       "answer": "téosinte",
@@ -429,7 +520,7 @@
       "wikipedia": "Zea"
     },
     {
-      "id": "nature-299",
+      "id": "nature-305",
       "difficulty": 2,
       "question": "Quel fruit tropical est en réalité un fruit composé, issu de la soudure des fruits de nombreuses fleurs autour d'un axe ?",
       "answer": "ananas",
@@ -443,51 +534,23 @@
       "wikipedia": "Ananas"
     },
     {
-      "id": "nature-300",
+      "id": "nature-306",
       "difficulty": 1,
-      "question": "Quel agrume amer, cultivé surtout en Calabre, donne son parfum au thé Earl Grey ?",
-      "answer": "bergamote",
-      "accept": [],
-      "choices": [
-        "cédrat",
-        "bigarade",
-        "kumquat"
-      ],
-      "explanation": "L'essence de bergamote, extraite du zeste, entre aussi dans la composition de l'eau de Cologne ; Nancy a fait de la bergamote une confiserie célèbre.",
-      "wikipedia": "Bergamote"
-    },
-    {
-      "id": "nature-301",
-      "difficulty": 2,
-      "question": "Quel agrume aurait été obtenu en Algérie vers 1900 par un religieux, qui lui a laissé son prénom ?",
-      "answer": "clémentine",
-      "accept": [],
-      "choices": [
-        "mandarine",
-        "tangerine",
-        "satsuma"
-      ],
-      "explanation": "Le frère Clément, de l'orphelinat de Misserghin près d'Oran, aurait remarqué cet hybride de mandarinier et d'oranger dans son jardin.",
-      "wikipedia": "Clémentine"
-    },
-    {
-      "id": "nature-302",
-      "difficulty": 2,
-      "question": "Quel fruit sec pousse à l'extrémité d'un faux-fruit charnu et juteux, appelé pomme, consommé au Brésil ?",
-      "answer": "noix de cajou",
+      "question": "De quel arbre tropical tire-t-on les fèves fermentées et torréfiées qui servent à fabriquer le chocolat ?",
+      "answer": "cacaoyer",
       "accept": [
-        "cajou"
+        "cacaotier"
       ],
       "choices": [
-        "noix de pécan",
-        "noix du Brésil",
-        "noix de macadamia"
+        "caféier",
+        "muscadier",
+        "vanillier"
       ],
-      "explanation": "La coque de la noix de cajou contient un liquide caustique ; c'est pourquoi on ne la vend jamais en coque, mais toujours décortiquée.",
-      "wikipedia": "Anacardier"
+      "explanation": "Les fleurs du cacaoyer, et donc ses cabosses, poussent directement sur le tronc et les grosses branches, un phénomène appelé cauliflorie.",
+      "wikipedia": "Cacaoyer"
     },
     {
-      "id": "nature-303",
+      "id": "nature-307",
       "difficulty": 1,
       "question": "Quelle plante dont on grignote les graines enfouit ses jeunes gousses dans le sol pour qu'elles y mûrissent ?",
       "answer": "arachide",
@@ -504,7 +567,41 @@
       "wikipedia": "Arachide"
     },
     {
-      "id": "nature-304",
+      "id": "nature-308",
+      "difficulty": 2,
+      "question": "Quelle famille de plantes, celle des pois, des haricots et du trèfle, enrichit le sol grâce à des bactéries fixant l'azote ?",
+      "answer": "légumineuses",
+      "accept": [
+        "Fabacées",
+        "Fabaceae"
+      ],
+      "choices": [
+        "Poacées",
+        "Brassicacées",
+        "Rosacées"
+      ],
+      "explanation": "Les bactéries du genre Rhizobium vivent dans des nodosités des racines ; c'est pourquoi on cultive trèfle ou luzerne en rotation pour fertiliser les champs.",
+      "wikipedia": "Fabaceae"
+    },
+    {
+      "id": "nature-309",
+      "difficulty": 2,
+      "question": "Le brocoli, le romanesco et le kale sont des variétés cultivées de quelle même espèce potagère ?",
+      "answer": "chou",
+      "accept": [
+        "Brassica oleracea",
+        "chou commun"
+      ],
+      "choices": [
+        "navet",
+        "moutarde",
+        "radis"
+      ],
+      "explanation": "À partir du chou sauvage des côtes atlantiques, la sélection a privilégié tantôt les fleurs, tantôt les bourgeons, tantôt les feuilles.",
+      "wikipedia": "Chou commun"
+    },
+    {
+      "id": "nature-310",
       "difficulty": 1,
       "question": "Quelle plante potagère, dont on cuisine les pétioles en tarte ou en compote, a des feuilles toxiques ?",
       "answer": "rhubarbe",
@@ -518,7 +615,7 @@
       "wikipedia": "Rhubarbe"
     },
     {
-      "id": "nature-305",
+      "id": "nature-311",
       "difficulty": 2,
       "question": "À quelle famille de plantes appartiennent à la fois le melon, le concombre, la courgette et la citrouille ?",
       "answer": "Cucurbitacées",
@@ -534,7 +631,24 @@
       "wikipedia": "Cucurbitaceae"
     },
     {
-      "id": "nature-306",
+      "id": "nature-312",
+      "difficulty": 3,
+      "question": "À quelle famille de plantes, aux fleurs disposées en parasol, appartiennent la carotte, le persil et le céleri ?",
+      "answer": "Apiacées",
+      "accept": [
+        "Ombellifères",
+        "Apiaceae"
+      ],
+      "choices": [
+        "Brassicacées",
+        "Lamiacées",
+        "Astéracées"
+      ],
+      "explanation": "Les fleurs en ombelles ont donné l'ancien nom d'Ombellifères ; la famille compte aussi des plantes mortelles comme la grande ciguë.",
+      "wikipedia": "Apiaceae"
+    },
+    {
+      "id": "nature-313",
       "difficulty": 2,
       "question": "De quelle liane tropicale proviennent à la fois les grains verts, noirs et blancs de l'épice la plus utilisée au monde ?",
       "answer": "poivrier",
@@ -550,23 +664,7 @@
       "wikipedia": "Poivrier noir"
     },
     {
-      "id": "nature-307",
-      "difficulty": 2,
-      "question": "Quel champignon parasite des céréales provoquait au Moyen Âge le « mal des ardents », ou feu de Saint-Antoine ?",
-      "answer": "ergot du seigle",
-      "accept": [
-        "ergot"
-      ],
-      "choices": [
-        "charbon du blé",
-        "rouille du blé",
-        "mildiou"
-      ],
-      "explanation": "L'ergot contient des alcaloïdes ; c'est en travaillant sur eux qu'Albert Hofmann a synthétisé le LSD en 1938.",
-      "wikipedia": "Ergot du seigle"
-    },
-    {
-      "id": "nature-308",
+      "id": "nature-314",
       "difficulty": 1,
       "question": "Quel champignon jaune-orangé en forme d'entonnoir, très apprécié en cuisine, est aussi appelé chanterelle ?",
       "answer": "girolle",
@@ -582,7 +680,7 @@
       "wikipedia": "Cantharellus cibarius"
     },
     {
-      "id": "nature-309",
+      "id": "nature-315",
       "difficulty": 1,
       "question": "Quel champignon printanier très recherché possède un chapeau creux et alvéolé comme un nid d'abeille ?",
       "answer": "morille",
@@ -596,7 +694,7 @@
       "wikipedia": "Morchella"
     },
     {
-      "id": "nature-310",
+      "id": "nature-316",
       "difficulty": 2,
       "question": "Quel champignon noir en forme de cornet, excellent comestible, porte pourtant un nom funèbre ?",
       "answer": "trompette-de-la-mort",
@@ -613,7 +711,7 @@
       "wikipedia": "Trompette de la mort"
     },
     {
-      "id": "nature-311",
+      "id": "nature-317",
       "difficulty": 1,
       "question": "Quel basidiomycète blanc, cultivé dès le XVIIe siècle dans les anciennes carrières de la capitale, est le plus consommé au monde ?",
       "answer": "champignon de Paris",
@@ -629,7 +727,23 @@
       "wikipedia": "Agaricus bisporus"
     },
     {
-      "id": "nature-312",
+      "id": "nature-318",
+      "difficulty": 1,
+      "question": "Quel champignon microscopique unicellulaire fait gonfler la pâte à pain et fermenter le moût de bière ?",
+      "answer": "levure",
+      "accept": [
+        "levure de boulanger"
+      ],
+      "choices": [
+        "moisissure",
+        "ferment lactique",
+        "bactérie"
+      ],
+      "explanation": "La levure de boulanger et de brasserie appartient à l'espèce Saccharomyces cerevisiae, utilisée aussi en recherche comme organisme modèle.",
+      "wikipedia": "Saccharomyces cerevisiae"
+    },
+    {
+      "id": "nature-319",
       "difficulty": 3,
       "question": "Quel champignon parasite d'Oregon forme l'un des plus vastes organismes vivants connus, étendu sous terre sur plusieurs kilomètres carrés ?",
       "answer": "armillaire",
@@ -646,7 +760,7 @@
       "wikipedia": "Armillaria solidipes"
     },
     {
-      "id": "nature-313",
+      "id": "nature-320",
       "difficulty": 2,
       "question": "Comment appelle-t-on les cercles de champignons des prés que le folklore attribuait aux danses nocturnes de créatures maléfiques ?",
       "answer": "ronds de sorcières",
@@ -663,7 +777,51 @@
       "wikipedia": "Rond de sorcières"
     },
     {
-      "id": "nature-314",
+      "id": "nature-321",
+      "difficulty": 2,
+      "question": "Quel champignon en boule libère un nuage de spores en fumée lorsqu'on l'écrase ou qu'une goutte de pluie le frappe ?",
+      "answer": "vesse-de-loup",
+      "accept": [
+        "lycoperdon"
+      ],
+      "choices": [
+        "truffe",
+        "amanite",
+        "clathre"
+      ],
+      "explanation": "La vesse-de-loup géante peut dépasser la taille d'un ballon de football et produire plusieurs milliers de milliards de spores.",
+      "wikipedia": "Vesse-de-loup"
+    },
+    {
+      "id": "nature-322",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la science qui étudie les champignons ?",
+      "answer": "mycologie",
+      "accept": [],
+      "choices": [
+        "phycologie",
+        "bryologie",
+        "lichénologie"
+      ],
+      "explanation": "Longtemps rangés parmi les végétaux, les champignons forment un règne à part, plus proche des animaux que des plantes selon la génétique.",
+      "wikipedia": "Mycologie"
+    },
+    {
+      "id": "nature-323",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une collection de plantes séchées et pressées, conservées sur des planches à des fins d'étude ?",
+      "answer": "herbier",
+      "accept": [],
+      "choices": [
+        "florilège",
+        "arboretum",
+        "sporothèque"
+      ],
+      "explanation": "L'herbier du Muséum national d'histoire naturelle de Paris compte parmi les plus grands du monde, avec plusieurs millions de spécimens.",
+      "wikipedia": "Herbier"
+    },
+    {
+      "id": "nature-324",
       "difficulty": 1,
       "question": "Quel naturaliste suédois du XVIIIe siècle a généralisé la désignation de chaque espèce par deux noms latins ?",
       "answer": "Carl von Linné",
@@ -681,7 +839,7 @@
       "wikipedia": "Carl von Linné"
     },
     {
-      "id": "nature-315",
+      "id": "nature-325",
       "difficulty": 2,
       "question": "Sur quelle plante potagère le moine Gregor Mendel a-t-il mené les expériences fondatrices de la génétique ?",
       "answer": "pois",
@@ -697,23 +855,7 @@
       "wikipedia": "Gregor Mendel"
     },
     {
-      "id": "nature-316",
-      "difficulty": 2,
-      "question": "Sur quel archipel norvégien une chambre forte creusée dans la montagne conserve-t-elle des semences du monde entier ?",
-      "answer": "Svalbard",
-      "accept": [
-        "Spitzberg"
-      ],
-      "choices": [
-        "Lofoten",
-        "Féroé",
-        "Vesterålen"
-      ],
-      "explanation": "La réserve mondiale de semences, ouverte en 2008, a reçu son premier retrait en 2015, lorsque des chercheurs syriens ont dû reconstituer leurs collections.",
-      "wikipedia": "Réserve mondiale de semences du Svalbard"
-    },
-    {
-      "id": "nature-317",
+      "id": "nature-326",
       "difficulty": 3,
       "question": "Quel conifère des montagnes de l'Ouest américain compte des individus parmi les plus vieux arbres connus, près de cinq mille ans ?",
       "answer": "Pinus longaeva",
@@ -729,7 +871,7 @@
       "wikipedia": "Pin Bristlecone"
     },
     {
-      "id": "nature-318",
+      "id": "nature-327",
       "difficulty": 3,
       "question": "Quelle plante de Madagascar aux feuilles disposées en grand éventail est surnommée l'arbre du voyageur ?",
       "answer": "ravenala",
@@ -745,7 +887,23 @@
       "wikipedia": "Arbre du voyageur"
     },
     {
-      "id": "nature-319",
+      "id": "nature-328",
+      "difficulty": 2,
+      "question": "Quel arbre des îles Canaries, à la silhouette en parasol, laisse couler une résine rouge prisée des peintres et des alchimistes ?",
+      "answer": "dragonnier",
+      "accept": [
+        "dragonnier des Canaries"
+      ],
+      "choices": [
+        "araucaria",
+        "pin des Canaries",
+        "palmier dattier"
+      ],
+      "explanation": "Le dragonnier pousse très lentement ; le célèbre spécimen d'Icod de los Vinos, à Tenerife, est le symbole de l'île.",
+      "wikipedia": "Dragonnier des Canaries"
+    },
+    {
+      "id": "nature-329",
       "difficulty": 2,
       "question": "Quel végétal tropical, dont le fruit devait nourrir les esclaves des Antilles, était la cargaison du HMS Bounty lors de la mutinerie ?",
       "answer": "arbre à pain",
@@ -761,7 +919,21 @@
       "wikipedia": "Arbre à pain"
     },
     {
-      "id": "nature-320",
+      "id": "nature-330",
+      "difficulty": 2,
+      "question": "Quel bois noir très dense, fourni par des arbres du genre Diospyros, servait aux touches noires des pianos ?",
+      "answer": "ébène",
+      "accept": [],
+      "choices": [
+        "acajou",
+        "teck",
+        "palissandre"
+      ],
+      "explanation": "Le mot ébéniste vient de l'ébène, bois précieux que travaillaient les menuisiers d'art ; le plaqueminier, qui donne le kaki, est du même genre.",
+      "wikipedia": "Ébène"
+    },
+    {
+      "id": "nature-331",
       "difficulty": 1,
       "question": "Quel arbuste au bois très dur, idéal pour les haies taillées, est béni le dimanche des Rameaux ?",
       "answer": "buis",
@@ -775,7 +947,21 @@
       "wikipedia": "Buis"
     },
     {
-      "id": "nature-321",
+      "id": "nature-332",
+      "difficulty": 1,
+      "question": "Quel arbuste aux feuilles piquantes et aux baies rouges toxiques orne les tables et les couronnes de Noël ?",
+      "answer": "houx",
+      "accept": [],
+      "choices": [
+        "gui",
+        "fragon",
+        "buis"
+      ],
+      "explanation": "Seuls les pieds femelles du houx portent des baies ; ses feuilles du haut des branches sont souvent lisses, hors de portée des herbivores.",
+      "wikipedia": "Houx"
+    },
+    {
+      "id": "nature-333",
       "difficulty": 1,
       "question": "Quelle fleur d'ornement change de couleur, du rose au bleu, selon l'acidité du sol où elle pousse ?",
       "answer": "hortensia",
@@ -791,7 +977,7 @@
       "wikipedia": "Hydrangea"
     },
     {
-      "id": "nature-322",
+      "id": "nature-334",
       "difficulty": 1,
       "question": "Quelle petite fleur bleue est surnommée « ne m'oubliez pas » dans de nombreuses langues ?",
       "answer": "myosotis",
@@ -805,7 +991,7 @@
       "wikipedia": "Myosotis"
     },
     {
-      "id": "nature-323",
+      "id": "nature-335",
       "difficulty": 1,
       "question": "Quelle fleur dépose-t-on traditionnellement sur les tombes en France lors de la Toussaint ?",
       "answer": "chrysanthème",
@@ -819,7 +1005,7 @@
       "wikipedia": "Chrysanthème"
     },
     {
-      "id": "nature-324",
+      "id": "nature-336",
       "difficulty": 2,
       "question": "Quelle plante toxique aux fleurs en doigt de gant a fourni un médicament essentiel pour le cœur ?",
       "answer": "digitale",
@@ -835,7 +1021,7 @@
       "wikipedia": "Digitalis purpurea"
     },
     {
-      "id": "nature-325",
+      "id": "nature-337",
       "difficulty": 2,
       "question": "Quelle plante toxique, dont le nom italien signifie « belle dame », servait aux élégantes à dilater leurs pupilles ?",
       "answer": "belladone",
@@ -849,23 +1035,7 @@
       "wikipedia": "Belladone"
     },
     {
-      "id": "nature-326",
-      "difficulty": 1,
-      "question": "Quelle plante toxique a servi, selon Platon, à l'exécution du philosophe Socrate ?",
-      "answer": "ciguë",
-      "accept": [
-        "grande ciguë"
-      ],
-      "choices": [
-        "aconit",
-        "if",
-        "laurier-rose"
-      ],
-      "explanation": "La grande ciguë ressemble au persil sauvage ; son poison, la coniine, provoque une paralysie qui remonte des jambes vers le thorax.",
-      "wikipedia": "Grande ciguë"
-    },
-    {
-      "id": "nature-327",
+      "id": "nature-338",
       "difficulty": 2,
       "question": "De quelle plante tire-t-on une huile purgative, alors que ses graines renferment un poison redoutable ?",
       "answer": "ricin",
@@ -879,21 +1049,7 @@
       "wikipedia": "Ricin commun"
     },
     {
-      "id": "nature-328",
-      "difficulty": 2,
-      "question": "De l'écorce de quel arbre des Andes a-t-on longtemps tiré un alcaloïde amer, remède majeur contre le paludisme ?",
-      "answer": "quinquina",
-      "accept": [],
-      "choices": [
-        "cacaoyer",
-        "cocaïer",
-        "hévéa"
-      ],
-      "explanation": "La quinine a été isolée en 1820 par les pharmaciens français Pelletier et Caventou ; elle donne aussi son amertume au tonic.",
-      "wikipedia": "Cinchona"
-    },
-    {
-      "id": "nature-329",
+      "id": "nature-339",
       "difficulty": 2,
       "question": "Quelle plante à racine fourchue d'aspect humain pousserait, selon la légende, un cri mortel quand on l'arrache ?",
       "answer": "mandragore",
@@ -907,7 +1063,23 @@
       "wikipedia": "Mandragore"
     },
     {
-      "id": "nature-330",
+      "id": "nature-340",
+      "difficulty": 2,
+      "question": "De quelle plante des montagnes, aux grandes fleurs jaunes, utilise-t-on la racine amère pour fabriquer des apéritifs ?",
+      "answer": "gentiane",
+      "accept": [
+        "gentiane jaune"
+      ],
+      "choices": [
+        "arnica",
+        "génépi",
+        "angélique"
+      ],
+      "explanation": "La grande gentiane peut vivre plus de cinquante ans ; il lui faut une dizaine d'années avant de fleurir pour la première fois.",
+      "wikipedia": "Gentiane jaune"
+    },
+    {
+      "id": "nature-341",
       "difficulty": 1,
       "question": "Quelle concrétion minérale du désert, souvent de gypse, prend la forme d'une fleur aux pétales cristallins ?",
       "answer": "rose des sables",
@@ -921,21 +1093,21 @@
       "wikipedia": "Rose des sables"
     },
     {
-      "id": "nature-331",
-      "difficulty": 1,
-      "question": "Quelle forme de carbone, si tendre qu'elle laisse une trace sur le papier, sert à fabriquer les mines de crayon ?",
-      "answer": "graphite",
+      "id": "nature-342",
+      "difficulty": 2,
+      "question": "Quelle variété violette de quartz était censée, chez les Grecs, préserver de l'ivresse ?",
+      "answer": "améthyste",
       "accept": [],
       "choices": [
-        "plomb",
-        "fusain",
-        "anthracite"
+        "citrine",
+        "topaze",
+        "tourmaline"
       ],
-      "explanation": "On parle de « mine de plomb » par erreur historique : le graphite des premiers gisements anglais avait été pris pour un minerai de plomb.",
-      "wikipedia": "Graphite"
+      "explanation": "Son nom grec « amethustos » signifie « qui n'est pas ivre » ; sa couleur est due à des traces de fer et à une irradiation naturelle.",
+      "wikipedia": "Améthyste"
     },
     {
-      "id": "nature-332",
+      "id": "nature-343",
       "difficulty": 2,
       "question": "Le rubis et le saphir sont deux variétés colorées de quel même minéral, un oxyde d'aluminium ?",
       "answer": "corindon",
@@ -949,7 +1121,7 @@
       "wikipedia": "Corindon"
     },
     {
-      "id": "nature-333",
+      "id": "nature-344",
       "difficulty": 3,
       "question": "L'émeraude et l'aigue-marine sont deux variétés de quel minéral, un silicate d'aluminium ?",
       "answer": "béryl",
@@ -965,35 +1137,7 @@
       "wikipedia": "Béryl"
     },
     {
-      "id": "nature-334",
-      "difficulty": 1,
-      "question": "Quel minéral jaune doré, un sulfure de fer, est surnommé l'or des fous ?",
-      "answer": "pyrite",
-      "accept": [],
-      "choices": [
-        "chalcopyrite",
-        "mica",
-        "galène"
-      ],
-      "explanation": "Frappée contre un silex, la pyrite produit des étincelles : son nom vient du grec « pur », le feu, et elle servait à allumer des feux.",
-      "wikipedia": "Pyrite"
-    },
-    {
-      "id": "nature-335",
-      "difficulty": 1,
-      "question": "Quelle résine fossile peut renfermer des insectes piégés depuis des dizaines de millions d'années ?",
-      "answer": "ambre",
-      "accept": [],
-      "choices": [
-        "copal",
-        "jais",
-        "résine de pin"
-      ],
-      "explanation": "Les côtes de la mer Baltique fournissent l'essentiel de l'ambre ; frotté, il attire les poussières, et son nom grec, êlektron, a donné le mot électricité.",
-      "wikipedia": "Ambre"
-    },
-    {
-      "id": "nature-336",
+      "id": "nature-345",
       "difficulty": 2,
       "question": "Quelle pierre verte, très prisée en Chine, recouvrait les costumes funéraires des princes de la dynastie Han ?",
       "answer": "jade",
@@ -1007,7 +1151,7 @@
       "wikipedia": "Jade"
     },
     {
-      "id": "nature-337",
+      "id": "nature-346",
       "difficulty": 2,
       "question": "Quelle roche bleue d'Afghanistan, broyée, donnait aux peintres le précieux bleu outremer ?",
       "answer": "lapis-lazuli",
@@ -1024,7 +1168,7 @@
       "wikipedia": "Lapis-lazuli"
     },
     {
-      "id": "nature-338",
+      "id": "nature-347",
       "difficulty": 2,
       "question": "Quelle gemme amorphe, riche en eau, offre des reflets irisés changeants et provient surtout d'Australie ?",
       "answer": "opale",
@@ -1038,107 +1182,21 @@
       "wikipedia": "Opale"
     },
     {
-      "id": "nature-339",
-      "difficulty": 1,
-      "question": "Quelle roche volcanique noire et vitreuse était taillée en lames tranchantes par les Aztèques et les hommes préhistoriques ?",
-      "answer": "obsidienne",
+      "id": "nature-348",
+      "difficulty": 2,
+      "question": "Quel est le nom du minéral constituant le sel gemme, du chlorure de sodium naturel ?",
+      "answer": "halite",
       "accept": [],
       "choices": [
-        "basalte",
-        "silex",
-        "jais"
+        "sylvite",
+        "calcite",
+        "gypse"
       ],
-      "explanation": "L'obsidienne est un verre naturel issu d'une lave refroidie trop vite pour cristalliser ; ses éclats peuvent être plus tranchants qu'un scalpel.",
-      "wikipedia": "Obsidienne"
+      "explanation": "La halite cristallise en cubes ; la mine de sel de Wieliczka, en Pologne, renferme une chapelle entièrement sculptée dans ce minéral.",
+      "wikipedia": "Halite"
     },
     {
-      "id": "nature-340",
-      "difficulty": 1,
-      "question": "Quelle roche volcanique, si poreuse qu'elle peut flotter sur l'eau, sert à adoucir la peau des pieds ?",
-      "answer": "pierre ponce",
-      "accept": [
-        "ponce"
-      ],
-      "choices": [
-        "pouzzolane",
-        "tuf",
-        "scorie"
-      ],
-      "explanation": "La pierre ponce naît d'une lave riche en gaz qui mousse en refroidissant ; après certaines éruptions, des radeaux de ponce dérivent sur l'océan.",
-      "wikipedia": "Ponce"
-    },
-    {
-      "id": "nature-341",
-      "difficulty": 1,
-      "question": "Quelle roche volcanique forme les colonnes hexagonales de la Chaussée des Géants, en Irlande du Nord ?",
-      "answer": "basalte",
-      "accept": [],
-      "choices": [
-        "granite",
-        "grès",
-        "andésite"
-      ],
-      "explanation": "Ces orgues basaltiques se sont formées par contraction d'une coulée de lave en refroidissant ; la légende les attribue au géant Finn McCool.",
-      "wikipedia": "Chaussée des Géants"
-    },
-    {
-      "id": "nature-342",
-      "difficulty": 1,
-      "question": "Quelle roche métamorphique issue du calcaire, d'une blancheur réputée, est extraite des carrières de Carrare en Toscane ?",
-      "answer": "marbre",
-      "accept": [],
-      "choices": [
-        "albâtre",
-        "travertin",
-        "granite"
-      ],
-      "explanation": "Michel-Ange choisissait lui-même ses blocs à Carrare ; le marbre se forme quand le calcaire recristallise sous l'effet de la chaleur et de la pression.",
-      "wikipedia": "Marbre"
-    },
-    {
-      "id": "nature-343",
-      "difficulty": 1,
-      "question": "Quelle roche qui se débite en fines plaques couvre traditionnellement les toits d'Angers et de nombreuses régions de l'Ouest ?",
-      "answer": "ardoise",
-      "accept": [],
-      "choices": [
-        "tuile",
-        "lauze",
-        "tôle"
-      ],
-      "explanation": "Angers, surnommée la ville noire, a exploité pendant des siècles les ardoisières de Trélazé ; l'ardoise est un schiste métamorphique imperméable.",
-      "wikipedia": "Ardoise"
-    },
-    {
-      "id": "nature-344",
-      "difficulty": 1,
-      "question": "De quelle roche calcaire, formée de squelettes de micro-algues, sont faites les falaises d'Étretat ?",
-      "answer": "craie",
-      "accept": [],
-      "choices": [
-        "grès",
-        "marne",
-        "argile"
-      ],
-      "explanation": "La craie est constituée de coccolithes, minuscules plaques calcaires d'algues planctoniques accumulées au fond des mers du Crétacé.",
-      "wikipedia": "Craie"
-    },
-    {
-      "id": "nature-345",
-      "difficulty": 1,
-      "question": "Quelle roche siliceuse, qui produit des étincelles sous le choc, était taillée en outils par les hommes préhistoriques ?",
-      "answer": "silex",
-      "accept": [],
-      "choices": [
-        "quartzite",
-        "obsidienne",
-        "jaspe"
-      ],
-      "explanation": "Le silex se forme en rognons dans la craie ; il a équipé les fusils à silex jusqu'au XIXe siècle pour enflammer la poudre.",
-      "wikipedia": "Silex"
-    },
-    {
-      "id": "nature-346",
+      "id": "nature-349",
       "difficulty": 2,
       "question": "Quel minéral, chauffé puis réduit en poudre, donne le plâtre que l'on gâche avec de l'eau ?",
       "answer": "gypse",
@@ -1152,21 +1210,7 @@
       "wikipedia": "Gypse"
     },
     {
-      "id": "nature-347",
-      "difficulty": 2,
-      "question": "Quelle argile blanche, dont un grand gisement fut découvert près de Limoges au XVIIIe siècle, est indispensable à la porcelaine ?",
-      "answer": "kaolin",
-      "accept": [],
-      "choices": [
-        "bentonite",
-        "ocre",
-        "marne"
-      ],
-      "explanation": "Le gisement de Saint-Yrieix-la-Perche a permis à Sèvres et Limoges de produire de la porcelaine dure ; le mot kaolin vient d'une colline chinoise.",
-      "wikipedia": "Kaolin"
-    },
-    {
-      "id": "nature-348",
+      "id": "nature-350",
       "difficulty": 3,
       "question": "Quel minéral rouge vif, broyé en pigment vermillon, est le principal minerai du mercure ?",
       "answer": "cinabre",
@@ -1180,21 +1224,7 @@
       "wikipedia": "Cinabre"
     },
     {
-      "id": "nature-349",
-      "difficulty": 2,
-      "question": "Quel minerai d'aluminium tire son nom d'un village des Alpilles, en Provence, où il fut découvert ?",
-      "answer": "bauxite",
-      "accept": [],
-      "choices": [
-        "cryolite",
-        "alumine",
-        "corindon"
-      ],
-      "explanation": "Le géologue Pierre Berthier l'a identifiée en 1821 aux Baux-de-Provence ; l'Australie et la Guinée en sont aujourd'hui de grands producteurs.",
-      "wikipedia": "Bauxite"
-    },
-    {
-      "id": "nature-350",
+      "id": "nature-351",
       "difficulty": 3,
       "question": "Quel minéral vert aux bandes concentriques, minerai de cuivre, sert à sculpter objets et bijoux ?",
       "answer": "malachite",
@@ -1208,7 +1238,21 @@
       "wikipedia": "Malachite"
     },
     {
-      "id": "nature-351",
+      "id": "nature-352",
+      "difficulty": 3,
+      "question": "Quel minéral gris métallique aux cristaux cubiques est le principal minerai de plomb ?",
+      "answer": "galène",
+      "accept": [],
+      "choices": [
+        "blende",
+        "pyrite",
+        "stibine"
+      ],
+      "explanation": "La galène a servi de semi-conducteur dans les premiers postes de radio, dits postes à galène, qui fonctionnaient sans pile.",
+      "wikipedia": "Galène"
+    },
+    {
+      "id": "nature-353",
       "difficulty": 3,
       "question": "Quel minéral, composé de calcium, a donné son nom au phénomène qui fait briller certaines substances sous ultraviolets ?",
       "answer": "fluorite",
@@ -1224,7 +1268,7 @@
       "wikipedia": "Fluorine"
     },
     {
-      "id": "nature-352",
+      "id": "nature-354",
       "difficulty": 3,
       "question": "Quelle variété noire de lignite, très polie, ornait les bijoux de deuil de l'époque victorienne ?",
       "answer": "jais",
@@ -1240,7 +1284,35 @@
       "wikipedia": "Jais"
     },
     {
-      "id": "nature-353",
+      "id": "nature-355",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une cavité rocheuse, souvent sphérique, dont la paroi intérieure est tapissée de cristaux ?",
+      "answer": "géode",
+      "accept": [],
+      "choices": [
+        "druse",
+        "nodule",
+        "septaria"
+      ],
+      "explanation": "Une géode se forme quand des eaux chargées de minéraux déposent des cristaux dans un vide, par exemple une bulle de gaz dans une lave.",
+      "wikipedia": "Géode (roche)"
+    },
+    {
+      "id": "nature-356",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'accumulation de végétaux mal décomposés dans les marais, premier stade de formation du charbon ?",
+      "answer": "tourbe",
+      "accept": [],
+      "choices": [
+        "lignite",
+        "humus",
+        "compost"
+      ],
+      "explanation": "Séchée, la tourbe est un combustible traditionnel en Irlande et en Écosse, où sa fumée parfume certains whiskies.",
+      "wikipedia": "Tourbe"
+    },
+    {
+      "id": "nature-357",
       "difficulty": 3,
       "question": "Quelle mousse, capable d'absorber de nombreuses fois son poids en eau, constitue l'essentiel des tourbières ?",
       "answer": "sphaigne",
@@ -1256,7 +1328,7 @@
       "wikipedia": "Sphaigne"
     },
     {
-      "id": "nature-354",
+      "id": "nature-358",
       "difficulty": 1,
       "question": "D'après Newton, combien de couleurs distingue-t-on dans l'arc-en-ciel ?",
       "answer": "sept",
@@ -1272,7 +1344,7 @@
       "wikipedia": "Arc-en-ciel"
     },
     {
-      "id": "nature-355",
+      "id": "nature-359",
       "difficulty": 3,
       "question": "Comment appelle-t-on la zone de ciel plus sombre qui sépare les deux arcs d'un double arc-en-ciel ?",
       "answer": "bande d'Alexandre",
@@ -1288,7 +1360,7 @@
       "wikipedia": "Arc-en-ciel"
     },
     {
-      "id": "nature-356",
+      "id": "nature-360",
       "difficulty": 2,
       "question": "De quelle langue vient le mot geyser, d'après le nom d'une source jaillissante célèbre ?",
       "answer": "islandais",
@@ -1302,7 +1374,21 @@
       "wikipedia": "Geyser"
     },
     {
-      "id": "nature-357",
+      "id": "nature-361",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la roche en fusion présente sous la surface terrestre, avant qu'elle ne s'épanche en lave ?",
+      "answer": "magma",
+      "accept": [],
+      "choices": [
+        "basalte",
+        "manteau",
+        "cendre"
+      ],
+      "explanation": "Le magma s'accumule dans des chambres magmatiques, à quelques kilomètres sous le volcan ; dégazé à l'air libre, il prend le nom de lave.",
+      "wikipedia": "Magma (géologie)"
+    },
+    {
+      "id": "nature-362",
       "difficulty": 2,
       "question": "Comment appelle-t-on l'avalanche de gaz brûlants et de cendres qui dévala la montagne Pelée et anéantit Saint-Pierre en 1902 ?",
       "answer": "nuée ardente",
@@ -1318,23 +1404,7 @@
       "wikipedia": "Nuée ardente"
     },
     {
-      "id": "nature-358",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on l'alignement de volcans et de zones sismiques qui entoure presque tout l'océan Pacifique ?",
-      "answer": "ceinture de feu",
-      "accept": [
-        "ceinture de feu du Pacifique"
-      ],
-      "choices": [
-        "cercle de lave",
-        "anneau de cendre",
-        "arc ardent"
-      ],
-      "explanation": "La ceinture de feu concentre la majorité des volcans actifs de la planète, le long de zones de subduction où une plaque plonge sous une autre.",
-      "wikipedia": "Ceinture de feu du Pacifique"
-    },
-    {
-      "id": "nature-359",
+      "id": "nature-363",
       "difficulty": 3,
       "question": "Comment appelle-t-on le tube de sable vitrifié qui se forme quand la foudre frappe un sol sableux ?",
       "answer": "fulgurite",
@@ -1350,7 +1420,7 @@
       "wikipedia": "Fulgurite"
     },
     {
-      "id": "nature-360",
+      "id": "nature-364",
       "difficulty": 2,
       "question": "Quel phénomène lumineux, en forme d'aigrettes bleutées, apparaît au sommet des mâts des navires par temps d'orage ?",
       "answer": "feu de Saint-Elme",
@@ -1366,7 +1436,7 @@
       "wikipedia": "Feu de Saint-Elme"
     },
     {
-      "id": "nature-361",
+      "id": "nature-365",
       "difficulty": 1,
       "question": "Comment appelle-t-on l'illusion d'optique qui fait croire à une nappe d'eau sur une route surchauffée ?",
       "answer": "mirage",
@@ -1380,7 +1450,7 @@
       "wikipedia": "Mirage"
     },
     {
-      "id": "nature-362",
+      "id": "nature-366",
       "difficulty": 2,
       "question": "Quel phénomène optique fugace, observé parfois au coucher du soleil sur la mer, a donné son titre à un roman de Jules Verne ?",
       "answer": "rayon vert",
@@ -1394,7 +1464,7 @@
       "wikipedia": "Rayon vert"
     },
     {
-      "id": "nature-363",
+      "id": "nature-367",
       "difficulty": 3,
       "question": "Comment appelle-t-on la tache lumineuse irisée, ou faux soleil, qui apparaît parfois de part et d'autre du Soleil ?",
       "answer": "parhélie",
@@ -1410,7 +1480,7 @@
       "wikipedia": "Parhélie"
     },
     {
-      "id": "nature-364",
+      "id": "nature-368",
       "difficulty": 3,
       "question": "Comment appelle-t-on l'ombre géante d'un randonneur, entourée d'un halo coloré, projetée sur la brume en montagne ?",
       "answer": "spectre de Brocken",
@@ -1426,67 +1496,39 @@
       "wikipedia": "Spectre de Brocken"
     },
     {
-      "id": "nature-365",
-      "difficulty": 1,
-      "question": "Quel nom donne-t-on aux cyclones tropicaux qui se forment dans le nord-ouest de l'océan Pacifique ?",
-      "answer": "typhon",
-      "accept": [
-        "typhons"
-      ],
-      "choices": [
-        "ouragan",
-        "tornade",
-        "willy-willy"
-      ],
-      "explanation": "Le même phénomène est appelé ouragan dans l'Atlantique et le Pacifique Nord-Est, et cyclone dans l'océan Indien et le Pacifique Sud.",
-      "wikipedia": "Cyclone tropical"
-    },
-    {
-      "id": "nature-366",
-      "difficulty": 1,
-      "question": "Quel vent froid et sec du nord dévale la vallée du Rhône jusqu'à la Méditerranée, chassant les nuages ?",
-      "answer": "mistral",
-      "accept": [],
-      "choices": [
-        "tramontane",
-        "sirocco",
-        "autan"
-      ],
-      "explanation": "Le mistral peut souffler plusieurs jours d'affilée ; en Provence, on a longtemps orienté les maisons et planté des haies de cyprès pour s'en protéger.",
-      "wikipedia": "Mistral (vent)"
-    },
-    {
-      "id": "nature-367",
-      "difficulty": 2,
-      "question": "Quel vent chaud venu du Sahara souffle vers la Méditerranée et charrie parfois du sable jusqu'en Europe ?",
-      "answer": "sirocco",
-      "accept": [
-        "siroco"
-      ],
-      "choices": [
-        "mistral",
-        "tramontane",
-        "foehn"
-      ],
-      "explanation": "Chargé d'humidité en traversant la mer, le sirocco provoque des pluies de boue ou de sable ocre qui salissent voitures et façades.",
-      "wikipedia": "Sirocco"
-    },
-    {
-      "id": "nature-368",
-      "difficulty": 3,
-      "question": "Quel vent sec et poussiéreux souffle en hiver du Sahara vers le golfe de Guinée ?",
-      "answer": "harmattan",
-      "accept": [],
-      "choices": [
-        "sirocco",
-        "khamsin",
-        "simoun"
-      ],
-      "explanation": "L'harmattan voile le ciel d'Afrique de l'Ouest d'une brume sèche de poussières sahariennes, qui assèche l'air et peut réduire fortement la visibilité pendant des jours.",
-      "wikipedia": "Harmattan"
-    },
-    {
       "id": "nature-369",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la zone calme et souvent dégagée qui se trouve au centre d'un cyclone ?",
+      "answer": "œil",
+      "accept": [
+        "œil du cyclone"
+      ],
+      "choices": [
+        "cœur",
+        "puits",
+        "mur"
+      ],
+      "explanation": "L'œil est entouré du mur de l'œil, où soufflent les vents les plus violents ; son passage donne une accalmie trompeuse avant le retour de la tempête.",
+      "wikipedia": "Œil (cyclone)"
+    },
+    {
+      "id": "nature-370",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les vents réguliers soufflant des tropiques vers l'équateur, utilisés par les navigateurs pour traverser l'Atlantique ?",
+      "answer": "alizés",
+      "accept": [
+        "alizé"
+      ],
+      "choices": [
+        "moussons",
+        "contre-alizés",
+        "vents d'ouest"
+      ],
+      "explanation": "Christophe Colomb a profité des alizés pour atteindre les Caraïbes ; la route de retour vers l'Europe empruntait plus au nord les vents d'ouest.",
+      "wikipedia": "Alizé"
+    },
+    {
+      "id": "nature-371",
       "difficulty": 3,
       "question": "Comment les marins appelaient-ils la zone de convergence intertropicale, redoutée pour ses calmes plats et ses orages ?",
       "answer": "pot-au-noir",
@@ -1502,23 +1544,23 @@
       "wikipedia": "Zone de convergence intertropicale"
     },
     {
-      "id": "nature-370",
+      "id": "nature-372",
       "difficulty": 2,
-      "question": "Quelle échelle de 0 à 12, conçue par un amiral britannique, mesure la force du vent d'après ses effets sur la mer ?",
-      "answer": "Beaufort",
+      "question": "Comment appelle-t-on les marées de forte amplitude qui se produisent quand le Soleil et la Lune sont alignés avec la Terre ?",
+      "answer": "vives-eaux",
       "accept": [
-        "échelle de Beaufort"
+        "marées de vives-eaux"
       ],
       "choices": [
-        "Fujita",
-        "Saffir-Simpson",
-        "Douglas"
+        "mortes-eaux",
+        "étales",
+        "grandes eaux"
       ],
-      "explanation": "Le degré 12 de l'échelle de Beaufort correspond à l'ouragan ; à l'origine, elle décrivait la voilure qu'un navire de guerre pouvait porter.",
-      "wikipedia": "Échelle de Beaufort"
+      "explanation": "Les vives-eaux suivent la nouvelle et la pleine lune ; aux quartiers de lune, les forces se contrarient et l'on parle de mortes-eaux.",
+      "wikipedia": "Vives-eaux"
     },
     {
-      "id": "nature-371",
+      "id": "nature-373",
       "difficulty": 2,
       "question": "Quelle baie canadienne, entre Nouveau-Brunswick et Nouvelle-Écosse, connaît les plus fortes marées du monde ?",
       "answer": "Fundy",
@@ -1534,64 +1576,36 @@
       "wikipedia": "Baie de Fundy"
     },
     {
-      "id": "nature-372",
-      "difficulty": 1,
-      "question": "Quel courant océanique chaud, né dans le golfe du Mexique, contribue à adoucir le climat de l'Europe de l'Ouest ?",
-      "answer": "Gulf Stream",
-      "accept": [],
-      "choices": [
-        "courant du Labrador",
-        "Kuroshio",
-        "courant de Humboldt"
-      ],
-      "explanation": "Benjamin Franklin, maître des postes, en fit dresser l'une des premières cartes pour accélérer les navires du courrier entre l'Amérique et l'Europe.",
-      "wikipedia": "Gulf Stream"
-    },
-    {
-      "id": "nature-373",
-      "difficulty": 2,
-      "question": "Comment appelle-t-on l'amas de débris rocheux arrachés, transportés puis déposés par un glacier ?",
-      "answer": "moraine",
-      "accept": [],
-      "choices": [
-        "éboulis",
-        "alluvion",
-        "sérac"
-      ],
-      "explanation": "Les moraines frontales marquent la position maximale atteinte par un glacier ; elles retiennent parfois des lacs en aval des glaciers.",
-      "wikipedia": "Moraine"
-    },
-    {
       "id": "nature-374",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on une ancienne vallée glaciaire envahie par la mer, typique des côtes norvégiennes ?",
-      "answer": "fjord",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un bloc de glace instable, formé par la fracturation d'un glacier sur une pente raide ?",
+      "answer": "sérac",
       "accept": [
-        "fiord"
+        "séracs"
       ],
       "choices": [
-        "ria",
-        "aber",
-        "calanque"
+        "crevasse",
+        "moraine",
+        "névé"
       ],
-      "explanation": "Le Sognefjord est le plus long et le plus profond des fjords de Norvège ; son fond descend bien au-dessous du niveau de la mer.",
-      "wikipedia": "Fjord"
+      "explanation": "Le mot sérac désignait à l'origine un fromage blanc compact de Savoie, dont les blocs de glace rappelaient la forme.",
+      "wikipedia": "Sérac"
     },
     {
       "id": "nature-375",
-      "difficulty": 2,
-      "question": "Comment appelle-t-on le relief façonné par la dissolution des roches calcaires, riche en grottes, gouffres et rivières souterraines ?",
-      "answer": "karst",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la grande boucle sinueuse décrite par un cours d'eau dans une plaine ?",
+      "answer": "méandre",
       "accept": [
-        "relief karstique"
+        "méandres"
       ],
       "choices": [
-        "loess",
-        "bocage",
-        "causse"
+        "delta",
+        "estuaire",
+        "rapide"
       ],
-      "explanation": "Le mot vient d'une région de Slovénie ; le Vercors, les Causses et le Jura offrent de beaux paysages karstiques en France.",
-      "wikipedia": "Karst"
+      "explanation": "Le mot vient du Méandre, fleuve de l'actuelle Turquie, célèbre dans l'Antiquité pour son cours très sinueux.",
+      "wikipedia": "Méandre"
     },
     {
       "id": "nature-376",
@@ -1623,6 +1637,34 @@
     },
     {
       "id": "nature-378",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un désert de pierres et de graviers, par opposition à l'erg, désert de dunes de sable ?",
+      "answer": "reg",
+      "accept": [],
+      "choices": [
+        "hamada",
+        "sebkha",
+        "oued"
+      ],
+      "explanation": "Le reg naît de l'érosion éolienne qui emporte les fines particules et laisse en surface un pavage de cailloux.",
+      "wikipedia": "Reg"
+    },
+    {
+      "id": "nature-379",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la formation végétale tropicale de hautes herbes parsemée d'arbres, typique de l'Afrique de l'Est ?",
+      "answer": "savane",
+      "accept": [],
+      "choices": [
+        "steppe",
+        "pampa",
+        "toundra"
+      ],
+      "explanation": "Les incendies saisonniers jouent un rôle clé dans la savane : ils empêchent la forêt de s'installer et favorisent la repousse des herbes.",
+      "wikipedia": "Savane"
+    },
+    {
+      "id": "nature-380",
       "difficulty": 1,
       "question": "Comment appelle-t-on la végétation basse de mousses, lichens et arbustes nains des régions arctiques, au-delà de la limite des arbres ?",
       "answer": "toundra",
@@ -1636,23 +1678,7 @@
       "wikipedia": "Toundra"
     },
     {
-      "id": "nature-379",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on les vastes plaines herbeuses d'Argentine et d'Uruguay, domaine des gauchos ?",
-      "answer": "pampa",
-      "accept": [
-        "pampas"
-      ],
-      "choices": [
-        "llanos",
-        "sertão",
-        "prairie"
-      ],
-      "explanation": "Le mot pampa vient du quechua et signifie plaine ; ses sols très fertiles en font l'une des grandes régions d'élevage et de céréales du monde.",
-      "wikipedia": "Pampa"
-    },
-    {
-      "id": "nature-380",
+      "id": "nature-381",
       "difficulty": 2,
       "question": "Comment appelle-t-on la formation végétale basse des sols calcaires méditerranéens, riche en thym, romarin et chêne kermès ?",
       "answer": "garrigue",
@@ -1666,7 +1692,7 @@
       "wikipedia": "Garrigue"
     },
     {
-      "id": "nature-381",
+      "id": "nature-382",
       "difficulty": 1,
       "question": "Comment appelle-t-on le paysage de champs et de prés enclos de haies vives, typique de l'ouest de la France ?",
       "answer": "bocage",
@@ -1680,7 +1706,7 @@
       "wikipedia": "Bocage"
     },
     {
-      "id": "nature-382",
+      "id": "nature-383",
       "difficulty": 3,
       "question": "Comment appelle-t-on la formation boisée qui borde les rives d'un cours d'eau ?",
       "answer": "ripisylve",
@@ -1697,7 +1723,7 @@
       "wikipedia": "Ripisylve"
     },
     {
-      "id": "nature-383",
+      "id": "nature-384",
       "difficulty": 1,
       "question": "Comment appelle-t-on l'étage supérieur d'une forêt, formé par la cime des grands arbres ?",
       "answer": "canopée",
@@ -1711,7 +1737,21 @@
       "wikipedia": "Canopée"
     },
     {
-      "id": "nature-384",
+      "id": "nature-385",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la couche supérieure et sombre du sol, formée par la décomposition de la matière organique ?",
+      "answer": "humus",
+      "accept": [],
+      "choices": [
+        "terreau",
+        "limon",
+        "argile"
+      ],
+      "explanation": "Les vers de terre, champignons et bactéries transforment feuilles mortes et débris en humus, qui retient l'eau et nourrit les plantes.",
+      "wikipedia": "Humus"
+    },
+    {
+      "id": "nature-386",
       "difficulty": 3,
       "question": "Quelle plante aquatique flottante d'Amazonie, aux fleurs mauves, est devenue l'une des pires espèces invasives des lacs tropicaux ?",
       "answer": "jacinthe d'eau",
@@ -1727,7 +1767,7 @@
       "wikipedia": "Jacinthe d'eau"
     },
     {
-      "id": "nature-385",
+      "id": "nature-387",
       "difficulty": 2,
       "question": "Quelle plante invasive venue d'Asie, aux tiges creuses rappelant le bambou, colonise les berges des rivières européennes ?",
       "answer": "renouée du Japon",
@@ -1743,7 +1783,7 @@
       "wikipedia": "Renouée du Japon"
     },
     {
-      "id": "nature-386",
+      "id": "nature-388",
       "difficulty": 2,
       "question": "Quelle plante invasive venue d'Amérique du Nord provoque, à la fin de l'été, de fortes allergies au pollen ?",
       "answer": "ambroisie",
@@ -1759,7 +1799,7 @@
       "wikipedia": "Ambrosia artemisiifolia"
     },
     {
-      "id": "nature-387",
+      "id": "nature-389",
       "difficulty": 2,
       "question": "Quelle plante à fleurs marine, endémique de Méditerranée, forme de vastes herbiers qui protègent les plages de l'érosion ?",
       "answer": "posidonie",
@@ -1775,7 +1815,7 @@
       "wikipedia": "Posidonia oceanica"
     },
     {
-      "id": "nature-388",
+      "id": "nature-390",
       "difficulty": 1,
       "question": "Comment appelle-t-on l'ensemble des micro-organismes végétaux en suspension dans l'eau, qui produisent une grande part de l'oxygène planétaire ?",
       "answer": "phytoplancton",
@@ -1789,23 +1829,21 @@
       "wikipedia": "Phytoplancton"
     },
     {
-      "id": "nature-389",
+      "id": "nature-391",
       "difficulty": 1,
-      "question": "Quel organisme créé par l'ONU en 1988 évalue l'état des connaissances scientifiques sur le changement climatique ?",
-      "answer": "GIEC",
-      "accept": [
-        "IPCC"
-      ],
+      "question": "Comment appelle-t-on le phénomène par lequel certains gaz de l'atmosphère retiennent une partie de la chaleur émise par la Terre ?",
+      "answer": "effet de serre",
+      "accept": [],
       "choices": [
-        "UICN",
-        "PNUE",
-        "OMM"
+        "effet albédo",
+        "inversion thermique",
+        "effet de Coriolis"
       ],
-      "explanation": "Le GIEC a reçu le prix Nobel de la paix en 2007, conjointement avec l'ancien vice-président américain Al Gore.",
-      "wikipedia": "Groupe d'experts intergouvernemental sur l'évolution du climat"
+      "explanation": "Sans effet de serre naturel, la température moyenne à la surface de la Terre serait d'environ moins dix-huit degrés Celsius.",
+      "wikipedia": "Effet de serre"
     },
     {
-      "id": "nature-390",
+      "id": "nature-392",
       "difficulty": 2,
       "question": "Lors de quelle conférence des Nations unies sur le climat l'accord de Paris a-t-il été adopté ?",
       "answer": "COP21",
@@ -1821,23 +1859,7 @@
       "wikipedia": "Accord de Paris sur le climat"
     },
     {
-      "id": "nature-391",
-      "difficulty": 1,
-      "question": "Quelle ville japonaise a donné son nom au protocole de 1997 imposant aux pays industrialisés de réduire leurs émissions de gaz à effet de serre ?",
-      "answer": "Kyoto",
-      "accept": [
-        "Kyōto"
-      ],
-      "choices": [
-        "Osaka",
-        "Tokyo",
-        "Nagoya"
-      ],
-      "explanation": "Le protocole de Kyoto n'est entré en vigueur qu'en 2005, après sa ratification par la Russie ; les États-Unis ne l'ont jamais ratifié.",
-      "wikipedia": "Protocole de Kyoto"
-    },
-    {
-      "id": "nature-392",
+      "id": "nature-393",
       "difficulty": 2,
       "question": "Quelle biologiste américaine a dénoncé les ravages du DDT dans son livre « Printemps silencieux » ?",
       "answer": "Rachel Carson",
@@ -1853,7 +1875,7 @@
       "wikipedia": "Rachel Carson"
     },
     {
-      "id": "nature-393",
+      "id": "nature-394",
       "difficulty": 3,
       "question": "Quel groupe de réflexion international a commandé le rapport « Les Limites à la croissance », publié en 1972 ?",
       "answer": "Club de Rome",
@@ -1867,7 +1889,7 @@
       "wikipedia": "Club de Rome"
     },
     {
-      "id": "nature-394",
+      "id": "nature-395",
       "difficulty": 3,
       "question": "Quel rapport de l'ONU, du nom d'une Première ministre norvégienne, a popularisé en 1987 la notion de développement durable ?",
       "answer": "Brundtland",
@@ -1883,7 +1905,7 @@
       "wikipedia": "Rapport Brundtland"
     },
     {
-      "id": "nature-395",
+      "id": "nature-396",
       "difficulty": 2,
       "question": "Quel pétrolier, échoué en 1978 près de Portsall dans le Finistère, a provoqué l'une des pires marées noires de l'histoire ?",
       "answer": "Amoco Cadiz",
@@ -1897,7 +1919,7 @@
       "wikipedia": "Amoco Cadiz"
     },
     {
-      "id": "nature-396",
+      "id": "nature-397",
       "difficulty": 2,
       "question": "Comment surnomme-t-on l'immense zone d'accumulation de déchets plastiques dans le nord de l'océan Pacifique ?",
       "answer": "septième continent",
@@ -1914,7 +1936,7 @@
       "wikipedia": "Vortex de déchets du Pacifique nord"
     },
     {
-      "id": "nature-397",
+      "id": "nature-398",
       "difficulty": 1,
       "question": "Comment appelle-t-on les précipitations rendues corrosives par le dioxyde de soufre et les oxydes d'azote rejetés par l'industrie ?",
       "answer": "pluies acides",
@@ -1930,7 +1952,7 @@
       "wikipedia": "Pluie acide"
     },
     {
-      "id": "nature-398",
+      "id": "nature-399",
       "difficulty": 1,
       "question": "Quel mot anglais, contraction de « smoke » et « fog », désigne le brouillard de pollution des grandes villes ?",
       "answer": "smog",
@@ -1944,7 +1966,7 @@
       "wikipedia": "Smog"
     },
     {
-      "id": "nature-399",
+      "id": "nature-400",
       "difficulty": 3,
       "question": "Quel mode de conception agricole durable a été théorisé dans les années 1970 par les Australiens Bill Mollison et David Holmgren ?",
       "answer": "permaculture",
@@ -1958,7 +1980,7 @@
       "wikipedia": "Permaculture"
     },
     {
-      "id": "nature-400",
+      "id": "nature-401",
       "difficulty": 1,
       "question": "Comment appelle-t-on une terre laissée temporairement sans culture pour qu'elle reconstitue sa fertilité ?",
       "answer": "jachère",
@@ -1974,39 +1996,7 @@
       "wikipedia": "Jachère"
     },
     {
-      "id": "nature-401",
-      "difficulty": 2,
-      "question": "Quelle plante aux fruits munis de crochets, accrochés au pelage du chien de son inventeur, a inspiré le Velcro ?",
-      "answer": "bardane",
-      "accept": [
-        "grande bardane"
-      ],
-      "choices": [
-        "gaillet",
-        "chardon",
-        "cardère"
-      ],
-      "explanation": "L'ingénieur suisse George de Mestral a observé les capitules de bardane au microscope après une promenade en montagne.",
-      "wikipedia": "Bardane"
-    },
-    {
       "id": "nature-402",
-      "difficulty": 1,
-      "question": "Quel fut le premier parc national du monde, créé aux États-Unis en 1872 ?",
-      "answer": "Yellowstone",
-      "accept": [
-        "parc national de Yellowstone"
-      ],
-      "choices": [
-        "Yosemite",
-        "Grand Canyon",
-        "Séquoia"
-      ],
-      "explanation": "Yellowstone repose sur un supervolcan et concentre environ la moitié des geysers de la planète, dont le célèbre Old Faithful.",
-      "wikipedia": "Parc national de Yellowstone"
-    },
-    {
-      "id": "nature-403",
       "difficulty": 2,
       "question": "Quel parc de Savoie, créé en 1963 pour protéger le bouquetin, est le premier parc national français ?",
       "answer": "Vanoise",
@@ -2022,7 +2012,7 @@
       "wikipedia": "Parc national de la Vanoise"
     },
     {
-      "id": "nature-404",
+      "id": "nature-403",
       "difficulty": 3,
       "question": "Dans quelle ville iranienne a été signée en 1971 la convention internationale sur les zones humides ?",
       "answer": "Ramsar",
@@ -2036,7 +2026,7 @@
       "wikipedia": "Convention de Ramsar"
     },
     {
-      "id": "nature-405",
+      "id": "nature-404",
       "difficulty": 3,
       "question": "Quel biologiste allemand, grand dessinateur de la nature, a forgé le mot « écologie » au XIXe siècle ?",
       "answer": "Ernst Haeckel",
@@ -2052,7 +2042,7 @@
       "wikipedia": "Ernst Haeckel"
     },
     {
-      "id": "nature-406",
+      "id": "nature-405",
       "difficulty": 3,
       "question": "Quel scientifique britannique a formulé l'hypothèse Gaïa, qui voit la Terre comme un système autorégulé ?",
       "answer": "James Lovelock",
@@ -2068,7 +2058,7 @@
       "wikipedia": "James Lovelock"
     },
     {
-      "id": "nature-407",
+      "id": "nature-406",
       "difficulty": 1,
       "question": "Quel navire, ancien dragueur de mines, fut le bateau d'exploration océanographique du commandant Cousteau ?",
       "answer": "Calypso",
@@ -2084,7 +2074,7 @@
       "wikipedia": "Calypso (navire)"
     },
     {
-      "id": "nature-408",
+      "id": "nature-407",
       "difficulty": 2,
       "question": "Quelle Kényane, première Africaine prix Nobel de la paix, a fondé le Mouvement de la ceinture verte qui a planté des millions d'arbres ?",
       "answer": "Wangari Maathai",
@@ -2100,7 +2090,7 @@
       "wikipedia": "Wangari Muta Maathai"
     },
     {
-      "id": "nature-409",
+      "id": "nature-408",
       "difficulty": 2,
       "question": "Quel écrivain provençal a imaginé le berger Elzéard Bouffier dans la nouvelle « L'Homme qui plantait des arbres » ?",
       "answer": "Jean Giono",
@@ -2116,23 +2106,7 @@
       "wikipedia": "L'Homme qui plantait des arbres"
     },
     {
-      "id": "nature-410",
-      "difficulty": 1,
-      "question": "De quelle plante succulente mexicaine tire-t-on la tequila ?",
-      "answer": "agave",
-      "accept": [
-        "agave bleu"
-      ],
-      "choices": [
-        "aloès",
-        "yucca",
-        "nopal"
-      ],
-      "explanation": "Seul l'agave bleu peut servir à la tequila ; on en cuit le cœur, appelé piña, avant de le fermenter et de le distiller.",
-      "wikipedia": "Agave"
-    },
-    {
-      "id": "nature-411",
+      "id": "nature-409",
       "difficulty": 1,
       "question": "Quelle plante succulente produit dans ses feuilles un gel apaisant, utilisé contre les brûlures et les coups de soleil ?",
       "answer": "aloe vera",
@@ -2148,7 +2122,7 @@
       "wikipedia": "Aloe vera"
     },
     {
-      "id": "nature-412",
+      "id": "nature-410",
       "difficulty": 2,
       "question": "Quel cactus géant en forme de candélabre, emblème des westerns, pousse dans le désert de Sonora ?",
       "answer": "saguaro",
@@ -2164,7 +2138,7 @@
       "wikipedia": "Saguaro"
     },
     {
-      "id": "nature-413",
+      "id": "nature-411",
       "difficulty": 1,
       "question": "Quel cactus aux raquettes épineuses, naturalisé autour de la Méditerranée, donne des fruits sucrés et comestibles ?",
       "answer": "figuier de Barbarie",
@@ -2181,21 +2155,7 @@
       "wikipedia": "Figuier de Barbarie"
     },
     {
-      "id": "nature-414",
-      "difficulty": 1,
-      "question": "Quel arbre épineux endémique du sud-ouest du Maroc fournit une huile précieuse, alimentaire et cosmétique ?",
-      "answer": "arganier",
-      "accept": [],
-      "choices": [
-        "olivier",
-        "karité",
-        "caroubier"
-      ],
-      "explanation": "Les chèvres du Souss grimpent dans les arganiers pour en brouter les feuilles et les fruits ; l'arganeraie est une réserve de biosphère de l'UNESCO.",
-      "wikipedia": "Arganier"
-    },
-    {
-      "id": "nature-415",
+      "id": "nature-412",
       "difficulty": 1,
       "question": "De quel arbre de la savane africaine tire-t-on un beurre utilisé en cuisine et en cosmétique ?",
       "answer": "karité",
@@ -2209,7 +2169,7 @@
       "wikipedia": "Karité"
     },
     {
-      "id": "nature-416",
+      "id": "nature-413",
       "difficulty": 2,
       "question": "De quel arbuste cousin du camélia proviennent à la fois le sencha japonais et le darjeeling indien ?",
       "answer": "théier",
@@ -2225,35 +2185,7 @@
       "wikipedia": "Théier"
     },
     {
-      "id": "nature-417",
-      "difficulty": 1,
-      "question": "Quelle plante grimpante, dont on utilise les cônes femelles, donne à la bière son amertume et son arôme ?",
-      "answer": "houblon",
-      "accept": [],
-      "choices": [
-        "orge",
-        "genièvre",
-        "lierre"
-      ],
-      "explanation": "Le houblon est de la même famille que le chanvre ; ses cônes renferment la lupuline, une poudre jaune qui contient ses principes amers.",
-      "wikipedia": "Houblon"
-    },
-    {
-      "id": "nature-418",
-      "difficulty": 1,
-      "question": "Quelle plante des bords du Nil servait aux Égyptiens à fabriquer un support d'écriture en lamelles croisées ?",
-      "answer": "papyrus",
-      "accept": [],
-      "choices": [
-        "roseau",
-        "bambou",
-        "lotus"
-      ],
-      "explanation": "Le mot papier vient de papyrus ; les Égyptiens en faisaient aussi des barques, des cordes, des sandales et des paniers.",
-      "wikipedia": "Cyperus papyrus"
-    },
-    {
-      "id": "nature-419",
+      "id": "nature-414",
       "difficulty": 2,
       "question": "Quelle plante tinctoriale fit au XVIe siècle la fortune du « pays de cocagne » autour de Toulouse ?",
       "answer": "pastel",
@@ -2269,7 +2201,7 @@
       "wikipedia": "Pastel des teinturiers"
     },
     {
-      "id": "nature-420",
+      "id": "nature-415",
       "difficulty": 3,
       "question": "Quelle plante tinctoriale donnait le rouge des pantalons des soldats français au début de la Première Guerre mondiale ?",
       "answer": "garance",
@@ -2285,7 +2217,7 @@
       "wikipedia": "Garance des teinturiers"
     },
     {
-      "id": "nature-421",
+      "id": "nature-416",
       "difficulty": 1,
       "question": "Quel arbuste fournit une poudre orangée utilisée pour teindre les cheveux et orner les mains de motifs ?",
       "answer": "henné",
@@ -2299,23 +2231,7 @@
       "wikipedia": "Henné"
     },
     {
-      "id": "nature-422",
-      "difficulty": 2,
-      "question": "Quel diplomate français, ambassadeur au Portugal, a donné son nom à la principale substance active du tabac ?",
-      "answer": "Jean Nicot",
-      "accept": [
-        "Nicot"
-      ],
-      "choices": [
-        "André Thevet",
-        "Jacques Cartier",
-        "Pierre Belon"
-      ],
-      "explanation": "Il envoya de la poudre de tabac à Catherine de Médicis pour soigner ses migraines ; le tabac fut d'abord appelé « herbe à la reine ».",
-      "wikipedia": "Jean Nicot"
-    },
-    {
-      "id": "nature-423",
+      "id": "nature-417",
       "difficulty": 3,
       "question": "Quel nénuphar géant d'Amérique du Sud possède des feuilles circulaires capables de porter le poids d'un jeune enfant ?",
       "answer": "Victoria amazonica",
@@ -2332,7 +2248,7 @@
       "wikipedia": "Victoria amazonica"
     },
     {
-      "id": "nature-424",
+      "id": "nature-418",
       "difficulty": 1,
       "question": "Quel arbre a été planté en masse au XIXe siècle pour assainir et fixer les sols des Landes de Gascogne ?",
       "answer": "pin maritime",
@@ -2346,7 +2262,7 @@
       "wikipedia": "Pinus pinaster"
     },
     {
-      "id": "nature-425",
+      "id": "nature-419",
       "difficulty": 3,
       "question": "Quelle maladie due à un champignon, transmise par des scolytes, a décimé les ormes d'Europe au XXe siècle ?",
       "answer": "graphiose",
@@ -2362,7 +2278,7 @@
       "wikipedia": "Graphiose de l'orme"
     },
     {
-      "id": "nature-426",
+      "id": "nature-420",
       "difficulty": 2,
       "question": "Quel mélange de sulfate de cuivre et de chaux, mis au point en Gironde, protège la vigne du mildiou ?",
       "answer": "bouillie bordelaise",
@@ -2376,7 +2292,7 @@
       "wikipedia": "Bouillie bordelaise"
     },
     {
-      "id": "nature-427",
+      "id": "nature-421",
       "difficulty": 3,
       "question": "Quelle forêt primaire, à cheval sur la Pologne et la Biélorussie, est l'une des dernières forêts originelles de plaine d'Europe ?",
       "answer": "Białowieża",
@@ -2393,23 +2309,7 @@
       "wikipedia": "Forêt de Białowieża"
     },
     {
-      "id": "nature-428",
-      "difficulty": 2,
-      "question": "Comment appelle-t-on la gigantesque chaîne sous-marine qui court du nord au sud au milieu de l'océan séparant l'Europe de l'Amérique ?",
-      "answer": "dorsale médio-atlantique",
-      "accept": [
-        "dorsale atlantique"
-      ],
-      "choices": [
-        "fosse atlantique",
-        "plateau continental",
-        "arc antillais"
-      ],
-      "explanation": "L'Islande est l'une des rares parties émergées de cette dorsale, où les plaques américaine et eurasienne s'écartent de quelques centimètres par an.",
-      "wikipedia": "Dorsale médio-atlantique"
-    },
-    {
-      "id": "nature-429",
+      "id": "nature-422",
       "difficulty": 3,
       "question": "Quel phénomène géologique, fixe sous une plaque en mouvement, explique l'alignement des îles volcaniques d'Hawaï ?",
       "answer": "point chaud",
@@ -2423,7 +2323,7 @@
       "wikipedia": "Point chaud (géologie)"
     },
     {
-      "id": "nature-430",
+      "id": "nature-423",
       "difficulty": 3,
       "question": "Quel type d'éruption très explosive tire son nom d'un naturaliste romain qui périt en l'an 79 lors de l'éruption du Vésuve ?",
       "answer": "plinienne",
@@ -2439,7 +2339,7 @@
       "wikipedia": "Éruption plinienne"
     },
     {
-      "id": "nature-431",
+      "id": "nature-424",
       "difficulty": 3,
       "question": "Quel mot indonésien désigne une coulée boueuse d'origine volcanique, mêlant eau, cendres et débris ?",
       "answer": "lahar",
@@ -2455,55 +2355,7 @@
       "wikipedia": "Lahar"
     },
     {
-      "id": "nature-432",
-      "difficulty": 2,
-      "question": "Quel alignement de volcans d'Auvergne est inscrit au patrimoine mondial avec la faille de Limagne ?",
-      "answer": "chaîne des Puys",
-      "accept": [
-        "Chaîne des Puys"
-      ],
-      "choices": [
-        "monts Dore",
-        "monts du Cantal",
-        "Monts Dômes"
-      ],
-      "explanation": "La chaîne des Puys compte environ quatre-vingts volcans alignés, dont le puy de Dôme, le plus haut d'entre eux.",
-      "wikipedia": "Chaîne des Puys"
-    },
-    {
-      "id": "nature-433",
-      "difficulty": 2,
-      "question": "Quel volcan indonésien a provoqué en 1883 une explosion dont le fracas fut entendu à des milliers de kilomètres ?",
-      "answer": "Krakatoa",
-      "accept": [
-        "Krakatau"
-      ],
-      "choices": [
-        "Tambora",
-        "Merapi",
-        "Pinatubo"
-      ],
-      "explanation": "Ses cendres ont coloré les couchers de soleil du monde entier ; un nouveau volcan, l'Anak Krakatau, l'enfant du Krakatoa, a émergé en 1927.",
-      "wikipedia": "Krakatoa"
-    },
-    {
-      "id": "nature-434",
-      "difficulty": 1,
-      "question": "Quel volcan de l'île de La Réunion compte parmi les plus actifs de la planète ?",
-      "answer": "Piton de la Fournaise",
-      "accept": [
-        "la Fournaise"
-      ],
-      "choices": [
-        "Piton des Neiges",
-        "Karthala",
-        "Soufrière"
-      ],
-      "explanation": "Le Piton de la Fournaise connaît plusieurs éruptions certaines années ; ses coulées atteignent parfois la mer, agrandissant l'île.",
-      "wikipedia": "Piton de la Fournaise"
-    },
-    {
-      "id": "nature-435",
+      "id": "nature-425",
       "difficulty": 2,
       "question": "Quel volcan des îles Éoliennes, surnommé le phare de la Méditerranée, a donné son nom à un type d'éruption ?",
       "answer": "Stromboli",
@@ -2517,7 +2369,7 @@
       "wikipedia": "Stromboli"
     },
     {
-      "id": "nature-436",
+      "id": "nature-426",
       "difficulty": 1,
       "question": "Quel phénomène sonore est causé par la brusque dilatation de l'air surchauffé par un éclair ?",
       "answer": "tonnerre",
@@ -2531,7 +2383,7 @@
       "wikipedia": "Tonnerre"
     },
     {
-      "id": "nature-437",
+      "id": "nature-427",
       "difficulty": 1,
       "question": "Combien de branches présente typiquement un flocon de neige en forme d'étoile ?",
       "answer": "six",
@@ -2547,23 +2399,7 @@
       "wikipedia": "Flocon de neige"
     },
     {
-      "id": "nature-438",
-      "difficulty": 2,
-      "question": "Quelle force, due à la rotation de la Terre, fait tourner les cyclones en sens opposé dans les deux hémisphères ?",
-      "answer": "Coriolis",
-      "accept": [
-        "force de Coriolis"
-      ],
-      "choices": [
-        "Venturi",
-        "Magnus",
-        "Lorentz"
-      ],
-      "explanation": "Elle doit son nom à l'ingénieur français Gaspard-Gustave Coriolis ; contrairement à une idée reçue, elle est trop faible pour orienter le tourbillon d'un lavabo.",
-      "wikipedia": "Force de Coriolis"
-    },
-    {
-      "id": "nature-439",
+      "id": "nature-428",
       "difficulty": 2,
       "question": "Quel mot désignant une vague de chaleur vient du nom latin d'une étoile, Sirius, qui se lève avec le soleil en été ?",
       "answer": "canicule",
@@ -2577,37 +2413,7 @@
       "wikipedia": "Canicule"
     },
     {
-      "id": "nature-440",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on les deux moments de l'année où le jour et la nuit ont à peu près la même durée partout sur Terre ?",
-      "answer": "équinoxes",
-      "accept": [
-        "équinoxe"
-      ],
-      "choices": [
-        "solstices",
-        "apsides",
-        "syzygies"
-      ],
-      "explanation": "Les équinoxes ont lieu vers le 20 mars et le 22 septembre ; le Soleil se lève alors plein est et se couche plein ouest.",
-      "wikipedia": "Équinoxe"
-    },
-    {
-      "id": "nature-441",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on le phénomène estival où l'astre du jour reste visible vingt-quatre heures sur vingt-quatre au-delà du cercle polaire ?",
-      "answer": "soleil de minuit",
-      "accept": [],
-      "choices": [
-        "nuit blanche",
-        "jour polaire boréal",
-        "aube perpétuelle"
-      ],
-      "explanation": "Au pôle Nord, le soleil de minuit dure environ six mois ; sur le cercle polaire, il ne dure qu'une journée, au solstice.",
-      "wikipedia": "Jour polaire"
-    },
-    {
-      "id": "nature-442",
+      "id": "nature-429",
       "difficulty": 2,
       "question": "Comment appelle-t-on l'enrichissement excessif d'un milieu aquatique en nutriments, qui provoque une prolifération d'algues ?",
       "answer": "eutrophisation",
@@ -2621,7 +2427,7 @@
       "wikipedia": "Eutrophisation"
     },
     {
-      "id": "nature-443",
+      "id": "nature-430",
       "difficulty": 2,
       "question": "Quel nom propose-t-on pour désigner une époque géologique marquée par l'influence humaine sur la planète ?",
       "answer": "Anthropocène",
@@ -2635,7 +2441,7 @@
       "wikipedia": "Anthropocène"
     },
     {
-      "id": "nature-444",
+      "id": "nature-431",
       "difficulty": 2,
       "question": "Comment appelle-t-on la part du rayonnement solaire réfléchie par une surface, très élevée pour la neige fraîche ?",
       "answer": "albédo",
@@ -2651,7 +2457,7 @@
       "wikipedia": "Albédo"
     },
     {
-      "id": "nature-445",
+      "id": "nature-432",
       "difficulty": 2,
       "question": "Quelle plante charnue des marais salants, surnommée haricot de mer, se déguste en salade ou au vinaigre ?",
       "answer": "salicorne",
@@ -2665,7 +2471,39 @@
       "wikipedia": "Salicorne"
     },
     {
-      "id": "nature-446",
+      "id": "nature-433",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la technique qui consiste à souder un fragment de plante sur une autre pour qu'ils poussent ensemble ?",
+      "answer": "greffe",
+      "accept": [
+        "greffage"
+      ],
+      "choices": [
+        "bouture",
+        "marcottage",
+        "semis"
+      ],
+      "explanation": "Presque toutes les vignes européennes sont greffées sur des porte-greffes américains, qui résistent au phylloxéra.",
+      "wikipedia": "Greffe (botanique)"
+    },
+    {
+      "id": "nature-434",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un fragment de tige que l'on plante en terre pour qu'il prenne racine et donne une nouvelle plante ?",
+      "answer": "bouture",
+      "accept": [
+        "bouturage"
+      ],
+      "choices": [
+        "greffon",
+        "semis",
+        "marcotte"
+      ],
+      "explanation": "Le bouturage produit des clones de la plante mère ; on peut faciliter l'enracinement avec des hormones ou même de l'eau de saule.",
+      "wikipedia": "Bouturage"
+    },
+    {
+      "id": "nature-435",
       "difficulty": 2,
       "question": "Malgré son nom latin, Prunus persica, de quel pays le pêcher est-il originaire ?",
       "answer": "Chine",
@@ -2679,23 +2517,7 @@
       "wikipedia": "Pêcher"
     },
     {
-      "id": "nature-447",
-      "difficulty": 3,
-      "question": "Quel officier français a rapporté du Chili, en 1714, le fraisier à gros fruits à l'origine de nos fraises modernes ?",
-      "answer": "Amédée-François Frézier",
-      "accept": [
-        "Frézier"
-      ],
-      "choices": [
-        "Louis-Antoine de Bougainville",
-        "Pierre Poivre",
-        "Philibert Commerson"
-      ],
-      "explanation": "Croisée avec le fraisier de Virginie, la fraise du Chili a donné la fraise cultivée ; Plougastel, en Bretagne, en fut un grand centre.",
-      "wikipedia": "Amédée François Frézier"
-    },
-    {
-      "id": "nature-448",
+      "id": "nature-436",
       "difficulty": 1,
       "question": "Quelle céréale, plus vitreuse que celle du pain et riche en gluten, sert principalement à fabriquer les pâtes et la semoule ?",
       "answer": "blé dur",
@@ -2709,7 +2531,7 @@
       "wikipedia": "Blé dur"
     },
     {
-      "id": "nature-449",
+      "id": "nature-437",
       "difficulty": 2,
       "question": "Quelle plante des Andes, consommée comme une céréale, appartient en réalité à la même famille que les épinards ?",
       "answer": "quinoa",
@@ -2723,7 +2545,7 @@
       "wikipedia": "Quinoa"
     },
     {
-      "id": "nature-450",
+      "id": "nature-438",
       "difficulty": 1,
       "question": "Quelle fleur aux pompons jaunes illumine l'hiver de la Côte d'Azur, notamment dans le massif du Tanneron ?",
       "answer": "mimosa",
@@ -2738,6 +2560,186 @@
       ],
       "explanation": "Ce mimosa est en réalité un acacia originaire d'Australie, introduit sur la Riviera au XIXe siècle ; Mandelieu fête chaque année sa floraison.",
       "wikipedia": "Acacia dealbata"
+    },
+    {
+      "id": "nature-439",
+      "difficulty": 1,
+      "question": "Quelle grande fleur jaune des champs d'été oriente ses jeunes capitules vers le soleil au fil de la journée ?",
+      "answer": "tournesol",
+      "accept": [
+        "grand soleil"
+      ],
+      "choices": [
+        "colza",
+        "souci",
+        "pissenlit"
+      ],
+      "explanation": "Seuls les jeunes capitules suivent le soleil d'est en ouest ; une fois la floraison venue, ils restent tournés vers l'est. Ses graines donnent une huile très consommée.",
+      "wikipedia": "Tournesol"
+    },
+    {
+      "id": "nature-440",
+      "difficulty": 1,
+      "question": "Quelle petite fleur blanche et duveteuse des hautes montagnes est devenue un emblème des Alpes et de la Suisse ?",
+      "answer": "edelweiss",
+      "accept": [
+        "edelweiss des Alpes"
+      ],
+      "choices": [
+        "gentiane",
+        "arnica",
+        "saxifrage"
+      ],
+      "explanation": "Son épais duvet blanc la protège du froid, du dessèchement et des ultraviolets intenses de l'altitude ; sa cueillette est aujourd'hui réglementée.",
+      "wikipedia": "Edelweiss"
+    },
+    {
+      "id": "nature-441",
+      "difficulty": 1,
+      "question": "Quelle fleur des prés, au cœur jaune entouré de ligules blanches, effeuille-t-on en disant « je t'aime, un peu, beaucoup » ?",
+      "answer": "marguerite",
+      "accept": [
+        "grande marguerite"
+      ],
+      "choices": [
+        "pâquerette",
+        "camomille",
+        "anémone"
+      ],
+      "explanation": "Ce que l'on prend pour une fleur est en réalité un capitule : chaque « pétale » blanc et chaque point du cœur jaune sont de minuscules fleurs.",
+      "wikipedia": "Marguerite commune"
+    },
+    {
+      "id": "nature-442",
+      "difficulty": 1,
+      "question": "Quelle graminée géante, capable de grandir de plusieurs dizaines de centimètres par jour, sert d'échafaudage en Asie ?",
+      "answer": "bambou",
+      "accept": [],
+      "choices": [
+        "roseau",
+        "canne à sucre",
+        "rotin"
+      ],
+      "explanation": "Certains bambous ne fleurissent qu'au bout de plusieurs décennies, tous en même temps sur une vaste région, puis meurent après la floraison.",
+      "wikipedia": "Bambou"
+    },
+    {
+      "id": "nature-443",
+      "difficulty": 1,
+      "question": "Quel arbre méditerranéen, dont un rameau symbolise la paix, peut vivre plusieurs milliers d'années ?",
+      "answer": "olivier",
+      "accept": [],
+      "choices": [
+        "figuier",
+        "caroubier",
+        "amandier"
+      ],
+      "explanation": "Selon la mythologie grecque, Athéna offrit l'olivier aux habitants de l'Attique et l'emporta ainsi sur Poséidon pour devenir la protectrice d'Athènes.",
+      "wikipedia": "Olivier"
+    },
+    {
+      "id": "nature-444",
+      "difficulty": 1,
+      "question": "Quel arbre produit des fruits à coque enveloppés d'un brou vert qui tache les doigts de brun ?",
+      "answer": "noyer",
+      "accept": [],
+      "choices": [
+        "noisetier",
+        "châtaignier",
+        "amandier"
+      ],
+      "explanation": "Le brou de noix sert à teinter le bois et à fabriquer une liqueur ; les racines du noyer sécrètent une substance qui gêne la croissance d'autres plantes.",
+      "wikipedia": "Noyer commun"
+    },
+    {
+      "id": "nature-445",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un lieu du désert où la présence d'eau permet la végétation et la vie humaine ?",
+      "answer": "oasis",
+      "accept": [],
+      "choices": [
+        "erg",
+        "reg",
+        "sebkha"
+      ],
+      "explanation": "Le palmier dattier est l'arbre roi des oasis : son ombre protège les cultures étagées d'arbres fruitiers et de légumes qui poussent dessous.",
+      "wikipedia": "Oasis"
+    },
+    {
+      "id": "nature-446",
+      "difficulty": 1,
+      "question": "Quelles plantes sans fleurs se reproduisent grâce à des spores disposées sous leurs grandes feuilles, appelées frondes ?",
+      "answer": "fougères",
+      "accept": [
+        "fougère"
+      ],
+      "choices": [
+        "mousses",
+        "prêles",
+        "lichens"
+      ],
+      "explanation": "Les jeunes frondes de fougère se déroulent en crosse ; certaines fougères arborescentes des tropiques dépassent dix mètres de haut.",
+      "wikipedia": "Filicophyta"
+    },
+    {
+      "id": "nature-447",
+      "difficulty": 1,
+      "question": "Quelle plante grimpante à feuillage persistant s'accroche aux murs et aux troncs grâce à des crampons ?",
+      "answer": "lierre",
+      "accept": [],
+      "choices": [
+        "glycine",
+        "vigne vierge",
+        "chèvrefeuille"
+      ],
+      "explanation": "Le lierre n'est pas un parasite : il ne puise rien dans l'arbre qui le porte, et ses fleurs tardives nourrissent les insectes à l'automne.",
+      "wikipedia": "Lierre grimpant"
+    },
+    {
+      "id": "nature-448",
+      "difficulty": 1,
+      "question": "Quel arbuste épineux des haies et des friches produit les mûres sauvages de la fin de l'été ?",
+      "answer": "ronce",
+      "accept": [],
+      "choices": [
+        "églantier",
+        "prunellier",
+        "aubépine"
+      ],
+      "explanation": "La ronce se propage en marcottant : l'extrémité de ses longues tiges arquées s'enracine en touchant le sol pour former un nouveau pied.",
+      "wikipedia": "Ronce commune"
+    },
+    {
+      "id": "nature-449",
+      "difficulty": 1,
+      "question": "Quel mot désigne la diversité des espèces vivantes, de leurs gènes et des écosystèmes qu'elles forment ?",
+      "answer": "biodiversité",
+      "accept": [
+        "diversité biologique"
+      ],
+      "choices": [
+        "écologie",
+        "biomasse",
+        "biosphère"
+      ],
+      "explanation": "Le terme, contraction de « biological diversity », s'est popularisé lors du Sommet de la Terre de Rio de Janeiro en 1992.",
+      "wikipedia": "Biodiversité"
+    },
+    {
+      "id": "nature-450",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la pollution d'un littoral par une nappe de pétrole échappée d'un navire ou d'une plateforme ?",
+      "answer": "marée noire",
+      "accept": [
+        "marées noires"
+      ],
+      "choices": [
+        "mer morte",
+        "vague noire",
+        "nappe brune"
+      ],
+      "explanation": "Le pétrole engluant le plumage des oiseaux marins, ceux-ci perdent leur isolation thermique ; le nettoyage des plages peut durer des mois.",
+      "wikipedia": "Marée noire"
     }
   ]
 }
