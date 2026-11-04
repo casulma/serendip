@@ -1,0 +1,1766 @@
+{
+  "category": "sciences",
+  "questions": [
+    {
+      "id": "sciences-001",
+      "difficulty": 1,
+      "question": "Quel est le symbole chimique de l'or dans le tableau périodique des éléments ?",
+      "answer": "Au",
+      "accept": [],
+      "choices": [
+        "Ag",
+        "Or",
+        "Pt"
+      ],
+      "explanation": "Le symbole Au vient du latin aurum ; l'or est un métal si malléable qu'un seul gramme peut être étiré en un fil de plusieurs kilomètres.",
+      "wikipedia": "Or"
+    },
+    {
+      "id": "sciences-002",
+      "difficulty": 1,
+      "question": "Quelle planète du Système solaire est surnommée la planète rouge ?",
+      "answer": "Mars",
+      "accept": [],
+      "choices": [
+        "Vénus",
+        "Jupiter",
+        "Mercure"
+      ],
+      "explanation": "Sa couleur vient de l'oxyde de fer qui recouvre son sol ; ses deux petites lunes s'appellent Phobos et Deimos, la peur et la terreur.",
+      "wikipedia": "Mars (planète)"
+    },
+    {
+      "id": "sciences-003",
+      "difficulty": 1,
+      "question": "Quelle est la formule chimique de l'eau, composée d'hydrogène et d'oxygène ?",
+      "answer": "H2O",
+      "accept": [
+        "H₂O"
+      ],
+      "choices": [
+        "HO2",
+        "H2O2",
+        "OH"
+      ],
+      "explanation": "Une molécule d'eau associe deux atomes d'hydrogène à un atome d'oxygène ; à ne pas confondre avec H2O2, l'eau oxygénée.",
+      "wikipedia": "Eau"
+    },
+    {
+      "id": "sciences-004",
+      "difficulty": 1,
+      "question": "Quel organe musculaire assure la circulation du sang dans tout le corps humain ?",
+      "answer": "cœur",
+      "accept": [
+        "coeur"
+      ],
+      "choices": [
+        "foie",
+        "poumon",
+        "rein"
+      ],
+      "explanation": "Le cœur humain compte quatre cavités, deux oreillettes et deux ventricules, et bat en moyenne plus de cent mille fois par jour.",
+      "wikipedia": "Cœur"
+    },
+    {
+      "id": "sciences-005",
+      "difficulty": 1,
+      "question": "Combien de côtés possède un hexagone, forme des alvéoles des abeilles ?",
+      "answer": "six",
+      "accept": [
+        "6"
+      ],
+      "choices": [
+        "cinq",
+        "sept",
+        "huit"
+      ],
+      "explanation": "Le préfixe grec hexa signifie six ; l'hexagone régulier permet de paver un plan sans laisser d'espace, d'où son usage par les abeilles.",
+      "wikipedia": "Hexagone"
+    },
+    {
+      "id": "sciences-006",
+      "difficulty": 1,
+      "question": "Quel physicien est l'auteur de la théorie de la relativité et de la formule E = mc² ?",
+      "answer": "Albert Einstein",
+      "accept": [
+        "Einstein"
+      ],
+      "choices": [
+        "Max Planck",
+        "Niels Bohr",
+        "Isaac Newton"
+      ],
+      "explanation": "Einstein a reçu le prix Nobel de physique de 1921 non pas pour la relativité, mais pour son explication de l'effet photoélectrique.",
+      "wikipedia": "Albert Einstein"
+    },
+    {
+      "id": "sciences-007",
+      "difficulty": 1,
+      "question": "Quelle est la plus grande planète du Système solaire, célèbre pour sa Grande Tache rouge ?",
+      "answer": "Jupiter",
+      "accept": [],
+      "choices": [
+        "Saturne",
+        "Neptune",
+        "Uranus"
+      ],
+      "explanation": "Cette géante gazeuse est si massive qu'elle pèse plus de deux fois toutes les autres planètes réunies ; la Grande Tache rouge est une immense tempête.",
+      "wikipedia": "Jupiter (planète)"
+    },
+    {
+      "id": "sciences-008",
+      "difficulty": 1,
+      "question": "Quel est l'os le plus long du corps humain, situé dans la cuisse ?",
+      "answer": "fémur",
+      "accept": [
+        "femur"
+      ],
+      "choices": [
+        "tibia",
+        "humérus",
+        "péroné"
+      ],
+      "explanation": "Le fémur s'articule avec le bassin par sa tête arrondie et avec le tibia au niveau du genou ; il compte aussi parmi les os les plus solides.",
+      "wikipedia": "Fémur"
+    },
+    {
+      "id": "sciences-009",
+      "difficulty": 1,
+      "question": "Quelle particule de charge électrique négative gravite autour du noyau de l'atome ?",
+      "answer": "électron",
+      "accept": [
+        "electron"
+      ],
+      "choices": [
+        "proton",
+        "neutron",
+        "photon"
+      ],
+      "explanation": "L'électron a été mis en évidence en 1897 par le physicien britannique J. J. Thomson ; sa masse est près de deux mille fois inférieure à celle du proton.",
+      "wikipedia": "Électron"
+    },
+    {
+      "id": "sciences-010",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un triangle dont les trois côtés ont la même longueur ?",
+      "answer": "équilatéral",
+      "accept": [
+        "equilateral",
+        "triangle équilatéral"
+      ],
+      "choices": [
+        "isocèle",
+        "scalène",
+        "rectangle"
+      ],
+      "explanation": "Dans un triangle équilatéral, les trois angles mesurent chacun 60 degrés ; il est un cas particulier de triangle isocèle.",
+      "wikipedia": "Triangle équilatéral"
+    },
+    {
+      "id": "sciences-011",
+      "difficulty": 1,
+      "question": "Quel savant anglais a formulé la loi de la gravitation universelle, selon la légende après la chute d'une pomme ?",
+      "answer": "Isaac Newton",
+      "accept": [
+        "Newton"
+      ],
+      "choices": [
+        "Galilée",
+        "Robert Hooke",
+        "Edmond Halley"
+      ],
+      "explanation": "Newton a exposé cette loi dans ses Principia publiés en 1687 ; il a aussi inventé le télescope à miroir qui porte son nom.",
+      "wikipedia": "Isaac Newton"
+    },
+    {
+      "id": "sciences-012",
+      "difficulty": 1,
+      "question": "Quel savant français a mis au point le premier vaccin contre la rage ?",
+      "answer": "Louis Pasteur",
+      "accept": [
+        "Pasteur"
+      ],
+      "choices": [
+        "Robert Koch",
+        "Claude Bernard",
+        "Edward Jenner"
+      ],
+      "explanation": "En 1885, Pasteur l'administra au jeune Joseph Meister, mordu par un chien enragé ; on lui doit aussi la pasteurisation.",
+      "wikipedia": "Louis Pasteur"
+    },
+    {
+      "id": "sciences-013",
+      "difficulty": 1,
+      "question": "Quel instrument permet de mesurer la pression atmosphérique, utile pour prévoir le temps ?",
+      "answer": "baromètre",
+      "accept": [
+        "barometre"
+      ],
+      "choices": [
+        "thermomètre",
+        "hygromètre",
+        "anémomètre"
+      ],
+      "explanation": "Le premier baromètre, à colonne de mercure, fut conçu en 1643 par l'Italien Evangelista Torricelli, élève de Galilée.",
+      "wikipedia": "Baromètre"
+    },
+    {
+      "id": "sciences-014",
+      "difficulty": 1,
+      "question": "Quel orfèvre de Mayence a mis au point l'imprimerie à caractères mobiles en Europe ?",
+      "answer": "Gutenberg",
+      "accept": [
+        "Johannes Gutenberg"
+      ],
+      "choices": [
+        "Érasme",
+        "Alde Manuce",
+        "Luther"
+      ],
+      "explanation": "Son œuvre la plus célèbre est une Bible latine imprimée vers 1455, dite Bible à quarante-deux lignes.",
+      "wikipedia": "Johannes Gutenberg"
+    },
+    {
+      "id": "sciences-015",
+      "difficulty": 1,
+      "question": "Quel organe en forme de haricot filtre le sang pour produire l'urine ?",
+      "answer": "rein",
+      "accept": [
+        "reins"
+      ],
+      "choices": [
+        "foie",
+        "rate",
+        "pancréas"
+      ],
+      "explanation": "L'être humain possède deux reins ; chacun contient environ un million de petites unités filtrantes appelées néphrons.",
+      "wikipedia": "Rein"
+    },
+    {
+      "id": "sciences-016",
+      "difficulty": 1,
+      "question": "Combien de planètes compte le Système solaire depuis le déclassement de Pluton ?",
+      "answer": "huit",
+      "accept": [
+        "8"
+      ],
+      "choices": [
+        "neuf",
+        "sept",
+        "dix"
+      ],
+      "explanation": "Ce sont Mercure, Vénus, la Terre, Mars, Jupiter, Saturne, Uranus et Neptune ; les quatre premières sont rocheuses, les quatre suivantes géantes.",
+      "wikipedia": "Système solaire"
+    },
+    {
+      "id": "sciences-017",
+      "difficulty": 1,
+      "question": "Quel savant grec de Syracuse se serait écrié « Eurêka ! » en sortant de son bain ?",
+      "answer": "Archimède",
+      "accept": [
+        "Archimede"
+      ],
+      "choices": [
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ],
+      "explanation": "Il venait de comprendre comment vérifier si la couronne du roi Hiéron était en or pur ; il mourut lors de la prise de Syracuse par les Romains.",
+      "wikipedia": "Archimède"
+    },
+    {
+      "id": "sciences-018",
+      "difficulty": 1,
+      "question": "Quel phénomène météorologique est un tourbillon de vent très violent descendant d'un nuage d'orage jusqu'au sol ?",
+      "answer": "tornade",
+      "accept": [
+        "tornades"
+      ],
+      "choices": [
+        "mousson",
+        "blizzard",
+        "sirocco"
+      ],
+      "explanation": "Les tornades sont particulièrement fréquentes dans le centre des États-Unis, dans une région surnommée Tornado Alley.",
+      "wikipedia": "Tornade"
+    },
+    {
+      "id": "sciences-019",
+      "difficulty": 1,
+      "question": "Quelle scientifique a reçu deux prix Nobel, l'un en physique et l'autre en chimie ?",
+      "answer": "Marie Curie",
+      "accept": [
+        "Curie",
+        "Marie Skłodowska-Curie"
+      ],
+      "choices": [
+        "Irène Joliot-Curie",
+        "Lise Meitner",
+        "Rosalind Franklin"
+      ],
+      "explanation": "D'origine polonaise, elle découvrit le polonium et le radium ; elle fut aussi la première femme professeure à la Sorbonne.",
+      "wikipedia": "Marie Curie"
+    },
+    {
+      "id": "sciences-020",
+      "difficulty": 1,
+      "question": "Quelle est la valeur du nombre pi arrondie à deux décimales ?",
+      "answer": "3,14",
+      "accept": [
+        "3.14"
+      ],
+      "choices": [
+        "3,16",
+        "3,12",
+        "3,41"
+      ],
+      "explanation": "Pi est le rapport entre la circonférence d'un cercle et son diamètre ; c'est un nombre irrationnel dont les décimales ne se répètent jamais.",
+      "wikipedia": "Pi"
+    },
+    {
+      "id": "sciences-021",
+      "difficulty": 1,
+      "question": "Combien de degrés mesure la somme des angles d'un triangle en géométrie euclidienne ?",
+      "answer": "180",
+      "accept": [
+        "180°",
+        "cent quatre-vingts"
+      ],
+      "choices": [
+        "90",
+        "270",
+        "360"
+      ],
+      "explanation": "Cette propriété ne vaut que dans un plan : sur une sphère, la somme des angles d'un triangle dépasse toujours 180 degrés.",
+      "wikipedia": "Triangle"
+    },
+    {
+      "id": "sciences-022",
+      "difficulty": 1,
+      "question": "Quel inventeur d'origine écossaise a déposé en 1876 le brevet du téléphone ?",
+      "answer": "Alexander Graham Bell",
+      "accept": [
+        "Graham Bell",
+        "Bell"
+      ],
+      "choices": [
+        "Thomas Edison",
+        "Samuel Morse",
+        "Nikola Tesla"
+      ],
+      "explanation": "Bell s'intéressait d'abord à l'enseignement aux sourds ; l'unité logarithmique du bel, et donc le décibel, a été nommée en son honneur.",
+      "wikipedia": "Alexander Graham Bell"
+    },
+    {
+      "id": "sciences-023",
+      "difficulty": 1,
+      "question": "Quel gaz forme dans la stratosphère une couche protégeant la Terre des rayons ultraviolets ?",
+      "answer": "ozone",
+      "accept": [
+        "couche d'ozone",
+        "O3"
+      ],
+      "choices": [
+        "azote",
+        "hélium",
+        "méthane"
+      ],
+      "explanation": "La molécule d'ozone compte trois atomes d'oxygène ; le protocole de Montréal de 1987 a interdit les CFC qui détruisaient cette couche.",
+      "wikipedia": "Couche d'ozone"
+    },
+    {
+      "id": "sciences-024",
+      "difficulty": 1,
+      "question": "Quel Français, aveugle depuis l'enfance, a inventé un système d'écriture tactile à points en relief ?",
+      "answer": "Louis Braille",
+      "accept": [
+        "Braille"
+      ],
+      "choices": [
+        "Valentin Haüy",
+        "Louis Pasteur",
+        "Charles Barbier"
+      ],
+      "explanation": "Devenu aveugle après un accident dans l'atelier de son père, il mit au point son alphabet à six points alors qu'il n'avait qu'une quinzaine d'années.",
+      "wikipedia": "Louis Braille"
+    },
+    {
+      "id": "sciences-025",
+      "difficulty": 1,
+      "question": "Quel groupe sanguin est qualifié de donneur universel pour les transfusions de globules rouges ?",
+      "answer": "O négatif",
+      "accept": [
+        "O-",
+        "O−",
+        "O negatif"
+      ],
+      "choices": [
+        "AB positif",
+        "A négatif",
+        "B positif"
+      ],
+      "explanation": "Ses globules rouges ne portent ni antigène A, ni B, ni Rhésus ; à l'inverse, le groupe AB positif est dit receveur universel.",
+      "wikipedia": "Groupe sanguin"
+    },
+    {
+      "id": "sciences-026",
+      "difficulty": 1,
+      "question": "Quel mathématicien grec a donné son nom au théorème liant les côtés d'un triangle rectangle ?",
+      "answer": "Pythagore",
+      "accept": [
+        "théorème de Pythagore"
+      ],
+      "choices": [
+        "Thalès",
+        "Euclide",
+        "Archimède"
+      ],
+      "explanation": "Le carré de l'hypoténuse est égal à la somme des carrés des deux autres côtés ; cette relation était déjà connue des Babyloniens.",
+      "wikipedia": "Théorème de Pythagore"
+    },
+    {
+      "id": "sciences-027",
+      "difficulty": 1,
+      "question": "Quel système de numération n'utilise que les chiffres 0 et 1, base de l'informatique ?",
+      "answer": "binaire",
+      "accept": [
+        "système binaire",
+        "base 2"
+      ],
+      "choices": [
+        "décimal",
+        "hexadécimal",
+        "octal"
+      ],
+      "explanation": "Le philosophe et mathématicien Leibniz en a donné une description détaillée au début du XVIIIe siècle, bien avant les ordinateurs.",
+      "wikipedia": "Système binaire"
+    },
+    {
+      "id": "sciences-028",
+      "difficulty": 1,
+      "question": "Quelle unité de quantité d'information numérique correspond à huit bits ?",
+      "answer": "octet",
+      "accept": [
+        "byte"
+      ],
+      "choices": [
+        "pixel",
+        "baud",
+        "hertz"
+      ],
+      "explanation": "En anglais, l'octet se dit byte ; un kilooctet vaut mille octets, tandis que le kibioctet en vaut 1 024.",
+      "wikipedia": "Octet"
+    },
+    {
+      "id": "sciences-029",
+      "difficulty": 1,
+      "question": "Quel bactériologiste écossais a découvert la pénicilline en 1928 ?",
+      "answer": "Alexander Fleming",
+      "accept": [
+        "Fleming"
+      ],
+      "choices": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Joseph Lister"
+      ],
+      "explanation": "Il remarqua par hasard qu'une moisissure avait tué les bactéries d'une boîte de culture oubliée ; il partagea le prix Nobel de médecine en 1945.",
+      "wikipedia": "Alexander Fleming"
+    },
+    {
+      "id": "sciences-030",
+      "difficulty": 1,
+      "question": "Quel pigment donne leur couleur verte aux feuilles des plantes ?",
+      "answer": "chlorophylle",
+      "accept": [
+        "chlorophylles"
+      ],
+      "choices": [
+        "carotène",
+        "mélanine",
+        "anthocyane"
+      ],
+      "explanation": "Elle capte l'énergie lumineuse nécessaire à la photosynthèse ; à l'automne, sa dégradation laisse apparaître les pigments jaunes et orangés.",
+      "wikipedia": "Chlorophylle"
+    },
+    {
+      "id": "sciences-031",
+      "difficulty": 1,
+      "question": "Quelle planète du Système solaire est célèbre pour ses anneaux spectaculaires, visibles au télescope ?",
+      "answer": "Saturne",
+      "accept": [],
+      "choices": [
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "explanation": "Ses anneaux sont formés de milliards de fragments de glace et de roche ; Saturne est si peu dense qu'elle flotterait sur l'eau.",
+      "wikipedia": "Saturne (planète)"
+    },
+    {
+      "id": "sciences-032",
+      "difficulty": 1,
+      "question": "Quel cosmonaute soviétique est devenu en 1961 le premier homme à voyager dans l'espace ?",
+      "answer": "Youri Gagarine",
+      "accept": [
+        "Gagarine",
+        "Iouri Gagarine"
+      ],
+      "choices": [
+        "Alexeï Leonov",
+        "Guerman Titov",
+        "Valentina Terechkova"
+      ],
+      "explanation": "À bord du vaisseau Vostok 1, il effectua une seule orbite autour de la Terre en un peu moins de deux heures.",
+      "wikipedia": "Youri Gagarine"
+    },
+    {
+      "id": "sciences-033",
+      "difficulty": 1,
+      "question": "Quel astronaute américain fut le premier homme à poser le pied sur la Lune ?",
+      "answer": "Neil Armstrong",
+      "accept": [
+        "Armstrong"
+      ],
+      "choices": [
+        "Buzz Aldrin",
+        "Michael Collins",
+        "John Glenn"
+      ],
+      "explanation": "Il prononça la phrase « C'est un petit pas pour l'homme, un bond de géant pour l'humanité » lors de la mission Apollo 11.",
+      "wikipedia": "Neil Armstrong"
+    },
+    {
+      "id": "sciences-034",
+      "difficulty": 1,
+      "question": "Quelle échelle, du nom d'un sismologue américain, sert à exprimer la magnitude des séismes ?",
+      "answer": "Richter",
+      "accept": [
+        "échelle de Richter"
+      ],
+      "choices": [
+        "Mercalli",
+        "Beaufort",
+        "Mohs"
+      ],
+      "explanation": "Charles Richter l'a définie en 1935 ; elle est logarithmique, chaque degré correspondant à une amplitude dix fois plus grande.",
+      "wikipedia": "Échelle de Richter"
+    },
+    {
+      "id": "sciences-035",
+      "difficulty": 1,
+      "question": "Quel chimiste suédois, inventeur de la dynamite, a légué sa fortune pour créer des prix internationaux ?",
+      "answer": "Alfred Nobel",
+      "accept": [
+        "Nobel"
+      ],
+      "choices": [
+        "Anders Celsius",
+        "Carl von Linné",
+        "Jöns Jacob Berzelius"
+      ],
+      "explanation": "Le premier prix Nobel a été remis en 1901 ; un élément chimique synthétique, le nobélium, porte aussi son nom.",
+      "wikipedia": "Alfred Nobel"
+    },
+    {
+      "id": "sciences-036",
+      "difficulty": 1,
+      "question": "Quel gaz plus léger que l'air est utilisé pour gonfler les ballons de baudruche qui s'envolent ?",
+      "answer": "hélium",
+      "accept": [
+        "helium"
+      ],
+      "choices": [
+        "néon",
+        "argon",
+        "azote"
+      ],
+      "explanation": "Son nom vient du grec hélios, le soleil, car il fut d'abord détecté en 1868 dans le spectre de la lumière solaire.",
+      "wikipedia": "Hélium"
+    },
+    {
+      "id": "sciences-037",
+      "difficulty": 1,
+      "question": "Quel astre a perdu en 2006 son statut de planète pour devenir une planète naine ?",
+      "answer": "Pluton",
+      "accept": [],
+      "choices": [
+        "Cérès",
+        "Éris",
+        "Charon"
+      ],
+      "explanation": "Découvert en 1930 par l'Américain Clyde Tombaugh, il a été survolé en 2015 par la sonde New Horizons.",
+      "wikipedia": "Pluton (planète naine)"
+    },
+    {
+      "id": "sciences-038",
+      "difficulty": 1,
+      "question": "Quel télescope spatial lancé en 1990 porte le nom d'un astronome américain ?",
+      "answer": "Hubble",
+      "accept": [
+        "télescope spatial Hubble",
+        "Edwin Hubble"
+      ],
+      "choices": [
+        "James Webb",
+        "Kepler",
+        "Spitzer"
+      ],
+      "explanation": "Edwin Hubble avait montré que l'Univers est en expansion ; le télescope a d'abord souffert d'un défaut de miroir corrigé en 1993.",
+      "wikipedia": "Hubble (télescope spatial)"
+    },
+    {
+      "id": "sciences-039",
+      "difficulty": 1,
+      "question": "Quelle unité de distance correspond au chemin parcouru par un photon dans le vide en un an ?",
+      "answer": "année-lumière",
+      "accept": [
+        "annee-lumiere",
+        "année lumière"
+      ],
+      "choices": [
+        "parsec",
+        "unité astronomique",
+        "mille marin"
+      ],
+      "explanation": "Elle vaut près de dix mille milliards de kilomètres ; malgré son nom, il s'agit bien d'une distance et non d'une durée.",
+      "wikipedia": "Année-lumière"
+    },
+    {
+      "id": "sciences-040",
+      "difficulty": 1,
+      "question": "Quel sigle désigne la molécule en double hélice qui porte l'information génétique ?",
+      "answer": "ADN",
+      "accept": [
+        "acide désoxyribonucléique",
+        "DNA"
+      ],
+      "choices": [
+        "ARN",
+        "ATP",
+        "OGM"
+      ],
+      "explanation": "Sa structure en double hélice a été décrite en 1953 par James Watson et Francis Crick, à partir de travaux de Rosalind Franklin.",
+      "wikipedia": "Acide désoxyribonucléique"
+    },
+    {
+      "id": "sciences-041",
+      "difficulty": 1,
+      "question": "Quelle molécule, produite par la peau exposée au soleil, aide l'organisme à fixer le calcium ?",
+      "answer": "vitamine D",
+      "accept": [
+        "vitamine d"
+      ],
+      "choices": [
+        "vitamine C",
+        "vitamine A",
+        "vitamine B12"
+      ],
+      "explanation": "Sa carence provoque le rachitisme chez l'enfant ; on la trouve aussi en abondance dans l'huile de foie de morue.",
+      "wikipedia": "Vitamine D"
+    },
+    {
+      "id": "sciences-042",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les concrétions calcaires qui pendent du plafond des grottes ?",
+      "answer": "stalactites",
+      "accept": [
+        "stalactite"
+      ],
+      "choices": [
+        "stalagmites",
+        "géodes",
+        "fistuleuses"
+      ],
+      "explanation": "Elles se forment goutte après goutte ; les stalagmites, elles, montent du sol, et leur jonction forme une colonne.",
+      "wikipedia": "Stalactite"
+    },
+    {
+      "id": "sciences-043",
+      "difficulty": 1,
+      "question": "Quel langage de balisage, défini par un sigle anglais, sert à structurer les pages web ?",
+      "answer": "HTML",
+      "accept": [
+        "Hypertext Markup Language"
+      ],
+      "choices": [
+        "CSS",
+        "XML",
+        "PHP"
+      ],
+      "explanation": "Il a été conçu par Tim Berners-Lee au CERN ; la mise en forme visuelle des pages est confiée à un autre langage, le CSS.",
+      "wikipedia": "Hypertext Markup Language"
+    },
+    {
+      "id": "sciences-044",
+      "difficulty": 1,
+      "question": "Quels frères lyonnais ont présenté au public le Cinématographe en 1895 ?",
+      "answer": "Lumière",
+      "accept": [
+        "frères Lumière",
+        "Auguste et Louis Lumière"
+      ],
+      "choices": [
+        "Pathé",
+        "Montgolfier",
+        "Gaumont"
+      ],
+      "explanation": "Auguste et Louis Lumière organisèrent la première projection payante au Salon indien du Grand Café, à Paris, le 28 décembre 1895.",
+      "wikipedia": "Auguste et Louis Lumière"
+    },
+    {
+      "id": "sciences-045",
+      "difficulty": 2,
+      "question": "Quel est le symbole chimique du sodium dans la classification périodique ?",
+      "answer": "Na",
+      "accept": [],
+      "choices": [
+        "So",
+        "Sd",
+        "Sn"
+      ],
+      "explanation": "Ce symbole vient de son nom latin natrium ; très réactif, le sodium pur s'enflamme au contact de l'eau.",
+      "wikipedia": "Sodium"
+    },
+    {
+      "id": "sciences-046",
+      "difficulty": 2,
+      "question": "Quel homme politique et savant américain a inventé le paratonnerre au XVIIIe siècle ?",
+      "answer": "Benjamin Franklin",
+      "accept": [
+        "Franklin"
+      ],
+      "choices": [
+        "Thomas Jefferson",
+        "George Washington",
+        "Thomas Edison"
+      ],
+      "explanation": "Il démontra la nature électrique de la foudre grâce à sa célèbre expérience du cerf-volant ; il inventa aussi les verres bifocaux.",
+      "wikipedia": "Benjamin Franklin"
+    },
+    {
+      "id": "sciences-047",
+      "difficulty": 2,
+      "question": "Quelle unité du Système international mesure la résistance électrique, notée par la lettre oméga ?",
+      "answer": "ohm",
+      "accept": [
+        "ohms"
+      ],
+      "choices": [
+        "volt",
+        "farad",
+        "siemens"
+      ],
+      "explanation": "Elle honore le physicien allemand Georg Ohm, qui établit la relation U = R × I entre tension, résistance et intensité.",
+      "wikipedia": "Ohm"
+    },
+    {
+      "id": "sciences-048",
+      "difficulty": 2,
+      "question": "Quelle unité du Système international sert à mesurer une fréquence, c'est-à-dire un nombre d'oscillations par seconde ?",
+      "answer": "hertz",
+      "accept": [
+        "Hz"
+      ],
+      "choices": [
+        "watt",
+        "décibel",
+        "becquerel"
+      ],
+      "explanation": "Elle porte le nom de l'Allemand Heinrich Hertz, qui démontra expérimentalement l'existence des ondes électromagnétiques.",
+      "wikipedia": "Hertz"
+    },
+    {
+      "id": "sciences-049",
+      "difficulty": 2,
+      "question": "Quel chimiste russe a établi en 1869 la classification périodique des éléments ?",
+      "answer": "Dmitri Mendeleïev",
+      "accept": [
+        "Mendeleïev",
+        "Mendeleiev",
+        "Mendeleev"
+      ],
+      "choices": [
+        "Alexandre Borodine",
+        "Mikhaïl Lomonossov",
+        "Ivan Pavlov"
+      ],
+      "explanation": "Il laissa des cases vides pour des éléments encore inconnus et prédit leurs propriétés ; l'élément 101 s'appelle le mendélévium.",
+      "wikipedia": "Dmitri Mendeleïev"
+    },
+    {
+      "id": "sciences-050",
+      "difficulty": 2,
+      "question": "Quel chimiste français, guillotiné en 1794, est considéré comme le père de la chimie moderne ?",
+      "answer": "Lavoisier",
+      "accept": [
+        "Antoine Lavoisier",
+        "Antoine Laurent Lavoisier"
+      ],
+      "choices": [
+        "Berthollet",
+        "Gay-Lussac",
+        "Chaptal"
+      ],
+      "explanation": "Il identifia le rôle de l'oxygène dans la combustion ; il était aussi fermier général, ce qui lui valut d'être exécuté sous la Terreur.",
+      "wikipedia": "Antoine Lavoisier"
+    },
+    {
+      "id": "sciences-051",
+      "difficulty": 2,
+      "question": "Quel minuscule os de l'oreille moyenne est le plus petit du corps humain ?",
+      "answer": "étrier",
+      "accept": [
+        "etrier",
+        "stapes"
+      ],
+      "choices": [
+        "marteau",
+        "enclume",
+        "coccyx"
+      ],
+      "explanation": "Avec le marteau et l'enclume, il forme la chaîne des osselets qui transmet les vibrations du tympan jusqu'à l'oreille interne.",
+      "wikipedia": "Oreille moyenne"
+    },
+    {
+      "id": "sciences-052",
+      "difficulty": 2,
+      "question": "Quelle glande digestive sécrète l'insuline qui régule le taux de sucre dans le sang ?",
+      "answer": "pancréas",
+      "accept": [
+        "pancreas"
+      ],
+      "choices": [
+        "foie",
+        "thyroïde",
+        "rate"
+      ],
+      "explanation": "L'insuline est produite par des amas de cellules appelés îlots de Langerhans ; son insuffisance est à l'origine du diabète.",
+      "wikipedia": "Pancréas"
+    },
+    {
+      "id": "sciences-053",
+      "difficulty": 2,
+      "question": "Quel astronome polonais a proposé au XVIe siècle que la Terre tourne autour du Soleil ?",
+      "answer": "Nicolas Copernic",
+      "accept": [
+        "Copernic"
+      ],
+      "choices": [
+        "Tycho Brahe",
+        "Johannes Kepler",
+        "Ptolémée"
+      ],
+      "explanation": "Son traité Des révolutions des sphères célestes ne parut qu'en 1543, l'année de sa mort, mettant fin au modèle géocentrique de Ptolémée.",
+      "wikipedia": "Nicolas Copernic"
+    },
+    {
+      "id": "sciences-054",
+      "difficulty": 2,
+      "question": "Quel savant italien découvrit en 1610 quatre satellites de Jupiter grâce à sa lunette ?",
+      "answer": "Galilée",
+      "accept": [
+        "Galileo Galilei",
+        "Galilee"
+      ],
+      "choices": [
+        "Giordano Bruno",
+        "Torricelli",
+        "Cassini"
+      ],
+      "explanation": "Io, Europe, Ganymède et Callisto sont appelés satellites galiléens ; son soutien à l'héliocentrisme lui valut un procès en 1633.",
+      "wikipedia": "Galilée (savant)"
+    },
+    {
+      "id": "sciences-055",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le côté opposé à l'angle droit dans un triangle rectangle ?",
+      "answer": "hypoténuse",
+      "accept": [
+        "hypotenuse"
+      ],
+      "choices": [
+        "médiane",
+        "bissectrice",
+        "cathète"
+      ],
+      "explanation": "C'est toujours le plus long côté du triangle rectangle ; les deux autres côtés sont parfois appelés cathètes.",
+      "wikipedia": "Hypoténuse"
+    },
+    {
+      "id": "sciences-056",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un polygone à huit côtés, forme du panneau routier stop ?",
+      "answer": "octogone",
+      "accept": [
+        "octogones"
+      ],
+      "choices": [
+        "hexagone",
+        "décagone",
+        "heptagone"
+      ],
+      "explanation": "Le panneau stop est un octogone rouge dans la plupart des pays ; sa forme unique permet de le reconnaître même de dos.",
+      "wikipedia": "Octogone"
+    },
+    {
+      "id": "sciences-057",
+      "difficulty": 2,
+      "question": "Quel philosophe et mathématicien français a donné son nom aux coordonnées cartésiennes ?",
+      "answer": "René Descartes",
+      "accept": [
+        "Descartes"
+      ],
+      "choices": [
+        "Blaise Pascal",
+        "Pierre de Fermat",
+        "Marin Mersenne"
+      ],
+      "explanation": "L'adjectif cartésien vient de Cartesius, forme latine de son nom ; il fonda la géométrie analytique dans un appendice du Discours de la méthode.",
+      "wikipedia": "Coordonnées cartésiennes"
+    },
+    {
+      "id": "sciences-058",
+      "difficulty": 2,
+      "question": "Comment s'appelle la machine à calculer mécanique conçue au XVIIe siècle par l'auteur des Pensées ?",
+      "answer": "Pascaline",
+      "accept": [
+        "la Pascaline"
+      ],
+      "choices": [
+        "Abaque",
+        "Boulier",
+        "Arithmomètre"
+      ],
+      "explanation": "Blaise Pascal l'imagina à dix-neuf ans pour aider son père, collecteur d'impôts ; elle effectuait additions et soustractions grâce à des roues dentées.",
+      "wikipedia": "Pascaline"
+    },
+    {
+      "id": "sciences-059",
+      "difficulty": 2,
+      "question": "Quel mathématicien britannique a contribué à casser le code Enigma pendant la Seconde Guerre mondiale ?",
+      "answer": "Alan Turing",
+      "accept": [
+        "Turing"
+      ],
+      "choices": [
+        "Charles Babbage",
+        "John von Neumann",
+        "Claude Shannon"
+      ],
+      "explanation": "Il travaillait à Bletchley Park ; il est aussi l'inventeur d'un test censé déterminer si une machine peut penser.",
+      "wikipedia": "Alan Turing"
+    },
+    {
+      "id": "sciences-060",
+      "difficulty": 2,
+      "question": "Quel informaticien britannique a inventé le World Wide Web au CERN ?",
+      "answer": "Tim Berners-Lee",
+      "accept": [
+        "Berners-Lee"
+      ],
+      "choices": [
+        "Vinton Cerf",
+        "Bill Gates",
+        "Linus Torvalds"
+      ],
+      "explanation": "Il a proposé ce système de documents reliés par des liens hypertextes en 1989 et a choisi de ne pas le breveter.",
+      "wikipedia": "Tim Berners-Lee"
+    },
+    {
+      "id": "sciences-061",
+      "difficulty": 2,
+      "question": "Quel immense volcan martien est souvent cité comme le plus haut relief connu du Système solaire ?",
+      "answer": "Olympus Mons",
+      "accept": [],
+      "choices": [
+        "Mauna Kea",
+        "Valles Marineris",
+        "Tharsis Montes"
+      ],
+      "explanation": "Ce volcan bouclier culmine à plus de vingt kilomètres au-dessus de la plaine environnante, soit plus du double de l'Everest.",
+      "wikipedia": "Olympus Mons"
+    },
+    {
+      "id": "sciences-062",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'explosion d'une étoile en fin de vie, qui peut briller autant qu'une galaxie entière ?",
+      "answer": "supernova",
+      "accept": [
+        "supernovae",
+        "supernovas"
+      ],
+      "choices": [
+        "pulsar",
+        "quasar",
+        "nébuleuse"
+      ],
+      "explanation": "Les éléments lourds dispersés par ces explosions ensemencent l'espace ; le fer de notre sang a été forgé au cœur des étoiles.",
+      "wikipedia": "Supernova"
+    },
+    {
+      "id": "sciences-063",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le point de la surface terrestre situé à la verticale du foyer d'un séisme ?",
+      "answer": "épicentre",
+      "accept": [
+        "epicentre"
+      ],
+      "choices": [
+        "hypocentre",
+        "faille",
+        "cratère"
+      ],
+      "explanation": "Le foyer lui-même, en profondeur, est aussi appelé hypocentre ; c'est généralement près de l'épicentre que les dégâts sont les plus importants.",
+      "wikipedia": "Épicentre"
+    },
+    {
+      "id": "sciences-064",
+      "difficulty": 2,
+      "question": "Quel supercontinent réunissait la quasi-totalité des terres émergées il y a environ 300 millions d'années ?",
+      "answer": "Pangée",
+      "accept": [
+        "Pangee",
+        "Pangaea"
+      ],
+      "choices": [
+        "Gondwana",
+        "Laurasie",
+        "Rodinia"
+      ],
+      "explanation": "Son nom signifie « toute la terre » en grec ; elle s'est ensuite fragmentée en Laurasie au nord et Gondwana au sud.",
+      "wikipedia": "Pangée"
+    },
+    {
+      "id": "sciences-065",
+      "difficulty": 2,
+      "question": "Quel nuage d'orage à grand développement vertical prend souvent la forme d'une enclume ?",
+      "answer": "cumulonimbus",
+      "accept": [],
+      "choices": [
+        "cirrus",
+        "stratus",
+        "altocumulus"
+      ],
+      "explanation": "Il peut s'élever jusqu'à plus de dix kilomètres d'altitude et produire grêle, foudre et rafales violentes.",
+      "wikipedia": "Cumulonimbus"
+    },
+    {
+      "id": "sciences-066",
+      "difficulty": 2,
+      "question": "Quel instrument à coupelles tournantes mesure la vitesse du vent ?",
+      "answer": "anémomètre",
+      "accept": [
+        "anemometre"
+      ],
+      "choices": [
+        "baromètre",
+        "hygromètre",
+        "pluviomètre"
+      ],
+      "explanation": "Son nom vient du grec anemos, le vent ; il est souvent associé à une girouette qui indique la direction.",
+      "wikipedia": "Anémomètre"
+    },
+    {
+      "id": "sciences-067",
+      "difficulty": 2,
+      "question": "Quel physicien italien a inventé la pile électrique vers 1800 ?",
+      "answer": "Alessandro Volta",
+      "accept": [
+        "Volta"
+      ],
+      "choices": [
+        "Luigi Galvani",
+        "Enrico Fermi",
+        "Guglielmo Marconi"
+      ],
+      "explanation": "Sa pile empilait des disques de zinc et de cuivre séparés par du carton imbibé de saumure ; l'unité de tension, le volt, lui rend hommage.",
+      "wikipedia": "Alessandro Volta"
+    },
+    {
+      "id": "sciences-068",
+      "difficulty": 2,
+      "question": "Quel ingénieur écossais a perfectionné la machine à vapeur et donné son nom à l'unité de puissance ?",
+      "answer": "James Watt",
+      "accept": [
+        "Watt"
+      ],
+      "choices": [
+        "Thomas Newcomen",
+        "George Stephenson",
+        "Denis Papin"
+      ],
+      "explanation": "Son ajout d'un condenseur séparé rendit la machine bien plus économe en charbon, un moteur décisif de la révolution industrielle.",
+      "wikipedia": "James Watt"
+    },
+    {
+      "id": "sciences-069",
+      "difficulty": 2,
+      "question": "Quel physicien allemand a découvert en 1895 les rayons X ?",
+      "answer": "Wilhelm Röntgen",
+      "accept": [
+        "Röntgen",
+        "Roentgen",
+        "Rontgen"
+      ],
+      "choices": [
+        "Heinrich Hertz",
+        "Max Planck",
+        "Henri Becquerel"
+      ],
+      "explanation": "La première radiographie célèbre montre la main de son épouse ; il reçut en 1901 le tout premier prix Nobel de physique.",
+      "wikipedia": "Wilhelm Röntgen"
+    },
+    {
+      "id": "sciences-070",
+      "difficulty": 2,
+      "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre, devant l'oxygène ?",
+      "answer": "azote",
+      "accept": [
+        "diazote",
+        "N2"
+      ],
+      "choices": [
+        "argon",
+        "dioxyde de carbone",
+        "hydrogène"
+      ],
+      "explanation": "Le diazote représente environ 78 % de l'air sec ; Lavoisier l'avait nommé azote, « privé de vie », car il ne permet pas la respiration.",
+      "wikipedia": "Atmosphère terrestre"
+    },
+    {
+      "id": "sciences-071",
+      "difficulty": 2,
+      "question": "Quel métal lourd et toxique a pour symbole chimique Pb ?",
+      "answer": "plomb",
+      "accept": [],
+      "choices": [
+        "platine",
+        "palladium",
+        "phosphore"
+      ],
+      "explanation": "Le symbole vient du latin plumbum, qui a aussi donné le mot plombier, car les canalisations étaient autrefois en plomb.",
+      "wikipedia": "Plomb"
+    },
+    {
+      "id": "sciences-072",
+      "difficulty": 2,
+      "question": "Quelle mathématicienne britannique est considérée comme la première programmeuse de l'histoire ?",
+      "answer": "Ada Lovelace",
+      "accept": [
+        "Lovelace"
+      ],
+      "choices": [
+        "Grace Hopper",
+        "Mary Somerville",
+        "Emmy Noether"
+      ],
+      "explanation": "Fille du poète Lord Byron, elle écrivit un algorithme pour la machine analytique de Charles Babbage ; un langage informatique porte son prénom.",
+      "wikipedia": "Ada Lovelace"
+    },
+    {
+      "id": "sciences-073",
+      "difficulty": 2,
+      "question": "Quel physicien danois a proposé en 1913 un modèle d'atome à orbites électroniques quantifiées ?",
+      "answer": "Niels Bohr",
+      "accept": [
+        "Bohr"
+      ],
+      "choices": [
+        "Ernest Rutherford",
+        "Werner Heisenberg",
+        "Max Born"
+      ],
+      "explanation": "Il reçut le prix Nobel de physique en 1922 ; son fils Aage Bohr obtint à son tour ce prix en 1975.",
+      "wikipedia": "Niels Bohr"
+    },
+    {
+      "id": "sciences-074",
+      "difficulty": 2,
+      "question": "Quel nom porte le changement de fréquence perçu quand une sirène d'ambulance s'approche puis s'éloigne ?",
+      "answer": "effet Doppler",
+      "accept": [
+        "Doppler",
+        "effet Doppler-Fizeau"
+      ],
+      "choices": [
+        "effet Compton",
+        "effet Joule",
+        "effet Larsen"
+      ],
+      "explanation": "Décrit par l'Autrichien Christian Doppler, il permet aussi aux astronomes de mesurer la vitesse des étoiles qui s'éloignent de nous.",
+      "wikipedia": "Effet Doppler"
+    },
+    {
+      "id": "sciences-075",
+      "difficulty": 2,
+      "question": "Quelle protéine contenue dans les globules rouges transporte l'oxygène dans le sang ?",
+      "answer": "hémoglobine",
+      "accept": [
+        "hemoglobine"
+      ],
+      "choices": [
+        "myoglobine",
+        "kératine",
+        "insuline"
+      ],
+      "explanation": "Elle contient du fer, qui donne au sang sa couleur rouge ; le monoxyde de carbone s'y fixe plus fortement que l'oxygène, d'où sa toxicité.",
+      "wikipedia": "Hémoglobine"
+    },
+    {
+      "id": "sciences-076",
+      "difficulty": 2,
+      "question": "Quelle maladie due à une carence en vitamine C frappait les marins lors des longues traversées ?",
+      "answer": "scorbut",
+      "accept": [],
+      "choices": [
+        "béribéri",
+        "rachitisme",
+        "pellagre"
+      ],
+      "explanation": "Au XVIIIe siècle, le médecin écossais James Lind montra que les agrumes la prévenaient ; la Royal Navy distribua ensuite du jus de citron.",
+      "wikipedia": "Scorbut"
+    },
+    {
+      "id": "sciences-077",
+      "difficulty": 2,
+      "question": "À combien de degrés Celsius correspond le zéro absolu, température la plus basse possible ?",
+      "answer": "-273,15",
+      "accept": [
+        "−273,15",
+        "-273,15 °C",
+        "-273",
+        "-273.15"
+      ],
+      "choices": [
+        "-100",
+        "-459,67",
+        "-373,15"
+      ],
+      "explanation": "Il correspond à 0 kelvin ; à cette température théorique, inaccessible en pratique, l'agitation thermique des particules serait minimale.",
+      "wikipedia": "Zéro absolu"
+    },
+    {
+      "id": "sciences-078",
+      "difficulty": 2,
+      "question": "Quel physicien britannique a donné son nom à la cage métallique qui protège des champs électriques ?",
+      "answer": "Michael Faraday",
+      "accept": [
+        "Faraday"
+      ],
+      "choices": [
+        "James Clerk Maxwell",
+        "Lord Kelvin",
+        "Joseph Priestley"
+      ],
+      "explanation": "C'est grâce à cet effet qu'une voiture protège ses passagers de la foudre ; Faraday découvrit aussi l'induction électromagnétique.",
+      "wikipedia": "Michael Faraday"
+    },
+    {
+      "id": "sciences-079",
+      "difficulty": 2,
+      "question": "Quel physicien français a démontré en 1851 la rotation de la Terre grâce à un pendule installé au Panthéon ?",
+      "answer": "Léon Foucault",
+      "accept": [
+        "Foucault"
+      ],
+      "choices": [
+        "Hippolyte Fizeau",
+        "François Arago",
+        "André-Marie Ampère"
+      ],
+      "explanation": "Le plan d'oscillation du pendule tourne lentement au fil des heures ; Foucault inventa aussi le gyroscope.",
+      "wikipedia": "Léon Foucault"
+    },
+    {
+      "id": "sciences-080",
+      "difficulty": 2,
+      "question": "Quelle comète périodique, revenant environ tous les 76 ans, porte le nom d'un astronome anglais ?",
+      "answer": "Halley",
+      "accept": [
+        "comète de Halley",
+        "Edmond Halley"
+      ],
+      "choices": [
+        "Hale-Bopp",
+        "Encke",
+        "Shoemaker-Levy"
+      ],
+      "explanation": "Edmond Halley prédit son retour pour 1758 ; elle figure sans doute sur la tapisserie de Bayeux, apparue en 1066.",
+      "wikipedia": "Comète de Halley"
+    },
+    {
+      "id": "sciences-081",
+      "difficulty": 2,
+      "question": "Quelle est l'étoile la plus brillante du ciel nocturne, située dans la constellation du Grand Chien ?",
+      "answer": "Sirius",
+      "accept": [],
+      "choices": [
+        "Véga",
+        "Bételgeuse",
+        "Arcturus"
+      ],
+      "explanation": "Les Égyptiens observaient son lever héliaque pour annoncer la crue du Nil ; elle est surnommée l'étoile du Chien.",
+      "wikipedia": "Sirius"
+    },
+    {
+      "id": "sciences-082",
+      "difficulty": 2,
+      "question": "Quel astronome allemand a énoncé les trois lois décrivant le mouvement des planètes ?",
+      "answer": "Johannes Kepler",
+      "accept": [
+        "Kepler"
+      ],
+      "choices": [
+        "Tycho Brahe",
+        "Nicolas Copernic",
+        "Christian Huygens"
+      ],
+      "explanation": "Sa première loi établit que les orbites des planètes sont des ellipses dont le Soleil occupe un foyer, et non des cercles.",
+      "wikipedia": "Johannes Kepler"
+    },
+    {
+      "id": "sciences-083",
+      "difficulty": 2,
+      "question": "Quel inventeur américain, installé à Menlo Park, a mis au point le phonographe ?",
+      "answer": "Thomas Edison",
+      "accept": [
+        "Edison"
+      ],
+      "choices": [
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "George Westinghouse"
+      ],
+      "explanation": "Il déposa plus d'un millier de brevets ; la première phrase enregistrée sur son phonographe fut une comptine, « Mary Had a Little Lamb ».",
+      "wikipedia": "Thomas Edison"
+    },
+    {
+      "id": "sciences-084",
+      "difficulty": 2,
+      "question": "Quelle unité anglo-saxonne de longueur vaut exactement 2,54 centimètres ?",
+      "answer": "pouce",
+      "accept": [
+        "inch"
+      ],
+      "choices": [
+        "pied",
+        "yard",
+        "ligne"
+      ],
+      "explanation": "Elle sert encore pour la diagonale des écrans et le diamètre des jantes ; douze pouces font un pied.",
+      "wikipedia": "Pouce (unité)"
+    },
+    {
+      "id": "sciences-085",
+      "difficulty": 2,
+      "question": "Quel phénomène climatique du Pacifique porte un nom espagnol désignant l'Enfant Jésus ?",
+      "answer": "El Niño",
+      "accept": [
+        "El Nino"
+      ],
+      "choices": [
+        "La Niña",
+        "Mousson",
+        "Gulf Stream"
+      ],
+      "explanation": "Les pêcheurs péruviens l'ont nommé ainsi car le réchauffement des eaux survenait vers Noël ; son pendant froid est La Niña.",
+      "wikipedia": "El Niño"
+    },
+    {
+      "id": "sciences-086",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le passage direct d'un corps de l'état solide à l'état gazeux ?",
+      "answer": "sublimation",
+      "accept": [],
+      "choices": [
+        "évaporation",
+        "condensation",
+        "fusion"
+      ],
+      "explanation": "La glace carbonique, du dioxyde de carbone solide, en est un exemple : elle se transforme en gaz sans jamais devenir liquide.",
+      "wikipedia": "Sublimation (physique)"
+    },
+    {
+      "id": "sciences-087",
+      "difficulty": 2,
+      "question": "Quel alliage doré est principalement composé de cuivre et de zinc ?",
+      "answer": "laiton",
+      "accept": [],
+      "choices": [
+        "bronze",
+        "acier",
+        "étain"
+      ],
+      "explanation": "On l'emploie pour les instruments à vent comme la trompette, dits « cuivres » ; le bronze, lui, associe cuivre et étain.",
+      "wikipedia": "Laiton"
+    },
+    {
+      "id": "sciences-088",
+      "difficulty": 2,
+      "question": "Quel peintre et inventeur américain a donné son nom au code télégraphique de points et de traits ?",
+      "answer": "Samuel Morse",
+      "accept": [
+        "Morse"
+      ],
+      "choices": [
+        "Thomas Edison",
+        "Graham Bell",
+        "Charles Wheatstone"
+      ],
+      "explanation": "Le signal de détresse SOS a été choisi pour sa simplicité en morse : trois points, trois traits, trois points.",
+      "wikipedia": "Samuel Morse"
+    },
+    {
+      "id": "sciences-089",
+      "difficulty": 3,
+      "question": "Quel métal, au point de fusion très élevé, a pour symbole chimique la lettre W ?",
+      "answer": "tungstène",
+      "accept": [
+        "tungstene",
+        "wolfram"
+      ],
+      "choices": [
+        "vanadium",
+        "titane",
+        "osmium"
+      ],
+      "explanation": "Le symbole W vient de son autre nom, wolfram ; son point de fusion record en fit le matériau des filaments d'ampoules.",
+      "wikipedia": "Tungstène"
+    },
+    {
+      "id": "sciences-090",
+      "difficulty": 3,
+      "question": "Quel minéral, rayable à l'ongle, occupe le premier rang de l'échelle de dureté de Mohs ?",
+      "answer": "talc",
+      "accept": [],
+      "choices": [
+        "gypse",
+        "calcite",
+        "mica"
+      ],
+      "explanation": "L'échelle va de 1 à 10, du talc au diamant ; elle a été créée en 1812 par le minéralogiste allemand Friedrich Mohs.",
+      "wikipedia": "Échelle de Mohs"
+    },
+    {
+      "id": "sciences-091",
+      "difficulty": 3,
+      "question": "Quel scientifique allemand proposa en 1912 la théorie de la dérive des continents ?",
+      "answer": "Alfred Wegener",
+      "accept": [
+        "Wegener"
+      ],
+      "choices": [
+        "Alexander von Humboldt",
+        "Eduard Suess",
+        "Charles Lyell"
+      ],
+      "explanation": "Sa théorie fut longtemps rejetée faute de mécanisme explicatif ; il mourut en 1930 lors d'une expédition au Groenland.",
+      "wikipedia": "Alfred Wegener"
+    },
+    {
+      "id": "sciences-092",
+      "difficulty": 3,
+      "question": "Quel médecin breton a inventé le stéthoscope au début du XIXe siècle ?",
+      "answer": "Laennec",
+      "accept": [
+        "René Laennec",
+        "René-Théophile-Hyacinthe Laennec"
+      ],
+      "choices": [
+        "Corvisart",
+        "Bichat",
+        "Charcot"
+      ],
+      "explanation": "Il eut l'idée en roulant une feuille de papier pour écouter le cœur d'une patiente ; il fonda ainsi l'auscultation médiate.",
+      "wikipedia": "René Laennec"
+    },
+    {
+      "id": "sciences-093",
+      "difficulty": 3,
+      "question": "Quel médecin hongrois préconisa dès 1847 le lavage des mains pour combattre la fièvre puerpérale ?",
+      "answer": "Semmelweis",
+      "accept": [
+        "Ignace Semmelweis",
+        "Ignace Philippe Semmelweis"
+      ],
+      "choices": [
+        "Lister",
+        "Koch",
+        "Virchow"
+      ],
+      "explanation": "Ses collègues viennois rejetèrent ses idées ; Louis-Ferdinand Céline lui consacra sa thèse de médecine.",
+      "wikipedia": "Ignace Philippe Semmelweis"
+    },
+    {
+      "id": "sciences-094",
+      "difficulty": 3,
+      "question": "Quel satellite de Jupiter est la plus grande lune du Système solaire ?",
+      "answer": "Ganymède",
+      "accept": [
+        "Ganymede"
+      ],
+      "choices": [
+        "Callisto",
+        "Titan",
+        "Europe"
+      ],
+      "explanation": "Plus grand que la planète Mercure, il est aussi le seul satellite connu à posséder son propre champ magnétique.",
+      "wikipedia": "Ganymède (lune)"
+    },
+    {
+      "id": "sciences-095",
+      "difficulty": 3,
+      "question": "Quel mathématicien britannique a démontré dans les années 1990 le dernier théorème de Fermat ?",
+      "answer": "Andrew Wiles",
+      "accept": [
+        "Wiles"
+      ],
+      "choices": [
+        "Alan Turing",
+        "Roger Penrose",
+        "Michael Atiyah"
+      ],
+      "explanation": "Fermat avait affirmé disposer d'une preuve que la marge de son livre était trop étroite pour contenir ; le problème résista plus de 350 ans.",
+      "wikipedia": "Dernier théorème de Fermat"
+    },
+    {
+      "id": "sciences-096",
+      "difficulty": 3,
+      "question": "Par quelle lettre grecque désigne-t-on habituellement le nombre d'or ?",
+      "answer": "phi",
+      "accept": [
+        "φ",
+        "Φ"
+      ],
+      "choices": [
+        "pi",
+        "epsilon",
+        "oméga"
+      ],
+      "explanation": "Le nombre d'or vaut environ 1,618 ; le rapport entre deux termes successifs de la suite de Fibonacci s'en approche de plus en plus.",
+      "wikipedia": "Nombre d'or"
+    },
+    {
+      "id": "sciences-097",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on un polyèdre à vingt faces, l'un des cinq solides de Platon ?",
+      "answer": "icosaèdre",
+      "accept": [
+        "icosaedre"
+      ],
+      "choices": [
+        "dodécaèdre",
+        "octaèdre",
+        "tétraèdre"
+      ],
+      "explanation": "L'icosaèdre régulier possède vingt faces triangulaires et douze sommets ; c'est la forme de nombreux dés utilisés dans les jeux de rôle.",
+      "wikipedia": "Icosaèdre"
+    },
+    {
+      "id": "sciences-098",
+      "difficulty": 3,
+      "question": "De quelle expression anglaise le mot bit, unité d'information, est-il la contraction ?",
+      "answer": "binary digit",
+      "accept": [],
+      "choices": [
+        "binary unit",
+        "basic item",
+        "binary integer"
+      ],
+      "explanation": "Le terme a été popularisé par Claude Shannon en 1948, qui en attribuait l'invention à son collègue John Tukey.",
+      "wikipedia": "Bit"
+    },
+    {
+      "id": "sciences-099",
+      "difficulty": 3,
+      "question": "Quelle unité de base du Système international mesure l'intensité lumineuse ?",
+      "answer": "candela",
+      "accept": [
+        "cd"
+      ],
+      "choices": [
+        "lumen",
+        "lux",
+        "watt"
+      ],
+      "explanation": "Son nom signifie chandelle en latin ; le lumen et le lux, unités dérivées, mesurent respectivement le flux et l'éclairement lumineux.",
+      "wikipedia": "Candela"
+    },
+    {
+      "id": "sciences-100",
+      "difficulty": 3,
+      "question": "Quelle unité de distance astronomique, valant environ 3,26 années-lumière, tire son nom de la parallaxe ?",
+      "answer": "parsec",
+      "accept": [
+        "pc"
+      ],
+      "choices": [
+        "mégamètre",
+        "angström",
+        "unité astronomique"
+      ],
+      "explanation": "Le mot est la contraction de parallaxe-seconde : c'est la distance à laquelle une unité astronomique est vue sous un angle d'une seconde d'arc.",
+      "wikipedia": "Parsec"
+    },
+    {
+      "id": "sciences-101",
+      "difficulty": 3,
+      "question": "Quelle chercheuse britannique a réalisé le cliché par diffraction X qui révéla la double hélice de l'ADN ?",
+      "answer": "Rosalind Franklin",
+      "accept": [
+        "Franklin"
+      ],
+      "choices": [
+        "Dorothy Hodgkin",
+        "Barbara McClintock",
+        "Lise Meitner"
+      ],
+      "explanation": "Le célèbre cliché 51 fut montré à Watson sans son accord ; morte en 1958, elle ne put partager le prix Nobel de 1962.",
+      "wikipedia": "Rosalind Franklin"
+    },
+    {
+      "id": "sciences-102",
+      "difficulty": 3,
+      "question": "Quel physicien néo-zélandais a mis en évidence le noyau atomique grâce à une feuille d'or bombardée ?",
+      "answer": "Ernest Rutherford",
+      "accept": [
+        "Rutherford"
+      ],
+      "choices": [
+        "Niels Bohr",
+        "James Chadwick",
+        "J. J. Thomson"
+      ],
+      "explanation": "Il avait déjà reçu le prix Nobel de chimie en 1908 pour ses travaux sur la radioactivité ; l'élément 104 s'appelle le rutherfordium.",
+      "wikipedia": "Ernest Rutherford"
+    },
+    {
+      "id": "sciences-103",
+      "difficulty": 3,
+      "question": "Quel ingénieur français fit décoller l'Éole en 1890 et inventa le mot avion ?",
+      "answer": "Clément Ader",
+      "accept": [
+        "Ader"
+      ],
+      "choices": [
+        "Louis Blériot",
+        "Henri Farman",
+        "Alberto Santos-Dumont"
+      ],
+      "explanation": "Son appareil, propulsé par une machine à vapeur, aurait parcouru une cinquantaine de mètres à faible hauteur dans le parc d'Armainvilliers.",
+      "wikipedia": "Clément Ader"
+    },
+    {
+      "id": "sciences-104",
+      "difficulty": 3,
+      "question": "Quel physicien français inventa au XVIIe siècle un autocuiseur appelé digesteur ?",
+      "answer": "Denis Papin",
+      "accept": [
+        "Papin"
+      ],
+      "choices": [
+        "Edme Mariotte",
+        "Christian Huygens",
+        "Blaise Pascal"
+      ],
+      "explanation": "Son digesteur, ancêtre de la cocotte-minute, comportait une soupape de sûreté ; il imagina aussi un premier piston actionné par la vapeur.",
+      "wikipedia": "Denis Papin"
+    },
+    {
+      "id": "sciences-105",
+      "difficulty": 3,
+      "question": "Quelle planète géante a un axe de rotation presque couché sur le plan de son orbite ?",
+      "answer": "Uranus",
+      "accept": [],
+      "choices": [
+        "Neptune",
+        "Saturne",
+        "Jupiter"
+      ],
+      "explanation": "Découverte en 1781 par William Herschel, elle fut la première planète repérée au télescope ; elle semble rouler sur son orbite.",
+      "wikipedia": "Uranus (planète)"
+    },
+    {
+      "id": "sciences-106",
+      "difficulty": 3,
+      "question": "Quelle ère géologique, appelée aussi ère secondaire, regroupe le Trias, le Jurassique et le Crétacé ?",
+      "answer": "Mésozoïque",
+      "accept": [
+        "Mesozoique"
+      ],
+      "choices": [
+        "Paléozoïque",
+        "Cénozoïque",
+        "Précambrien"
+      ],
+      "explanation": "C'est l'ère des dinosaures ; elle s'achève il y a environ 66 millions d'années par une extinction massive liée à la chute d'un astéroïde.",
+      "wikipedia": "Mésozoïque"
+    },
+    {
+      "id": "sciences-107",
+      "difficulty": 3,
+      "question": "Quel physiologiste français est considéré comme le fondateur de la médecine expérimentale ?",
+      "answer": "Claude Bernard",
+      "accept": [
+        "Bernard"
+      ],
+      "choices": [
+        "François Magendie",
+        "Xavier Bichat",
+        "Louis Pasteur"
+      ],
+      "explanation": "Il découvrit la fonction glycogénique du foie et forgea la notion de milieu intérieur ; il fut le premier savant français à recevoir des funérailles nationales.",
+      "wikipedia": "Claude Bernard"
+    },
+    {
+      "id": "sciences-108",
+      "difficulty": 3,
+      "question": "Quel médecin français a décrit en 1861 la zone du cerveau associée à la production du langage ?",
+      "answer": "Paul Broca",
+      "accept": [
+        "Broca"
+      ],
+      "choices": [
+        "Jean-Martin Charcot",
+        "Carl Wernicke",
+        "Pierre Janet"
+      ],
+      "explanation": "Il étudia le cerveau d'un patient surnommé « Tan », seule syllabe qu'il pouvait prononcer ; cette aire du lobe frontal porte son nom.",
+      "wikipedia": "Paul Broca"
+    },
+    {
+      "id": "sciences-109",
+      "difficulty": 3,
+      "question": "Quel physicien britannique a découvert le neutron en 1932 ?",
+      "answer": "James Chadwick",
+      "accept": [
+        "Chadwick"
+      ],
+      "choices": [
+        "Ernest Rutherford",
+        "Paul Dirac",
+        "John Cockcroft"
+      ],
+      "explanation": "Ancien élève de Rutherford, il reçut le prix Nobel de physique en 1935 ; il participa ensuite au projet Manhattan.",
+      "wikipedia": "James Chadwick"
+    },
+    {
+      "id": "sciences-110",
+      "difficulty": 3,
+      "question": "Quel mathématicien français, mort en duel à vingt ans, a révolutionné l'étude des équations algébriques ?",
+      "answer": "Évariste Galois",
+      "accept": [
+        "Galois",
+        "Evariste Galois"
+      ],
+      "choices": [
+        "Niels Abel",
+        "Augustin Cauchy",
+        "Joseph Fourier"
+      ],
+      "explanation": "La veille de sa mort en 1832, il rédigea une lettre résumant ses découvertes, à l'origine de la théorie qui porte son nom.",
+      "wikipedia": "Évariste Galois"
+    }
+  ]
+}
