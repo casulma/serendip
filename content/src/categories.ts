@@ -1,17 +1,17 @@
 // The 12 question categories, with the share of the question bank each should hold.
 export const CATEGORIES = [
-  { id: "histoire", label: "Histoire", target: 120 },
-  { id: "geographie", label: "Géographie", target: 120 },
-  { id: "sciences", label: "Sciences & techniques", target: 110 },
-  { id: "nature", label: "Nature & animaux", target: 90 },
-  { id: "arts-litterature", label: "Arts & littérature", target: 100 },
-  { id: "musique", label: "Musique", target: 70 },
-  { id: "cinema-tv", label: "Cinéma & télévision", target: 80 },
-  { id: "sport", label: "Sport & jeux", target: 80 },
-  { id: "langue", label: "Langue & expressions", target: 70 },
-  { id: "mythologie", label: "Mythologies & religions", target: 50 },
-  { id: "gastronomie", label: "Gastronomie & vie quotidienne", target: 60 },
-  { id: "societe", label: "Société, politique & économie", target: 50 },
+  { id: "histoire", label: "Histoire", target: 600 },
+  { id: "geographie", label: "Géographie", target: 600 },
+  { id: "sciences", label: "Sciences & techniques", target: 550 },
+  { id: "nature", label: "Nature & animaux", target: 450 },
+  { id: "arts-litterature", label: "Arts & littérature", target: 500 },
+  { id: "musique", label: "Musique", target: 350 },
+  { id: "cinema-tv", label: "Cinéma & télévision", target: 400 },
+  { id: "sport", label: "Sport & jeux", target: 400 },
+  { id: "langue", label: "Langue & expressions", target: 350 },
+  { id: "mythologie", label: "Mythologies & religions", target: 250 },
+  { id: "gastronomie", label: "Gastronomie & vie quotidienne", target: 300 },
+  { id: "societe", label: "Société, politique & économie", target: 250 },
 ] as const;
 
 export type CategoryId = (typeof CATEGORIES)[number]["id"];

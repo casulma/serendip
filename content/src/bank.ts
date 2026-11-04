@@ -48,7 +48,8 @@ export async function loadBank(): Promise<{ questions: PackQuestion[]; issues: I
       issues.push({ id: f, level: "erreur", message: `fichier invalide : ${parsed.error.issues.slice(0, 3).map((i) => `${i.path.join(".")} ${i.message}`).join(" ; ")}` });
       continue;
     }
-    if (`${parsed.data.category}.json` !== f) issues.push({ id: f, level: "erreur", message: "nom de fichier ≠ catégorie" });
+    // One or more files per category: histoire.json, histoire-2.json…
+    if (!new RegExp(`^${parsed.data.category}(-\\d+)?\\.json$`).test(f)) issues.push({ id: f, level: "erreur", message: "nom de fichier ≠ catégorie" });
     for (const q of parsed.data.questions) questions.push({ ...q, category: parsed.data.category });
   }
 

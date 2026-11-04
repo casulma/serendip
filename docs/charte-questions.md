@@ -5,7 +5,7 @@ Une question = un énoncé clair, **une seule bonne réponse courte**, que l'on 
 Les questions sont rédigées par Claude puis vérifiées automatiquement contre l'article Wikipédia FR cité
 (la réponse, ou une variante acceptée, doit apparaître dans l'article).
 
-## Format (JSON, un fichier par catégorie : `content/questions/<categorie>.json`)
+## Format (JSON, un ou plusieurs fichiers par catégorie : `content/questions/<categorie>.json`, `<categorie>-2.json`…)
 
 ```json
 {
@@ -50,19 +50,19 @@ Les questions sont rédigées par Claude puis vérifiées automatiquement contre
 - Pas de doublon (même fait sous deux formes).
 - Pas de contenu choquant, ni de people ou télé-réalité.
 
-## Catégories et objectif (1 000 questions)
+## Catégories et objectif (5 000 questions)
 
 | Catégorie (`category`) | Libellé | Questions |
 |---|---|---:|
-| `histoire` | Histoire | 120 |
-| `geographie` | Géographie | 120 |
-| `sciences` | Sciences & techniques | 110 |
-| `nature` | Nature & animaux | 90 |
-| `arts-litterature` | Arts & littérature | 100 |
-| `musique` | Musique | 70 |
-| `cinema-tv` | Cinéma & télévision | 80 |
-| `sport` | Sport & jeux | 80 |
-| `langue` | Langue & expressions | 70 |
-| `mythologie` | Mythologies & religions | 50 |
-| `gastronomie` | Gastronomie & vie quotidienne | 60 |
-| `societe` | Société, politique & économie | 50 |
+| `histoire` | Histoire | 600 |
+| `geographie` | Géographie | 600 |
+| `sciences` | Sciences & techniques | 550 |
+| `nature` | Nature & animaux | 450 |
+| `arts-litterature` | Arts & littérature | 500 |
+| `musique` | Musique | 350 |
+| `cinema-tv` | Cinéma & télévision | 400 |
+| `sport` | Sport & jeux | 400 |
+| `langue` | Langue & expressions | 350 |
+| `mythologie` | Mythologies & religions | 250 |
+| `gastronomie` | Gastronomie & vie quotidienne | 300 |
+| `societe` | Société, politique & économie | 250 |

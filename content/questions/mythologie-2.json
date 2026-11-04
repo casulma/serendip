@@ -1,0 +1,1525 @@
+{
+  "category": "mythologie",
+  "questions": [
+    {
+      "id": "mythologie-051",
+      "difficulty": 1,
+      "question": "Quel cheval ailé servit de monture à Bellérophon pour affronter la Chimère ?",
+      "answer": "Pégase",
+      "accept": [],
+      "choices": [
+        "Arion",
+        "Xanthos",
+        "Bucéphale"
+      ],
+      "explanation": "Né du cou tranché de Méduse, il fit jaillir d'un coup de sabot la source Hippocrène, chère aux Muses, avant d'être changé en constellation.",
+      "wikipedia": "Pégase"
+    },
+    {
+      "id": "mythologie-052",
+      "difficulty": 1,
+      "question": "Quelle Gorgone, seule mortelle de ses deux sœurs, avait des serpents pour chevelure et changeait en pierre ceux qui la regardaient ?",
+      "answer": "Méduse",
+      "accept": [],
+      "choices": [
+        "Euryale",
+        "Sthéno",
+        "Échidna"
+      ],
+      "explanation": "Persée la décapita en ne la regardant que dans le reflet de son bouclier ; sa tête orna ensuite l'égide d'Athéna.",
+      "wikipedia": "Méduse (mythologie)"
+    },
+    {
+      "id": "mythologie-053",
+      "difficulty": 1,
+      "question": "Quel chien monstrueux à trois têtes garde l'entrée des Enfers grecs pour empêcher les morts d'en sortir ?",
+      "answer": "Cerbère",
+      "accept": [],
+      "choices": [
+        "Orthos",
+        "Argos",
+        "Fenrir"
+      ],
+      "explanation": "Héraclès dut le ramener à la surface lors de son douzième travail, et Orphée parvint à l'endormir grâce à sa lyre.",
+      "wikipedia": "Cerbère"
+    },
+    {
+      "id": "mythologie-054",
+      "difficulty": 1,
+      "question": "Quelle déesse grecque de l'amour et de la beauté serait née de l'écume de la mer ?",
+      "answer": "Aphrodite",
+      "accept": [],
+      "choices": [
+        "Héra",
+        "Athéna",
+        "Artémis"
+      ],
+      "explanation": "Selon Hésiode, elle naquit de l'écume formée autour du sexe tranché d'Ouranos ; les Romains l'identifièrent à Vénus.",
+      "wikipedia": "Aphrodite"
+    },
+    {
+      "id": "mythologie-055",
+      "difficulty": 1,
+      "question": "Quel dieu grec des océans et des tremblements de terre brandit un trident ?",
+      "answer": "Poséidon",
+      "accept": [
+        "Poseidon"
+      ],
+      "choices": [
+        "Hadès",
+        "Triton",
+        "Océanos"
+      ],
+      "explanation": "Frère de Zeus, il disputa à Athéna la possession de l'Attique en faisant jaillir une source salée sur l'Acropole ; il perdit face à l'olivier.",
+      "wikipedia": "Poséidon"
+    },
+    {
+      "id": "mythologie-056",
+      "difficulty": 1,
+      "question": "Quelle déesse grecque de la sagesse et de la stratégie sortit tout armée du crâne de Zeus ?",
+      "answer": "Athéna",
+      "accept": [
+        "Athena"
+      ],
+      "choices": [
+        "Artémis",
+        "Héra",
+        "Hestia"
+      ],
+      "explanation": "Héphaïstos aurait fendu la tête de Zeus d'un coup de hache pour la faire naître ; la chouette est son animal emblématique.",
+      "wikipedia": "Athéna"
+    },
+    {
+      "id": "mythologie-057",
+      "difficulty": 1,
+      "question": "Quel prince troyen enleva Hélène, l'épouse du roi de Sparte, déclenchant la guerre de Troie ?",
+      "answer": "Pâris",
+      "accept": [
+        "Paris"
+      ],
+      "choices": [
+        "Hector",
+        "Énée",
+        "Priam"
+      ],
+      "explanation": "Choisi pour désigner la plus belle des déesses, il offrit la pomme d'or à Aphrodite, qui lui avait promis l'amour d'Hélène.",
+      "wikipedia": "Pâris"
+    },
+    {
+      "id": "mythologie-058",
+      "difficulty": 1,
+      "question": "Quel animal de bois géant permit aux Grecs, cachés à l'intérieur, de s'introduire dans la ville assiégée par Agamemnon ?",
+      "answer": "cheval",
+      "accept": [],
+      "choices": [
+        "taureau",
+        "bélier",
+        "sanglier"
+      ],
+      "explanation": "L'idée en revient à Ulysse ; le prêtre Laocoon, qui avait mis les Troyens en garde, fut étouffé par deux serpents sortis de la mer.",
+      "wikipedia": "Cheval de Troie"
+    },
+    {
+      "id": "mythologie-059",
+      "difficulty": 1,
+      "question": "Quel dieu grec, messager de l'Olympe, porte des sandales ailées et guide les âmes vers les Enfers ?",
+      "answer": "Hermès",
+      "accept": [
+        "Hermes"
+      ],
+      "choices": [
+        "Apollon",
+        "Éole",
+        "Arès"
+      ],
+      "explanation": "Dieu des voyageurs, des marchands et des voleurs, il aurait inventé la lyre dès le jour de sa naissance à partir d'une carapace de tortue.",
+      "wikipedia": "Hermès"
+    },
+    {
+      "id": "mythologie-060",
+      "difficulty": 1,
+      "question": "Quel roi de Phrygie obtint de Dionysos le pouvoir de changer en or tout ce qu'il touchait ?",
+      "answer": "Midas",
+      "accept": [],
+      "choices": [
+        "Crésus",
+        "Minos",
+        "Tantale"
+      ],
+      "explanation": "Incapable de manger, il se lava dans le fleuve Pactole, qui en garda des paillettes d'or ; Apollon lui donna aussi des oreilles d'âne.",
+      "wikipedia": "Midas"
+    },
+    {
+      "id": "mythologie-061",
+      "difficulty": 1,
+      "question": "Quel roi de Thèbes tua son père et épousa sa mère sans connaître leur identité ?",
+      "answer": "Œdipe",
+      "accept": [
+        "Oedipe"
+      ],
+      "choices": [
+        "Créon",
+        "Laïos",
+        "Penthée"
+      ],
+      "explanation": "Découvrant la vérité, il se creva les yeux ; Freud a tiré de son histoire, racontée par Sophocle, le célèbre complexe qui porte son nom.",
+      "wikipedia": "Œdipe"
+    },
+    {
+      "id": "mythologie-062",
+      "difficulty": 1,
+      "question": "Quel dieu grec de la vigne et de l'ivresse était suivi d'un cortège de Ménades et de satyres ?",
+      "answer": "Dionysos",
+      "accept": [],
+      "choices": [
+        "Apollon",
+        "Pan",
+        "Priape"
+      ],
+      "explanation": "Né de la cuisse de Zeus, il donna son nom aux Dionysies, fêtes athéniennes d'où sont issus la tragédie et la comédie.",
+      "wikipedia": "Dionysos"
+    },
+    {
+      "id": "mythologie-063",
+      "difficulty": 1,
+      "question": "Quelle épouse fidèle défaisait chaque nuit la toile qu'elle tissait le jour pour faire patienter ses prétendants ?",
+      "answer": "Pénélope",
+      "accept": [
+        "Penelope"
+      ],
+      "choices": [
+        "Andromaque",
+        "Hélène",
+        "Alceste"
+      ],
+      "explanation": "Elle avait promis de choisir un époux une fois achevé le linceul de Laërte, son beau-père, en attendant le retour d'Ulysse.",
+      "wikipedia": "Pénélope"
+    },
+    {
+      "id": "mythologie-064",
+      "difficulty": 1,
+      "question": "Quelles créatures au chant envoûtant Ulysse écouta-t-il attaché au mât de son navire ?",
+      "answer": "sirènes",
+      "accept": [
+        "sirène"
+      ],
+      "choices": [
+        "harpies",
+        "néréides",
+        "gorgones"
+      ],
+      "explanation": "Ses marins avaient les oreilles bouchées à la cire. Dans l'Antiquité, on les représentait en femmes-oiseaux, et non en femmes-poissons.",
+      "wikipedia": "Sirène (mythologie grecque)"
+    },
+    {
+      "id": "mythologie-065",
+      "difficulty": 1,
+      "question": "Quel dieu grec, frère jumeau d'Artémis, rendait ses oracles à Delphes par la bouche de la Pythie ?",
+      "answer": "Apollon",
+      "accept": [],
+      "choices": [
+        "Hermès",
+        "Dionysos",
+        "Hélios"
+      ],
+      "explanation": "Il s'empara du sanctuaire après avoir tué le serpent Python ; le laurier, issu de la nymphe Daphné qui le fuyait, lui est consacré.",
+      "wikipedia": "Apollon"
+    },
+    {
+      "id": "mythologie-066",
+      "difficulty": 1,
+      "question": "Quelle déesse romaine de la chasse et de la Lune correspond à l'Artémis des Grecs ?",
+      "answer": "Diane",
+      "accept": [],
+      "choices": [
+        "Minerve",
+        "Junon",
+        "Cérès"
+      ],
+      "explanation": "Le chasseur Actéon, qui l'avait surprise au bain, fut changé en cerf et dévoré par ses propres chiens.",
+      "wikipedia": "Diane (mythologie)"
+    },
+    {
+      "id": "mythologie-067",
+      "difficulty": 1,
+      "question": "Quel dieu romain de la guerre, père légendaire de Romulus et Rémus, a donné son nom à un mois ?",
+      "answer": "Mars",
+      "accept": [],
+      "choices": [
+        "Janus",
+        "Jupiter",
+        "Quirinus"
+      ],
+      "explanation": "Le mois de mars ouvrait l'ancienne année romaine et la saison des campagnes militaires ; le Champ de Mars, à Rome, lui était consacré.",
+      "wikipedia": "Mars (mythologie)"
+    },
+    {
+      "id": "mythologie-068",
+      "difficulty": 1,
+      "question": "Quel dieu romain de l'amour, fils de Vénus, décoche des flèches qui rendent amoureux ?",
+      "answer": "Cupidon",
+      "accept": [
+        "Amour"
+      ],
+      "choices": [
+        "Mercure",
+        "Faunus",
+        "Bacchus"
+      ],
+      "explanation": "Il correspond à l'Éros grec ; ses flèches à pointe d'or font naître l'amour, tandis que celles à pointe de plomb inspirent l'aversion.",
+      "wikipedia": "Cupidon"
+    },
+    {
+      "id": "mythologie-069",
+      "difficulty": 1,
+      "question": "Quel dieu nordique sacrifia un œil pour pouvoir boire à la source de la sagesse ?",
+      "answer": "Odin",
+      "accept": [],
+      "choices": [
+        "Thor",
+        "Tyr",
+        "Heimdall"
+      ],
+      "explanation": "La source appartenait au géant Mímir. Odin est aussi accompagné de deux corbeaux, Hugin et Munin, qui parcourent le monde pour lui.",
+      "wikipedia": "Odin"
+    },
+    {
+      "id": "mythologie-070",
+      "difficulty": 1,
+      "question": "Quelles guerrières divines choisissent les combattants tombés sur le champ de bataille pour les conduire auprès d'Odin ?",
+      "answer": "Valkyries",
+      "accept": [
+        "Valkyrie"
+      ],
+      "choices": [
+        "Nornes",
+        "Dises",
+        "Amazones"
+      ],
+      "explanation": "Leur nom signifie « celles qui choisissent les morts » ; Wagner en a fait l'héroïne de sa célèbre Chevauchée.",
+      "wikipedia": "Valkyrie"
+    },
+    {
+      "id": "mythologie-071",
+      "difficulty": 1,
+      "question": "Quel dieu solaire égyptien traversait le ciel le jour et le monde souterrain la nuit à bord d'une barque ?",
+      "answer": "Rê",
+      "accept": [
+        "Râ",
+        "Ra",
+        "Re"
+      ],
+      "choices": [
+        "Amon",
+        "Aton",
+        "Ptah"
+      ],
+      "explanation": "Chaque nuit, il devait repousser le serpent Apophis qui cherchait à l'engloutir ; son principal centre de culte était Héliopolis.",
+      "wikipedia": "Rê"
+    },
+    {
+      "id": "mythologie-072",
+      "difficulty": 1,
+      "question": "Quelle déesse égyptienne, mère d'Horus, vit son culte se répandre jusqu'à Rome et en Gaule ?",
+      "answer": "Isis",
+      "accept": [],
+      "choices": [
+        "Hathor",
+        "Nephtys",
+        "Bastet"
+      ],
+      "explanation": "Grande magicienne, elle rassembla les morceaux du corps de son époux Osiris ; ses sanctuaires existaient jusqu'à Pompéi.",
+      "wikipedia": "Isis"
+    },
+    {
+      "id": "mythologie-073",
+      "difficulty": 1,
+      "question": "Quel dieu égyptien à tête de faucon était incarné par le pharaon régnant ?",
+      "answer": "Horus",
+      "accept": [],
+      "choices": [
+        "Sobek",
+        "Montou",
+        "Khonsou"
+      ],
+      "explanation": "Il perdit un œil en combattant Seth ; cet œil reconstitué, l'oudjat, devint une puissante amulette protectrice.",
+      "wikipedia": "Horus"
+    },
+    {
+      "id": "mythologie-074",
+      "difficulty": 1,
+      "question": "Quelle déesse égyptienne à tête de chat était vénérée dans la ville de Bubastis ?",
+      "answer": "Bastet",
+      "accept": [],
+      "choices": [
+        "Sekhmet",
+        "Hathor",
+        "Mout"
+      ],
+      "explanation": "Des milliers de chats momifiés lui ont été offerts ; à l'origine, elle était représentée en lionne, avant de s'adoucir en chatte.",
+      "wikipedia": "Bastet"
+    },
+    {
+      "id": "mythologie-075",
+      "difficulty": 1,
+      "question": "Quel oiseau légendaire renaît de ses propres cendres après s'être consumé sur un bûcher ?",
+      "answer": "phénix",
+      "accept": [
+        "phoenix"
+      ],
+      "choices": [
+        "griffon",
+        "simurgh",
+        "roc"
+      ],
+      "explanation": "Hérodote rapporte que les prêtres d'Héliopolis lui attribuaient une vie de cinq cents ans ; il est rattaché à l'oiseau égyptien Benou.",
+      "wikipedia": "Phénix"
+    },
+    {
+      "id": "mythologie-076",
+      "difficulty": 1,
+      "question": "Quel enchanteur, conseiller du roi Arthur, fut retenu prisonnier par la fée Viviane à qui il avait enseigné ses secrets ?",
+      "answer": "Merlin",
+      "accept": [
+        "Merlin l'Enchanteur"
+      ],
+      "choices": [
+        "Taliesin",
+        "Gauvain",
+        "Urien"
+      ],
+      "explanation": "On le disait fils d'un démon et d'une mortelle ; c'est lui qui aurait organisé l'épreuve de l'épée plantée dans la pierre.",
+      "wikipedia": "Merlin"
+    },
+    {
+      "id": "mythologie-077",
+      "difficulty": 1,
+      "question": "Quel chevalier de la Table ronde, élevé par la Dame du Lac, est l'amant de la reine Guenièvre ?",
+      "answer": "Lancelot",
+      "accept": [
+        "Lancelot du Lac"
+      ],
+      "choices": [
+        "Gauvain",
+        "Perceval",
+        "Keu"
+      ],
+      "explanation": "Il apparaît dans Le Chevalier de la charrette de Chrétien de Troyes ; sa liaison avec Guenièvre contribue à la chute du royaume d'Arthur.",
+      "wikipedia": "Lancelot du Lac"
+    },
+    {
+      "id": "mythologie-078",
+      "difficulty": 1,
+      "question": "Dans quelle forêt légendaire de Bretagne situe-t-on le tombeau de Merlin et la fontaine de Barenton ?",
+      "answer": "Brocéliande",
+      "accept": [
+        "Broceliande"
+      ],
+      "choices": [
+        "Huelgoat",
+        "Fougères",
+        "Scissy"
+      ],
+      "explanation": "Elle est généralement identifiée à la forêt de Paimpont, en Ille-et-Vilaine, où l'on montre aussi le Val sans retour de la fée Morgane.",
+      "wikipedia": "Brocéliande"
+    },
+    {
+      "id": "mythologie-079",
+      "difficulty": 1,
+      "question": "Quel couple d'amants légendaires fut lié à jamais par un philtre bu par erreur sur le bateau qui les menait en Cornouailles ?",
+      "answer": "Tristan et Iseut",
+      "accept": [
+        "Tristan et Yseult",
+        "Tristan et Isolde"
+      ],
+      "choices": [
+        "Lancelot et Guenièvre",
+        "Érec et Énide",
+        "Pyrame et Thisbé"
+      ],
+      "explanation": "Iseut devait épouser le roi Marc, oncle de Tristan ; Wagner en a tiré un opéra célèbre pour son accord initial.",
+      "wikipedia": "Tristan et Iseut"
+    },
+    {
+      "id": "mythologie-080",
+      "difficulty": 1,
+      "question": "Quelle plante les druides cueillaient-ils sur les chênes avec une serpe d'or, selon Pline l'Ancien ?",
+      "answer": "gui",
+      "accept": [],
+      "choices": [
+        "houx",
+        "lierre",
+        "verveine"
+      ],
+      "explanation": "Pline l'Ancien décrit sa cueillette sur les chênes au moyen d'une serpe d'or ; avec le houx, il orne encore les maisons pour les fêtes de fin d'année.",
+      "wikipedia": "Gui (plante)"
+    },
+    {
+      "id": "mythologie-081",
+      "difficulty": 1,
+      "question": "Quel héros suisse fut contraint de tirer à l'arbalète sur une pomme posée sur la tête de son fils ?",
+      "answer": "Guillaume Tell",
+      "accept": [
+        "Tell"
+      ],
+      "choices": [
+        "Arnold de Winkelried",
+        "Werner Stauffacher",
+        "Nicolas de Flue"
+      ],
+      "explanation": "Le bailli Gessler lui avait imposé cette épreuve ; Tell le tua ensuite, ce qui aurait déclenché la libération des cantons suisses.",
+      "wikipedia": "Guillaume Tell"
+    },
+    {
+      "id": "mythologie-082",
+      "difficulty": 1,
+      "question": "Quel hors-la-loi légendaire de la forêt de Sherwood détroussait les riches pour donner aux pauvres ?",
+      "answer": "Robin des Bois",
+      "accept": [
+        "Robin Hood"
+      ],
+      "choices": [
+        "Ivanhoé",
+        "Rob Roy",
+        "William Wallace"
+      ],
+      "explanation": "Il affronte le shérif de Nottingham avec sa bande, dont Petit Jean et frère Tuck, et aime la belle Marianne.",
+      "wikipedia": "Robin des Bois"
+    },
+    {
+      "id": "mythologie-083",
+      "difficulty": 1,
+      "question": "Dans quel lac d'Écosse vivrait un monstre aquatique surnommé Nessie ?",
+      "answer": "Loch Ness",
+      "accept": [
+        "Ness"
+      ],
+      "choices": [
+        "Loch Lomond",
+        "Loch Morar",
+        "Loch Tay"
+      ],
+      "explanation": "La première photographie censée le montrer, prise en 1934, est aujourd'hui reconnue comme un canular ; le mythe est né avec la route longeant le lac.",
+      "wikipedia": "Monstre du loch Ness"
+    },
+    {
+      "id": "mythologie-084",
+      "difficulty": 1,
+      "question": "Quelle créature du folklore scandinave se changerait en pierre si elle était exposée à la lumière du soleil ?",
+      "answer": "troll",
+      "accept": [
+        "trolls"
+      ],
+      "choices": [
+        "elfe",
+        "nain",
+        "kobold"
+      ],
+      "explanation": "Dans les croyances scandinaves, ces êtres hostiles hantent les montagnes, les forêts et les mers ; le christianisme en fit des créatures diaboliques.",
+      "wikipedia": "Troll"
+    },
+    {
+      "id": "mythologie-085",
+      "difficulty": 1,
+      "question": "Quel « abominable homme des neiges » hanterait les montagnes de l'Himalaya selon les légendes locales ?",
+      "answer": "yéti",
+      "accept": [
+        "yeti"
+      ],
+      "choices": [
+        "sasquatch",
+        "almasty",
+        "wendigo"
+      ],
+      "explanation": "Son nom viendrait du tibétain ; Hergé l'a mis en scène dans Tintin au Tibet, où il se montre plutôt bienveillant.",
+      "wikipedia": "Yéti"
+    },
+    {
+      "id": "mythologie-086",
+      "difficulty": 1,
+      "question": "Quel roi d'Uruk, héros de l'une des plus anciennes épopées connues, part en quête de l'immortalité ?",
+      "answer": "Gilgamesh",
+      "accept": [],
+      "choices": [
+        "Sargon",
+        "Hammurabi",
+        "Nabuchodonosor"
+      ],
+      "explanation": "L'épopée, gravée sur des tablettes d'argile, contient un récit de déluge très proche de celui de Noé.",
+      "wikipedia": "Gilgamesh"
+    },
+    {
+      "id": "mythologie-087",
+      "difficulty": 1,
+      "question": "Quel prince troyen, fils aîné de Priam, fut tué par Achille au pied des remparts de sa ville ?",
+      "answer": "Hector",
+      "accept": [],
+      "choices": [
+        "Pâris",
+        "Énée",
+        "Troïlos"
+      ],
+      "explanation": "Achille traîna son cadavre derrière son char ; Priam vint de nuit supplier le héros de lui rendre le corps de son fils.",
+      "wikipedia": "Hector"
+    },
+    {
+      "id": "mythologie-088",
+      "difficulty": 1,
+      "question": "Quelle île légendaire engloutie en une journée est décrite par Platon dans le Timée et le Critias ?",
+      "answer": "Atlantide",
+      "accept": [],
+      "choices": [
+        "Lémurie",
+        "Hyperborée",
+        "Thulé"
+      ],
+      "explanation": "Platon la situe au-delà des Colonnes d'Hercule et en fait une puissance navale rivale d'Athènes, punie pour son orgueil.",
+      "wikipedia": "Atlantide"
+    },
+    {
+      "id": "mythologie-089",
+      "difficulty": 1,
+      "question": "Quelle reine des dieux, épouse jalouse de Zeus, a pour animal favori le paon ?",
+      "answer": "Héra",
+      "accept": [
+        "Hera"
+      ],
+      "choices": [
+        "Rhéa",
+        "Déméter",
+        "Léto"
+      ],
+      "explanation": "Elle plaça sur la queue du paon les cent yeux du géant Argos, tué par Hermès alors qu'il gardait la nymphe Io.",
+      "wikipedia": "Héra"
+    },
+    {
+      "id": "mythologie-090",
+      "difficulty": 1,
+      "question": "Quel dieu grec, frère de Zeus, règne sur le monde souterrain et possède un casque d'invisibilité ?",
+      "answer": "Hadès",
+      "accept": [
+        "Hades"
+      ],
+      "choices": [
+        "Thanatos",
+        "Hypnos",
+        "Cronos"
+      ],
+      "explanation": "Les Grecs évitaient de prononcer son nom et l'appelaient Pluton, « le riche », allusion aux richesses du sous-sol.",
+      "wikipedia": "Hadès"
+    },
+    {
+      "id": "mythologie-091",
+      "difficulty": 2,
+      "question": "Quelle magicienne de l'île d'Aiaié transforma les compagnons d'Ulysse en porcs ?",
+      "answer": "Circé",
+      "accept": [
+        "Circe"
+      ],
+      "choices": [
+        "Calypso",
+        "Médée",
+        "Nausicaa"
+      ],
+      "explanation": "Hermès donna à Ulysse une herbe magique, le moly, qui le protégea de ses sortilèges ; il resta pourtant un an auprès d'elle.",
+      "wikipedia": "Circé"
+    },
+    {
+      "id": "mythologie-092",
+      "difficulty": 2,
+      "question": "Quel Cyclope, fils de Poséidon, fut aveuglé par Ulysse après avoir dévoré plusieurs de ses compagnons ?",
+      "answer": "Polyphème",
+      "accept": [
+        "Polypheme"
+      ],
+      "choices": [
+        "Brontès",
+        "Stéropès",
+        "Argès"
+      ],
+      "explanation": "Ulysse s'était présenté sous le nom de « Personne » : le géant hurla donc que Personne l'avait blessé, et ses voisins ne vinrent pas l'aider.",
+      "wikipedia": "Polyphème"
+    },
+    {
+      "id": "mythologie-093",
+      "difficulty": 2,
+      "question": "Quel roi de Corinthe fut condamné à pousser éternellement un rocher qui retombait juste avant le sommet ?",
+      "answer": "Sisyphe",
+      "accept": [],
+      "choices": [
+        "Ixion",
+        "Tantale",
+        "Tityos"
+      ],
+      "explanation": "Il avait osé enchaîner Thanatos, la Mort. Albert Camus a fait de lui la figure de l'absurde, concluant qu'« il faut imaginer Sisyphe heureux ».",
+      "wikipedia": "Sisyphe"
+    },
+    {
+      "id": "mythologie-094",
+      "difficulty": 2,
+      "question": "Quel héros grec conduisit les Argonautes jusqu'en Colchide pour s'emparer de la Toison d'or ?",
+      "answer": "Jason",
+      "accept": [],
+      "choices": [
+        "Persée",
+        "Bellérophon",
+        "Pélée"
+      ],
+      "explanation": "Il voulait reprendre le trône d'Iolcos à son oncle Pélias ; son navire, l'Argo, était doté d'une proue capable de parler.",
+      "wikipedia": "Jason"
+    },
+    {
+      "id": "mythologie-095",
+      "difficulty": 2,
+      "question": "Quel héros, fils de Zeus et de Danaé, délivra la princesse Andromède d'un monstre marin ?",
+      "answer": "Persée",
+      "accept": [
+        "Persee"
+      ],
+      "choices": [
+        "Thésée",
+        "Bellérophon",
+        "Cadmos"
+      ],
+      "explanation": "Zeus avait rejoint Danaé, enfermée par son père, sous la forme d'une pluie d'or ; Persée fonda ensuite la cité de Mycènes.",
+      "wikipedia": "Persée"
+    },
+    {
+      "id": "mythologie-096",
+      "difficulty": 2,
+      "question": "Quelle déesse, enlevée par Hadès, doit passer une partie de l'année aux Enfers pour avoir mangé des grains de grenade ?",
+      "answer": "Perséphone",
+      "accept": [
+        "Persephone",
+        "Coré"
+      ],
+      "choices": [
+        "Déméter",
+        "Hécate",
+        "Hestia"
+      ],
+      "explanation": "Pendant son absence, sa mère Déméter s'afflige et la terre devient stérile : les Grecs expliquaient ainsi le cycle des saisons.",
+      "wikipedia": "Perséphone"
+    },
+    {
+      "id": "mythologie-097",
+      "difficulty": 2,
+      "question": "Quel nocher des Enfers faisait traverser le fleuve aux âmes des morts contre une obole ?",
+      "answer": "Charon",
+      "accept": [],
+      "choices": [
+        "Minos",
+        "Éaque",
+        "Thanatos"
+      ],
+      "explanation": "On plaçait une pièce dans la bouche des défunts au moment de l'enterrement pour payer son passage ; il laissait très rarement passer un vivant.",
+      "wikipedia": "Charon (mythologie)"
+    },
+    {
+      "id": "mythologie-098",
+      "difficulty": 2,
+      "question": "Quel sculpteur chypriote tomba amoureux de la statue d'ivoire qu'il avait façonnée, à laquelle Aphrodite donna vie ?",
+      "answer": "Pygmalion",
+      "accept": [],
+      "choices": [
+        "Dédale",
+        "Phidias",
+        "Praxitèle"
+      ],
+      "explanation": "Ovide raconte l'histoire dans Les Métamorphoses ; George Bernard Shaw s'en inspira pour sa pièce, adaptée en comédie musicale My Fair Lady.",
+      "wikipedia": "Pygmalion et Galatée"
+    },
+    {
+      "id": "mythologie-099",
+      "difficulty": 2,
+      "question": "Quelle princesse troyenne avait le don de prophétie mais était condamnée à n'être jamais crue ?",
+      "answer": "Cassandre",
+      "accept": [],
+      "choices": [
+        "Andromaque",
+        "Polyxène",
+        "Hécube"
+      ],
+      "explanation": "Apollon lui avait accordé ce don pour la séduire ; repoussé, il la priva de toute crédibilité. Elle annonça en vain la chute de Troie.",
+      "wikipedia": "Cassandre"
+    },
+    {
+      "id": "mythologie-100",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les neuf déesses, filles de Zeus et de Mnémosyne, qui inspirent les arts et les sciences ?",
+      "answer": "Muses",
+      "accept": [
+        "Muse"
+      ],
+      "choices": [
+        "Grâces",
+        "Heures",
+        "Moires"
+      ],
+      "explanation": "Leur nom a donné les mots musique et musée ; Calliope préside à la poésie épique, Clio à l'histoire et Uranie à l'astronomie.",
+      "wikipedia": "Muses"
+    },
+    {
+      "id": "mythologie-101",
+      "difficulty": 2,
+      "question": "Quel Titan, père de Zeus, dévorait ses enfants à leur naissance de peur d'être détrôné ?",
+      "answer": "Cronos",
+      "accept": [
+        "Kronos"
+      ],
+      "choices": [
+        "Ouranos",
+        "Hypérion",
+        "Japet"
+      ],
+      "explanation": "Rhéa sauva Zeus en lui faisant avaler une pierre emmaillotée ; Rubens et Goya ont peint la scène sous son nom romain, Saturne.",
+      "wikipedia": "Cronos"
+    },
+    {
+      "id": "mythologie-102",
+      "difficulty": 2,
+      "question": "Quel dieu forgeron boiteux, époux d'Aphrodite, fabriqua les armes d'Achille ?",
+      "answer": "Héphaïstos",
+      "accept": [
+        "Hephaistos",
+        "Vulcain"
+      ],
+      "choices": [
+        "Arès",
+        "Prométhée",
+        "Dédale"
+      ],
+      "explanation": "Jeté de l'Olympe à sa naissance ou lors d'une dispute, il en serait resté boiteux ; ses forges étaient placées sous l'Etna.",
+      "wikipedia": "Héphaïstos"
+    },
+    {
+      "id": "mythologie-103",
+      "difficulty": 2,
+      "question": "Quel dieu grec de la médecine a pour attribut un bâton autour duquel s'enroule un serpent ?",
+      "answer": "Asclépios",
+      "accept": [
+        "Esculape",
+        "Asclepios"
+      ],
+      "choices": [
+        "Apollon",
+        "Hermès",
+        "Péan"
+      ],
+      "explanation": "Foudroyé par Zeus pour avoir ressuscité des morts, il est devenu Esculape chez les Romains ; son bâton reste un symbole médical.",
+      "wikipedia": "Asclépios"
+    },
+    {
+      "id": "mythologie-104",
+      "difficulty": 2,
+      "question": "Quelle déesse romaine du foyer était servie par des prêtresses chargées d'entretenir un feu sacré perpétuel ?",
+      "answer": "Vesta",
+      "accept": [],
+      "choices": [
+        "Junon",
+        "Cérès",
+        "Minerve"
+      ],
+      "explanation": "Ses prêtresses, les vestales, faisaient vœu de chasteté pendant trente ans ; celle qui le rompait était enterrée vivante.",
+      "wikipedia": "Vesta"
+    },
+    {
+      "id": "mythologie-105",
+      "difficulty": 2,
+      "question": "Quel héros troyen, fils de Vénus, est présenté par Virgile comme l'ancêtre des Romains ?",
+      "answer": "Énée",
+      "accept": [
+        "Enee"
+      ],
+      "choices": [
+        "Hector",
+        "Anchise",
+        "Ascagne"
+      ],
+      "explanation": "Il fuit Troie en flammes en portant son père Anchise sur ses épaules ; à Carthage, il abandonna la reine Didon, qui se donna la mort.",
+      "wikipedia": "Énée"
+    },
+    {
+      "id": "mythologie-106",
+      "difficulty": 2,
+      "question": "Quelles fêtes romaines de décembre permettaient aux esclaves d'être servis par leurs maîtres ?",
+      "answer": "Saturnales",
+      "accept": [],
+      "choices": [
+        "Lupercales",
+        "Bacchanales",
+        "Floralies"
+      ],
+      "explanation": "Ces réjouissances honoraient le dieu des semailles ; on y échangeait de petits cadeaux et l'on élisait un roi de la fête.",
+      "wikipedia": "Saturnales"
+    },
+    {
+      "id": "mythologie-107",
+      "difficulty": 2,
+      "question": "Comment s'appelle l'immense frêne cosmique qui relie les neuf mondes de la mythologie nordique ?",
+      "answer": "Yggdrasil",
+      "accept": [],
+      "choices": [
+        "Mjöllnir",
+        "Gungnir",
+        "Midgard"
+      ],
+      "explanation": "Un écureuil, Ratatosk, court le long de son tronc pour porter des insultes entre l'aigle de sa cime et le dragon Nidhogg rongeant ses racines.",
+      "wikipedia": "Yggdrasil"
+    },
+    {
+      "id": "mythologie-108",
+      "difficulty": 2,
+      "question": "Quel dieu nordique, fils d'Odin et de Frigg, fut tué par une flèche de gui à cause d'une ruse de Loki ?",
+      "answer": "Baldr",
+      "accept": [
+        "Balder",
+        "Baldur"
+      ],
+      "choices": [
+        "Höd",
+        "Vidar",
+        "Bragi"
+      ],
+      "explanation": "Frigg avait fait jurer à toutes choses de l'épargner, sauf au gui, jugé trop jeune ; c'est son frère aveugle Höd qui lança le trait.",
+      "wikipedia": "Baldr"
+    },
+    {
+      "id": "mythologie-109",
+      "difficulty": 2,
+      "question": "Quelle déesse nordique de l'amour et de la fertilité voyage dans un char tiré par deux chats ?",
+      "answer": "Freyja",
+      "accept": [
+        "Freya"
+      ],
+      "choices": [
+        "Frigg",
+        "Sif",
+        "Idunn"
+      ],
+      "explanation": "Elle reçoit la moitié des guerriers morts au combat dans sa demeure, Fólkvangr ; son nom signifie simplement « la Dame ».",
+      "wikipedia": "Freyja"
+    },
+    {
+      "id": "mythologie-110",
+      "difficulty": 2,
+      "question": "Quelle déesse égyptienne coiffée d'une plume incarnait l'ordre du monde, la vérité et la justice ?",
+      "answer": "Maât",
+      "accept": [
+        "Maat"
+      ],
+      "choices": [
+        "Hathor",
+        "Neith",
+        "Nout"
+      ],
+      "explanation": "Lors du jugement des morts, le cœur du défunt était pesé face à sa plume ; le pharaon devait faire régner son ordre sur terre.",
+      "wikipedia": "Maât"
+    },
+    {
+      "id": "mythologie-111",
+      "difficulty": 2,
+      "question": "Quel chevalier au cœur pur, fils de Lancelot, parvint à achever la quête du Graal ?",
+      "answer": "Galaad",
+      "accept": [
+        "Galahad"
+      ],
+      "choices": [
+        "Bohort",
+        "Gauvain",
+        "Yvain"
+      ],
+      "explanation": "Il fut le seul à pouvoir s'asseoir sans dommage sur le Siège périlleux de la Table ronde, réservé au meilleur chevalier.",
+      "wikipedia": "Galaad (légende arthurienne)"
+    },
+    {
+      "id": "mythologie-112",
+      "difficulty": 2,
+      "question": "Sur quelle île légendaire le roi Arthur, mortellement blessé, est-il emporté pour y être soigné ?",
+      "answer": "Avalon",
+      "accept": [],
+      "choices": [
+        "Thulé",
+        "Ys",
+        "Lyonesse"
+      ],
+      "explanation": "Son nom évoque la pomme ; à la fin du XIIe siècle, les moines de Glastonbury affirmèrent y avoir trouvé la tombe d'Arthur.",
+      "wikipedia": "Avalon"
+    },
+    {
+      "id": "mythologie-113",
+      "difficulty": 2,
+      "question": "Quel jeune chevalier gallois, héros inachevé de Chrétien de Troyes, aperçoit le Graal chez le Roi Pêcheur ?",
+      "answer": "Perceval",
+      "accept": [
+        "Parsifal",
+        "Perceval le Gallois"
+      ],
+      "choices": [
+        "Gauvain",
+        "Yvain",
+        "Érec"
+      ],
+      "explanation": "N'osant poser de questions sur le cortège du Graal, il manque l'occasion de guérir le roi ; Wagner en a fait son Parsifal.",
+      "wikipedia": "Perceval"
+    },
+    {
+      "id": "mythologie-114",
+      "difficulty": 2,
+      "question": "Quelle ville légendaire de Bretagne, gouvernée par le roi Gradlon, fut engloutie par les flots ?",
+      "answer": "Ys",
+      "accept": [
+        "ville d'Ys"
+      ],
+      "choices": [
+        "Is",
+        "Kerys",
+        "Lyonesse"
+      ],
+      "explanation": "Sa fille Dahut aurait ouvert les écluses en dérobant la clé à son père ; les Parisiens, dit-on, ont nommé leur ville « Par-Is », égale d'Ys.",
+      "wikipedia": "Ys"
+    },
+    {
+      "id": "mythologie-115",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les petits nains facétieux du folklore breton, que les contes logent dans les dolmens et les tumulus ?",
+      "answer": "korrigans",
+      "accept": [
+        "korrigan"
+      ],
+      "choices": [
+        "farfadets",
+        "lutins",
+        "gnomes"
+      ],
+      "explanation": "Leur nom breton signifie littéralement « petit nain » ; la Bretagne connaît d'innombrables noms pour désigner ce petit peuple selon son habitat.",
+      "wikipedia": "Korrigan"
+    },
+    {
+      "id": "mythologie-116",
+      "difficulty": 2,
+      "question": "Quel personnage du folklore breton, ouvrier de la mort, vient chercher les âmes avec sa charrette grinçante ?",
+      "answer": "Ankou",
+      "accept": [],
+      "choices": [
+        "Bugul-noz",
+        "Korrigan",
+        "Teuz"
+      ],
+      "explanation": "Il s'agirait du dernier mort de l'année dans chaque paroisse ; des églises et ossuaires bretons, comme à La Roche-Maurice, le montrent en squelette armé d'une faux ou d'une flèche.",
+      "wikipedia": "Ankou"
+    },
+    {
+      "id": "mythologie-117",
+      "difficulty": 2,
+      "question": "Dans quelle ville allemande un joueur de flûte entraîna-t-il les rats, puis les enfants, faute d'avoir été payé ?",
+      "answer": "Hamelin",
+      "accept": [
+        "Hameln"
+      ],
+      "choices": [
+        "Brême",
+        "Göttingen",
+        "Nuremberg"
+      ],
+      "explanation": "La légende, popularisée par les frères Grimm, situe le départ des cent trente enfants en 1284 ; elle reste au cœur du tourisme de la ville.",
+      "wikipedia": "Le Joueur de flûte de Hamelin"
+    },
+    {
+      "id": "mythologie-118",
+      "difficulty": 2,
+      "question": "Quelle créature d'argile, animée par un rabbin de Prague selon la légende, devait protéger la communauté juive ?",
+      "answer": "golem",
+      "accept": [],
+      "choices": [
+        "homoncule",
+        "automate",
+        "dibbouk"
+      ],
+      "explanation": "On attribue sa création au Maharal ; il était animé par le mot « emet » (vérité), dont l'effacement d'une lettre donnait « met » (mort).",
+      "wikipedia": "Golem"
+    },
+    {
+      "id": "mythologie-119",
+      "difficulty": 2,
+      "question": "Quelle sorcière des contes russes vit dans une isba montée sur des pattes de poulet ?",
+      "answer": "Baba Yaga",
+      "accept": [],
+      "choices": [
+        "Kikimora",
+        "Roussalka",
+        "Morana"
+      ],
+      "explanation": "Elle se déplace dans un mortier qu'elle dirige avec un pilon, en effaçant ses traces avec un balai.",
+      "wikipedia": "Baba Yaga"
+    },
+    {
+      "id": "mythologie-120",
+      "difficulty": 2,
+      "question": "Quel monstre amphibie de Provence, apprivoisé par sainte Marthe, a donné son nom à une ville au bord du Rhône ?",
+      "answer": "Tarasque",
+      "accept": [],
+      "choices": [
+        "Graoully",
+        "Coulobre",
+        "Drac"
+      ],
+      "explanation": "Ce monstre de Tarascon défile chaque année lors des fêtes de la Tarasque, inscrites au patrimoine culturel immatériel par l'Unesco.",
+      "wikipedia": "Tarasque"
+    },
+    {
+      "id": "mythologie-121",
+      "difficulty": 2,
+      "question": "Quel héros germanique devint presque invulnérable en se baignant dans le sang du dragon Fafner qu'il avait tué ?",
+      "answer": "Siegfried",
+      "accept": [
+        "Sigurd"
+      ],
+      "choices": [
+        "Hagen",
+        "Gunther",
+        "Beowulf"
+      ],
+      "explanation": "Une feuille de tilleul tombée entre ses omoplates laissa un point vulnérable, que Hagen frappa traîtreusement d'une lance.",
+      "wikipedia": "Siegfried (mythologie)"
+    },
+    {
+      "id": "mythologie-122",
+      "difficulty": 2,
+      "question": "Quelle fée, qui se changeait chaque samedi en femme-serpent, est l'ancêtre légendaire de la famille de Lusignan ?",
+      "answer": "Mélusine",
+      "accept": [
+        "Melusine"
+      ],
+      "choices": [
+        "Morgane",
+        "Viviane",
+        "Dahut"
+      ],
+      "explanation": "Son époux Raymondin, qui avait juré de ne jamais la voir ce jour-là, l'épia dans son bain ; elle s'envola alors en poussant un cri.",
+      "wikipedia": "Mélusine (fée)"
+    },
+    {
+      "id": "mythologie-123",
+      "difficulty": 2,
+      "question": "Quelle déesse mésopotamienne de l'amour et de la guerre a donné son nom à une porte monumentale de Babylone ?",
+      "answer": "Ishtar",
+      "accept": [
+        "Inanna"
+      ],
+      "choices": [
+        "Ninhursag",
+        "Ereshkigal",
+        "Tiamat"
+      ],
+      "explanation": "Cette porte de briques bleues émaillées, ornée de dragons et d'aurochs, a été remontée au musée de Pergame à Berlin.",
+      "wikipedia": "Ishtar"
+    },
+    {
+      "id": "mythologie-124",
+      "difficulty": 2,
+      "question": "Quel dieu hindou, protecteur de l'univers, descend sur terre sous la forme de dix avatars successifs ?",
+      "answer": "Vishnou",
+      "accept": [
+        "Vishnu"
+      ],
+      "choices": [
+        "Brahma",
+        "Indra",
+        "Shiva"
+      ],
+      "explanation": "Parmi ses avatars figurent le poisson Matsya, Rama et Krishna ; entre deux cycles du monde, il repose sur le serpent cosmique Shesha.",
+      "wikipedia": "Vishnou"
+    },
+    {
+      "id": "mythologie-125",
+      "difficulty": 2,
+      "question": "Quel roi-démon à dix têtes enlève Sita et l'emmène sur l'île de Lanka dans le Ramayana ?",
+      "answer": "Ravana",
+      "accept": [
+        "Rāvaṇa"
+      ],
+      "choices": [
+        "Kumbhakarna",
+        "Mahishasura",
+        "Hiranyakashipu"
+      ],
+      "explanation": "Rama le vainc avec l'aide d'une armée de singes ; en Inde, des effigies géantes de lui sont brûlées lors de la fête de Dussehra.",
+      "wikipedia": "Ravana"
+    },
+    {
+      "id": "mythologie-126",
+      "difficulty": 2,
+      "question": "Quelle déesse hindoue à la peau noire, langue tirée, porte un collier de têtes coupées ?",
+      "answer": "Kali",
+      "accept": [],
+      "choices": [
+        "Durga",
+        "Parvati",
+        "Sarasvati"
+      ],
+      "explanation": "Forme terrible de la parèdre de Shiva, elle est surtout vénérée au Bengale ; selon une étymologie courante, elle aurait donné son nom à Calcutta.",
+      "wikipedia": "Kali"
+    },
+    {
+      "id": "mythologie-127",
+      "difficulty": 2,
+      "question": "Quel dieu du Soleil, dont l'empereur se disait le fils, était au cœur de la religion inca ?",
+      "answer": "Inti",
+      "accept": [],
+      "choices": [
+        "Viracocha",
+        "Illapa",
+        "Supay"
+      ],
+      "explanation": "Sa grande fête, l'Inti Raymi, célébrée au solstice de juin, est encore reconstituée chaque année à Cuzco.",
+      "wikipedia": "Inti"
+    },
+    {
+      "id": "mythologie-128",
+      "difficulty": 2,
+      "question": "Quelle déesse japonaise du Soleil, ancêtre de la lignée impériale, se cacha dans une grotte, plongeant le monde dans la nuit ?",
+      "answer": "Amaterasu",
+      "accept": [],
+      "choices": [
+        "Izanami",
+        "Inari",
+        "Benzaiten"
+      ],
+      "explanation": "Les dieux l'attirèrent hors de la grotte grâce à un miroir et à une danse burlesque ; ce miroir compte parmi les trois trésors sacrés impériaux.",
+      "wikipedia": "Amaterasu"
+    },
+    {
+      "id": "mythologie-129",
+      "difficulty": 2,
+      "question": "Quel roi des singes, armé d'un bâton magique, escorte un moine bouddhiste dans le roman chinois La Pérégrination vers l'Ouest ?",
+      "answer": "Sun Wukong",
+      "accept": [
+        "Roi singe"
+      ],
+      "choices": [
+        "Zhu Bajie",
+        "Sha Wujing",
+        "Nezha"
+      ],
+      "explanation": "Né d'un œuf de pierre, il sème le chaos au Ciel avant d'être emprisonné par le Bouddha sous une montagne, d'où il n'est délivré que cinq cents ans plus tard.",
+      "wikipedia": "Sun Wukong"
+    },
+    {
+      "id": "mythologie-130",
+      "difficulty": 2,
+      "question": "Quel animal, arrivé premier à la course légendaire organisée par l'Empereur de Jade, ouvre le zodiaque chinois ?",
+      "answer": "rat",
+      "accept": [],
+      "choices": [
+        "bœuf",
+        "tigre",
+        "dragon"
+      ],
+      "explanation": "Selon le conte, il se fit porter par le bœuf avant de sauter au dernier moment ; le chat, qu'il avait trompé, fut exclu du zodiaque.",
+      "wikipedia": "Astrologie chinoise"
+    },
+    {
+      "id": "mythologie-131",
+      "difficulty": 3,
+      "question": "Quel géant de bronze, forgé par Héphaïstos, faisait chaque jour le tour de la Crète pour la protéger ?",
+      "answer": "Talos",
+      "accept": [],
+      "choices": [
+        "Antée",
+        "Briarée",
+        "Argos"
+      ],
+      "explanation": "Sa seule veine, fermée par un clou à la cheville, fut ouverte grâce aux sortilèges de Médée lors du passage des Argonautes.",
+      "wikipedia": "Talos (Crète)"
+    },
+    {
+      "id": "mythologie-132",
+      "difficulty": 3,
+      "question": "Comment s'appelle le vieux chien d'Ulysse qui reconnut son maître à son retour, puis mourut ?",
+      "answer": "Argos",
+      "accept": [],
+      "choices": [
+        "Laelaps",
+        "Orthros",
+        "Mélampous"
+      ],
+      "explanation": "Couché sur un tas de fumier, il agita la queue en apercevant Ulysse déguisé en mendiant, que personne d'autre n'avait reconnu.",
+      "wikipedia": "Argos (chien d'Ulysse)"
+    },
+    {
+      "id": "mythologie-133",
+      "difficulty": 3,
+      "question": "Quel centaure sage et savant fut le précepteur d'Achille et de Jason ?",
+      "answer": "Chiron",
+      "accept": [],
+      "choices": [
+        "Nessos",
+        "Pholos",
+        "Eurytion"
+      ],
+      "explanation": "Blessé par une flèche empoisonnée d'Héraclès, il renonça à son immortalité ; Zeus le plaça dans le ciel, sous la forme du Sagittaire.",
+      "wikipedia": "Chiron (mythologie)"
+    },
+    {
+      "id": "mythologie-134",
+      "difficulty": 3,
+      "question": "Quel dieu nordique de la guerre perdit une main dans la gueule du loup Fenrir ?",
+      "answer": "Tyr",
+      "accept": [
+        "Týr"
+      ],
+      "choices": [
+        "Vidar",
+        "Ull",
+        "Höd"
+      ],
+      "explanation": "Il avait placé sa main dans la gueule du loup en gage de bonne foi pendant qu'on l'enchaînait ; son nom a donné celui du mardi dans les langues germaniques.",
+      "wikipedia": "Týr"
+    },
+    {
+      "id": "mythologie-135",
+      "difficulty": 3,
+      "question": "Quel serpent géant, enfant de Loki, encercle le monde des hommes en se mordant la queue ?",
+      "answer": "Jörmungand",
+      "accept": [
+        "Jormungand",
+        "serpent de Midgard"
+      ],
+      "choices": [
+        "Nidhogg",
+        "Fafnir",
+        "Ratatosk"
+      ],
+      "explanation": "Thor faillit le pêcher avec une tête de bœuf pour appât ; au Ragnarök, les deux ennemis doivent s'entretuer.",
+      "wikipedia": "Jörmungand"
+    },
+    {
+      "id": "mythologie-136",
+      "difficulty": 3,
+      "question": "Quel géant primordial de la mythologie nordique fut tué par Odin et ses frères, qui façonnèrent le monde avec son corps ?",
+      "answer": "Ymir",
+      "accept": [],
+      "choices": [
+        "Surt",
+        "Búri",
+        "Mímir"
+      ],
+      "explanation": "Sa chair devint la terre, son sang la mer, ses os les montagnes et son crâne la voûte céleste ; il était nourri par la vache Audhumla.",
+      "wikipedia": "Ymir"
+    },
+    {
+      "id": "mythologie-137",
+      "difficulty": 3,
+      "question": "Quel dieu nordique, gardien des dieux, soufflera dans le cor Gjallarhorn pour annoncer le Ragnarök ?",
+      "answer": "Heimdall",
+      "accept": [
+        "Heimdallr"
+      ],
+      "choices": [
+        "Bragi",
+        "Vidar",
+        "Forseti"
+      ],
+      "explanation": "Doté d'une vue et d'une ouïe extraordinaires, il entendrait pousser l'herbe ; il est né, dit-on, de neuf mères.",
+      "wikipedia": "Heimdall"
+    },
+    {
+      "id": "mythologie-138",
+      "difficulty": 3,
+      "question": "Quelle déesse égyptienne à tête de lionne faillit anéantir l'humanité avant d'être enivrée de bière teintée en rouge ?",
+      "answer": "Sekhmet",
+      "accept": [],
+      "choices": [
+        "Bastet",
+        "Tefnout",
+        "Ouadjet"
+      ],
+      "explanation": "Rê l'avait envoyée châtier les hommes ; trompée, elle but le breuvage qu'elle prit pour du sang et s'endormit.",
+      "wikipedia": "Sekhmet"
+    },
+    {
+      "id": "mythologie-139",
+      "difficulty": 3,
+      "question": "Quelle créature hybride dévorait le cœur des défunts jugés indignes lors de la pesée devant Osiris ?",
+      "answer": "Ammout",
+      "accept": [
+        "Ammit"
+      ],
+      "choices": [
+        "Apophis",
+        "Taouret",
+        "Sobek"
+      ],
+      "explanation": "Elle combinait une tête de crocodile, un avant-corps de lion et un arrière-train d'hippopotame ; être dévoré par elle signifiait mourir une seconde fois.",
+      "wikipedia": "Ammout"
+    },
+    {
+      "id": "mythologie-140",
+      "difficulty": 3,
+      "question": "Quel héros irlandais d'Ulster tient son surnom du chien de garde du forgeron Culann, qu'il tua enfant ?",
+      "answer": "Cúchulainn",
+      "accept": [
+        "Cuchulainn",
+        "Cuchulain"
+      ],
+      "choices": [
+        "Fionn mac Cumhaill",
+        "Conchobar",
+        "Fergus"
+      ],
+      "explanation": "Pour réparer son geste, il proposa de servir lui-même de chien de garde ; il défend seul l'Ulster dans la Razzia des vaches de Cooley.",
+      "wikipedia": "Cúchulainn"
+    },
+    {
+      "id": "mythologie-141",
+      "difficulty": 3,
+      "question": "Quel dragon, chassé par saint Clément selon la légende, est devenu l'emblème de la ville de Metz ?",
+      "answer": "Graoully",
+      "accept": [
+        "Graouilly"
+      ],
+      "choices": [
+        "Tarasque",
+        "Coulobre",
+        "Drac"
+      ],
+      "explanation": "Une représentation du monstre est suspendue dans la crypte de la cathédrale Saint-Étienne ; il figure aussi dans le logo du club de football messin.",
+      "wikipedia": "Graoully"
+    },
+    {
+      "id": "mythologie-142",
+      "difficulty": 3,
+      "question": "Quel homme sauvage, façonné par les dieux pour rivaliser avec Gilgamesh, devient finalement son meilleur ami ?",
+      "answer": "Enkidu",
+      "accept": [],
+      "choices": [
+        "Humbaba",
+        "Utanapishtim",
+        "Shamhat"
+      ],
+      "explanation": "Ensemble, ils tuent le géant Humbaba et le Taureau céleste ; sa mort plonge Gilgamesh dans l'angoisse et le pousse à chercher l'immortalité.",
+      "wikipedia": "Enkidu"
+    },
+    {
+      "id": "mythologie-143",
+      "difficulty": 3,
+      "question": "Quel dieu protecteur de Babylone devient roi des dieux après avoir vaincu Tiamat dans l'Enuma Elish ?",
+      "answer": "Marduk",
+      "accept": [
+        "Mardouk"
+      ],
+      "choices": [
+        "Enlil",
+        "Assur",
+        "Nabû"
+      ],
+      "explanation": "Il fendit le corps du monstre en deux pour créer le ciel et la terre ; son grand temple, l'Esagil, était voisin de la ziggourat de Babylone.",
+      "wikipedia": "Marduk"
+    },
+    {
+      "id": "mythologie-144",
+      "difficulty": 3,
+      "question": "Quel roi des dieux du panthéon védique manie la foudre et tua le serpent Vritra qui retenait les eaux ?",
+      "answer": "Indra",
+      "accept": [],
+      "choices": [
+        "Agni",
+        "Varuna",
+        "Soma"
+      ],
+      "explanation": "Divinité majeure du Rig-Veda, il chevauche l'éléphant blanc Airavata ; son importance a décliné face à Vishnou et Shiva.",
+      "wikipedia": "Indra"
+    },
+    {
+      "id": "mythologie-145",
+      "difficulty": 3,
+      "question": "Quel livre sacré des Mayas Quichés raconte la création du monde et les exploits des jumeaux Hunahpu et Xbalanque ?",
+      "answer": "Popol Vuh",
+      "accept": [],
+      "choices": [
+        "Chilam Balam",
+        "Codex de Dresde",
+        "Rabinal Achi"
+      ],
+      "explanation": "Selon ce récit, les dieux échouèrent à créer l'homme avec de la boue et du bois avant de réussir avec la pâte de maïs.",
+      "wikipedia": "Popol Vuh"
+    },
+    {
+      "id": "mythologie-146",
+      "difficulty": 3,
+      "question": "Quelle créature ailée géante des mythes amérindiens produirait l'orage en battant des ailes et des éclairs par ses yeux ?",
+      "answer": "Oiseau-tonnerre",
+      "accept": [
+        "oiseau tonnerre"
+      ],
+      "choices": [
+        "Quetzal",
+        "Roc",
+        "Piasa"
+      ],
+      "explanation": "Figure majeure de l'art des peuples de la côte nord-ouest de l'Amérique du Nord, il est souvent sculpté au sommet des totems.",
+      "wikipedia": "Oiseau-tonnerre"
+    },
+    {
+      "id": "mythologie-147",
+      "difficulty": 3,
+      "question": "Quelle créature cannibale du folklore algonquien, associée à l'hiver et à la famine, posséderait les hommes perdus en forêt ?",
+      "answer": "Wendigo",
+      "accept": [
+        "Windigo"
+      ],
+      "choices": [
+        "Sasquatch",
+        "Skinwalker",
+        "Ogopogo"
+      ],
+      "explanation": "Selon la croyance, celui qui mangeait de la chair humaine pour survivre risquait de se transformer en ce géant insatiable au cœur de glace.",
+      "wikipedia": "Wendigo"
+    },
+    {
+      "id": "mythologie-148",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on au Japon le renard surnaturel dont les pouvoirs grandissent avec le nombre de ses queues ?",
+      "answer": "kitsune",
+      "accept": [],
+      "choices": [
+        "tanuki",
+        "tengu",
+        "bakeneko"
+      ],
+      "explanation": "Il peut prendre forme humaine, souvent celle d'une belle femme ; il sert aussi de messager à Inari, divinité du riz.",
+      "wikipedia": "Renard dans la culture japonaise"
+    },
+    {
+      "id": "mythologie-149",
+      "difficulty": 3,
+      "question": "Quel génie aquatique du folklore japonais perdrait ses forces si l'eau contenue dans le creux de son crâne se renversait ?",
+      "answer": "kappa",
+      "accept": [],
+      "choices": [
+        "tengu",
+        "oni",
+        "yurei"
+      ],
+      "explanation": "Le sommet de son crâne forme une coupelle appelée sara ; il raffolerait des concombres, jadis offerts aux divinités des eaux dont il serait une forme déchue.",
+      "wikipedia": "Kappa (mythologie)"
+    },
+    {
+      "id": "mythologie-150",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on les cinquante sœurs condamnées aux Enfers à remplir sans fin un tonneau percé ?",
+      "answer": "Danaïdes",
+      "accept": [
+        "Danaides"
+      ],
+      "choices": [
+        "Néréides",
+        "Pléiades",
+        "Hespérides"
+      ],
+      "explanation": "Filles du roi Danaos, toutes sauf une égorgèrent leur époux le soir des noces ; d'où l'expression « tonneau des Danaïdes ».",
+      "wikipedia": "Danaïdes"
+    }
+  ]
+}
