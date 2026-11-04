@@ -1,24 +1,24 @@
 # Rapport — banque de questions
 
-- Questions : **1000**
-- Vérifiées contre Wikipédia : **1000**
+- Questions : **5000**
+- Vérifiées contre Wikipédia : **5000**
 
 ## Par catégorie
 
 | Catégorie | Questions | Objectif | Niv. 1 / 2 / 3 | Vérifiées |
 |---|---:|---:|---|---:|
-| Histoire | 120 | 120 | 48 / 48 / 24 | 120 |
-| Géographie | 120 | 120 | 48 / 48 / 24 | 120 |
-| Sciences & techniques | 110 | 110 | 44 / 44 / 22 | 110 |
-| Nature & animaux | 90 | 90 | 36 / 36 / 18 | 90 |
-| Arts & littérature | 100 | 100 | 40 / 40 / 20 | 100 |
-| Musique | 70 | 70 | 28 / 28 / 14 | 70 |
-| Cinéma & télévision | 80 | 80 | 32 / 32 / 16 | 80 |
-| Sport & jeux | 80 | 80 | 32 / 32 / 16 | 80 |
-| Langue & expressions | 70 | 70 | 28 / 28 / 14 | 70 |
-| Mythologies & religions | 50 | 50 | 20 / 20 / 10 | 50 |
-| Gastronomie & vie quotidienne | 60 | 60 | 24 / 24 / 12 | 60 |
-| Société, politique & économie | 50 | 50 | 20 / 20 / 10 | 50 |
+| Histoire | 600 | 600 | 240 / 240 / 120 | 600 |
+| Géographie | 600 | 600 | 240 / 240 / 120 | 600 |
+| Sciences & techniques | 550 | 550 | 220 / 220 / 110 | 550 |
+| Nature & animaux | 450 | 450 | 180 / 180 / 90 | 450 |
+| Arts & littérature | 500 | 500 | 200 / 200 / 100 | 500 |
+| Musique | 350 | 350 | 140 / 140 / 70 | 350 |
+| Cinéma & télévision | 400 | 400 | 160 / 160 / 80 | 400 |
+| Sport & jeux | 400 | 400 | 160 / 160 / 80 | 400 |
+| Langue & expressions | 350 | 350 | 140 / 140 / 70 | 350 |
+| Mythologies & religions | 250 | 250 | 100 / 100 / 50 | 250 |
+| Gastronomie & vie quotidienne | 300 | 300 | 120 / 120 / 60 | 300 |
+| Société, politique & économie | 250 | 250 | 100 / 100 / 50 | 250 |
 
 ## Erreurs (0)
 
