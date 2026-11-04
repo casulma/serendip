@@ -1,0 +1,1530 @@
+{
+  "category": "societe",
+  "questions": [
+    {
+      "id": "societe-151",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la baisse générale et durable du niveau des prix, phénomène inverse de l'inflation ?",
+      "answer": "déflation",
+      "accept": [],
+      "choices": [
+        "désinflation",
+        "stagflation",
+        "récession"
+      ],
+      "explanation": "Moins spectaculaire que l'inflation, elle est redoutée car les ménages reportent leurs achats en attendant des prix plus bas, ce qui freine encore l'activité.",
+      "wikipedia": "Déflation"
+    },
+    {
+      "id": "societe-152",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le recul du PIB d'un pays pendant au moins deux trimestres consécutifs ?",
+      "answer": "récession",
+      "accept": [],
+      "choices": [
+        "dépression",
+        "stagnation",
+        "déflation"
+      ],
+      "explanation": "Lorsque le recul est très profond et durable, comme dans les années 1930, les économistes parlent plutôt de dépression.",
+      "wikipedia": "Récession (économie)"
+    },
+    {
+      "id": "societe-153",
+      "difficulty": 2,
+      "question": "Quel économiste britannique a formulé la théorie des avantages comparatifs, illustrée par le vin portugais et le drap anglais ?",
+      "answer": "David Ricardo",
+      "accept": [
+        "Ricardo"
+      ],
+      "choices": [
+        "Adam Smith",
+        "John Stuart Mill",
+        "Thomas Malthus"
+      ],
+      "explanation": "Agent de change devenu richissime, il expose cette théorie en 1817 dans ses Principes de l'économie politique et de l'impôt.",
+      "wikipedia": "David Ricardo"
+    },
+    {
+      "id": "societe-154",
+      "difficulty": 2,
+      "question": "Quel pasteur anglais craignait que la population, croissant plus vite que les subsistances, ne conduise à la famine ?",
+      "answer": "Thomas Malthus",
+      "accept": [
+        "Malthus"
+      ],
+      "choices": [
+        "David Ricardo",
+        "Jeremy Bentham",
+        "John Locke"
+      ],
+      "explanation": "Selon son Essai sur le principe de population, la population croît selon une progression géométrique et les ressources selon une progression arithmétique.",
+      "wikipedia": "Thomas Malthus"
+    },
+    {
+      "id": "societe-155",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on un marché dominé par un petit nombre de vendeurs face à une multitude d'acheteurs ?",
+      "answer": "oligopole",
+      "accept": [],
+      "choices": [
+        "monopsone",
+        "duopsone",
+        "cartel"
+      ],
+      "explanation": "Le mot vient du grec oligos, « peu nombreux » ; quand il n'y a que deux vendeurs, on parle de duopole.",
+      "wikipedia": "Oligopole"
+    },
+    {
+      "id": "societe-156",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on le marché où un acheteur unique fait face à de nombreux vendeurs ?",
+      "answer": "monopsone",
+      "accept": [],
+      "choices": [
+        "oligopole",
+        "duopole",
+        "oligopsone"
+      ],
+      "explanation": "C'est le symétrique du monopole : l'acheteur unique peut imposer ses prix, comme un grand employeur seul dans une région.",
+      "wikipedia": "Monopsone"
+    },
+    {
+      "id": "societe-157",
+      "difficulty": 2,
+      "question": "Quel impôt sur la consommation a été inventé en France par le haut fonctionnaire Maurice Lauré au milieu des années 1950 ?",
+      "answer": "TVA",
+      "accept": [
+        "taxe sur la valeur ajoutée"
+      ],
+      "choices": [
+        "CSG",
+        "ISF",
+        "octroi"
+      ],
+      "explanation": "Instaurée en 1954, d'abord pour les seules entreprises, elle a depuis été adoptée par la plupart des pays du monde.",
+      "wikipedia": "Taxe sur la valeur ajoutée"
+    },
+    {
+      "id": "societe-158",
+      "difficulty": 1,
+      "question": "Quel indice phare de la Bourse de Paris a été lancé à la fin de 1987 avec une base de 1 000 points ?",
+      "answer": "CAC 40",
+      "accept": [
+        "CAC"
+      ],
+      "choices": [
+        "SBF 120",
+        "Dow Jones",
+        "DAX"
+      ],
+      "explanation": "Son sigle désignait d'abord la Compagnie des agents de change ; il se lit aujourd'hui « Cotation assistée en continu ».",
+      "wikipedia": "CAC 40"
+    },
+    {
+      "id": "societe-159",
+      "difficulty": 1,
+      "question": "Quelle rue de Manhattan, berceau de la Bourse de New York, est devenue synonyme de la finance américaine ?",
+      "answer": "Wall Street",
+      "accept": [],
+      "choices": [
+        "Fifth Avenue",
+        "Broadway",
+        "Madison Avenue"
+      ],
+      "explanation": "Elle doit son nom au mur de bois que les colons néerlandais de La Nouvelle-Amsterdam y avaient élevé au XVIIe siècle.",
+      "wikipedia": "Wall Street"
+    },
+    {
+      "id": "societe-160",
+      "difficulty": 1,
+      "question": "Quel surnom désigne la journée d'octobre 1929 qui marqua le début de l'effondrement de la Bourse de New York ?",
+      "answer": "Jeudi noir",
+      "accept": [],
+      "choices": [
+        "Lundi noir",
+        "Vendredi noir",
+        "Mardi gras"
+      ],
+      "explanation": "Le 24 octobre 1929, la panique s'empare de Wall Street ; le krach ouvre la Grande Dépression qui frappera le monde entier.",
+      "wikipedia": "Krach de 1929"
+    },
+    {
+      "id": "societe-161",
+      "difficulty": 2,
+      "question": "Quelle fièvre spéculative néerlandaise du XVIIe siècle porta sur des bulbes de fleurs vendus à prix d'or ?",
+      "answer": "tulipomanie",
+      "accept": [
+        "crise de la tulipe"
+      ],
+      "choices": [
+        "jacinthomanie",
+        "bulle des mers du Sud",
+        "système de Law"
+      ],
+      "explanation": "Au plus fort de la bulle, en 1637, un seul bulbe rare pouvait s'échanger contre le prix d'une maison à Amsterdam.",
+      "wikipedia": "Tulipomanie"
+    },
+    {
+      "id": "societe-162",
+      "difficulty": 2,
+      "question": "Quel financier écossais introduisit le papier-monnaie en France sous la Régence avant une faillite retentissante ?",
+      "answer": "John Law",
+      "accept": [
+        "Law"
+      ],
+      "choices": [
+        "Jacques Necker",
+        "Nicolas Fouquet",
+        "Samuel Bernard"
+      ],
+      "explanation": "Son « Système », fondé sur la Banque générale et la Compagnie du Mississippi, s'effondra en 1720 et laissa aux Français une durable méfiance envers les billets.",
+      "wikipedia": "John Law de Lauriston"
+    },
+    {
+      "id": "societe-163",
+      "difficulty": 2,
+      "question": "Comment s'appelaient les billets émis sous la Révolution, gagés sur les biens du clergé, qui perdirent presque toute leur valeur ?",
+      "answer": "assignats",
+      "accept": [
+        "assignat"
+      ],
+      "choices": [
+        "mandats territoriaux",
+        "louis d'or",
+        "écus"
+      ],
+      "explanation": "Émis à partir de 1789, ils furent imprimés en telle quantité que leur valeur s'effondra ; on les abandonna en 1796.",
+      "wikipedia": "Assignat"
+    },
+    {
+      "id": "societe-164",
+      "difficulty": 1,
+      "question": "Quelle banque d'affaires américaine a fait faillite en septembre 2008, au cœur de la crise financière ?",
+      "answer": "Lehman Brothers",
+      "accept": [
+        "Lehman"
+      ],
+      "choices": [
+        "Goldman Sachs",
+        "Bear Stearns",
+        "Morgan Stanley"
+      ],
+      "explanation": "C'est la plus grosse faillite de l'histoire des États-Unis : l'État fédéral refusa de la sauver, provoquant une panique mondiale.",
+      "wikipedia": "Lehman Brothers"
+    },
+    {
+      "id": "societe-165",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les crédits immobiliers à risque accordés aux ménages américains peu solvables, à l'origine de la crise de 2007 ?",
+      "answer": "subprimes",
+      "accept": [
+        "subprime"
+      ],
+      "choices": [
+        "junk bonds",
+        "stock-options",
+        "eurobonds"
+      ],
+      "explanation": "Revendus sous forme de titres complexes à des banques du monde entier, ces prêts ont propagé la crise bien au-delà des États-Unis.",
+      "wikipedia": "Crise des subprimes"
+    },
+    {
+      "id": "societe-166",
+      "difficulty": 2,
+      "question": "Dans quelle station du New Hampshire fut créé en 1944 le système monétaire fondé sur le dollar convertible en or ?",
+      "answer": "Bretton Woods",
+      "accept": [],
+      "choices": [
+        "Camp David",
+        "Davos",
+        "Jekyll Island"
+      ],
+      "explanation": "Ces accords donnèrent aussi naissance au FMI et à la Banque mondiale ; le système prit fin quand Nixon suspendit la convertibilité en 1971.",
+      "wikipedia": "Accords de Bretton Woods"
+    },
+    {
+      "id": "societe-167",
+      "difficulty": 1,
+      "question": "Quelle était la monnaie de l'Italie avant son remplacement par l'euro ?",
+      "answer": "lire",
+      "accept": [
+        "lire italienne"
+      ],
+      "choices": [
+        "peseta",
+        "drachme",
+        "escudo"
+      ],
+      "explanation": "Son nom vient du latin libra, la livre, comme la livre tournois française ou la livre sterling.",
+      "wikipedia": "Lire italienne"
+    },
+    {
+      "id": "societe-168",
+      "difficulty": 1,
+      "question": "Quelle monnaie, l'une des plus anciennes du monde, a été remplacée par l'euro en Grèce en 2002 ?",
+      "answer": "drachme",
+      "accept": [],
+      "choices": [
+        "lire",
+        "escudo",
+        "peseta"
+      ],
+      "explanation": "Déjà utilisée dans les cités grecques antiques, elle avait été réintroduite en 1832 après l'indépendance du pays.",
+      "wikipedia": "Drachme (Grèce moderne)"
+    },
+    {
+      "id": "societe-169",
+      "difficulty": 3,
+      "question": "Quel nom, signifiant « monnaie du peuple », porte officiellement la monnaie de la Chine, dont l'unité est le yuan ?",
+      "answer": "renminbi",
+      "accept": [],
+      "choices": [
+        "won",
+        "dong",
+        "tael"
+      ],
+      "explanation": "On parle du renminbi pour la monnaie et du yuan pour l'unité de compte, un peu comme sterling et livre au Royaume-Uni.",
+      "wikipedia": "Yuan"
+    },
+    {
+      "id": "societe-170",
+      "difficulty": 1,
+      "question": "Quelle monnaie russe se divise en cent kopecks ?",
+      "answer": "rouble",
+      "accept": [
+        "rouble russe"
+      ],
+      "choices": [
+        "hryvnia",
+        "tenge",
+        "lev"
+      ],
+      "explanation": "Son symbole officiel, un R cyrillique barré horizontalement, n'a été adopté qu'en 2013, sur le modèle de ceux de l'euro ou du dollar.",
+      "wikipedia": "Rouble russe"
+    },
+    {
+      "id": "societe-171",
+      "difficulty": 2,
+      "question": "Quelle monnaie a été introduite au Brésil en 1994 par un plan qui porte son nom, pour vaincre l'hyperinflation ?",
+      "answer": "real",
+      "accept": [
+        "réal"
+      ],
+      "choices": [
+        "cruzeiro",
+        "peso",
+        "escudo"
+      ],
+      "explanation": "Le plan Real a mis fin à des années d'inflation galopante et porté son artisan, le ministre Fernando Henrique Cardoso, à la présidence ; le pluriel portugais est reais.",
+      "wikipedia": "Réal brésilien"
+    },
+    {
+      "id": "societe-172",
+      "difficulty": 1,
+      "question": "Quelle monnaie, utilisée par quatorze pays d'Afrique de l'Ouest et centrale, est née en 1945 ?",
+      "answer": "franc CFA",
+      "accept": [
+        "CFA"
+      ],
+      "choices": [
+        "dinar",
+        "cedi",
+        "naira"
+      ],
+      "explanation": "Le sigle signifiait à l'origine « Colonies françaises d'Afrique » ; il en existe en réalité deux, l'un pour l'Afrique de l'Ouest, l'autre pour l'Afrique centrale.",
+      "wikipedia": "Franc CFA"
+    },
+    {
+      "id": "societe-173",
+      "difficulty": 1,
+      "question": "Quelle cryptomonnaie a été lancée en 2009 par un mystérieux inventeur se faisant appeler Satoshi Nakamoto ?",
+      "answer": "Bitcoin",
+      "accept": [],
+      "choices": [
+        "Ethereum",
+        "Litecoin",
+        "Dogecoin"
+      ],
+      "explanation": "La véritable identité de son créateur reste inconnue ; la plus petite subdivision de la monnaie porte le nom de satoshi en son honneur.",
+      "wikipedia": "Bitcoin"
+    },
+    {
+      "id": "societe-174",
+      "difficulty": 2,
+      "question": "Quel économiste français a publié en 2013 Le Capital au XXIe siècle, consacré aux inégalités de patrimoine ?",
+      "answer": "Thomas Piketty",
+      "accept": [
+        "Piketty"
+      ],
+      "choices": [
+        "Jean Tirole",
+        "Esther Duflo",
+        "Daniel Cohen"
+      ],
+      "explanation": "Traduit dans des dizaines de langues, ce pavé de près de mille pages est devenu un succès mondial, notamment aux États-Unis.",
+      "wikipedia": "Thomas Piketty"
+    },
+    {
+      "id": "societe-175",
+      "difficulty": 2,
+      "question": "Quel économiste bangladais, pionnier du microcrédit, a reçu le prix Nobel de la paix en 2006 ?",
+      "answer": "Muhammad Yunus",
+      "accept": [
+        "Yunus"
+      ],
+      "choices": [
+        "Amartya Sen",
+        "Kofi Annan",
+        "Abhijit Banerjee"
+      ],
+      "explanation": "Surnommé le « banquier des pauvres », il a fondé en 1976 la Grameen Bank, qui prête de petites sommes sans exiger de garantie.",
+      "wikipedia": "Muhammad Yunus"
+    },
+    {
+      "id": "societe-176",
+      "difficulty": 3,
+      "question": "Quel économiste français a donné son nom à la loi des débouchés, selon laquelle l'offre crée sa propre demande ?",
+      "answer": "Jean-Baptiste Say",
+      "accept": [
+        "Say"
+      ],
+      "choices": [
+        "Frédéric Bastiat",
+        "Léon Walras",
+        "Augustin Cournot"
+      ],
+      "explanation": "Industriel du coton avant d'enseigner au Collège de France, il a aussi popularisé le mot « entrepreneur » en économie.",
+      "wikipedia": "Jean-Baptiste Say"
+    },
+    {
+      "id": "societe-177",
+      "difficulty": 3,
+      "question": "Quel économiste autrichien, prix Nobel 1974, a écrit La Route de la servitude contre la planification économique ?",
+      "answer": "Friedrich Hayek",
+      "accept": [
+        "Hayek",
+        "Friedrich von Hayek"
+      ],
+      "choices": [
+        "Ludwig von Mises",
+        "Joseph Schumpeter",
+        "Karl Popper"
+      ],
+      "explanation": "Publié en 1944, ce pamphlet libéral fut un succès inattendu et inspira plus tard les politiques de Margaret Thatcher.",
+      "wikipedia": "Friedrich Hayek"
+    },
+    {
+      "id": "societe-178",
+      "difficulty": 3,
+      "question": "Quel médecin de Louis XV, chef de file des physiocrates, a conçu le Tableau économique ?",
+      "answer": "François Quesnay",
+      "accept": [
+        "Quesnay"
+      ],
+      "choices": [
+        "Turgot",
+        "Vincent de Gournay",
+        "Richard Cantillon"
+      ],
+      "explanation": "Pour les physiocrates, seule la terre produit une richesse nette ; Quesnay était aussi le médecin de Madame de Pompadour.",
+      "wikipedia": "François Quesnay"
+    },
+    {
+      "id": "societe-179",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la flambée des prix du pétrole décidée en 1973 par les pays arabes producteurs ?",
+      "answer": "choc pétrolier",
+      "accept": [
+        "premier choc pétrolier"
+      ],
+      "choices": [
+        "krach pétrolier",
+        "crise de Suez",
+        "embargo céréalier"
+      ],
+      "explanation": "Déclenchée après la guerre du Kippour, la crise vit le prix du baril quadrupler en six mois et sonna la fin des Trente Glorieuses.",
+      "wikipedia": "Premier choc pétrolier"
+    },
+    {
+      "id": "societe-180",
+      "difficulty": 1,
+      "question": "Quel nom l'économiste Jean Fourastié a-t-il donné à la forte croissance française de la fin de la guerre au milieu des années 1970 ?",
+      "answer": "Trente Glorieuses",
+      "accept": [],
+      "choices": [
+        "Années folles",
+        "Belle Époque",
+        "Grande Accélération"
+      ],
+      "explanation": "Le titre de son livre de 1979 fait écho aux « Trois Glorieuses », les journées révolutionnaires de juillet 1830.",
+      "wikipedia": "Trente Glorieuses"
+    },
+    {
+      "id": "societe-181",
+      "difficulty": 1,
+      "question": "Quel programme de Franklin D. Roosevelt devait sortir les États-Unis de la Grande Dépression ?",
+      "answer": "New Deal",
+      "accept": [],
+      "choices": [
+        "Fair Deal",
+        "Square Deal",
+        "Great Society"
+      ],
+      "explanation": "L'expression signifie « nouvelle donne », comme lorsqu'on redistribue les cartes ; grands travaux et protection sociale en furent les piliers.",
+      "wikipedia": "New Deal"
+    },
+    {
+      "id": "societe-182",
+      "difficulty": 1,
+      "question": "Quel plan américain d'aide à la reconstruction de l'Europe porte le nom d'un secrétaire d'État de Truman ?",
+      "answer": "plan Marshall",
+      "accept": [
+        "Marshall"
+      ],
+      "choices": [
+        "plan Dawes",
+        "plan Young",
+        "plan Morgenthau"
+      ],
+      "explanation": "George Marshall, ancien chef d'état-major de l'armée, reçut pour ce programme le prix Nobel de la paix en 1953.",
+      "wikipedia": "Plan Marshall"
+    },
+    {
+      "id": "societe-183",
+      "difficulty": 2,
+      "question": "Quel ingénieur américain a donné son nom à l'organisation scientifique du travail et au chronométrage des tâches ?",
+      "answer": "Frederick Taylor",
+      "accept": [
+        "Taylor",
+        "Frederick Winslow Taylor"
+      ],
+      "choices": [
+        "Henry Ford",
+        "Henri Fayol",
+        "Elton Mayo"
+      ],
+      "explanation": "Il découpait chaque geste ouvrier pour en éliminer les mouvements inutiles ; Charlie Chaplin a caricaturé ce travail à la chaîne dans Les Temps modernes.",
+      "wikipedia": "Frederick Winslow Taylor"
+    },
+    {
+      "id": "societe-184",
+      "difficulty": 2,
+      "question": "Dans quelle ville américaine le pharmacien John Pemberton a-t-il mis au point le Coca-Cola en 1886 ?",
+      "answer": "Atlanta",
+      "accept": [],
+      "choices": [
+        "Chicago",
+        "La Nouvelle-Orléans",
+        "Nashville"
+      ],
+      "explanation": "Vendu d'abord comme un remède en pharmacie, le breuvage doit son nom à deux ingrédients : la feuille de coca et la noix de kola.",
+      "wikipedia": "Coca-Cola"
+    },
+    {
+      "id": "societe-185",
+      "difficulty": 2,
+      "question": "Avec quel ingénieur Steve Jobs a-t-il fondé Apple en 1976, dans un garage californien ?",
+      "answer": "Steve Wozniak",
+      "accept": [
+        "Wozniak"
+      ],
+      "choices": [
+        "Bill Gates",
+        "Paul Allen",
+        "Steve Ballmer"
+      ],
+      "explanation": "C'est lui qui a conçu seul l'Apple I puis l'Apple II, l'un des premiers micro-ordinateurs à connaître un grand succès commercial.",
+      "wikipedia": "Steve Wozniak"
+    },
+    {
+      "id": "societe-186",
+      "difficulty": 2,
+      "question": "Quelle entreprise finlandaise, longtemps géante du téléphone portable, était à l'origine une usine de pâte à papier ?",
+      "answer": "Nokia",
+      "accept": [],
+      "choices": [
+        "Ericsson",
+        "Siemens",
+        "Alcatel"
+      ],
+      "explanation": "Fondée en 1865 au bord des rapides de Tammerkoski, elle tire son nom de la ville de Nokia, où elle installa ensuite une seconde usine.",
+      "wikipedia": "Nokia"
+    },
+    {
+      "id": "societe-187",
+      "difficulty": 2,
+      "question": "Quel constructeur automobile japonais est issu d'une entreprise qui fabriquait des métiers à tisser automatiques ?",
+      "answer": "Toyota",
+      "accept": [],
+      "choices": [
+        "Honda",
+        "Nissan",
+        "Mazda"
+      ],
+      "explanation": "Son fondateur Sakichi Toyoda avait inventé le premier métier à tisser mécanique du Japon ; la branche automobile devint Toyota Motor Corporation en 1937.",
+      "wikipedia": "Toyota"
+    },
+    {
+      "id": "societe-188",
+      "difficulty": 1,
+      "question": "Quelle marque danoise de briques à emboîter tire son nom de l'expression « leg godt », « joue bien » ?",
+      "answer": "Lego",
+      "accept": [],
+      "choices": [
+        "Playmobil",
+        "Meccano",
+        "Duplo"
+      ],
+      "explanation": "L'entreprise a débuté en fabriquant des jouets en bois avant de produire ses célèbres briques en plastique à tenons.",
+      "wikipedia": "Lego"
+    },
+    {
+      "id": "societe-189",
+      "difficulty": 1,
+      "question": "Quelle enseigne suédoise d'ameublement doit son nom aux initiales de son fondateur, de sa ferme et de son village natal ?",
+      "answer": "IKEA",
+      "accept": [
+        "Ikea"
+      ],
+      "choices": [
+        "H&M",
+        "Habitat",
+        "Conforama"
+      ],
+      "explanation": "Ingvar Kamprad, Elmtaryd, Agunnaryd : fondée en 1943 comme entreprise de vente par correspondance, elle n'ouvrit son premier magasin qu'en 1958.",
+      "wikipedia": "Ikea"
+    },
+    {
+      "id": "societe-190",
+      "difficulty": 1,
+      "question": "Quel constructeur automobile français a lancé en 1948 la 2 CV, surnommée la « Deuche » ?",
+      "answer": "Citroën",
+      "accept": [],
+      "choices": [
+        "Renault",
+        "Peugeot",
+        "Simca"
+      ],
+      "explanation": "Le cahier des charges exigeait qu'elle puisse transporter un panier d'œufs à travers un champ labouré sans en casser un seul.",
+      "wikipedia": "Citroën 2 CV"
+    },
+    {
+      "id": "societe-191",
+      "difficulty": 1,
+      "question": "Quel malletier jurassien a fondé en 1854 à Paris une maison de luxe célèbre pour sa toile monogrammée ?",
+      "answer": "Louis Vuitton",
+      "accept": [
+        "Vuitton"
+      ],
+      "choices": [
+        "Hermès",
+        "Goyard",
+        "Moynat"
+      ],
+      "explanation": "Il gagna Paris à pied, soit quatre cents kilomètres, et devint l'emballeur favori de l'impératrice Eugénie avant d'ouvrir sa maison.",
+      "wikipedia": "Louis Vuitton (1821-1892)"
+    },
+    {
+      "id": "societe-192",
+      "difficulty": 1,
+      "question": "Quelle créatrice de mode a lancé en 1921 un parfum portant le numéro 5 ?",
+      "answer": "Coco Chanel",
+      "accept": [
+        "Gabrielle Chanel",
+        "Chanel"
+      ],
+      "choices": [
+        "Jeanne Lanvin",
+        "Elsa Schiaparelli",
+        "Madeleine Vionnet"
+      ],
+      "explanation": "Le parfumeur Ernest Beaux lui présenta des échantillons numérotés ; elle garda ce chiffre, car elle présentait sa collection le 5 mai, cinquième mois de l'année.",
+      "wikipedia": "No 5 (parfum)"
+    },
+    {
+      "id": "societe-193",
+      "difficulty": 2,
+      "question": "Quelle marque de yaourts doit son nom au surnom catalan de Daniel, le fils de son fondateur ?",
+      "answer": "Danone",
+      "accept": [],
+      "choices": [
+        "Yoplait",
+        "Chambourcy",
+        "Activia"
+      ],
+      "explanation": "Isaac Carasso fabriqua ses premiers yaourts à Barcelone en 1919, d'abord vendus en pharmacie pour soigner les troubles digestifs.",
+      "wikipedia": "Danone"
+    },
+    {
+      "id": "societe-194",
+      "difficulty": 1,
+      "question": "Quelle marque américaine d'articles de sport porte le nom de la déesse grecque de la Victoire ?",
+      "answer": "Nike",
+      "accept": [],
+      "choices": [
+        "Puma",
+        "Asics",
+        "Reebok"
+      ],
+      "explanation": "Son logo, le « swoosh », fut dessiné en 1971 par une étudiante, Carolyn Davidson, payée seulement 35 dollars.",
+      "wikipedia": "Nike"
+    },
+    {
+      "id": "societe-195",
+      "difficulty": 3,
+      "question": "Quel sigle désigne la Compagnie néerlandaise des Indes orientales, souvent présentée comme la première multinationale ?",
+      "answer": "VOC",
+      "accept": [],
+      "choices": [
+        "EIC",
+        "WIC",
+        "CFI"
+      ],
+      "explanation": "Fondée en 1602, elle fut la première société à émettre des actions librement négociables, à la Bourse d'Amsterdam.",
+      "wikipedia": "Compagnie néerlandaise des Indes orientales"
+    },
+    {
+      "id": "societe-196",
+      "difficulty": 2,
+      "question": "Quelle entreprise française, créée sous Colbert, a fabriqué les miroirs de la galerie des Glaces de Versailles ?",
+      "answer": "Saint-Gobain",
+      "accept": [],
+      "choices": [
+        "Baccarat",
+        "Daum",
+        "Lalique"
+      ],
+      "explanation": "Née en 1665 sous le nom de Manufacture royale de glaces, elle devait briser le monopole des miroitiers vénitiens de Murano.",
+      "wikipedia": "Saint-Gobain"
+    },
+    {
+      "id": "societe-197",
+      "difficulty": 2,
+      "question": "Quel conglomérat sud-coréen porte un nom signifiant « trois étoiles » ?",
+      "answer": "Samsung",
+      "accept": [],
+      "choices": [
+        "Hyundai",
+        "Daewoo",
+        "LG"
+      ],
+      "explanation": "Fondé en 1938, il vendait à l'origine du poisson séché, des légumes et des nouilles avant de se lancer dans l'électronique.",
+      "wikipedia": "Groupe Samsung"
+    },
+    {
+      "id": "societe-198",
+      "difficulty": 2,
+      "question": "Quelle compagnie pétrolière de John D. Rockefeller fut démantelée en 1911 en application de la loi antitrust ?",
+      "answer": "Standard Oil",
+      "accept": [],
+      "choices": [
+        "Texaco",
+        "Gulf Oil",
+        "Shell"
+      ],
+      "explanation": "Elle fut scindée en trente-quatre sociétés, dont certaines sont devenues Exxon, Mobil ou Chevron.",
+      "wikipedia": "Standard Oil"
+    },
+    {
+      "id": "societe-199",
+      "difficulty": 1,
+      "question": "Quel philosophe grec fut le précepteur du jeune Alexandre le Grand ?",
+      "answer": "Aristote",
+      "accept": [],
+      "choices": [
+        "Platon",
+        "Socrate",
+        "Xénophon"
+      ],
+      "explanation": "Philippe II de Macédoine l'appela à sa cour vers 343 av. J.-C. ; Aristote fonda plus tard à Athènes sa propre école, le Lycée.",
+      "wikipedia": "Aristote"
+    },
+    {
+      "id": "societe-200",
+      "difficulty": 1,
+      "question": "Quel philosophe cynique, qui vivait dans une jarre, aurait demandé à Alexandre le Grand de s'ôter de son soleil ?",
+      "answer": "Diogène",
+      "accept": [
+        "Diogène de Sinope"
+      ],
+      "choices": [
+        "Épicure",
+        "Socrate",
+        "Zénon"
+      ],
+      "explanation": "Il parcourait Athènes en plein jour une lanterne à la main, disant chercher « un homme ».",
+      "wikipedia": "Diogène de Sinope"
+    },
+    {
+      "id": "societe-201",
+      "difficulty": 2,
+      "question": "Quel philosophe grec a fondé à Athènes l'école du Jardin, où il enseignait que le bonheur réside dans l'absence de troubles ?",
+      "answer": "Épicure",
+      "accept": [],
+      "choices": [
+        "Zénon de Citium",
+        "Aristippe",
+        "Démocrite"
+      ],
+      "explanation": "Contrairement à sa réputation, il prônait des plaisirs simples et mesurés ; son école était ouverte aux femmes et aux esclaves.",
+      "wikipedia": "Épicure"
+    },
+    {
+      "id": "societe-202",
+      "difficulty": 2,
+      "question": "Quel philosophe présocratique affirmait qu'on ne se baigne jamais deux fois dans le même fleuve ?",
+      "answer": "Héraclite",
+      "accept": [
+        "Héraclite d'Éphèse"
+      ],
+      "choices": [
+        "Parménide",
+        "Thalès",
+        "Empédocle"
+      ],
+      "explanation": "Surnommé « l'Obscur » pour son style énigmatique, il voyait dans le feu et le changement perpétuel le principe de toute chose.",
+      "wikipedia": "Héraclite"
+    },
+    {
+      "id": "societe-203",
+      "difficulty": 1,
+      "question": "Quel philosophe allemand a proclamé « Dieu est mort » et écrit Ainsi parlait Zarathoustra ?",
+      "answer": "Friedrich Nietzsche",
+      "accept": [
+        "Nietzsche"
+      ],
+      "choices": [
+        "Arthur Schopenhauer",
+        "Martin Heidegger",
+        "Emmanuel Kant"
+      ],
+      "explanation": "Philologue de formation, il devint professeur à Bâle à seulement vingt-quatre ans, avant de sombrer dans la folie à Turin en 1889.",
+      "wikipedia": "Friedrich Nietzsche"
+    },
+    {
+      "id": "societe-204",
+      "difficulty": 1,
+      "question": "Quel philosophe genevois a écrit Du contrat social et Émile ou De l'éducation ?",
+      "answer": "Jean-Jacques Rousseau",
+      "accept": [
+        "Rousseau"
+      ],
+      "choices": [
+        "Voltaire",
+        "Denis Diderot",
+        "Benjamin Constant"
+      ],
+      "explanation": "Paradoxe célèbre : l'auteur d'un grand traité d'éducation a lui-même abandonné ses cinq enfants à l'hospice des Enfants-Trouvés.",
+      "wikipedia": "Jean-Jacques Rousseau"
+    },
+    {
+      "id": "societe-205",
+      "difficulty": 2,
+      "question": "Quel philosophe néerlandais, polisseur de lentilles, a écrit une Éthique démontrée selon l'ordre géométrique ?",
+      "answer": "Spinoza",
+      "accept": [
+        "Baruch Spinoza"
+      ],
+      "choices": [
+        "Leibniz",
+        "Érasme",
+        "Hugo Grotius"
+      ],
+      "explanation": "Excommunié par la communauté juive d'Amsterdam à vingt-trois ans, il refusa une chaire à Heidelberg pour garder sa liberté de penser.",
+      "wikipedia": "Baruch Spinoza"
+    },
+    {
+      "id": "societe-206",
+      "difficulty": 1,
+      "question": "Quelle philosophe a écrit en 1949 Le Deuxième Sexe, avec la phrase « On ne naît pas femme, on le devient » ?",
+      "answer": "Simone de Beauvoir",
+      "accept": [
+        "Beauvoir"
+      ],
+      "choices": [
+        "Simone Weil",
+        "Hannah Arendt",
+        "Élisabeth Badinter"
+      ],
+      "explanation": "Compagne de Jean-Paul Sartre, elle a aussi reçu le prix Goncourt en 1954 pour son roman Les Mandarins.",
+      "wikipedia": "Simone de Beauvoir"
+    },
+    {
+      "id": "societe-207",
+      "difficulty": 2,
+      "question": "Quelle philosophe allemande a forgé l'expression « banalité du mal » en suivant le procès d'Adolf Eichmann ?",
+      "answer": "Hannah Arendt",
+      "accept": [
+        "Arendt"
+      ],
+      "choices": [
+        "Rosa Luxemburg",
+        "Edith Stein",
+        "Simone Weil"
+      ],
+      "explanation": "Envoyée à Jérusalem par le magazine The New Yorker, elle y vit un fonctionnaire zélé plutôt qu'un monstre.",
+      "wikipedia": "Hannah Arendt"
+    },
+    {
+      "id": "societe-208",
+      "difficulty": 2,
+      "question": "Quel philosophe français a écrit Surveiller et punir, sur la naissance de la prison ?",
+      "answer": "Michel Foucault",
+      "accept": [
+        "Foucault"
+      ],
+      "choices": [
+        "Gilles Deleuze",
+        "Jacques Derrida",
+        "Louis Althusser"
+      ],
+      "explanation": "Dans ce livre de 1975, il reprend le panoptique de Bentham comme symbole d'une société de surveillance généralisée.",
+      "wikipedia": "Michel Foucault"
+    },
+    {
+      "id": "societe-209",
+      "difficulty": 3,
+      "question": "Quel philosophe viennois a écrit le Tractatus logico-philosophicus, qui se clôt sur « Ce dont on ne peut parler, il faut le taire » ?",
+      "answer": "Ludwig Wittgenstein",
+      "accept": [
+        "Wittgenstein"
+      ],
+      "choices": [
+        "Karl Popper",
+        "Rudolf Carnap",
+        "Bertrand Russell"
+      ],
+      "explanation": "Persuadé d'avoir résolu les problèmes de la philosophie, il devint instituteur dans des villages autrichiens avant de revenir à Cambridge.",
+      "wikipedia": "Ludwig Wittgenstein"
+    },
+    {
+      "id": "societe-210",
+      "difficulty": 1,
+      "question": "Quel penseur chinois de l'Antiquité a vu ses enseignements rassemblés par ses disciples dans les Entretiens ?",
+      "answer": "Confucius",
+      "accept": [],
+      "choices": [
+        "Lao-tseu",
+        "Mencius",
+        "Sun Tzu"
+      ],
+      "explanation": "Son nom est la latinisation par les jésuites de Kong Fuzi, « maître Kong » ; sa morale insiste sur la piété filiale et le rite.",
+      "wikipedia": "Confucius"
+    },
+    {
+      "id": "societe-211",
+      "difficulty": 3,
+      "question": "Quel philosophe allemand pessimiste est l'auteur du Monde comme volonté et comme représentation ?",
+      "answer": "Arthur Schopenhauer",
+      "accept": [
+        "Schopenhauer"
+      ],
+      "choices": [
+        "Friedrich Nietzsche",
+        "Johann Fichte",
+        "Friedrich Schelling"
+      ],
+      "explanation": "Il programmait ses cours à Berlin aux mêmes heures que ceux de Hegel, qu'il détestait, et se retrouva presque sans auditeurs.",
+      "wikipedia": "Arthur Schopenhauer"
+    },
+    {
+      "id": "societe-212",
+      "difficulty": 3,
+      "question": "Quel philosophe grec, qui aurait accompagné Alexandre jusqu'en Inde, est considéré comme le fondateur du scepticisme ?",
+      "answer": "Pyrrhon",
+      "accept": [
+        "Pyrrhon d'Élis"
+      ],
+      "choices": [
+        "Carnéade",
+        "Sextus Empiricus",
+        "Anaxarque"
+      ],
+      "explanation": "Il prônait la suspension du jugement ; on dit qu'il ne s'écartait ni des chariots ni des précipices, et que ses amis le surveillaient.",
+      "wikipedia": "Pyrrhon d'Élis"
+    },
+    {
+      "id": "societe-213",
+      "difficulty": 3,
+      "question": "Quel philosophe médiéval a donné son nom à un âne qui meurt de faim et de soif faute de pouvoir choisir ?",
+      "answer": "Jean Buridan",
+      "accept": [
+        "Buridan"
+      ],
+      "choices": [
+        "Pierre Abélard",
+        "Duns Scot",
+        "Nicole Oresme"
+      ],
+      "explanation": "Recteur de l'université de Paris, il n'a en fait jamais écrit cette fable, imaginée par ses adversaires pour railler sa théorie du libre arbitre.",
+      "wikipedia": "Jean Buridan"
+    },
+    {
+      "id": "societe-214",
+      "difficulty": 3,
+      "question": "Sous quel pseudonyme le philosophe Émile Chartier a-t-il publié des milliers de Propos dans la presse ?",
+      "answer": "Alain",
+      "accept": [],
+      "choices": [
+        "Vercors",
+        "Jean Guitton",
+        "Sully"
+      ],
+      "explanation": "Professeur de khâgne au lycée Henri-IV, il eut pour élèves Simone Weil, Raymond Aron ou Georges Canguilhem.",
+      "wikipedia": "Alain (philosophe)"
+    },
+    {
+      "id": "societe-215",
+      "difficulty": 3,
+      "question": "Quel philosophe français, auteur de L'Évolution créatrice, a reçu le prix Nobel de littérature en 1927 ?",
+      "answer": "Henri Bergson",
+      "accept": [
+        "Bergson"
+      ],
+      "choices": [
+        "Émile Boutroux",
+        "Maurice Blondel",
+        "Léon Brunschvicg"
+      ],
+      "explanation": "Publiée en 1907, L'Évolution créatrice développe la notion d'« élan vital » ; il est aussi l'auteur de Matière et mémoire.",
+      "wikipedia": "Henri Bergson"
+    },
+    {
+      "id": "societe-216",
+      "difficulty": 2,
+      "question": "Quel humaniste anglais a forgé le mot « utopie » pour décrire une île imaginaire dans un livre de 1516 ?",
+      "answer": "Thomas More",
+      "accept": [
+        "More"
+      ],
+      "choices": [
+        "Francis Bacon",
+        "Érasme",
+        "Thomas Hobbes"
+      ],
+      "explanation": "Chancelier d'Henri VIII, il fut décapité pour avoir refusé de reconnaître le roi comme chef de l'Église d'Angleterre ; l'Église catholique l'a canonisé.",
+      "wikipedia": "Thomas More"
+    },
+    {
+      "id": "societe-217",
+      "difficulty": 1,
+      "question": "Quel neurologue viennois est le fondateur de la psychanalyse ?",
+      "answer": "Sigmund Freud",
+      "accept": [
+        "Freud"
+      ],
+      "choices": [
+        "Carl Gustav Jung",
+        "Alfred Adler",
+        "Jacques Lacan"
+      ],
+      "explanation": "Il dut fuir Vienne en 1938 après l'Anschluss et mourut l'année suivante à Londres, où sa maison est devenue un musée.",
+      "wikipedia": "Sigmund Freud"
+    },
+    {
+      "id": "societe-218",
+      "difficulty": 1,
+      "question": "Quel physiologiste russe a étudié le réflexe conditionnel en faisant saliver des chiens ?",
+      "answer": "Ivan Pavlov",
+      "accept": [
+        "Pavlov"
+      ],
+      "choices": [
+        "Vladimir Bekhterev",
+        "Ilia Metchnikov",
+        "Ivan Setchenov"
+      ],
+      "explanation": "Il reçut en 1904 le prix Nobel de médecine, non pour ces expériences, mais pour ses travaux sur la digestion.",
+      "wikipedia": "Ivan Pavlov"
+    },
+    {
+      "id": "societe-219",
+      "difficulty": 2,
+      "question": "Quel psychologue suisse a décrit les grands stades du développement de l'intelligence chez l'enfant ?",
+      "answer": "Jean Piaget",
+      "accept": [
+        "Piaget"
+      ],
+      "choices": [
+        "Henri Wallon",
+        "Édouard Claparède",
+        "Lev Vygotski"
+      ],
+      "explanation": "Il commença par étudier les mollusques et publia son premier article scientifique, sur un moineau albinos, à onze ans.",
+      "wikipedia": "Jean Piaget"
+    },
+    {
+      "id": "societe-220",
+      "difficulty": 1,
+      "question": "Quel psychologue américain a donné son nom à une pyramide qui hiérarchise les besoins humains ?",
+      "answer": "Abraham Maslow",
+      "accept": [
+        "Maslow"
+      ],
+      "choices": [
+        "Carl Rogers",
+        "Burrhus Skinner",
+        "Abraham Lincoln"
+      ],
+      "explanation": "Il n'a lui-même jamais dessiné de pyramide : cette représentation a été popularisée après lui par des consultants en management.",
+      "wikipedia": "Abraham Maslow"
+    },
+    {
+      "id": "societe-221",
+      "difficulty": 2,
+      "question": "Quel anthropologue français a raconté ses voyages chez les peuples du Brésil dans Tristes Tropiques ?",
+      "answer": "Claude Lévi-Strauss",
+      "accept": [
+        "Lévi-Strauss"
+      ],
+      "choices": [
+        "Marcel Mauss",
+        "Paul Rivet",
+        "Philippe Descola"
+      ],
+      "explanation": "Le livre s'ouvre par une phrase célèbre : « Je hais les voyages et les explorateurs » ; son auteur fêta son centenaire en 2008.",
+      "wikipedia": "Claude Lévi-Strauss"
+    },
+    {
+      "id": "societe-222",
+      "difficulty": 2,
+      "question": "Quel sociologue allemand a écrit L'Éthique protestante et l'esprit du capitalisme ?",
+      "answer": "Max Weber",
+      "accept": [
+        "Weber"
+      ],
+      "choices": [
+        "Werner Sombart",
+        "Georg Simmel",
+        "Ferdinand Tönnies"
+      ],
+      "explanation": "Il y décèle une « affinité élective » entre l'éthique calviniste, qui valorise le travail et l'épargne, et l'esprit du capitalisme moderne.",
+      "wikipedia": "Max Weber"
+    },
+    {
+      "id": "societe-223",
+      "difficulty": 1,
+      "question": "Quelle capitale a donné son nom au syndrome des otages qui finissent par sympathiser avec leurs ravisseurs ?",
+      "answer": "Stockholm",
+      "accept": [],
+      "choices": [
+        "Oslo",
+        "Helsinki",
+        "Copenhague"
+      ],
+      "explanation": "Le nom vient d'une prise d'otages dans une banque suédoise en 1973 : les employés retenus refusèrent ensuite de témoigner contre leurs geôliers.",
+      "wikipedia": "Syndrome de Stockholm"
+    },
+    {
+      "id": "societe-224",
+      "difficulty": 3,
+      "question": "Quel psychologue français a mis au point avec Théodore Simon la première échelle métrique de l'intelligence ?",
+      "answer": "Alfred Binet",
+      "accept": [
+        "Binet"
+      ],
+      "choices": [
+        "Henri Piéron",
+        "Pierre Janet",
+        "Théodule Ribot"
+      ],
+      "explanation": "Ce test, conçu en 1905 pour repérer les élèves en difficulté, est l'ancêtre des tests de quotient intellectuel.",
+      "wikipedia": "Alfred Binet"
+    },
+    {
+      "id": "societe-225",
+      "difficulty": 1,
+      "question": "Quelle médecin italienne a donné son nom à une pédagogie fondée sur l'autonomie et le matériel sensoriel ?",
+      "answer": "Maria Montessori",
+      "accept": [
+        "Montessori"
+      ],
+      "choices": [
+        "Rita Levi-Montalcini",
+        "Grazia Deledda",
+        "Anna Kuliscioff"
+      ],
+      "explanation": "Médecin formée à Rome, elle ouvrit en 1907 sa première Maison des enfants, la Casa dei bambini, dans le quartier populaire de San Lorenzo.",
+      "wikipedia": "Maria Montessori"
+    },
+    {
+      "id": "societe-226",
+      "difficulty": 2,
+      "question": "Quel instituteur français faisait imprimer à ses élèves leurs propres textes grâce à une presse installée en classe ?",
+      "answer": "Célestin Freinet",
+      "accept": [
+        "Freinet"
+      ],
+      "choices": [
+        "Ferdinand Buisson",
+        "Paul Langevin",
+        "Roger Cousinet"
+      ],
+      "explanation": "Grièvement blessé au poumon au Chemin des Dames en 1917, il en garda des séquelles et fonda une pédagogie fondée sur l'expression libre.",
+      "wikipedia": "Célestin Freinet"
+    },
+    {
+      "id": "societe-227",
+      "difficulty": 1,
+      "question": "Quelle grande école française, fondée en 1794 et placée sous tutelle militaire, est surnommée « l'X » ?",
+      "answer": "École polytechnique",
+      "accept": [
+        "Polytechnique"
+      ],
+      "choices": [
+        "École normale supérieure",
+        "École centrale",
+        "Saint-Cyr"
+      ],
+      "explanation": "Ses élèves défilent chaque 14 Juillet sur les Champs-Élysées en grand uniforme, coiffés du bicorne.",
+      "wikipedia": "École polytechnique"
+    },
+    {
+      "id": "societe-228",
+      "difficulty": 2,
+      "question": "Quelle ville italienne abrite la plus ancienne université du monde occidental, dont la fondation est traditionnellement fixée à 1088 ?",
+      "answer": "Bologne",
+      "accept": [],
+      "choices": [
+        "Padoue",
+        "Salerne",
+        "Pavie"
+      ],
+      "explanation": "Elle s'est d'abord illustrée dans l'enseignement du droit, et ses maîtres obtinrent des privilèges de l'empereur Frédéric Barberousse.",
+      "wikipedia": "Université de Bologne"
+    },
+    {
+      "id": "societe-229",
+      "difficulty": 2,
+      "question": "Quel roi a créé en 1530 le collège des lecteurs royaux, futur Collège de France ?",
+      "answer": "François Ier",
+      "accept": [
+        "François 1er"
+      ],
+      "choices": [
+        "Louis XII",
+        "Henri II",
+        "Charles IX"
+      ],
+      "explanation": "Conseillé par l'humaniste Guillaume Budé, il voulait faire enseigner l'hébreu et le grec en dehors de la tutelle de la Sorbonne.",
+      "wikipedia": "Collège de France"
+    },
+    {
+      "id": "societe-230",
+      "difficulty": 1,
+      "question": "Quel humaniste de Rotterdam a donné son nom au programme européen d'échanges d'étudiants ?",
+      "answer": "Érasme",
+      "accept": [
+        "Erasme"
+      ],
+      "choices": [
+        "Thomas More",
+        "Spinoza",
+        "Rabelais"
+      ],
+      "explanation": "Infatigable voyageur, il a étudié et enseigné à Paris, Louvain, Cambridge ou Bâle, ce qui en fait un patron idéal pour les étudiants nomades.",
+      "wikipedia": "Érasme"
+    },
+    {
+      "id": "societe-231",
+      "difficulty": 2,
+      "question": "Dans quel journal parut en janvier 1898 la lettre « J'accuse…! » d'Émile Zola ?",
+      "answer": "L'Aurore",
+      "accept": [
+        "Aurore"
+      ],
+      "choices": [
+        "Le Figaro",
+        "Le Petit Journal",
+        "L'Humanité"
+      ],
+      "explanation": "C'est Georges Clemenceau, alors éditorialiste du journal, qui trouva ce titre ; le numéro fut tiré à environ 300 000 exemplaires.",
+      "wikipedia": "J'accuse…!"
+    },
+    {
+      "id": "societe-232",
+      "difficulty": 2,
+      "question": "Quel quotidien du soir a été fondé en décembre 1944 par Hubert Beuve-Méry ?",
+      "answer": "Le Monde",
+      "accept": [],
+      "choices": [
+        "Le Figaro",
+        "France-Soir",
+        "Combat"
+      ],
+      "explanation": "Il reprit les locaux et le format du journal Le Temps, interdit à la Libération pour avoir continué de paraître sous l'Occupation.",
+      "wikipedia": "Le Monde"
+    },
+    {
+      "id": "societe-233",
+      "difficulty": 1,
+      "question": "Quel quotidien, le plus ancien encore publié en France, tire son nom d'un personnage de Beaumarchais ?",
+      "answer": "Le Figaro",
+      "accept": [],
+      "choices": [
+        "Le Monde",
+        "Le Parisien",
+        "La Croix"
+      ],
+      "explanation": "Sa devise, « Sans la liberté de blâmer, il n'est point d'éloge flatteur », est elle aussi tirée du Mariage de Figaro.",
+      "wikipedia": "Le Figaro"
+    },
+    {
+      "id": "societe-234",
+      "difficulty": 1,
+      "question": "Quel hebdomadaire satirique français, fondé pendant la Première Guerre mondiale, paraît le mercredi ?",
+      "answer": "Le Canard enchaîné",
+      "accept": [
+        "Canard enchaîné"
+      ],
+      "choices": [
+        "Charlie Hebdo",
+        "Le Nouvel Obs",
+        "Marianne"
+      ],
+      "explanation": "Né en 1915 pour se moquer de la censure et du « bourrage de crâne », il ne publie aucune publicité.",
+      "wikipedia": "Le Canard enchaîné"
+    },
+    {
+      "id": "societe-235",
+      "difficulty": 3,
+      "question": "Quelle agence fondée à Paris en 1835 est l'ancêtre de l'Agence France-Presse ?",
+      "answer": "Agence Havas",
+      "accept": [
+        "Havas"
+      ],
+      "choices": [
+        "Agence Reuters",
+        "Agence Fournier",
+        "Agence Wolff"
+      ],
+      "explanation": "Deux anciens employés de Charles-Louis Havas, Julius Reuter et Bernhard Wolff, fondèrent ensuite des agences concurrentes à Londres et à Berlin.",
+      "wikipedia": "Agence Havas"
+    },
+    {
+      "id": "societe-236",
+      "difficulty": 2,
+      "question": "Quel quotidien américain a révélé le scandale du Watergate grâce aux journalistes Bob Woodward et Carl Bernstein ?",
+      "answer": "The Washington Post",
+      "accept": [
+        "Washington Post"
+      ],
+      "choices": [
+        "The New York Times",
+        "The Wall Street Journal",
+        "Los Angeles Times"
+      ],
+      "explanation": "Leur informateur secret, surnommé « Gorge profonde », ne révéla son identité qu'en 2005 : il était le numéro deux du FBI.",
+      "wikipedia": "Scandale du Watergate"
+    },
+    {
+      "id": "societe-237",
+      "difficulty": 1,
+      "question": "Quel patron de presse américain d'origine hongroise a légué son nom à de prestigieux prix de journalisme ?",
+      "answer": "Joseph Pulitzer",
+      "accept": [
+        "Pulitzer"
+      ],
+      "choices": [
+        "William Randolph Hearst",
+        "Henry Luce",
+        "Adolph Ochs"
+      ],
+      "explanation": "Il lança dans son journal une souscription populaire qui permit de financer le socle de la statue de la Liberté.",
+      "wikipedia": "Joseph Pulitzer"
+    },
+    {
+      "id": "societe-238",
+      "difficulty": 1,
+      "question": "Quel terminal français, lancé au début des années 1980, donnait accès à l'annuaire électronique et aux services en 3615 ?",
+      "answer": "Minitel",
+      "accept": [],
+      "choices": [
+        "Télétel",
+        "Bi-Bop",
+        "Tam-tam"
+      ],
+      "explanation": "Prêté gratuitement par les PTT, il équipa des millions de foyers et ne fut définitivement débranché qu'en 2012.",
+      "wikipedia": "Minitel"
+    },
+    {
+      "id": "societe-239",
+      "difficulty": 1,
+      "question": "Quelle expression désigne la presse et les médias, par analogie avec l'exécutif, le législatif et le judiciaire ?",
+      "answer": "quatrième pouvoir",
+      "accept": [],
+      "choices": [
+        "cinquième colonne",
+        "tiers état",
+        "contre-pouvoir"
+      ],
+      "explanation": "Elle est souvent attribuée à Edmund Burke, qui aurait désigné ainsi la galerie des journalistes au Parlement britannique.",
+      "wikipedia": "Quatrième pouvoir"
+    },
+    {
+      "id": "societe-240",
+      "difficulty": 3,
+      "question": "Quel journal « bête et méchant », interdit en 1970 après une une sur la mort de De Gaulle, donna naissance à Charlie Hebdo ?",
+      "answer": "Hara-Kiri",
+      "accept": [
+        "L'Hebdo Hara-Kiri"
+      ],
+      "choices": [
+        "Le Crapouillot",
+        "L'Assiette au beurre",
+        "Fluide glacial"
+      ],
+      "explanation": "Son titre célèbre, « Bal tragique à Colombey : 1 mort », parodiait la couverture d'un incendie meurtrier survenu quelques jours plus tôt.",
+      "wikipedia": "Hara-Kiri (journal)"
+    },
+    {
+      "id": "societe-241",
+      "difficulty": 2,
+      "question": "Quel quotidien, fondé en 1973, a eu pour premier directeur le philosophe Jean-Paul Sartre ?",
+      "answer": "Libération",
+      "accept": [],
+      "choices": [
+        "L'Humanité",
+        "Combat",
+        "Le Quotidien de Paris"
+      ],
+      "explanation": "Né dans l'esprit de Mai 68, il se voulait sans publicité ni actionnaire, avec pour devise « Peuple, prends la parole et garde-la ».",
+      "wikipedia": "Libération (journal)"
+    },
+    {
+      "id": "societe-242",
+      "difficulty": 3,
+      "question": "Dans quelle ville flamande une famille d'hôteliers aurait-elle donné son nom à la Bourse ?",
+      "answer": "Bruges",
+      "accept": [],
+      "choices": [
+        "Anvers",
+        "Gand",
+        "Ypres"
+      ],
+      "explanation": "Les marchands se réunissaient sur une place devant l'hôtel de la famille Van der Buerse, dont les armoiries portaient trois bourses.",
+      "wikipedia": "Bourse (économie)"
+    },
+    {
+      "id": "societe-243",
+      "difficulty": 2,
+      "question": "Quels titres, achetés en masse par les épargnants français, ne furent plus remboursés après la révolution d'Octobre ?",
+      "answer": "emprunts russes",
+      "accept": [],
+      "choices": [
+        "bons du Trésor",
+        "assignats",
+        "emprunts ottomans"
+      ],
+      "explanation": "Les bolcheviks dénoncèrent les dettes du tsar dès décembre 1917 ; un accord d'indemnisation très partiel ne fut signé qu'en 1997.",
+      "wikipedia": "Emprunt russe"
+    },
+    {
+      "id": "societe-244",
+      "difficulty": 2,
+      "question": "Quel escroc italo-américain a donné son nom à l'arnaque qui rémunère les anciens investisseurs avec l'argent des nouveaux ?",
+      "answer": "Charles Ponzi",
+      "accept": [
+        "Ponzi"
+      ],
+      "choices": [
+        "Bernard Madoff",
+        "Al Capone",
+        "Frank Abagnale"
+      ],
+      "explanation": "Dans les années 1920, il promettait de doubler les mises en spéculant sur des coupons-réponses postaux internationaux.",
+      "wikipedia": "Charles Ponzi"
+    },
+    {
+      "id": "societe-245",
+      "difficulty": 3,
+      "question": "Quel statisticien italien a donné son nom au coefficient qui mesure les inégalités de revenus dans une population ?",
+      "answer": "Corrado Gini",
+      "accept": [
+        "Gini"
+      ],
+      "choices": [
+        "Vilfredo Pareto",
+        "Enrico Barone",
+        "Maffeo Pantaleoni"
+      ],
+      "explanation": "Ce coefficient vaut 0 en cas d'égalité parfaite et 1 si une seule personne détient tout le revenu.",
+      "wikipedia": "Coefficient de Gini"
+    },
+    {
+      "id": "societe-246",
+      "difficulty": 2,
+      "question": "Quel mot-valise désigne la combinaison d'une croissance économique en panne et d'une forte inflation ?",
+      "answer": "stagflation",
+      "accept": [],
+      "choices": [
+        "déflation",
+        "récession",
+        "surchauffe"
+      ],
+      "explanation": "Ce phénomène, que la théorie keynésienne jugeait improbable, a frappé les pays occidentaux après les chocs pétroliers des années 1970.",
+      "wikipedia": "Stagflation"
+    },
+    {
+      "id": "societe-247",
+      "difficulty": 3,
+      "question": "De quelle monnaie d'argent, frappée à l'origine en Bohême, le mot « dollar » tire-t-il son nom ?",
+      "answer": "thaler",
+      "accept": [],
+      "choices": [
+        "florin",
+        "ducat",
+        "kreuzer"
+      ],
+      "explanation": "Il vient de Joachimsthal, la « vallée de Joachim », dont les mines d'argent fournirent les premières pièces au XVIe siècle.",
+      "wikipedia": "Thaler"
+    },
+    {
+      "id": "societe-248",
+      "difficulty": 3,
+      "question": "Quel royaume d'Asie Mineure, gouverné par Crésus, aurait frappé les premières pièces de monnaie, en électrum ?",
+      "answer": "Lydie",
+      "accept": [],
+      "choices": [
+        "Phrygie",
+        "Carie",
+        "Ionie"
+      ],
+      "explanation": "L'électrum est un alliage naturel d'or et d'argent charrié par le fleuve Pactole, devenu synonyme de source de richesse.",
+      "wikipedia": "Lydie"
+    },
+    {
+      "id": "societe-249",
+      "difficulty": 2,
+      "question": "Quels petits coquillages blancs ont servi de monnaie en Afrique et en Asie pendant des siècles ?",
+      "answer": "cauris",
+      "accept": [
+        "cauri"
+      ],
+      "choices": [
+        "nacres",
+        "bigorneaux",
+        "porcelaines"
+      ],
+      "explanation": "Très abondants aux Maldives, ils servaient déjà de monnaie en Chine sous la dynastie Shang, il y a plus de trois mille ans.",
+      "wikipedia": "Monetaria moneta"
+    },
+    {
+      "id": "societe-250",
+      "difficulty": 3,
+      "question": "Quelle anthropologue américaine a étudié l'adolescence dans les îles Samoa dans un livre de 1928 ?",
+      "answer": "Margaret Mead",
+      "accept": [
+        "Mead"
+      ],
+      "choices": [
+        "Ruth Benedict",
+        "Zora Neale Hurston",
+        "Jane Goodall"
+      ],
+      "explanation": "Son livre suggérait que les crises de l'adolescence étaient culturelles et non biologiques ; ses conclusions ont depuis été vivement discutées.",
+      "wikipedia": "Margaret Mead"
+    }
+  ]
+}
