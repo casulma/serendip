@@ -1,0 +1,1580 @@
+{
+  "category": "sport",
+  "questions": [
+    {
+      "id": "sport-301",
+      "difficulty": 1,
+      "question": "Dans la version française classique du Monopoly, quelle est la propriété la plus chère du plateau ?",
+      "answer": "rue de la Paix",
+      "accept": [
+        "la rue de la Paix"
+      ],
+      "choices": [
+        "avenue des Champs-Élysées",
+        "avenue Foch",
+        "boulevard des Capucines"
+      ],
+      "explanation": "Elle forme avec l'avenue des Champs-Élysées le groupe le plus cher ; dans la version américaine, son équivalent est Boardwalk, la promenade d'Atlantic City.",
+      "wikipedia": "Monopoly"
+    },
+    {
+      "id": "sport-302",
+      "difficulty": 1,
+      "question": "Quel jeu de questions, créé au Québec en 1979, demande de remplir son camembert avec six parts de couleur ?",
+      "answer": "Trivial Pursuit",
+      "accept": [],
+      "choices": [
+        "Scattergories",
+        "Time's Up",
+        "Taboo"
+      ],
+      "explanation": "Il a été imaginé par Chris Haney et Scott Abbott ; chaque couleur correspond à un thème, comme la géographie, l'histoire ou les sports et loisirs.",
+      "wikipedia": "Trivial Pursuit"
+    },
+    {
+      "id": "sport-303",
+      "difficulty": 1,
+      "question": "Dans quel jeu de société faut-il faire deviner des mots à son équipe uniquement en les dessinant ?",
+      "answer": "Pictionary",
+      "accept": [],
+      "choices": [
+        "Time's Up",
+        "Taboo",
+        "Dixit"
+      ],
+      "explanation": "Son créateur, Rob Angel, a forgé son nom en mêlant les mots anglais picture, « dessin », et dictionary, « dictionnaire ».",
+      "wikipedia": "Pictionary"
+    },
+    {
+      "id": "sport-304",
+      "difficulty": 1,
+      "question": "Quel jeu de déduction consiste à découvrir en un nombre limité de coups une combinaison secrète de pions colorés ?",
+      "answer": "Mastermind",
+      "accept": [
+        "Master Mind"
+      ],
+      "choices": [
+        "Stratego",
+        "Othello",
+        "Cluedo"
+      ],
+      "explanation": "Il a été inventé dans les années 1970 par Mordecai Meirowitz, un expert israélien en télécommunications ; le code compte quatre ou cinq pions.",
+      "wikipedia": "Mastermind"
+    },
+    {
+      "id": "sport-305",
+      "difficulty": 1,
+      "question": "Quel jeu consiste à aligner des jetons de sa couleur en les laissant tomber dans les colonnes d'une grille verticale ?",
+      "answer": "Puissance 4",
+      "accept": [
+        "Puissance quatre",
+        "4 en ligne"
+      ],
+      "choices": [
+        "Mastermind",
+        "Othello",
+        "Morpion"
+      ],
+      "explanation": "Commercialisé en 1974 par la Milton Bradley Company, il a été résolu par ordinateur en 1988 : le premier joueur peut toujours s'assurer la victoire.",
+      "wikipedia": "Puissance 4"
+    },
+    {
+      "id": "sport-306",
+      "difficulty": 1,
+      "question": "Dans quel jeu de société annonce-t-on « à l'eau », « touché » ou « coulé » selon le tir de l'adversaire ?",
+      "answer": "bataille navale",
+      "accept": [],
+      "choices": [
+        "Stratego",
+        "Risk",
+        "Mastermind"
+      ],
+      "explanation": "Chaque joueur dissimule ses navires sur une grille secrète ; on dit que des officiers russes y jouaient déjà avant la Première Guerre mondiale.",
+      "wikipedia": "Bataille navale (jeu)"
+    },
+    {
+      "id": "sport-307",
+      "difficulty": 1,
+      "question": "Quel jeu de cartes français fait parcourir une distance aux joueurs en évitant crevaisons, accidents et pannes d'essence ?",
+      "answer": "1000 Bornes",
+      "accept": [
+        "Mille Bornes",
+        "Mille-Bornes"
+      ],
+      "choices": [
+        "Uno",
+        "Rami",
+        "Dobble"
+      ],
+      "explanation": "Il a été inventé en 1954 par Edmond Dujardin, un éditeur de matériel pour auto-écoles, ce qui explique les panneaux de signalisation des cartes.",
+      "wikipedia": "1000 Bornes"
+    },
+    {
+      "id": "sport-308",
+      "difficulty": 1,
+      "question": "Quel jeu de cartes oblige à prévenir les autres à voix haute lorsqu'il ne reste plus qu'une carte en main ?",
+      "answer": "Uno",
+      "accept": [],
+      "choices": [
+        "Skip-Bo",
+        "Dobble",
+        "Barbu"
+      ],
+      "explanation": "Il a été inventé en 1971 par Merle Robbins, coiffeur dans l'Ohio, à la suite d'une dispute avec son fils sur les règles du huit américain.",
+      "wikipedia": "Uno"
+    },
+    {
+      "id": "sport-309",
+      "difficulty": 1,
+      "question": "Quel jeu d'adresse consiste à retirer des blocs de bois d'une tour pour les reposer à son sommet ?",
+      "answer": "Jenga",
+      "accept": [],
+      "choices": [
+        "Mikado",
+        "Kapla",
+        "dominos"
+      ],
+      "explanation": "Son nom vient du verbe swahili kujenga, « construire », dont jenga est l'impératif ; la partie s'arrête quand la tour s'effondre.",
+      "wikipedia": "Jenga"
+    },
+    {
+      "id": "sport-310",
+      "difficulty": 1,
+      "question": "Quel jeu oblige les participants à se contorsionner sur un tapis de cercles colorés, selon les indications d'une roulette ?",
+      "answer": "Twister",
+      "accept": [],
+      "choices": [
+        "Jenga",
+        "Pictionary",
+        "Mikado"
+      ],
+      "explanation": "Lancé en 1966, il connut le succès après une partie jouée à la télévision par Eva Gabor et Johnny Carson dans le Tonight Show.",
+      "wikipedia": "Twister (jeu)"
+    },
+    {
+      "id": "sport-311",
+      "difficulty": 1,
+      "question": "Sur un damier, que devient un pion qui parvient sur la dernière rangée du camp adverse ?",
+      "answer": "dame",
+      "accept": [
+        "une dame"
+      ],
+      "choices": [
+        "roi",
+        "tour",
+        "général"
+      ],
+      "explanation": "On la distingue en posant un second pion sur le premier ; elle prend alors comme un pion mais peut sauter plusieurs cases vides.",
+      "wikipedia": "Dames"
+    },
+    {
+      "id": "sport-312",
+      "difficulty": 1,
+      "question": "Quel mat rapide, obtenu par la dame et le fou sur la case f7, est le piège classique des débutants aux échecs ?",
+      "answer": "coup du berger",
+      "accept": [
+        "mat du berger"
+      ],
+      "choices": [
+        "mat du lion",
+        "mat du couloir",
+        "mat de l'escalier"
+      ],
+      "explanation": "Il exploite la faiblesse du pion f7, le seul qui, en début de partie, n'est défendu que par le roi.",
+      "wikipedia": "Coup du berger"
+    },
+    {
+      "id": "sport-313",
+      "difficulty": 1,
+      "question": "Quelle pièce du jeu d'échecs se déplace uniquement en diagonale, et reste donc toujours sur des cases de même couleur ?",
+      "answer": "fou",
+      "accept": [],
+      "choices": [
+        "tour",
+        "dame",
+        "cavalier"
+      ],
+      "explanation": "En anglais, en portugais ou en islandais, cette pièce est appelée « évêque » : bishop, bispo ou biskup.",
+      "wikipedia": "Fou (échecs)"
+    },
+    {
+      "id": "sport-314",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la petite boule en bois que les joueurs de pétanque cherchent à approcher au plus près ?",
+      "answer": "cochonnet",
+      "accept": [
+        "but",
+        "bouchon",
+        "petit"
+      ],
+      "choices": [
+        "palet",
+        "galet",
+        "jack"
+      ],
+      "explanation": "D'un diamètre de 30 mm, on l'appelle aussi « but » ou familièrement « bouchon », de l'occitan bochon, « petite boule ».",
+      "wikipedia": "Pétanque"
+    },
+    {
+      "id": "sport-315",
+      "difficulty": 1,
+      "question": "Dans quel jeu de parcours familial faut-il obtenir un six au dé pour sortir un pion de son écurie ?",
+      "answer": "petits chevaux",
+      "accept": [
+        "jeu des petits chevaux"
+      ],
+      "choices": [
+        "jeu de l'oie",
+        "Monopoly",
+        "serpents et échelles"
+      ],
+      "explanation": "Ce jeu descend du pachisi indien ; selon une règle courante, celui qui fait trois fois six de suite doit éliminer un de ses pions.",
+      "wikipedia": "Jeu des petits chevaux"
+    },
+    {
+      "id": "sport-316",
+      "difficulty": 1,
+      "question": "Quel jeu de papier et crayon consiste à aligner trois croix ou trois ronds dans une grille de neuf cases ?",
+      "answer": "morpion",
+      "accept": [
+        "tic-tac-toe",
+        "oxo"
+      ],
+      "choices": [
+        "pendu",
+        "petit bac",
+        "bataille navale"
+      ],
+      "explanation": "Appelé tic-tac-toe en anglais et oxo en Belgique, il se termine toujours par un match nul si les deux joueurs jouent de manière optimale.",
+      "wikipedia": "Tic-tac-toe"
+    },
+    {
+      "id": "sport-317",
+      "difficulty": 1,
+      "question": "Dans quel jeu de lettres faut-il découvrir un mot avant que le dessin d'un personnage sur une potence soit achevé ?",
+      "answer": "pendu",
+      "accept": [
+        "le pendu"
+      ],
+      "choices": [
+        "morpion",
+        "Boggle",
+        "petit bac"
+      ],
+      "explanation": "Chaque lettre proposée absente du mot ajoute un trait au dessin, qui montre à la fin un bonhomme allumette pendu.",
+      "wikipedia": "Pendu (jeu)"
+    },
+    {
+      "id": "sport-318",
+      "difficulty": 1,
+      "question": "De quelle couleur est la case du zéro sur une roulette de casino ?",
+      "answer": "vert",
+      "accept": [
+        "verte"
+      ],
+      "choices": [
+        "rouge",
+        "noir",
+        "blanc"
+      ],
+      "explanation": "Les numéros de 1 à 36 sont rouges ou noirs, disposés en alternance ; la roulette américaine ajoute une seconde case verte, le double zéro.",
+      "wikipedia": "Roulette (jeu de hasard)"
+    },
+    {
+      "id": "sport-319",
+      "difficulty": 1,
+      "question": "Quel jeu de cartes, arrivé en France vers 1914, se joue avec trente-deux cartes et applique la règle du « dix de der » ?",
+      "answer": "belote",
+      "accept": [],
+      "choices": [
+        "tarot",
+        "manille",
+        "bridge"
+      ],
+      "explanation": "« Der » désigne la dernière levée : l'équipe qui la remporte gagne dix points de plus, portant le total d'une donne à 162 points.",
+      "wikipedia": "Belote"
+    },
+    {
+      "id": "sport-320",
+      "difficulty": 1,
+      "question": "Dans quel jeu de cartes réclame-t-on à ses adversaires le grand-père, la mère ou le fils d'une même lignée ?",
+      "answer": "sept familles",
+      "accept": [
+        "7 familles",
+        "jeu des sept familles",
+        "jeu des 7 familles"
+      ],
+      "choices": [
+        "bataille",
+        "rami",
+        "menteur"
+      ],
+      "explanation": "Il se joue avec quarante-deux cartes réparties en sept groupes de six : grand-père, grand-mère, père, mère, fils et fille.",
+      "wikipedia": "7 familles"
+    },
+    {
+      "id": "sport-321",
+      "difficulty": 1,
+      "question": "Quel jeu de cartes de casino consiste à battre le croupier en approchant un total de points sans le dépasser ?",
+      "answer": "blackjack",
+      "accept": [
+        "vingt-et-un",
+        "black-jack",
+        "black jack"
+      ],
+      "choices": [
+        "baccara",
+        "poker",
+        "chemin de fer"
+      ],
+      "explanation": "Le joueur qui dépasse 21 « brûle » et perd aussitôt ; la partie oppose chaque joueur à la banque, et non les joueurs entre eux.",
+      "wikipedia": "Blackjack (jeu)"
+    },
+    {
+      "id": "sport-322",
+      "difficulty": 1,
+      "question": "Quel casse-tête chinois permet de composer des centaines de silhouettes à partir de sept pièces géométriques ?",
+      "answer": "tangram",
+      "accept": [],
+      "choices": [
+        "taquin",
+        "pentomino",
+        "puzzle"
+      ],
+      "explanation": "Son nom chinois signifie « sept planches de la ruse » ; il semble avoir été inventé au début du XIXe siècle avant de gagner l'Occident.",
+      "wikipedia": "Tangram"
+    },
+    {
+      "id": "sport-323",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une devinette où des dessins, des lettres et des chiffres, lus à la suite, forment un mot ou une phrase ?",
+      "answer": "rébus",
+      "accept": [
+        "rebus"
+      ],
+      "choices": [
+        "charade",
+        "anagramme",
+        "acrostiche"
+      ],
+      "explanation": "Le mot vient du latin non verbis, sed rebus, « non par des mots, mais par des choses » : c'est un langage par les images.",
+      "wikipedia": "Rébus"
+    },
+    {
+      "id": "sport-324",
+      "difficulty": 1,
+      "question": "De quel pays viennent les briques Lego, dont le nom signifie « joue bien » dans la langue locale ?",
+      "answer": "Danemark",
+      "accept": [],
+      "choices": [
+        "Suède",
+        "Allemagne",
+        "Norvège"
+      ],
+      "explanation": "Le nom vient de leg godt ; l'entreprise, fondée par le charpentier Ole Kirk Christiansen, est toujours basée à Billund.",
+      "wikipedia": "Lego"
+    },
+    {
+      "id": "sport-325",
+      "difficulty": 1,
+      "question": "Quelles figurines en plastique, conçues par l'Allemand Hans Beck, ont été lancées en 1974 par une entreprise de Zirndorf ?",
+      "answer": "Playmobil",
+      "accept": [],
+      "choices": [
+        "Lego",
+        "Kapla",
+        "Polly Pocket"
+      ],
+      "explanation": "Les premiers personnages, au visage rond et souriant sans nez ni oreilles, furent d'abord vendus en France sous le nom de Klickys.",
+      "wikipedia": "Playmobil"
+    },
+    {
+      "id": "sport-326",
+      "difficulty": 1,
+      "question": "Comment s'appelle le petit ami de la poupée Barbie, apparu pour la première fois en 1961 ?",
+      "answer": "Ken",
+      "accept": [],
+      "choices": [
+        "Kevin",
+        "Steve",
+        "Brad"
+      ],
+      "explanation": "Son nom complet est Kenneth Sean Carson ; Kenneth est aussi le prénom du fils de Ruth Handler, la créatrice de Barbie.",
+      "wikipedia": "Barbie (poupée)"
+    },
+    {
+      "id": "sport-327",
+      "difficulty": 1,
+      "question": "Quel président des États-Unis a donné son surnom à l'ours en peluche, appelé teddy bear en anglais ?",
+      "answer": "Theodore Roosevelt",
+      "accept": [
+        "Roosevelt",
+        "Teddy Roosevelt"
+      ],
+      "choices": [
+        "William McKinley",
+        "Woodrow Wilson",
+        "Abraham Lincoln"
+      ],
+      "explanation": "En 1902, lors d'une chasse dans le Mississippi, il aurait refusé d'abattre un ourson attaché à un arbre ; la presse s'empara aussitôt de l'anecdote.",
+      "wikipedia": "Ours en peluche"
+    },
+    {
+      "id": "sport-328",
+      "difficulty": 1,
+      "question": "Quel petit animal de compagnie virtuel japonais, lancé par Bandai en 1996, réclamait sans cesse soins et nourriture ?",
+      "answer": "Tamagotchi",
+      "accept": [],
+      "choices": [
+        "Furby",
+        "Pokémon",
+        "Game Boy"
+      ],
+      "explanation": "Son nom est un mot-valise mêlant tamago, « œuf », et une transcription japonaise du mot anglais watch, « montre ».",
+      "wikipedia": "Tamagotchi"
+    },
+    {
+      "id": "sport-329",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les poupées gigognes russes en bois peint, emboîtées les unes dans les autres ?",
+      "answer": "matriochka",
+      "accept": [
+        "matriochkas",
+        "matrouchka",
+        "poupée russe",
+        "poupées russes"
+      ],
+      "choices": [
+        "chapka",
+        "balalaïka",
+        "babouchka"
+      ],
+      "explanation": "La première fut peinte par Sergueï Malioutine, qui s'inspira de poupées de bois japonaises représentant les Sept Divinités du Bonheur.",
+      "wikipedia": "Poupée russe"
+    },
+    {
+      "id": "sport-330",
+      "difficulty": 1,
+      "question": "Quel jeu de cour consiste à sauter à cloche-pied dans des cases tracées au sol, de la terre jusqu'au ciel ?",
+      "answer": "marelle",
+      "accept": [],
+      "choices": [
+        "élastique",
+        "saute-mouton",
+        "chat perché"
+      ],
+      "explanation": "Son nom vient de l'ancien français merel ou mereau, « palet, jeton, caillou », car on y lance un palet dans les cases.",
+      "wikipedia": "Marelle"
+    },
+    {
+      "id": "sport-331",
+      "difficulty": 1,
+      "question": "Dans quel jeu de cour un meneur, face au mur, se retourne brusquement pour surprendre ceux qui bougent encore ?",
+      "answer": "un, deux, trois, soleil",
+      "accept": [
+        "1, 2, 3, soleil",
+        "1 2 3 soleil",
+        "123 soleil"
+      ],
+      "choices": [
+        "chat perché",
+        "colin-maillard",
+        "Jacques a dit"
+      ],
+      "explanation": "Les autres avancent pendant qu'il compte et doivent s'immobiliser quand il crie « Soleil ! » ; le premier à toucher le mur l'emporte.",
+      "wikipedia": "Un, deux, trois, soleil"
+    },
+    {
+      "id": "sport-332",
+      "difficulty": 1,
+      "question": "Quel jeu consiste, les yeux bandés, à attraper un autre joueur puis à le reconnaître au toucher ?",
+      "answer": "colin-maillard",
+      "accept": [
+        "colin maillard"
+      ],
+      "choices": [
+        "chat perché",
+        "cache-cache",
+        "Jacques a dit"
+      ],
+      "explanation": "Son nom pourrait venir de Jean Colin-Maillard, un guerrier de Huy qui aurait combattu le comte de Louvain au Xe siècle.",
+      "wikipedia": "Colin-maillard"
+    },
+    {
+      "id": "sport-333",
+      "difficulty": 1,
+      "question": "Sous quel nom familier désigne-t-on souvent le jeu de mains pierre-feuille-ciseaux ?",
+      "answer": "chifoumi",
+      "accept": [
+        "shifumi",
+        "chi-fou-mi"
+      ],
+      "choices": [
+        "mourre",
+        "pigeon vole",
+        "am-stram-gram"
+      ],
+      "explanation": "Ce « jeu des trois coups » a été inventé en Chine ; chaque geste bat un autre geste et perd contre le troisième.",
+      "wikipedia": "Pierre-feuille-ciseaux"
+    },
+    {
+      "id": "sport-334",
+      "difficulty": 1,
+      "question": "Quel art japonais consiste à plier une feuille de papier pour figurer animaux ou objets, en principe sans la découper ?",
+      "answer": "origami",
+      "accept": [],
+      "choices": [
+        "ikebana",
+        "kirigami",
+        "furoshiki"
+      ],
+      "explanation": "Le mot associe oru, « plier », et kami, « papier » ; la technique voisine du papier découpé s'appelle kirigami.",
+      "wikipedia": "Origami"
+    },
+    {
+      "id": "sport-335",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'art japonais de cultiver en pot des arbres nanifiés, taillés pour imiter les grands arbres ?",
+      "answer": "bonsaï",
+      "accept": [
+        "bonsai"
+      ],
+      "choices": [
+        "ikebana",
+        "origami",
+        "kokedama"
+      ],
+      "explanation": "Il est issu d'un art botanique chinois ancien, le penjing, qui consiste à créer des paysages miniatures en pot.",
+      "wikipedia": "Bonsaï"
+    },
+    {
+      "id": "sport-336",
+      "difficulty": 1,
+      "question": "Quel loisir né au Japon, dont le nom signifie « orchestre vide », consiste à chanter sur un accompagnement enregistré ?",
+      "answer": "karaoké",
+      "accept": [
+        "karaoke"
+      ],
+      "choices": [
+        "blind test",
+        "pachinko",
+        "playback"
+      ],
+      "explanation": "Le mot associe karappo, « vide », et oke, abréviation d'orchestra ; en 1971, le musicien Daisuke Inoue conçut un système de karaoké à Kobe.",
+      "wikipedia": "Karaoké"
+    },
+    {
+      "id": "sport-337",
+      "difficulty": 1,
+      "question": "Quel jeu de rôle médiéval-fantastique, créé en 1974 par les Américains Gary Gygax et Dave Arneson, fut le premier du genre ?",
+      "answer": "Donjons et Dragons",
+      "accept": [
+        "Dungeons & Dragons",
+        "Dungeons and Dragons",
+        "D&D"
+      ],
+      "choices": [
+        "L'Appel de Cthulhu",
+        "Warhammer",
+        "RuneQuest"
+      ],
+      "explanation": "Il est directement issu des wargames : ses auteurs voulaient faire évoluer un précédent jeu de figurines nommé Chainmail.",
+      "wikipedia": "Donjons et Dragons"
+    },
+    {
+      "id": "sport-338",
+      "difficulty": 1,
+      "question": "Quel jeu d'adresse consiste à retirer une à une des baguettes entremêlées sans faire bouger les autres ?",
+      "answer": "mikado",
+      "accept": [],
+      "choices": [
+        "Jenga",
+        "osselets",
+        "bilboquet"
+      ],
+      "explanation": "La baguette la plus précieuse, ornée d'une spirale, porte le nom de l'empereur du Japon et vaut 20 points.",
+      "wikipedia": "Mikado (jeu)"
+    },
+    {
+      "id": "sport-339",
+      "difficulty": 1,
+      "question": "Quel jeu de papier consiste à trouver le plus vite possible une ville, un métier ou un prénom commençant par une même lettre ?",
+      "answer": "petit bac",
+      "accept": [
+        "jeu du baccalauréat",
+        "baccalauréat",
+        "jeu du bac"
+      ],
+      "choices": [
+        "pendu",
+        "Scrabble",
+        "mots fléchés"
+      ],
+      "explanation": "Appelé à l'origine jeu du baccalauréat, il est connu en Belgique sous le nom de « pays ville ».",
+      "wikipedia": "Jeu du baccalauréat"
+    },
+    {
+      "id": "sport-340",
+      "difficulty": 1,
+      "question": "Quel jeu de table, appelé kicker en Belgique et en Suisse, fait manœuvrer des figurines de footballeurs fixées sur des barres ?",
+      "answer": "baby-foot",
+      "accept": [
+        "babyfoot",
+        "football de table"
+      ],
+      "choices": [
+        "flipper",
+        "billard",
+        "air hockey"
+      ],
+      "explanation": "On l'appelle aussi football de table ; René Pierre est un célèbre fabricant français de ces tables, longtemps présentes dans tous les cafés.",
+      "wikipedia": "Baby-foot"
+    },
+    {
+      "id": "sport-341",
+      "difficulty": 2,
+      "question": "Quel jeu de conquête militaire, d'abord publié en France sous le nom de « La Conquête du monde », fut inventé par Albert Lamorisse ?",
+      "answer": "Risk",
+      "accept": [],
+      "choices": [
+        "Stratego",
+        "Diplomacy",
+        "Axis & Allies"
+      ],
+      "explanation": "Paru en 1957, il fut ensuite repris par l'éditeur Parker ; dans la version française, chaque joueur tire au départ une mission secrète.",
+      "wikipedia": "Risk"
+    },
+    {
+      "id": "sport-342",
+      "difficulty": 2,
+      "question": "Quel jeu de stratégie oppose deux armées aux pièces cachées, du maréchal à l'espion, cherchant à capturer le drapeau adverse ?",
+      "answer": "Stratego",
+      "accept": [],
+      "choices": [
+        "Risk",
+        "Diplomacy",
+        "Kriegspiel"
+      ],
+      "explanation": "Il dérive du jeu L'Attaque, breveté en 1909 par Hermance Édan ; ni les bombes ni le drapeau ne peuvent s'y déplacer.",
+      "wikipedia": "Stratego"
+    },
+    {
+      "id": "sport-343",
+      "difficulty": 2,
+      "question": "Dans quel jeu allemand de Klaus Teuber colonise-t-on une île en produisant bois, argile, laine, blé et minerai ?",
+      "answer": "Les Colons de Catane",
+      "accept": [
+        "Catan",
+        "Colons de Catane",
+        "Catane"
+      ],
+      "choices": [
+        "Carcassonne",
+        "Les Aventuriers du rail",
+        "Agricola"
+      ],
+      "explanation": "Paru en 1995, il se joue sur une île formée d'hexagones : à chaque lancer de dés, les cases portant le nombre obtenu produisent leur ressource.",
+      "wikipedia": "Les Colons de Catane"
+    },
+    {
+      "id": "sport-344",
+      "difficulty": 2,
+      "question": "Dans quel jeu de société français le conteur propose-t-il une phrase pour faire deviner sa carte parmi des illustrations oniriques ?",
+      "answer": "Dixit",
+      "accept": [],
+      "choices": [
+        "Mysterium",
+        "Codenames",
+        "Pictionary"
+      ],
+      "explanation": "Créé par Jean-Louis Roubira et illustré par Marie Cardouat, il fut en 2010 le premier jeu d'auteur et d'éditeur français élu jeu de l'année en Allemagne.",
+      "wikipedia": "Dixit (jeu)"
+    },
+    {
+      "id": "sport-345",
+      "difficulty": 2,
+      "question": "Dans quel jeu de cartes rondes deux cartes quelconques ont-elles toujours exactement un symbole en commun ?",
+      "answer": "Dobble",
+      "accept": [
+        "Spot it"
+      ],
+      "choices": [
+        "Uno",
+        "Jungle Speed",
+        "Set"
+      ],
+      "explanation": "La version de base compte 55 cartes portant chacune huit dessins ; il faut repérer le plus vite possible le symbole partagé.",
+      "wikipedia": "Dobble"
+    },
+    {
+      "id": "sport-346",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on aux échecs le sacrifice volontaire d'un pion en début de partie pour obtenir un avantage ?",
+      "answer": "gambit",
+      "accept": [],
+      "choices": [
+        "roque",
+        "fianchetto",
+        "zwischenzug"
+      ],
+      "explanation": "Le mot vient de l'expression italienne dare il gambetto, « faire un croc-en-jambe », et fut employé dès 1561 par l'Espagnol Ruy López.",
+      "wikipedia": "Gambit (échecs)"
+    },
+    {
+      "id": "sport-347",
+      "difficulty": 2,
+      "question": "Quel professeur de physique américain d'origine hongroise a donné son nom au classement des joueurs d'échecs ?",
+      "answer": "Arpad Elo",
+      "accept": [
+        "Elo",
+        "Árpád Élő"
+      ],
+      "choices": [
+        "Ernő Rubik",
+        "John Nash",
+        "László Polgár"
+      ],
+      "explanation": "Malgré la graphie fréquente en majuscules, « Elo » n'est pas un acronyme : c'est le nom de l'inventeur de ce classement fondé sur les performances passées.",
+      "wikipedia": "Classement Elo"
+    },
+    {
+      "id": "sport-348",
+      "difficulty": 2,
+      "question": "Quel automate joueur d'échecs, construit au XVIIIe siècle par Wolfgang von Kempelen, cachait en réalité un joueur humain ?",
+      "answer": "Turc mécanique",
+      "accept": [
+        "le Turc"
+      ],
+      "choices": [
+        "Ajeeb",
+        "Canard digérateur",
+        "Joueur de flûte"
+      ],
+      "explanation": "Il affronta durant près de 84 ans des adversaires en Europe et en Amérique, dont Napoléon Bonaparte, Catherine II et Benjamin Franklin.",
+      "wikipedia": "Turc mécanique"
+    },
+    {
+      "id": "sport-349",
+      "difficulty": 2,
+      "question": "Quel programme de Google DeepMind a battu en 2016 le Sud-Coréen Lee Sedol, l'un des meilleurs joueurs de go ?",
+      "answer": "AlphaGo",
+      "accept": [],
+      "choices": [
+        "Deep Blue",
+        "Watson",
+        "Stockfish"
+      ],
+      "explanation": "Peu avant, il était devenu le premier programme à battre un joueur professionnel, le Français Fan Hui, sur un goban de taille normale sans handicap.",
+      "wikipedia": "AlphaGo"
+    },
+    {
+      "id": "sport-350",
+      "difficulty": 2,
+      "question": "Quel jeu africain de semailles consiste à distribuer des graines dans les trous d'un plateau pour capturer celles de l'adversaire ?",
+      "answer": "awalé",
+      "accept": [
+        "awélé",
+        "awale"
+      ],
+      "choices": [
+        "senet",
+        "morabaraba",
+        "fanorona"
+      ],
+      "explanation": "C'est le plus répandu des jeux de la famille mancala, des jeux africains de type « compter et capturer ».",
+      "wikipedia": "Awalé"
+    },
+    {
+      "id": "sport-351",
+      "difficulty": 2,
+      "question": "Quel jeu chinois se joue avec 144 tuiles réparties en cercles, bambous et caractères, auxquels s'ajoutent vents et dragons ?",
+      "answer": "mah-jong",
+      "accept": [
+        "mahjong",
+        "mah-jongg"
+      ],
+      "choices": [
+        "dominos",
+        "xiangqi",
+        "go"
+      ],
+      "explanation": "Son nom chinois, má què, signifie « moineau du chanvre » ; ses tuiles dérivent d'anciennes cartes monétaires.",
+      "wikipedia": "Mah-jong"
+    },
+    {
+      "id": "sport-352",
+      "difficulty": 2,
+      "question": "Quel jeu de dés et de pions se joue avec un dé doubleur, le videau, qui permet de faire monter l'enjeu de la partie ?",
+      "answer": "backgammon",
+      "accept": [],
+      "choices": [
+        "jacquet",
+        "Yahtzee",
+        "pachisi"
+      ],
+      "explanation": "Chaque joueur fait avancer quinze pions sur un tablier de vingt-quatre flèches ; les faces du videau affichent 2, 4, 8, 16, 32 et 64.",
+      "wikipedia": "Backgammon"
+    },
+    {
+      "id": "sport-353",
+      "difficulty": 2,
+      "question": "Combien de pièces compte un jeu de dominos classique, du double blanc au double six ?",
+      "answer": "28",
+      "accept": [
+        "vingt-huit"
+      ],
+      "choices": [
+        "24",
+        "32",
+        "36"
+      ],
+      "explanation": "Ce jeu d'origine chinoise se pratique généralement à deux, trois ou quatre ; chaque paire de valeurs de zéro à six n'y figure qu'une seule fois.",
+      "wikipedia": "Dominos (jeu)"
+    },
+    {
+      "id": "sport-354",
+      "difficulty": 2,
+      "question": "Quel jeu de stratégie consiste à retourner les pions adverses, noirs d'un côté et blancs de l'autre, en les encadrant ?",
+      "answer": "Othello",
+      "accept": [
+        "Reversi"
+      ],
+      "choices": [
+        "go",
+        "dames",
+        "Hex"
+      ],
+      "explanation": "Il a été édité en 1971 par Goro Hasegawa, à partir du Reversi, un jeu apparu vers 1880 en Angleterre.",
+      "wikipedia": "Othello (jeu)"
+    },
+    {
+      "id": "sport-355",
+      "difficulty": 2,
+      "question": "Quel jeu de cinq dés consiste à réaliser des combinaisons comme le brelan, le carré, le full ou la grande suite ?",
+      "answer": "Yahtzee",
+      "accept": [
+        "Yam's",
+        "Yams",
+        "Yam"
+      ],
+      "choices": [
+        "421",
+        "craps",
+        "zanzibar"
+      ],
+      "explanation": "Commercialisé par Edwin S. Lowe, il est connu en France sous le nom de Yam's ; le full y rapporte 25 points.",
+      "wikipedia": "Yahtzee"
+    },
+    {
+      "id": "sport-356",
+      "difficulty": 2,
+      "question": "Quel jeu de dés traditionnel porte le nom de sa combinaison la plus forte, formée d'un quatre, d'un deux et d'un as ?",
+      "answer": "421",
+      "accept": [
+        "quatre cent vingt et un",
+        "quatre-cent-vingt-et-un"
+      ],
+      "choices": [
+        "Yahtzee",
+        "craps",
+        "zanzibar"
+      ],
+      "explanation": "Il se joue avec trois dés et 21 jetons : on cherche d'abord à en récupérer le moins possible, puis à se débarrasser des siens.",
+      "wikipedia": "421 (jeu)"
+    },
+    {
+      "id": "sport-357",
+      "difficulty": 2,
+      "question": "Quel nom biblique est inscrit sur le roi de pique dans les jeux de cartes au portrait français ?",
+      "answer": "David",
+      "accept": [],
+      "choices": [
+        "Salomon",
+        "Saül",
+        "Josué"
+      ],
+      "explanation": "Il tient un sceptre dans sa main droite et, sous celle-ci, une harpe, l'attribut du roi musicien de la Bible.",
+      "wikipedia": "Roi de pique"
+    },
+    {
+      "id": "sport-358",
+      "difficulty": 2,
+      "question": "À la belote, quelle carte est la plus forte de la couleur d'atout, valant à elle seule vingt points ?",
+      "answer": "valet",
+      "accept": [
+        "valet d'atout"
+      ],
+      "choices": [
+        "as",
+        "neuf",
+        "roi"
+      ],
+      "explanation": "Juste derrière vient le neuf d'atout, qui vaut 14 points et que l'on surnomme pour cela le « quatorze ».",
+      "wikipedia": "Belote"
+    },
+    {
+      "id": "sport-359",
+      "difficulty": 2,
+      "question": "Quel jeu de casino, dont le chemin de fer est une variante, est pratiqué par James Bond dès son premier film ?",
+      "answer": "baccara",
+      "accept": [
+        "baccarat"
+      ],
+      "choices": [
+        "blackjack",
+        "roulette",
+        "craps"
+      ],
+      "explanation": "Dans James Bond 007 contre Dr No, le héros y affronte Sylvia Trench ; le vainqueur est celui qui s'approche le plus de 9 points.",
+      "wikipedia": "Baccara (jeu)"
+    },
+    {
+      "id": "sport-360",
+      "difficulty": 2,
+      "question": "Dans quel jeu de cartes perd celui qui garde en main le valet de pique à la fin de la partie ?",
+      "answer": "pouilleux",
+      "accept": [
+        "mistigri"
+      ],
+      "choices": [
+        "bataille",
+        "menteur",
+        "huit américain"
+      ],
+      "explanation": "Sa version anglophone s'appelle Old Maid, « Vieille Fille », et la carte à éviter y est alors la dame de pique.",
+      "wikipedia": "Pouilleux"
+    },
+    {
+      "id": "sport-361",
+      "difficulty": 2,
+      "question": "Quel casse-tête, imaginé par le mathématicien Édouard Lucas, consiste à déplacer une pile de disques d'une tige à l'autre ?",
+      "answer": "tours de Hanoï",
+      "accept": [
+        "tour de Hanoï",
+        "tours de Hanoi",
+        "tour de Hanoi"
+      ],
+      "choices": [
+        "taquin",
+        "solitaire",
+        "tangram"
+      ],
+      "explanation": "Lucas l'accompagna d'une légende : dans le grand temple de Bénarès, des prêtres transporteraient nuit et jour une tour de 64 disques d'or pur.",
+      "wikipedia": "Tours de Hanoï"
+    },
+    {
+      "id": "sport-362",
+      "difficulty": 2,
+      "question": "Quel casse-tête consiste à remettre dans l'ordre quinze carreaux numérotés en les faisant glisser grâce à une case vide ?",
+      "answer": "taquin",
+      "accept": [],
+      "choices": [
+        "tangram",
+        "solitaire",
+        "Rubik's Cube"
+      ],
+      "explanation": "En 1891, l'Américain Sam Loyd en revendiqua l'invention ; certaines configurations de départ sont mathématiquement impossibles à résoudre.",
+      "wikipedia": "Taquin"
+    },
+    {
+      "id": "sport-363",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'auteur des grilles de mots croisés, par opposition au cruciverbiste qui les résout ?",
+      "answer": "verbicruciste",
+      "accept": [
+        "mots-croisiste"
+      ],
+      "choices": [
+        "oulipien",
+        "lexicographe",
+        "philologue"
+      ],
+      "explanation": "La première grille fut publiée en 1913 dans le New York World par l'Anglais Arthur Wynne, dont l'invention des cases noires permit l'essor du jeu.",
+      "wikipedia": "Mots croisés"
+    },
+    {
+      "id": "sport-364",
+      "difficulty": 2,
+      "question": "Quelle cofondatrice de Mattel a créé la poupée Barbie, à laquelle elle donna le prénom de sa fille Barbara ?",
+      "answer": "Ruth Handler",
+      "accept": [
+        "Handler"
+      ],
+      "choices": [
+        "Margarete Steiff",
+        "Beatrice Alexander",
+        "Lilli Hoffmann"
+      ],
+      "explanation": "Le nom Mattel associe Matt, diminutif du designer Harold Matson, et El, d'Elliot Handler, son mari.",
+      "wikipedia": "Ruth Handler"
+    },
+    {
+      "id": "sport-365",
+      "difficulty": 2,
+      "question": "Quel jeu de construction à base de plaques métalliques perforées, vis et écrous, fut créé à Liverpool par Frank Hornby ?",
+      "answer": "Meccano",
+      "accept": [],
+      "choices": [
+        "Lego",
+        "Kapla",
+        "Lincoln Logs"
+      ],
+      "explanation": "La société Meccano fabriqua aussi les trains Hornby et les petites voitures Dinky Toys ; sa filiale française fut créée à Paris en 1912.",
+      "wikipedia": "Meccano"
+    },
+    {
+      "id": "sport-366",
+      "difficulty": 2,
+      "question": "Quel jouet en forme de ressort, inventé par l'ingénieur Richard James, est capable de descendre seul les marches d'un escalier ?",
+      "answer": "Slinky",
+      "accept": [],
+      "choices": [
+        "yo-yo",
+        "Frisbee",
+        "diabolo"
+      ],
+      "explanation": "En 1985, un Slinky figura parmi les onze premiers jouets emportés en orbite, à bord de la navette spatiale Discovery.",
+      "wikipedia": "Slinky"
+    },
+    {
+      "id": "sport-367",
+      "difficulty": 2,
+      "question": "Quel jeu de construction français, créé en 1987 par Tom van der Bruggen, se compose de planchettes de bois identiques ?",
+      "answer": "Kapla",
+      "accept": [],
+      "choices": [
+        "Lego",
+        "Meccano",
+        "Jenga"
+      ],
+      "explanation": "Ses planchettes en pin des Landes se superposent sans colle ni attache ; l'entreprise est installée à Saint-Louis-de-Montferrand, en Gironde.",
+      "wikipedia": "Kapla"
+    },
+    {
+      "id": "sport-368",
+      "difficulty": 2,
+      "question": "Quel jouet à deux molettes, dont on efface le dessin en le secouant, fut inventé en 1959 par le Français André Cassagnes ?",
+      "answer": "Télécran",
+      "accept": [
+        "écran magique",
+        "Etch A Sketch",
+        "Etch-A-Sketch"
+      ],
+      "choices": [
+        "Spirographe",
+        "ardoise magique",
+        "Lite-Brite"
+      ],
+      "explanation": "Un stylet gratte la poudre d'aluminium qui adhère, par électricité statique, à la face interne de l'écran.",
+      "wikipedia": "Écran magique"
+    },
+    {
+      "id": "sport-369",
+      "difficulty": 2,
+      "question": "Quel jouet d'adresse, composé d'une tige reliée par une cordelette à une boule percée, fut mis à la mode par le roi Henri III ?",
+      "answer": "bilboquet",
+      "accept": [],
+      "choices": [
+        "diabolo",
+        "yo-yo",
+        "toupie"
+      ],
+      "explanation": "Son nom viendrait de « bil le bocquet », la pointe d'un javelot ; sa version japonaise, le kendama, comporte trois coupes et un pic.",
+      "wikipedia": "Bilboquet"
+    },
+    {
+      "id": "sport-370",
+      "difficulty": 2,
+      "question": "Quel disque volant doit son nom à une pâtisserie américaine dont les étudiants de Yale se lançaient les moules à tarte ?",
+      "answer": "Frisbee",
+      "accept": [],
+      "choices": [
+        "boomerang",
+        "Aerobie",
+        "diabolo"
+      ],
+      "explanation": "La Frisbie Pie Company tirait son nom du pâtissier William Frisbie ; le nom du jouet y fait une référence à peine voilée.",
+      "wikipedia": "Frisbee"
+    },
+    {
+      "id": "sport-371",
+      "difficulty": 2,
+      "question": "Quel jeu d'adresse antique se pratiquait avec de petits os, souvent des astragales de mouton, lancés puis rattrapés ?",
+      "answer": "osselets",
+      "accept": [
+        "osselet"
+      ],
+      "choices": [
+        "billes",
+        "mikado",
+        "bilboquet"
+      ],
+      "explanation": "Très populaire en Grèce antique, il est considéré comme un ancêtre des jeux de dés ; une partie se joue habituellement avec cinq pièces.",
+      "wikipedia": "Osselets (jeu)"
+    },
+    {
+      "id": "sport-372",
+      "difficulty": 2,
+      "question": "Quel jeu finlandais demande de marquer exactement cinquante points en renversant des quilles numérotées de 1 à 12 ?",
+      "answer": "Mölkky",
+      "accept": [
+        "Molkky"
+      ],
+      "choices": [
+        "kubb",
+        "pétanque",
+        "palet"
+      ],
+      "explanation": "Inventé en 1996 et inspiré du kyykkä, il se joue avec un bâton de bois, le tikku, que l'on lance sur les douze quilles.",
+      "wikipedia": "Mölkky"
+    },
+    {
+      "id": "sport-373",
+      "difficulty": 2,
+      "question": "Quel oiseau est le modèle d'origami le plus célèbre, mille exemplaires pliés étant censés exaucer un vœu ?",
+      "answer": "grue",
+      "accept": [
+        "grue en papier"
+      ],
+      "choices": [
+        "cygne",
+        "colombe",
+        "héron"
+      ],
+      "explanation": "En raison de cette légende japonaise, la grue de papier est devenue un symbole de paix.",
+      "wikipedia": "Origami"
+    },
+    {
+      "id": "sport-374",
+      "difficulty": 2,
+      "question": "Dans Alice au pays des merveilles, à quel jeu Alice joue-t-elle avec un flamant rose en guise de maillet ?",
+      "answer": "croquet",
+      "accept": [],
+      "choices": [
+        "golf",
+        "polo",
+        "cricket"
+      ],
+      "explanation": "La boule y est un hérisson ; dans le vrai jeu, on frappe des boules de bois au maillet pour les faire passer sous des arceaux.",
+      "wikipedia": "Croquet"
+    },
+    {
+      "id": "sport-375",
+      "difficulty": 2,
+      "question": "Quel artiste, auteur du Nu descendant un escalier, délaissa en partie l'art pour les échecs et joua pour l'équipe de France ?",
+      "answer": "Marcel Duchamp",
+      "accept": [
+        "Duchamp"
+      ],
+      "choices": [
+        "Man Ray",
+        "Francis Picabia",
+        "Max Ernst"
+      ],
+      "explanation": "Il participa notamment à l'Olympiade d'échecs de La Haye en 1928 et disputa aussi le championnat de France.",
+      "wikipedia": "Marcel Duchamp"
+    },
+    {
+      "id": "sport-376",
+      "difficulty": 2,
+      "question": "Quelle entreprise japonaise, célèbre pour Super Mario, fabriquait à ses débuts des cartes à jouer appelées hanafuda ?",
+      "answer": "Nintendo",
+      "accept": [],
+      "choices": [
+        "Sega",
+        "Bandai",
+        "Sony"
+      ],
+      "explanation": "Fondée en 1889 par Yamauchi Fusajirō, la société a toujours son siège à Kyoto ; elle ne s'est tournée que bien plus tard vers le jeu vidéo.",
+      "wikipedia": "Nintendo"
+    },
+    {
+      "id": "sport-377",
+      "difficulty": 2,
+      "question": "Quel jeu d'ambiance à rôles cachés, créé par Philippe des Pallières et Hervé Marly, oppose des villageois à des lycanthropes ?",
+      "answer": "Les Loups-garous de Thiercelieux",
+      "accept": [
+        "Loups-garous",
+        "Loups-garous de Thiercelieux",
+        "Les Loups-garous"
+      ],
+      "choices": [
+        "Mafia",
+        "Les Aventuriers du rail",
+        "Dixit"
+      ],
+      "explanation": "La nuit, les loups-garous éliminent une victime ; chaque matin, les villageois découvrent qui manque à l'appel et tentent de démasquer les coupables.",
+      "wikipedia": "Les Loups-garous de Thiercelieux"
+    },
+    {
+      "id": "sport-378",
+      "difficulty": 2,
+      "question": "Quelle défense d'échecs, parmi les plus jouées, s'obtient après les coups 1. e4 c5 et porte le nom d'une île ?",
+      "answer": "sicilienne",
+      "accept": [
+        "défense sicilienne"
+      ],
+      "choices": [
+        "française",
+        "scandinave",
+        "hollandaise"
+      ],
+      "explanation": "Elle remonte à l'ouvrage de l'Italien Giulio Cesare Polerio, vers 1590, et reste populaire auprès des joueurs de tous niveaux.",
+      "wikipedia": "Défense sicilienne"
+    },
+    {
+      "id": "sport-379",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on le poteau enduit de graisse que l'on escalade lors des fêtes pour décrocher les lots suspendus au sommet ?",
+      "answer": "mât de cocagne",
+      "accept": [],
+      "choices": [
+        "arbre de mai",
+        "totem",
+        "mât de misaine"
+      ],
+      "explanation": "Son nom fait référence au pays de Cocagne ; les lots, friandises ou saucissons, pendent souvent d'une roue de charrette ou de bicyclette.",
+      "wikipedia": "Mât de cocagne"
+    },
+    {
+      "id": "sport-380",
+      "difficulty": 2,
+      "question": "Quel jouet de dentition en caoutchouc, créé en 1961 et fabriqué en Haute-Savoie, a la forme d'un animal tacheté ?",
+      "answer": "Sophie la girafe",
+      "accept": [
+        "Sophie"
+      ],
+      "choices": [
+        "Babar l'éléphant",
+        "Kiki le singe",
+        "Bambi le faon"
+      ],
+      "explanation": "Elle fut officiellement baptisée le 25 mai 1961, jour de la Sainte-Sophie, d'où son prénom ; l'entreprise Vulli la produit à Rumilly.",
+      "wikipedia": "Sophie la girafe"
+    },
+    {
+      "id": "sport-381",
+      "difficulty": 3,
+      "question": "Quelle Américaine, disciple de l'économiste Henry George, inventa The Landlord's Game, l'ancêtre du Monopoly ?",
+      "answer": "Elizabeth Magie",
+      "accept": [
+        "Lizzie Magie",
+        "Magie"
+      ],
+      "choices": [
+        "Ruth Handler",
+        "Margarete Steiff",
+        "Ida Tarbell"
+      ],
+      "explanation": "Elle voulait dénoncer l'oppression exercée par les propriétaires fonciers ; Parker Brothers lui racheta ses droits à bas prix en 1936.",
+      "wikipedia": "Elizabeth Magie"
+    },
+    {
+      "id": "sport-382",
+      "difficulty": 3,
+      "question": "Quel joueur né à Prague devint en 1886 le premier champion du monde officiel d'échecs, en battant Zukertort ?",
+      "answer": "Wilhelm Steinitz",
+      "accept": [
+        "Steinitz"
+      ],
+      "choices": [
+        "Paul Morphy",
+        "Adolf Anderssen",
+        "Mikhaïl Tchigorine"
+      ],
+      "explanation": "Il conserva son titre jusqu'en 1894, année où il le perdit face à Emanuel Lasker.",
+      "wikipedia": "Wilhelm Steinitz"
+    },
+    {
+      "id": "sport-383",
+      "difficulty": 3,
+      "question": "Quel champion du monde d'échecs, d'origine russe et naturalisé français, est le seul à être mort en détenant son titre ?",
+      "answer": "Alexandre Alekhine",
+      "accept": [
+        "Alekhine",
+        "Aliokhine"
+      ],
+      "choices": [
+        "José Raúl Capablanca",
+        "Mikhaïl Botvinnik",
+        "Max Euwe"
+      ],
+      "explanation": "Champion de 1927 à 1935 puis de 1937 à sa mort à Estoril en 1946, il fut aussi le premier à reconquérir son titre.",
+      "wikipedia": "Alexandre Alekhine"
+    },
+    {
+      "id": "sport-384",
+      "difficulty": 3,
+      "question": "Quel compositeur français d'opéras-comiques, meilleur joueur d'échecs de son temps, affirmait que « les pions sont l'âme des échecs » ?",
+      "answer": "Philidor",
+      "accept": [
+        "François-André Danican Philidor",
+        "François-André Philidor",
+        "Danican Philidor"
+      ],
+      "choices": [
+        "Jean-Philippe Rameau",
+        "André Grétry",
+        "La Bourdonnais"
+      ],
+      "explanation": "Il a laissé son nom à une défense et à la « position de Philidor », très importante dans les finales de tour.",
+      "wikipedia": "François-André Danican Philidor"
+    },
+    {
+      "id": "sport-385",
+      "difficulty": 3,
+      "question": "Quel établissement parisien, longtemps situé au Palais-Royal, fut pendant cent vingt ans le centre européen du jeu d'échecs ?",
+      "answer": "Café de la Régence",
+      "accept": [
+        "la Régence",
+        "Régence"
+      ],
+      "choices": [
+        "Café Procope",
+        "Café de Flore",
+        "Café de la Paix"
+      ],
+      "explanation": "Diderot en décrit l'atmosphère au début du Neveu de Rameau, et Marx y rencontra Engels en 1844.",
+      "wikipedia": "Café de la Régence"
+    },
+    {
+      "id": "sport-386",
+      "difficulty": 3,
+      "question": "Quel jeu de plateau de l'Égypte antique se jouait sur trente cases réparties en trois rangées de dix ?",
+      "answer": "senet",
+      "accept": [
+        "sénet"
+      ],
+      "choices": [
+        "mehen",
+        "jeu royal d'Ur",
+        "mancala"
+      ],
+      "explanation": "Prisé des nobles, il se pratiquait souvent en couple, avec des pions noirs ou blancs, sept par joueur sous l'Ancien Empire.",
+      "wikipedia": "Senet"
+    },
+    {
+      "id": "sport-387",
+      "difficulty": 3,
+      "question": "Quel divertissement de course mésopotamien, dont deux plateaux furent exhumés par Leonard Woolley dans les années 1920, porte le nom d'une cité sumérienne ?",
+      "answer": "jeu royal d'Ur",
+      "accept": [
+        "jeu d'Ur",
+        "Ur"
+      ],
+      "choices": [
+        "senet",
+        "mehen",
+        "jeu des vingt cases"
+      ],
+      "explanation": "L'un de ses plateaux est exposé au British Museum ; en 1980, Irving Finkel le rapprocha d'un jeu pratiqué par la communauté juive de Cochin, en Inde.",
+      "wikipedia": "Jeu royal d'Ur"
+    },
+    {
+      "id": "sport-388",
+      "difficulty": 3,
+      "question": "Quel nom est inscrit sur le valet de cœur des jeux de cartes français, peut-être en souvenir d'un compagnon de Jeanne d'Arc ?",
+      "answer": "La Hire",
+      "accept": [
+        "Lahire",
+        "Étienne de Vignolles"
+      ],
+      "choices": [
+        "Dunois",
+        "Lancelot",
+        "Ogier"
+      ],
+      "explanation": "La Hire était le surnom d'Étienne de Vignolles ; l'origine des noms inscrits sur les figures françaises reste toutefois incertaine.",
+      "wikipedia": "Valet de cœur"
+    },
+    {
+      "id": "sport-389",
+      "difficulty": 3,
+      "question": "Quel architecte new-yorkais, réduit au chômage par la crise de 1929, imagina le jeu de lettres devenu le Scrabble ?",
+      "answer": "Alfred Mosher Butts",
+      "accept": [
+        "Alfred Butts",
+        "Butts"
+      ],
+      "choices": [
+        "Arthur Wynne",
+        "James Brunot",
+        "Sam Loyd"
+      ],
+      "explanation": "Sa première version, créée en 1931, s'appelait Lexiko, puis devint Alph, It et CrissCrossWords avant de prendre son nom définitif.",
+      "wikipedia": "Scrabble"
+    },
+    {
+      "id": "sport-390",
+      "difficulty": 3,
+      "question": "Quel joueur néo-zélandais remporta en 2015 le championnat du monde de Scrabble francophone sans parler français ?",
+      "answer": "Nigel Richards",
+      "accept": [
+        "Richards"
+      ],
+      "choices": [
+        "Brian Cappelletto",
+        "Joel Sherman",
+        "David Boys"
+      ],
+      "explanation": "Après seulement deux mois d'étude du vocabulaire français, il battit en finale le Gabonais Schélick Ilagou Rekawe à Louvain-la-Neuve.",
+      "wikipedia": "Nigel Richards"
+    },
+    {
+      "id": "sport-391",
+      "difficulty": 3,
+      "question": "Quelle joueuse hongroise est la seule femme à avoir figuré parmi les dix meilleurs joueurs d'échecs du monde ?",
+      "answer": "Judit Polgár",
+      "accept": [
+        "Judit Polgar"
+      ],
+      "choices": [
+        "Susan Polgár",
+        "Hou Yifan",
+        "Vera Menchik"
+      ],
+      "explanation": "En 1991, à moins de quinze ans et cinq mois, elle obtint le titre de grand maître international, battant le record de précocité de Bobby Fischer.",
+      "wikipedia": "Judit Polgár"
+    },
+    {
+      "id": "sport-392",
+      "difficulty": 3,
+      "question": "Quel ancien jeu de stratégie indien, dont le nom signifie « quatre parties », est considéré comme un ancêtre des échecs ?",
+      "answer": "chaturanga",
+      "accept": [
+        "caturanga"
+      ],
+      "choices": [
+        "pachisi",
+        "shatranj",
+        "xiangqi"
+      ],
+      "explanation": "Ce nom évoque les quatre corps de l'armée indienne traditionnelle : éléphants, cavaliers, chars et fantassins.",
+      "wikipedia": "Chaturanga"
+    },
+    {
+      "id": "sport-393",
+      "difficulty": 3,
+      "question": "Quel jeu de cartes anglais à levées, avec atout mais sans enchères, connut son heure de gloire aux XVIIIe et XIXe siècles ?",
+      "answer": "whist",
+      "accept": [],
+      "choices": [
+        "piquet",
+        "écarté",
+        "cribbage"
+      ],
+      "explanation": "Edmond Hoyle lui consacra en 1742 un court traité, réédité un grand nombre de fois, y compris longtemps après la mort de son auteur.",
+      "wikipedia": "Whist"
+    },
+    {
+      "id": "sport-394",
+      "difficulty": 3,
+      "question": "Sous quel autre nom connaît-on l'ouverture d'échecs Ruy López, baptisée d'après un moine du XVIe siècle ?",
+      "answer": "partie espagnole",
+      "accept": [
+        "espagnole"
+      ],
+      "choices": [
+        "partie italienne",
+        "défense française",
+        "gambit du roi"
+      ],
+      "explanation": "Ruy López de Segura en vanta l'intérêt dans son Libro del Ajedrez de 1561, mais elle ne devint populaire qu'au milieu du XIXe siècle.",
+      "wikipedia": "Partie espagnole"
+    },
+    {
+      "id": "sport-395",
+      "difficulty": 3,
+      "question": "Quel cartographe et graveur londonien est considéré comme l'inventeur du puzzle, à partir de cartes géographiques découpées ?",
+      "answer": "John Spilsbury",
+      "accept": [
+        "Spilsbury"
+      ],
+      "choices": [
+        "John Harrison",
+        "Thomas Bewick",
+        "Edmond Halley"
+      ],
+      "explanation": "En 1766, il eut l'idée de découper des cartes représentant les pays du monde pour en faire un moyen ludique d'apprendre la géographie.",
+      "wikipedia": "Puzzle"
+    },
+    {
+      "id": "sport-396",
+      "difficulty": 3,
+      "question": "Quelle grille japonaise impose de placer des chiffres de 1 à 9 dont les sommes doivent égaler les indices des cases noires ?",
+      "answer": "kakuro",
+      "accept": [],
+      "choices": [
+        "sudoku",
+        "futoshiki",
+        "hashi"
+      ],
+      "explanation": "Son nom abrège le japonais kasan-cross, « addition en croix » ; il ressemble beaucoup aux nombres fléchés publiés en France par Sport cérébral.",
+      "wikipedia": "Kakuro"
+    },
+    {
+      "id": "sport-397",
+      "difficulty": 3,
+      "question": "Quel jeu de logique consiste à noircir des cases d'après des indices chiffrés en bord de grille, révélant ainsi un dessin ?",
+      "answer": "picross",
+      "accept": [
+        "nonogramme",
+        "logimage",
+        "nonogram"
+      ],
+      "choices": [
+        "kakuro",
+        "démineur",
+        "hitori"
+      ],
+      "explanation": "En 1987, la graphiste japonaise Non Ichida gagna un concours en créant une image sur un immeuble, en allumant et éteignant ses fenêtres.",
+      "wikipedia": "Picross"
+    },
+    {
+      "id": "sport-398",
+      "difficulty": 3,
+      "question": "Quel casse-tête de sept pièces formées de petits cubes aurait été imaginé par le Danois Piet Hein pendant un cours de Heisenberg ?",
+      "answer": "cube Soma",
+      "accept": [
+        "Soma"
+      ],
+      "choices": [
+        "tangram",
+        "pentomino",
+        "Rubik's Cube"
+      ],
+      "explanation": "Le but est d'assembler les sept pièces pour former un cube de trois unités de côté, mais bien d'autres figures sont possibles.",
+      "wikipedia": "Cube Soma"
+    },
+    {
+      "id": "sport-399",
+      "difficulty": 3,
+      "question": "Quel jeu de connexion sur un plateau de cases hexagonales fut inventé séparément par Piet Hein et le mathématicien John Nash ?",
+      "answer": "Hex",
+      "accept": [],
+      "choices": [
+        "go",
+        "Havannah",
+        "Twixt"
+      ],
+      "explanation": "Nash a démontré qu'une partie ne peut jamais se terminer par un match nul : il existe toujours un vainqueur.",
+      "wikipedia": "Hex"
+    },
+    {
+      "id": "sport-400",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on la collection des fèves que l'on trouve dans les galettes des rois ?",
+      "answer": "fabophilie",
+      "accept": [
+        "favophilie"
+      ],
+      "choices": [
+        "cartophilie",
+        "glycophilie",
+        "tyrosémiophilie"
+      ],
+      "explanation": "La première fève en porcelaine fut fabriquée en Allemagne en 1874, sous la forme d'un baigneur ; ses adeptes sont appelés fabophiles.",
+      "wikipedia": "Fabophilie"
+    }
+  ]
+}
