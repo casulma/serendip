@@ -1,0 +1,3635 @@
+{
+  "category": "geographie",
+  "questions": [
+    {
+      "id": "geographie-361",
+      "difficulty": 1,
+      "question": "Quelle ville nouvelle, conçue par l'urbaniste Lúcio Costa et l'architecte Oscar Niemeyer, est la capitale du Brésil ?",
+      "answer": "Brasilia",
+      "accept": [
+        "Brasília"
+      ],
+      "choices": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Belo Horizonte"
+      ],
+      "explanation": "Inaugurée en 1960 au cœur du plateau central, la ville dessine vue du ciel la forme d'un avion ou d'un oiseau aux ailes déployées.",
+      "wikipedia": "Brasilia"
+    },
+    {
+      "id": "geographie-362",
+      "difficulty": 1,
+      "question": "Quelle ville d'Anatolie centrale Mustafa Kemal choisit-il comme capitale de la Turquie, à la place d'Istanbul ?",
+      "answer": "Ankara",
+      "accept": [],
+      "choices": [
+        "Izmir",
+        "Konya",
+        "Bursa"
+      ],
+      "explanation": "Ankara s'appelait autrefois Angora, nom resté attaché à des races de chèvres, de chats et de lapins à poils longs.",
+      "wikipedia": "Ankara"
+    },
+    {
+      "id": "geographie-363",
+      "difficulty": 1,
+      "question": "Quelle ville, située à la pointe sud de l'île du Nord, est la capitale de la Nouvelle-Zélande ?",
+      "answer": "Wellington",
+      "accept": [],
+      "choices": [
+        "Auckland",
+        "Christchurch",
+        "Dunedin"
+      ],
+      "explanation": "Exposée aux vents qui s'engouffrent dans le détroit de Cook, elle doit son nom au duc de Wellington, vainqueur de Napoléon à Waterloo.",
+      "wikipedia": "Wellington"
+    },
+    {
+      "id": "geographie-364",
+      "difficulty": 1,
+      "question": "Quelle ville de la côte atlantique, à l'embouchure du Bouregreg, est la capitale du Maroc ?",
+      "answer": "Rabat",
+      "accept": [],
+      "choices": [
+        "Casablanca",
+        "Fès",
+        "Tanger"
+      ],
+      "explanation": "Rabat fait face à la ville de Salé, sur l'autre rive du fleuve, d'où partaient jadis des corsaires redoutés dans toute l'Atlantique.",
+      "wikipedia": "Rabat"
+    },
+    {
+      "id": "geographie-365",
+      "difficulty": 2,
+      "question": "Quelle ville, construite au centre du pays, a remplacé Lagos comme capitale du Nigeria ?",
+      "answer": "Abuja",
+      "accept": [],
+      "choices": [
+        "Kano",
+        "Ibadan",
+        "Port Harcourt"
+      ],
+      "explanation": "Le transfert officiel eut lieu en 1991 : on avait choisi un site neutre, à l'écart des grandes régions ethniques du nord, de l'ouest et du sud-est.",
+      "wikipedia": "Abuja"
+    },
+    {
+      "id": "geographie-366",
+      "difficulty": 2,
+      "question": "La Paz abrite le gouvernement bolivien, mais quelle ville est la capitale constitutionnelle de la Bolivie ?",
+      "answer": "Sucre",
+      "accept": [],
+      "choices": [
+        "Cochabamba",
+        "Potosí",
+        "Santa Cruz"
+      ],
+      "explanation": "La ville porte le nom d'Antonio José de Sucre, lieutenant de Bolívar ; son centre colonial aux façades blanches est inscrit au patrimoine mondial.",
+      "wikipedia": "Sucre"
+    },
+    {
+      "id": "geographie-367",
+      "difficulty": 2,
+      "question": "Quelle ville natale de Félix Houphouët-Boigny est devenue la capitale officielle de la Côte d'Ivoire ?",
+      "answer": "Yamoussoukro",
+      "accept": [],
+      "choices": [
+        "Abidjan",
+        "Bouaké",
+        "Korhogo"
+      ],
+      "explanation": "Elle abrite la basilique Notre-Dame-de-la-Paix, inspirée de Saint-Pierre de Rome et comptée parmi les plus grandes églises du monde.",
+      "wikipedia": "Yamoussoukro"
+    },
+    {
+      "id": "geographie-368",
+      "difficulty": 2,
+      "question": "Quelle capitale d'Afrique de l'Est, perchée sur les hauts plateaux, accueille le siège de l'Union africaine ?",
+      "answer": "Addis-Abeba",
+      "accept": [
+        "Addis Abeba",
+        "Addis-Ababa"
+      ],
+      "choices": [
+        "Nairobi",
+        "Kampala",
+        "Dar es Salaam"
+      ],
+      "explanation": "Son nom signifie « nouvelle fleur » en amharique ; la ville fut fondée à la fin du XIXe siècle par l'empereur Ménélik II et son épouse Taytu.",
+      "wikipedia": "Addis-Abeba"
+    },
+    {
+      "id": "geographie-369",
+      "difficulty": 1,
+      "question": "Quelle capitale d'Amérique du Sud Francisco Pizarro fonda-t-il sous le nom de « Cité des Rois » ?",
+      "answer": "Lima",
+      "accept": [],
+      "choices": [
+        "Quito",
+        "Bogota",
+        "Santiago"
+      ],
+      "explanation": "Fondée en 1535 près de la côte pacifique, Lima devint la capitale de la vice-royauté du Pérou, cœur de l'empire espagnol en Amérique du Sud.",
+      "wikipedia": "Lima"
+    },
+    {
+      "id": "geographie-370",
+      "difficulty": 2,
+      "question": "Quelle capitale andine, dont le centre historique fut parmi les premiers inscrits à l'Unesco, se situe presque sur l'équateur ?",
+      "answer": "Quito",
+      "accept": [],
+      "choices": [
+        "Bogota",
+        "La Paz",
+        "Cuenca"
+      ],
+      "explanation": "Perchée vers 2 800 mètres d'altitude, Quito fut inscrite au patrimoine mondial dès 1978 ; le monument Mitad del Mundo marque la latitude zéro à proximité.",
+      "wikipedia": "Quito"
+    },
+    {
+      "id": "geographie-371",
+      "difficulty": 2,
+      "question": "Quelle capitale asiatique porte un très long nom officiel dont les habitants ne gardent que le début, Krung Thep ?",
+      "answer": "Bangkok",
+      "accept": [],
+      "choices": [
+        "Chiang Mai",
+        "Ayutthaya",
+        "Phnom Penh"
+      ],
+      "explanation": "Krung Thep signifie « la cité des anges » ; le nom cérémoniel complet de la ville est souvent cité comme l'un des plus longs noms de lieu du monde.",
+      "wikipedia": "Bangkok"
+    },
+    {
+      "id": "geographie-372",
+      "difficulty": 1,
+      "question": "Quelle capitale d'Afrique de l'Ouest abrite la pointe des Almadies, extrémité occidentale du continent ?",
+      "answer": "Dakar",
+      "accept": [],
+      "choices": [
+        "Abidjan",
+        "Bamako",
+        "Conakry"
+      ],
+      "explanation": "Bâtie sur la presqu'île du Cap-Vert, la ville fut longtemps le point d'arrivée du célèbre rallye automobile Paris-Dakar.",
+      "wikipedia": "Dakar"
+    },
+    {
+      "id": "geographie-373",
+      "difficulty": 2,
+      "question": "Quelle capitale du Maghreb est surnommée « la Blanche » pour ses maisons étagées face à la Méditerranée ?",
+      "answer": "Alger",
+      "accept": [],
+      "choices": [
+        "Tunis",
+        "Oran",
+        "Tripoli"
+      ],
+      "explanation": "Sa casbah, ancienne citadelle et vieille ville ottomane dominant la baie, est inscrite au patrimoine mondial de l'Unesco depuis 1992.",
+      "wikipedia": "Alger"
+    },
+    {
+      "id": "geographie-374",
+      "difficulty": 2,
+      "question": "Quelle capitale asiatique porte un nom chinois signifiant « capitale du Nord » ?",
+      "answer": "Pékin",
+      "accept": [
+        "Beijing"
+      ],
+      "choices": [
+        "Nankin",
+        "Shanghai",
+        "Séoul"
+      ],
+      "explanation": "Ce nom s'oppose à celui de Nankin, « capitale du Sud », qui fut à plusieurs reprises la capitale de la Chine, notamment au début de la dynastie Ming.",
+      "wikipedia": "Pékin"
+    },
+    {
+      "id": "geographie-375",
+      "difficulty": 2,
+      "question": "Quelle capitale du Proche-Orient, l'une des plus anciennes villes habitées, a donné son nom à une étoffe à motifs tissés ?",
+      "answer": "Damas",
+      "accept": [],
+      "choices": [
+        "Alep",
+        "Mossoul",
+        "Beyrouth"
+      ],
+      "explanation": "Le damas et l'acier damassé tiennent leur nom de la ville ; sa grande mosquée des Omeyyades date du début du VIIIe siècle.",
+      "wikipedia": "Damas"
+    },
+    {
+      "id": "geographie-376",
+      "difficulty": 1,
+      "question": "Quelle métropole américaine est surnommée « la Grosse Pomme » ?",
+      "answer": "New York",
+      "accept": [],
+      "choices": [
+        "Chicago",
+        "Boston",
+        "Philadelphie"
+      ],
+      "explanation": "Le surnom « Big Apple », d'abord employé par des journalistes hippiques et des musiciens de jazz, fut relancé dans les années 1970 par une campagne touristique.",
+      "wikipedia": "New York"
+    },
+    {
+      "id": "geographie-377",
+      "difficulty": 2,
+      "question": "Sous quel nom les colons hollandais fondèrent-ils au XVIIe siècle la ville devenue New York ?",
+      "answer": "La Nouvelle-Amsterdam",
+      "accept": [
+        "Nouvelle-Amsterdam",
+        "New Amsterdam"
+      ],
+      "choices": [
+        "Nouvelle-Rotterdam",
+        "Fort-Orange",
+        "Nouvelle-Haarlem"
+      ],
+      "explanation": "Les Anglais s'emparèrent de la ville en 1664 et la rebaptisèrent en l'honneur du duc d'York, frère du roi Charles II.",
+      "wikipedia": "La Nouvelle-Amsterdam"
+    },
+    {
+      "id": "geographie-378",
+      "difficulty": 1,
+      "question": "Quelle île de la baie de San Francisco abrita une prison fédérale réputée impossible à fuir ?",
+      "answer": "Alcatraz",
+      "accept": [],
+      "choices": [
+        "Angel Island",
+        "Rikers Island",
+        "Treasure Island"
+      ],
+      "explanation": "Le pénitencier, où fut détenu Al Capone, ferma en 1963 ; l'île doit son nom espagnol aux pélicans qui la peuplaient.",
+      "wikipedia": "Île d'Alcatraz"
+    },
+    {
+      "id": "geographie-379",
+      "difficulty": 1,
+      "question": "Quelle ville de Louisiane, souvent présentée comme le berceau du jazz, est surnommée « The Big Easy » ?",
+      "answer": "La Nouvelle-Orléans",
+      "accept": [
+        "Nouvelle-Orléans",
+        "New Orleans"
+      ],
+      "choices": [
+        "Memphis",
+        "Baton Rouge",
+        "Saint-Louis"
+      ],
+      "explanation": "Fondée par les Français en 1718 et baptisée en l'honneur du Régent Philippe d'Orléans, elle célèbre chaque année le carnaval de Mardi gras.",
+      "wikipedia": "La Nouvelle-Orléans"
+    },
+    {
+      "id": "geographie-380",
+      "difficulty": 1,
+      "question": "Quelle ville du Nevada, célèbre pour ses casinos, est surnommée « Sin City », la ville du péché ?",
+      "answer": "Las Vegas",
+      "accept": [],
+      "choices": [
+        "Reno",
+        "Atlantic City",
+        "Phoenix"
+      ],
+      "explanation": "Son nom espagnol signifie « les prairies » : la vallée possédait des sources qui en faisaient une halte appréciée sur la route de la Californie.",
+      "wikipedia": "Las Vegas"
+    },
+    {
+      "id": "geographie-381",
+      "difficulty": 2,
+      "question": "Quelle ville du Québec, réputée pour ses nombreuses églises, Mark Twain a-t-il surnommée « la ville aux cent clochers » ?",
+      "answer": "Montréal",
+      "accept": [],
+      "choices": [
+        "Québec",
+        "Trois-Rivières",
+        "Sherbrooke"
+      ],
+      "explanation": "La ville tire son nom du mont Royal, la colline qui domine son centre et que Jacques Cartier gravit en 1535.",
+      "wikipedia": "Montréal"
+    },
+    {
+      "id": "geographie-382",
+      "difficulty": 1,
+      "question": "Dans quelle ville indienne se trouve le cœur de l'industrie cinématographique surnommée Bollywood ?",
+      "answer": "Bombay",
+      "accept": [
+        "Mumbai"
+      ],
+      "choices": [
+        "New Delhi",
+        "Calcutta",
+        "Madras"
+      ],
+      "explanation": "Le mot Bollywood combine Bombay et Hollywood ; la ville a officiellement repris en 1995 le nom de Mumbai, en hommage à la déesse Mumbadevi.",
+      "wikipedia": "Bombay"
+    },
+    {
+      "id": "geographie-383",
+      "difficulty": 2,
+      "question": "Quelle ville du Rajasthan est surnommée « la ville rose » pour la couleur de ses façades ?",
+      "answer": "Jaipur",
+      "accept": [],
+      "choices": [
+        "Jodhpur",
+        "Udaipur",
+        "Agra"
+      ],
+      "explanation": "Les façades furent peintes en rose, couleur de l'hospitalité, pour accueillir le prince de Galles en 1876 ; le palais des Vents en est l'emblème.",
+      "wikipedia": "Jaipur"
+    },
+    {
+      "id": "geographie-384",
+      "difficulty": 2,
+      "question": "Quelle ville du nord du Maroc, nichée dans le Rif, est célèbre pour ses ruelles peintes en bleu ?",
+      "answer": "Chefchaouen",
+      "accept": [
+        "Chaouen"
+      ],
+      "choices": [
+        "Tétouan",
+        "Essaouira",
+        "Ouarzazate"
+      ],
+      "explanation": "Fondée au XVe siècle, elle accueillit de nombreux musulmans et juifs chassés d'Andalousie après la chute de Grenade.",
+      "wikipedia": "Chefchaouen"
+    },
+    {
+      "id": "geographie-385",
+      "difficulty": 2,
+      "question": "Quelle ville marocaine abrite l'université al-Quaraouiyine, souvent présentée comme la plus ancienne encore en activité ?",
+      "answer": "Fès",
+      "accept": [
+        "Fez"
+      ],
+      "choices": [
+        "Meknès",
+        "Marrakech",
+        "Kairouan"
+      ],
+      "explanation": "L'établissement fut fondé en 859 par Fatima al-Fihriya ; la médina de Fès el-Bali est l'une des plus vastes zones urbaines piétonnes du monde.",
+      "wikipedia": "Fès"
+    },
+    {
+      "id": "geographie-386",
+      "difficulty": 1,
+      "question": "Quelle grande ville marocaine porte un nom qui signifie « maison blanche » ?",
+      "answer": "Casablanca",
+      "accept": [],
+      "choices": [
+        "Tanger",
+        "Agadir",
+        "Oujda"
+      ],
+      "explanation": "Les Portugais la nommaient Casa Branca ; elle abrite la mosquée Hassan II, dont le minaret compte parmi les plus hauts du monde.",
+      "wikipedia": "Casablanca"
+    },
+    {
+      "id": "geographie-387",
+      "difficulty": 2,
+      "question": "Quelle cité-État d'Asie du Sud-Est doit son nom à un mot sanskrit signifiant « la ville du lion » ?",
+      "answer": "Singapour",
+      "accept": [
+        "Singapore"
+      ],
+      "choices": [
+        "Malacca",
+        "Brunei",
+        "Penang"
+      ],
+      "explanation": "Selon la légende, un prince venu de Sumatra y aurait aperçu un lion ; la ville a pour emblème le Merlion, mi-lion mi-poisson.",
+      "wikipedia": "Singapour"
+    },
+    {
+      "id": "geographie-388",
+      "difficulty": 1,
+      "question": "Dans quelle capitale asiatique se dressent les tours jumelles Petronas ?",
+      "answer": "Kuala Lumpur",
+      "accept": [],
+      "choices": [
+        "Singapour",
+        "Jakarta",
+        "Bangkok"
+      ],
+      "explanation": "Achevées en 1998, elles furent les plus hauts gratte-ciel du monde jusqu'en 2004 ; une passerelle relie les deux tours à mi-hauteur.",
+      "wikipedia": "Tours Petronas"
+    },
+    {
+      "id": "geographie-389",
+      "difficulty": 1,
+      "question": "Dans quelle ville des Émirats arabes unis se dresse la tour Burj Khalifa, inaugurée en 2010 ?",
+      "answer": "Dubaï",
+      "accept": [
+        "Dubai"
+      ],
+      "choices": [
+        "Abou Dhabi",
+        "Doha",
+        "Riyad"
+      ],
+      "explanation": "La tour porte le nom de Khalifa ben Zayed, président des Émirats, dont l'émirat d'Abou Dhabi avait soutenu Dubaï pendant la crise financière.",
+      "wikipedia": "Burj Khalifa"
+    },
+    {
+      "id": "geographie-390",
+      "difficulty": 1,
+      "question": "Quelle colonie britannique, dont le nom signifie « port parfumé », fut rétrocédée à la Chine en 1997 ?",
+      "answer": "Hong Kong",
+      "accept": [],
+      "choices": [
+        "Macao",
+        "Singapour",
+        "Canton"
+      ],
+      "explanation": "Selon le principe « un pays, deux systèmes », elle dispose d'un statut de région administrative spéciale, avec sa propre monnaie et ses propres lois.",
+      "wikipedia": "Hong Kong"
+    },
+    {
+      "id": "geographie-391",
+      "difficulty": 1,
+      "question": "Quelle ville fut la capitale impériale du Japon pendant plus de mille ans, jusqu'au transfert de la cour à Tokyo ?",
+      "answer": "Kyoto",
+      "accept": [],
+      "choices": [
+        "Nara",
+        "Osaka",
+        "Kamakura"
+      ],
+      "explanation": "Épargnée par les grands bombardements de 1945, elle conserve des centaines de temples et sanctuaires ; elle a donné son nom au protocole de 1997 sur le climat.",
+      "wikipedia": "Kyoto"
+    },
+    {
+      "id": "geographie-392",
+      "difficulty": 1,
+      "question": "Sous quel nom la ville de Tokyo était-elle connue avant que l'empereur Meiji ne s'y installe ?",
+      "answer": "Edo",
+      "accept": [
+        "Yedo"
+      ],
+      "choices": [
+        "Kyoto",
+        "Nara",
+        "Osaka"
+      ],
+      "explanation": "Siège du shogunat Tokugawa, Edo prit en 1868 le nom de Tokyo, qui signifie « capitale de l'Est ».",
+      "wikipedia": "Tokyo"
+    },
+    {
+      "id": "geographie-393",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'immense palais impérial de Pékin, résidence des empereurs Ming et Qing ?",
+      "answer": "Cité interdite",
+      "accept": [],
+      "choices": [
+        "Palais d'Été",
+        "Temple du Ciel",
+        "Place Tian'anmen"
+      ],
+      "explanation": "Ainsi nommée parce que nul ne pouvait y entrer sans la permission de l'empereur, elle abrite aujourd'hui le musée du Palais.",
+      "wikipedia": "Cité interdite"
+    },
+    {
+      "id": "geographie-394",
+      "difficulty": 2,
+      "question": "Près de quelle ville chinoise fut découverte en 1974 l'armée de terre cuite du premier empereur ?",
+      "answer": "Xi'an",
+      "accept": [
+        "Xian"
+      ],
+      "choices": [
+        "Pékin",
+        "Luoyang",
+        "Nankin"
+      ],
+      "explanation": "Ancienne Chang'an, point de départ de la route de la soie, la ville fut la capitale de nombreuses dynasties, dont les Han et les Tang.",
+      "wikipedia": "Xi'an"
+    },
+    {
+      "id": "geographie-395",
+      "difficulty": 2,
+      "question": "Quelle ville d'Ouzbékistan, étape majeure de la route de la soie, est célèbre pour sa place du Registan ?",
+      "answer": "Samarcande",
+      "accept": [],
+      "choices": [
+        "Boukhara",
+        "Khiva",
+        "Tachkent"
+      ],
+      "explanation": "Tamerlan en fit la capitale de son empire à la fin du XIVe siècle ; son mausolée, le Gour-Emir, coiffé d'une coupole bleue, s'y trouve toujours.",
+      "wikipedia": "Samarcande"
+    },
+    {
+      "id": "geographie-396",
+      "difficulty": 2,
+      "question": "Quelle ville iranienne, ancienne capitale des Séfévides, est surnommée « la moitié du monde » ?",
+      "answer": "Ispahan",
+      "accept": [],
+      "choices": [
+        "Chiraz",
+        "Tabriz",
+        "Téhéran"
+      ],
+      "explanation": "Le proverbe persan célèbre notamment sa place Naqsh-e Jahan, aménagée sous Chah Abbas Ier, l'une des plus vastes places urbaines du monde.",
+      "wikipedia": "Ispahan"
+    },
+    {
+      "id": "geographie-397",
+      "difficulty": 1,
+      "question": "Quelle ville égyptienne, fondée par Alexandre le Grand, possédait un phare compté parmi les Sept Merveilles du monde ?",
+      "answer": "Alexandrie",
+      "accept": [],
+      "choices": [
+        "Le Caire",
+        "Port-Saïd",
+        "Damiette"
+      ],
+      "explanation": "Sa célèbre bibliothèque antique a inspiré la Bibliotheca Alexandrina, inaugurée en 2002 non loin de l'emplacement supposé de l'ancienne.",
+      "wikipedia": "Alexandrie"
+    },
+    {
+      "id": "geographie-398",
+      "difficulty": 2,
+      "question": "Quelle ville de Haute-Égypte, l'antique Thèbes, abrite le temple de Karnak, près de la vallée des Rois ?",
+      "answer": "Louxor",
+      "accept": [
+        "Luxor"
+      ],
+      "choices": [
+        "Assouan",
+        "Memphis",
+        "Abydos"
+      ],
+      "explanation": "L'un des deux obélisques qui se dressaient devant le temple de Louxor orne depuis 1836 la place de la Concorde, à Paris.",
+      "wikipedia": "Louxor"
+    },
+    {
+      "id": "geographie-399",
+      "difficulty": 2,
+      "question": "Quelle ville indienne abrite le Temple d'or, principal sanctuaire des sikhs ?",
+      "answer": "Amritsar",
+      "accept": [],
+      "choices": [
+        "Lahore",
+        "Chandigarh",
+        "Jaipur"
+      ],
+      "explanation": "Son nom signifie « bassin de nectar », d'après le bassin sacré qui entoure le temple ; sa cuisine communautaire nourrit gratuitement des milliers de visiteurs.",
+      "wikipedia": "Amritsar"
+    },
+    {
+      "id": "geographie-400",
+      "difficulty": 1,
+      "question": "Dans quelle ville se trouvent à la fois le mur des Lamentations, le Saint-Sépulcre et le dôme du Rocher ?",
+      "answer": "Jérusalem",
+      "accept": [],
+      "choices": [
+        "Bethléem",
+        "Nazareth",
+        "Hébron"
+      ],
+      "explanation": "Sa vieille ville, entourée de remparts ottomans élevés sous Soliman le Magnifique, est traditionnellement divisée en quartiers juif, chrétien, musulman et arménien.",
+      "wikipedia": "Jérusalem"
+    },
+    {
+      "id": "geographie-401",
+      "difficulty": 1,
+      "question": "Dans quelle ville d'Arabie saoudite se trouve la Kaaba, vers laquelle se tournent les musulmans pour prier ?",
+      "answer": "La Mecque",
+      "accept": [
+        "Mecque"
+      ],
+      "choices": [
+        "Médine",
+        "Djeddah",
+        "Riyad"
+      ],
+      "explanation": "Ville natale du prophète Mahomet, elle est interdite aux non-musulmans ; la Grande Mosquée, al-Masjid al-Haram, entoure la Kaaba.",
+      "wikipedia": "La Mecque"
+    },
+    {
+      "id": "geographie-402",
+      "difficulty": 2,
+      "question": "Quelle ville sud-africaine, née d'une ruée vers l'or en 1886, est surnommée « Egoli », la cité de l'or ?",
+      "answer": "Johannesbourg",
+      "accept": [
+        "Johannesburg"
+      ],
+      "choices": [
+        "Pretoria",
+        "Durban",
+        "Kimberley"
+      ],
+      "explanation": "Elle s'est développée sur le Witwatersrand, une crête aurifère ; c'est la plus grande ville du pays sans en être la capitale.",
+      "wikipedia": "Johannesbourg"
+    },
+    {
+      "id": "geographie-403",
+      "difficulty": 1,
+      "question": "Quelle ville californienne est reliée au comté de Marin par le pont rouge du Golden Gate ?",
+      "answer": "San Francisco",
+      "accept": [],
+      "choices": [
+        "Los Angeles",
+        "San Diego",
+        "Oakland"
+      ],
+      "explanation": "Le pont, inauguré en 1937, doit sa couleur « orange international » à sa peinture, choisie notamment pour rester visible dans le brouillard.",
+      "wikipedia": "Pont du Golden Gate"
+    },
+    {
+      "id": "geographie-404",
+      "difficulty": 1,
+      "question": "Quelle ville californienne doit son nom espagnol aux anges et abrite le quartier d'Hollywood ?",
+      "answer": "Los Angeles",
+      "accept": [],
+      "choices": [
+        "San Diego",
+        "Sacramento",
+        "San José"
+      ],
+      "explanation": "Fondée en 1781 par des colons espagnols, elle portait à l'origine un très long nom en l'honneur de Notre-Dame la Reine des anges.",
+      "wikipedia": "Los Angeles"
+    },
+    {
+      "id": "geographie-405",
+      "difficulty": 3,
+      "question": "Quelle ville du Missouri est dominée par la Gateway Arch, arche d'acier symbolisant la conquête de l'Ouest ?",
+      "answer": "Saint-Louis",
+      "accept": [
+        "Saint Louis",
+        "St. Louis"
+      ],
+      "choices": [
+        "Kansas City",
+        "Memphis",
+        "Omaha"
+      ],
+      "explanation": "Fondée par des négociants français en 1764 et nommée en l'honneur de Louis IX, elle se trouve juste en aval de la confluence du Missouri et du Mississippi.",
+      "wikipedia": "Saint-Louis (Missouri)"
+    },
+    {
+      "id": "geographie-406",
+      "difficulty": 1,
+      "question": "Quelle ville canadienne, la plus grande du pays, est la capitale de la province de l'Ontario ?",
+      "answer": "Toronto",
+      "accept": [],
+      "choices": [
+        "Montréal",
+        "Vancouver",
+        "Ottawa"
+      ],
+      "explanation": "Elle borde le lac Ontario ; son nom viendrait d'un mot iroquoien désignant un lieu où des arbres se dressent dans l'eau.",
+      "wikipedia": "Toronto"
+    },
+    {
+      "id": "geographie-407",
+      "difficulty": 2,
+      "question": "Quelle ville andine, dont le nom signifierait « nombril » en quechua, fut la capitale de l'Empire inca ?",
+      "answer": "Cuzco",
+      "accept": [
+        "Cusco"
+      ],
+      "choices": [
+        "Quito",
+        "Arequipa",
+        "Cajamarca"
+      ],
+      "explanation": "Les Espagnols bâtirent leurs églises sur les fondations incas, comme le couvent de Santo Domingo élevé sur le Coricancha, temple du Soleil.",
+      "wikipedia": "Cuzco"
+    },
+    {
+      "id": "geographie-408",
+      "difficulty": 3,
+      "question": "Quelle ville bolivienne, au pied du Cerro Rico, fut grâce à ses mines d'argent l'une des plus riches du monde ?",
+      "answer": "Potosí",
+      "accept": [
+        "Potosi"
+      ],
+      "choices": [
+        "Oruro",
+        "Cochabamba",
+        "Zacatecas"
+      ],
+      "explanation": "En espagnol, « valoir un Potosí » signifie valoir une fortune ; la ville, perchée vers 4 000 mètres, est l'une des plus hautes du monde.",
+      "wikipedia": "Potosí"
+    },
+    {
+      "id": "geographie-409",
+      "difficulty": 3,
+      "question": "Quelle ville d'Amazonie brésilienne possède un opéra de la Belle Époque, construit grâce au boom du caoutchouc ?",
+      "answer": "Manaus",
+      "accept": [],
+      "choices": [
+        "Belém",
+        "Iquitos",
+        "Santarém"
+      ],
+      "explanation": "Le Teatro Amazonas fut inauguré en 1896 avec des matériaux importés d'Europe ; la ville se dresse près de la confluence du rio Negro et de l'Amazone.",
+      "wikipedia": "Manaus"
+    },
+    {
+      "id": "geographie-410",
+      "difficulty": 1,
+      "question": "Quelle ville argentine de la Terre de Feu se présente comme la ville la plus australe du monde ?",
+      "answer": "Ushuaïa",
+      "accept": [
+        "Ushuaia"
+      ],
+      "choices": [
+        "Punta Arenas",
+        "Río Gallegos",
+        "Puerto Williams"
+      ],
+      "explanation": "Elle borde le canal Beagle, du nom du navire de Darwin ; un ancien bagne y accueillait les détenus, qui construisirent le chemin de fer du bout du monde.",
+      "wikipedia": "Ushuaïa"
+    },
+    {
+      "id": "geographie-411",
+      "difficulty": 2,
+      "question": "Quel temple de Ramsès II fut découpé en blocs et déplacé pour échapper à la montée des eaux du lac Nasser ?",
+      "answer": "Abou Simbel",
+      "accept": [],
+      "choices": [
+        "Karnak",
+        "Médinet Habou",
+        "Deir el-Bahari"
+      ],
+      "explanation": "Deux fois par an, le soleil levant pénètre jusqu'au fond du sanctuaire et illumine les statues des dieux, comme l'avaient prévu ses bâtisseurs.",
+      "wikipedia": "Abou Simbel"
+    },
+    {
+      "id": "geographie-412",
+      "difficulty": 1,
+      "question": "Sur quel plateau, près du Caire, se dressent les trois grandes pyramides et le Sphinx ?",
+      "answer": "Gizeh",
+      "accept": [
+        "Giza",
+        "Guizeh"
+      ],
+      "choices": [
+        "Saqqarah",
+        "Dahchour",
+        "Abydos"
+      ],
+      "explanation": "Les trois pyramides sont celles de Khéops, Khéphren et Mykérinos ; la plus grande est la seule des Sept Merveilles du monde antique encore debout.",
+      "wikipedia": "Gizeh"
+    },
+    {
+      "id": "geographie-413",
+      "difficulty": 3,
+      "question": "Quelle ville éthiopienne est célèbre pour ses églises monolithes creusées dans la roche ?",
+      "answer": "Lalibela",
+      "accept": [],
+      "choices": [
+        "Aksoum",
+        "Gondar",
+        "Harar"
+      ],
+      "explanation": "Le roi Lalibela aurait voulu y bâtir une nouvelle Jérusalem vers le XIIIe siècle ; la ville porte encore son nom.",
+      "wikipedia": "Lalibela"
+    },
+    {
+      "id": "geographie-414",
+      "difficulty": 2,
+      "question": "Quel pays d'Afrique australe doit son nom à une cité médiévale de pierre dont les ruines se trouvent sur son territoire ?",
+      "answer": "Zimbabwe",
+      "accept": [],
+      "choices": [
+        "Zambie",
+        "Botswana",
+        "Mozambique"
+      ],
+      "explanation": "Ancienne Rhodésie du Sud, le pays a repris ce nom shona signifiant « maisons de pierre » ; l'oiseau sculpté trouvé dans les ruines orne son drapeau.",
+      "wikipedia": "Grand Zimbabwe"
+    },
+    {
+      "id": "geographie-415",
+      "difficulty": 2,
+      "question": "Dans quel pays se trouve la grande mosquée de Djenné, le plus grand édifice en terre crue du monde ?",
+      "answer": "Mali",
+      "accept": [],
+      "choices": [
+        "Niger",
+        "Burkina Faso",
+        "Mauritanie"
+      ],
+      "explanation": "Chaque année, les habitants recouvrent ses murs d'un nouvel enduit lors d'une grande fête collective ; les pieux qui hérissent la façade servent d'échafaudage.",
+      "wikipedia": "Grande mosquée de Djenné"
+    },
+    {
+      "id": "geographie-416",
+      "difficulty": 1,
+      "question": "Quel pays d'Afrique du Nord abrite les ruines de Carthage ?",
+      "answer": "Tunisie",
+      "accept": [],
+      "choices": [
+        "Libye",
+        "Algérie",
+        "Maroc"
+      ],
+      "explanation": "Fondée par des colons phéniciens venus de Tyr, Carthage fut rasée par les Romains en 146 av. J.-C. ; ses ruines bordent la banlieue de Tunis.",
+      "wikipedia": "Carthage"
+    },
+    {
+      "id": "geographie-417",
+      "difficulty": 1,
+      "question": "Dans quel pays se trouvent les ruines de Babylone, la cité de Nabuchodonosor ?",
+      "answer": "Irak",
+      "accept": [
+        "Iraq"
+      ],
+      "choices": [
+        "Syrie",
+        "Iran",
+        "Jordanie"
+      ],
+      "explanation": "Les ruines se situent au sud de Bagdad, au bord de l'Euphrate ; la porte d'Ishtar, aux briques bleues émaillées, a été reconstituée à Berlin.",
+      "wikipedia": "Babylone"
+    },
+    {
+      "id": "geographie-418",
+      "difficulty": 3,
+      "question": "Quel site libanais de la plaine de la Bekaa conserve d'immenses temples romains dédiés à Jupiter et à Bacchus ?",
+      "answer": "Baalbek",
+      "accept": [],
+      "choices": [
+        "Byblos",
+        "Tyr",
+        "Sidon"
+      ],
+      "explanation": "Les Grecs l'appelaient Héliopolis, la cité du Soleil ; une carrière voisine conserve la « pierre de la femme enceinte », un monolithe colossal.",
+      "wikipedia": "Baalbek"
+    },
+    {
+      "id": "geographie-419",
+      "difficulty": 2,
+      "question": "Quelle cité antique du désert syrien fut la capitale de la reine Zénobie ?",
+      "answer": "Palmyre",
+      "accept": [],
+      "choices": [
+        "Doura-Europos",
+        "Apamée",
+        "Bosra"
+      ],
+      "explanation": "Oasis caravanière entre la Méditerranée et l'Euphrate, elle a été gravement endommagée par l'État islamique en 2015, qui détruisit notamment le temple de Bêl.",
+      "wikipedia": "Palmyre"
+    },
+    {
+      "id": "geographie-420",
+      "difficulty": 2,
+      "question": "Quel palais de Lhassa, perché sur une colline, fut la résidence d'hiver des dalaï-lamas ?",
+      "answer": "Potala",
+      "accept": [
+        "palais du Potala"
+      ],
+      "choices": [
+        "Norbulingka",
+        "Jokhang",
+        "Drepung"
+      ],
+      "explanation": "Il doit son nom au mont Potalaka, demeure mythique du bodhisattva Avalokiteshvara, dont le dalaï-lama est considéré comme l'incarnation.",
+      "wikipedia": "Palais du Potala"
+    },
+    {
+      "id": "geographie-421",
+      "difficulty": 2,
+      "question": "Quel temple de Kyoto, aux étages recouverts de feuilles d'or, se reflète dans un étang ?",
+      "answer": "Kinkaku-ji",
+      "accept": [
+        "Kinkakuji",
+        "Pavillon d'or"
+      ],
+      "choices": [
+        "Ginkaku-ji",
+        "Kiyomizu-dera",
+        "Ryōan-ji"
+      ],
+      "explanation": "Incendié en 1950 par un jeune moine, il fut reconstruit à l'identique ; l'événement inspira à Yukio Mishima son roman Le Pavillon d'or.",
+      "wikipedia": "Kinkaku-ji"
+    },
+    {
+      "id": "geographie-422",
+      "difficulty": 2,
+      "question": "Quelle ancienne colonie portugaise du sud de la Chine fut rétrocédée à la Chine en 1999 ?",
+      "answer": "Macao",
+      "accept": [
+        "Macau"
+      ],
+      "choices": [
+        "Goa",
+        "Hong Kong",
+        "Malacca"
+      ],
+      "explanation": "Haut lieu mondial des jeux d'argent, Macao conserve un centre historique où se mêlent églises baroques portugaises et temples chinois.",
+      "wikipedia": "Macao"
+    },
+    {
+      "id": "geographie-423",
+      "difficulty": 3,
+      "question": "Quelle cité maya, au cœur de la jungle du Petén guatémaltèque, est célèbre pour ses pyramides dépassant la canopée ?",
+      "answer": "Tikal",
+      "accept": [],
+      "choices": [
+        "Copán",
+        "Palenque",
+        "Calakmul"
+      ],
+      "explanation": "Elle fut l'une des plus puissantes cités mayas de la période classique ; ses temples ont servi de décor à la base rebelle du premier film Star Wars.",
+      "wikipedia": "Tikal"
+    },
+    {
+      "id": "geographie-424",
+      "difficulty": 2,
+      "question": "Quelle cité précolombienne proche de Mexico abrite les pyramides du Soleil et de la Lune ?",
+      "answer": "Teotihuacan",
+      "accept": [
+        "Teotihuacán"
+      ],
+      "choices": [
+        "Tula",
+        "Monte Albán",
+        "Palenque"
+      ],
+      "explanation": "Les Aztèques découvrirent la ville déjà en ruines et lui donnèrent son nom, souvent traduit par « cité des dieux » ; son allée centrale est appelée chaussée des Morts.",
+      "wikipedia": "Teotihuacan"
+    },
+    {
+      "id": "geographie-425",
+      "difficulty": 2,
+      "question": "Quel site péruvien est célèbre pour ses géoglyphes géants, colibri ou singe, visibles surtout depuis le ciel ?",
+      "answer": "Nazca",
+      "accept": [
+        "Nasca",
+        "lignes de Nazca"
+      ],
+      "choices": [
+        "Paracas",
+        "Chan Chan",
+        "Chavín"
+      ],
+      "explanation": "Tracés il y a environ deux mille ans, ils ont été préservés par l'aridité du climat ; l'Allemande Maria Reiche consacra sa vie à leur étude.",
+      "wikipedia": "Géoglyphes de Nazca"
+    },
+    {
+      "id": "geographie-426",
+      "difficulty": 1,
+      "question": "Sur quelle montagne du Dakota du Sud sont sculptés les visages de quatre présidents américains ?",
+      "answer": "Rushmore",
+      "accept": [
+        "mont Rushmore"
+      ],
+      "choices": [
+        "Stone Mountain",
+        "Pikes Peak",
+        "mont Whitney"
+      ],
+      "explanation": "Washington, Jefferson, Theodore Roosevelt et Lincoln y furent sculptés de 1927 à 1941, dans les Black Hills, terre sacrée des Lakotas.",
+      "wikipedia": "Mont Rushmore"
+    },
+    {
+      "id": "geographie-427",
+      "difficulty": 1,
+      "question": "Dans quelle ville australienne se trouve l'opéra aux voiles blanches dessiné par Jørn Utzon ?",
+      "answer": "Sydney",
+      "accept": [],
+      "choices": [
+        "Melbourne",
+        "Brisbane",
+        "Perth"
+      ],
+      "explanation": "Inauguré en 1973, l'Opéra de Sydney est inscrit au patrimoine mondial ; il fait face au Harbour Bridge, surnommé « le cintre » par les habitants.",
+      "wikipedia": "Opéra de Sydney"
+    },
+    {
+      "id": "geographie-428",
+      "difficulty": 2,
+      "question": "Quel pays d'Afrique de l'Est doit son nom à la deuxième plus haute montagne du continent ?",
+      "answer": "Kenya",
+      "accept": [],
+      "choices": [
+        "Ouganda",
+        "Tanzanie",
+        "Rwanda"
+      ],
+      "explanation": "Le mont Kenya, volcan éteint situé presque sur l'équateur, porte encore de petits glaciers ; le Kilimandjaro, plus haut, se trouve en Tanzanie voisine.",
+      "wikipedia": "Mont Kenya"
+    },
+    {
+      "id": "geographie-429",
+      "difficulty": 1,
+      "question": "Quel parc national de Tanzanie est célèbre pour la grande migration annuelle des gnous et des zèbres ?",
+      "answer": "Serengeti",
+      "accept": [],
+      "choices": [
+        "Masai Mara",
+        "Kruger",
+        "Etosha"
+      ],
+      "explanation": "Son nom vient du masaï et signifie « plaine sans fin » ; il se prolonge au nord par la réserve du Masai Mara, au Kenya.",
+      "wikipedia": "Parc national du Serengeti"
+    },
+    {
+      "id": "geographie-430",
+      "difficulty": 2,
+      "question": "Quel fleuve d'Afrique australe forme un vaste delta intérieur au Botswana sans jamais atteindre la mer ?",
+      "answer": "Okavango",
+      "accept": [],
+      "choices": [
+        "Zambèze",
+        "Limpopo",
+        "Orange"
+      ],
+      "explanation": "Ses eaux s'évaporent ou s'infiltrent dans les sables du Kalahari ; le delta, refuge d'une faune exceptionnelle, est inscrit au patrimoine mondial.",
+      "wikipedia": "Delta de l'Okavango"
+    },
+    {
+      "id": "geographie-431",
+      "difficulty": 1,
+      "question": "Quelle vaste étendue d'eau d'Afrique de l'Est, la plus grande du continent, est considérée comme la source du Nil Blanc ?",
+      "answer": "lac Victoria",
+      "accept": [
+        "Victoria"
+      ],
+      "choices": [
+        "lac Tanganyika",
+        "lac Malawi",
+        "lac Turkana"
+      ],
+      "explanation": "L'explorateur britannique John Speke l'atteignit en 1858 et le baptisa en l'honneur de sa reine ; il est partagé entre l'Ouganda, le Kenya et la Tanzanie.",
+      "wikipedia": "Lac Victoria"
+    },
+    {
+      "id": "geographie-432",
+      "difficulty": 3,
+      "question": "Quelle étendue d'eau très allongée de la vallée du Rift est la deuxième plus profonde du monde après le Baïkal ?",
+      "answer": "Tanganyika",
+      "accept": [
+        "lac Tanganyika"
+      ],
+      "choices": [
+        "lac Malawi",
+        "lac Turkana",
+        "lac Kivu"
+      ],
+      "explanation": "Elle est partagée entre la Tanzanie, la république démocratique du Congo, le Burundi et la Zambie ; Stanley y retrouva Livingstone à Ujiji.",
+      "wikipedia": "Lac Tanganyika"
+    },
+    {
+      "id": "geographie-433",
+      "difficulty": 2,
+      "question": "Quelle étendue d'eau du Sahel, partagée entre quatre pays, a perdu l'essentiel de sa surface depuis les années 1960 ?",
+      "answer": "lac Tchad",
+      "accept": [],
+      "choices": [
+        "lac Volta",
+        "lac Kainji",
+        "lac Nasser"
+      ],
+      "explanation": "Très peu profond, il voit sa superficie varier fortement selon les pluies ; il a donné son nom au Tchad, riverain avec le Niger, le Nigeria et le Cameroun.",
+      "wikipedia": "Lac Tchad"
+    },
+    {
+      "id": "geographie-434",
+      "difficulty": 3,
+      "question": "Quelle étendue d'eau des hauts plateaux éthiopiens donne naissance au Nil Bleu ?",
+      "answer": "lac Tana",
+      "accept": [
+        "Tana"
+      ],
+      "choices": [
+        "lac Turkana",
+        "lac Abaya",
+        "lac Ziway"
+      ],
+      "explanation": "Ses îles abritent d'anciens monastères orthodoxes ; peu après sa sortie, le Nil Bleu forme les chutes de Tis Issat.",
+      "wikipedia": "Lac Tana"
+    },
+    {
+      "id": "geographie-435",
+      "difficulty": 2,
+      "question": "Dans quelle ville le Nil Blanc et le Nil Bleu se rejoignent-ils pour former le Nil ?",
+      "answer": "Khartoum",
+      "accept": [],
+      "choices": [
+        "Assouan",
+        "Juba",
+        "Kampala"
+      ],
+      "explanation": "Capitale du Soudan, la ville s'étend au confluent des deux Nils, face à Omdourman, sa voisine bâtie sur la rive gauche du fleuve.",
+      "wikipedia": "Khartoum"
+    },
+    {
+      "id": "geographie-436",
+      "difficulty": 3,
+      "question": "Quelle étendue d'eau très salée de Djibouti constitue le point le plus bas d'Afrique ?",
+      "answer": "lac Assal",
+      "accept": [
+        "Assal"
+      ],
+      "choices": [
+        "lac Abbé",
+        "lac Natron",
+        "lac Turkana"
+      ],
+      "explanation": "Situé à plus de 150 mètres sous le niveau de la mer, il est plus salé que la mer Morte ; son sel est exploité depuis des siècles par les caravanes.",
+      "wikipedia": "Lac Assal"
+    },
+    {
+      "id": "geographie-437",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la bande semi-aride qui borde le sud du Sahara, de l'Atlantique à la mer Rouge ?",
+      "answer": "Sahel",
+      "accept": [],
+      "choices": [
+        "Maghreb",
+        "Machrek",
+        "Fezzan"
+      ],
+      "explanation": "Son nom vient de l'arabe sahil, « côte » ou « rivage » : pour les caravaniers, c'était la rive méridionale de l'immense océan de sable saharien.",
+      "wikipedia": "Sahel"
+    },
+    {
+      "id": "geographie-438",
+      "difficulty": 2,
+      "question": "Quel sommet de l'Atlas marocain est le point culminant de l'Afrique du Nord ?",
+      "answer": "Toubkal",
+      "accept": [
+        "djebel Toubkal",
+        "jbel Toubkal"
+      ],
+      "choices": [
+        "Ayachi",
+        "M'Goun",
+        "Tahat"
+      ],
+      "explanation": "Il se gravit le plus souvent en deux jours depuis le village d'Imlil, au sud de Marrakech, et reste enneigé une bonne partie de l'hiver.",
+      "wikipedia": "Djebel Toubkal"
+    },
+    {
+      "id": "geographie-439",
+      "difficulty": 3,
+      "question": "Quel volcan tanzanien, sacré pour les Massaïs, émet une lave noire très froide qui blanchit en refroidissant ?",
+      "answer": "Ol Doinyo Lengaï",
+      "accept": [
+        "Ol Doinyo Lengai",
+        "Lengaï"
+      ],
+      "choices": [
+        "Kilimandjaro",
+        "Meru",
+        "Nyiragongo"
+      ],
+      "explanation": "Son nom signifie « montagne de Dieu » en maa ; c'est le seul volcan actif connu à émettre de la natrocarbonatite, une lave très fluide.",
+      "wikipedia": "Ol Doinyo Lengaï"
+    },
+    {
+      "id": "geographie-440",
+      "difficulty": 3,
+      "question": "Quel fleuve africain franchit deux fois l'équateur au cours de sa grande boucle ?",
+      "answer": "Congo",
+      "accept": [
+        "fleuve Congo",
+        "Zaïre"
+      ],
+      "choices": [
+        "Niger",
+        "Zambèze",
+        "Oubangui"
+      ],
+      "explanation": "C'est le deuxième fleuve du monde par le débit après l'Amazone ; il sépare Kinshasa de Brazzaville, deux capitales qui se font face.",
+      "wikipedia": "Congo (fleuve)"
+    },
+    {
+      "id": "geographie-441",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on la grande fracture tectonique qui traverse l'Afrique de l'Est, de l'Éthiopie au Mozambique ?",
+      "answer": "rift est-africain",
+      "accept": [
+        "Grand Rift",
+        "Rift Valley"
+      ],
+      "choices": [
+        "faille de San Andreas",
+        "dorsale médio-atlantique",
+        "fosse de Nubie"
+      ],
+      "explanation": "En s'écartant, les plaques pourraient un jour isoler l'est du continent ; la région a livré de nombreux fossiles d'hominidés.",
+      "wikipedia": "Rift est-africain"
+    },
+    {
+      "id": "geographie-442",
+      "difficulty": 2,
+      "question": "Quel promontoire d'Afrique du Sud est le véritable point le plus méridional du continent africain ?",
+      "answer": "cap des Aiguilles",
+      "accept": [
+        "Agulhas",
+        "cap Agulhas"
+      ],
+      "choices": [
+        "cap de Bonne-Espérance",
+        "cap Vert",
+        "cap Gardafui"
+      ],
+      "explanation": "Les navigateurs portugais lui donnèrent ce nom à cause de ses récifs ou de leur boussole ; il marque la limite conventionnelle entre océans Atlantique et Indien.",
+      "wikipedia": "Cap des Aiguilles"
+    },
+    {
+      "id": "geographie-443",
+      "difficulty": 1,
+      "question": "Quelle péninsule triangulaire, entre l'Afrique et l'Asie, sépare le golfe de Suez du golfe d'Aqaba ?",
+      "answer": "Sinaï",
+      "accept": [],
+      "choices": [
+        "Néguev",
+        "Gaza",
+        "Hedjaz"
+      ],
+      "explanation": "Occupée par Israël après la guerre des Six Jours, elle fut rendue à l'Égypte après les accords de Camp David ; Moïse y aurait reçu les Tables de la Loi.",
+      "wikipedia": "Sinaï"
+    },
+    {
+      "id": "geographie-444",
+      "difficulty": 1,
+      "question": "Quel pays d'Afrique est surnommé « le pays des mille collines » ?",
+      "answer": "Rwanda",
+      "accept": [],
+      "choices": [
+        "Burundi",
+        "Ouganda",
+        "Malawi"
+      ],
+      "explanation": "Ce petit pays enclavé de la région des Grands Lacs abrite, dans le massif des Virunga, une partie des derniers gorilles des montagnes.",
+      "wikipedia": "Rwanda"
+    },
+    {
+      "id": "geographie-445",
+      "difficulty": 2,
+      "question": "Quel pays d'Afrique de l'Ouest s'appelait le Dahomey jusqu'en 1975 ?",
+      "answer": "Bénin",
+      "accept": [
+        "Benin"
+      ],
+      "choices": [
+        "Togo",
+        "Ghana",
+        "Niger"
+      ],
+      "explanation": "Le royaume du Dahomey était célèbre pour ses guerrières, que les Européens surnommèrent les Amazones ; le nom Bénin vient du golfe voisin.",
+      "wikipedia": "Bénin"
+    },
+    {
+      "id": "geographie-446",
+      "difficulty": 2,
+      "question": "Quel pays d'Afrique fut fondé au XIXe siècle pour accueillir d'anciens esclaves affranchis venus des États-Unis ?",
+      "answer": "Liberia",
+      "accept": [],
+      "choices": [
+        "Ghana",
+        "Togo",
+        "Gabon"
+      ],
+      "explanation": "Sa capitale, Monrovia, porte le nom du président américain James Monroe ; son drapeau rayé à étoile unique s'inspire de celui des États-Unis.",
+      "wikipedia": "Liberia"
+    },
+    {
+      "id": "geographie-447",
+      "difficulty": 2,
+      "question": "Quelle petite île au large de Dakar est devenue un lieu de mémoire de la traite négrière, avec sa Maison des esclaves ?",
+      "answer": "Gorée",
+      "accept": [
+        "île de Gorée"
+      ],
+      "choices": [
+        "Robben Island",
+        "Zanzibar",
+        "Bioko"
+      ],
+      "explanation": "Inscrite au patrimoine mondial dès 1978, l'île est fermée à la circulation automobile ; la Maison des esclaves y possède une « porte du voyage sans retour ».",
+      "wikipedia": "Île de Gorée"
+    },
+    {
+      "id": "geographie-448",
+      "difficulty": 2,
+      "question": "Quel État insulaire de l'océan Indien, formé d'atolls coralliens, est le pays le plus bas du monde ?",
+      "answer": "Maldives",
+      "accept": [],
+      "choices": [
+        "Seychelles",
+        "Comores",
+        "Maurice"
+      ],
+      "explanation": "Son point culminant ne dépasse guère deux mètres et demi, ce qui en fait l'un des pays les plus menacés par la montée du niveau des mers.",
+      "wikipedia": "Maldives"
+    },
+    {
+      "id": "geographie-449",
+      "difficulty": 3,
+      "question": "Quelle île yéménite de l'océan Indien est célèbre pour ses dragonniers à la sève rouge, dite « sang-dragon » ?",
+      "answer": "Socotra",
+      "accept": [
+        "Socotora"
+      ],
+      "choices": [
+        "Zanzibar",
+        "Masirah",
+        "Pemba"
+      ],
+      "explanation": "Isolée depuis des millions d'années, l'île abrite de nombreuses espèces endémiques, au point d'être surnommée « les Galápagos de l'océan Indien ».",
+      "wikipedia": "Socotra"
+    },
+    {
+      "id": "geographie-450",
+      "difficulty": 1,
+      "question": "Sur quelle île de l'Atlantique Sud Napoléon Ier mourut-il en exil ?",
+      "answer": "Sainte-Hélène",
+      "accept": [],
+      "choices": [
+        "Elbe",
+        "Ascension",
+        "Tristan da Cunha"
+      ],
+      "explanation": "Ce territoire britannique perdu au milieu de l'océan n'a reçu un aéroport qu'en 2016 ; la France y possède les domaines de Longwood.",
+      "wikipedia": "Sainte-Hélène (île)"
+    },
+    {
+      "id": "geographie-451",
+      "difficulty": 3,
+      "question": "Quel archipel britannique de l'Atlantique Sud est souvent présenté comme le lieu habité le plus isolé du monde ?",
+      "answer": "Tristan da Cunha",
+      "accept": [],
+      "choices": [
+        "Pitcairn",
+        "Sainte-Hélène",
+        "Ascension"
+      ],
+      "explanation": "L'île principale ne compte qu'un village, Edinburgh of the Seven Seas ; en 1961, une éruption força tous ses habitants à évacuer vers l'Angleterre.",
+      "wikipedia": "Tristan da Cunha"
+    },
+    {
+      "id": "geographie-452",
+      "difficulty": 1,
+      "question": "Quel peuple nomade du Sahara est surnommé « les hommes bleus » à cause de la teinture de leur chèche ?",
+      "answer": "Touaregs",
+      "accept": [
+        "Touareg"
+      ],
+      "choices": [
+        "Peuls",
+        "Bédouins",
+        "Toubous"
+      ],
+      "explanation": "Chez les Touaregs, ce sont les hommes, et non les femmes, qui se voilent le visage ; l'indigo du voile déteint parfois sur la peau.",
+      "wikipedia": "Touaregs"
+    },
+    {
+      "id": "geographie-453",
+      "difficulty": 1,
+      "question": "Quel peuple d'éleveurs du Kenya et de la Tanzanie est reconnaissable à ses étoffes rouges et à ses sauts de guerriers ?",
+      "answer": "Massaïs",
+      "accept": [
+        "Masaï",
+        "Maasaï",
+        "Massaï"
+      ],
+      "choices": [
+        "Zoulous",
+        "Touaregs",
+        "Peuls"
+      ],
+      "explanation": "Semi-nomades, ils vivent de l'élevage du bétail, qui mesure la richesse d'une famille ; leur langue est le maa.",
+      "wikipedia": "Maasaï"
+    },
+    {
+      "id": "geographie-454",
+      "difficulty": 2,
+      "question": "Quel immense désert de sable du sud de la péninsule Arabique est surnommé « le quart vide » ?",
+      "answer": "Rub al-Khali",
+      "accept": [
+        "Rub al Khali",
+        "Rub' al-Khali"
+      ],
+      "choices": [
+        "Néfoud",
+        "Dahna",
+        "Néguev"
+      ],
+      "explanation": "C'est l'un des plus grands déserts de sable continu du monde ; l'explorateur Wilfred Thesiger le traversa à dos de chameau dans les années 1940.",
+      "wikipedia": "Rub al-Khali"
+    },
+    {
+      "id": "geographie-455",
+      "difficulty": 3,
+      "question": "Comment s'appelle le fleuve formé par la réunion du Tigre et de l'Euphrate avant le golfe Persique ?",
+      "answer": "Chatt-el-Arab",
+      "accept": [
+        "Chatt al-Arab",
+        "Shatt al-Arab"
+      ],
+      "choices": [
+        "Karoun",
+        "Diyala",
+        "Khabour"
+      ],
+      "explanation": "Il marque une partie de la frontière entre l'Irak et l'Iran ; son contrôle fut l'un des enjeux de la guerre Iran-Irak, de 1980 à 1988.",
+      "wikipedia": "Chatt-el-Arab"
+    },
+    {
+      "id": "geographie-456",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la région historique comprise entre le Tigre et l'Euphrate, dont le nom grec signifie « entre les fleuves » ?",
+      "answer": "Mésopotamie",
+      "accept": [],
+      "choices": [
+        "Anatolie",
+        "Levant",
+        "Perse"
+      ],
+      "explanation": "Berceau de Sumer, de Babylone et de l'Assyrie, elle a vu naître l'écriture cunéiforme vers 3300 avant notre ère.",
+      "wikipedia": "Mésopotamie"
+    },
+    {
+      "id": "geographie-457",
+      "difficulty": 2,
+      "question": "Quel fleuve, où Jean-Baptiste aurait baptisé Jésus, se jette dans la mer Morte ?",
+      "answer": "Jourdain",
+      "accept": [],
+      "choices": [
+        "Litani",
+        "Oronte",
+        "Yarmouk"
+      ],
+      "explanation": "Il traverse le lac de Tibériade avant de descendre vers la mer Morte, bien en dessous du niveau de la mer ; il a donné son nom à la Jordanie.",
+      "wikipedia": "Jourdain"
+    },
+    {
+      "id": "geographie-458",
+      "difficulty": 2,
+      "question": "Sur quel mont de l'est de la Turquie la Bible fait-elle échouer l'arche de Noé ?",
+      "answer": "Ararat",
+      "accept": [
+        "mont Ararat"
+      ],
+      "choices": [
+        "Nemrut",
+        "Erciyes",
+        "Sinaï"
+      ],
+      "explanation": "Point culminant de la Turquie, ce volcan enneigé est un symbole national pour les Arméniens, qui le voient depuis Erevan, de l'autre côté de la frontière.",
+      "wikipedia": "Mont Ararat"
+    },
+    {
+      "id": "geographie-459",
+      "difficulty": 2,
+      "question": "Quelle région d'Anatolie est célèbre pour ses cheminées de fée et ses survols en montgolfière ?",
+      "answer": "Cappadoce",
+      "accept": [],
+      "choices": [
+        "Lycie",
+        "Pamphylie",
+        "Galatie"
+      ],
+      "explanation": "Ces pitons sont sculptés par l'érosion dans le tuf volcanique ; les habitants y ont aussi creusé des églises rupestres et des villes souterraines.",
+      "wikipedia": "Cappadoce"
+    },
+    {
+      "id": "geographie-460",
+      "difficulty": 1,
+      "question": "Quel arbre figure au centre du drapeau du Liban ?",
+      "answer": "cèdre",
+      "accept": [
+        "cèdre du Liban"
+      ],
+      "choices": [
+        "olivier",
+        "palmier",
+        "chêne"
+      ],
+      "explanation": "Le cèdre du Liban, cité dans la Bible, fournissait le bois des navires phéniciens et celui du temple de Salomon à Jérusalem.",
+      "wikipedia": "Drapeau du Liban"
+    },
+    {
+      "id": "geographie-461",
+      "difficulty": 3,
+      "question": "Quel désert jordanien aux falaises rouges servit de décor au film Lawrence d'Arabie ?",
+      "answer": "Wadi Rum",
+      "accept": [],
+      "choices": [
+        "Wadi Araba",
+        "Néfoud",
+        "Hadramaout"
+      ],
+      "explanation": "Thomas Edward Lawrence y séjourna pendant la révolte arabe ; ses paysages martiens ont servi au tournage de nombreux films de science-fiction.",
+      "wikipedia": "Wadi Rum"
+    },
+    {
+      "id": "geographie-462",
+      "difficulty": 1,
+      "question": "Quel était l'ancien nom de l'Iran, en usage en Occident jusqu'en 1935 ?",
+      "answer": "Perse",
+      "accept": [],
+      "choices": [
+        "Médie",
+        "Parthie",
+        "Babylonie"
+      ],
+      "explanation": "Le nom Iran, « pays des Aryens », était déjà utilisé par les habitants ; Reza Shah demanda aux pays étrangers de l'employer officiellement.",
+      "wikipedia": "Iran"
+    },
+    {
+      "id": "geographie-463",
+      "difficulty": 1,
+      "question": "Quelle ville de l'Utah, fondée par les mormons, borde un immense lac salé ?",
+      "answer": "Salt Lake City",
+      "accept": [],
+      "choices": [
+        "Provo",
+        "Ogden",
+        "Boise"
+      ],
+      "explanation": "Brigham Young y conduisit les pionniers mormons en 1847 ; la ville accueillit les Jeux olympiques d'hiver de 2002.",
+      "wikipedia": "Salt Lake City"
+    },
+    {
+      "id": "geographie-464",
+      "difficulty": 1,
+      "question": "Sous quel nom la Thaïlande était-elle connue jusqu'en 1939 ?",
+      "answer": "Siam",
+      "accept": [],
+      "choices": [
+        "Annam",
+        "Tonkin",
+        "Champa"
+      ],
+      "explanation": "Le nouveau nom signifie « pays des hommes libres » ; on parle encore de chats siamois et de frères siamois, d'après les jumeaux Chang et Eng Bunker.",
+      "wikipedia": "Thaïlande"
+    },
+    {
+      "id": "geographie-465",
+      "difficulty": 1,
+      "question": "Sous quel nom l'île de Sri Lanka était-elle connue jusqu'en 1972 ?",
+      "answer": "Ceylan",
+      "accept": [],
+      "choices": [
+        "Formose",
+        "Malabar",
+        "Coromandel"
+      ],
+      "explanation": "Le nom Ceylan reste attaché au thé produit sur les hauts plateaux de l'île ; Sri Lanka signifie « île resplendissante » en cinghalais.",
+      "wikipedia": "Sri Lanka"
+    },
+    {
+      "id": "geographie-466",
+      "difficulty": 1,
+      "question": "Quel était le nom de la ville de Hô Chi Minh-Ville avant 1976 ?",
+      "answer": "Saïgon",
+      "accept": [
+        "Saigon"
+      ],
+      "choices": [
+        "Hué",
+        "Tourane",
+        "Haïphong"
+      ],
+      "explanation": "Ancienne capitale du Sud-Viêt Nam, elle fut rebaptisée en l'honneur du dirigeant communiste après la réunification ; le nom Saïgon reste couramment employé.",
+      "wikipedia": "Hô Chi Minh-Ville"
+    },
+    {
+      "id": "geographie-467",
+      "difficulty": 1,
+      "question": "Quel pays d'Asie est traditionnellement surnommé « l'Empire du Milieu » ?",
+      "answer": "Chine",
+      "accept": [],
+      "choices": [
+        "Japon",
+        "Corée",
+        "Mongolie"
+      ],
+      "explanation": "Le nom chinois du pays, Zhongguo, signifie littéralement « pays du milieu » : les Chinois se voyaient au centre du monde civilisé.",
+      "wikipedia": "Chine"
+    },
+    {
+      "id": "geographie-468",
+      "difficulty": 1,
+      "question": "Quel pays est surnommé « le pays du Matin calme » ?",
+      "answer": "Corée",
+      "accept": [
+        "Corée du Sud"
+      ],
+      "choices": [
+        "Japon",
+        "Viêt Nam",
+        "Mongolie"
+      ],
+      "explanation": "Le surnom traduit l'ancien nom de Joseon ; le pays, divisé en deux États depuis 1948, utilise l'alphabet hangeul, créé au XVe siècle.",
+      "wikipedia": "Corée"
+    },
+    {
+      "id": "geographie-469",
+      "difficulty": 2,
+      "question": "Quel royaume himalayen est surnommé « le pays du Dragon tonnerre » ?",
+      "answer": "Bhoutan",
+      "accept": [],
+      "choices": [
+        "Népal",
+        "Sikkim",
+        "Ladakh"
+      ],
+      "explanation": "Le nom local, Druk Yul, renvoie au dragon blanc de son drapeau ; le pays mesure son développement par le « bonheur national brut ».",
+      "wikipedia": "Bhoutan"
+    },
+    {
+      "id": "geographie-470",
+      "difficulty": 1,
+      "question": "Quel pays possède le seul drapeau national qui ne soit ni carré ni rectangulaire, formé de deux triangles ?",
+      "answer": "Népal",
+      "accept": [],
+      "choices": [
+        "Bhoutan",
+        "Sri Lanka",
+        "Bangladesh"
+      ],
+      "explanation": "Les deux pointes évoqueraient l'Himalaya ; la Lune et le Soleil qu'elles portent expriment l'espoir que la nation dure aussi longtemps que ces astres.",
+      "wikipedia": "Drapeau du Népal"
+    },
+    {
+      "id": "geographie-471",
+      "difficulty": 2,
+      "question": "Quel pays porte sur son drapeau la roue bleue de l'Ashoka Chakra ?",
+      "answer": "Inde",
+      "accept": [],
+      "choices": [
+        "Sri Lanka",
+        "Népal",
+        "Bangladesh"
+      ],
+      "explanation": "Cette roue à vingt-quatre rayons provient du chapiteau aux lions érigé à Sarnath par l'empereur Ashoka ; le safran, le blanc et le vert l'entourent.",
+      "wikipedia": "Drapeau de l'Inde"
+    },
+    {
+      "id": "geographie-472",
+      "difficulty": 3,
+      "question": "Comment les Japonais surnomment-ils leur drapeau national, un disque rouge sur fond blanc ?",
+      "answer": "Hinomaru",
+      "accept": [],
+      "choices": [
+        "Nisshōki",
+        "Kyokujitsu-ki",
+        "Sakura"
+      ],
+      "explanation": "Hinomaru signifie « cercle du soleil » ; le drapeau n'a été officiellement reconnu par la loi qu'en 1999, sous le nom de Nisshōki.",
+      "wikipedia": "Drapeau du Japon"
+    },
+    {
+      "id": "geographie-473",
+      "difficulty": 2,
+      "question": "Dans quel pays se trouve le cosmodrome de Baïkonour, d'où décolla Youri Gagarine ?",
+      "answer": "Kazakhstan",
+      "accept": [],
+      "choices": [
+        "Russie",
+        "Ouzbékistan",
+        "Turkménistan"
+      ],
+      "explanation": "La Russie loue le site au Kazakhstan depuis la fin de l'URSS ; c'est encore le point de départ des vaisseaux Soyouz.",
+      "wikipedia": "Cosmodrome de Baïkonour"
+    },
+    {
+      "id": "geographie-474",
+      "difficulty": 3,
+      "question": "Quel vaste plateau triangulaire occupe l'essentiel de la péninsule indienne, entre les Ghâts occidentaux et orientaux ?",
+      "answer": "Deccan",
+      "accept": [
+        "Dekkan"
+      ],
+      "choices": [
+        "Malwa",
+        "Chota Nagpur",
+        "Mysore"
+      ],
+      "explanation": "Son nom vient du sanskrit et signifie « le Sud » ; il est formé en grande partie d'épaisses coulées de basalte, les trapps du Deccan.",
+      "wikipedia": "Deccan"
+    },
+    {
+      "id": "geographie-475",
+      "difficulty": 2,
+      "question": "Quelle ligne de latitude sert approximativement de frontière entre la Corée du Nord et la Corée du Sud ?",
+      "answer": "38e parallèle",
+      "accept": [
+        "38e parallèle nord"
+      ],
+      "choices": [
+        "17e parallèle",
+        "40e parallèle",
+        "35e parallèle"
+      ],
+      "explanation": "Fixée en 1945 pour séparer les zones soviétique et américaine, elle fut remplacée après la guerre de Corée par une ligne de démarcation qui la recoupe.",
+      "wikipedia": "38e parallèle nord"
+    },
+    {
+      "id": "geographie-476",
+      "difficulty": 1,
+      "question": "Quel site du nord du Viêt Nam est célèbre pour ses milliers de pitons calcaires surgissant de la mer ?",
+      "answer": "baie d'Along",
+      "accept": [
+        "baie d'Ha Long",
+        "Ha Long",
+        "Hạ Long"
+      ],
+      "choices": [
+        "baie de Phang Nga",
+        "baie de Cam Ranh",
+        "golfe du Tonkin"
+      ],
+      "explanation": "Selon la légende, un dragon descendu des montagnes aurait façonné ces îlots ; Ha Long signifie « là où le dragon descend vers la mer ».",
+      "wikipedia": "Baie d'Along"
+    },
+    {
+      "id": "geographie-477",
+      "difficulty": 1,
+      "question": "Quel grand fleuve d'Asie du Sud-Est forme un immense delta dans le sud du Viêt Nam ?",
+      "answer": "Mékong",
+      "accept": [
+        "Mekong"
+      ],
+      "choices": [
+        "fleuve Rouge",
+        "Irrawaddy",
+        "Chao Phraya"
+      ],
+      "explanation": "Né sur le plateau tibétain, il traverse ou longe six pays ; au Cambodge, il alimente le Tonlé Sap, lac dont le courant s'inverse à la saison des pluies.",
+      "wikipedia": "Mékong"
+    },
+    {
+      "id": "geographie-478",
+      "difficulty": 3,
+      "question": "Quel fleuve traverse la Birmanie du nord au sud avant de former un vaste delta sur la mer d'Andaman ?",
+      "answer": "Irrawaddy",
+      "accept": [
+        "Ayeyarwady"
+      ],
+      "choices": [
+        "Salouen",
+        "Mékong",
+        "Chindwin"
+      ],
+      "explanation": "Artère commerciale du pays, il relie Mandalay au delta ; il abrite une population menacée de dauphins de l'Irrawaddy.",
+      "wikipedia": "Irrawaddy"
+    },
+    {
+      "id": "geographie-479",
+      "difficulty": 2,
+      "question": "Quel fleuve, qui coule en grande partie au Pakistan, a donné son nom à l'Inde ?",
+      "answer": "Indus",
+      "accept": [],
+      "choices": [
+        "Gange",
+        "Sutlej",
+        "Jhelum"
+      ],
+      "explanation": "Son nom sanskrit Sindhu a donné en persan « Hindu » ; sur ses rives s'épanouit la civilisation de Mohenjo-daro et d'Harappa.",
+      "wikipedia": "Indus"
+    },
+    {
+      "id": "geographie-480",
+      "difficulty": 2,
+      "question": "Quel cours d'eau chinois, chargé de lœss, est surnommé « le chagrin de la Chine » pour ses crues meurtrières ?",
+      "answer": "fleuve Jaune",
+      "accept": [
+        "Huang He",
+        "Houang-ho"
+      ],
+      "choices": [
+        "Yangzi Jiang",
+        "rivière des Perles",
+        "Mékong"
+      ],
+      "explanation": "Ses limons lui donnent sa couleur ; en se déposant, ils exhaussent son lit au-dessus des plaines voisines, d'où des inondations catastrophiques.",
+      "wikipedia": "Fleuve Jaune"
+    },
+    {
+      "id": "geographie-481",
+      "difficulty": 3,
+      "question": "Quel fleuve marque sur une grande longueur la frontière entre la Russie et la Chine avant de se jeter face à Sakhaline ?",
+      "answer": "Amour",
+      "accept": [
+        "Heilongjiang"
+      ],
+      "choices": [
+        "Oussouri",
+        "Ienisseï",
+        "Léna"
+      ],
+      "explanation": "Les Chinois l'appellent Heilongjiang, « fleuve du Dragon noir » ; il abrite le kaluga, un esturgeon parmi les plus grands poissons d'eau douce.",
+      "wikipedia": "Amour (fleuve)"
+    },
+    {
+      "id": "geographie-482",
+      "difficulty": 1,
+      "question": "Quel sommet du Karakoram est le deuxième plus haut du monde ?",
+      "answer": "K2",
+      "accept": [],
+      "choices": [
+        "Kangchenjunga",
+        "Lhotse",
+        "Makalu"
+      ],
+      "explanation": "Son nom vient de la notation d'un géomètre britannique : K pour Karakoram, 2 pour le deuxième sommet relevé ; il est réputé plus difficile que l'Everest.",
+      "wikipedia": "K2"
+    },
+    {
+      "id": "geographie-483",
+      "difficulty": 1,
+      "question": "Quelle chaîne de montagnes, dont le nom sanskrit signifie « demeure des neiges », sépare l'Inde du plateau tibétain ?",
+      "answer": "Himalaya",
+      "accept": [],
+      "choices": [
+        "Karakoram",
+        "Hindou Kouch",
+        "Tian Shan"
+      ],
+      "explanation": "Née de la collision entre les plaques indienne et eurasienne, elle continue de s'élever ; elle porte la plupart des sommets de plus de 8 000 mètres.",
+      "wikipedia": "Himalaya"
+    },
+    {
+      "id": "geographie-484",
+      "difficulty": 2,
+      "question": "Quel sommet de l'Himalaya fut, en 1950, le premier « huit mille » gravi, par l'expédition française de Maurice Herzog ?",
+      "answer": "Annapurna",
+      "accept": [],
+      "choices": [
+        "Nanga Parbat",
+        "Manaslu",
+        "Dhaulagiri"
+      ],
+      "explanation": "Herzog et Louis Lachenal atteignirent le sommet mais redescendirent gravement gelés ; le récit d'Herzog connut un immense succès.",
+      "wikipedia": "Annapurna"
+    },
+    {
+      "id": "geographie-485",
+      "difficulty": 1,
+      "question": "Quelle région chinoise de haute altitude, dont la ville principale est Lhassa, est surnommée « le toit du monde » ?",
+      "answer": "Tibet",
+      "accept": [],
+      "choices": [
+        "Népal",
+        "Xinjiang",
+        "Mongolie-Intérieure"
+      ],
+      "explanation": "Le plateau tibétain, le plus élevé du globe, voit naître plusieurs grands fleuves d'Asie, dont l'Indus, le Brahmapoutre, le Mékong et le Yangzi.",
+      "wikipedia": "Tibet"
+    },
+    {
+      "id": "geographie-486",
+      "difficulty": 1,
+      "question": "Quel volcan, point culminant du Japon, est le sujet d'une célèbre série d'estampes d'Hokusai ?",
+      "answer": "Fuji",
+      "accept": [
+        "mont Fuji",
+        "Fuji-san",
+        "Fujiyama"
+      ],
+      "choices": [
+        "Aso",
+        "Sakurajima",
+        "Asama"
+      ],
+      "explanation": "Sa dernière éruption remonte à 1707 ; sacré pour le shintoïsme, il est gravi chaque été par de très nombreux pèlerins et randonneurs.",
+      "wikipedia": "Mont Fuji"
+    },
+    {
+      "id": "geographie-487",
+      "difficulty": 2,
+      "question": "Quelle est la plus grande des quatre îles principales de l'archipel japonais, où se trouvent Tokyo et Kyoto ?",
+      "answer": "Honshū",
+      "accept": [
+        "Honshu",
+        "Hondo"
+      ],
+      "choices": [
+        "Hokkaidō",
+        "Kyūshū",
+        "Shikoku"
+      ],
+      "explanation": "Elle concentre la majorité de la population japonaise ; le tunnel sous-marin du Seikan la relie à Hokkaidō, au nord.",
+      "wikipedia": "Honshū"
+    },
+    {
+      "id": "geographie-488",
+      "difficulty": 2,
+      "question": "Quelle ancienne capitale japonaise est célèbre pour les cerfs sika en liberté qui circulent dans son grand parc ?",
+      "answer": "Nara",
+      "accept": [],
+      "choices": [
+        "Kamakura",
+        "Nikko",
+        "Kyoto"
+      ],
+      "explanation": "Capitale au VIIIe siècle, Nara abrite le Tōdai-ji et son immense Bouddha de bronze ; selon la légende, une divinité y arriva montée sur un cerf blanc.",
+      "wikipedia": "Nara"
+    },
+    {
+      "id": "geographie-489",
+      "difficulty": 3,
+      "question": "Quel sanctuaire shinto de l'île de Miyajima possède un grand torii vermillon qui semble flotter à marée haute ?",
+      "answer": "Itsukushima",
+      "accept": [
+        "Itsukushima-jinja"
+      ],
+      "choices": [
+        "Fushimi Inari",
+        "Meiji-jingū",
+        "Ise"
+      ],
+      "explanation": "Le sanctuaire est bâti sur pilotis au-dessus de l'eau ; l'île, considérée comme sacrée, était longtemps interdite aux naissances et aux décès.",
+      "wikipedia": "Itsukushima-jinja"
+    },
+    {
+      "id": "geographie-490",
+      "difficulty": 3,
+      "question": "Quelle étendue d'eau de Sumatra occupe la caldeira d'un supervolcan dont l'éruption fut gigantesque, voici environ 74 000 ans ?",
+      "answer": "lac Toba",
+      "accept": [
+        "Toba"
+      ],
+      "choices": [
+        "lac Maninjau",
+        "lac Batur",
+        "lac Taal"
+      ],
+      "explanation": "C'est le plus grand lac volcanique du monde ; en son centre émerge Samosir, une île habitée par le peuple batak.",
+      "wikipedia": "Lac Toba"
+    },
+    {
+      "id": "geographie-491",
+      "difficulty": 1,
+      "question": "Quelle île indonésienne, surnommée « l'île des dieux », est majoritairement hindouiste ?",
+      "answer": "Bali",
+      "accept": [],
+      "choices": [
+        "Java",
+        "Lombok",
+        "Sumatra"
+      ],
+      "explanation": "Dans un pays à majorité musulmane, Bali a conservé une culture hindoue héritée des royaumes javanais ; ses rizières en terrasses sont classées par l'Unesco.",
+      "wikipedia": "Bali"
+    },
+    {
+      "id": "geographie-492",
+      "difficulty": 2,
+      "question": "Quelle grande île d'Asie du Sud-Est est partagée entre l'Indonésie, la Malaisie et le sultanat de Brunei ?",
+      "answer": "Bornéo",
+      "accept": [
+        "Borneo"
+      ],
+      "choices": [
+        "Sumatra",
+        "Nouvelle-Guinée",
+        "Célèbes"
+      ],
+      "explanation": "Troisième plus grande île du monde, elle abrite l'une des plus anciennes forêts tropicales, refuge de l'orang-outan, « l'homme de la forêt » en malais.",
+      "wikipedia": "Bornéo"
+    },
+    {
+      "id": "geographie-493",
+      "difficulty": 2,
+      "question": "Quel pays d'Océanie, avec plusieurs centaines de langues, possède la plus grande diversité linguistique du monde ?",
+      "answer": "Papouasie-Nouvelle-Guinée",
+      "accept": [],
+      "choices": [
+        "Indonésie",
+        "Vanuatu",
+        "Philippines"
+      ],
+      "explanation": "Pour se comprendre, les habitants utilisent souvent le tok pisin, un créole à base d'anglais devenu l'une des langues officielles du pays.",
+      "wikipedia": "Papouasie-Nouvelle-Guinée"
+    },
+    {
+      "id": "geographie-494",
+      "difficulty": 3,
+      "question": "Quel volcan philippin connut en 1991 l'une des plus fortes éruptions du XXe siècle ?",
+      "answer": "Pinatubo",
+      "accept": [],
+      "choices": [
+        "Mayon",
+        "Taal",
+        "Apo"
+      ],
+      "explanation": "Ses aérosols firent baisser la température moyenne du globe d'environ un demi-degré ; l'éruption força les Américains à abandonner la base aérienne voisine de Clark.",
+      "wikipedia": "Pinatubo"
+    },
+    {
+      "id": "geographie-495",
+      "difficulty": 1,
+      "question": "Quelle étendue d'eau fermée, bordée notamment par la Russie, l'Iran et le Kazakhstan, est le plus grand lac du monde ?",
+      "answer": "mer Caspienne",
+      "accept": [
+        "Caspienne"
+      ],
+      "choices": [
+        "mer d'Aral",
+        "mer Noire",
+        "lac Baïkal"
+      ],
+      "explanation": "Ses eaux sont légèrement salées ; elle abrite les esturgeons dont les œufs donnent le caviar, en particulier le béluga.",
+      "wikipedia": "Mer Caspienne"
+    },
+    {
+      "id": "geographie-496",
+      "difficulty": 1,
+      "question": "Quelle ville du Tennessee, capitale de la musique country, est surnommée « Music City » ?",
+      "answer": "Nashville",
+      "accept": [],
+      "choices": [
+        "Memphis",
+        "Austin",
+        "Atlanta"
+      ],
+      "explanation": "La ville abrite le Grand Ole Opry, émission radiophonique de country diffusée depuis 1925, l'une des plus anciennes des États-Unis.",
+      "wikipedia": "Nashville"
+    },
+    {
+      "id": "geographie-497",
+      "difficulty": 1,
+      "question": "Quelle langue est la plus parlée en Inde, à côté de l'anglais utilisé par l'administration fédérale ?",
+      "answer": "hindi",
+      "accept": [],
+      "choices": [
+        "bengali",
+        "tamoul",
+        "ourdou"
+      ],
+      "explanation": "L'hindi s'écrit en devanagari ; très proche de l'ourdou à l'oral, il s'en distingue par l'écriture et un vocabulaire plus emprunté au sanskrit.",
+      "wikipedia": "Hindi"
+    },
+    {
+      "id": "geographie-498",
+      "difficulty": 2,
+      "question": "Quelle grande ville du sud de la Chine, sur la rivière des Perles, a donné son nom à une langue et à une cuisine ?",
+      "answer": "Canton",
+      "accept": [
+        "Guangzhou"
+      ],
+      "choices": [
+        "Shenzhen",
+        "Hangzhou",
+        "Fuzhou"
+      ],
+      "explanation": "Longtemps le seul port chinois ouvert aux marchands occidentaux, elle accueille chaque année la foire de Canton, grand salon commercial du pays.",
+      "wikipedia": "Canton (Chine)"
+    },
+    {
+      "id": "geographie-499",
+      "difficulty": 2,
+      "question": "Dans quel pays d'Amérique du Sud le néerlandais est-il la langue officielle ?",
+      "answer": "Suriname",
+      "accept": [
+        "Surinam"
+      ],
+      "choices": [
+        "Guyana",
+        "Belize",
+        "Guyane"
+      ],
+      "explanation": "Les Néerlandais obtinrent ce territoire en 1667 par le traité de Bréda, en échange de La Nouvelle-Amsterdam, cédée aux Anglais.",
+      "wikipedia": "Suriname"
+    },
+    {
+      "id": "geographie-500",
+      "difficulty": 3,
+      "question": "Quel alphabet berbère, utilisé par les Touaregs, figure aussi sur les panneaux officiels au Maroc ?",
+      "answer": "tifinagh",
+      "accept": [],
+      "choices": [
+        "ge'ez",
+        "n'ko",
+        "vaï"
+      ],
+      "explanation": "Dérivé de l'ancienne écriture libyque, il a été modernisé en néo-tifinagh ; sa lettre « yaz » orne le drapeau amazigh.",
+      "wikipedia": "Tifinagh"
+    },
+    {
+      "id": "geographie-501",
+      "difficulty": 1,
+      "question": "Quelle langue européenne est la langue officielle du Brésil ?",
+      "answer": "portugais",
+      "accept": [],
+      "choices": [
+        "espagnol",
+        "italien",
+        "français"
+      ],
+      "explanation": "Le traité de Tordesillas, en 1494, attribua au Portugal les terres situées à l'est d'une ligne nord-sud, dont la côte du futur Brésil.",
+      "wikipedia": "Portugais"
+    },
+    {
+      "id": "geographie-502",
+      "difficulty": 1,
+      "question": "Quel pays d'Amérique du Sud doit son nom à des villages sur pilotis rappelant la cité des Doges ?",
+      "answer": "Venezuela",
+      "accept": [],
+      "choices": [
+        "Colombie",
+        "Guyana",
+        "Uruguay"
+      ],
+      "explanation": "Les explorateurs de 1499 virent sur le lac Maracaibo des maisons sur pilotis ; le nom signifie « petite Venise » en espagnol.",
+      "wikipedia": "Venezuela"
+    },
+    {
+      "id": "geographie-503",
+      "difficulty": 2,
+      "question": "Quelle chute d'eau du Venezuela est la plus haute du monde ?",
+      "answer": "Salto Ángel",
+      "accept": [
+        "Salto Angel",
+        "chutes de l'Ange",
+        "Kerepakupai Vená"
+      ],
+      "choices": [
+        "Iguazú",
+        "Kaieteur",
+        "Tugela"
+      ],
+      "explanation": "Elle tombe du sommet d'un tepuy, montagne tabulaire ; elle doit son nom à l'aviateur américain Jimmy Angel, qui la survola le premier en 1933.",
+      "wikipedia": "Salto Ángel"
+    },
+    {
+      "id": "geographie-504",
+      "difficulty": 1,
+      "question": "Quel pays d'Amérique du Sud porte le nom du navigateur génois qui atteignit le Nouveau Monde en 1492 ?",
+      "answer": "Colombie",
+      "accept": [],
+      "choices": [
+        "Bolivie",
+        "Venezuela",
+        "Équateur"
+      ],
+      "explanation": "C'est le seul pays d'Amérique du Sud bordé à la fois par l'océan Pacifique et par la mer des Caraïbes.",
+      "wikipedia": "Colombie"
+    },
+    {
+      "id": "geographie-505",
+      "difficulty": 1,
+      "question": "Quel pays d'Amérique du Sud porte le nom du Libertador qui l'affranchit de l'Espagne ?",
+      "answer": "Bolivie",
+      "accept": [],
+      "choices": [
+        "Colombie",
+        "Venezuela",
+        "Paraguay"
+      ],
+      "explanation": "Ancien Haut-Pérou, le pays prit en 1825 le nom de Simón Bolívar ; son lieutenant Sucre a donné le sien à la capitale constitutionnelle.",
+      "wikipedia": "Bolivie"
+    },
+    {
+      "id": "geographie-506",
+      "difficulty": 2,
+      "question": "Outre la Bolivie, quel pays d'Amérique du Sud ne possède aucun accès à la mer ?",
+      "answer": "Paraguay",
+      "accept": [],
+      "choices": [
+        "Uruguay",
+        "Équateur",
+        "Guyana"
+      ],
+      "explanation": "Le pays est traversé par le fleuve du même nom ; avec le Brésil, il exploite le barrage d'Itaipu sur le Paraná, l'un des plus puissants du monde.",
+      "wikipedia": "Paraguay"
+    },
+    {
+      "id": "geographie-507",
+      "difficulty": 2,
+      "question": "Quel pays d'Amérique du Sud doit son nom au métal précieux que les conquistadors espéraient y trouver ?",
+      "answer": "Argentine",
+      "accept": [],
+      "choices": [
+        "Uruguay",
+        "Chili",
+        "Pérou"
+      ],
+      "explanation": "Le nom vient du latin argentum ; l'estuaire du Río de la Plata, le « fleuve de l'argent », a la même origine.",
+      "wikipedia": "Argentine"
+    },
+    {
+      "id": "geographie-508",
+      "difficulty": 2,
+      "question": "Quelles chutes, partagées entre l'Argentine et le Brésil, comprennent la spectaculaire « Gorge du Diable » ?",
+      "answer": "Iguazú",
+      "accept": [
+        "Iguaçu",
+        "Iguazu",
+        "chutes d'Iguazú"
+      ],
+      "choices": [
+        "Salto Ángel",
+        "Kaieteur",
+        "Victoria"
+      ],
+      "explanation": "Leur nom guarani signifie « grandes eaux » ; elles forment un arc de plusieurs centaines de cascades à la frontière des deux pays.",
+      "wikipedia": "Chutes d'Iguazú"
+    },
+    {
+      "id": "geographie-509",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la vaste région du sud de l'Argentine et du Chili, balayée par les vents ?",
+      "answer": "Patagonie",
+      "accept": [],
+      "choices": [
+        "Pampa",
+        "Araucanie",
+        "Atacama"
+      ],
+      "explanation": "Son nom viendrait des « Patagons », géants décrits par les compagnons de Magellan ; la région abrite les célèbres aiguilles granitiques du Fitz Roy.",
+      "wikipedia": "Patagonie"
+    },
+    {
+      "id": "geographie-510",
+      "difficulty": 2,
+      "question": "Quel archipel doit son nom aux nombreux feux allumés par les Amérindiens qu'aperçut l'équipage de Magellan ?",
+      "answer": "Terre de Feu",
+      "accept": [],
+      "choices": [
+        "Patagonie",
+        "Malouines",
+        "Chiloé"
+      ],
+      "explanation": "L'archipel est partagé entre l'Argentine et le Chili ; ses habitants autochtones, comme les Selknam, vivaient presque nus malgré le froid.",
+      "wikipedia": "Terre de Feu"
+    },
+    {
+      "id": "geographie-511",
+      "difficulty": 3,
+      "question": "Quel glacier de Patagonie argentine est célèbre pour ses spectaculaires effondrements de glace dans le lac Argentino ?",
+      "answer": "Perito Moreno",
+      "accept": [],
+      "choices": [
+        "Upsala",
+        "Grey",
+        "Viedma"
+      ],
+      "explanation": "Contrairement à la plupart des glaciers, il est resté relativement stable ; il porte le nom de l'explorateur Francisco Moreno, surnommé « Perito », l'expert.",
+      "wikipedia": "Glacier Perito Moreno"
+    },
+    {
+      "id": "geographie-512",
+      "difficulty": 2,
+      "question": "Quel sommet des Andes argentines est le point culminant des Amériques ?",
+      "answer": "Aconcagua",
+      "accept": [],
+      "choices": [
+        "Chimborazo",
+        "Ojos del Salado",
+        "Huascarán"
+      ],
+      "explanation": "Situé près de la frontière chilienne, c'est le plus haut sommet du monde hors d'Asie ; sa voie normale ne demande pas d'escalade technique.",
+      "wikipedia": "Aconcagua"
+    },
+    {
+      "id": "geographie-513",
+      "difficulty": 3,
+      "question": "Quel volcan d'Équateur possède le sommet le plus éloigné du centre de la Terre ?",
+      "answer": "Chimborazo",
+      "accept": [],
+      "choices": [
+        "Cotopaxi",
+        "Aconcagua",
+        "Everest"
+      ],
+      "explanation": "Grâce au renflement de la Terre à l'équateur, son sommet est plus éloigné du centre du globe que celui de l'Everest, pourtant bien plus haut.",
+      "wikipedia": "Chimborazo"
+    },
+    {
+      "id": "geographie-514",
+      "difficulty": 3,
+      "question": "Quel volcan enneigé d'Équateur, au cône presque parfait, domine le sud de Quito et compte parmi les plus hauts volcans actifs ?",
+      "answer": "Cotopaxi",
+      "accept": [],
+      "choices": [
+        "Chimborazo",
+        "Pichincha",
+        "Tungurahua"
+      ],
+      "explanation": "Il domine le parc national qui porte son nom ; ses éruptions provoquent des coulées de boue, les lahars, qui menacent les vallées voisines.",
+      "wikipedia": "Cotopaxi"
+    },
+    {
+      "id": "geographie-515",
+      "difficulty": 1,
+      "question": "Quel archipel équatorien du Pacifique, peuplé de tortues géantes, inspira à Darwin ses réflexions sur l'évolution ?",
+      "answer": "Galápagos",
+      "accept": [
+        "Galapagos",
+        "îles Galápagos"
+      ],
+      "choices": [
+        "Juan Fernández",
+        "Marquises",
+        "Malpelo"
+      ],
+      "explanation": "Son nom vient d'un ancien mot espagnol désignant les tortues ; Darwin y observa des pinsons dont le bec variait d'une île à l'autre.",
+      "wikipedia": "Îles Galápagos"
+    },
+    {
+      "id": "geographie-516",
+      "difficulty": 3,
+      "question": "Quelle rivière aux eaux noires rencontre l'Amazone près de Manaus, les deux cours restant séparés sur des kilomètres ?",
+      "answer": "rio Negro",
+      "accept": [
+        "Negro"
+      ],
+      "choices": [
+        "rio Madeira",
+        "rio Tapajós",
+        "rio Xingu"
+      ],
+      "explanation": "Ce phénomène, la « rencontre des eaux », s'explique par les différences de température, de vitesse et de densité entre les deux rivières.",
+      "wikipedia": "Rio Negro (Amazone)"
+    },
+    {
+      "id": "geographie-517",
+      "difficulty": 3,
+      "question": "Quelle vaste plaine inondable, partagée entre le Brésil, la Bolivie et le Paraguay, est la plus grande zone humide du monde ?",
+      "answer": "Pantanal",
+      "accept": [],
+      "choices": [
+        "Gran Chaco",
+        "Llanos",
+        "Cerrado"
+      ],
+      "explanation": "Pendant la saison des pluies, les eaux recouvrent l'essentiel de la région ; c'est l'un des meilleurs endroits pour observer le jaguar.",
+      "wikipedia": "Pantanal"
+    },
+    {
+      "id": "geographie-518",
+      "difficulty": 1,
+      "question": "Quelle immense forêt tropicale, partagée entre plusieurs pays, est souvent surnommée « le poumon de la planète » ?",
+      "answer": "Amazonie",
+      "accept": [
+        "forêt amazonienne"
+      ],
+      "choices": [
+        "bassin du Congo",
+        "Bornéo",
+        "Mata Atlântica"
+      ],
+      "explanation": "Le surnom est trompeur : la forêt consomme presque autant d'oxygène qu'elle en produit ; elle abrite en revanche une biodiversité inégalée.",
+      "wikipedia": "Forêt amazonienne"
+    },
+    {
+      "id": "geographie-519",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les vastes plaines herbeuses d'Argentine, domaine des gauchos ?",
+      "answer": "pampa",
+      "accept": [],
+      "choices": [
+        "sertão",
+        "llanos",
+        "altiplano"
+      ],
+      "explanation": "Le mot vient du quechua et signifie « plaine » ; ses sols fertiles font de l'Argentine un grand producteur de bœuf et de céréales.",
+      "wikipedia": "Pampa"
+    },
+    {
+      "id": "geographie-520",
+      "difficulty": 1,
+      "question": "Quel canal d'Amérique centrale relie les océans Atlantique et Pacifique ?",
+      "answer": "Panama",
+      "accept": [
+        "canal de Panama"
+      ],
+      "choices": [
+        "Nicaragua",
+        "Darién",
+        "Tehuantepec"
+      ],
+      "explanation": "Inauguré en 1914, il fut achevé par les Américains après l'échec de Ferdinand de Lesseps ; des écluses élèvent les navires jusqu'au lac Gatún.",
+      "wikipedia": "Canal de Panama"
+    },
+    {
+      "id": "geographie-521",
+      "difficulty": 2,
+      "question": "Quel pays d'Amérique centrale a aboli son armée en 1948 ?",
+      "answer": "Costa Rica",
+      "accept": [],
+      "choices": [
+        "Nicaragua",
+        "Belize",
+        "Honduras"
+      ],
+      "explanation": "Son nom signifie « côte riche » en espagnol ; le pays protège une part importante de son territoire en parcs nationaux et réserves.",
+      "wikipedia": "Costa Rica"
+    },
+    {
+      "id": "geographie-522",
+      "difficulty": 2,
+      "question": "Quelle péninsule mexicaine abrite la cité maya de Chichén Itzá et le cratère d'impact de Chicxulub ?",
+      "answer": "Yucatán",
+      "accept": [
+        "Yucatan"
+      ],
+      "choices": [
+        "Basse-Californie",
+        "Tehuantepec",
+        "Floride"
+      ],
+      "explanation": "Son sol calcaire ne porte presque aucune rivière en surface ; l'eau douce s'y trouve dans les cenotes, des puits naturels sacrés pour les Mayas.",
+      "wikipedia": "Péninsule du Yucatán"
+    },
+    {
+      "id": "geographie-523",
+      "difficulty": 1,
+      "question": "Quelle est la plus grande île des Caraïbes, située au sud de la Floride ?",
+      "answer": "Cuba",
+      "accept": [],
+      "choices": [
+        "Hispaniola",
+        "Jamaïque",
+        "Porto Rico"
+      ],
+      "explanation": "Christophe Colomb l'aborda dès 1492 ; on la surnomme parfois « le crocodile vert » en raison de sa forme allongée.",
+      "wikipedia": "Cuba"
+    },
+    {
+      "id": "geographie-524",
+      "difficulty": 1,
+      "question": "Quelle île des Grandes Antilles, patrie du reggae, est connue pour le café de ses Blue Mountains ?",
+      "answer": "Jamaïque",
+      "accept": [
+        "Jamaica"
+      ],
+      "choices": [
+        "Cuba",
+        "Porto Rico",
+        "Trinité"
+      ],
+      "explanation": "Son nom vient du taïno Xaymaca, « terre des bois et des eaux » ; colonie espagnole, elle fut conquise par les Anglais en 1655.",
+      "wikipedia": "Jamaïque"
+    },
+    {
+      "id": "geographie-525",
+      "difficulty": 2,
+      "question": "Quel pays des Antilles devint en 1804 la première république noire indépendante ?",
+      "answer": "Haïti",
+      "accept": [
+        "Haiti"
+      ],
+      "choices": [
+        "Jamaïque",
+        "Cuba",
+        "République dominicaine"
+      ],
+      "explanation": "Née de la révolte des esclaves menée par Toussaint Louverture puis Dessalines, elle reprit un nom taïno signifiant « terre montagneuse ».",
+      "wikipedia": "Haïti"
+    },
+    {
+      "id": "geographie-526",
+      "difficulty": 1,
+      "question": "Quel archipel de l'Atlantique a donné son nom à un « triangle » réputé pour des disparitions de navires et d'avions ?",
+      "answer": "Bermudes",
+      "accept": [],
+      "choices": [
+        "Bahamas",
+        "Açores",
+        "Antilles"
+      ],
+      "explanation": "Le mythe, popularisé dans les années 1970, n'est pas confirmé par les statistiques : la zone n'est pas plus dangereuse qu'une autre région très fréquentée.",
+      "wikipedia": "Triangle des Bermudes"
+    },
+    {
+      "id": "geographie-527",
+      "difficulty": 3,
+      "question": "Quel îlot de la côte nord d'Haïti fut au XVIIe siècle un repaire de boucaniers et de flibustiers ?",
+      "answer": "Tortue",
+      "accept": [
+        "île de la Tortue"
+      ],
+      "choices": [
+        "Gonâve",
+        "île à Vache",
+        "Saona"
+      ],
+      "explanation": "Son nom viendrait de sa silhouette, rappelant une carapace ; les Français en firent une base avant de s'implanter dans l'ouest de Saint-Domingue.",
+      "wikipedia": "Île de la Tortue"
+    },
+    {
+      "id": "geographie-528",
+      "difficulty": 3,
+      "question": "Dans quel archipel chilien le marin écossais Alexander Selkirk, modèle de Robinson Crusoé, vécut-il seul plus de quatre ans ?",
+      "answer": "Juan Fernández",
+      "accept": [
+        "archipel Juan Fernández"
+      ],
+      "choices": [
+        "Chiloé",
+        "Galápagos",
+        "Chonos"
+      ],
+      "explanation": "L'île où il vécut, Más a Tierra, a été rebaptisée île Robinson Crusoé ; sa voisine porte désormais le nom d'Alejandro Selkirk.",
+      "wikipedia": "Archipel Juan Fernández"
+    },
+    {
+      "id": "geographie-529",
+      "difficulty": 1,
+      "question": "Quel fleuve a creusé le Grand Canyon, en Arizona ?",
+      "answer": "Colorado",
+      "accept": [],
+      "choices": [
+        "Rio Grande",
+        "Missouri",
+        "Columbia"
+      ],
+      "explanation": "Le fleuve a mis des millions d'années à entailler ces couches de roches, qui racontent près de deux milliards d'années d'histoire géologique.",
+      "wikipedia": "Grand Canyon"
+    },
+    {
+      "id": "geographie-530",
+      "difficulty": 1,
+      "question": "Quel fleuve, surnommé « Old Man River », se jette dans le golfe du Mexique au sud de La Nouvelle-Orléans ?",
+      "answer": "Mississippi",
+      "accept": [],
+      "choices": [
+        "Missouri",
+        "Ohio",
+        "Rio Grande"
+      ],
+      "explanation": "Son nom vient d'une langue algonquienne et signifie « grande rivière » ; Mark Twain, ancien pilote de bateau à vapeur, en fit le décor de Tom Sawyer.",
+      "wikipedia": "Mississippi (fleuve)"
+    },
+    {
+      "id": "geographie-531",
+      "difficulty": 3,
+      "question": "Quel affluent du Mississippi, plus long que lui, fut remonté par l'expédition de Lewis et Clark ?",
+      "answer": "Missouri",
+      "accept": [],
+      "choices": [
+        "Ohio",
+        "Arkansas",
+        "Platte"
+      ],
+      "explanation": "Surnommé « Big Muddy » pour ses eaux boueuses, il rejoint le Mississippi près de Saint-Louis, après avoir drainé une grande partie des Grandes Plaines.",
+      "wikipedia": "Missouri (rivière)"
+    },
+    {
+      "id": "geographie-532",
+      "difficulty": 1,
+      "question": "Quel grand fleuve d'Amérique du Nord relie les Grands Lacs à l'Atlantique en passant par Montréal et Québec ?",
+      "answer": "Saint-Laurent",
+      "accept": [],
+      "choices": [
+        "Hudson",
+        "Mackenzie",
+        "Niagara"
+      ],
+      "explanation": "Jacques Cartier donna ce nom à une baie de la côte où il mouilla le jour de la Saint-Laurent ; le nom s'étendit ensuite au fleuve tout entier.",
+      "wikipedia": "Fleuve Saint-Laurent"
+    },
+    {
+      "id": "geographie-533",
+      "difficulty": 1,
+      "question": "Quelles célèbres chutes se trouvent sur la rivière qui relie le lac Érié au lac Ontario ?",
+      "answer": "Niagara",
+      "accept": [
+        "chutes du Niagara"
+      ],
+      "choices": [
+        "Montmorency",
+        "Yosemite",
+        "Kaieteur"
+      ],
+      "explanation": "Elles comprennent les chutes canadiennes, dites du Fer-à-Cheval, et les chutes américaines ; le funambule Blondin les traversa sur une corde en 1859.",
+      "wikipedia": "Chutes du Niagara"
+    },
+    {
+      "id": "geographie-534",
+      "difficulty": 2,
+      "question": "Quel est le plus vaste des Grands Lacs, et la plus grande étendue d'eau douce du monde par sa superficie ?",
+      "answer": "Supérieur",
+      "accept": [
+        "lac Supérieur"
+      ],
+      "choices": [
+        "Michigan",
+        "Huron",
+        "Ontario"
+      ],
+      "explanation": "Partagé entre le Canada et les États-Unis, il est célèbre pour ses tempêtes, dont celle qui coula le minéralier Edmund Fitzgerald en 1975.",
+      "wikipedia": "Lac Supérieur"
+    },
+    {
+      "id": "geographie-535",
+      "difficulty": 1,
+      "question": "Quel parc américain, créé en 1872, est considéré comme le plus ancien parc national du monde ?",
+      "answer": "Yellowstone",
+      "accept": [],
+      "choices": [
+        "Yosemite",
+        "Grand Canyon",
+        "Sequoia"
+      ],
+      "explanation": "Il repose sur un supervolcan et concentre une grande partie des geysers de la planète, dont Old Faithful, qui jaillit à intervalles réguliers.",
+      "wikipedia": "Parc national de Yellowstone"
+    },
+    {
+      "id": "geographie-536",
+      "difficulty": 1,
+      "question": "Dans quel État américain se trouve le parc national de Yosemite, célèbre pour ses falaises de granite ?",
+      "answer": "Californie",
+      "accept": [],
+      "choices": [
+        "Nevada",
+        "Oregon",
+        "Colorado"
+      ],
+      "explanation": "Ses parois, comme El Capitan et le Half Dome, attirent les grimpeurs du monde entier ; Abraham Lincoln en protégea la vallée dès 1864.",
+      "wikipedia": "Parc national de Yosemite"
+    },
+    {
+      "id": "geographie-537",
+      "difficulty": 1,
+      "question": "Quel territoire les États-Unis achetèrent-ils à la Russie en 1867 ?",
+      "answer": "Alaska",
+      "accept": [],
+      "choices": [
+        "Hawaï",
+        "Yukon",
+        "Oregon"
+      ],
+      "explanation": "Négocié par le secrétaire d'État William Seward, l'achat fut d'abord raillé comme « la folie de Seward », avant la découverte de l'or dans la région.",
+      "wikipedia": "Achat de l'Alaska"
+    },
+    {
+      "id": "geographie-538",
+      "difficulty": 1,
+      "question": "Quel archipel du Pacifique devint en 1959 le cinquantième État des États-Unis ?",
+      "answer": "Hawaï",
+      "accept": [
+        "Hawaii"
+      ],
+      "choices": [
+        "Alaska",
+        "Guam",
+        "Porto Rico"
+      ],
+      "explanation": "Ancien royaume indépendant renversé en 1893, l'archipel est né d'un point chaud volcanique au milieu du Pacifique.",
+      "wikipedia": "Hawaï"
+    },
+    {
+      "id": "geographie-539",
+      "difficulty": 2,
+      "question": "Quel volcan d'Hawaï, l'un des plus actifs du monde, serait la demeure de la déesse Pelé ?",
+      "answer": "Kīlauea",
+      "accept": [
+        "Kilauea"
+      ],
+      "choices": [
+        "Mauna Loa",
+        "Mauna Kea",
+        "Haleakalā"
+      ],
+      "explanation": "Son cratère Halemaʻumaʻu a longtemps abrité un lac de lave ; ses coulées agrandissent régulièrement l'île d'Hawaï en atteignant l'océan.",
+      "wikipedia": "Kīlauea"
+    },
+    {
+      "id": "geographie-540",
+      "difficulty": 3,
+      "question": "Quel volcan hawaïen, mesuré depuis le plancher océanique, dépasse l'Everest en hauteur ?",
+      "answer": "Mauna Kea",
+      "accept": [],
+      "choices": [
+        "Mauna Loa",
+        "Kīlauea",
+        "Haleakalā"
+      ],
+      "explanation": "Son sommet, au-dessus des nuages, accueille de grands observatoires astronomiques ; son nom signifie « montagne blanche », à cause de la neige hivernale.",
+      "wikipedia": "Mauna Kea"
+    },
+    {
+      "id": "geographie-541",
+      "difficulty": 2,
+      "question": "Quel volcan de l'État de Washington perdit son sommet lors d'une éruption latérale en 1980 ?",
+      "answer": "mont Saint Helens",
+      "accept": [
+        "Saint Helens",
+        "Saint-Helens"
+      ],
+      "choices": [
+        "mont Rainier",
+        "mont Hood",
+        "mont Baker"
+      ],
+      "explanation": "L'explosion fut déclenchée par un gigantesque glissement de terrain ; le volcan perdit environ 400 mètres d'altitude.",
+      "wikipedia": "Mont Saint Helens"
+    },
+    {
+      "id": "geographie-542",
+      "difficulty": 1,
+      "question": "Comment surnomme-t-on la région au sud de San Francisco où se concentrent les géants de l'informatique ?",
+      "answer": "Silicon Valley",
+      "accept": [
+        "vallée du silicium"
+      ],
+      "choices": [
+        "Silicon Alley",
+        "Route 128",
+        "Sophia Antipolis"
+      ],
+      "explanation": "Le nom évoque le silicium des puces électroniques ; le garage de Palo Alto où Hewlett et Packard fondèrent leur entreprise passe pour son berceau.",
+      "wikipedia": "Silicon Valley"
+    },
+    {
+      "id": "geographie-543",
+      "difficulty": 2,
+      "question": "Quel axe mythique, surnommé « Mother Road », reliait autrefois Chicago à Los Angeles ?",
+      "answer": "Route 66",
+      "accept": [
+        "U.S. Route 66",
+        "US 66"
+      ],
+      "choices": [
+        "Route 1",
+        "Interstate 80",
+        "Lincoln Highway"
+      ],
+      "explanation": "Ouverte en 1926 et déclassée en 1985, elle est célébrée dans Les Raisins de la colère de Steinbeck, qui lui donna son surnom.",
+      "wikipedia": "U.S. Route 66"
+    },
+    {
+      "id": "geographie-544",
+      "difficulty": 1,
+      "question": "Quel État américain, ancienne république indépendante, est surnommé « l'État à l'étoile solitaire » ?",
+      "answer": "Texas",
+      "accept": [],
+      "choices": [
+        "Californie",
+        "Arizona",
+        "Nouveau-Mexique"
+      ],
+      "explanation": "Indépendant du Mexique de 1836 à 1845, le Texas a gardé l'étoile unique de son drapeau ; son nom vient d'un mot caddo signifiant « amis ».",
+      "wikipedia": "Texas"
+    },
+    {
+      "id": "geographie-545",
+      "difficulty": 3,
+      "question": "Quel fleuve arrose Washington, la capitale fédérale des États-Unis ?",
+      "answer": "Potomac",
+      "accept": [],
+      "choices": [
+        "Hudson",
+        "Delaware",
+        "Susquehanna"
+      ],
+      "explanation": "George Washington choisit lui-même le site de la capitale sur ses rives ; sa propriété de Mount Vernon domine aussi le fleuve, en Virginie.",
+      "wikipedia": "Potomac"
+    },
+    {
+      "id": "geographie-546",
+      "difficulty": 2,
+      "question": "Quelle immense mer intérieure du nord du Canada porte le nom d'un navigateur anglais abandonné par son équipage en 1611 ?",
+      "answer": "baie d'Hudson",
+      "accept": [
+        "Hudson"
+      ],
+      "choices": [
+        "baie de Baffin",
+        "baie James",
+        "baie d'Ungava"
+      ],
+      "explanation": "Henry Hudson y fut pris dans les glaces en 1610 puis abandonné par ses marins mutinés ; la Compagnie de la baie d'Hudson y fit ensuite le commerce des fourrures.",
+      "wikipedia": "Baie d'Hudson"
+    },
+    {
+      "id": "geographie-547",
+      "difficulty": 1,
+      "question": "Quelle chaîne de montagnes s'étend de l'Alaska au Nouveau-Mexique, dans l'ouest de l'Amérique du Nord ?",
+      "answer": "Rocheuses",
+      "accept": [
+        "montagnes Rocheuses"
+      ],
+      "choices": [
+        "Appalaches",
+        "Sierra Nevada",
+        "Cascades"
+      ],
+      "explanation": "Elles forment la ligne de partage des eaux du continent ; le parc de Banff, au Canada, en protège quelques-uns des plus beaux paysages.",
+      "wikipedia": "Montagnes Rocheuses"
+    },
+    {
+      "id": "geographie-548",
+      "difficulty": 2,
+      "question": "Quelle chaîne de montagnes ancienne longe l'est des États-Unis, de l'Alabama jusqu'au Canada ?",
+      "answer": "Appalaches",
+      "accept": [],
+      "choices": [
+        "Rocheuses",
+        "Adirondacks",
+        "Cascades"
+      ],
+      "explanation": "Très érodées, elles sont bien plus anciennes que les Rocheuses ; le sentier de randonnée de l'Appalachian Trail les parcourt sur des milliers de kilomètres.",
+      "wikipedia": "Appalaches"
+    },
+    {
+      "id": "geographie-549",
+      "difficulty": 2,
+      "question": "Quelle zone humide subtropicale du sud de la Floride, refuge des alligators, est surnommée « la rivière d'herbe » ?",
+      "answer": "Everglades",
+      "accept": [],
+      "choices": [
+        "Okefenokee",
+        "Big Cypress",
+        "Atchafalaya"
+      ],
+      "explanation": "Le parc national, créé en 1947, est l'un des rares endroits du monde où alligators et crocodiles vivent côte à côte.",
+      "wikipedia": "Everglades"
+    },
+    {
+      "id": "geographie-550",
+      "difficulty": 1,
+      "question": "Quel élément végétal orne le centre du drapeau du Canada ?",
+      "answer": "feuille d'érable",
+      "accept": [
+        "érable"
+      ],
+      "choices": [
+        "feuille de chêne",
+        "fleur de lys",
+        "sapin"
+      ],
+      "explanation": "Adopté en 1965, ce drapeau rouge et blanc a remplacé le Red Ensign ; la feuille stylisée compte onze pointes.",
+      "wikipedia": "Drapeau du Canada"
+    },
+    {
+      "id": "geographie-551",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les peuples autochtones de l'Arctique canadien et du Groenland, autrefois appelés Esquimaux ?",
+      "answer": "Inuits",
+      "accept": [
+        "Inuit"
+      ],
+      "choices": [
+        "Samis",
+        "Iakoutes",
+        "Aléoutes"
+      ],
+      "explanation": "Inuit signifie « les êtres humains » en inuktitut ; le mot igloo, qui désigne chez eux toute maison, est passé dans le français pour l'abri de neige.",
+      "wikipedia": "Inuits"
+    },
+    {
+      "id": "geographie-552",
+      "difficulty": 2,
+      "question": "Par quelle île de la baie de New York sont passés des millions d'immigrants entre 1892 et 1954 ?",
+      "answer": "Ellis Island",
+      "accept": [],
+      "choices": [
+        "Liberty Island",
+        "Staten Island",
+        "Governors Island"
+      ],
+      "explanation": "Les immigrants y subissaient un examen médical rapide ; l'île abrite aujourd'hui un musée de l'immigration, près de la statue de la Liberté.",
+      "wikipedia": "Ellis Island"
+    },
+    {
+      "id": "geographie-553",
+      "difficulty": 1,
+      "question": "Quel monolithe de grès rouge, sacré pour les Aborigènes, se dresse au centre de l'Australie ?",
+      "answer": "Uluru",
+      "accept": [
+        "Ayers Rock"
+      ],
+      "choices": [
+        "Kata Tjuta",
+        "mont Augustus",
+        "Wave Rock"
+      ],
+      "explanation": "Ses parois changent de couleur au fil de la journée ; son ascension, jugée irrespectueuse par les Anangu, est interdite depuis 2019.",
+      "wikipedia": "Uluru/Ayers Rock"
+    },
+    {
+      "id": "geographie-554",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les premiers habitants de l'Australie, présents depuis des dizaines de milliers d'années ?",
+      "answer": "Aborigènes",
+      "accept": [
+        "Aborigènes d'Australie"
+      ],
+      "choices": [
+        "Maoris",
+        "Papous",
+        "Kanaks"
+      ],
+      "explanation": "Ils forment l'une des plus anciennes cultures continues du monde ; le boomerang et le didgeridoo sont issus de leurs traditions.",
+      "wikipedia": "Aborigènes d'Australie"
+    },
+    {
+      "id": "geographie-555",
+      "difficulty": 2,
+      "question": "Quelle ville du Territoire du Nord australien porte le nom du naturaliste auteur de L'Origine des espèces ?",
+      "answer": "Darwin",
+      "accept": [],
+      "choices": [
+        "Alice Springs",
+        "Cairns",
+        "Adélaïde"
+      ],
+      "explanation": "Le Beagle, sur lequel Charles Darwin avait voyagé, mouilla dans la baie lors d'une expédition ultérieure ; la ville fut dévastée par le cyclone Tracy en 1974.",
+      "wikipedia": "Darwin (Australie)"
+    },
+    {
+      "id": "geographie-556",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le peuple autochtone polynésien de Nouvelle-Zélande ?",
+      "answer": "Maoris",
+      "accept": [
+        "Maori",
+        "Māori"
+      ],
+      "choices": [
+        "Aborigènes",
+        "Kanaks",
+        "Samoans"
+      ],
+      "explanation": "Arrivés de Polynésie orientale en pirogues il y a quelques siècles, ils ont rendu célèbre le haka, danse rituelle reprise par les All Blacks.",
+      "wikipedia": "Maoris"
+    },
+    {
+      "id": "geographie-557",
+      "difficulty": 3,
+      "question": "Quel sommet des Alpes du Sud, appelé Aoraki par les Maoris, est le point culminant de la Nouvelle-Zélande ?",
+      "answer": "mont Cook",
+      "accept": [
+        "Cook"
+      ],
+      "choices": [
+        "mont Tasman",
+        "Ruapehu",
+        "mont Aspiring"
+      ],
+      "explanation": "Il porte le nom du navigateur James Cook ; Edmund Hillary, futur vainqueur de l'Everest, s'y entraîna dans sa jeunesse.",
+      "wikipedia": "Aoraki/Mont Cook"
+    },
+    {
+      "id": "geographie-558",
+      "difficulty": 3,
+      "question": "Quel fjord de l'île du Sud de la Nouvelle-Zélande, dominé par le Mitre Peak, est le plus célèbre du pays ?",
+      "answer": "Milford Sound",
+      "accept": [],
+      "choices": [
+        "Doubtful Sound",
+        "Dusky Sound",
+        "Marlborough Sounds"
+      ],
+      "explanation": "Malgré son nom de « sound », c'est bien un fjord creusé par les glaciers ; il compte parmi les endroits les plus pluvieux du pays.",
+      "wikipedia": "Milford Sound"
+    },
+    {
+      "id": "geographie-559",
+      "difficulty": 2,
+      "question": "Quelle mer sépare l'Australie de la Nouvelle-Zélande ?",
+      "answer": "mer de Tasman",
+      "accept": [
+        "Tasman"
+      ],
+      "choices": [
+        "mer de Corail",
+        "mer d'Arafura",
+        "mer de Timor"
+      ],
+      "explanation": "Elle porte le nom du navigateur néerlandais Abel Tasman, premier Européen à atteindre la Nouvelle-Zélande et la Tasmanie, en 1642.",
+      "wikipedia": "Mer de Tasman"
+    },
+    {
+      "id": "geographie-560",
+      "difficulty": 3,
+      "question": "Quel petit État insulaire du Pacifique, ruiné par l'épuisement de ses gisements de phosphate, est l'une des plus petites républiques du monde ?",
+      "answer": "Nauru",
+      "accept": [],
+      "choices": [
+        "Tuvalu",
+        "Palaos",
+        "Kiribati"
+      ],
+      "explanation": "Ce minuscule atoll soulevé n'a pas de capitale officielle ; l'exploitation intensive du phosphate a rendu stérile une grande partie de l'intérieur de l'île.",
+      "wikipedia": "Nauru"
+    },
+    {
+      "id": "geographie-561",
+      "difficulty": 3,
+      "question": "Quel État du Pacifique, à cheval sur l'équateur et la ligne de changement de date, s'étend sur les quatre hémisphères ?",
+      "answer": "Kiribati",
+      "accept": [],
+      "choices": [
+        "Tuvalu",
+        "Tonga",
+        "Fidji"
+      ],
+      "explanation": "Ses îles de la Ligne sont parmi les premières terres habitées à fêter la nouvelle année ; son nom est la transcription locale de Gilbert.",
+      "wikipedia": "Kiribati"
+    },
+    {
+      "id": "geographie-562",
+      "difficulty": 3,
+      "question": "Sur quelle île du Pacifique s'installèrent en 1790 les mutins du Bounty avec leurs compagnes tahitiennes ?",
+      "answer": "Pitcairn",
+      "accept": [
+        "île Pitcairn",
+        "îles Pitcairn"
+      ],
+      "choices": [
+        "Norfolk",
+        "Tonga",
+        "Rapa Nui"
+      ],
+      "explanation": "Les mutins brûlèrent le navire dans une baie qui porte son nom ; les descendants de Fletcher Christian vivent toujours sur ce territoire britannique.",
+      "wikipedia": "Pitcairn"
+    },
+    {
+      "id": "geographie-563",
+      "difficulty": 2,
+      "question": "Quelle région d'Océanie, dont le nom signifie « nombreuses îles », forme un triangle entre Hawaï, la Nouvelle-Zélande et l'île de Pâques ?",
+      "answer": "Polynésie",
+      "accept": [],
+      "choices": [
+        "Micronésie",
+        "Mélanésie",
+        "Australasie"
+      ],
+      "explanation": "La Mélanésie doit son nom à la peau sombre de ses habitants et la Micronésie à la petite taille de ses îles ; Dumont d'Urville popularisa ce découpage.",
+      "wikipedia": "Polynésie"
+    },
+    {
+      "id": "geographie-564",
+      "difficulty": 2,
+      "question": "Quelle ville de la côte de Coromandel fut le principal comptoir français en Inde jusqu'en 1954 ?",
+      "answer": "Pondichéry",
+      "accept": [
+        "Pondicherry",
+        "Puducherry"
+      ],
+      "choices": [
+        "Chandernagor",
+        "Karikal",
+        "Mahé"
+      ],
+      "explanation": "Son ancien quartier français, au plan en damier, conserve des rues aux noms français ; la communauté d'Auroville se trouve tout près.",
+      "wikipedia": "Pondichéry"
+    },
+    {
+      "id": "geographie-565",
+      "difficulty": 1,
+      "question": "Dans quelle ville du Texas se trouve le centre de contrôle des vols habités de la NASA ?",
+      "answer": "Houston",
+      "accept": [],
+      "choices": [
+        "Dallas",
+        "Austin",
+        "San Antonio"
+      ],
+      "explanation": "Le centre spatial Lyndon B. Johnson y suit les astronautes ; c'est à lui que s'adressait le célèbre « Houston, nous avons un problème » d'Apollo 13.",
+      "wikipedia": "Houston"
+    },
+    {
+      "id": "geographie-566",
+      "difficulty": 1,
+      "question": "Quel océan, le plus vaste du globe, Magellan baptisa-t-il pour le calme de ses eaux ?",
+      "answer": "Pacifique",
+      "accept": [
+        "océan Pacifique"
+      ],
+      "choices": [
+        "Atlantique",
+        "Indien",
+        "Austral"
+      ],
+      "explanation": "Après la traversée tumultueuse du détroit qui porte son nom, Magellan trouva une mer apaisée ; cet océan couvre près d'un tiers de la surface terrestre.",
+      "wikipedia": "Océan Pacifique"
+    },
+    {
+      "id": "geographie-567",
+      "difficulty": 2,
+      "question": "Quel océan doit son nom au Titan qui portait la voûte céleste sur ses épaules ?",
+      "answer": "Atlantique",
+      "accept": [
+        "océan Atlantique"
+      ],
+      "choices": [
+        "Pacifique",
+        "Indien",
+        "Arctique"
+      ],
+      "explanation": "Les Grecs situaient Atlas au-delà des colonnes d'Hercule ; l'océan s'élargit encore de quelques centimètres par an le long de sa dorsale.",
+      "wikipedia": "Océan Atlantique"
+    },
+    {
+      "id": "geographie-568",
+      "difficulty": 1,
+      "question": "Quel océan est le seul à porter le nom d'un pays ?",
+      "answer": "Indien",
+      "accept": [
+        "océan Indien"
+      ],
+      "choices": [
+        "Pacifique",
+        "Atlantique",
+        "Arctique"
+      ],
+      "explanation": "Il baigne l'Afrique de l'Est, l'Asie du Sud et l'Australie ; les marins arabes y pratiquaient le commerce grâce aux vents de la mousson.",
+      "wikipedia": "Océan Indien"
+    },
+    {
+      "id": "geographie-569",
+      "difficulty": 1,
+      "question": "Quelle mégalopole chinoise est célèbre pour son quai du Bund, bordé d'édifices coloniaux face aux gratte-ciel de Pudong ?",
+      "answer": "Shanghai",
+      "accept": [
+        "Shanghaï"
+      ],
+      "choices": [
+        "Hong Kong",
+        "Tianjin",
+        "Wuhan"
+      ],
+      "explanation": "Son nom signifie « sur la mer » ; au XIXe siècle, la ville comptait des concessions étrangères, dont une concession française.",
+      "wikipedia": "Shanghai"
+    },
+    {
+      "id": "geographie-570",
+      "difficulty": 2,
+      "question": "Quelle mer doit son nom au peuple amérindien qui occupait les Petites Antilles à l'arrivée de Colomb ?",
+      "answer": "mer des Caraïbes",
+      "accept": [
+        "Caraïbes",
+        "mer des Antilles"
+      ],
+      "choices": [
+        "mer des Sargasses",
+        "golfe du Mexique",
+        "mer de Corail"
+      ],
+      "explanation": "Les Caraïbes, ou Kalinagos, ont aussi donné au français le mot « cannibale », par déformation de leur nom par les Espagnols.",
+      "wikipedia": "Mer des Caraïbes"
+    },
+    {
+      "id": "geographie-571",
+      "difficulty": 3,
+      "question": "Comment appelle-t-on le lieu de l'océan le plus éloigné de toute terre émergée, dans le Pacifique Sud ?",
+      "answer": "point Nemo",
+      "accept": [
+        "pôle maritime d'inaccessibilité"
+      ],
+      "choices": [
+        "point Zéro",
+        "point Magellan",
+        "point Bounty"
+      ],
+      "explanation": "Son nom rend hommage au capitaine de Jules Verne ; les agences spatiales y font retomber leurs engins hors d'usage, d'où son surnom de cimetière de satellites.",
+      "wikipedia": "Point Nemo"
+    },
+    {
+      "id": "geographie-572",
+      "difficulty": 2,
+      "question": "Quel bras de mer, réputé pour ses tempêtes, sépare le cap Horn de l'Antarctique ?",
+      "answer": "passage de Drake",
+      "accept": [
+        "Drake"
+      ],
+      "choices": [
+        "détroit de Magellan",
+        "canal Beagle",
+        "mer de Weddell"
+      ],
+      "explanation": "Il porte le nom du corsaire anglais Francis Drake ; le courant circumpolaire antarctique s'y engouffre, créant des vagues redoutées des marins.",
+      "wikipedia": "Passage de Drake"
+    },
+    {
+      "id": "geographie-573",
+      "difficulty": 2,
+      "question": "Quel détroit d'Asie du Sud-Est, entre la péninsule malaise et Sumatra, est l'une des routes maritimes les plus fréquentées ?",
+      "answer": "Malacca",
+      "accept": [
+        "détroit de Malacca"
+      ],
+      "choices": [
+        "Sonde",
+        "Lombok",
+        "Makassar"
+      ],
+      "explanation": "Il doit son nom à la ville portuaire de Malacca, conquise par les Portugais en 1511 ; Singapour se trouve à son extrémité sud.",
+      "wikipedia": "Détroit de Malacca"
+    },
+    {
+      "id": "geographie-574",
+      "difficulty": 3,
+      "question": "Quel détroit parsemé d'îles sépare la pointe du cap York, en Australie, de la Nouvelle-Guinée ?",
+      "answer": "Torrès",
+      "accept": [
+        "Torres",
+        "détroit de Torrès"
+      ],
+      "choices": [
+        "Bass",
+        "Lombok",
+        "Timor"
+      ],
+      "explanation": "Il porte le nom de l'Espagnol Luis Váez de Torres, qui le franchit en 1606 ; ses insulaires mélanésiens forment l'un des deux peuples autochtones d'Australie.",
+      "wikipedia": "Détroit de Torrès"
+    },
+    {
+      "id": "geographie-575",
+      "difficulty": 3,
+      "question": "Quel détroit peu profond, parsemé de bancs de sable, sépare l'Inde du Sri Lanka ?",
+      "answer": "Palk",
+      "accept": [
+        "détroit de Palk"
+      ],
+      "choices": [
+        "Malacca",
+        "Mannar",
+        "Bab-el-Mandeb"
+      ],
+      "explanation": "Une chaîne de hauts-fonds, le pont d'Adam, le traverse ; selon le Ramayana, l'armée de Rama l'aurait bâtie pour rejoindre Lanka.",
+      "wikipedia": "Détroit de Palk"
+    },
+    {
+      "id": "geographie-576",
+      "difficulty": 1,
+      "question": "Quel explorateur norvégien atteignit le premier le pôle Sud, en décembre 1911 ?",
+      "answer": "Roald Amundsen",
+      "accept": [
+        "Amundsen"
+      ],
+      "choices": [
+        "Robert Scott",
+        "Ernest Shackleton",
+        "Fridtjof Nansen"
+      ],
+      "explanation": "Il devança de cinq semaines le Britannique Robert Falcon Scott, qui mourut avec ses compagnons sur le chemin du retour.",
+      "wikipedia": "Roald Amundsen"
+    },
+    {
+      "id": "geographie-577",
+      "difficulty": 2,
+      "question": "Quelle immense étendue d'eau subglaciaire de l'Antarctique, enfouie sous près de quatre kilomètres de glace, porte le nom d'une station russe ?",
+      "answer": "Vostok",
+      "accept": [
+        "lac Vostok"
+      ],
+      "choices": [
+        "Ellsworth",
+        "Concordia",
+        "Mirny"
+      ],
+      "explanation": "Isolée de l'atmosphère depuis des millions d'années, elle intéresse les biologistes ; la station Vostok détient le record de froid mesuré au sol.",
+      "wikipedia": "Lac Vostok"
+    },
+    {
+      "id": "geographie-578",
+      "difficulty": 2,
+      "question": "Quel territoire de la côte ouest de l'Inde fut une colonie portugaise jusqu'en 1961 ?",
+      "answer": "Goa",
+      "accept": [],
+      "choices": [
+        "Kerala",
+        "Pondichéry",
+        "Karnataka"
+      ],
+      "explanation": "Ses églises baroques abritent le tombeau de saint François Xavier ; ses plages en firent un haut lieu du mouvement hippie.",
+      "wikipedia": "Goa"
+    },
+    {
+      "id": "geographie-579",
+      "difficulty": 3,
+      "question": "Quel volcan de l'île de Ross est le volcan actif le plus austral du monde ?",
+      "answer": "Erebus",
+      "accept": [
+        "mont Erebus",
+        "Érèbe"
+      ],
+      "choices": [
+        "Terror",
+        "Vinson",
+        "Deception"
+      ],
+      "explanation": "Il porte le nom d'un navire de l'expédition de James Clark Ross, comme son voisin le mont Terror ; son cratère abrite un lac de lave persistant.",
+      "wikipedia": "Mont Erebus"
+    },
+    {
+      "id": "geographie-580",
+      "difficulty": 3,
+      "question": "Quel sommet de la chaîne Ellsworth est le point culminant du continent antarctique ?",
+      "answer": "Vinson",
+      "accept": [
+        "mont Vinson",
+        "massif Vinson"
+      ],
+      "choices": [
+        "Erebus",
+        "mont Kirkpatrick",
+        "mont Markham"
+      ],
+      "explanation": "Il ne fut gravi qu'en 1966 ; il fait partie des « Seven Summits », les plus hauts sommets de chaque continent recherchés par les alpinistes.",
+      "wikipedia": "Massif Vinson"
+    },
+    {
+      "id": "geographie-581",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la couche de glace formée par la congélation de l'eau de mer dans les régions polaires ?",
+      "answer": "banquise",
+      "accept": [],
+      "choices": [
+        "glacier",
+        "inlandsis",
+        "iceberg"
+      ],
+      "explanation": "Contrairement aux icebergs, détachés des glaciers et formés d'eau douce, la banquise naît de l'eau salée ; sa fonte ne fait pas monter le niveau des mers.",
+      "wikipedia": "Banquise"
+    },
+    {
+      "id": "geographie-582",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on l'immense calotte de glace continentale qui recouvre l'Antarctique ou le Groenland ?",
+      "answer": "inlandsis",
+      "accept": [],
+      "choices": [
+        "banquise",
+        "pergélisol",
+        "toundra"
+      ],
+      "explanation": "Le mot vient du danois et signifie « glace de l'intérieur des terres » ; la fonte totale de l'inlandsis antarctique élèverait les mers de plusieurs dizaines de mètres.",
+      "wikipedia": "Inlandsis"
+    },
+    {
+      "id": "geographie-583",
+      "difficulty": 2,
+      "question": "Quelle route maritime relie l'Atlantique au Pacifique en longeant l'archipel arctique canadien ?",
+      "answer": "passage du Nord-Ouest",
+      "accept": [
+        "Nord-Ouest"
+      ],
+      "choices": [
+        "passage du Nord-Est",
+        "route maritime du Nord",
+        "détroit de Davis"
+      ],
+      "explanation": "Amundsen fut le premier à le franchir entièrement, entre 1903 et 1906 ; la fonte de la banquise le rend de plus en plus navigable.",
+      "wikipedia": "Passage du Nord-Ouest"
+    },
+    {
+      "id": "geographie-584",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le phénomène estival où l'astre du jour reste visible en permanence au-delà du cercle polaire ?",
+      "answer": "soleil de minuit",
+      "accept": [
+        "jour polaire"
+      ],
+      "choices": [
+        "nuit polaire",
+        "aurore boréale",
+        "rayon vert"
+      ],
+      "explanation": "Il a pour pendant hivernal la nuit polaire ; au pôle Nord, le jour dure environ six mois, de l'équinoxe de mars à celui de septembre.",
+      "wikipedia": "Jour polaire"
+    },
+    {
+      "id": "geographie-585",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on, au Sahara, une vaste étendue de dunes de sable ?",
+      "answer": "erg",
+      "accept": [],
+      "choices": [
+        "reg",
+        "hamada",
+        "sebkha"
+      ],
+      "explanation": "Contrairement à une idée reçue, les ergs ne couvrent qu'une partie du Sahara ; le reste est fait de regs caillouteux et de plateaux rocheux.",
+      "wikipedia": "Erg (désert)"
+    },
+    {
+      "id": "geographie-586",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un lieu fertile du désert où l'eau permet la culture des palmiers dattiers ?",
+      "answer": "oasis",
+      "accept": [],
+      "choices": [
+        "savane",
+        "erg",
+        "chott"
+      ],
+      "explanation": "Le mot vient de l'égyptien ancien par le grec ; on y cultive souvent en étages : palmiers en haut, arbres fruitiers au milieu, légumes au sol.",
+      "wikipedia": "Oasis"
+    },
+    {
+      "id": "geographie-587",
+      "difficulty": 3,
+      "question": "Quel désert d'Amérique du Nord, entre l'Arizona et le Mexique, est le domaine du cactus géant saguaro ?",
+      "answer": "Sonora",
+      "accept": [
+        "désert de Sonora"
+      ],
+      "choices": [
+        "Mojave",
+        "Chihuahua",
+        "Grand Bassin"
+      ],
+      "explanation": "Le saguaro peut vivre plus de cent cinquante ans et ne fait ses premiers bras qu'après plusieurs décennies ; sa fleur est l'emblème de l'Arizona.",
+      "wikipedia": "Désert de Sonora"
+    },
+    {
+      "id": "geographie-588",
+      "difficulty": 1,
+      "question": "Quel continent est le seul à être traversé à la fois par l'équateur et par les deux tropiques ?",
+      "answer": "Afrique",
+      "accept": [],
+      "choices": [
+        "Amérique du Sud",
+        "Asie",
+        "Océanie"
+      ],
+      "explanation": "Le Sahara s'étend de part et d'autre du tropique du Cancer, tandis que le tropique du Capricorne traverse la Namibie, le Botswana et Madagascar.",
+      "wikipedia": "Afrique"
+    },
+    {
+      "id": "geographie-589",
+      "difficulty": 1,
+      "question": "Quelle est la monnaie officielle de la république populaire de Chine ?",
+      "answer": "yuan",
+      "accept": [
+        "renminbi"
+      ],
+      "choices": [
+        "won",
+        "baht",
+        "ringgit"
+      ],
+      "explanation": "Renminbi, « monnaie du peuple », est le nom officiel de la devise, dont le yuan est l'unité ; il se divise en dix jiao.",
+      "wikipedia": "Yuan"
+    },
+    {
+      "id": "geographie-590",
+      "difficulty": 1,
+      "question": "Quelle monnaie, dont le nom vient d'un mot sanskrit lié à l'argent, est utilisée en Inde ?",
+      "answer": "roupie",
+      "accept": [
+        "roupie indienne"
+      ],
+      "choices": [
+        "taka",
+        "rial",
+        "baht"
+      ],
+      "explanation": "Le symbole ₹ de la roupie indienne, adopté en 2010, mêle une lettre devanagari et le R latin ; le Pakistan et le Népal ont aussi leurs roupies.",
+      "wikipedia": "Roupie indienne"
+    },
+    {
+      "id": "geographie-591",
+      "difficulty": 2,
+      "question": "Quelle monnaie sud-africaine tire son nom d'une crête aurifère proche de Johannesburg ?",
+      "answer": "rand",
+      "accept": [],
+      "choices": [
+        "kwacha",
+        "pula",
+        "shilling"
+      ],
+      "explanation": "Le Witwatersrand, « crête des eaux blanches », a fourni une grande partie de l'or extrait dans le monde ; la pièce d'or Krugerrand lui doit aussi son nom.",
+      "wikipedia": "Rand (monnaie)"
+    },
+    {
+      "id": "geographie-592",
+      "difficulty": 1,
+      "question": "Quelle est la monnaie officielle du Mexique, dont le nom signifie « poids » en espagnol ?",
+      "answer": "peso",
+      "accept": [
+        "peso mexicain"
+      ],
+      "choices": [
+        "réal",
+        "sol",
+        "colón"
+      ],
+      "explanation": "Le peso mexicain descend de la piastre espagnole, les fameuses pièces de huit réaux qui circulèrent dans le monde entier.",
+      "wikipedia": "Peso mexicain"
+    },
+    {
+      "id": "geographie-593",
+      "difficulty": 2,
+      "question": "Comment appelle-t-on les habitants de Buenos Aires, la capitale argentine ?",
+      "answer": "Porteños",
+      "accept": [
+        "porteño",
+        "porteña",
+        "porteñas"
+      ],
+      "choices": [
+        "Gauchos",
+        "Pampeanos",
+        "Rioplatenses"
+      ],
+      "explanation": "Le surnom vient du port de la ville, sur le Río de la Plata ; il rappelle que Buenos Aires s'est développée tournée vers l'Atlantique et l'Europe.",
+      "wikipedia": "Buenos Aires"
+    },
+    {
+      "id": "geographie-594",
+      "difficulty": 2,
+      "question": "Quelle monnaie a cours au Maroc comme aux Émirats arabes unis ?",
+      "answer": "dirham",
+      "accept": [],
+      "choices": [
+        "dinar",
+        "riyal",
+        "livre"
+      ],
+      "explanation": "Son nom dérive de la drachme grecque ; le dinar, utilisé en Algérie et en Tunisie, vient quant à lui du denier romain.",
+      "wikipedia": "Dirham marocain"
+    },
+    {
+      "id": "geographie-595",
+      "difficulty": 2,
+      "question": "Quelle monnaie d'Israël porte le nom d'une ancienne unité de poids citée dans la Bible ?",
+      "answer": "shekel",
+      "accept": [
+        "sheqel",
+        "shéqel",
+        "nouveau shekel"
+      ],
+      "choices": [
+        "dinar",
+        "rial",
+        "drachme"
+      ],
+      "explanation": "Le shekel était à l'origine une unité de poids pour l'orge puis pour l'argent ; le nouveau shekel a remplacé l'ancien en 1985.",
+      "wikipedia": "Shekel"
+    },
+    {
+      "id": "geographie-596",
+      "difficulty": 2,
+      "question": "Quelle monnaie du Guatemala porte le nom d'un oiseau sacré aux longues plumes vertes ?",
+      "answer": "quetzal",
+      "accept": [],
+      "choices": [
+        "colón",
+        "lempira",
+        "córdoba"
+      ],
+      "explanation": "Le quetzal resplendissant, emblème national, figure aussi sur le drapeau ; les Mayas utilisaient ses plumes comme objet de prestige.",
+      "wikipedia": "Quetzal (monnaie)"
+    },
+    {
+      "id": "geographie-597",
+      "difficulty": 3,
+      "question": "Quelle monnaie du Pérou porte le nom de l'astre vénéré par les Incas ?",
+      "answer": "sol",
+      "accept": [],
+      "choices": [
+        "peso",
+        "réal",
+        "colón"
+      ],
+      "explanation": "Il a remplacé en 1991 l'inti, dont le nom quechua désignait déjà le Soleil ; sol est aussi le nom d'une ancienne monnaie péruvienne.",
+      "wikipedia": "Sol (monnaie du Pérou)"
+    },
+    {
+      "id": "geographie-598",
+      "difficulty": 3,
+      "question": "Quelle monnaie du Costa Rica porte le nom espagnol de Christophe Colomb ?",
+      "answer": "colón",
+      "accept": [
+        "colon"
+      ],
+      "choices": [
+        "balboa",
+        "córdoba",
+        "lempira"
+      ],
+      "explanation": "Le Salvador utilisait aussi un colón avant d'adopter le dollar américain ; au Panama, le balboa honore l'explorateur qui atteignit le Pacifique.",
+      "wikipedia": "Colón costaricien"
+    },
+    {
+      "id": "geographie-599",
+      "difficulty": 3,
+      "question": "Quelle monnaie malaisienne doit son nom à un mot signifiant « dentelé » ?",
+      "answer": "ringgit",
+      "accept": [],
+      "choices": [
+        "rupiah",
+        "baht",
+        "kip"
+      ],
+      "explanation": "Le mot évoquait les bords crénelés des pièces d'argent espagnoles qui circulaient autrefois dans la région ; il se divise en cent sen.",
+      "wikipedia": "Ringgit"
+    },
+    {
+      "id": "geographie-600",
+      "difficulty": 3,
+      "question": "Quelle monnaie de l'Indonésie porte un nom apparenté à celui de la monnaie indienne ?",
+      "answer": "rupiah",
+      "accept": [
+        "roupie indonésienne"
+      ],
+      "choices": [
+        "ringgit",
+        "baht",
+        "dong"
+      ],
+      "explanation": "Comme celui de la roupie indienne, son nom dérive du sanskrit ; les billets indonésiens portent des valeurs très élevées, jusqu'à cent mille roupies.",
+      "wikipedia": "Roupie indonésienne"
+    }
+  ]
+}
