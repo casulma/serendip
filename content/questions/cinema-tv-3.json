@@ -1854,6 +1854,23 @@
       ],
       "explanation": "Sous sa forme humaine, il se nomme Ganondorf ; il détient la Triforce de la Force, tandis que Zelda possède celle de la Sagesse et Link celle du Courage.",
       "wikipedia": "Ganon"
+    },
+    {
+      "id": "cinema-tv-400",
+      "difficulty": 3,
+      "question": "Quel ingénieur d'Atari a conçu le jeu « Pong », que Nolan Bushnell lui avait demandé comme simple exercice d'entraînement ?",
+      "answer": "Allan Alcorn",
+      "accept": [
+        "Al Alcorn",
+        "Alcorn"
+      ],
+      "choices": [
+        "Ralph Baer",
+        "Steve Wozniak",
+        "Ted Dabney"
+      ],
+      "explanation": "Une version similaire du tennis électronique avait déjà été créée par Ralph Baer pour la console Magnavox Odyssey, ce qui valut à Atari un procès.",
+      "wikipedia": "Pong"
     }
   ]
 }
