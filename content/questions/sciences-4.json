@@ -1,0 +1,105 @@
+{
+  "category": "sciences",
+  "questions": [
+    {
+      "id": "sciences-551",
+      "difficulty": 1,
+      "question": "Quelle planète, très brillante au crépuscule ou à l'aube, est surnommée l'étoile du Berger ?",
+      "answer": "Vénus",
+      "accept": ["Venus"],
+      "choices": ["Mars", "Jupiter", "Mercure"],
+      "explanation": "Planète plus proche du Soleil que la Terre, elle ne s'en éloigne jamais beaucoup dans le ciel : elle est tour à tour étoile du soir, puis étoile du matin.",
+      "wikipedia": "Vénus (planète)"
+    },
+    {
+      "id": "sciences-552",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la phase où la Lune, opposée au Soleil, nous montre un disque entièrement éclairé ?",
+      "answer": "pleine lune",
+      "accept": ["la pleine lune"],
+      "choices": ["nouvelle lune", "premier quartier", "dernier quartier"],
+      "explanation": "Un cycle complet des phases, appelé lunaison, dure environ 29,5 jours ; il sert de base aux calendriers lunaires.",
+      "wikipedia": "Phase de la Lune"
+    },
+    {
+      "id": "sciences-553",
+      "difficulty": 1,
+      "question": "Quel appareil du tableau électrique coupe le courant en cas de surcharge et se réarme d'un simple geste ?",
+      "answer": "disjoncteur",
+      "accept": ["un disjoncteur", "disjoncteur différentiel"],
+      "choices": ["compteur", "interrupteur", "transformateur"],
+      "explanation": "Il remplit le même rôle que le fusible, qu'il fallait remplacer après chaque coupure ; la version dite différentielle détecte aussi les fuites de courant vers la terre.",
+      "wikipedia": "Disjoncteur"
+    },
+    {
+      "id": "sciences-554",
+      "difficulty": 1,
+      "question": "Quel petit support de stockage amovible, apparu dans les années 2000, se branche directement sur un port d'ordinateur ?",
+      "answer": "clé USB",
+      "accept": ["cle USB", "clef USB", "USB"],
+      "choices": ["disquette", "carte SIM", "CD-ROM"],
+      "explanation": "Elle contient une mémoire flash et presque aucune pièce mécanique, ce qui la rend très résistante aux chocs, contrairement aux anciens disques durs.",
+      "wikipedia": "Clé USB"
+    },
+    {
+      "id": "sciences-555",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on familièrement les premières dents de l'enfant, qui commencent à tomber vers six ans ?",
+      "answer": "dents de lait",
+      "accept": ["dent de lait", "les dents de lait"],
+      "choices": ["dents de sagesse", "molaires", "canines"],
+      "explanation": "Un enfant en possède vingt : huit incisives, quatre canines et huit molaires. Les médecins les appellent dents déciduales, c'est-à-dire destinées à tomber.",
+      "wikipedia": "Dent déciduale"
+    },
+    {
+      "id": "sciences-556",
+      "difficulty": 1,
+      "question": "Quel nom désigne la connexion sans fil à Internet que diffuse la box dans toute la maison ?",
+      "answer": "Wi-Fi",
+      "accept": ["wifi", "wi fi"],
+      "choices": ["Bluetooth", "4G", "ADSL"],
+      "explanation": "Le nom évoque « Wireless Fidelity », par analogie avec la hi-fi, mais selon un fondateur de la Wi-Fi Alliance, ce terme de marque n'a jamais eu de réelle signification.",
+      "wikipedia": "Wi-Fi"
+    },
+    {
+      "id": "sciences-557",
+      "difficulty": 1,
+      "question": "Quelle poudre blanche du placard, qui mousse au contact du vinaigre, entre dans la composition de la levure chimique ?",
+      "answer": "bicarbonate de soude",
+      "accept": ["bicarbonate", "bicarbonate de sodium"],
+      "choices": ["sucre glace", "fécule", "sel fin"],
+      "explanation": "Chauffé, il libère du dioxyde de carbone dont les bulles font gonfler les gâteaux ; la mousse avec le vinaigre vient du même gaz.",
+      "wikipedia": "Bicarbonate de sodium"
+    },
+    {
+      "id": "sciences-558",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la contraction involontaire et douloureuse d'un muscle, qui frappe souvent le mollet pendant la nuit ?",
+      "answer": "crampe",
+      "accept": ["une crampe", "crampes"],
+      "choices": ["courbature", "entorse", "tendinite"],
+      "explanation": "Pour la soulager, on étire le muscle : en cas de crampe au mollet, on tire doucement le gros orteil vers soi pour un soulagement presque immédiat.",
+      "wikipedia": "Crampe"
+    },
+    {
+      "id": "sciences-559",
+      "difficulty": 1,
+      "question": "Quel examen médical utilisant les rayons X permet de voir une fracture sur une image des os ?",
+      "answer": "radiographie",
+      "accept": ["radio", "une radio"],
+      "choices": ["échographie", "prise de sang", "électrocardiogramme"],
+      "explanation": "La toute première radiographie de l'histoire, en 1895, montrait la main de l'épouse de Wilhelm Röntgen, Anna Bertha : les os y apparaissent nettement.",
+      "wikipedia": "Radiographie"
+    },
+    {
+      "id": "sciences-560",
+      "difficulty": 1,
+      "question": "Quel produit les services des routes répandent-ils sur la chaussée en hiver pour empêcher la formation du verglas ?",
+      "answer": "sel",
+      "accept": ["du sel", "sel de déneigement", "chlorure de sodium"],
+      "choices": ["sable", "gravier", "sucre"],
+      "explanation": "Ce sel est du chlorure de sodium, comme le sel de table, mais en grains différents ; dilué dans l'eau, il forme une saumure qui agit plus vite.",
+      "wikipedia": "Salage (route)"
+    }
+  ]
+}
