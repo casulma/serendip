@@ -1,0 +1,1555 @@
+{
+  "category": "geographie",
+  "questions": [
+    {
+      "id": "geographie-701",
+      "difficulty": 1,
+      "question": "Quelle mégapole, capitale du Japon, a accueilli les Jeux olympiques d'été en 1964 puis en 2021 ?",
+      "answer": "Tokyo",
+      "accept": [
+        "Tokio"
+      ],
+      "choices": [
+        "Kyoto",
+        "Osaka",
+        "Séoul"
+      ],
+      "explanation": "Prévus en 2020, les Jeux ont finalement été repoussés à 2021 ; la ville a pour fleur emblème celle du cerisier, le sakura.",
+      "wikipedia": "Tokyo"
+    },
+    {
+      "id": "geographie-702",
+      "difficulty": 1,
+      "question": "Quelle ville au bord du Nil, toute proche des pyramides de Gizeh, est la capitale de l'Égypte ?",
+      "answer": "Le Caire",
+      "accept": [
+        "Caire"
+      ],
+      "choices": [
+        "Alexandrie",
+        "Louxor",
+        "Assouan"
+      ],
+      "explanation": "Son nom arabe, al-Qahira, signifie « la Victorieuse » ; la ville fut fondée au Xe siècle par la dynastie des Fatimides.",
+      "wikipedia": "Le Caire"
+    },
+    {
+      "id": "geographie-703",
+      "difficulty": 1,
+      "question": "Quelle capitale sud-américaine, au bord du Río de la Plata, est réputée dans le monde entier pour son tango ?",
+      "answer": "Buenos Aires",
+      "accept": [],
+      "choices": [
+        "Montevideo",
+        "Santiago",
+        "Lima"
+      ],
+      "explanation": "La ville compte de nombreuses écoles de danse de tango, et c'est aussi la mégapole qui possède le plus de théâtres au monde.",
+      "wikipedia": "Buenos Aires"
+    },
+    {
+      "id": "geographie-704",
+      "difficulty": 1,
+      "question": "Dans quelle ville se trouvent la Maison-Blanche, résidence du président américain, et le Capitole ?",
+      "answer": "Washington",
+      "accept": [
+        "Washington DC",
+        "Washington D.C."
+      ],
+      "choices": [
+        "New York",
+        "Philadelphie",
+        "Chicago"
+      ],
+      "explanation": "Nommée en hommage à George Washington, la ville a été construite de toutes pièces selon un plan en damier du Français Pierre Charles L'Enfant.",
+      "wikipedia": "Washington (district de Columbia)"
+    },
+    {
+      "id": "geographie-705",
+      "difficulty": 1,
+      "question": "Quelle ville, bâtie sur un ancien lac à plus de 2 000 mètres d'altitude, est la capitale du Mexique ?",
+      "answer": "Mexico",
+      "accept": [
+        "Mexico City",
+        "Ciudad de México"
+      ],
+      "choices": [
+        "Guadalajara",
+        "Acapulco",
+        "Cancún"
+      ],
+      "explanation": "Construite sur le lac Texcoco asséché, la ville s'enfonce lentement, de plusieurs centimètres par an par endroits, à cause du pompage de sa nappe phréatique.",
+      "wikipedia": "Mexico"
+    },
+    {
+      "id": "geographie-706",
+      "difficulty": 1,
+      "question": "Quelle ville, voulue par les Britanniques à la place de Calcutta, est la capitale de l'Inde ?",
+      "answer": "New Delhi",
+      "accept": [
+        "Delhi",
+        "New-Delhi",
+        "Nouvelle-Delhi"
+      ],
+      "choices": [
+        "Bombay",
+        "Madras",
+        "Bangalore"
+      ],
+      "explanation": "Dessinée par l'architecte Edwin Lutyens, la ville nouvelle fut inaugurée en 1931 au sud de la vieille Delhi, ancienne capitale des empereurs moghols.",
+      "wikipedia": "New Delhi"
+    },
+    {
+      "id": "geographie-707",
+      "difficulty": 1,
+      "question": "Quelle capitale du Maghreb, toute proche des ruines de Carthage, a donné son nom à son pays ?",
+      "answer": "Tunis",
+      "accept": [],
+      "choices": [
+        "Alger",
+        "Rabat",
+        "Tripoli"
+      ],
+      "explanation": "Son cœur historique, la médina, qui abrite la grande mosquée Zitouna, est inscrit au patrimoine mondial de l'Unesco.",
+      "wikipedia": "Tunis"
+    },
+    {
+      "id": "geographie-708",
+      "difficulty": 1,
+      "question": "Quelle ville est la capitale de la Corée du Sud, qui a accueilli les Jeux olympiques d'été de 1988 ?",
+      "answer": "Séoul",
+      "accept": [
+        "Seoul"
+      ],
+      "choices": [
+        "Pyongyang",
+        "Busan",
+        "Pékin"
+      ],
+      "explanation": "La ville n'est qu'à environ 45 kilomètres de la zone démilitarisée qui marque la frontière avec la Corée du Nord.",
+      "wikipedia": "Séoul"
+    },
+    {
+      "id": "geographie-709",
+      "difficulty": 1,
+      "question": "Quelle ville, célèbre pour ses vieilles voitures américaines et son front de mer, le Malecón, est la capitale de Cuba ?",
+      "answer": "La Havane",
+      "accept": [
+        "Havane"
+      ],
+      "choices": [
+        "Santiago de Cuba",
+        "Saint-Domingue",
+        "Kingston"
+      ],
+      "explanation": "La première fabrique de cigares de la ville ouvrit en 1779 ; ses cigares, les havanes, ont fait sa renommée dans le monde entier.",
+      "wikipedia": "La Havane"
+    },
+    {
+      "id": "geographie-710",
+      "difficulty": 1,
+      "question": "Quelle ville méditerranéenne, dont le port fut dévasté par une gigantesque explosion en août 2020, est la capitale du Liban ?",
+      "answer": "Beyrouth",
+      "accept": [],
+      "choices": [
+        "Damas",
+        "Amman",
+        "Bagdad"
+      ],
+      "explanation": "D'abord petit port phénicien appelé Béryte, moins puissant que Tyr, Byblos ou Sidon, la ville a pris de l'importance sous l'Empire romain.",
+      "wikipedia": "Beyrouth"
+    },
+    {
+      "id": "geographie-711",
+      "difficulty": 1,
+      "question": "Quelle ville, au pied des monts Elbourz, est la capitale de l'Iran ?",
+      "answer": "Téhéran",
+      "accept": [
+        "Teheran",
+        "Tehran"
+      ],
+      "choices": [
+        "Ispahan",
+        "Bagdad",
+        "Kaboul"
+      ],
+      "explanation": "Téhéran n'est devenue capitale qu'en 1786, à la suite d'un changement de dynastie ; sa population a depuis été multipliée par quarante.",
+      "wikipedia": "Téhéran"
+    },
+    {
+      "id": "geographie-712",
+      "difficulty": 1,
+      "question": "Quelle ville du nord, traversée par le fleuve Rouge, est la capitale du Viêt Nam ?",
+      "answer": "Hanoï",
+      "accept": [
+        "Hanoi"
+      ],
+      "choices": [
+        "Saïgon",
+        "Hué",
+        "Phnom Penh"
+      ],
+      "explanation": "Son nom signifie « la ville entre les fleuves » ; elle fut la capitale de l'Indochine française de 1902 à 1954.",
+      "wikipedia": "Hanoï"
+    },
+    {
+      "id": "geographie-713",
+      "difficulty": 1,
+      "question": "Quel pays, à cheval sur l'Europe et l'Asie, est le plus vaste du monde ?",
+      "answer": "Russie",
+      "accept": [],
+      "choices": [
+        "Canada",
+        "Chine",
+        "États-Unis"
+      ],
+      "explanation": "La Russie couvre onze fuseaux horaires, de l'exclave de Kaliningrad, sur la Baltique, jusqu'au détroit de Béring.",
+      "wikipedia": "Russie"
+    },
+    {
+      "id": "geographie-714",
+      "difficulty": 1,
+      "question": "Quel pays, de loin le plus vaste d'Amérique du Sud, a accueilli la Coupe du monde de football en 2014 ?",
+      "answer": "Brésil",
+      "accept": [],
+      "choices": [
+        "Argentine",
+        "Colombie",
+        "Pérou"
+      ],
+      "explanation": "Le Brésil occupe près de la moitié du continent et partage une frontière avec tous les pays d'Amérique du Sud, sauf le Chili et l'Équateur.",
+      "wikipedia": "Brésil"
+    },
+    {
+      "id": "geographie-715",
+      "difficulty": 1,
+      "question": "Quel immense pays d'Amérique du Nord, deuxième plus vaste du monde, compte parmi ses provinces le Québec et l'Ontario ?",
+      "answer": "Canada",
+      "accept": [],
+      "choices": [
+        "États-Unis",
+        "Mexique",
+        "Alaska"
+      ],
+      "explanation": "Son nom viendrait du mot iroquoien « kanata », qui signifie « village », entendu par Jacques Cartier lors de son voyage de 1535.",
+      "wikipedia": "Canada"
+    },
+    {
+      "id": "geographie-716",
+      "difficulty": 1,
+      "question": "Quel pays d'Amérique du Sud, long et très étroit, s'étire entre la cordillère des Andes et l'océan Pacifique ?",
+      "answer": "Chili",
+      "accept": [],
+      "choices": [
+        "Pérou",
+        "Argentine",
+        "Équateur"
+      ],
+      "explanation": "Le pays s'étire sur 4 300 kilomètres en une étroite bande de terre, du désert d'Atacama au nord jusqu'au cap Horn au sud.",
+      "wikipedia": "Chili"
+    },
+    {
+      "id": "geographie-717",
+      "difficulty": 1,
+      "question": "Dans quel pays d'Amérique du Sud sont nés le footballeur Lionel Messi et le pape François ?",
+      "answer": "Argentine",
+      "accept": [],
+      "choices": [
+        "Brésil",
+        "Uruguay",
+        "Chili"
+      ],
+      "explanation": "Élu en 2013, l'Argentin Jorge Mario Bergoglio, devenu le pape François, fut le premier pape issu du continent américain.",
+      "wikipedia": "Argentine"
+    },
+    {
+      "id": "geographie-718",
+      "difficulty": 1,
+      "question": "Quel pays, voisin méridional des États-Unis, porte sur son drapeau un aigle dévorant un serpent ?",
+      "answer": "Mexique",
+      "accept": [],
+      "choices": [
+        "Colombie",
+        "Pérou",
+        "Guatemala"
+      ],
+      "explanation": "Selon la légende, les Aztèques fondèrent Tenochtitlan, sur le site de l'actuelle Mexico, là où ils virent cet aigle perché sur un cactus.",
+      "wikipedia": "Drapeau du Mexique"
+    },
+    {
+      "id": "geographie-719",
+      "difficulty": 1,
+      "question": "De quel pays d'Afrique de l'Ouest la ville de Dakar est-elle la capitale ?",
+      "answer": "Sénégal",
+      "accept": [
+        "Senegal"
+      ],
+      "choices": [
+        "Mali",
+        "Côte d'Ivoire",
+        "Guinée"
+      ],
+      "explanation": "Le pays entoure presque entièrement la Gambie, petit État étiré le long du fleuve du même nom, jusqu'à son embouchure.",
+      "wikipedia": "Sénégal"
+    },
+    {
+      "id": "geographie-720",
+      "difficulty": 1,
+      "question": "Quel pays d'Asie du Sud-Est, qui comprend notamment Java et Sumatra, est le plus vaste archipel du monde ?",
+      "answer": "Indonésie",
+      "accept": [
+        "Indonesie"
+      ],
+      "choices": [
+        "Philippines",
+        "Malaisie",
+        "Japon"
+      ],
+      "explanation": "Le pays compte plus de 17 000 îles et c'est aussi le pays qui abrite le plus grand nombre de musulmans au monde.",
+      "wikipedia": "Indonésie"
+    },
+    {
+      "id": "geographie-721",
+      "difficulty": 1,
+      "question": "Quel pays a pour drapeau la « bannière étoilée », avec ses treize bandes rouges et blanches ?",
+      "answer": "États-Unis",
+      "accept": [
+        "Etats-Unis",
+        "USA",
+        "États-Unis d'Amérique"
+      ],
+      "choices": [
+        "Liberia",
+        "Royaume-Uni",
+        "Australie"
+      ],
+      "explanation": "Les treize bandes rappellent les treize colonies fondatrices ; chacune des cinquante étoiles représente l'un des États de l'Union.",
+      "wikipedia": "Drapeau des États-Unis"
+    },
+    {
+      "id": "geographie-722",
+      "difficulty": 1,
+      "question": "Quel pays l'historien grec Hérodote a-t-il décrit comme un « don du Nil » ?",
+      "answer": "Égypte",
+      "accept": [
+        "Egypte"
+      ],
+      "choices": [
+        "Soudan",
+        "Éthiopie",
+        "Libye"
+      ],
+      "explanation": "Lors de la crue annuelle, de juin à septembre, le fleuve déposait sur ses rives un limon fertile, sans lequel l'agriculture aurait été impossible.",
+      "wikipedia": "Égypte antique"
+    },
+    {
+      "id": "geographie-723",
+      "difficulty": 1,
+      "question": "Quel pays, surnommé « la nation arc-en-ciel » par Desmond Tutu, a pour villes Le Cap et Johannesbourg ?",
+      "answer": "Afrique du Sud",
+      "accept": [],
+      "choices": [
+        "Namibie",
+        "Zimbabwe",
+        "Botswana"
+      ],
+      "explanation": "Le pays a trois capitales : Pretoria pour le gouvernement, Le Cap pour le Parlement et Bloemfontein pour la justice.",
+      "wikipedia": "Afrique du Sud"
+    },
+    {
+      "id": "geographie-724",
+      "difficulty": 1,
+      "question": "Quelle grande ville portuaire, traversée par la lagune Ébrié, est la capitale économique de la Côte d'Ivoire ?",
+      "answer": "Abidjan",
+      "accept": [],
+      "choices": [
+        "Yamoussoukro",
+        "Dakar",
+        "Bouaké"
+      ],
+      "explanation": "Elle fut la capitale du pays jusqu'en 1983, date du transfert officiel à Yamoussoukro, mais reste le siège de la plupart des institutions.",
+      "wikipedia": "Abidjan"
+    },
+    {
+      "id": "geographie-725",
+      "difficulty": 1,
+      "question": "Quel pays d'Asie du Sud-Est, qui a Bangkok pour capitale, n'a jamais été colonisé par les puissances européennes ?",
+      "answer": "Thaïlande",
+      "accept": [
+        "Thailande"
+      ],
+      "choices": [
+        "Viêt Nam",
+        "Cambodge",
+        "Laos"
+      ],
+      "explanation": "Sa langue officielle est le thaï et sa monnaie le baht ; le royaume s'est appelé Siam jusqu'en 1939.",
+      "wikipedia": "Thaïlande"
+    },
+    {
+      "id": "geographie-726",
+      "difficulty": 1,
+      "question": "Quel pays himalayen, qui a pour capitale Katmandou, partage le mont Everest avec la Chine ?",
+      "answer": "Népal",
+      "accept": [
+        "Nepal"
+      ],
+      "choices": [
+        "Bhoutan",
+        "Tibet",
+        "Inde"
+      ],
+      "explanation": "Le pays possède huit des dix plus hautes montagnes du monde ; en népalais, l'Everest s'appelle Sagarmatha.",
+      "wikipedia": "Népal"
+    },
+    {
+      "id": "geographie-727",
+      "difficulty": 1,
+      "question": "Quel pays d'Asie, séparé de son voisin du Sud par une zone démilitarisée, a pour capitale Pyongyang ?",
+      "answer": "Corée du Nord",
+      "accept": [
+        "RPDC"
+      ],
+      "choices": [
+        "Corée du Sud",
+        "Mongolie",
+        "Viêt Nam"
+      ],
+      "explanation": "La division de la péninsule remonte à 1945, quand Soviétiques et Américains se la partagèrent après la capitulation du Japon.",
+      "wikipedia": "Corée du Nord"
+    },
+    {
+      "id": "geographie-728",
+      "difficulty": 1,
+      "question": "Quel continent, le plus vaste et le plus peuplé, rassemble la Chine, l'Inde et le Japon ?",
+      "answer": "Asie",
+      "accept": [],
+      "choices": [
+        "Afrique",
+        "Amérique",
+        "Europe"
+      ],
+      "explanation": "L'Asie couvre près de 30 % des terres émergées et rassemble environ 60 % de la population mondiale.",
+      "wikipedia": "Asie"
+    },
+    {
+      "id": "geographie-729",
+      "difficulty": 1,
+      "question": "Quel continent glacé, sans habitants permanents, entoure le pôle Sud ?",
+      "answer": "Antarctique",
+      "accept": [
+        "Antarctide"
+      ],
+      "choices": [
+        "Arctique",
+        "Océanie",
+        "Groenland"
+      ],
+      "explanation": "Le traité sur l'Antarctique, signé en 1959, y interdit toute activité militaire et réserve le continent à la recherche scientifique.",
+      "wikipedia": "Antarctique"
+    },
+    {
+      "id": "geographie-730",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le continent qui regroupe l'Australie, la Nouvelle-Zélande et les îles du Pacifique ?",
+      "answer": "Océanie",
+      "accept": [
+        "Oceanie"
+      ],
+      "choices": [
+        "Polynésie",
+        "Australasie",
+        "Asie"
+      ],
+      "explanation": "Le géographe Conrad Malte-Brun a nommé « Océanie » ces terres que l'océan Pacifique entoure de toutes parts.",
+      "wikipedia": "Océanie"
+    },
+    {
+      "id": "geographie-731",
+      "difficulty": 1,
+      "question": "Quel continent est surnommé « le berceau de l'humanité », car les premiers humains y sont apparus ?",
+      "answer": "Afrique",
+      "accept": [],
+      "choices": [
+        "Asie",
+        "Europe",
+        "Amérique"
+      ],
+      "explanation": "Les ancêtres de l'Homme y sont apparus, puis l'homme moderne, il y a environ 200 000 ans, avant de se répandre sur les autres continents.",
+      "wikipedia": "Afrique"
+    },
+    {
+      "id": "geographie-732",
+      "difficulty": 1,
+      "question": "Quel océan, en grande partie couvert de banquise, entoure le pôle Nord ?",
+      "answer": "Arctique",
+      "accept": [
+        "océan Arctique",
+        "glacial Arctique"
+      ],
+      "choices": [
+        "Antarctique",
+        "Atlantique",
+        "Pacifique"
+      ],
+      "explanation": "Il borde trois continents, l'Amérique du Nord, l'Asie et l'Europe ; la banquise qui le recouvre varie fortement selon les saisons.",
+      "wikipedia": "Océan Arctique"
+    },
+    {
+      "id": "geographie-733",
+      "difficulty": 1,
+      "question": "Quel océan baigne à la fois Madagascar, les Maldives et les côtes de l'Inde ?",
+      "answer": "Indien",
+      "accept": [
+        "océan Indien"
+      ],
+      "choices": [
+        "Pacifique",
+        "Atlantique",
+        "Austral"
+      ],
+      "explanation": "C'est le plus chaud des océans : sa chaleur génère de nombreuses tempêtes tropicales pendant les mois d'été.",
+      "wikipedia": "Océan Indien"
+    },
+    {
+      "id": "geographie-734",
+      "difficulty": 1,
+      "question": "Quelle étendue d'eau étroite sépare l'Afrique de la péninsule Arabique et communique avec la Méditerranée par le canal de Suez ?",
+      "answer": "mer Rouge",
+      "accept": [
+        "Rouge"
+      ],
+      "choices": [
+        "mer Morte",
+        "mer Noire",
+        "golfe Persique"
+      ],
+      "explanation": "Elle est bordée par l'Égypte, le Soudan, l'Érythrée, Djibouti, le Yémen et l'Arabie saoudite ; Hurghada et Charm el-Cheikh comptent parmi ses villes les plus connues.",
+      "wikipedia": "Mer Rouge"
+    },
+    {
+      "id": "geographie-735",
+      "difficulty": 1,
+      "question": "Quelle vaste étendue d'eau, bordée par le Texas, la Floride et le Yucatán, reçoit les eaux du Mississippi ?",
+      "answer": "golfe du Mexique",
+      "accept": [],
+      "choices": [
+        "mer des Caraïbes",
+        "baie d'Hudson",
+        "golfe Persique"
+      ],
+      "explanation": "Ses eaux chaudes peuvent alimenter de puissants ouragans, comme Katrina et Rita, qui ont frappé ses côtes en 2005.",
+      "wikipedia": "Golfe du Mexique"
+    },
+    {
+      "id": "geographie-736",
+      "difficulty": 1,
+      "question": "Quel continent les Européens ont-ils surnommé le « Nouveau Monde » après les voyages de Christophe Colomb ?",
+      "answer": "Amérique",
+      "accept": [
+        "Amériques"
+      ],
+      "choices": [
+        "Océanie",
+        "Afrique",
+        "Asie"
+      ],
+      "explanation": "Croyant avoir trouvé la route des Indes en 1492, Colomb appela « Indiens » les peuples qu'il rencontra, d'où l'expression « Indiens d'Amérique ».",
+      "wikipedia": "Amérique"
+    },
+    {
+      "id": "geographie-737",
+      "difficulty": 1,
+      "question": "Quelle étendue marine, riche en pétrole, sépare l'Iran de la péninsule Arabique et borde le Koweït et le Qatar ?",
+      "answer": "golfe Persique",
+      "accept": [
+        "golfe Arabo-Persique",
+        "golfe Arabique"
+      ],
+      "choices": [
+        "mer Rouge",
+        "golfe d'Aden",
+        "mer Caspienne"
+      ],
+      "explanation": "Les pays arabes préfèrent l'appeler « golfe Arabique », et certains États emploient « golfe arabo-persique » comme compromis diplomatique.",
+      "wikipedia": "Golfe Persique"
+    },
+    {
+      "id": "geographie-738",
+      "difficulty": 1,
+      "question": "Quel océan sépare l'Asie et l'Océanie de l'Amérique, baignant à la fois la Californie et le Japon ?",
+      "answer": "Pacifique",
+      "accept": [
+        "océan Pacifique"
+      ],
+      "choices": [
+        "Atlantique",
+        "Indien",
+        "Arctique"
+      ],
+      "explanation": "Il couvre environ un tiers de la surface de la Terre, soit plus de 20 millions de km² de plus que la planète Mars tout entière.",
+      "wikipedia": "Océan Pacifique"
+    },
+    {
+      "id": "geographie-739",
+      "difficulty": 1,
+      "question": "Quel grand fleuve d'Amérique du Sud doit son nom aux femmes guerrières de la mythologie grecque ?",
+      "answer": "Amazone",
+      "accept": [],
+      "choices": [
+        "Orénoque",
+        "Paraná",
+        "Mississippi"
+      ],
+      "explanation": "Selon le chroniqueur Gaspar de Carvajal, l'explorateur Francisco de Orellana fut attaqué sur le fleuve en 1541 par une tribu de femmes guerrières.",
+      "wikipedia": "Amazone (fleuve)"
+    },
+    {
+      "id": "geographie-740",
+      "difficulty": 1,
+      "question": "Quel fleuve, appelé Río Bravo par les Mexicains, sert de frontière entre le Texas et le Mexique ?",
+      "answer": "Rio Grande",
+      "accept": [
+        "Río Grande"
+      ],
+      "choices": [
+        "Colorado",
+        "Mississippi",
+        "Missouri"
+      ],
+      "explanation": "Son eau est si intensément utilisée pour l'irrigation qu'il lui arrive d'être à sec ; il n'est navigable que par de petites embarcations.",
+      "wikipedia": "Río Grande (fleuve)"
+    },
+    {
+      "id": "geographie-741",
+      "difficulty": 1,
+      "question": "Quel immense désert d'Afrique du Nord tire son nom d'un mot arabe désignant une vaste plaine aride ?",
+      "answer": "Sahara",
+      "accept": [],
+      "choices": [
+        "Kalahari",
+        "Gobi",
+        "Namib"
+      ],
+      "explanation": "Il n'a pas toujours été aride : depuis des millions d'années, il oscille entre phases verdoyantes et désertiques, comme en témoigne son art rupestre.",
+      "wikipedia": "Sahara"
+    },
+    {
+      "id": "geographie-742",
+      "difficulty": 1,
+      "question": "Quel volcan de Tanzanie, coiffé de neiges éternelles, a inspiré à Ernest Hemingway l'une de ses nouvelles les plus célèbres ?",
+      "answer": "Kilimandjaro",
+      "accept": [
+        "Kilimanjaro"
+      ],
+      "choices": [
+        "mont Kenya",
+        "Everest",
+        "mont Fuji"
+      ],
+      "explanation": "En 1926, un pasteur découvrit un léopard gelé au bord de son cratère, détail repris par Hemingway ; sa calotte glaciaire pourrait disparaître d'ici 2050.",
+      "wikipedia": "Kilimandjaro"
+    },
+    {
+      "id": "geographie-743",
+      "difficulty": 1,
+      "question": "Quelle dépression désertique de Californie, l'un des lieux les plus chauds du globe, porte un nom funèbre ?",
+      "answer": "Vallée de la Mort",
+      "accept": [
+        "Death Valley"
+      ],
+      "choices": [
+        "Monument Valley",
+        "Grand Canyon",
+        "Yosemite"
+      ],
+      "explanation": "La température la plus élevée jamais enregistrée sur Terre, 56,7 °C, y a été relevée en 1913 ; son point le plus bas est à 85,5 m sous le niveau de la mer.",
+      "wikipedia": "Vallée de la Mort"
+    },
+    {
+      "id": "geographie-744",
+      "difficulty": 1,
+      "question": "Sur quelle île new-yorkaise se dressent l'Empire State Building et Wall Street ?",
+      "answer": "Manhattan",
+      "accept": [],
+      "choices": [
+        "Brooklyn",
+        "Staten Island",
+        "Long Island"
+      ],
+      "explanation": "En 1626, le colon Pierre Minuit acheta l'île à ses occupants amérindiens contre quelques articles de verroterie : ainsi naquit La Nouvelle-Amsterdam.",
+      "wikipedia": "Manhattan"
+    },
+    {
+      "id": "geographie-745",
+      "difficulty": 1,
+      "question": "Quel immense parc rectangulaire, conçu au XIXe siècle, forme le grand poumon vert au cœur de New York ?",
+      "answer": "Central Park",
+      "accept": [],
+      "choices": [
+        "Hyde Park",
+        "Prospect Park",
+        "Golden Gate Park"
+      ],
+      "explanation": "Dessiné par Frederick Law Olmsted et Calvert Vaux, il forme un véritable espace de nature au milieu de la forêt de gratte-ciel de Manhattan.",
+      "wikipedia": "Central Park"
+    },
+    {
+      "id": "geographie-746",
+      "difficulty": 1,
+      "question": "Quelle place new-yorkaise, couverte d'écrans géants, voit descendre une boule lumineuse à chaque Nouvel An ?",
+      "answer": "Times Square",
+      "accept": [],
+      "choices": [
+        "Union Square",
+        "Washington Square",
+        "Madison Square"
+      ],
+      "explanation": "Elle tire son nom de l'ancien siège du New York Times ; la descente de la boule lumineuse du Nouvel An y a lieu depuis 1907.",
+      "wikipedia": "Times Square"
+    },
+    {
+      "id": "geographie-747",
+      "difficulty": 1,
+      "question": "Quelle grande ville brésilienne est célèbre pour sa plage de Copacabana et son carnaval aux écoles de samba ?",
+      "answer": "Rio de Janeiro",
+      "accept": [
+        "Rio"
+      ],
+      "choices": [
+        "São Paulo",
+        "Salvador",
+        "Brasilia"
+      ],
+      "explanation": "Rio fut la capitale du Brésil jusqu'en 1960, date à laquelle Brasilia, construite au centre du pays, prit le relais.",
+      "wikipedia": "Rio de Janeiro"
+    },
+    {
+      "id": "geographie-748",
+      "difficulty": 1,
+      "question": "Quel célèbre piton de granit, gravi par un téléphérique, garde l'entrée de la baie de Rio de Janeiro ?",
+      "answer": "Pain de Sucre",
+      "accept": [
+        "Pain de sucre"
+      ],
+      "choices": [
+        "Corcovado",
+        "Pedra da Gávea",
+        "mont Roraima"
+      ],
+      "explanation": "Il doit son nom à sa forme, qui évoque les pains de sucre coniques d'autrefois ; son téléphérique, achevé en 1912, fut le troisième au monde.",
+      "wikipedia": "Mont du Pain de Sucre"
+    },
+    {
+      "id": "geographie-749",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on au Brésil les quartiers pauvres et précaires accrochés aux collines de Rio ?",
+      "answer": "favelas",
+      "accept": [
+        "favela",
+        "bidonvilles",
+        "bidonville"
+      ],
+      "choices": [
+        "townships",
+        "barrios",
+        "médinas"
+      ],
+      "explanation": "Le nom vient du Morro da Favela, colline couverte d'une plante appelée favela, où s'installèrent des soldats après la guerre de Canudos.",
+      "wikipedia": "Favela"
+    },
+    {
+      "id": "geographie-750",
+      "difficulty": 1,
+      "question": "Quel État américain du Sud-Est, surnommé « l'État du soleil », abrite Miami et le centre spatial Kennedy ?",
+      "answer": "Floride",
+      "accept": [
+        "Florida"
+      ],
+      "choices": [
+        "Californie",
+        "Texas",
+        "Louisiane"
+      ],
+      "explanation": "L'Espagnol Juan Ponce de León, qui l'aborda en 1513, la baptisa la Pascua florida, en référence aux « Pâques fleuries ».",
+      "wikipedia": "Floride"
+    },
+    {
+      "id": "geographie-751",
+      "difficulty": 1,
+      "question": "Quelle grande avenue de New York est synonyme de théâtre et de comédies musicales ?",
+      "answer": "Broadway",
+      "accept": [],
+      "choices": [
+        "Cinquième Avenue",
+        "Park Avenue",
+        "Wall Street"
+      ],
+      "explanation": "Elle suit une ancienne piste des Amérindiens Lenapes, ce qui explique qu'elle traverse Manhattan en diagonale, sans respecter le quadrillage.",
+      "wikipedia": "Broadway"
+    },
+    {
+      "id": "geographie-752",
+      "difficulty": 1,
+      "question": "Quelle grande île plate du sud de la Tunisie, réputée pour ses plages, abrite la synagogue de la Ghriba ?",
+      "answer": "Djerba",
+      "accept": [
+        "Jerba"
+      ],
+      "choices": [
+        "Kerkennah",
+        "Lampedusa",
+        "Malte"
+      ],
+      "explanation": "Selon la légende, Djerba serait l'île des Lotophages de l'Odyssée, où les compagnons d'Ulysse oubliaient leur retour.",
+      "wikipedia": "Djerba"
+    },
+    {
+      "id": "geographie-753",
+      "difficulty": 1,
+      "question": "Quel grand chapeau mexicain, aux bords très larges, protège du soleil brûlant ?",
+      "answer": "sombrero",
+      "accept": [],
+      "choices": [
+        "panama",
+        "stetson",
+        "borsalino"
+      ],
+      "explanation": "Son nom dérive de l'espagnol sombra, « ombre » ; en Espagne, le mot désigne d'ailleurs tous les chapeaux à bord.",
+      "wikipedia": "Sombrero"
+    },
+    {
+      "id": "geographie-754",
+      "difficulty": 1,
+      "question": "Quelle monnaie est surnommée « le billet vert » en raison de la couleur de ses coupures ?",
+      "answer": "dollar",
+      "accept": [
+        "dollar américain"
+      ],
+      "choices": [
+        "peso",
+        "euro",
+        "yuan"
+      ],
+      "explanation": "Le dollar américain sert aussi de monnaie officielle dans d'autres pays, comme l'Équateur, en Amérique du Sud.",
+      "wikipedia": "Dollar américain"
+    },
+    {
+      "id": "geographie-755",
+      "difficulty": 1,
+      "question": "Quel nom de monnaie partagent le Royaume-Uni, l'Égypte et le Liban ?",
+      "answer": "livre",
+      "accept": [
+        "livre sterling"
+      ],
+      "choices": [
+        "dinar",
+        "dollar",
+        "franc"
+      ],
+      "explanation": "Son nom vient de la libra romaine, une unité de poids ; outre ces trois pays, le Soudan utilise aussi une livre.",
+      "wikipedia": "Livre (monnaie)"
+    },
+    {
+      "id": "geographie-756",
+      "difficulty": 1,
+      "question": "Quelle langue est officielle à la fois au Mexique, en Argentine, au Chili et au Pérou ?",
+      "answer": "espagnol",
+      "accept": [
+        "castillan"
+      ],
+      "choices": [
+        "portugais",
+        "anglais",
+        "italien"
+      ],
+      "explanation": "On l'appelle aussi castillan, car elle s'est développée avec l'expansion du royaume de Castille pendant la Reconquista.",
+      "wikipedia": "Espagnol"
+    },
+    {
+      "id": "geographie-757",
+      "difficulty": 1,
+      "question": "Quelle langue, qui s'écrit de droite à gauche, est officielle en Égypte, au Maroc et en Arabie saoudite ?",
+      "answer": "arabe",
+      "accept": [],
+      "choices": [
+        "hébreu",
+        "persan",
+        "turc"
+      ],
+      "explanation": "Originaire de la péninsule Arabique, elle devint au VIIe siècle la langue du Coran et se répandit avec l'expansion de l'islam.",
+      "wikipedia": "Arabe"
+    },
+    {
+      "id": "geographie-758",
+      "difficulty": 1,
+      "question": "Quelle langue est, avec l'anglais, l'une des deux langues officielles du Canada ?",
+      "answer": "français",
+      "accept": [
+        "francais"
+      ],
+      "choices": [
+        "espagnol",
+        "inuktitut",
+        "allemand"
+      ],
+      "explanation": "Le bilinguisme officiel a été instauré par la loi sur les langues officielles, adoptée en juillet 1969.",
+      "wikipedia": "Langues au Canada"
+    },
+    {
+      "id": "geographie-759",
+      "difficulty": 1,
+      "question": "Quelle langue, héritée de la colonisation britannique, est officielle au Nigeria, au Ghana et en Ouganda ?",
+      "answer": "anglais",
+      "accept": [],
+      "choices": [
+        "français",
+        "portugais",
+        "arabe"
+      ],
+      "explanation": "Héritage de l'Empire britannique, l'anglais est resté langue officielle dans de nombreux pays sans population d'origine anglaise, comme le Kenya ou l'Inde.",
+      "wikipedia": "Anglais"
+    },
+    {
+      "id": "geographie-760",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les nomades arabes du désert qui vivent sous la tente avec leurs troupeaux de dromadaires ?",
+      "answer": "Bédouins",
+      "accept": [
+        "Bedouins",
+        "Bédouin"
+      ],
+      "choices": [
+        "Touaregs",
+        "Berbères",
+        "Kurdes"
+      ],
+      "explanation": "Leur nom vient de l'arabe badawi, qui désigne les habitants du désert ; plusieurs gouvernements ont cherché à sédentariser ces pasteurs nomades.",
+      "wikipedia": "Bédouins"
+    },
+    {
+      "id": "geographie-761",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la tente conique en peaux de bison des Amérindiens des Grandes Plaines ?",
+      "answer": "tipi",
+      "accept": [
+        "tepee"
+      ],
+      "choices": [
+        "igloo",
+        "yourte",
+        "wigwam"
+      ],
+      "explanation": "Il est fait de longues perches de bois recouvertes de peaux : un tipi des Shoshones demandait de 14 à 16 peaux de bison.",
+      "wikipedia": "Tipi"
+    },
+    {
+      "id": "geographie-762",
+      "difficulty": 1,
+      "question": "Quel mot venu du hindi, popularisé par un célèbre livre de Kipling, désigne la forêt tropicale dense et touffue ?",
+      "answer": "jungle",
+      "accept": [],
+      "choices": [
+        "savane",
+        "brousse",
+        "taïga"
+      ],
+      "explanation": "À l'origine, le jangal hindi désignait au contraire une végétation sèche et clairsemée ; le sens de forêt dense est venu par extension.",
+      "wikipedia": "Jungle"
+    },
+    {
+      "id": "geographie-763",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la tente ronde recouverte de feutre des nomades de Mongolie ?",
+      "answer": "yourte",
+      "accept": [
+        "iourte",
+        "ger"
+      ],
+      "choices": [
+        "tipi",
+        "igloo",
+        "case"
+      ],
+      "explanation": "Son ossature de bois recouverte de feutre se monte et se démonte en quelques heures ; la yourte mongole est inscrite au patrimoine immatériel de l'Unesco.",
+      "wikipedia": "Yourte"
+    },
+    {
+      "id": "geographie-764",
+      "difficulty": 1,
+      "question": "Quel vêtement traditionnel japonais, croisé sur le devant et serré par une large ceinture appelée obi, se porte lors des fêtes ?",
+      "answer": "kimono",
+      "accept": [],
+      "choices": [
+        "sari",
+        "poncho",
+        "boubou"
+      ],
+      "explanation": "Son nom signifie littéralement « chose à porter » ; il se croise traditionnellement le côté gauche sur le côté droit.",
+      "wikipedia": "Kimono"
+    },
+    {
+      "id": "geographie-765",
+      "difficulty": 1,
+      "question": "Quel vêtement andin en laine, simple pièce de tissu percée au centre pour passer la tête, protège du froid ?",
+      "answer": "poncho",
+      "accept": [],
+      "choices": [
+        "kimono",
+        "sari",
+        "boubou"
+      ],
+      "explanation": "Porté dans les Andes bien avant la colonisation espagnole, il tirerait son nom du quechua punchaw, « le jour », la tête surgissant comme le soleil.",
+      "wikipedia": "Poncho"
+    },
+    {
+      "id": "geographie-766",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le marché traditionnel des villes arabes, avec ses ruelles d'échoppes, comme à Marrakech ?",
+      "answer": "souk",
+      "accept": [
+        "souks"
+      ],
+      "choices": [
+        "casbah",
+        "médina",
+        "hammam"
+      ],
+      "explanation": "À l'origine, le mot désigne un marché forain souvent hebdomadaire ; on y trouve aussi bien des épices que des articles de cuir et des babouches.",
+      "wikipedia": "Souk"
+    },
+    {
+      "id": "geographie-767",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la vieille ville ceinte de remparts des cités du Maghreb, comme à Fès ou à Marrakech ?",
+      "answer": "médina",
+      "accept": [
+        "medina"
+      ],
+      "choices": [
+        "casbah",
+        "souk",
+        "mellah"
+      ],
+      "explanation": "Le mot arabe signifie « la ville ancienne » : la médina s'oppose aux quartiers modernes de type européen construits autour d'elle.",
+      "wikipedia": "Médina"
+    },
+    {
+      "id": "geographie-768",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le petit véhicule à deux roues tiré par un homme à pied, autrefois courant en Asie ?",
+      "answer": "pousse-pousse",
+      "accept": [
+        "rickshaw",
+        "pousse pousse"
+      ],
+      "choices": [
+        "tuk-tuk",
+        "calèche",
+        "palanquin"
+      ],
+      "explanation": "Son nom japonais, jinrikisha, signifie « véhicule à force humaine » ; il s'est répandu dans les années 1870 depuis Tokyo vers la Chine et l'Inde.",
+      "wikipedia": "Pousse-pousse (transport de personnes)"
+    },
+    {
+      "id": "geographie-769",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une grande exploitation d'élevage de bétail dans l'Ouest américain ?",
+      "answer": "ranch",
+      "accept": [
+        "ranchs"
+      ],
+      "choices": [
+        "plantation",
+        "saloon",
+        "fazenda"
+      ],
+      "explanation": "En Argentine, on parle plutôt d'estancia ; au Texas, le King Ranch, l'un des plus grands du monde, s'étend sur plus de 3 300 km².",
+      "wikipedia": "Ranch"
+    },
+    {
+      "id": "geographie-770",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'embarcation longue et étroite, souvent creusée dans un seul tronc d'arbre, utilisée sur les fleuves d'Afrique ?",
+      "answer": "pirogue",
+      "accept": [
+        "pirogues"
+      ],
+      "choices": [
+        "felouque",
+        "jonque",
+        "radeau"
+      ],
+      "explanation": "Une pirogue taillée d'un seul tronc est dite monoxyle ; certaines sont équipées d'un balancier pour gagner en stabilité en mer.",
+      "wikipedia": "Pirogue"
+    },
+    {
+      "id": "geographie-771",
+      "difficulty": 1,
+      "question": "Quel mot désigne en Afrique une végétation d'herbes et d'arbustes et, par extension, les contrées sauvages loin des villes ?",
+      "answer": "brousse",
+      "accept": [],
+      "choices": [
+        "savane",
+        "jungle",
+        "maquis"
+      ],
+      "explanation": "Le terme équivaut à l'anglais bush ; il a donné son nom au taxi-brousse, le véhicule collectif qui relie villes et villages.",
+      "wikipedia": "Brousse (végétation)"
+    },
+    {
+      "id": "geographie-772",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le tricycle à moteur qui sert de petit taxi dans les rues de Bangkok ?",
+      "answer": "tuk-tuk",
+      "accept": [
+        "tuktuk",
+        "touk-touk",
+        "tuk tuk"
+      ],
+      "choices": [
+        "pousse-pousse",
+        "side-car",
+        "scooter"
+      ],
+      "explanation": "Au Cambodge, on l'appelle aussi « reumok », d'après le mot français « remorque » ; le nom tuk-tuk y est surtout employé par les touristes.",
+      "wikipedia": "Tuk-tuk"
+    },
+    {
+      "id": "geographie-773",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'embouchure d'un fleuve divisée en plusieurs bras, comme celle du Nil, en forme de lettre grecque ?",
+      "answer": "delta",
+      "accept": [],
+      "choices": [
+        "estuaire",
+        "méandre",
+        "lagune"
+      ],
+      "explanation": "Son tracé souvent triangulaire rappelle la lettre grecque Δ ; celui du Nil se jette dans la Méditerranée par deux bras, Damiette et Rosette.",
+      "wikipedia": "Delta (hydrologie)"
+    },
+    {
+      "id": "geographie-774",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un ensemble d'îles proches les unes des autres, comme le Japon ou les Philippines ?",
+      "answer": "archipel",
+      "accept": [],
+      "choices": [
+        "atoll",
+        "péninsule",
+        "isthme"
+      ],
+      "explanation": "Emprunté à l'italien arcipelago, le terme désignait à l'origine la mer Égée et ses nombreuses îles.",
+      "wikipedia": "Archipel"
+    },
+    {
+      "id": "geographie-775",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une vaste terre entourée d'eau de presque tous côtés, comme la Corée ou l'Arabie ?",
+      "answer": "péninsule",
+      "accept": [
+        "presqu'île",
+        "presqu'ile",
+        "peninsule"
+      ],
+      "choices": [
+        "isthme",
+        "archipel",
+        "atoll"
+      ],
+      "explanation": "Le mot vient du latin paene, « presque », et insula, « île » : c'est une terre rattachée à une masse continentale par un seul de ses côtés.",
+      "wikipedia": "Péninsule"
+    },
+    {
+      "id": "geographie-776",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'embouchure évasée d'un fleuve où remonte la marée, comme celle du Saint-Laurent ?",
+      "answer": "estuaire",
+      "accept": [],
+      "choices": [
+        "delta",
+        "méandre",
+        "confluent"
+      ],
+      "explanation": "Son nom vient du latin aestus, « marée » ; au contact de la mer, l'eau du fleuve y devient salée ou saumâtre.",
+      "wikipedia": "Estuaire"
+    },
+    {
+      "id": "geographie-777",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un cours d'eau qui se jette dans un autre, comme le rio Negro dans l'Amazone ?",
+      "answer": "affluent",
+      "accept": [],
+      "choices": [
+        "confluent",
+        "effluent",
+        "méandre"
+      ],
+      "explanation": "On dit aussi tributaire, du latin tributarius, « qui paie tribut » : l'affluent apporte ses eaux au cours d'eau principal.",
+      "wikipedia": "Affluent"
+    },
+    {
+      "id": "geographie-778",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le lieu où deux cours d'eau se rejoignent, comme le Nil Blanc et le Nil Bleu à Khartoum ?",
+      "answer": "confluent",
+      "accept": [
+        "confluence"
+      ],
+      "choices": [
+        "affluent",
+        "estuaire",
+        "delta"
+      ],
+      "explanation": "De nombreuses villes sont nées à un confluent, comme Coblence, entre la Moselle et le Rhin, ou Passau, sur le Danube.",
+      "wikipedia": "Confluence (hydrologie)"
+    },
+    {
+      "id": "geographie-779",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on en géographie un cours d'eau qui se jette directement dans la mer ou dans un océan ?",
+      "answer": "fleuve",
+      "accept": [],
+      "choices": [
+        "rivière",
+        "ruisseau",
+        "torrent"
+      ],
+      "explanation": "Ce n'est pas une question de taille ; jusqu'au XVIIIe siècle, le mot rivière pouvait d'ailleurs s'appliquer à de grands cours d'eau comme la Seine.",
+      "wikipedia": "Fleuve"
+    },
+    {
+      "id": "geographie-780",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une vallée étroite et très profonde aux parois abruptes, comme celle creusée par le Colorado ?",
+      "answer": "canyon",
+      "accept": [
+        "cañon",
+        "gorge",
+        "gorges"
+      ],
+      "choices": [
+        "cirque",
+        "plateau",
+        "fjord"
+      ],
+      "explanation": "Le mot vient de l'espagnol cañón ; outre le Grand Canyon, l'Ouest américain compte aussi Bryce Canyon ou Hells Canyon.",
+      "wikipedia": "Gorge (géographie)"
+    },
+    {
+      "id": "geographie-781",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la vaste plaine herbeuse et sans arbres des nomades de Mongolie et d'Asie centrale ?",
+      "answer": "steppe",
+      "accept": [
+        "steppes"
+      ],
+      "choices": [
+        "savane",
+        "toundra",
+        "pampa"
+      ],
+      "explanation": "Le mot vient du russe ; il désigne des étendues d'herbes dépourvues d'arbres, sous des latitudes tempérées comme tropicales.",
+      "wikipedia": "Steppe"
+    },
+    {
+      "id": "geographie-782",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un bloc de glace flottant détaché d'un glacier, dont seule une petite partie émerge ?",
+      "answer": "iceberg",
+      "accept": [],
+      "choices": [
+        "banquise",
+        "glacier",
+        "inlandsis"
+      ],
+      "explanation": "Environ 90 % de son volume reste sous l'eau, d'où l'expression « la partie émergée de l'iceberg » pour un problème bien plus vaste.",
+      "wikipedia": "Iceberg"
+    },
+    {
+      "id": "geographie-783",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la dépression au sommet d'un volcan, par laquelle sortent la lave et les gaz ?",
+      "answer": "cratère",
+      "accept": [
+        "cratere"
+      ],
+      "choices": [
+        "caldeira",
+        "cheminée",
+        "geyser"
+      ],
+      "explanation": "Le cratère principal se trouve en général au sommet, mais des bouches secondaires peuvent s'ouvrir sur les flancs, avec une activité temporaire.",
+      "wikipedia": "Cratère volcanique"
+    },
+    {
+      "id": "geographie-784",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une colline de sable façonnée par le vent, comme celles du désert du Namib ?",
+      "answer": "dune",
+      "accept": [
+        "dunes"
+      ],
+      "choices": [
+        "erg",
+        "oasis",
+        "reg"
+      ],
+      "explanation": "Certaines dunes se déplacent très vite : en Chine, dans le Ningxia, un groupe de dunes a avancé de 100 mètres par an dans les années 1950.",
+      "wikipedia": "Dune"
+    },
+    {
+      "id": "geographie-785",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un bras de mer resserré entre deux terres, comme celui de Béring ou celui de Magellan ?",
+      "answer": "détroit",
+      "accept": [
+        "detroit"
+      ],
+      "choices": [
+        "isthme",
+        "golfe",
+        "canal"
+      ],
+      "explanation": "Un détroit relie deux mers ; un isthme, à l'inverse, est une étroite bande de terre qui relie deux terres, comme celui de Panama.",
+      "wikipedia": "Détroit"
+    },
+    {
+      "id": "geographie-786",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on chacune des deux moitiés de la Terre, nord et sud, séparées par l'équateur ?",
+      "answer": "hémisphère",
+      "accept": [
+        "hemisphere",
+        "hémisphères"
+      ],
+      "choices": [
+        "méridien",
+        "tropique",
+        "pôle"
+      ],
+      "explanation": "On peut aussi diviser la Terre en hémisphères est et ouest, de part et d'autre du méridien de Greenwich, un tracé plus arbitraire.",
+      "wikipedia": "Hémisphère (géographie)"
+    },
+    {
+      "id": "geographie-787",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on chacune des 24 grandes zones du globe ayant en principe la même heure légale ?",
+      "answer": "fuseau horaire",
+      "accept": [
+        "fuseaux horaires",
+        "fuseau"
+      ],
+      "choices": [
+        "méridien",
+        "parallèle",
+        "longitude"
+      ],
+      "explanation": "La France métropolitaine vit à l'heure de l'Europe centrale, en avance d'une heure sur le fuseau dans lequel elle se trouve.",
+      "wikipedia": "Fuseau horaire"
+    },
+    {
+      "id": "geographie-788",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les régions situées à l'opposé exact d'un lieu sur le globe, nom donné jadis par les Européens à l'Océanie ?",
+      "answer": "antipodes",
+      "accept": [
+        "antipode"
+      ],
+      "choices": [
+        "tropiques",
+        "pôles",
+        "méridiens"
+      ],
+      "explanation": "Au sud de la Nouvelle-Zélande, les îles Antipodes se trouvent presque à l'opposé de Gatteville-le-Phare, près de Cherbourg.",
+      "wikipedia": "Point antipodal"
+    },
+    {
+      "id": "geographie-789",
+      "difficulty": 1,
+      "question": "Quelle ligne imaginaire, à égale distance des deux pôles, correspond à la latitude zéro ?",
+      "answer": "équateur",
+      "accept": [
+        "equateur"
+      ],
+      "choices": [
+        "méridien de Greenwich",
+        "tropique du Cancer",
+        "cercle polaire"
+      ],
+      "explanation": "Il traverse notamment le Brésil, le Gabon, le Kenya et la Somalie ; la rotation de la Terre y crée un léger renflement.",
+      "wikipedia": "Équateur terrestre"
+    },
+    {
+      "id": "geographie-790",
+      "difficulty": 1,
+      "question": "Quel tropique de l'hémisphère sud porte le nom d'un signe du zodiaque, le Cancer étant celui du nord ?",
+      "answer": "Capricorne",
+      "accept": [
+        "tropique du Capricorne"
+      ],
+      "choices": [
+        "Bélier",
+        "Verseau",
+        "Sagittaire"
+      ],
+      "explanation": "Il passe en Australie, à Madagascar et au Brésil, entre São Paulo et Rio ; le Soleil y est au zénith lors du solstice de décembre.",
+      "wikipedia": "Tropique du Capricorne"
+    },
+    {
+      "id": "geographie-791",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une carte représentant le monde entier sur une surface plane ?",
+      "answer": "planisphère",
+      "accept": [
+        "mappemonde",
+        "planisphere"
+      ],
+      "choices": [
+        "globe",
+        "atlas",
+        "boussole"
+      ],
+      "explanation": "La sphère étant courbe, formes et tailles des continents ne peuvent être reproduites fidèlement à plat ; la projection de Mercator reste la plus utilisée.",
+      "wikipedia": "Planisphère"
+    },
+    {
+      "id": "geographie-792",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la hauteur d'un lieu mesurée par rapport au niveau de la mer ?",
+      "answer": "altitude",
+      "accept": [],
+      "choices": [
+        "latitude",
+        "longitude",
+        "profondeur"
+      ],
+      "explanation": "Le mot vient du latin altitudo ; plus on s'élève, plus la pression atmosphérique diminue, tandis que la température et l'ensoleillement varient.",
+      "wikipedia": "Altitude"
+    },
+    {
+      "id": "geographie-793",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la région d'Afrique du Nord formée notamment par le Maroc, l'Algérie et la Tunisie ?",
+      "answer": "Maghreb",
+      "accept": [],
+      "choices": [
+        "Machrek",
+        "Sahel",
+        "Levant"
+      ],
+      "explanation": "En arabe, Maghreb signifie « le couchant », par opposition au Machrek, « le levant », qui désigne l'Orient arabe.",
+      "wikipedia": "Maghreb"
+    },
+    {
+      "id": "geographie-794",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'ensemble des pays américains de langue espagnole ou portugaise ?",
+      "answer": "Amérique latine",
+      "accept": [],
+      "choices": [
+        "Amérique centrale",
+        "Amérique du Sud",
+        "Antilles"
+      ],
+      "explanation": "L'expression est liée aux visées de Napoléon III au Mexique vers 1860 : Michel Chevalier y opposait une Amérique latine à l'Amérique anglo-saxonne.",
+      "wikipedia": "Amérique latine"
+    },
+    {
+      "id": "geographie-795",
+      "difficulty": 1,
+      "question": "Quel archipel en arc de la mer des Caraïbes comprend Cuba, Haïti, la Jamaïque et Porto Rico ?",
+      "answer": "Antilles",
+      "accept": [
+        "Grandes Antilles"
+      ],
+      "choices": [
+        "Bermudes",
+        "Mascareignes",
+        "Galápagos"
+      ],
+      "explanation": "On distingue les Grandes Antilles, au nord, des Petites Antilles, plus au sud-est, dont font partie la Guadeloupe et la Martinique.",
+      "wikipedia": "Antilles"
+    },
+    {
+      "id": "geographie-796",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un cyclone tropical frappant l'Atlantique nord et les Caraïbes, comme Katrina en 2005 ?",
+      "answer": "ouragan",
+      "accept": [
+        "ouragans"
+      ],
+      "choices": [
+        "typhon",
+        "tornade",
+        "mousson"
+      ],
+      "explanation": "Le mot viendrait d'un terme amérindien, comme l'arawak huracana, « vent d'été » ; dans le Pacifique nord-ouest, on parle de typhon.",
+      "wikipedia": "Cyclone tropical"
+    },
+    {
+      "id": "geographie-797",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une pointe de terre qui s'avance dans la mer, comme celle de Bonne-Espérance ?",
+      "answer": "cap",
+      "accept": [],
+      "choices": [
+        "golfe",
+        "isthme",
+        "baie"
+      ],
+      "explanation": "Le mot vient de l'occitan cap, « tête », issu du latin caput ; les grands voiliers devaient doubler Bonne-Espérance, le cap Leeuwin et le cap Horn.",
+      "wikipedia": "Cap (géographie)"
+    },
+    {
+      "id": "geographie-798",
+      "difficulty": 1,
+      "question": "Comment qualifie-t-on un pays qui n'a aucun accès à la mer, comme la Bolivie ou le Mali ?",
+      "answer": "enclavé",
+      "accept": [
+        "enclave",
+        "pays enclavé",
+        "enclavée"
+      ],
+      "choices": [
+        "insulaire",
+        "côtier",
+        "frontalier"
+      ],
+      "explanation": "Depuis sa défaite lors de la guerre du Pacifique (1879-1884), la Bolivie réclame au Chili un accès souverain à la mer.",
+      "wikipedia": "Pays sans littoral"
+    },
+    {
+      "id": "geographie-799",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on chacune des lignes imaginaires qui relient le pôle Nord au pôle Sud ?",
+      "answer": "méridien",
+      "accept": [
+        "méridiens",
+        "meridien"
+      ],
+      "choices": [
+        "parallèle",
+        "tropique",
+        "équateur"
+      ],
+      "explanation": "Le méridien d'origine passe par l'observatoire de Greenwich, en Angleterre ; jusqu'au début du XXe siècle, la France utilisait celui de Paris.",
+      "wikipedia": "Méridien"
+    },
+    {
+      "id": "geographie-800",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la figure en étoile qui indique le nord, le sud, l'est et l'ouest sur une carte ?",
+      "answer": "rose des vents",
+      "accept": [],
+      "choices": [
+        "boussole",
+        "légende",
+        "échelle"
+      ],
+      "explanation": "Outre les quatre points cardinaux, elle peut indiquer les orientations intermédiaires, jusqu'à 32 directions.",
+      "wikipedia": "Rose des vents"
+    }
+  ]
+}
