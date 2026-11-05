@@ -1,0 +1,917 @@
+{
+  "category": "musique",
+  "questions": [
+    {
+      "id": "musique-351",
+      "difficulty": 1,
+      "question": "Quel signe en forme de spirale, le plus courant au début de la portée, sert à écrire les notes aiguës ?",
+      "answer": "Clé de sol",
+      "accept": [
+        "clef de sol"
+      ],
+      "choices": [
+        "Clé de fa",
+        "Clé d'ut",
+        "Clé de la"
+      ],
+      "explanation": "Elle indique la place du sol sur la portée, une note proche du la du diapason ; pour les sons graves, comme la main gauche au piano, on utilise la clé de fa.",
+      "wikipedia": "Clef (musique)"
+    },
+    {
+      "id": "musique-352",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la partie d'une chanson qui revient régulièrement, avec les mêmes paroles, entre les couplets ?",
+      "answer": "Refrain",
+      "accept": [],
+      "choices": [
+        "Couplet",
+        "Pont",
+        "Prélude"
+      ],
+      "explanation": "Comme il se répète, le refrain n'est souvent imprimé qu'une seule fois dans les paroles d'une chanson ; le mot désigne aussi les vers répétés d'un poème.",
+      "wikipedia": "Refrain"
+    },
+    {
+      "id": "musique-353",
+      "difficulty": 1,
+      "question": "Quel signe d'altération, en forme de petit « b », abaisse une note d'un demi-ton ?",
+      "answer": "Bémol",
+      "accept": [],
+      "choices": [
+        "Dièse",
+        "Bécarre",
+        "Soupir"
+      ],
+      "explanation": "Le mot vient du latin « b mollis », c'est-à-dire « si mou » : le si fut la première note à être ainsi abaissée. Le dièse, lui, hausse la note.",
+      "wikipedia": "Bémol"
+    },
+    {
+      "id": "musique-354",
+      "difficulty": 1,
+      "question": "Quelle figure de note, un simple ovale blanc sans queue, dure autant que deux blanches ou quatre noires ?",
+      "answer": "Ronde",
+      "accept": [],
+      "choices": [
+        "Blanche",
+        "Noire",
+        "Croche"
+      ],
+      "explanation": "Elle vaut aussi huit croches et sert d'unité de calcul de la mesure ; le silence de même durée s'appelle la pause.",
+      "wikipedia": "Ronde (musique)"
+    },
+    {
+      "id": "musique-355",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la suite de notes do, ré, mi, fa, sol, la, si, jouées les unes après les autres ?",
+      "answer": "Gamme",
+      "accept": [],
+      "choices": [
+        "Arpège",
+        "Accord",
+        "Portée"
+      ],
+      "explanation": "La gamme de do majeur se joue entièrement sur les touches blanches du piano : elle enchaîne cinq tons entiers et deux demi-tons avant de revenir au do.",
+      "wikipedia": "Gamme (musique)"
+    },
+    {
+      "id": "musique-356",
+      "difficulty": 1,
+      "question": "Quelle note fait entendre le diapason, petite fourche métallique qui sert aux musiciens à s'accorder ?",
+      "answer": "La",
+      "accept": [
+        "la 440"
+      ],
+      "choices": [
+        "Do",
+        "Sol",
+        "Mi"
+      ],
+      "explanation": "Son invention est attribuée en 1711 au trompettiste anglais John Shore. Le diapason courant donne un la à 440 hertz, soit 440 vibrations par seconde.",
+      "wikipedia": "Diapason"
+    },
+    {
+      "id": "musique-357",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le fait, pour un chanteur, de bouger les lèvres sur un enregistrement au lieu de chanter en direct ?",
+      "answer": "Playback",
+      "accept": [
+        "play-back",
+        "play back"
+      ],
+      "choices": [
+        "Karaoké",
+        "Medley",
+        "Reprise"
+      ],
+      "explanation": "Le duo Milli Vanilli s'effondra quand on découvrit que les voix de ses disques n'étaient même pas celles des deux artistes qui se produisaient sur scène.",
+      "wikipedia": "Playback"
+    },
+    {
+      "id": "musique-358",
+      "difficulty": 1,
+      "question": "Avec quel fin bâton le chef d'orchestre indique-t-il la mesure et les départs aux musiciens ?",
+      "answer": "Baguette",
+      "accept": [],
+      "choices": [
+        "Archet",
+        "Mailloche",
+        "Canne"
+      ],
+      "explanation": "Elle est en bois léger, en fibre de verre ou de carbone ; certains chefs, comme Herbert von Karajan, la faisaient faire sur mesure, d'autres dirigent à mains nues.",
+      "wikipedia": "Baguette de chef d'orchestre"
+    },
+    {
+      "id": "musique-359",
+      "difficulty": 1,
+      "question": "Quel grand instrument triangulaire, aux nombreuses cordes pincées dont les do sont teintés en rouge, se joue assis ?",
+      "answer": "Harpe",
+      "accept": [],
+      "choices": [
+        "Lyre",
+        "Cithare",
+        "Luth"
+      ],
+      "explanation": "Les cordes de fa sont noires ou bleues pour s'y retrouver. C'est l'un des plus anciens instruments de musique, peut-être né de l'arc musical.",
+      "wikipedia": "Harpe"
+    },
+    {
+      "id": "musique-360",
+      "difficulty": 1,
+      "question": "Quel instrument à cordes frottées, plus grand que l'alto, se joue assis, tenu entre les jambes et posé sur une pique ?",
+      "answer": "Violoncelle",
+      "accept": [],
+      "choices": [
+        "Contrebasse",
+        "Viole",
+        "Alto"
+      ],
+      "explanation": "Avant l'arrivée de la pique escamotable, on le tenait posé sur les mollets, voire sur la poitrine pour certaines variantes.",
+      "wikipedia": "Violoncelle"
+    },
+    {
+      "id": "musique-361",
+      "difficulty": 1,
+      "question": "Quel petit instrument à vent, tenu droit devant soi, a été pendant des décennies la star des cours de musique à l'école ?",
+      "answer": "Flûte à bec",
+      "accept": [
+        "flute a bec"
+      ],
+      "choices": [
+        "Flûte traversière",
+        "Flûte de Pan",
+        "Ocarina"
+      ],
+      "explanation": "Très jouée à l'époque baroque puis oubliée, elle a été redécouverte au XXe siècle et associée aux activités scolaires dès les années 1950.",
+      "wikipedia": "Flûte à bec"
+    },
+    {
+      "id": "musique-362",
+      "difficulty": 1,
+      "question": "Quel ensemble de percussions, avec grosse caisse, caisse claire et cymbales, est joué par un seul musicien dans un groupe de rock ?",
+      "answer": "Batterie",
+      "accept": [],
+      "choices": [
+        "Timbales",
+        "Djembé",
+        "Xylophone"
+      ],
+      "explanation": "Le batteur joue la grosse caisse au pied, tout comme la charleston, une double cymbale qu'il ouvre et ferme grâce à une pédale.",
+      "wikipedia": "Batterie (instrument)"
+    },
+    {
+      "id": "musique-363",
+      "difficulty": 1,
+      "question": "Quel petit instrument de percussion, une barre de métal pliée et frappée d'une tige, porte le nom d'une figure géométrique ?",
+      "answer": "Triangle",
+      "accept": [],
+      "choices": [
+        "Gong",
+        "Carillon",
+        "Cymbale"
+      ],
+      "explanation": "On le tient par une petite corde pour qu'il vibre librement ; son timbre cristallin et aigu s'entend même par-dessus tout un orchestre.",
+      "wikipedia": "Triangle (instrument)"
+    },
+    {
+      "id": "musique-364",
+      "difficulty": 1,
+      "question": "Quel gros instrument à pistons est le plus grave de toute la famille des cuivres ?",
+      "answer": "Tuba",
+      "accept": [],
+      "choices": [
+        "Trombone",
+        "Cor",
+        "Trompette"
+      ],
+      "explanation": "Il est né vers 1835 en Prusse, quand le chef des musiques militaires Wilhelm Wieprecht demanda à l'ingénieur Moritz un cuivre grave à pistons.",
+      "wikipedia": "Tuba (instrument)"
+    },
+    {
+      "id": "musique-365",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la baguette munie de crins de cheval que l'on frotte sur les cordes du violon ?",
+      "answer": "Archet",
+      "accept": [],
+      "choices": [
+        "Chevalet",
+        "Médiator",
+        "Manche"
+      ],
+      "explanation": "Il doit son nom à sa ressemblance avec un arc. L'ancien horloger François Xavier Tourte, qui lui donna sa forme moderne, est surnommé le « Stradivarius de l'archet ».",
+      "wikipedia": "Archet (musique)"
+    },
+    {
+      "id": "musique-366",
+      "difficulty": 1,
+      "question": "Combien de cordes compte une guitare classique ou une guitare folk ordinaire ?",
+      "answer": "Six",
+      "accept": [
+        "6"
+      ],
+      "choices": [
+        "Quatre",
+        "Cinq",
+        "Huit"
+      ],
+      "explanation": "Elle n'a adopté six cordes simples qu'à la fin du XVIIIe siècle. Les trois ou quatre plus graves sont filées, c'est-à-dire entourées d'une spire de métal.",
+      "wikipedia": "Guitare"
+    },
+    {
+      "id": "musique-367",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le grand instrument à clavier des salles de concert, aux cordes horizontales, par opposition au modèle droit ?",
+      "answer": "Piano à queue",
+      "accept": [
+        "piano a queue"
+      ],
+      "choices": [
+        "Piano droit",
+        "Clavecin",
+        "Orgue"
+      ],
+      "explanation": "C'est la forme originale du piano. Ses cordes, frappées par des marteaux, sont simples dans les graves, doublées dans le médium et triplées dans les aigus.",
+      "wikipedia": "Piano à queue"
+    },
+    {
+      "id": "musique-368",
+      "difficulty": 1,
+      "question": "Quel instrument à vent en métal, tenu à l'horizontale sur le côté de la bouche, appartient pourtant à la famille des bois ?",
+      "answer": "Flûte traversière",
+      "accept": [
+        "flute traversiere"
+      ],
+      "choices": [
+        "Clarinette",
+        "Hautbois",
+        "Cornet"
+      ],
+      "explanation": "Elle doit ce classement à son histoire : elle était autrefois entièrement en bois, matériau peu à peu remplacé par le métal en Europe.",
+      "wikipedia": "Flûte traversière"
+    },
+    {
+      "id": "musique-369",
+      "difficulty": 1,
+      "question": "Quel instrument de percussion d'Amérique latine, joué par paires, est une sorte de hochet rempli de graines que l'on secoue ?",
+      "answer": "Maracas",
+      "accept": [
+        "maraca"
+      ],
+      "choices": [
+        "Castagnettes",
+        "Claves",
+        "Tambourin"
+      ],
+      "explanation": "Leur nom signifierait « musique » en langue tupi-guarani ; aux Antilles, on les appelle aussi chacha ou tchatcha.",
+      "wikipedia": "Maraca"
+    },
+    {
+      "id": "musique-370",
+      "difficulty": 1,
+      "question": "Quel instrument de rue à manivelle joue tout seul des airs inscrits sur un carton perforé ?",
+      "answer": "Orgue de Barbarie",
+      "accept": [],
+      "choices": [
+        "Boîte à musique",
+        "Accordéon",
+        "Pianola"
+      ],
+      "explanation": "Il fait partie des automatophones, les instruments à musique mécanique ; ses plus grands modèles, les limonaires, animaient salles de bal et cafés.",
+      "wikipedia": "Orgue de Barbarie"
+    },
+    {
+      "id": "musique-371",
+      "difficulty": 1,
+      "question": "Quelle matière plastique a donné son nom courant aux disques 33 tours et 45 tours, revenus à la mode depuis les années 2000 ?",
+      "answer": "Vinyle",
+      "accept": [
+        "vinyl"
+      ],
+      "choices": [
+        "Bakélite",
+        "Celluloïd",
+        "Nylon"
+      ],
+      "explanation": "Le microsillon en polychlorure de vinyle a multiplié par cinq ou six la durée d'écoute par rapport aux anciens disques 78 tours.",
+      "wikipedia": "Disque microsillon"
+    },
+    {
+      "id": "musique-372",
+      "difficulty": 1,
+      "question": "Quel baladeur à cassettes, lancé par Sony en 1979, permettait d'écouter sa musique en se promenant ?",
+      "answer": "Walkman",
+      "accept": [],
+      "choices": [
+        "Discman",
+        "iPod",
+        "Minidisc"
+      ],
+      "explanation": "Ce nom anglais inventé au Japon signifie « homme qui marche » ; il est devenu si courant que le mot « baladeur » a été proposé pour le remplacer.",
+      "wikipedia": "Walkman"
+    },
+    {
+      "id": "musique-373",
+      "difficulty": 1,
+      "question": "Sous quel surnom connaît-on le mouvement « Alla turca » qui conclut une célèbre sonate pour piano de Mozart ?",
+      "answer": "Marche turque",
+      "accept": [],
+      "choices": [
+        "Marche nuptiale",
+        "Marche funèbre",
+        "Marche de Radetzky"
+      ],
+      "explanation": "Malgré son surnom, ce mouvement n'est à proprement parler ni une marche ni un rondo ; la sonate aurait été composée vers 1783.",
+      "wikipedia": "Sonate pour piano no 11 de Mozart"
+    },
+    {
+      "id": "musique-374",
+      "difficulty": 1,
+      "question": "Dans la chanson « Au clair de la lune », à quel ami demande-t-on de prêter sa plume pour écrire un mot ?",
+      "answer": "Pierrot",
+      "accept": [],
+      "choices": [
+        "Arlequin",
+        "Polichinelle",
+        "Jacquot"
+      ],
+      "explanation": "En 1860, l'inventeur Édouard-Léon Scott de Martinville la chanta dans son phonautographe : c'est le plus ancien enregistrement connu d'une voix humaine.",
+      "wikipedia": "Au clair de la lune"
+    },
+    {
+      "id": "musique-375",
+      "difficulty": 1,
+      "question": "Sous quel titre français connaît-on « Jingle Bells », la chanson de Noël américaine aux grelots de traîneau ?",
+      "answer": "Vive le vent",
+      "accept": [],
+      "choices": [
+        "Mon beau sapin",
+        "Petit Papa Noël",
+        "Douce nuit"
+      ],
+      "explanation": "James Lord Pierpont l'avait écrite pour Thanksgiving, et non pour Noël. En 1965, les astronautes de Gemini 6 la jouèrent dans l'espace.",
+      "wikipedia": "Jingle Bells"
+    },
+    {
+      "id": "musique-376",
+      "difficulty": 1,
+      "question": "Quel chant de Noël, « Stille Nacht » en allemand, fut chanté pour la première fois en Autriche la veille de Noël 1818 ?",
+      "answer": "Douce nuit",
+      "accept": [
+        "Douce nuit, sainte nuit"
+      ],
+      "choices": [
+        "Mon beau sapin",
+        "Il est né le divin enfant",
+        "Les anges dans nos campagnes"
+      ],
+      "explanation": "L'orgue de l'église d'Oberndorf étant hors d'usage, le prêtre Joseph Mohr et l'organiste Franz Xaver Gruber le conçurent pour être accompagné à la guitare.",
+      "wikipedia": "Douce nuit, sainte nuit"
+    },
+    {
+      "id": "musique-377",
+      "difficulty": 1,
+      "question": "Quel chant des partisans italiens de 1944 est devenu le chant de ralliement des braqueurs de la série « La casa de papel » ?",
+      "answer": "Bella ciao",
+      "accept": [],
+      "choices": [
+        "L'Internationale",
+        "Le Chant des partisans",
+        "Funiculì funiculà"
+      ],
+      "explanation": "Sa mélodie vient d'un chant des mondine, ces saisonnières qui désherbaient les rizières de la plaine du Pô et dénonçaient ainsi leurs conditions de travail.",
+      "wikipedia": "Bella ciao (chant)"
+    },
+    {
+      "id": "musique-378",
+      "difficulty": 1,
+      "question": "Quelle chanson du duo espagnol Los del Río, portée par une chorégraphie très simple, fut un tube planétaire en 1995 et 1996 ?",
+      "answer": "Macarena",
+      "accept": [],
+      "choices": [
+        "Lambada",
+        "La Bamba",
+        "Aserejé"
+      ],
+      "explanation": "Sortie dès 1993, elle doit beaucoup de son succès à la chorégraphie du clip, imaginée par la danseuse Mia Frye.",
+      "wikipedia": "Macarena (chanson de Los del Río)"
+    },
+    {
+      "id": "musique-379",
+      "difficulty": 1,
+      "question": "Quelle chanson de J. J. Lionel fait battre des ailes et se dandiner comme des palmipèdes dans les mariages ?",
+      "answer": "La Danse des canards",
+      "accept": [
+        "Danse des canards"
+      ],
+      "choices": [
+        "La Chenille",
+        "Le Madison",
+        "Le Petit Bonhomme en mousse"
+      ],
+      "explanation": "Composée en 1957 par l'accordéoniste suisse Werner Thomas, elle est devenue, chantée par J. J. Lionel, la chanson francophone la plus vendue en France dans les années 1980.",
+      "wikipedia": "La Danse des canards"
+    },
+    {
+      "id": "musique-380",
+      "difficulty": 1,
+      "question": "Quel groupe disco américain, dont les membres incarnaient un policier, un cow-boy ou un ouvrier, a chanté « YMCA » ?",
+      "answer": "Village People",
+      "accept": [],
+      "choices": [
+        "Bee Gees",
+        "Boney M.",
+        "Chic"
+      ],
+      "explanation": "Ce groupe aux stéréotypes du mâle américain a été formé et produit à New York par deux Français, Jacques Morali et Henri Belolo.",
+      "wikipedia": "Village People"
+    },
+    {
+      "id": "musique-381",
+      "difficulty": 1,
+      "question": "De quel pays vient le chanteur Psy, dont la chorégraphie du cavalier dans « Gangnam Style » a fait le tour du monde ?",
+      "answer": "Corée du Sud",
+      "accept": [
+        "Coree du Sud",
+        "Corée"
+      ],
+      "choices": [
+        "Japon",
+        "Chine",
+        "Thaïlande"
+      ],
+      "explanation": "Gangnam est un quartier très riche de Séoul ; le clip fut la première vidéo à dépasser le milliard de vues sur YouTube, en décembre 2012.",
+      "wikipedia": "Gangnam Style"
+    },
+    {
+      "id": "musique-382",
+      "difficulty": 1,
+      "question": "Quel tube en espagnol de Luis Fonsi et Daddy Yankee porte un titre qui signifie « lentement » ?",
+      "answer": "Despacito",
+      "accept": [],
+      "choices": [
+        "Bailando",
+        "La Bamba",
+        "Livin' la Vida Loca"
+      ],
+      "explanation": "Le clip a été tourné à La Perla, un quartier de la vieille ville de San Juan, à Porto Rico, île natale de Luis Fonsi.",
+      "wikipedia": "Despacito"
+    },
+    {
+      "id": "musique-383",
+      "difficulty": 1,
+      "question": "Quelle chanson de Pharrell Williams, écrite pour le film « Moi, moche et méchant 2 », porte un titre qui signifie « heureux » ?",
+      "answer": "Happy",
+      "accept": [],
+      "choices": [
+        "Get Lucky",
+        "Freedom",
+        "Smile"
+      ],
+      "explanation": "Son clip original dure vingt-quatre heures : la chanson y tourne en boucle, dansée par des habitants de Los Angeles, et Pharrell y apparaît une fois par heure.",
+      "wikipedia": "Happy (chanson de Pharrell Williams)"
+    },
+    {
+      "id": "musique-384",
+      "difficulty": 1,
+      "question": "Quel pas de danse, où l'on glisse en arrière en donnant l'illusion de marcher, Michael Jackson a-t-il rendu célèbre ?",
+      "answer": "Moonwalk",
+      "accept": [],
+      "choices": [
+        "Twist",
+        "Smurf",
+        "Madison"
+      ],
+      "explanation": "Son nom évoque une marche sur la Lune. Cab Calloway l'esquissait dès 1932, mais Michael Jackson l'a popularisé en chantant « Billie Jean » à la télévision en 1983.",
+      "wikipedia": "Moonwalk"
+    },
+    {
+      "id": "musique-385",
+      "difficulty": 1,
+      "question": "Dans quel engin jaune les Beatles chantent-ils que « nous vivons tous » dans leur chanson de 1966 ?",
+      "answer": "Sous-marin",
+      "accept": [
+        "sous marin",
+        "submarine"
+      ],
+      "choices": [
+        "Ballon",
+        "Autobus",
+        "Bateau"
+      ],
+      "explanation": "« Yellow Submarine » est la seule face A d'un single des Beatles chantée par le batteur Ringo Starr ; elle a inspiré un film d'animation en 1968.",
+      "wikipedia": "Yellow Submarine (chanson)"
+    },
+    {
+      "id": "musique-386",
+      "difficulty": 1,
+      "question": "Quelle chanson de John Lennon, sortie en 1971, invite à rêver d'un monde sans frontières, sans pays et sans religions ?",
+      "answer": "Imagine",
+      "accept": [],
+      "choices": [
+        "Let It Be",
+        "Yesterday",
+        "Give Peace a Chance"
+      ],
+      "explanation": "Longtemps attribuée au seul Lennon, elle doit beaucoup à son épouse Yoko Ono, qui n'a été officiellement créditée comme coautrice qu'en 2017.",
+      "wikipedia": "Imagine"
+    },
+    {
+      "id": "musique-387",
+      "difficulty": 1,
+      "question": "Quelle chanson de Queen, écrite par Freddie Mercury en 1977, est devenue l'hymne des vainqueurs dans les stades ?",
+      "answer": "We Are the Champions",
+      "accept": [],
+      "choices": [
+        "Bohemian Rhapsody",
+        "Don't Stop Me Now",
+        "Another One Bites the Dust"
+      ],
+      "explanation": "Sortie en single avec « We Will Rock You » en face B, elle s'enchaîne avec ce titre sur l'album « News of the World ».",
+      "wikipedia": "We Are the Champions"
+    },
+    {
+      "id": "musique-388",
+      "difficulty": 1,
+      "question": "Avec quelle chanteuse et actrice anglaise Serge Gainsbourg a-t-il enregistré en 1969 le duo sulfureux « Je t'aime… moi non plus » ?",
+      "answer": "Jane Birkin",
+      "accept": [
+        "Birkin"
+      ],
+      "choices": [
+        "Charlotte Rampling",
+        "Marianne Faithfull",
+        "Petula Clark"
+      ],
+      "explanation": "Il l'avait d'abord enregistrée en 1967 avec Brigitte Bardot, qui refusa sa publication ; la version avec Jane Birkin fut numéro un au Royaume-Uni.",
+      "wikipedia": "Je t'aime… moi non plus"
+    },
+    {
+      "id": "musique-389",
+      "difficulty": 1,
+      "question": "Quelle chanteuse a connu le succès en 1962 avec « Tous les garçons et les filles », chanson d'une adolescente solitaire ?",
+      "answer": "Françoise Hardy",
+      "accept": [
+        "Hardy",
+        "Francoise Hardy"
+      ],
+      "choices": [
+        "Sylvie Vartan",
+        "Sheila",
+        "France Gall"
+      ],
+      "explanation": "Elle fut révélée lors d'un intermède musical à la télévision, le soir des résultats du référendum de 1962 ; la chanson s'est vendue à un million d'exemplaires.",
+      "wikipedia": "Françoise Hardy"
+    },
+    {
+      "id": "musique-390",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la vague de jeunes chanteurs des années 1960, comme Sylvie Vartan, Sheila ou Claude François ?",
+      "answer": "Yéyé",
+      "accept": [
+        "yé-yé",
+        "yeye",
+        "yéyés",
+        "les yéyés"
+      ],
+      "choices": [
+        "Zazous",
+        "Punks",
+        "Beatniks"
+      ],
+      "explanation": "Le nom vient du « yeah ! yeah ! » des chansons anglo-saxonnes ; le 22 juin 1963, un concert gratuit réunit environ 150 000 jeunes place de la Nation, à Paris.",
+      "wikipedia": "Yéyé"
+    },
+    {
+      "id": "musique-391",
+      "difficulty": 1,
+      "question": "Comment surnommait-on les danseuses qui accompagnaient Claude François sur scène et à la télévision ?",
+      "answer": "Claudettes",
+      "accept": [
+        "Clodettes",
+        "les Claudettes"
+      ],
+      "choices": [
+        "Les Vamps",
+        "Les Parisiennes",
+        "Les Gam's"
+      ],
+      "explanation": "Ébloui par les shows de Las Vegas, il intégra des danseuses à ses spectacles à partir de 1966 ; elles furent pionnières des chorégraphies de variétés en France.",
+      "wikipedia": "Claudettes"
+    },
+    {
+      "id": "musique-392",
+      "difficulty": 1,
+      "question": "Quel chanteur de Narbonne, surnommé « le Fou chantant », a écrit « Y a d'la joie » et « Douce France » ?",
+      "answer": "Charles Trenet",
+      "accept": [
+        "Trenet"
+      ],
+      "choices": [
+        "Tino Rossi",
+        "Maurice Chevalier",
+        "Yves Montand"
+      ],
+      "explanation": "Auteur de près de mille chansons, comme « Ménilmontant » ou « L'Âme des poètes », il a commencé sa carrière en 1933.",
+      "wikipedia": "Charles Trenet"
+    },
+    {
+      "id": "musique-393",
+      "difficulty": 1,
+      "question": "Quel chanteur à la voix très aiguë a créé « SOS d'un terrien en détresse » dans l'opéra-rock « Starmania » ?",
+      "answer": "Daniel Balavoine",
+      "accept": [
+        "Balavoine"
+      ],
+      "choices": [
+        "Jean-Jacques Goldman",
+        "Michel Berger",
+        "Daniel Lavoie"
+      ],
+      "explanation": "Il y incarnait Johnny Rockfort. Engagé dans l'humanitaire, il est mort en 1986 au Mali, dans un accident d'hélicoptère pendant le rallye Paris-Dakar.",
+      "wikipedia": "Daniel Balavoine"
+    },
+    {
+      "id": "musique-394",
+      "difficulty": 1,
+      "question": "Quel chanteur, complice de Laurent Voulzy depuis 1974, a écrit « Foule sentimentale » et « Allô maman bobo » ?",
+      "answer": "Alain Souchon",
+      "accept": [
+        "Souchon"
+      ],
+      "choices": [
+        "Julien Clerc",
+        "Francis Cabrel",
+        "Michel Jonasz"
+      ],
+      "explanation": "Né à Casablanca, il est l'un des artistes les plus récompensés aux Victoires de la musique ; « Foule sentimentale » y a été élue chanson des vingt dernières années.",
+      "wikipedia": "Alain Souchon"
+    },
+    {
+      "id": "musique-395",
+      "difficulty": 1,
+      "question": "Quel groupe de rock français, mené par Jean-Louis Aubert et Louis Bertignac, a chanté « Un autre monde » et « Cendrillon » ?",
+      "answer": "Téléphone",
+      "accept": [
+        "Telephone"
+      ],
+      "choices": [
+        "Indochine",
+        "Noir Désir",
+        "Trust"
+      ],
+      "explanation": "Actif de 1976 à 1986, le groupe a donné plus de 470 concerts en dix ans et fait partie des rares groupes français à s'être exportés.",
+      "wikipedia": "Téléphone (groupe)"
+    },
+    {
+      "id": "musique-396",
+      "difficulty": 1,
+      "question": "Quelle chanteuse à la voix rauque et cassée a connu un immense succès en 2010 avec la chanson « Je veux » ?",
+      "answer": "Zaz",
+      "accept": [],
+      "choices": [
+        "Olivia Ruiz",
+        "Camille",
+        "Nolwenn Leroy"
+      ],
+      "explanation": "De son vrai nom Isabelle Geffroy, elle a reçu pour ce titre la Victoire de la chanson originale ; sa musique mêle variété, soul et jazz manouche.",
+      "wikipedia": "Zaz (chanteuse)"
+    },
+    {
+      "id": "musique-397",
+      "difficulty": 1,
+      "question": "Quelle chanteuse belge, sœur du rappeur Roméo Elvis, a dénoncé le sexisme dans sa chanson « Balance ton quoi » ?",
+      "answer": "Angèle",
+      "accept": [
+        "Angele"
+      ],
+      "choices": [
+        "Clara Luciani",
+        "Pomme",
+        "Louane"
+      ],
+      "explanation": "Son premier album, « Brol », sorti en 2018, s'est vendu à plus de 500 000 exemplaires en onze mois et a été l'album le plus vendu en France en 2019.",
+      "wikipedia": "Angèle (chanteuse)"
+    },
+    {
+      "id": "musique-398",
+      "difficulty": 1,
+      "question": "Quelle chanteuse a joué l'adolescente d'une famille de sourds dans le film « La Famille Bélier », avant de chanter « Jour 1 » ?",
+      "answer": "Louane",
+      "accept": [],
+      "choices": [
+        "Zaz",
+        "Vitaa",
+        "Nolwenn Leroy"
+      ],
+      "explanation": "Pour ce premier rôle, elle a appris la langue des signes et reçu le César du meilleur espoir féminin en 2015.",
+      "wikipedia": "Louane"
+    },
+    {
+      "id": "musique-399",
+      "difficulty": 1,
+      "question": "Comment s'appelle la troupe de chanteurs et de personnalités qui se produit chaque année au profit des Restos du cœur ?",
+      "answer": "Les Enfoirés",
+      "accept": [
+        "Enfoirés",
+        "Enfoires"
+      ],
+      "choices": [
+        "Les Copains d'abord",
+        "Les Enchanteurs",
+        "Les Choristes"
+      ],
+      "explanation": "Elle est née en 1985, quand Coluche lança l'association des Restos du cœur ; ses spectacles annuels réunissent des artistes surtout francophones.",
+      "wikipedia": "Les Enfoirés"
+    },
+    {
+      "id": "musique-400",
+      "difficulty": 1,
+      "question": "Quelle chanteuse britannique a chanté « Someone Like You », « Hello » et « Skyfall », générique d'un James Bond ?",
+      "answer": "Adele",
+      "accept": [
+        "Adèle"
+      ],
+      "choices": [
+        "Amy Winehouse",
+        "Duffy",
+        "Dua Lipa"
+      ],
+      "explanation": "Née à Tottenham, à Londres, elle a remporté pour « Skyfall » le Golden Globe et l'Oscar de la meilleure chanson originale.",
+      "wikipedia": "Adele"
+    },
+    {
+      "id": "musique-401",
+      "difficulty": 1,
+      "question": "Quelle chanteuse colombienne a interprété « Waka Waka », chanson officielle de la Coupe du monde de football 2010 ?",
+      "answer": "Shakira",
+      "accept": [],
+      "choices": [
+        "Jennifer Lopez",
+        "Gloria Estefan",
+        "Rihanna"
+      ],
+      "explanation": "Née à Barranquilla, elle est aussi réputée pour ses talents de danseuse, notamment en danse orientale, en écho aux origines libanaises de son père.",
+      "wikipedia": "Shakira"
+    },
+    {
+      "id": "musique-402",
+      "difficulty": 1,
+      "question": "Quelle chanteuse américaine excentrique a chanté « Poker Face » avant de jouer dans le film « A Star Is Born » ?",
+      "answer": "Lady Gaga",
+      "accept": [
+        "Gaga"
+      ],
+      "choices": [
+        "Katy Perry",
+        "Madonna",
+        "Christina Aguilera"
+      ],
+      "explanation": "De son vrai nom Stefani Germanotta, née à New York, elle a fait de « Poker Face » le titre le plus vendu au monde en 2009.",
+      "wikipedia": "Lady Gaga"
+    },
+    {
+      "id": "musique-403",
+      "difficulty": 1,
+      "question": "Quelle comédie musicale tirée d'un roman de Victor Hugo, créée à Paris en 1980, se joue à Londres depuis 1985 ?",
+      "answer": "Les Misérables",
+      "accept": [
+        "Misérables",
+        "Les Miserables"
+      ],
+      "choices": [
+        "Notre-Dame de Paris",
+        "Starmania",
+        "Le Roi Soleil"
+      ],
+      "explanation": "Composée par Claude-Michel Schönberg sur des paroles d'Alain Boublil, elle fut montée par Robert Hossein, puis adaptée en anglais par Cameron Mackintosh.",
+      "wikipedia": "Les Misérables (comédie musicale)"
+    },
+    {
+      "id": "musique-404",
+      "difficulty": 1,
+      "question": "Quel concours de chansons télévisé, créé en 1956, oppose chaque année des pays européens et quelques autres ?",
+      "answer": "Eurovision",
+      "accept": [
+        "Concours Eurovision de la chanson"
+      ],
+      "choices": [
+        "Festival de Sanremo",
+        "Victoires de la musique",
+        "Grammy Awards"
+      ],
+      "explanation": "La toute première édition s'est tenue à Lugano, en Suisse, avec seulement sept pays, chacun présentant deux chansons.",
+      "wikipedia": "Concours Eurovision de la chanson"
+    },
+    {
+      "id": "musique-405",
+      "difficulty": 1,
+      "question": "Quel groupe féminin britannique, révélé par « Wannabe », réunissait Posh, Baby, Ginger, Scary et Sporty ?",
+      "answer": "Spice Girls",
+      "accept": [],
+      "choices": [
+        "All Saints",
+        "Destiny's Child",
+        "Bananarama"
+      ],
+      "explanation": "Posh Spice était Victoria Beckham ; « Wannabe », leur premier single sorti en 1996, s'est classé en tête des ventes dans plus de trente-sept pays.",
+      "wikipedia": "Spice Girls"
+    },
+    {
+      "id": "musique-406",
+      "difficulty": 1,
+      "question": "Quel DJ et producteur français a enchaîné les tubes mondiaux comme « When Love Takes Over » et « Sexy Bitch » ?",
+      "answer": "David Guetta",
+      "accept": [
+        "Guetta"
+      ],
+      "choices": [
+        "Bob Sinclar",
+        "Martin Solveig",
+        "Laurent Garnier"
+      ],
+      "explanation": "Figure des nuits parisiennes dès la fin des années 1980, il a ensuite créé ses propres soirées à Ibiza, où il est devenu une star de la musique électronique.",
+      "wikipedia": "David Guetta"
+    },
+    {
+      "id": "musique-407",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la poésie déclamée en public, popularisée en France par Grand Corps Malade ?",
+      "answer": "Slam",
+      "accept": [],
+      "choices": [
+        "Rap",
+        "Récital",
+        "Conte"
+      ],
+      "explanation": "Le slam est né en 1986 d'une idée du poète américain Marc Smith, qui voulait rendre la lecture de poèmes moins élitiste et moins ennuyeuse.",
+      "wikipedia": "Slam (poésie)"
+    },
+    {
+      "id": "musique-408",
+      "difficulty": 1,
+      "question": "Quelle chanteuse pour enfants a interprété « Bécassine, c'est ma cousine » et « Pandi Panda » ?",
+      "answer": "Chantal Goya",
+      "accept": [
+        "Goya"
+      ],
+      "choices": [
+        "Dorothée",
+        "Annie Cordy",
+        "Sheila"
+      ],
+      "explanation": "Née à Saïgon, elle doit l'essentiel de son répertoire à son mari Jean-Jacques Debout, avec qui elle a monté de grands spectacles pour enfants.",
+      "wikipedia": "Chantal Goya"
+    },
+    {
+      "id": "musique-409",
+      "difficulty": 1,
+      "question": "Quel mot familier désigne une chanson qui connaît un énorme succès, comme celle qui passe partout l'été ?",
+      "answer": "Tube",
+      "accept": [
+        "hit"
+      ],
+      "choices": [
+        "Single",
+        "Refrain",
+        "Medley"
+      ],
+      "explanation": "Boris Vian, directeur artistique chez Philips, aurait lancé ce mot en 1957 ; auparavant, les gens du métier parlaient d'un « saucisson ».",
+      "wikipedia": "Tube (musique)"
+    },
+    {
+      "id": "musique-410",
+      "difficulty": 1,
+      "question": "Quelle comédie musicale de Pascal Obispo, d'où est tiré « L'Envie d'aimer », raconte la vie de Moïse face au pharaon ?",
+      "answer": "Les Dix Commandements",
+      "accept": [
+        "Dix Commandements"
+      ],
+      "choices": [
+        "Le Roi Soleil",
+        "Notre-Dame de Paris",
+        "Mozart, l'opéra rock"
+      ],
+      "explanation": "Mise en scène par Élie Chouraqui et créée au Palais des sports de Paris, elle montre Moïse recueilli sur le Nil par la sœur du pharaon Séthi.",
+      "wikipedia": "Les Dix Commandements (comédie musicale)"
+    }
+  ]
+}

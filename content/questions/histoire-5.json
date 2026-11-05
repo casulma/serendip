@@ -1,0 +1,1151 @@
+{
+  "category": "histoire",
+  "questions": [
+    {
+      "id": "histoire-671",
+      "difficulty": 1,
+      "question": "Quel roi de France détient le record du plus long règne de l'histoire de France, soit 72 ans ?",
+      "answer": "Louis XIV",
+      "accept": [
+        "Louis 14"
+      ],
+      "choices": [
+        "Louis XV",
+        "François Ier",
+        "Henri IV"
+      ],
+      "explanation": "Monté sur le trône à quatre ans en 1643, il régna jusqu'en 1715 : son successeur, Louis XV, était son arrière-petit-fils.",
+      "wikipedia": "Louis XIV"
+    },
+    {
+      "id": "histoire-672",
+      "difficulty": 1,
+      "question": "Dans quel château, près de Paris, Louis XIV installa-t-il définitivement la cour et le gouvernement en 1682 ?",
+      "answer": "Versailles",
+      "accept": [
+        "château de Versailles"
+      ],
+      "choices": [
+        "Fontainebleau",
+        "Chambord",
+        "Saint-Germain-en-Laye"
+      ],
+      "explanation": "Le château était à l'origine un modeste pavillon de chasse de Louis XIII, que son fils transforma en un immense palais.",
+      "wikipedia": "Château de Versailles"
+    },
+    {
+      "id": "histoire-673",
+      "difficulty": 1,
+      "question": "Dans quelle salle du château de Versailles, bordée de 357 miroirs, l'Empire allemand fut-il proclamé en 1871 ?",
+      "answer": "galerie des Glaces",
+      "accept": [],
+      "choices": [
+        "salon d'Hercule",
+        "chambre du Roi",
+        "salle du Jeu de paume"
+      ],
+      "explanation": "Les Allemands y humilièrent la France vaincue ; c'est symboliquement dans la même galerie que fut signé le traité de Versailles, le 28 juin 1919.",
+      "wikipedia": "Galerie des Glaces"
+    },
+    {
+      "id": "histoire-674",
+      "difficulty": 1,
+      "question": "Quel accessoire de faux cheveux, souvent longs et bouclés, s'imposa à la cour de France sous Louis XIII et Louis XIV ?",
+      "answer": "perruque",
+      "accept": [
+        "perruques"
+      ],
+      "choices": [
+        "chignon",
+        "catogan",
+        "toupet"
+      ],
+      "explanation": "Louis XIII fut le premier roi de France à l'adopter, vers 1620 ; en 1673, un édit créa la corporation des perruquiers, regroupés avec les barbiers et les baigneurs.",
+      "wikipedia": "Perruque"
+    },
+    {
+      "id": "histoire-675",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le régime où le roi, comme Louis XIV, concentre tous les pouvoirs sans les partager ?",
+      "answer": "monarchie absolue",
+      "accept": [
+        "absolutisme"
+      ],
+      "choices": [
+        "monarchie constitutionnelle",
+        "monarchie parlementaire",
+        "république"
+      ],
+      "explanation": "Le roi y est dit « absolu », c'est-à-dire délié des lois humaines : il ne tient son pouvoir que de Dieu.",
+      "wikipedia": "Absolutisme"
+    },
+    {
+      "id": "histoire-676",
+      "difficulty": 1,
+      "question": "Quel mystérieux prisonnier de Louis XIV, au visage toujours dissimulé, a inspiré Alexandre Dumas ?",
+      "answer": "Masque de fer",
+      "accept": [
+        "homme au masque de fer"
+      ],
+      "choices": [
+        "Chevalier noir",
+        "Prisonnier de Zenda",
+        "Capitaine Fracasse"
+      ],
+      "explanation": "Ce détenu, mort à la Bastille en 1703, portait en réalité un masque de velours noir ; son identité reste inconnue.",
+      "wikipedia": "Homme au masque de fer"
+    },
+    {
+      "id": "histoire-677",
+      "difficulty": 1,
+      "question": "Quel roi protestant aurait dit « Paris vaut bien une messe » en se convertissant au catholicisme ?",
+      "answer": "Henri IV",
+      "accept": [
+        "Henri 4"
+      ],
+      "choices": [
+        "Henri III",
+        "François Ier",
+        "Louis XIII"
+      ],
+      "explanation": "La phrase est sans doute apocryphe, mais sa conversion de 1593 lui ouvrit bien les portes de Paris, où il entra l'année suivante.",
+      "wikipedia": "Henri IV (roi de France)"
+    },
+    {
+      "id": "histoire-678",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les conflits qui ont opposé catholiques et protestants en France de 1562 à 1598 ?",
+      "answer": "guerres de Religion",
+      "accept": [],
+      "choices": [
+        "guerres d'Italie",
+        "guerre de Cent Ans",
+        "Fronde"
+      ],
+      "explanation": "Huit guerres se succédèrent, entrecoupées de trêves ; l'édit de Nantes, signé par Henri IV, finit par ramener la paix.",
+      "wikipedia": "Guerres de Religion (France)"
+    },
+    {
+      "id": "histoire-679",
+      "difficulty": 1,
+      "question": "Quel médecin et astrologue provençal du XVIe siècle a publié des prophéties en vers toujours commentées aujourd'hui ?",
+      "answer": "Nostradamus",
+      "accept": [],
+      "choices": [
+        "Paracelse",
+        "Rabelais",
+        "Cagliostro"
+      ],
+      "explanation": "Michel de Nostredame publia ses Prophéties en quatrains en 1555 et fut consulté par la reine Catherine de Médicis.",
+      "wikipedia": "Nostradamus"
+    },
+    {
+      "id": "histoire-680",
+      "difficulty": 1,
+      "question": "Quel savant italien, condamné en 1633 pour avoir dit que la Terre tourne autour du Soleil, aurait murmuré « Et pourtant elle tourne » ?",
+      "answer": "Galilée",
+      "accept": [
+        "Galileo Galilei"
+      ],
+      "choices": [
+        "Copernic",
+        "Kepler",
+        "Giordano Bruno"
+      ],
+      "explanation": "La phrase est probablement apocryphe ; contraint d'abjurer ses « erreurs » devant l'Inquisition, il mourut en 1642 à Arcetri, près de Florence.",
+      "wikipedia": "Galilée (savant)"
+    },
+    {
+      "id": "histoire-681",
+      "difficulty": 1,
+      "question": "Quel pirate anglais à la longue barbe noire, aux mèches allumées dans les cheveux, terrorisa les Caraïbes vers 1717 ?",
+      "answer": "Barbe Noire",
+      "accept": [
+        "Barbe-Noire",
+        "Edward Teach"
+      ],
+      "choices": [
+        "Barbe Rouge",
+        "Barberousse",
+        "Long John Silver"
+      ],
+      "explanation": "Edward Teach glissait des mèches à canon allumées dans ses cheveux pendant les combats pour effrayer ses adversaires ; il fut tué en 1718.",
+      "wikipedia": "Barbe Noire"
+    },
+    {
+      "id": "histoire-682",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le commerce entre l'Europe, l'Afrique et l'Amérique fondé sur la traite des esclaves ?",
+      "answer": "commerce triangulaire",
+      "accept": [],
+      "choices": [
+        "route de la soie",
+        "commerce équitable",
+        "route des épices"
+      ],
+      "explanation": "Les navires partaient de ports comme Nantes ou Liverpool, échangeaient des marchandises contre des captifs en Afrique, puis revenaient chargés de sucre ou de café.",
+      "wikipedia": "Commerce triangulaire"
+    },
+    {
+      "id": "histoire-683",
+      "difficulty": 1,
+      "question": "Comment appelait-on les aventuriers espagnols partis conquérir l'Amérique au XVIe siècle ?",
+      "answer": "conquistadors",
+      "accept": [
+        "conquistador",
+        "conquistadores"
+      ],
+      "choices": [
+        "corsaires",
+        "pionniers",
+        "flibustiers"
+      ],
+      "explanation": "Le mot signifie simplement « conquérants » en espagnol et en portugais ; Hernán Cortés renversa l'Empire aztèque, Francisco Pizarro celui des Incas.",
+      "wikipedia": "Conquistador"
+    },
+    {
+      "id": "histoire-684",
+      "difficulty": 1,
+      "question": "Quel surnom les Européens donnèrent-ils au continent américain, découvert après les voyages de Colomb ?",
+      "answer": "Nouveau Monde",
+      "accept": [],
+      "choices": [
+        "Terre promise",
+        "Ancien Monde",
+        "Terra incognita"
+      ],
+      "explanation": "Par opposition, l'Europe, l'Afrique et l'Asie, connues depuis l'Antiquité, forment l'« Ancien Monde ».",
+      "wikipedia": "Nouveau Monde"
+    },
+    {
+      "id": "histoire-685",
+      "difficulty": 1,
+      "question": "Quelle fête américaine de novembre commémorerait le repas partagé par les Pères pèlerins et les Amérindiens en 1621 ?",
+      "answer": "Thanksgiving",
+      "accept": [],
+      "choices": [
+        "Halloween",
+        "Independence Day",
+        "Memorial Day"
+      ],
+      "explanation": "En 1621, le gouverneur William Bradford décréta trois jours d'action de grâce pour la première récolte ; on servit notamment des dindes sauvages.",
+      "wikipedia": "Thanksgiving (États-Unis)"
+    },
+    {
+      "id": "histoire-686",
+      "difficulty": 1,
+      "question": "Quel jour de l'année les Américains célèbrent-ils leur fête nationale, en souvenir de la déclaration d'indépendance de 1776 ?",
+      "answer": "4 juillet",
+      "accept": [
+        "quatre juillet",
+        "Independence Day"
+      ],
+      "choices": [
+        "14 juillet",
+        "4 août",
+        "1er mai"
+      ],
+      "explanation": "Le texte fut adopté par le Congrès continental à Philadelphie ; feux d'artifice et barbecues ponctuent ce jour férié.",
+      "wikipedia": "Jour de l'Indépendance (États-Unis)"
+    },
+    {
+      "id": "histoire-687",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le mouvement d'idées du XVIIIe siècle porté par Voltaire, Rousseau et Diderot ?",
+      "answer": "Lumières",
+      "accept": [
+        "siècle des Lumières"
+      ],
+      "choices": [
+        "Renaissance",
+        "Romantisme",
+        "Humanisme"
+      ],
+      "explanation": "Ses philosophes voulaient éclairer les esprits par la raison contre l'obscurantisme ; l'image a donné Enlightenment en anglais et Aufklärung en allemand.",
+      "wikipedia": "Siècle des Lumières"
+    },
+    {
+      "id": "histoire-688",
+      "difficulty": 1,
+      "question": "Quelle assemblée des trois ordres Louis XVI réunit-il à Versailles en mai 1789, ouvrant la Révolution ?",
+      "answer": "états généraux",
+      "accept": [
+        "états généraux de 1789"
+      ],
+      "choices": [
+        "Assemblée nationale",
+        "Convention",
+        "Directoire"
+      ],
+      "explanation": "Ils n'avaient plus été convoqués depuis 1614 ; dès le 17 juin 1789, les députés du tiers état se proclamèrent Assemblée nationale.",
+      "wikipedia": "États généraux de 1789"
+    },
+    {
+      "id": "histoire-689",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les registres où les Français notèrent leurs plaintes et vœux avant les états généraux de 1789 ?",
+      "answer": "cahiers de doléances",
+      "accept": [],
+      "choices": [
+        "livres de raison",
+        "registres paroissiaux",
+        "cahiers de charges"
+      ],
+      "explanation": "Chaque paroisse et chaque ordre rédigea le sien ; ces textes, aujourd'hui numérisés et transcrits, sont conservés aux Archives nationales.",
+      "wikipedia": "Cahier de doléances"
+    },
+    {
+      "id": "histoire-690",
+      "difficulty": 1,
+      "question": "Sous l'Ancien Régime, comment appelait-on le troisième ordre, qui regroupait tous ceux qui n'étaient ni nobles ni religieux ?",
+      "answer": "tiers état",
+      "accept": [],
+      "choices": [
+        "bourgeoisie",
+        "plèbe",
+        "peuple souverain"
+      ],
+      "explanation": "Il rassemblait environ 97 % de la population, des paysans aux riches bourgeois ; l'abbé Sieyès lui consacra un pamphlet célèbre en 1789.",
+      "wikipedia": "Tiers état"
+    },
+    {
+      "id": "histoire-691",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le système politique et social de la France avant la Révolution de 1789 ?",
+      "answer": "Ancien Régime",
+      "accept": [],
+      "choices": [
+        "Premier Empire",
+        "Restauration",
+        "Moyen Âge"
+      ],
+      "explanation": "L'expression, employée dès juin 1790 par Mirabeau dans une lettre à Louis XVI, désigne l'ordre que la Révolution venait d'abattre.",
+      "wikipedia": "Ancien Régime"
+    },
+    {
+      "id": "histoire-692",
+      "difficulty": 1,
+      "question": "Quels avantages réservés à la noblesse et au clergé l'Assemblée abolit-elle lors de la nuit du 4 août 1789 ?",
+      "answer": "privilèges",
+      "accept": [
+        "privilège"
+      ],
+      "choices": [
+        "impôts",
+        "titres",
+        "biens"
+      ],
+      "explanation": "Exemption d'impôts, droits seigneuriaux, dîme : tout fut voté en une nuit dans l'enthousiasme, même si le rachat de certains droits fut exigé.",
+      "wikipedia": "Nuit du 4 août 1789"
+    },
+    {
+      "id": "histoire-693",
+      "difficulty": 1,
+      "question": "Quelle machine à lame tranchante servit à exécuter Louis XVI et Marie-Antoinette sous la Révolution ?",
+      "answer": "guillotine",
+      "accept": [],
+      "choices": [
+        "échafaud",
+        "potence",
+        "garrot"
+      ],
+      "explanation": "Elle servit en France jusqu'en 1977 : la dernière exécution, celle d'Hamida Djandoubi, eut lieu à la prison des Baumettes, à Marseille.",
+      "wikipedia": "Guillotine"
+    },
+    {
+      "id": "histoire-694",
+      "difficulty": 1,
+      "question": "Comment appelait-on les révolutionnaires parisiens du peuple, qui portaient le pantalon plutôt que la culotte des aristocrates ?",
+      "answer": "sans-culottes",
+      "accept": [
+        "sans-culotte"
+      ],
+      "choices": [
+        "chouans",
+        "girondins",
+        "muscadins"
+      ],
+      "explanation": "Artisans et boutiquiers, ils se reconnaissaient aussi au bonnet phrygien rouge et à la carmagnole, une courte veste ; ils imposèrent le tutoiement.",
+      "wikipedia": "Sans-culottes"
+    },
+    {
+      "id": "histoire-695",
+      "difficulty": 1,
+      "question": "En quelle année débuta la Révolution française, avec la réunion des états généraux et la prise de la Bastille ?",
+      "answer": "1789",
+      "accept": [],
+      "choices": [
+        "1774",
+        "1792",
+        "1799"
+      ],
+      "explanation": "Cette même année, l'Assemblée adopta aussi la Déclaration des droits de l'homme et du citoyen, le 26 août.",
+      "wikipedia": "Révolution française"
+    },
+    {
+      "id": "histoire-696",
+      "difficulty": 1,
+      "question": "Quelles divisions administratives, toujours en place, l'Assemblée créa-t-elle en 1790 pour remplacer les anciennes provinces ?",
+      "answer": "départements",
+      "accept": [
+        "département"
+      ],
+      "choices": [
+        "régions",
+        "cantons",
+        "arrondissements"
+      ],
+      "explanation": "Effectifs à partir de mars 1790, ils étaient 83 au départ ; on en compte aujourd'hui 101, outre-mer compris.",
+      "wikipedia": "Département français"
+    },
+    {
+      "id": "histoire-697",
+      "difficulty": 1,
+      "question": "Quelle région de l'Ouest de la France se souleva en 1793 contre la République, au nom du roi et de la religion ?",
+      "answer": "Vendée",
+      "accept": [],
+      "choices": [
+        "Bretagne",
+        "Normandie",
+        "Alsace"
+      ],
+      "explanation": "Les insurgés arboraient un Sacré-Cœur cousu sur la poitrine ; la répression des « colonnes infernales » fit des dizaines de milliers de morts.",
+      "wikipedia": "Guerre de Vendée"
+    },
+    {
+      "id": "histoire-698",
+      "difficulty": 1,
+      "question": "Sur quelle île de la Méditerranée Napoléon Bonaparte vit-il le jour, à Ajaccio ?",
+      "answer": "Corse",
+      "accept": [],
+      "choices": [
+        "Sardaigne",
+        "Sicile",
+        "île d'Elbe"
+      ],
+      "explanation": "L'île venait juste de devenir française, cédée par la république de Gênes en 1768 : Napoléon naquit l'année suivante.",
+      "wikipedia": "Napoléon Ier"
+    },
+    {
+      "id": "histoire-699",
+      "difficulty": 1,
+      "question": "Quel chapeau à deux pointes, porté en travers, est devenu la silhouette inséparable de Napoléon ?",
+      "answer": "bicorne",
+      "accept": [],
+      "choices": [
+        "tricorne",
+        "képi",
+        "haut-de-forme"
+      ],
+      "explanation": "Il n'était pas propre à l'Empereur : adopté sous la Révolution, il remplaça le tricorne dans l'armée et fut porté par les officiers et une partie de la troupe.",
+      "wikipedia": "Bicorne"
+    },
+    {
+      "id": "histoire-700",
+      "difficulty": 1,
+      "question": "Dans quel pays la Grande Armée de Napoléon subit-elle en 1812 une retraite désastreuse dans le froid et la neige ?",
+      "answer": "Russie",
+      "accept": [],
+      "choices": [
+        "Pologne",
+        "Autriche",
+        "Espagne"
+      ],
+      "explanation": "Forte de quelque 680 000 hommes au départ, l'armée n'en ramena qu'une petite partie : Moscou avait brûlé et l'hiver fit le reste.",
+      "wikipedia": "Campagne de Russie"
+    },
+    {
+      "id": "histoire-701",
+      "difficulty": 1,
+      "question": "Quels établissements d'enseignement secondaire, toujours en place, Bonaparte créa-t-il en 1802 ?",
+      "answer": "lycées",
+      "accept": [
+        "lycée"
+      ],
+      "choices": [
+        "collèges",
+        "universités",
+        "grandes écoles"
+      ],
+      "explanation": "Les lycéens étaient internes, en uniforme, et encadrés de façon militaire ; le nom vient du Lycée, le gymnase d'Athènes où enseignait Aristote.",
+      "wikipedia": "Lycée en France"
+    },
+    {
+      "id": "histoire-702",
+      "difficulty": 1,
+      "question": "Quel empereur, neveu de Napoléon Ier, fut le dernier souverain à régner sur la France, jusqu'en 1870 ?",
+      "answer": "Napoléon III",
+      "accept": [
+        "Louis-Napoléon Bonaparte"
+      ],
+      "choices": [
+        "Louis-Philippe",
+        "Charles X",
+        "Louis XVIII"
+      ],
+      "explanation": "Après sa défaite à Sedan, il finit ses jours en exil en Angleterre ; ses opposants le surnommaient « Napoléon le Petit », d'après Victor Hugo.",
+      "wikipedia": "Napoléon III"
+    },
+    {
+      "id": "histoire-703",
+      "difficulty": 1,
+      "question": "Quel métal précieux, découvert en 1848, attira des centaines de milliers de chercheurs vers la Californie ?",
+      "answer": "or",
+      "accept": [],
+      "choices": [
+        "argent",
+        "platine",
+        "cuivre"
+      ],
+      "explanation": "San Francisco passa d'environ 1 000 habitants en 1848 à 25 000 en 1850 ; les pionniers arrivés en 1849 furent surnommés les forty-niners.",
+      "wikipedia": "Ruée vers l'or en Californie"
+    },
+    {
+      "id": "histoire-704",
+      "difficulty": 1,
+      "question": "Quel chasseur de bisons et éclaireur américain créa le spectacle itinérant Wild West, qui tourna jusqu'en Europe ?",
+      "answer": "Buffalo Bill",
+      "accept": [],
+      "choices": [
+        "Davy Crockett",
+        "Kit Carson",
+        "Wyatt Earp"
+      ],
+      "explanation": "William Cody devait son surnom aux milliers de bisons abattus pour nourrir les ouvriers du chemin de fer ; son spectacle fit escale à Paris en 1889.",
+      "wikipedia": "Buffalo Bill"
+    },
+    {
+      "id": "histoire-705",
+      "difficulty": 1,
+      "question": "Quel tueur jamais identifié terrorisa en 1888 le quartier londonien de Whitechapel ?",
+      "answer": "Jack l'Éventreur",
+      "accept": [
+        "Jack the Ripper"
+      ],
+      "choices": [
+        "Barbe-Bleue",
+        "Landru",
+        "Docteur Jekyll"
+      ],
+      "explanation": "Le surnom apparut dans la lettre « Dear Boss », reçue en septembre 1888 par une agence de presse ; l'identité du tueur reste inconnue.",
+      "wikipedia": "Jack l'Éventreur"
+    },
+    {
+      "id": "histoire-706",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la période de progrès et d'insouciance que la France vécut avant la Première Guerre mondiale ?",
+      "answer": "Belle Époque",
+      "accept": [],
+      "choices": [
+        "Années folles",
+        "Trente Glorieuses",
+        "Grand Siècle (histoire de France)"
+      ],
+      "explanation": "L'expression n'est apparue qu'après 1918, avec la nostalgie d'un monde d'avant-guerre marqué par l'électricité, le cinéma et l'automobile.",
+      "wikipedia": "Belle Époque"
+    },
+    {
+      "id": "histoire-707",
+      "difficulty": 1,
+      "question": "Dans quels longs fossés creusés dans la terre les soldats de 1914-1918 vivaient-ils et combattaient-ils sur le front ?",
+      "answer": "tranchées",
+      "accept": [
+        "tranchée"
+      ],
+      "choices": [
+        "casemates",
+        "bunkers",
+        "terriers"
+      ],
+      "explanation": "Le front de l'Ouest s'étendit de la mer du Nord à la Suisse ; entre les lignes ennemies s'étendait le « no man's land ».",
+      "wikipedia": "Guerre de tranchées"
+    },
+    {
+      "id": "histoire-708",
+      "difficulty": 1,
+      "question": "Comment surnommait-on les soldats de la Grande Guerre revenus défigurés par leurs blessures au visage ?",
+      "answer": "gueules cassées",
+      "accept": [],
+      "choices": [
+        "poilus",
+        "grognards",
+        "mutilés du front"
+      ],
+      "explanation": "L'expression est due au colonel Picot ; le succès de la loterie lancée par leur association poussa l'État à créer la Loterie nationale.",
+      "wikipedia": "Gueules cassées"
+    },
+    {
+      "id": "histoire-709",
+      "difficulty": 1,
+      "question": "Quels monuments, élevés dans presque toutes les communes de France après 1918, portent les noms des soldats tués ?",
+      "answer": "monuments aux morts",
+      "accept": [
+        "monument aux morts"
+      ],
+      "choices": [
+        "arcs de triomphe",
+        "stèles républicaines",
+        "colonnes Morris"
+      ],
+      "explanation": "Quelques très rares communes n'en ont pas, comme Thierville, dans l'Eure, qui n'a perdu aucun de ses habitants pendant les guerres.",
+      "wikipedia": "Monument aux morts"
+    },
+    {
+      "id": "histoire-710",
+      "difficulty": 1,
+      "question": "Quel combattant anonyme de la Grande Guerre repose depuis 1921 sous l'Arc de triomphe de l'Étoile, à Paris ?",
+      "answer": "Soldat inconnu",
+      "accept": [],
+      "choices": [
+        "Poilu de Verdun",
+        "Grognard inconnu",
+        "Tambour d'Arcole"
+      ],
+      "explanation": "Une flamme du souvenir, allumée en 1923, y est ravivée chaque soir ; le corps avait été choisi à Verdun parmi huit soldats non identifiés.",
+      "wikipedia": "Tombe du Soldat inconnu (France)"
+    },
+    {
+      "id": "histoire-711",
+      "difficulty": 1,
+      "question": "Quel surnom donne-t-on en France à la guerre de 1914-1918, que l'on croyait être la « der des ders » ?",
+      "answer": "Grande Guerre",
+      "accept": [
+        "guerre de 14-18"
+      ],
+      "choices": [
+        "guerre de Cent Ans",
+        "drôle de guerre",
+        "guerre éclair"
+      ],
+      "explanation": "Plus de soixante millions de soldats y prirent part ; on espérait alors qu'elle serait la « der des ders », la dernière de toutes.",
+      "wikipedia": "Première Guerre mondiale"
+    },
+    {
+      "id": "histoire-712",
+      "difficulty": 1,
+      "question": "Comment surnomme-t-on en France les années 1920, marquées par le jazz, le charleston et l'envie de faire la fête ?",
+      "answer": "Années folles",
+      "accept": [],
+      "choices": [
+        "Belle Époque",
+        "Trente Glorieuses",
+        "Années de plomb"
+      ],
+      "explanation": "Montmartre puis Montparnasse attirent artistes et écrivains du monde entier ; les femmes adoptent la mode « à la garçonne » et les cheveux courts.",
+      "wikipedia": "Années folles"
+    },
+    {
+      "id": "histoire-713",
+      "difficulty": 1,
+      "question": "Comment surnommait-on les militantes britanniques qui réclamaient, parfois avec violence, le droit de vote des femmes au début du XXe siècle ?",
+      "answer": "suffragettes",
+      "accept": [
+        "suffragette"
+      ],
+      "choices": [
+        "féministes",
+        "amazones",
+        "pétroleuses"
+      ],
+      "explanation": "Emmeline Pankhurst fonda leur union en 1903 avec ses filles ; les Britanniques de plus de 30 ans obtinrent le droit de vote en 1918.",
+      "wikipedia": "Suffragette"
+    },
+    {
+      "id": "histoire-714",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'interdiction de l'alcool en vigueur aux États-Unis de 1920 à 1933 ?",
+      "answer": "Prohibition",
+      "accept": [],
+      "choices": [
+        "Ségrégation",
+        "Tempérance",
+        "Embargo"
+      ],
+      "explanation": "Loin de supprimer l'alcool, elle fit prospérer les bars clandestins, appelés speakeasies, et les gangs de contrebandiers.",
+      "wikipedia": "Prohibition"
+    },
+    {
+      "id": "histoire-715",
+      "difficulty": 1,
+      "question": "Quelle grave crise économique mondiale suivit le krach boursier de Wall Street en octobre 1929 ?",
+      "answer": "Grande Dépression",
+      "accept": [
+        "crise de 1929"
+      ],
+      "choices": [
+        "choc pétrolier",
+        "Grande Récession",
+        "crise des subprimes"
+      ],
+      "explanation": "En Allemagne, le chômage dépassa 25 % de la population active en 1932 : c'est en promettant de juguler la crise qu'Hitler parvint au pouvoir.",
+      "wikipedia": "Grande Dépression"
+    },
+    {
+      "id": "histoire-716",
+      "difficulty": 1,
+      "question": "Quel dictateur a exposé ses idées antisémites dans le livre « Mein Kampf », écrit en prison ?",
+      "answer": "Adolf Hitler",
+      "accept": [
+        "Hitler"
+      ],
+      "choices": [
+        "Benito Mussolini",
+        "Joseph Goebbels",
+        "Heinrich Himmler"
+      ],
+      "explanation": "Il le rédigea en 1924, détenu après un putsch manqué à Munich ; le titre signifie « Mon combat ».",
+      "wikipedia": "Mein Kampf"
+    },
+    {
+      "id": "histoire-717",
+      "difficulty": 1,
+      "question": "Quel symbole en forme de croix aux branches coudées, très ancien en Asie, fut adopté comme emblème par les nazis ?",
+      "answer": "croix gammée",
+      "accept": [
+        "svastika",
+        "swastika"
+      ],
+      "choices": [
+        "croix de Lorraine",
+        "croix celtique",
+        "croix de fer"
+      ],
+      "explanation": "Son nom sanskrit signifie « ce qui porte chance » ; le nom français vient de ses quatre branches en forme de gamma grec majuscule.",
+      "wikipedia": "Svastika"
+    },
+    {
+      "id": "histoire-718",
+      "difficulty": 1,
+      "question": "Quel mot hébreu signifiant « catastrophe » désigne l'extermination des juifs d'Europe par les nazis ?",
+      "answer": "Shoah",
+      "accept": [
+        "Holocauste"
+      ],
+      "choices": [
+        "Nakba",
+        "Diaspora",
+        "Pogrom"
+      ],
+      "explanation": "Le mot s'est imposé en France grâce au film documentaire de Claude Lanzmann, sorti en 1985 et long de plus de neuf heures.",
+      "wikipedia": "Shoah"
+    },
+    {
+      "id": "histoire-719",
+      "difficulty": 1,
+      "question": "Quel insigne cousu sur les vêtements les nazis imposèrent-ils aux juifs dans les territoires qu'ils contrôlaient ?",
+      "answer": "étoile jaune",
+      "accept": [],
+      "choices": [
+        "brassard rouge",
+        "triangle rose",
+        "croix blanche"
+      ],
+      "explanation": "En zone occupée, elle fut obligatoire pour tous les juifs de plus de six ans à partir du 7 juin 1942.",
+      "wikipedia": "Étoile jaune"
+    },
+    {
+      "id": "histoire-720",
+      "difficulty": 1,
+      "question": "Comment appelait-on la partie de la France non occupée par les Allemands entre 1940 et novembre 1942 ?",
+      "answer": "zone libre",
+      "accept": [
+        "zone sud"
+      ],
+      "choices": [
+        "zone franche",
+        "zone rouge",
+        "zone neutre"
+      ],
+      "explanation": "Une ligne de démarcation la séparait de la zone occupée ; après l'invasion allemande de novembre 1942, on parla de « zone sud ».",
+      "wikipedia": "Zone libre"
+    },
+    {
+      "id": "histoire-721",
+      "difficulty": 1,
+      "question": "Quel système, par tickets, limitait l'achat de pain, de viande ou de sucre pendant la Seconde Guerre mondiale ?",
+      "answer": "rationnement",
+      "accept": [
+        "tickets de rationnement"
+      ],
+      "choices": [
+        "réquisition",
+        "blocus",
+        "couvre-feu"
+      ],
+      "explanation": "En France, les tickets ne disparurent complètement qu'en 1949, bien après la fin de la guerre.",
+      "wikipedia": "Rationnement"
+    },
+    {
+      "id": "histoire-722",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le commerce clandestin de denrées rares, à prix très élevés, qui fleurit sous l'Occupation ?",
+      "answer": "marché noir",
+      "accept": [],
+      "choices": [
+        "marché gris",
+        "troc",
+        "contrebande"
+      ],
+      "explanation": "En 1944, avant la Libération, le beurre s'y vendait cinq fois plus cher que le tarif officiel, et les œufs quatre fois plus.",
+      "wikipedia": "Marché noir"
+    },
+    {
+      "id": "histoire-723",
+      "difficulty": 1,
+      "question": "Quelle radio, émise depuis le studio de la BBC, diffusait l'émission « Les Français parlent aux Français » pendant l'Occupation ?",
+      "answer": "Radio Londres",
+      "accept": [],
+      "choices": [
+        "Radio Paris",
+        "Radio Alger",
+        "Radio Free Europe"
+      ],
+      "explanation": "Née après l'appel du 18 Juin, elle mêlait messages personnels codés, sketches, chansons et publicités détournées.",
+      "wikipedia": "Radio Londres"
+    },
+    {
+      "id": "histoire-724",
+      "difficulty": 1,
+      "question": "Comment appelait-on les groupes de résistants cachés dans les forêts et les montagnes pendant l'Occupation ?",
+      "answer": "maquis",
+      "accept": [
+        "maquisards"
+      ],
+      "choices": [
+        "commandos",
+        "partisans",
+        "francs-tireurs"
+      ],
+      "explanation": "Le mot désigne d'abord la végétation broussailleuse de Corse ; beaucoup de jeunes rejoignirent le maquis pour échapper au travail obligatoire en Allemagne.",
+      "wikipedia": "Maquis (Résistance)"
+    },
+    {
+      "id": "histoire-725",
+      "difficulty": 1,
+      "question": "Quel jour férié de mai commémore en France la capitulation de l'Allemagne nazie en 1945 ?",
+      "answer": "8 mai",
+      "accept": [
+        "huit mai"
+      ],
+      "choices": [
+        "1er mai",
+        "11 novembre",
+        "18 juin"
+      ],
+      "explanation": "La capitulation allemande fut signée une première fois à Reims le 7 mai, puis à Berlin le 8, au quartier général de l'Armée rouge.",
+      "wikipedia": "8 mai 1945"
+    },
+    {
+      "id": "histoire-726",
+      "difficulty": 1,
+      "question": "Quel État communiste, dont Moscou était la capitale, a disparu en décembre 1991 ?",
+      "answer": "URSS",
+      "accept": [
+        "Union soviétique"
+      ],
+      "choices": [
+        "Yougoslavie",
+        "Tchécoslovaquie",
+        "RDA"
+      ],
+      "explanation": "Fondée en 1922, l'Union des républiques socialistes soviétiques a donné naissance en se dissolvant à quinze pays indépendants.",
+      "wikipedia": "Union des républiques socialistes soviétiques"
+    },
+    {
+      "id": "histoire-727",
+      "difficulty": 1,
+      "question": "Quels deux outils, symboles des ouvriers et des paysans, figuraient sur le drapeau rouge de l'URSS ?",
+      "answer": "faucille et marteau",
+      "accept": [
+        "marteau et faucille"
+      ],
+      "choices": [
+        "pelle et pioche",
+        "enclume et marteau",
+        "faux et râteau"
+      ],
+      "explanation": "La faucille représente les paysans et le marteau les ouvriers : leur croisement symbolise l'union des travailleurs agricoles et industriels.",
+      "wikipedia": "Faucille et marteau"
+    },
+    {
+      "id": "histoire-728",
+      "difficulty": 1,
+      "question": "Quel sigle désignait les redoutés services secrets de l'Union soviétique pendant la guerre froide ?",
+      "answer": "KGB",
+      "accept": [],
+      "choices": [
+        "CIA",
+        "MI6",
+        "Stasi"
+      ],
+      "explanation": "Les trois lettres signifient « comité pour la sécurité de l'État » ; son siège, la Loubianka, abritait aussi une prison à Moscou.",
+      "wikipedia": "KGB"
+    },
+    {
+      "id": "histoire-729",
+      "difficulty": 1,
+      "question": "Quel dernier dirigeant de l'Union soviétique lança dans les années 1980 la perestroïka, une vaste politique de réformes ?",
+      "answer": "Mikhaïl Gorbatchev",
+      "accept": [
+        "Gorbatchev"
+      ],
+      "choices": [
+        "Leonid Brejnev",
+        "Boris Eltsine",
+        "Nikita Khrouchtchev"
+      ],
+      "explanation": "Prix Nobel de la paix en 1990, il fut aussi le seul président de l'URSS, de mars 1990 à décembre 1991.",
+      "wikipedia": "Mikhaïl Gorbatchev"
+    },
+    {
+      "id": "histoire-730",
+      "difficulty": 1,
+      "question": "Quel nom portait la mission américaine qui permit aux premiers hommes de marcher sur la Lune en juillet 1969 ?",
+      "answer": "Apollo 11",
+      "accept": [],
+      "choices": [
+        "Gemini 4",
+        "Apollo 13",
+        "Vostok 1"
+      ],
+      "explanation": "Pendant que Michael Collins restait en orbite, Neil Armstrong et Buzz Aldrin rapportèrent plus de 21 kilos de roches lunaires.",
+      "wikipedia": "Apollo 11"
+    },
+    {
+      "id": "histoire-731",
+      "difficulty": 1,
+      "question": "Quel pays d'Afrique du Nord a obtenu en 1962 son indépendance vis-à-vis de la France, après huit ans de guerre ?",
+      "answer": "Algérie",
+      "accept": [],
+      "choices": [
+        "Maroc",
+        "Tunisie",
+        "Libye"
+      ],
+      "explanation": "Française depuis 1830, l'Algérie devint indépendante le 3 juillet 1962, trois mois après les accords d'Évian ; s'ensuivit l'exode des pieds-noirs.",
+      "wikipedia": "Guerre d'Algérie"
+    },
+    {
+      "id": "histoire-732",
+      "difficulty": 1,
+      "question": "Quel nom portait la colonie française d'Asie qui regroupait le Vietnam, le Laos et le Cambodge ?",
+      "answer": "Indochine",
+      "accept": [
+        "Indochine française"
+      ],
+      "choices": [
+        "Cochinchine",
+        "Annam",
+        "Tonkin"
+      ],
+      "explanation": "Formée en 1887, elle eut pour capitale Saïgon puis Hanoï ; la défaite de Diên Biên Phu, en 1954, précipita sa fin.",
+      "wikipedia": "Indochine française"
+    },
+    {
+      "id": "histoire-733",
+      "difficulty": 1,
+      "question": "Dans quel pays d'Asie du Sud-Est les États-Unis s'enlisèrent-ils dans une guerre jusqu'au milieu des années 1970 ?",
+      "answer": "Vietnam",
+      "accept": [
+        "Viêt Nam",
+        "Viet Nam"
+      ],
+      "choices": [
+        "Corée",
+        "Cambodge",
+        "Laos"
+      ],
+      "explanation": "Le conflit provoqua d'importantes manifestations pacifistes aux États-Unis ; Saïgon tomba aux mains des communistes en avril 1975.",
+      "wikipedia": "Guerre du Vietnam"
+    },
+    {
+      "id": "histoire-734",
+      "difficulty": 1,
+      "question": "Quelle religieuse, prix Nobel de la paix en 1979, consacra sa vie aux plus pauvres de Calcutta ?",
+      "answer": "Mère Teresa",
+      "accept": [
+        "Teresa"
+      ],
+      "choices": [
+        "Sœur Emmanuelle",
+        "Sainte Bernadette",
+        "Sœur Sourire"
+      ],
+      "explanation": "Née à Skopje dans une famille albanaise, elle fonda les Missionnaires de la Charité ; l'Église catholique l'a canonisée en 2016.",
+      "wikipedia": "Mère Teresa"
+    },
+    {
+      "id": "histoire-735",
+      "difficulty": 1,
+      "question": "Quel dictateur irakien envahit le Koweït en 1990, provoquant la guerre du Golfe ?",
+      "answer": "Saddam Hussein",
+      "accept": [
+        "Saddam"
+      ],
+      "choices": [
+        "Hafez el-Assad",
+        "Mouammar Kadhafi",
+        "Ayatollah Khomeini"
+      ],
+      "explanation": "Renversé par l'invasion américaine de 2003, il fut capturé après huit mois de fuite, jugé par la justice irakienne et exécuté en 2006.",
+      "wikipedia": "Saddam Hussein"
+    },
+    {
+      "id": "histoire-736",
+      "difficulty": 1,
+      "question": "Quel complexe new-yorkais, avec ses deux tours jumelles, fut détruit lors des attentats du 11 septembre 2001 ?",
+      "answer": "World Trade Center",
+      "accept": [
+        "tours jumelles",
+        "WTC"
+      ],
+      "choices": [
+        "Empire State Building",
+        "Rockefeller Center",
+        "Chrysler Building"
+      ],
+      "explanation": "Deux avions de ligne détournés percutèrent les tours ; un troisième frappa le Pentagone et un quatrième s'écrasa en Pennsylvanie.",
+      "wikipedia": "Attentats du 11 septembre 2001"
+    },
+    {
+      "id": "histoire-737",
+      "difficulty": 1,
+      "question": "Quelle reine du Royaume-Uni a régné plus de soixante-dix ans, de 1952 à sa mort en 2022 ?",
+      "answer": "Élisabeth II",
+      "accept": [
+        "Elizabeth II",
+        "Élisabeth 2"
+      ],
+      "choices": [
+        "Victoria",
+        "Élisabeth Ire",
+        "Mary II"
+      ],
+      "explanation": "Elle apprit son accession au trône lors d'un voyage au Kenya ; aucun autre monarque britannique n'a régné aussi longtemps, pas même Victoria.",
+      "wikipedia": "Élisabeth II"
+    },
+    {
+      "id": "histoire-738",
+      "difficulty": 1,
+      "question": "Qui fut en 2009 le premier président noir des États-Unis ?",
+      "answer": "Barack Obama",
+      "accept": [
+        "Obama"
+      ],
+      "choices": [
+        "Colin Powell",
+        "Joe Biden",
+        "Bill Clinton"
+      ],
+      "explanation": "Né à Hawaï d'un père kényan, il reçut le prix Nobel de la paix dès la première année de son mandat.",
+      "wikipedia": "Barack Obama"
+    },
+    {
+      "id": "histoire-739",
+      "difficulty": 1,
+      "question": "Quel mot-valise anglais désigne la sortie du Royaume-Uni de l'Union européenne, décidée par référendum en 2016 ?",
+      "answer": "Brexit",
+      "accept": [],
+      "choices": [
+        "Grexit",
+        "Frexit",
+        "Leave"
+      ],
+      "explanation": "Le mot combine Britain et exit ; la sortie n'est devenue effective que le 31 janvier 2020, après de longues négociations.",
+      "wikipedia": "Brexit"
+    },
+    {
+      "id": "histoire-740",
+      "difficulty": 1,
+      "question": "Quelle ministre de la Santé a porté la loi de 1975 autorisant l'interruption volontaire de grossesse ?",
+      "answer": "Simone Veil",
+      "accept": [
+        "Veil"
+      ],
+      "choices": [
+        "Gisèle Halimi",
+        "Françoise Giroud",
+        "Élisabeth Badinter"
+      ],
+      "explanation": "Elle défendit son texte devant une Assemblée « presque exclusivement composée d'hommes », selon ses propres mots ; la loi fut promulguée en janvier 1975.",
+      "wikipedia": "Loi Veil"
+    },
+    {
+      "id": "histoire-741",
+      "difficulty": 1,
+      "question": "Quelle meneuse de revue américaine, devenue résistante, est entrée au Panthéon en 2021 ?",
+      "answer": "Joséphine Baker",
+      "accept": [
+        "Baker"
+      ],
+      "choices": [
+        "Mistinguett",
+        "Édith Piaf",
+        "Marlene Dietrich"
+      ],
+      "explanation": "Naturalisée française, elle servit le contre-espionnage pendant la guerre ; elle fut la sixième femme à entrer au Panthéon.",
+      "wikipedia": "Joséphine Baker"
+    },
+    {
+      "id": "histoire-742",
+      "difficulty": 1,
+      "question": "Quel prêtre lança à la radio, pendant l'hiver glacial de 1954, un appel en faveur des sans-abri ?",
+      "answer": "Abbé Pierre",
+      "accept": [],
+      "choices": [
+        "Abbé Grégoire",
+        "Père de Foucauld",
+        "Abbé Mugnier"
+      ],
+      "explanation": "De son vrai nom Henry Grouès, il parla sur Radio-Luxembourg, future RTL ; il est le cofondateur du mouvement Emmaüs.",
+      "wikipedia": "Abbé Pierre"
+    },
+    {
+      "id": "histoire-743",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le mandat présidentiel de cinq ans adopté par référendum en 2000, en remplacement du septennat ?",
+      "answer": "quinquennat",
+      "accept": [],
+      "choices": [
+        "septennat",
+        "décennat",
+        "triennat"
+      ],
+      "explanation": "Le référendum fut marqué par une abstention record de près de 70 % ; Jacques Chirac fut le premier élu pour cinq ans, en 2002.",
+      "wikipedia": "Quinquennat présidentiel en France"
+    },
+    {
+      "id": "histoire-744",
+      "difficulty": 1,
+      "question": "Quel titre, dérivé du latin Caesar, portaient les empereurs de Russie jusqu'en 1917 ?",
+      "answer": "tsar",
+      "accept": [
+        "czar"
+      ],
+      "choices": [
+        "kaiser",
+        "sultan",
+        "khan"
+      ],
+      "explanation": "Le premier à le prendre officiellement fut Ivan le Terrible en 1547 ; le mot allemand Kaiser vient lui aussi du nom de César.",
+      "wikipedia": "Tsar"
+    },
+    {
+      "id": "histoire-745",
+      "difficulty": 1,
+      "question": "Comment appelait-on les gardiens de troupeaux à cheval de l'Ouest américain, héros de tant de westerns ?",
+      "answer": "cow-boys",
+      "accept": [
+        "cow-boy",
+        "cowboy"
+      ],
+      "choices": [
+        "gauchos",
+        "trappeurs",
+        "shérifs"
+      ],
+      "explanation": "Ce métier dérive de celui des vaqueros du Nouveau-Mexique ; leur équipement comprenait jambières, éperons et lasso pour capturer les bêtes.",
+      "wikipedia": "Cow-boy"
+    }
+  ]
+}
