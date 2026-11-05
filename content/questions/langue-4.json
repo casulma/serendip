@@ -266,7 +266,7 @@
         "Tchèque",
         "Italien"
       ],
-      "explanation": "L'allemand possède trois versions standard, allemande, autrichienne et suisse ; on le parle aussi au Liechtenstein, au Luxembourg et dans l'est de la Belgique.",
+      "explanation": "L'allemand possède trois versions standard, allemande, autrichienne et suisse ; on le parle aussi au Liechtenstein, au Luxembourg et en Belgique.",
       "wikipedia": "Allemand"
     },
     {
@@ -302,18 +302,18 @@
     {
       "id": "langue-370",
       "difficulty": 1,
-      "question": "Quel mot d'origine québécoise, contraction de « courrier électronique », s'emploie en français à la place de l'anglais « e-mail » ?",
-      "answer": "Courriel",
+      "question": "Quel mot les Québécois répondent-ils couramment à un « merci », là où un Français dirait « de rien » ?",
+      "answer": "Bienvenue",
       "accept": [
-        "courriels"
+        "de bienvenue"
       ],
       "choices": [
-        "Mél",
-        "Pourriel",
-        "Clavardage"
+        "Pas de quoi",
+        "Avec plaisir",
+        "Volontiers"
       ],
-      "explanation": "Le terme est attribué à un professeur de l'université de Montréal ; au Québec est même apparu le verbe « courrieller », pour l'envoi d'un tel message.",
-      "wikipedia": "Courrier électronique"
+      "explanation": "C'est un calque de l'anglais américain « You're welcome » ; il s'emploie surtout à Montréal, dans un langage moins soutenu, et garde aussi son sens premier d'accueil.",
+      "wikipedia": "Lexique du français québécois"
     },
     {
       "id": "langue-371",
