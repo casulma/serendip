@@ -1,0 +1,225 @@
+{
+  "category": "cinema-tv",
+  "questions": [
+    {
+      "id": "cinema-tv-401",
+      "difficulty": 1,
+      "question": "Quelle sitcom américaine suit pendant dix saisons Rachel, Monica, Phoebe, Ross, Chandler et Joey, six copains new-yorkais ?",
+      "answer": "Friends",
+      "accept": [],
+      "choices": ["How I Met Your Mother", "Seinfeld", "The Big Bang Theory"],
+      "explanation": "Créée par Marta Kauffman et David Crane, la série s'ouvre quand Rachel Green débarque dans le café habituel de Monica, son amie d'enfance, qu'elle n'avait plus vue depuis des années.",
+      "wikipedia": "Friends"
+    },
+    {
+      "id": "cinema-tv-402",
+      "difficulty": 1,
+      "question": "Quelle série espagnole montre des braqueurs masqués en combinaison rouge, menés par le Professeur, qui chantent « Bella ciao » ?",
+      "answer": "La casa de papel",
+      "accept": ["Casa de papel", "La maison de papier"],
+      "choices": ["Élite", "Narcos", "Vis a vis"],
+      "explanation": "Le premier casse vise la Fabrique nationale de la monnaie, à Madrid, pour y imprimer 2,4 milliards d'euros en onze jours. Le masque des braqueurs représente le peintre Salvador Dalí.",
+      "wikipedia": "La casa de papel"
+    },
+    {
+      "id": "cinema-tv-403",
+      "difficulty": 1,
+      "question": "Quelle série de Netflix montre des enfants à vélo de la petite ville d'Hawkins affrontant les créatures du « Monde à l'envers » ?",
+      "answer": "Stranger Things",
+      "accept": [],
+      "choices": ["The Walking Dead", "Dark", "Les 4400"],
+      "explanation": "Créée par les jumeaux Matt et Ross Duffer, elle se déroule dans les années 1980 ; la jeune Onze, dotée de pouvoirs psychokinétiques, y affronte un monstre baptisé le Démogorgon.",
+      "wikipedia": "Stranger Things"
+    },
+    {
+      "id": "cinema-tv-404",
+      "difficulty": 1,
+      "question": "Quel comédien et chanteur normand, né André Raimbourg, fut le partenaire de Louis de Funès et de Jean Gabin à l'écran ?",
+      "answer": "Bourvil",
+      "accept": [],
+      "choices": ["Fernandel", "Darry Cowl", "Michel Galabru"],
+      "explanation": "Fils d'agriculteurs, il fut mitron puis boulanger à Rouen avant de percer à la Libération avec la chanson « Les Crayons », en créant son personnage de paysan normand naïf.",
+      "wikipedia": "Bourvil"
+    },
+    {
+      "id": "cinema-tv-405",
+      "difficulty": 1,
+      "question": "Quel métier exerce Mario, le héros moustachu à casquette rouge et salopette bleue de Nintendo ?",
+      "answer": "plombier",
+      "accept": [],
+      "choices": ["menuisier", "maçon", "électricien"],
+      "explanation": "Il n'était que charpentier dans « Donkey Kong » ; c'est dans « Mario Bros. », en 1983, qu'il devint plombier, combattant avec son frère les créatures des égouts de New York.",
+      "wikipedia": "Mario (personnage)"
+    },
+    {
+      "id": "cinema-tv-406",
+      "difficulty": 1,
+      "question": "Quel jeu vidéo « bac à sable » fait bâtir un monde entièrement en blocs cubiques, menacé la nuit par les zombies et les creepers ?",
+      "answer": "Minecraft",
+      "accept": [],
+      "choices": ["Roblox", "Fortnite", "Terraria"],
+      "explanation": "Il a d'abord été développé seul par le Suédois Markus Persson, alias Notch, avant d'être repris par le studio Mojang. Son monde est généré automatiquement et diffère à chaque partie.",
+      "wikipedia": "Minecraft"
+    },
+    {
+      "id": "cinema-tv-407",
+      "difficulty": 1,
+      "question": "Quelle console de Nintendo, sortie en 2006, se jouait en agitant une manette qui détecte les mouvements du joueur ?",
+      "answer": "Wii",
+      "accept": [],
+      "choices": ["GameCube", "Switch", "Nintendo 64"],
+      "explanation": "Son nom de code pendant le développement était « Revolution ». Elle s'est vendue à plus de cent millions d'exemplaires, souvent avec « Wii Sports », et a ouvert le jeu vidéo à toute la famille.",
+      "wikipedia": "Wii"
+    },
+    {
+      "id": "cinema-tv-408",
+      "difficulty": 1,
+      "question": "Quel personnage britannique presque muet, incarné par Rowan Atkinson, ne se sépare jamais de son ours en peluche Teddy ?",
+      "answer": "Mr Bean",
+      "accept": ["Mr. Bean", "Mister Bean", "Bean"],
+      "choices": ["Benny Hill", "Monsieur Hulot", "Basil Fawlty"],
+      "explanation": "La série comporte très peu de dialogues, ce qui l'a rendue facile à exporter. Atkinson avait rodé le personnage en 1987 au festival Juste pour rire de Montréal, en tenant à jouer dans le programme francophone.",
+      "wikipedia": "Mr Bean"
+    },
+    {
+      "id": "cinema-tv-409",
+      "difficulty": 1,
+      "question": "Quel jeune voleur d'Agrabah, dans un dessin animé de Disney, trouve une lampe magique abritant un génie ?",
+      "answer": "Aladdin",
+      "accept": ["Aladin"],
+      "choices": ["Sinbad", "Ali Baba", "Mowgli"],
+      "explanation": "Dans la version originale de 1992, le génie bavard est doublé par Robin Williams. Le film est signé John Musker et Ron Clements, qui venaient de réaliser « La Petite Sirène ».",
+      "wikipedia": "Aladdin (film, 1992)"
+    },
+    {
+      "id": "cinema-tv-410",
+      "difficulty": 1,
+      "question": "Quel super-héros de Marvel est en réalité le jeune Peter Parker, mordu par une araignée radioactive ?",
+      "answer": "Spider-Man",
+      "accept": ["Spiderman", "l'homme-araignée"],
+      "choices": ["Iron Man", "Captain America", "Daredevil"],
+      "explanation": "Créé par Stan Lee et Steve Ditko, il apparaît en 1962 dans la revue « Amazing Fantasy ». Son nom est souvent écrit à tort « Spiderman », sans le trait d'union.",
+      "wikipedia": "Spider-Man"
+    },
+    {
+      "id": "cinema-tv-411",
+      "difficulty": 1,
+      "question": "Quelles créatures envahissent le monde dans la série « The Walking Dead », où tente de survivre le groupe mené par Rick Grimes ?",
+      "answer": "zombies",
+      "accept": ["zombie", "morts-vivants", "rôdeurs"],
+      "choices": ["vampires", "loups-garous", "extraterrestres"],
+      "explanation": "Les survivants les surnomment « les rôdeurs ». Un virus a transformé les humains infectés, qui traquent sans relâche les vivants, attirés par le sang ou par le bruit.",
+      "wikipedia": "The Walking Dead (série télévisée)"
+    },
+    {
+      "id": "cinema-tv-412",
+      "difficulty": 1,
+      "question": "Quel extraterrestre de Steven Spielberg, caché par le petit Elliott, répète « téléphone maison » pour rentrer chez lui ?",
+      "answer": "E.T.",
+      "accept": ["ET"],
+      "choices": ["Alf", "Stitch", "Chewbacca"],
+      "explanation": "Le film de 1982 doit aussi sa légende à la scène où le vélo d'Elliott s'envole dans les airs ; il a remporté quatre Oscars.",
+      "wikipedia": "E.T., l'extra-terrestre"
+    },
+    {
+      "id": "cinema-tv-413",
+      "difficulty": 1,
+      "question": "Quel film écrit par Luc Besson met en scène Daniel, chauffeur marseillais fou de vitesse, au volant d'une Peugeot 406 blanche ?",
+      "answer": "Taxi",
+      "accept": [],
+      "choices": ["Le Transporteur", "Yamakasi", "Michel Vaillant"],
+      "explanation": "Joué par Samy Naceri, Daniel est arrêté pour excès de vitesse par le policier Émilien, qui lui propose de collaborer. Marion Cotillard y tient l'un de ses premiers rôles.",
+      "wikipedia": "Taxi (film, 1998)"
+    },
+    {
+      "id": "cinema-tv-414",
+      "difficulty": 1,
+      "question": "Quel animal très bavard accompagne l'ogre vert Shrek dans le dessin animé de DreamWorks ?",
+      "answer": "âne",
+      "accept": ["un âne", "l'Âne"],
+      "choices": ["cheval", "mulet", "zèbre"],
+      "explanation": "En version française, Shrek a la voix d'Alain Chabat. Son compagnon collant, chassé de chez lui, obtient pourtant d'y dormir une nuit, avant de partir avec lui délivrer la princesse Fiona.",
+      "wikipedia": "Shrek (film)"
+    },
+    {
+      "id": "cinema-tv-415",
+      "difficulty": 1,
+      "question": "Quel film de Claude Zidi oppose Louis de Funès, auteur d'un guide gastronomique, à l'industriel de la malbouffe Tricatel ?",
+      "answer": "L'Aile ou la Cuisse",
+      "accept": ["Aile ou la cuisse"],
+      "choices": ["Le Grand Restaurant", "La Soupe aux choux", "L'Avare"],
+      "explanation": "Tourné pendant la canicule de 1976, il marque le retour de Louis de Funès après trois ans d'absence pour raisons de santé ; Coluche y joue son fils Gérard.",
+      "wikipedia": "L'Aile ou la Cuisse"
+    },
+    {
+      "id": "cinema-tv-416",
+      "difficulty": 1,
+      "question": "Quelle formule, chantée par Timon et Pumbaa au lionceau Simba dans « Le Roi lion », signifie « pas de souci » ?",
+      "answer": "Hakuna matata",
+      "accept": [],
+      "choices": ["Asante sana", "Jambo bwana", "Pole pole"],
+      "explanation": "C'est du swahili, langue dont viennent aussi plusieurs noms du film : Simba signifie « lion » et Sarabi, la mère du héros, « mirage ».",
+      "wikipedia": "Le Roi lion"
+    },
+    {
+      "id": "cinema-tv-417",
+      "difficulty": 1,
+      "question": "Quelle arme à lame lumineuse manient les chevaliers Jedi et leurs ennemis Sith dans « Star Wars » ?",
+      "answer": "sabre laser",
+      "accept": ["sabre-laser", "sabrolaser"],
+      "choices": ["blaster", "épée de feu", "pistolaser"],
+      "explanation": "Les premières traductions françaises l'appelaient « sabrolaser ». Construire son propre sabre est une étape de l'initiation d'un Jedi, et la lame peut dévier les tirs de blaster.",
+      "wikipedia": "Sabre laser"
+    },
+    {
+      "id": "cinema-tv-418",
+      "difficulty": 1,
+      "question": "Quel jeu de société maudit, dans un film avec Robin Williams, fait surgir de la jungle des animaux sauvages à chaque coup de dés ?",
+      "answer": "Jumanji",
+      "accept": [],
+      "choices": ["Zathura", "Cluedo", "Monopoly"],
+      "explanation": "Mal accueilli par la critique en 1995, le film est devenu culte et a eu une suite en 2017, « Jumanji : Bienvenue dans la jungle », où le plateau devient un jeu vidéo.",
+      "wikipedia": "Jumanji (film, 1995)"
+    },
+    {
+      "id": "cinema-tv-419",
+      "difficulty": 1,
+      "question": "Quelles créatures cracheuses de feu Daenerys Targaryen fait-elle naître de trois œufs dans « Game of Thrones » ?",
+      "answer": "dragons",
+      "accept": ["dragon"],
+      "choices": ["griffons", "phénix", "wyvernes"],
+      "explanation": "Les œufs fossilisés lui sont offerts par Maître Illyrio, qui organise son mariage avec Khal Drogo. Incarnée par Emilia Clarke, elle y gagne le surnom de « Mère des Dragons ».",
+      "wikipedia": "Daenerys Targaryen"
+    },
+    {
+      "id": "cinema-tv-420",
+      "difficulty": 1,
+      "question": "Quel animal Fernandel, prisonnier de guerre évadé, promène-t-il au licol pour traverser l'Allemagne dans un film d'Henri Verneuil ?",
+      "answer": "vache",
+      "accept": ["une vache", "Marguerite"],
+      "choices": ["chèvre", "cheval", "cochon"],
+      "explanation": "Dans « La Vache et le Prisonnier » (1959), la vache s'appelle Marguerite. Au moment de la quitter, le héros lui promet de ne plus jamais « manger de veau ».",
+      "wikipedia": "La Vache et le Prisonnier"
+    },
+    {
+      "id": "cinema-tv-421",
+      "difficulty": 1,
+      "question": "Quelle comédienne incarne sur TF1, depuis 1997, Joséphine, un petit ange gardien envoyé sur Terre aider les gens en difficulté ?",
+      "answer": "Mimie Mathy",
+      "accept": ["Mathy"],
+      "choices": ["Muriel Robin", "Michèle Bernier", "Valérie Lemercier"],
+      "explanation": "Avant la série, elle avait triomphé sur France 2 dans le téléfilm « Une nounou pas comme les autres », qu'elle avait elle-même coécrit et où elle jouait Julie Toronto.",
+      "wikipedia": "Joséphine, ange gardien"
+    },
+    {
+      "id": "cinema-tv-422",
+      "difficulty": 1,
+      "question": "Quel film de Fabien Onteniente suit Patrick Chirac, incarné par Franck Dubosc, en vacances aux Flots Bleus ?",
+      "answer": "Camping",
+      "accept": [],
+      "choices": ["Les Bronzés", "Disco", "Les Tuche"],
+      "explanation": "Le terrain fictif se situe à Pyla-sur-Mer, près d'Arcachon ; chaque 1er août, les mêmes familles s'y retrouvent entre barbecues, tongs, pastis et courses de canards.",
+      "wikipedia": "Camping (film, 2006)"
+    }
+  ]
+}
