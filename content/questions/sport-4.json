@@ -1,0 +1,494 @@
+{
+  "category": "sport",
+  "questions": [
+    {
+      "id": "sport-401",
+      "difficulty": 1,
+      "question": "Au basket-ball, combien de points rapporte un panier marqué de loin, derrière la grande ligne en arc de cercle ?",
+      "answer": "trois",
+      "accept": [
+        "3",
+        "trois points"
+      ],
+      "choices": [
+        "deux",
+        "quatre",
+        "cinq"
+      ],
+      "explanation": "La NBA n'a adopté ce tir lointain qu'à la saison 1979-1980 ; le tout premier fut inscrit par Chris Ford, joueur des Celtics de Boston.",
+      "wikipedia": "Panier à trois points"
+    },
+    {
+      "id": "sport-402",
+      "difficulty": 1,
+      "question": "Quelle nage, la plus rapide de toutes, fait tourner les bras l'un après l'autre pendant que les jambes battent, le corps sur le ventre ?",
+      "answer": "crawl",
+      "accept": [],
+      "choices": [
+        "brasse",
+        "papillon",
+        "dos"
+      ],
+      "explanation": "Le règlement de la nage libre autorise n'importe quel style, mais les nageurs y choisissent presque toujours le crawl, nage de surface la plus rapide et la plus économe.",
+      "wikipedia": "Crawl"
+    },
+    {
+      "id": "sport-403",
+      "difficulty": 1,
+      "question": "Dans quelle épreuve d'athlétisme franchit-on une barre placée très haut en s'aidant d'une longue tige flexible ?",
+      "answer": "saut à la perche",
+      "accept": [
+        "perche"
+      ],
+      "choices": [
+        "saut en hauteur",
+        "triple saut",
+        "saut en longueur"
+      ],
+      "explanation": "Les premières perches en bambou apparurent dès les Jeux de 1900 ; elles sont aujourd'hui en fibre de verre ou de carbone et se plient sous l'effort.",
+      "wikipedia": "Saut à la perche"
+    },
+    {
+      "id": "sport-404",
+      "difficulty": 1,
+      "question": "Quel lancer d'athlétisme consiste à projeter une lourde boule de métal en la poussant depuis le cou, d'un seul bras ?",
+      "answer": "poids",
+      "accept": [],
+      "choices": [
+        "disque",
+        "marteau",
+        "javelot"
+      ],
+      "explanation": "Chez les hommes, la boule pèse 7,26 kg, soit seize livres anglaises ; celle des femmes ne pèse que 4 kg.",
+      "wikipedia": "Lancer du poids"
+    },
+    {
+      "id": "sport-405",
+      "difficulty": 1,
+      "question": "Au tennis, quel petit mot l'arbitre annonce-t-il quand la balle de service touche le filet avant de retomber dans le bon carré ?",
+      "answer": "let",
+      "accept": [
+        "net"
+      ],
+      "choices": [
+        "faute",
+        "ace",
+        "out"
+      ],
+      "explanation": "Il vient du verbe anglais to let, « laisser » : le serveur rejoue simplement son service, sans aucune pénalité.",
+      "wikipedia": "Glossaire du tennis"
+    },
+    {
+      "id": "sport-406",
+      "difficulty": 1,
+      "question": "Au rugby à XV, comment appelle-t-on le coup de pied frappé juste après un rebond du ballon au sol, qui vaut trois points entre les poteaux ?",
+      "answer": "drop",
+      "accept": [
+        "drop-goal",
+        "drop goal"
+      ],
+      "choices": [
+        "pénalité",
+        "chandelle",
+        "transformation"
+      ],
+      "explanation": "Il a valu quatre points de 1891 à 1948 ; au rugby à XIII, il ne rapporte plus qu'un seul point depuis 1974.",
+      "wikipedia": "Drop (rugby)"
+    },
+    {
+      "id": "sport-407",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la période de quatre ans qui sépare deux éditions des Jeux olympiques ?",
+      "answer": "olympiade",
+      "accept": [],
+      "choices": [
+        "décennie",
+        "législature",
+        "quinquennat"
+      ],
+      "explanation": "Elle servait de base à la chronologie du monde grec antique ; au pluriel, le mot est souvent employé, à tort, comme synonyme des Jeux eux-mêmes.",
+      "wikipedia": "Olympiade"
+    },
+    {
+      "id": "sport-408",
+      "difficulty": 1,
+      "question": "Quelle épreuve de ski alpin oblige les skieurs à passer entre des piquets très rapprochés, appelés portes ?",
+      "answer": "slalom",
+      "accept": [],
+      "choices": [
+        "descente",
+        "super-G",
+        "biathlon"
+      ],
+      "explanation": "Ses piquets sont plus rapprochés que ceux du slalom géant, du super-G et de la descente, ce qui impose des virages courts et très rapides.",
+      "wikipedia": "Slalom (ski)"
+    },
+    {
+      "id": "sport-409",
+      "difficulty": 1,
+      "question": "Quel sigle de trois lettres désigne le grand championnat professionnel de basket-ball d'Amérique du Nord ?",
+      "answer": "NBA",
+      "accept": [
+        "National Basketball Association"
+      ],
+      "choices": [
+        "NFL",
+        "NHL",
+        "MLB"
+      ],
+      "explanation": "Elle fut créée en 1946 sous le nom de BAA et prit son nom actuel en 1949, après sa fusion avec une ligue rivale, la NBL.",
+      "wikipedia": "National Basketball Association"
+    },
+    {
+      "id": "sport-410",
+      "difficulty": 1,
+      "question": "En cyclisme, comment appelle-t-on l'épreuve où les coureurs partent un par un et luttent seulement contre le chronomètre ?",
+      "answer": "contre-la-montre",
+      "accept": [
+        "contre la montre",
+        "chrono"
+      ],
+      "choices": [
+        "sprint",
+        "critérium",
+        "prologue"
+      ],
+      "explanation": "Le leader du classement part toujours en dernier ; dans la version par équipes, le temps est pris sur un coureur désigné d'avance, par exemple le troisième.",
+      "wikipedia": "Contre-la-montre"
+    },
+    {
+      "id": "sport-411",
+      "difficulty": 1,
+      "question": "Dans les stations de ski européennes, de quelle couleur sont balisées les pistes les plus difficiles ?",
+      "answer": "noire",
+      "accept": [
+        "noir"
+      ],
+      "choices": [
+        "rouge",
+        "bleue",
+        "verte"
+      ],
+      "explanation": "La France ajoute une piste verte pour les débutants ; en Amérique du Nord, les pistes les plus dures sont signalées par un diamant noir.",
+      "wikipedia": "Piste de ski"
+    },
+    {
+      "id": "sport-412",
+      "difficulty": 1,
+      "question": "Quelles deux lettres désignent, en boxe, la défaite d'un boxeur resté au sol plus de dix secondes après un coup ?",
+      "answer": "KO",
+      "accept": [
+        "K.-O.",
+        "K.O.",
+        "knockout",
+        "knock-out"
+      ],
+      "choices": [
+        "TKO",
+        "KD",
+        "OK"
+      ],
+      "explanation": "Elles abrègent l'anglais to knock out, « faire sortir en frappant » ; si le boxeur se relève à temps, on parle seulement de knockdown.",
+      "wikipedia": "Knockout"
+    },
+    {
+      "id": "sport-413",
+      "difficulty": 1,
+      "question": "Combien de cartes compte un jeu classique, jokers non compris, celui qu'on utilise pour le rami ou le bridge ?",
+      "answer": "52",
+      "accept": [
+        "cinquante-deux"
+      ],
+      "choices": [
+        "32",
+        "54",
+        "48"
+      ],
+      "explanation": "Elles se répartissent en quatre couleurs de treize ; dans le jeu réduit de 32 cartes, les cartes numérotées de 2 à 6 disparaissent, tout comme les jokers.",
+      "wikipedia": "Jeu de cartes français"
+    },
+    {
+      "id": "sport-414",
+      "difficulty": 1,
+      "question": "Laquelle des quatre couleurs d'un jeu de cartes est symbolisée par un petit losange rouge ?",
+      "answer": "carreau",
+      "accept": [],
+      "choices": [
+        "cœur",
+        "trèfle",
+        "pique"
+      ],
+      "explanation": "Avant de nommer cette couleur au XVIe siècle, le mot désignait un objet de section carrée, comme les pavés du carrelage ; les anglophones disent diamonds.",
+      "wikipedia": "Carreau (carte à jouer)"
+    },
+    {
+      "id": "sport-415",
+      "difficulty": 1,
+      "question": "Quelle pièce du jeu d'échecs, en forme de petit château fort, se déplace en ligne droite sur les rangées et les colonnes ?",
+      "answer": "tour",
+      "accept": [],
+      "choices": [
+        "fou",
+        "cavalier",
+        "dame"
+      ],
+      "explanation": "À l'origine, elle représentait un char de guerre : le mot persan rukh signifie « chariot ». Chaque camp en possède deux, placées dans les coins.",
+      "wikipedia": "Tour (échecs)"
+    },
+    {
+      "id": "sport-416",
+      "difficulty": 1,
+      "question": "Quelle expression, issue de l'arabe « le roi est mort », annonce qu'un roi menacé ne peut plus échapper à la capture ?",
+      "answer": "échec et mat",
+      "accept": [
+        "mat"
+      ],
+      "choices": [
+        "pat",
+        "roque",
+        "gambit"
+      ],
+      "explanation": "La partie s'arrête aussitôt et le roi n'est jamais réellement pris ; ce sont les Perses qui introduisirent l'annonce de la menace sur le roi adverse.",
+      "wikipedia": "Échec et mat"
+    },
+    {
+      "id": "sport-417",
+      "difficulty": 1,
+      "question": "Dans quel jeu de société achète-t-on des rues pour y bâtir des maisons puis des hôtels, en espérant ruiner ses adversaires ?",
+      "answer": "Monopoly",
+      "accept": [],
+      "choices": [
+        "Cluedo",
+        "Risk",
+        "Trivial Pursuit"
+      ],
+      "explanation": "Charles Darrow le proposa d'abord à Parker Brothers, qui le refusa car trop complexe, avant de lui en racheter les droits en 1935 face à son succès.",
+      "wikipedia": "Monopoly"
+    },
+    {
+      "id": "sport-418",
+      "difficulty": 1,
+      "question": "Dans quel jeu de lettres pose-t-on des jetons sur une grille, en visant si possible les cases « mot compte triple » ?",
+      "answer": "Scrabble",
+      "accept": [],
+      "choices": [
+        "Boggle",
+        "Pictionary",
+        "Mastermind"
+      ],
+      "explanation": "En français, le E, lettre la plus fréquente, ne vaut qu'un point, tandis que le K, le W, le X, le Y et le Z en rapportent dix.",
+      "wikipedia": "Scrabble"
+    },
+    {
+      "id": "sport-419",
+      "difficulty": 1,
+      "question": "Quels obstacles les coureurs du 110 mètres masculin doivent-ils enjamber tout au long de leur ligne droite ?",
+      "answer": "haies",
+      "accept": [],
+      "choices": [
+        "barrières",
+        "rivières",
+        "bornes"
+      ],
+      "explanation": "Les trois distances de plein air en comptent toutes dix ; celles du 100 mètres féminin mesurent 84 cm, contre 106,7 cm au 110 mètres masculin.",
+      "wikipedia": "Course de haies"
+    },
+    {
+      "id": "sport-420",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'épreuve d'athlétisme masculine qui enchaîne dix disciplines sur deux jours consécutifs ?",
+      "answer": "décathlon",
+      "accept": [],
+      "choices": [
+        "heptathlon",
+        "pentathlon",
+        "triathlon"
+      ],
+      "explanation": "Il réunit quatre courses, trois sauts et trois lancers ; chez les femmes, l'épreuve combinée olympique est l'heptathlon, en sept disciplines.",
+      "wikipedia": "Décathlon"
+    },
+    {
+      "id": "sport-421",
+      "difficulty": 1,
+      "question": "Quel pays a pour équipe nationale de rugby les célèbres All Blacks, vêtus de noir de la tête aux pieds ?",
+      "answer": "Nouvelle-Zélande",
+      "accept": [],
+      "choices": [
+        "Australie",
+        "Afrique du Sud",
+        "Fidji"
+      ],
+      "explanation": "Leur maillot est orné d'une fougère argentée ; l'équipe féminine porte d'ailleurs le surnom de Black Ferns, « fougères noires ».",
+      "wikipedia": "Équipe de Nouvelle-Zélande de rugby à XV"
+    },
+    {
+      "id": "sport-422",
+      "difficulty": 1,
+      "question": "Quel joueur espagnol, considéré comme le meilleur de l'histoire sur terre battue, a remporté quatorze fois le tournoi de Roland-Garros ?",
+      "answer": "Rafael Nadal",
+      "accept": [
+        "Nadal",
+        "Rafa Nadal"
+      ],
+      "choices": [
+        "Carlos Alcaraz",
+        "David Ferrer",
+        "Carlos Moyà"
+      ],
+      "explanation": "Natif de Manacor, sur l'île de Majorque, ce gaucher fut entraîné dès son plus jeune âge par son oncle Toni ; il a mis fin à sa carrière en 2024.",
+      "wikipedia": "Rafael Nadal"
+    },
+    {
+      "id": "sport-423",
+      "difficulty": 1,
+      "question": "Quel joueur de tennis suisse, réputé pour son élégance, a remporté huit fois le tournoi de Wimbledon ?",
+      "answer": "Roger Federer",
+      "accept": [
+        "Federer"
+      ],
+      "choices": [
+        "Stan Wawrinka",
+        "Björn Borg",
+        "Pete Sampras"
+      ],
+      "explanation": "Né à Bâle, il fut ramasseur de balles au tournoi de sa ville natale en 1993 et 1994, avant de le remporter lui-même à de nombreuses reprises.",
+      "wikipedia": "Roger Federer"
+    },
+    {
+      "id": "sport-424",
+      "difficulty": 1,
+      "question": "Quelle nageuse française a été sacrée championne olympique du 400 mètres nage libre aux Jeux d'Athènes, en 2004 ?",
+      "answer": "Laure Manaudou",
+      "accept": [
+        "Manaudou"
+      ],
+      "choices": [
+        "Camille Muffat",
+        "Roxana Maracineanu",
+        "Charlotte Bonnet"
+      ],
+      "explanation": "Âgée de 17 ans, elle succédait à Jean Boiteux comme championne olympique française de natation ; son frère Florent fut sacré sur 50 m nage libre à Londres en 2012.",
+      "wikipedia": "Laure Manaudou"
+    },
+    {
+      "id": "sport-425",
+      "difficulty": 1,
+      "question": "Quel meneur de jeu français a marqué deux buts de la tête en finale de la Coupe du monde 1998 contre le Brésil ?",
+      "answer": "Zinédine Zidane",
+      "accept": [
+        "Zidane"
+      ],
+      "choices": [
+        "Thierry Henry",
+        "Youri Djorkaeff",
+        "Emmanuel Petit"
+      ],
+      "explanation": "Ses deux buts vinrent de corners tirés par Emmanuel Petit et Youri Djorkaeff ; « Zizou » remporta ensuite l'Euro 2000 avec les Bleus.",
+      "wikipedia": "Zinédine Zidane"
+    },
+    {
+      "id": "sport-426",
+      "difficulty": 1,
+      "question": "Quel jeu de cartes, célèbre pour l'art du bluff, fait miser sur des combinaisons comme la paire, la couleur ou la quinte flush ?",
+      "answer": "poker",
+      "accept": [],
+      "choices": [
+        "belote",
+        "tarot",
+        "rami"
+      ],
+      "explanation": "Il se répandit au XIXe siècle sur les bateaux à vapeur du Mississippi ; sa variante la plus populaire est aujourd'hui le Texas hold'em.",
+      "wikipedia": "Poker"
+    },
+    {
+      "id": "sport-427",
+      "difficulty": 1,
+      "question": "Quel métal donne son nom à la médaille remise au troisième d'une épreuve olympique ?",
+      "answer": "bronze",
+      "accept": [],
+      "choices": [
+        "cuivre",
+        "étain",
+        "fer"
+      ],
+      "explanation": "Dans les sports de combat comme le judo ou la boxe, on en remet deux par catégorie, car les deux perdants des demi-finales ne s'affrontent pas.",
+      "wikipedia": "Médaille de bronze"
+    },
+    {
+      "id": "sport-428",
+      "difficulty": 1,
+      "question": "Sur quelle table bordée de bandes et couverte d'un tapis vert fait-on rouler des billes en les frappant avec une queue ?",
+      "answer": "billard",
+      "accept": [],
+      "choices": [
+        "flipper",
+        "baby-foot",
+        "snooker"
+      ],
+      "explanation": "Le mot dérive de « bille » au sens de « pièce de bois » ; le jeu serait né de nobles amateurs de croquet voulant jouer à l'intérieur par mauvais temps.",
+      "wikipedia": "Billard"
+    },
+    {
+      "id": "sport-429",
+      "difficulty": 1,
+      "question": "Quel jeu de bar consiste à lancer de petits projectiles pointus vers une cible ronde accrochée au mur ?",
+      "answer": "fléchettes",
+      "accept": [
+        "fléchette"
+      ],
+      "choices": [
+        "pétanque",
+        "quilles",
+        "palet"
+      ],
+      "explanation": "La cible est divisée en vingt secteurs ; la bulle intérieure, en plein centre, rapporte 50 points, et une touche dans l'anneau des triples compte trois fois.",
+      "wikipedia": "Fléchettes"
+    },
+    {
+      "id": "sport-430",
+      "difficulty": 1,
+      "question": "Quel meneur de jeu français a remporté quatre titres de champion avec les Spurs de San Antonio, au Texas ?",
+      "answer": "Tony Parker",
+      "accept": [
+        "Parker"
+      ],
+      "choices": [
+        "Boris Diaw",
+        "Joakim Noah",
+        "Nicolas Batum"
+      ],
+      "explanation": "Élu meilleur joueur des finales en 2007, premier Français à recevoir cet honneur, il a vu son maillot numéro 9 retiré par les Spurs.",
+      "wikipedia": "Tony Parker"
+    },
+    {
+      "id": "sport-431",
+      "difficulty": 1,
+      "question": "Dans quel jeu de cartes enfantin chaque joueur retourne sa carte du dessus, la plus forte remportant toutes les autres ?",
+      "answer": "bataille",
+      "accept": [],
+      "choices": [
+        "pouilleux",
+        "huit américain",
+        "mistigri"
+      ],
+      "explanation": "En cas d'égalité, on crie le nom du jeu et l'on rejoue ; selon des simulations, une partie à deux dure en moyenne environ 480 plis.",
+      "wikipedia": "Bataille (jeu)"
+    },
+    {
+      "id": "sport-432",
+      "difficulty": 1,
+      "question": "Quelle discipline du ski nordique consiste à parcourir de longues distances sur des pistes damées, à la force des bras et des jambes ?",
+      "answer": "ski de fond",
+      "accept": [
+        "fond"
+      ],
+      "choices": [
+        "ski alpin",
+        "saut à ski",
+        "télémark"
+      ],
+      "explanation": "Ses pratiquants sont appelés « fondeurs » ; depuis les années 1980, le pas de patineur, ou skating, s'est ajouté à la technique classique du pas alternatif.",
+      "wikipedia": "Ski de fond"
+    }
+  ]
+}
