@@ -50,20 +50,6 @@
     {
       "id": "histoire-604",
       "difficulty": 1,
-      "question": "Quel animal, descendant du loup, fut le premier domestiqué par les hommes préhistoriques ?",
-      "answer": "chien",
-      "accept": [],
-      "choices": [
-        "chat",
-        "cheval",
-        "mouton"
-      ],
-      "explanation": "Sa domestication remonte à au moins 15 000 ans, à une époque où l'homme ne maîtrisait encore ni l'agriculture ni l'élevage.",
-      "wikipedia": "Chien"
-    },
-    {
-      "id": "histoire-605",
-      "difficulty": 1,
       "question": "Quel mégalithe, dont le nom breton signifie « pierre longue », est une grande pierre dressée seule ?",
       "answer": "menhir",
       "accept": [],
@@ -76,7 +62,7 @@
       "wikipedia": "Menhir"
     },
     {
-      "id": "histoire-606",
+      "id": "histoire-605",
       "difficulty": 1,
       "question": "Quelle invention majeure, apparue vers 3500 av. J.-C., permit de construire les premiers chariots ?",
       "answer": "roue",
@@ -92,51 +78,7 @@
       "wikipedia": "Roue"
     },
     {
-      "id": "histoire-607",
-      "difficulty": 1,
-      "question": "Quel titre portaient les rois de l'Égypte antique, comme Ramsès II ou Toutânkhamon ?",
-      "answer": "pharaon",
-      "accept": [
-        "pharaons"
-      ],
-      "choices": [
-        "sultan",
-        "calife",
-        "négus"
-      ],
-      "explanation": "Le mot vient de l'égyptien « per-âa », la « grande maison » : il désignait d'abord le palais royal, puis par extension le roi qui l'habitait.",
-      "wikipedia": "Pharaon"
-    },
-    {
-      "id": "histoire-608",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on un corps embaumé et entouré de bandelettes de lin, comme ceux des pharaons ?",
-      "answer": "momie",
-      "accept": [],
-      "choices": [
-        "relique",
-        "squelette",
-        "statue"
-      ],
-      "explanation": "Le mot vient de l'arabe « mūmyāʾ », mélange de poix et de bitume, substance dont on pensait que les Égyptiens se servaient pour embaumer leurs morts.",
-      "wikipedia": "Momie"
-    },
-    {
-      "id": "histoire-609",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on le grand cercueil de pierre dans lequel reposait la momie d'un pharaon ?",
-      "answer": "sarcophage",
-      "accept": [],
-      "choices": [
-        "mausolée",
-        "cénotaphe",
-        "catafalque"
-      ],
-      "explanation": "Son nom grec signifie « qui mange la chair » : on croyait que certaines pierres hâtaient la disparition des corps qu'on y déposait.",
-      "wikipedia": "Sarcophage"
-    },
-    {
-      "id": "histoire-610",
+      "id": "histoire-606",
       "difficulty": 1,
       "question": "Quelle écriture, faite de petits dessins d'hommes, d'animaux et d'objets, utilisaient les anciens Égyptiens ?",
       "answer": "hiéroglyphes",
@@ -154,7 +96,7 @@
       "wikipedia": "Écriture hiéroglyphique égyptienne"
     },
     {
-      "id": "histoire-611",
+      "id": "histoire-607",
       "difficulty": 1,
       "question": "Comment appelait-on en Égypte antique le lettré chargé de rédiger les textes et les comptes de l'administration ?",
       "answer": "scribe",
@@ -170,23 +112,7 @@
       "wikipedia": "Scribe dans l'Égypte antique"
     },
     {
-      "id": "histoire-612",
-      "difficulty": 1,
-      "question": "Quel fleuve, dont les crues annuelles fertilisaient les champs de limon, permit l'essor de l'Égypte antique ?",
-      "answer": "Nil",
-      "accept": [
-        "le Nil"
-      ],
-      "choices": [
-        "Euphrate",
-        "Tigre",
-        "Jourdain"
-      ],
-      "explanation": "Hérodote disait que « l'Égypte est un don du Nil » ; les Égyptiens appelaient leur pays Kemet, la « Terre noire », couleur du limon fertile.",
-      "wikipedia": "Égypte antique"
-    },
-    {
-      "id": "histoire-613",
+      "id": "histoire-608",
       "difficulty": 1,
       "question": "Quel animal domestique, chasseur de rats dans les greniers, était vénéré et parfois momifié dans l'Égypte antique ?",
       "answer": "chat",
@@ -202,7 +128,7 @@
       "wikipedia": "Chat dans l'Égypte antique"
     },
     {
-      "id": "histoire-614",
+      "id": "histoire-609",
       "difficulty": 1,
       "question": "À quoi servaient d'abord les grandes pyramides d'Égypte, comme celle de Khéops sur le plateau de Gizeh ?",
       "answer": "tombeau",
@@ -220,7 +146,7 @@
       "wikipedia": "Pyramide de Khéops"
     },
     {
-      "id": "histoire-615",
+      "id": "histoire-610",
       "difficulty": 1,
       "question": "Quel pharaon, surnommé « le Grand », régna soixante-six ans et eut plus d'une centaine d'enfants ?",
       "answer": "Ramsès II",
@@ -238,7 +164,7 @@
       "wikipedia": "Ramsès II"
     },
     {
-      "id": "histoire-616",
+      "id": "histoire-611",
       "difficulty": 1,
       "question": "Comment appelait-on la grande place publique des cités grecques, cœur de la vie politique et du commerce ?",
       "answer": "agora",
@@ -252,7 +178,7 @@
       "wikipedia": "Agora"
     },
     {
-      "id": "histoire-617",
+      "id": "histoire-612",
       "difficulty": 1,
       "question": "Quel grand vase de terre cuite à deux anses servait aux Grecs et aux Romains à transporter le vin et l'huile ?",
       "answer": "amphore",
@@ -268,25 +194,7 @@
       "wikipedia": "Amphore"
     },
     {
-      "id": "histoire-618",
-      "difficulty": 1,
-      "question": "Tous les combien d'années les Grecs célébraient-ils les Jeux olympiques antiques à Olympie ?",
-      "answer": "quatre ans",
-      "accept": [
-        "4 ans",
-        "quatre",
-        "4"
-      ],
-      "choices": [
-        "deux ans",
-        "cinq ans",
-        "dix ans"
-      ],
-      "explanation": "Cette période s'appelait une olympiade, nommée d'après le vainqueur de la course du stade ; des hérauts proclamaient une trêve sacrée autour des Jeux.",
-      "wikipedia": "Jeux olympiques antiques"
-    },
-    {
-      "id": "histoire-619",
+      "id": "histoire-613",
       "difficulty": 1,
       "question": "Comment les Grecs puis les Romains appelaient-ils les peuples étrangers dont la langue leur semblait incompréhensible ?",
       "answer": "barbares",
@@ -302,7 +210,7 @@
       "wikipedia": "Barbare"
     },
     {
-      "id": "histoire-620",
+      "id": "histoire-614",
       "difficulty": 1,
       "question": "Quelle langue parlaient les anciens Romains, ancêtre du français, de l'italien et de l'espagnol ?",
       "answer": "latin",
@@ -318,40 +226,23 @@
       "wikipedia": "Latin"
     },
     {
-      "id": "histoire-621",
+      "id": "histoire-615",
       "difficulty": 1,
-      "question": "Quel nom de famille romain, devenu titre impérial, a donné le mot allemand Kaiser et le mot russe tsar ?",
-      "answer": "César",
+      "question": "Dans la Grèce antique, quel titre désignait un homme qui s'était emparé seul du pouvoir dans une cité, souvent par la force ?",
+      "answer": "tyran",
       "accept": [
-        "Caesar",
-        "Jules César"
+        "tyrans"
       ],
       "choices": [
-        "Auguste",
-        "Néron",
-        "Trajan"
+        "archonte",
+        "stratège",
+        "éphore"
       ],
-      "explanation": "Après Auguste, « Caesar » figura dans le nom de tous les empereurs avant de devenir un titre ; le mot « tsar » s'écrivait encore « czar » avant 1914.",
-      "wikipedia": "César (titre)"
+      "explanation": "À l'origine, le mot n'était pas péjoratif : il soulignait l'illégitimité du pouvoir, non la cruauté ; il ne prit un sens négatif qu'ensuite, notamment à Athènes.",
+      "wikipedia": "Tyran"
     },
     {
-      "id": "histoire-622",
-      "difficulty": 1,
-      "question": "Quel mois de l'année porte le nom du premier empereur romain, Octave, devenu Auguste ?",
-      "answer": "août",
-      "accept": [
-        "aout"
-      ],
-      "choices": [
-        "juillet",
-        "mars",
-        "juin"
-      ],
-      "explanation": "Avant 8 av. J.-C., il s'appelait sextilis, le « sixième » mois ; contrairement à une idée reçue, Auguste ne lui ajouta pas de jour, déjà donné par Jules César.",
-      "wikipedia": "Août"
-    },
-    {
-      "id": "histoire-623",
+      "id": "histoire-616",
       "difficulty": 1,
       "question": "Comment appelait-on le fantassin de l'armée romaine, armé d'un glaive, d'un javelot appelé pilum et d'un grand bouclier ?",
       "answer": "légionnaire",
@@ -368,7 +259,7 @@
       "wikipedia": "Légionnaire romain"
     },
     {
-      "id": "histoire-624",
+      "id": "histoire-617",
       "difficulty": 1,
       "question": "Quel animal a donné son nom à la formation où les légionnaires s'abritaient sous leurs boucliers serrés ?",
       "answer": "tortue",
@@ -384,7 +275,7 @@
       "wikipedia": "Tortue (formation)"
     },
     {
-      "id": "histoire-625",
+      "id": "histoire-618",
       "difficulty": 1,
       "question": "Comment appelait-on les combattants qui s'affrontaient dans l'arène pour divertir le public romain ?",
       "answer": "gladiateurs",
@@ -400,7 +291,7 @@
       "wikipedia": "Gladiateur"
     },
     {
-      "id": "histoire-626",
+      "id": "histoire-619",
       "difficulty": 1,
       "question": "Comment appelle-t-on l'ouvrage, comme le pont du Gard, qui acheminait l'eau vers les villes romaines ?",
       "answer": "aqueduc",
@@ -416,7 +307,7 @@
       "wikipedia": "Aqueduc"
     },
     {
-      "id": "histoire-627",
+      "id": "histoire-620",
       "difficulty": 1,
       "question": "Comment appelait-on les grands bains publics des Romains, avec leurs salles chaudes, tièdes et froides ?",
       "answer": "thermes",
@@ -430,7 +321,7 @@
       "wikipedia": "Thermes romains"
     },
     {
-      "id": "histoire-628",
+      "id": "histoire-621",
       "difficulty": 1,
       "question": "Comment appelle-t-on les grandes routes pavées construites par les légions à travers tout l'Empire de Rome ?",
       "answer": "voies romaines",
@@ -438,7 +329,7 @@
         "voie romaine"
       ],
       "choices": [
-        "chemins de ronde",
+        "chemins de halage",
         "routes royales",
         "pistes caravanières"
       ],
@@ -446,7 +337,7 @@
       "wikipedia": "Voie romaine"
     },
     {
-      "id": "histoire-629",
+      "id": "histoire-622",
       "difficulty": 1,
       "question": "Comment appelait-on, dans la Rome antique, les citoyens du peuple, par opposition aux riches patriciens ?",
       "answer": "plébéiens",
@@ -464,7 +355,7 @@
       "wikipedia": "Plèbe"
     },
     {
-      "id": "histoire-630",
+      "id": "histoire-623",
       "difficulty": 1,
       "question": "Comment les Romains appelaient-ils le vaste territoire, conquis par Jules César, correspondant à peu près à la France actuelle ?",
       "answer": "Gaule",
@@ -480,7 +371,7 @@
       "wikipedia": "Gaule"
     },
     {
-      "id": "histoire-631",
+      "id": "histoire-624",
       "difficulty": 1,
       "question": "Quel récipient en bois cerclé, idéal pour conserver et transporter les liquides, est souvent attribué aux Gaulois ?",
       "answer": "tonneau",
@@ -498,7 +389,7 @@
       "wikipedia": "Tonneau (récipient)"
     },
     {
-      "id": "histoire-632",
+      "id": "histoire-625",
       "difficulty": 1,
       "question": "Quel peuple germanique, dont Clovis fut le roi, a donné son nom à la France ?",
       "answer": "Francs",
@@ -514,7 +405,7 @@
       "wikipedia": "Francs"
     },
     {
-      "id": "histoire-633",
+      "id": "histoire-626",
       "difficulty": 1,
       "question": "Quelle lettre représente le nombre 100 dans les chiffres romains ?",
       "answer": "C",
@@ -528,7 +419,7 @@
       "wikipedia": "Numération romaine"
     },
     {
-      "id": "histoire-634",
+      "id": "histoire-627",
       "difficulty": 1,
       "question": "Comment appelle-t-on les galeries souterraines où les premiers chrétiens de Rome enterraient leurs morts ?",
       "answer": "catacombes",
@@ -544,7 +435,39 @@
       "wikipedia": "Catacombes de Rome"
     },
     {
-      "id": "histoire-635",
+      "id": "histoire-628",
+      "difficulty": 1,
+      "question": "Comment s'appelaient les deux magistrats élus chaque année pour gouverner la République romaine ?",
+      "answer": "consuls",
+      "accept": [
+        "consul"
+      ],
+      "choices": [
+        "préteurs",
+        "tribuns",
+        "censeurs"
+      ],
+      "explanation": "Ce collège de deux magistrats au pouvoir identique remplaça les rois de Rome ; la fonction ne fut abolie qu'en 541, par l'empereur Justinien.",
+      "wikipedia": "Consul (Rome antique)"
+    },
+    {
+      "id": "histoire-629",
+      "difficulty": 1,
+      "question": "Quel oiseau, symbole de Jupiter, ornait l'enseigne la plus sacrée de chaque légion romaine ?",
+      "answer": "aigle",
+      "accept": [
+        "l'aigle"
+      ],
+      "choices": [
+        "corbeau",
+        "faucon",
+        "vautour"
+      ],
+      "explanation": "Marius l'imposa à la place d'enseignes figurant loup, ours ou sanglier ; perdre son aigle était pour une légion le pire des déshonneurs.",
+      "wikipedia": "Aigle romaine"
+    },
+    {
+      "id": "histoire-630",
       "difficulty": 1,
       "question": "Comment appelle-t-on la période de l'histoire européenne située entre l'Antiquité et les Temps modernes ?",
       "answer": "Moyen Âge",
@@ -561,7 +484,7 @@
       "wikipedia": "Moyen Âge"
     },
     {
-      "id": "histoire-636",
+      "id": "histoire-631",
       "difficulty": 1,
       "question": "Comment appelle-t-on le système du Moyen Âge fondé sur les liens d'homme à homme entre seigneurs et vassaux ?",
       "answer": "féodalité",
@@ -579,7 +502,7 @@
       "wikipedia": "Féodalité"
     },
     {
-      "id": "histoire-637",
+      "id": "histoire-632",
       "difficulty": 1,
       "question": "Quel guerrier noble du Moyen Âge, protégé par une armure, devait respecter un code d'honneur et protéger les faibles ?",
       "answer": "chevalier",
@@ -595,7 +518,7 @@
       "wikipedia": "Chevalerie"
     },
     {
-      "id": "histoire-638",
+      "id": "histoire-633",
       "difficulty": 1,
       "question": "Comment appelle-t-on la grande fête guerrière où des chevaliers s'affrontaient en équipes pour s'entraîner et briller ?",
       "answer": "tournoi",
@@ -611,7 +534,7 @@
       "wikipedia": "Tournoi (Moyen Âge)"
     },
     {
-      "id": "histoire-639",
+      "id": "histoire-634",
       "difficulty": 1,
       "question": "Comment appelle-t-on les ouvertures en dents régulières au sommet d'une muraille, qui donnent au château sa silhouette dentelée ?",
       "answer": "créneaux",
@@ -628,7 +551,7 @@
       "wikipedia": "Créneau"
     },
     {
-      "id": "histoire-640",
+      "id": "histoire-635",
       "difficulty": 1,
       "question": "Comment appelle-t-on la fente étroite percée dans un mur de château pour tirer à l'arc ou à l'arbalète ?",
       "answer": "meurtrière",
@@ -644,7 +567,7 @@
       "wikipedia": "Meurtrière"
     },
     {
-      "id": "histoire-641",
+      "id": "histoire-636",
       "difficulty": 1,
       "question": "Quelle grosse poutre, parfois renforcée de métal, servait aux assaillants à enfoncer les portes d'une ville assiégée ?",
       "answer": "bélier",
@@ -658,7 +581,7 @@
       "wikipedia": "Bélier (machine de guerre)"
     },
     {
-      "id": "histoire-642",
+      "id": "histoire-637",
       "difficulty": 1,
       "question": "Quelle arme de trait médiévale, formée d'un arc monté sur un fût, était plus puissante et plus précise qu'un arc classique ?",
       "answer": "arbalète",
@@ -672,7 +595,7 @@
       "wikipedia": "Arbalète"
     },
     {
-      "id": "histoire-643",
+      "id": "histoire-638",
       "difficulty": 1,
       "question": "Comment appelle-t-on le cachot souterrain d'un château où l'on jetait, dit-on, les prisonniers pour les y laisser ?",
       "answer": "oubliettes",
@@ -688,7 +611,7 @@
       "wikipedia": "Oubliette"
     },
     {
-      "id": "histoire-644",
+      "id": "histoire-639",
       "difficulty": 1,
       "question": "Quel emblème végétal stylisé, doré sur fond bleu, ornait les armoiries des rois de France ?",
       "answer": "fleur de lys",
@@ -706,7 +629,7 @@
       "wikipedia": "Fleur de lys"
     },
     {
-      "id": "histoire-645",
+      "id": "histoire-640",
       "difficulty": 1,
       "question": "Selon une chanson de France Gall, quel empereur aurait eu « cette idée folle » d'inventer l'école ?",
       "answer": "Charlemagne",
@@ -720,7 +643,7 @@
       "wikipedia": "Sacré Charlemagne"
     },
     {
-      "id": "histoire-646",
+      "id": "histoire-641",
       "difficulty": 1,
       "question": "Quel attribut physique les rois mérovingiens devaient-ils garder long, signe de leur pouvoir sacré ?",
       "answer": "cheveux",
@@ -737,7 +660,7 @@
       "wikipedia": "Mérovingiens"
     },
     {
-      "id": "histoire-647",
+      "id": "histoire-642",
       "difficulty": 1,
       "question": "Comment appelait-on le moine qui recopiait les livres à la main, avant l'invention de l'imprimerie ?",
       "answer": "copiste",
@@ -754,7 +677,7 @@
       "wikipedia": "Copiste"
     },
     {
-      "id": "histoire-648",
+      "id": "histoire-643",
       "difficulty": 1,
       "question": "Sur quelle peau d'animal soigneusement préparée écrivait-on les manuscrits du Moyen Âge ?",
       "answer": "parchemin",
@@ -768,7 +691,7 @@
       "wikipedia": "Parchemin"
     },
     {
-      "id": "histoire-649",
+      "id": "histoire-644",
       "difficulty": 1,
       "question": "Comment appelle-t-on l'église principale d'un diocèse, où siège l'évêque ?",
       "answer": "cathédrale",
@@ -784,7 +707,7 @@
       "wikipedia": "Cathédrale"
     },
     {
-      "id": "histoire-650",
+      "id": "histoire-645",
       "difficulty": 1,
       "question": "Comment appelle-t-on le monastère dirigé par un abbé ou une abbesse, comme celui de Cluny en Bourgogne ?",
       "answer": "abbaye",
@@ -798,23 +721,7 @@
       "wikipedia": "Abbaye de Cluny"
     },
     {
-      "id": "histoire-651",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on la galerie couverte qui entoure un jardin carré au cœur d'un monastère ?",
-      "answer": "cloître",
-      "accept": [
-        "cloitre"
-      ],
-      "choices": [
-        "déambulatoire",
-        "parvis",
-        "nef"
-      ],
-      "explanation": "Le mot vient du latin « claustrum », d'abord « serrure, barrière » puis « lieu clos », dérivé du verbe claudere, « fermer ».",
-      "wikipedia": "Cloître"
-    },
-    {
-      "id": "histoire-652",
+      "id": "histoire-646",
       "difficulty": 1,
       "question": "Comment appelle-t-on les expéditions militaires lancées par les chrétiens d'Occident pour reprendre Jérusalem ?",
       "answer": "croisades",
@@ -830,7 +737,7 @@
       "wikipedia": "Croisade"
     },
     {
-      "id": "histoire-653",
+      "id": "histoire-647",
       "difficulty": 1,
       "question": "Sous quel arbre du parc de Vincennes Saint Louis rendait-il la justice, selon la tradition ?",
       "answer": "chêne",
@@ -847,24 +754,7 @@
       "wikipedia": "Louis IX"
     },
     {
-      "id": "histoire-654",
-      "difficulty": 1,
-      "question": "Quel grand musée parisien a pris la place d'une forteresse bâtie sous Philippe Auguste vers 1190 ?",
-      "answer": "Louvre",
-      "accept": [
-        "musée du Louvre",
-        "palais du Louvre"
-      ],
-      "choices": [
-        "Orsay",
-        "musée de Cluny",
-        "Carnavalet"
-      ],
-      "explanation": "Le Louvre médiéval occupait le quart sud-ouest de l'actuelle cour Carrée ; Charles V en fit ensuite l'une des principales demeures royales.",
-      "wikipedia": "Palais du Louvre"
-    },
-    {
-      "id": "histoire-655",
+      "id": "histoire-648",
       "difficulty": 1,
       "question": "Quel remède très courant de la médecine médiévale consistait à retirer du sang au malade ?",
       "answer": "saignée",
@@ -880,9 +770,9 @@
       "wikipedia": "Saignée (médecine)"
     },
     {
-      "id": "histoire-656",
+      "id": "histoire-649",
       "difficulty": 1,
-      "question": "Quel couvert, aujourd'hui banal, était peu utilisé au Moyen Âge, où l'on mangeait surtout avec les doigts ?",
+      "question": "Quel couvert, aujourd'hui indispensable, était peu utilisé au Moyen Âge, où l'on mangeait surtout avec les doigts ?",
       "answer": "fourchette",
       "accept": [],
       "choices": [
@@ -894,7 +784,7 @@
       "wikipedia": "Fourchette"
     },
     {
-      "id": "histoire-657",
+      "id": "histoire-650",
       "difficulty": 1,
       "question": "Quel nom portait le signal du soir qui obligeait à éteindre les foyers des maisons pour éviter les incendies ?",
       "answer": "couvre-feu",
@@ -910,7 +800,7 @@
       "wikipedia": "Couvre-feu"
     },
     {
-      "id": "histoire-658",
+      "id": "histoire-651",
       "difficulty": 1,
       "question": "Comment appelait-on le poteau ou la plateforme où l'on exposait publiquement les condamnés à la honte ?",
       "answer": "pilori",
@@ -924,7 +814,7 @@
       "wikipedia": "Pilori"
     },
     {
-      "id": "histoire-659",
+      "id": "histoire-652",
       "difficulty": 1,
       "question": "Quelle tour communale des villes du Nord, comme à Bergues dans Bienvenue chez les Ch'tis, abritait les cloches ?",
       "answer": "beffroi",
@@ -940,7 +830,7 @@
       "wikipedia": "Beffroi"
     },
     {
-      "id": "histoire-660",
+      "id": "histoire-653",
       "difficulty": 1,
       "question": "Quel amuseur de cour, au costume bicolore garni de grelots, avait pour métier de faire rire le roi ?",
       "answer": "bouffon",
@@ -957,7 +847,7 @@
       "wikipedia": "Bouffon"
     },
     {
-      "id": "histoire-661",
+      "id": "histoire-654",
       "difficulty": 1,
       "question": "Quel tribunal de l'Église catholique, créé au XIIIe siècle, était chargé de poursuivre les hérétiques ?",
       "answer": "Inquisition",
@@ -973,7 +863,7 @@
       "wikipedia": "Inquisition"
     },
     {
-      "id": "histoire-662",
+      "id": "histoire-655",
       "difficulty": 1,
       "question": "Comment appelle-t-on les chiffres de 0 à 9 que l'Europe médiévale reçut des savants du monde musulman ?",
       "answer": "chiffres arabes",
@@ -989,7 +879,7 @@
       "wikipedia": "Chiffres arabes"
     },
     {
-      "id": "histoire-663",
+      "id": "histoire-656",
       "difficulty": 1,
       "question": "Contre quel royaume la France s'est-elle battue pendant la guerre de Cent Ans ?",
       "answer": "Angleterre",
@@ -1006,7 +896,7 @@
       "wikipedia": "Guerre de Cent Ans"
     },
     {
-      "id": "histoire-664",
+      "id": "histoire-657",
       "difficulty": 1,
       "question": "Comment appelle-t-on le guerrier de la noblesse militaire du Japon médiéval, vassal d'un seigneur ?",
       "answer": "samouraï",
@@ -1024,7 +914,7 @@
       "wikipedia": "Samouraï"
     },
     {
-      "id": "histoire-665",
+      "id": "histoire-658",
       "difficulty": 1,
       "question": "Comment appelle-t-on les caractères de l'alphabet des anciens Vikings, gravés sur des pierres ou du bois ?",
       "answer": "runes",
@@ -1040,23 +930,7 @@
       "wikipedia": "Rune"
     },
     {
-      "id": "histoire-666",
-      "difficulty": 1,
-      "question": "Comment appelle-t-on la charpente de bois apparente qui quadrille les façades des vieilles maisons d'Alsace ou de Normandie ?",
-      "answer": "colombages",
-      "accept": [
-        "colombage"
-      ],
-      "choices": [
-        "torchis",
-        "lambris",
-        "encorbellement"
-      ],
-      "explanation": "Les vides entre les poutres étaient comblés de torchis, mélange d'argile, de paille et de chaux ; les étages en encorbellement gagnaient de la place sur la rue.",
-      "wikipedia": "Pan de bois"
-    },
-    {
-      "id": "histoire-667",
+      "id": "histoire-659",
       "difficulty": 1,
       "question": "Comment appelait-on au Moyen Âge l'habitant d'une ville, à l'origine celui qui vivait dans un bourg ?",
       "answer": "bourgeois",
@@ -1070,7 +944,7 @@
       "wikipedia": "Bourgeoisie"
     },
     {
-      "id": "histoire-668",
+      "id": "histoire-660",
       "difficulty": 1,
       "question": "Comment appelle-t-on le casque d'acier du chevalier médiéval, qui protégeait toute la tête ?",
       "answer": "heaume",
@@ -1084,7 +958,7 @@
       "wikipedia": "Heaume"
     },
     {
-      "id": "histoire-669",
+      "id": "histoire-661",
       "difficulty": 1,
       "question": "Comment appelait-on l'hôpital des villes médiévales, tenu par l'Église, comme ceux de Paris ou de Beaune ?",
       "answer": "Hôtel-Dieu",
@@ -1101,22 +975,150 @@
       "wikipedia": "Hôtel-Dieu"
     },
     {
-      "id": "histoire-670",
+      "id": "histoire-662",
       "difficulty": 1,
-      "question": "Selon la légende figurant sur le drapeau du Mexique, quel peuple fonda sa capitale là où un aigle était perché sur un cactus ?",
-      "answer": "Aztèques",
+      "question": "Comment appelait-on le noble maître d'un domaine médiéval, qui rendait la justice et percevait des redevances des paysans ?",
+      "answer": "seigneur",
       "accept": [
-        "Aztèque",
-        "Mexicas",
-        "Azteques"
+        "seigneurs"
       ],
       "choices": [
-        "Mayas",
-        "Incas",
-        "Olmèques"
+        "vassal",
+        "bailli",
+        "intendant"
       ],
-      "explanation": "Cette vision aurait eu lieu en 1325 sur une île du lac Texcoco ; selon certaines sources, l'aigle tenait non un serpent mais une figue de Barbarie.",
-      "wikipedia": "Aztèques"
+      "explanation": "Celui qui détenait le droit de haute justice portait le titre de seigneur justicier ; la seigneurie apparut lors de la dislocation de l'Empire carolingien.",
+      "wikipedia": "Seigneurie (institution)"
+    },
+    {
+      "id": "histoire-663",
+      "difficulty": 1,
+      "question": "Comment qualifiait-on le four, le moulin ou le pressoir du seigneur, que les paysans devaient utiliser contre paiement ?",
+      "answer": "banal",
+      "accept": [
+        "banaux",
+        "banale"
+      ],
+      "choices": [
+        "seigneurial",
+        "communal",
+        "royal"
+      ],
+      "explanation": "En échange, le seigneur devait entretenir ces installations ; abolies la nuit du 4 août 1789 moyennant rachat, les banalités le furent sans rachat en 1793.",
+      "wikipedia": "Banalité (droit seigneurial)"
+    },
+    {
+      "id": "histoire-664",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les restes d'un saint, ossements ou objets, vénérés dans les églises du Moyen Âge ?",
+      "answer": "reliques",
+      "accept": [
+        "relique"
+      ],
+      "choices": [
+        "icônes",
+        "ex-voto",
+        "amulettes"
+      ],
+      "explanation": "Leur culte entraîna un véritable commerce et de nombreuses fausses reliques ; on les conservait dans des coffrets précieux appelés reliquaires.",
+      "wikipedia": "Relique"
+    },
+    {
+      "id": "histoire-665",
+      "difficulty": 1,
+      "question": "Quel instrument d'écriture, tiré d'un oiseau et taillé en bec pour retenir l'encre, domina tout le Moyen Âge ?",
+      "answer": "plume",
+      "accept": [
+        "plume d'oie",
+        "plumes"
+      ],
+      "choices": [
+        "calame",
+        "stylet",
+        "pinceau"
+      ],
+      "explanation": "Les Romains lui préféraient le calame de roseau ; si l'on ne parle plus que de l'oie, on utilisait aussi des plumes de corbeau, de canard ou de vautour.",
+      "wikipedia": "Plume (écriture)"
+    },
+    {
+      "id": "histoire-666",
+      "difficulty": 1,
+      "question": "Quelle empreinte de cire, apposée au bas d'un acte, servait au Moyen Âge à authentifier un document ?",
+      "answer": "sceau",
+      "accept": [
+        "sceaux",
+        "scel"
+      ],
+      "choices": [
+        "blason",
+        "paraphe",
+        "filigrane"
+      ],
+      "explanation": "Au Moyen Âge, c'était l'unique moyen d'authentifier un document ; il garantissait aussi la confidentialité des messages qu'il fermait.",
+      "wikipedia": "Sceau"
+    },
+    {
+      "id": "histoire-667",
+      "difficulty": 1,
+      "question": "Comment appelait-on le puissant cheval de bataille du chevalier, que l'écuyer menait de la main droite ?",
+      "answer": "destrier",
+      "accept": [
+        "destriers"
+      ],
+      "choices": [
+        "palefroi",
+        "roncin",
+        "étalon"
+      ],
+      "explanation": "Son nom vient de « dextre », la droite ; contrairement à une opinion répandue, c'était un cheval rare, et aussi le plus cher de tous.",
+      "wikipedia": "Destrier"
+    },
+    {
+      "id": "histoire-668",
+      "difficulty": 1,
+      "question": "Quelle pièce de métal, fixée au talon du cavalier, servait à piquer les flancs du cheval pour le faire avancer ?",
+      "answer": "éperon",
+      "accept": [
+        "éperons",
+        "eperon"
+      ],
+      "choices": [
+        "étrier",
+        "mors",
+        "fer"
+      ],
+      "explanation": "Pour la charge à la lance, jambes tendues en avant, certains chevaliers portaient des éperons dont la tige pouvait mesurer 40 à 50 cm.",
+      "wikipedia": "Éperon"
+    },
+    {
+      "id": "histoire-669",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le passage aménagé au sommet des remparts d'un château, où circulaient les sentinelles ?",
+      "answer": "chemin de ronde",
+      "accept": [
+        "chemin de guet"
+      ],
+      "choices": [
+        "courtine",
+        "parapet",
+        "coursive"
+      ],
+      "explanation": "Appelé aussi chemin de guet, il longeait souvent les courtines, protégé côté extérieur par un parapet percé de créneaux.",
+      "wikipedia": "Chemin de ronde"
+    },
+    {
+      "id": "histoire-670",
+      "difficulty": 1,
+      "question": "Quel jour de la semaine, le 13 octobre 1307, Philippe le Bel fit-il arrêter tous les Templiers de son royaume ?",
+      "answer": "vendredi",
+      "accept": [],
+      "choices": [
+        "lundi",
+        "dimanche",
+        "mardi"
+      ],
+      "explanation": "Certains font remonter à ce jour la superstition du vendredi 13 ; accusés d'hérésie, les Templiers furent torturés et leur ordre dissous.",
+      "wikipedia": "Vendredi treize"
     }
   ]
 }
