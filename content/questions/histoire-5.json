@@ -158,18 +158,17 @@
     {
       "id": "histoire-681",
       "difficulty": 1,
-      "question": "Quel pirate anglais à la longue barbe noire, aux mèches allumées dans les cheveux, terrorisa les Caraïbes vers 1717 ?",
+      "question": "Sous quel surnom connaît-on le pirate anglais Edward Teach, qui glissait des mèches allumées dans ses cheveux pour terrifier ses ennemis ?",
       "answer": "Barbe Noire",
       "accept": [
-        "Barbe-Noire",
-        "Edward Teach"
+        "Barbe-Noire"
       ],
       "choices": [
         "Barbe Rouge",
         "Barberousse",
         "Long John Silver"
       ],
-      "explanation": "Edward Teach glissait des mèches à canon allumées dans ses cheveux pendant les combats pour effrayer ses adversaires ; il fut tué en 1718.",
+      "explanation": "Il terrorisa les Caraïbes vers 1717 à bord de son navire, le Queen Anne’s Revenge, avant d’être tué au combat en 1718.",
       "wikipedia": "Barbe Noire"
     },
     {

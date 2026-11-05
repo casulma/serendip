@@ -28,7 +28,7 @@ Les questions sont rédigées par Claude puis vérifiées automatiquement contre
 | Champ | Règle |
 |---|---|
 | `id` | `<categorie>-<numéro sur 3 chiffres>`, unique, sans trou |
-| `difficulty` | 1 = grand public, 2 = bon joueur, 3 = expert. Viser ≈ 40 % / 40 % / 20 % |
+| `difficulty` | 1 = facile : un adulte qui n'est pas fan de quiz trouve **et tape** la réponse environ 7 fois sur 10 ; 2 = bon joueur ; 3 = expert. Viser ≈ 40 % / 40 % / 20 % par catégorie. En cas de doute, choisir le niveau le plus difficile |
 | `question` | 8 à 30 mots, se termine par « ? ». Ne contient pas la réponse ni un mot de la réponse |
 | `answer` | 1 à 4 mots, forme la plus attendue (« Louis XIV », « Canberra », « l'ornithorynque » → écrire « ornithorynque ») |
 | `accept` | variantes réellement acceptables (orthographe, nom seul, abréviation, chiffres/lettres). Peut être vide |
@@ -50,19 +50,19 @@ Les questions sont rédigées par Claude puis vérifiées automatiquement contre
 - Pas de doublon (même fait sous deux formes).
 - Pas de contenu choquant, ni de people ou télé-réalité.
 
-## Catégories et objectif (5 000 questions)
+## Catégories et objectif (5 754 questions)
 
 | Catégorie (`category`) | Libellé | Questions |
 |---|---|---:|
-| `histoire` | Histoire | 600 |
-| `geographie` | Géographie | 600 |
-| `sciences` | Sciences & techniques | 550 |
-| `nature` | Nature & animaux | 450 |
-| `arts-litterature` | Arts & littérature | 500 |
-| `musique` | Musique | 350 |
-| `cinema-tv` | Cinéma & télévision | 400 |
-| `sport` | Sport & jeux | 400 |
-| `langue` | Langue & expressions | 350 |
-| `mythologie` | Mythologies & religions | 250 |
+| `histoire` | Histoire | 745 |
+| `geographie` | Géographie | 800 |
+| `sciences` | Sciences & techniques | 560 |
+| `nature` | Nature & animaux | 500 |
+| `arts-litterature` | Arts & littérature | 610 |
+| `musique` | Musique | 410 |
+| `cinema-tv` | Cinéma & télévision | 422 |
+| `sport` | Sport & jeux | 432 |
+| `langue` | Langue & expressions | 390 |
+| `mythologie` | Mythologies & religions | 310 |
 | `gastronomie` | Gastronomie & vie quotidienne | 300 |
-| `societe` | Société, politique & économie | 250 |
+| `societe` | Société, politique & économie | 275 |

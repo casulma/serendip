@@ -431,16 +431,16 @@
     {
       "id": "langue-378",
       "difficulty": 1,
-      "question": "Quel mot japonais, formé de « plier » et de « papier », désigne l'art de créer des figures pliées ?",
-      "answer": "Origami",
+      "question": "Quel nom courant, qui évoque le premier homme de la Bible, désigne la saillie du cou formée par le cartilage thyroïde ?",
+      "answer": "pomme d'Adam",
       "accept": [],
       "choices": [
-        "Ikebana",
-        "Bonsaï",
-        "Haïku"
+        "nœud d'Ève",
+        "os de Noé",
+        "poire d'Abel"
       ],
-      "explanation": "Quand le découpage s'ajoute au pliage, on parle de kirigami, de « kiru », couper ; au XIXe siècle, Friedrich Fröbel utilisait déjà le pliage dans ses jardins d'enfants.",
-      "wikipedia": "Origami"
+      "explanation": "Les deux sexes la possèdent, mais elle devient plus saillante chez l'homme à la puberté, sous l'effet de la testostérone ; son nom savant est proéminence laryngée.",
+      "wikipedia": "Proéminence laryngée du cartilage thyroïde"
     },
     {
       "id": "langue-379",
