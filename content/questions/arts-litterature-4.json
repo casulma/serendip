@@ -1,0 +1,857 @@
+{
+  "category": "arts-litterature",
+  "questions": [
+    {
+      "id": "arts-litterature-501",
+      "difficulty": 1,
+      "question": "Quel écrivain a raconté dans Les Misérables le destin de Jean Valjean, de Fantine et de la petite Cosette ?",
+      "answer": "Victor Hugo",
+      "accept": [
+        "Hugo"
+      ],
+      "choices": [
+        "Émile Zola",
+        "Alexandre Dumas",
+        "Honoré de Balzac"
+      ],
+      "explanation": "Hugo reprit l'écriture du roman en exil à Guernesey en 1860, après l'avoir interrompue par la révolution de 1848 ; le livre parut en 1862.",
+      "wikipedia": "Les Misérables"
+    },
+    {
+      "id": "arts-litterature-502",
+      "difficulty": 1,
+      "question": "Quel gamin des rues des Misérables est tué sur une barricade parisienne en juin 1832, en ramassant des cartouches ?",
+      "answer": "Gavroche",
+      "accept": [],
+      "choices": [
+        "Marius",
+        "Javert",
+        "Éponine"
+      ],
+      "explanation": "Fils mal aimé des Thénardier, il vit dans la rue ; il tombe en chantant « Je suis tombé par terre, c'est la faute à Voltaire ».",
+      "wikipedia": "Gavroche"
+    },
+    {
+      "id": "arts-litterature-503",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le retour d'un même son à la fin de deux vers, comme « jour » et « amour » ?",
+      "answer": "rime",
+      "accept": [
+        "rimes"
+      ],
+      "choices": [
+        "strophe",
+        "refrain",
+        "syllabe"
+      ],
+      "explanation": "La rime n'est pas seulement décorative : elle aide aussi à mémoriser, ce qui explique sa place dans les comptines, les proverbes et les chansons.",
+      "wikipedia": "Rime"
+    },
+    {
+      "id": "arts-litterature-504",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on, dans un poème, un groupe de vers séparé des autres par une ligne blanche ?",
+      "answer": "strophe",
+      "accept": [
+        "strophes"
+      ],
+      "choices": [
+        "rime",
+        "paragraphe",
+        "chapitre"
+      ],
+      "explanation": "Une strophe porte un nom selon son nombre de vers : un tercet en compte trois, un quatrain quatre.",
+      "wikipedia": "Strophe"
+    },
+    {
+      "id": "arts-litterature-505",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on chacune des lignes d'un poème, qui commence souvent par une majuscule ?",
+      "answer": "vers",
+      "accept": [],
+      "choices": [
+        "rime",
+        "strophe",
+        "phrase"
+      ],
+      "explanation": "Le mot vient du latin versus, « le sillon » : comme le laboureur au bout de son champ, le poète fait demi-tour et retourne à la ligne.",
+      "wikipedia": "Vers"
+    },
+    {
+      "id": "arts-litterature-506",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on, au théâtre, la pause qui sépare deux actes d'une représentation ?",
+      "answer": "entracte",
+      "accept": [],
+      "choices": [
+        "prologue",
+        "rappel",
+        "relâche"
+      ],
+      "explanation": "Les Grecs ne connaissaient pas cette pause ; ce sont les Romains qui, les premiers, ont découpé leurs spectacles en plusieurs parties, occupées par des joueurs de flûte.",
+      "wikipedia": "Entracte"
+    },
+    {
+      "id": "arts-litterature-507",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les parties d'un théâtre, sur les côtés ou derrière la scène, cachées aux spectateurs ?",
+      "answer": "coulisses",
+      "accept": [
+        "coulisse"
+      ],
+      "choices": [
+        "loges",
+        "cintres",
+        "fosse"
+      ],
+      "explanation": "Au XVIIe siècle, les coulisses étaient des glissières permettant de faire avancer ou reculer les décors sur les côtés de la scène.",
+      "wikipedia": "Coulisse"
+    },
+    {
+      "id": "arts-litterature-508",
+      "difficulty": 1,
+      "question": "En quelles grandes parties divise-t-on une pièce de théâtre, la tragédie classique en comptant cinq ?",
+      "answer": "actes",
+      "accept": [
+        "acte"
+      ],
+      "choices": [
+        "chapitres",
+        "chants",
+        "tableaux"
+      ],
+      "explanation": "Chaque acte se subdivise en scènes ; dans le théâtre classique français, une nouvelle scène commence dès qu'un personnage entre ou sort.",
+      "wikipedia": "Acte (théâtre)"
+    },
+    {
+      "id": "arts-litterature-509",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on, au théâtre, le passage où un personnage seul en scène parle à voix haute pour lui-même ?",
+      "answer": "monologue",
+      "accept": [],
+      "choices": [
+        "dialogue",
+        "aparté",
+        "prologue"
+      ],
+      "explanation": "Le mot vient du grec mono, « un seul », et logos, « discours » ; le plus célèbre est sans doute celui d'Hamlet, « Être ou ne pas être ».",
+      "wikipedia": "Monologue"
+    },
+    {
+      "id": "arts-litterature-510",
+      "difficulty": 1,
+      "question": "Quel genre théâtral, opposé à la comédie, met en scène des héros nobles promis à une fin malheureuse ?",
+      "answer": "tragédie",
+      "accept": [],
+      "choices": [
+        "farce",
+        "vaudeville",
+        "mélodrame"
+      ],
+      "explanation": "La tragédie est née en Grèce antique, illustrée par trois grands auteurs : Eschyle, Sophocle et Euripide, avant Corneille et Racine en France.",
+      "wikipedia": "Tragédie"
+    },
+    {
+      "id": "arts-litterature-511",
+      "difficulty": 1,
+      "question": "Que frappe-t-on traditionnellement sur le plancher de la scène, en France, juste avant le lever du rideau ?",
+      "answer": "trois coups",
+      "accept": [
+        "les trois coups",
+        "3 coups"
+      ],
+      "choices": [
+        "deux coups",
+        "douze coups",
+        "sept coups"
+      ],
+      "explanation": "On les frappe avec un bâton appelé brigadier ; une tradition les fait remonter à la troupe de Molière, qui annonçait ainsi le roi, la reine et le dauphin.",
+      "wikipedia": "Trois coups"
+    },
+    {
+      "id": "arts-litterature-512",
+      "difficulty": 1,
+      "question": "Quel dramaturge du XVIIe siècle, dont le nom sert à désigner la langue française, a écrit L'Avare et Le Misanthrope ?",
+      "answer": "Molière",
+      "accept": [],
+      "choices": [
+        "Racine",
+        "Corneille",
+        "Marivaux"
+      ],
+      "explanation": "Comédien autant qu'auteur, il jouait dans ses propres pièces avec sa troupe ; Le Misanthrope fut créé en 1666 et L'Avare en 1668.",
+      "wikipedia": "Molière"
+    },
+    {
+      "id": "arts-litterature-513",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la leçon de sagesse placée à la fin ou au début d'une fable de La Fontaine ?",
+      "answer": "morale",
+      "accept": [],
+      "choices": [
+        "devise",
+        "maxime",
+        "dédicace"
+      ],
+      "explanation": "La morale n'est pas toujours écrite : il arrive que le fabuliste la laisse implicite et que le lecteur doive la deviner lui-même.",
+      "wikipedia": "Fable"
+    },
+    {
+      "id": "arts-litterature-514",
+      "difficulty": 1,
+      "question": "Quel aliment le corbeau, flatté par le renard sur son beau plumage, laisse-t-il tomber de son bec ?",
+      "answer": "fromage",
+      "accept": [],
+      "choices": [
+        "morceau de pain",
+        "saucisse",
+        "noix"
+      ],
+      "explanation": "La scène existait déjà dans le Roman de Renart, où Tiécelin le corbeau se fait voler un fromage dérobé à une vieille femme.",
+      "wikipedia": "Le Corbeau et le Renard"
+    },
+    {
+      "id": "arts-litterature-515",
+      "difficulty": 1,
+      "question": "Quel insecte, ayant chanté tout l'été, va crier famine chez sa voisine dans une fable de La Fontaine ?",
+      "answer": "cigale",
+      "accept": [
+        "la cigale"
+      ],
+      "choices": [
+        "sauterelle",
+        "abeille",
+        "grillon"
+      ],
+      "explanation": "C'est la toute première fable du premier recueil de 1668 ; la fourmi, « pas prêteuse », répond : « Eh bien ! Dansez maintenant. »",
+      "wikipedia": "La Cigale et la Fourmi (La Fontaine)"
+    },
+    {
+      "id": "arts-litterature-516",
+      "difficulty": 1,
+      "question": "Quel petit animal, chez La Fontaine, s'enfle pour devenir aussi gros qu'un bœuf, jusqu'à éclater ?",
+      "answer": "grenouille",
+      "accept": [
+        "la grenouille"
+      ],
+      "choices": [
+        "crapaud",
+        "souris",
+        "rainette"
+      ],
+      "explanation": "La fable se moque de ceux qui veulent s'élever au-dessus de leur condition, comme le fait aussi Molière dans Le Bourgeois gentilhomme.",
+      "wikipedia": "La Grenouille qui se veut faire aussi grosse que le bœuf"
+    },
+    {
+      "id": "arts-litterature-517",
+      "difficulty": 1,
+      "question": "Quel petit animal, chez La Fontaine, délivre un lion pris dans un filet en rongeant patiemment les mailles ?",
+      "answer": "rat",
+      "accept": [
+        "le rat",
+        "souris"
+      ],
+      "choices": [
+        "lapin",
+        "écureuil",
+        "hérisson"
+      ],
+      "explanation": "La fable porte deux morales : « On a souvent besoin d'un plus petit que soi » et « Patience et longueur de temps font plus que force ni que rage ».",
+      "wikipedia": "Le Lion et le Rat"
+    },
+    {
+      "id": "arts-litterature-518",
+      "difficulty": 1,
+      "question": "Quelle princesse des frères Grimm, vivant chez sept nains, croque une pomme empoisonnée par la reine jalouse ?",
+      "answer": "Blanche-Neige",
+      "accept": [
+        "Blanche Neige"
+      ],
+      "choices": [
+        "Cendrillon",
+        "Raiponce",
+        "Aurore"
+      ],
+      "explanation": "Dans la première version des Grimm, en 1812, la méchante reine qui interroge son miroir magique n'était pas sa belle-mère mais sa propre mère.",
+      "wikipedia": "Blanche-Neige"
+    },
+    {
+      "id": "arts-litterature-519",
+      "difficulty": 1,
+      "question": "Dans quel conte de Grimm un frère et une sœur perdus en forêt trouvent-ils une maison en pain d'épices ?",
+      "answer": "Hansel et Gretel",
+      "accept": [
+        "Hansel"
+      ],
+      "choices": [
+        "Le Petit Poucet",
+        "Jeannot et Margot",
+        "Blanche-Rose"
+      ],
+      "explanation": "La sorcière qui veut cuire Hansel finit elle-même poussée dans le four par Gretel ; dans les premières versions, la maison n'était qu'en pain.",
+      "wikipedia": "Hansel et Gretel"
+    },
+    {
+      "id": "arts-litterature-520",
+      "difficulty": 1,
+      "question": "Quel animal de Perrault, chaussé de bottes, fait passer son pauvre maître pour le marquis de Carabas ?",
+      "answer": "Chat botté",
+      "accept": [
+        "le Chat botté",
+        "chat"
+      ],
+      "choices": [
+        "Renard",
+        "Loup",
+        "Corbeau"
+      ],
+      "explanation": "Le rusé matou triomphe d'un ogre capable de se métamorphoser : il le met au défi de se changer en souris, puis le dévore.",
+      "wikipedia": "Le Maître chat ou le Chat botté"
+    },
+    {
+      "id": "arts-litterature-521",
+      "difficulty": 1,
+      "question": "Dans quel conte le grand méchant loup détruit-il en soufflant des maisons de paille et de bois, mais pas celle de briques ?",
+      "answer": "Les Trois Petits Cochons",
+      "accept": [
+        "Trois Petits Cochons"
+      ],
+      "choices": [
+        "Le Petit Chaperon rouge",
+        "Le Loup et les Sept Chevreaux",
+        "Pierre et le Loup"
+      ],
+      "explanation": "Le conte a été popularisé par le dessin animé de Disney de 1933, et sa chanson « Qui a peur du grand méchant loup ? ».",
+      "wikipedia": "Les Trois Petits Cochons"
+    },
+    {
+      "id": "arts-litterature-522",
+      "difficulty": 1,
+      "question": "Quelle fillette blonde goûte la soupe, s'assoit sur la chaise et s'endort dans le lit de trois ours ?",
+      "answer": "Boucle d'or",
+      "accept": [
+        "Boucles d'or"
+      ],
+      "choices": [
+        "Blanche-Neige",
+        "Cendrillon",
+        "Raiponce"
+      ],
+      "explanation": "Dans la première version imprimée, celle de Robert Southey en 1837, l'intruse n'était pas une fillette mais une méchante vieille femme.",
+      "wikipedia": "Boucle d'or et les Trois Ours"
+    },
+    {
+      "id": "arts-litterature-523",
+      "difficulty": 1,
+      "question": "Quel jeune garçon des Mille et Une Nuits fait apparaître un génie en frottant une vieille lampe merveilleuse ?",
+      "answer": "Aladin",
+      "accept": [
+        "Aladdin"
+      ],
+      "choices": [
+        "Ali Baba",
+        "Sindbad",
+        "Shahriar"
+      ],
+      "explanation": "Ce conte fut ajouté au recueil au XVIIIe siècle par son traducteur français, Antoine Galland, qui y inséra plusieurs histoires absentes des manuscrits arabes.",
+      "wikipedia": "Aladin ou la Lampe merveilleuse"
+    },
+    {
+      "id": "arts-litterature-524",
+      "difficulty": 1,
+      "question": "Quel écrivain du siècle de Louis XIV a publié les contes du Petit Chaperon rouge, de Cendrillon et de Barbe bleue ?",
+      "answer": "Charles Perrault",
+      "accept": [
+        "Perrault"
+      ],
+      "choices": [
+        "Jean de La Fontaine",
+        "Molière",
+        "Jean Racine"
+      ],
+      "explanation": "Membre de l'Académie française et proche de Colbert, il fut aussi le chef de file des Modernes face à Boileau dans la querelle des Anciens et des Modernes.",
+      "wikipedia": "Charles Perrault"
+    },
+    {
+      "id": "arts-litterature-525",
+      "difficulty": 1,
+      "question": "Quel légume du jardin la fée marraine de Cendrillon transforme-t-elle en carrosse pour l'envoyer au bal ?",
+      "answer": "citrouille",
+      "accept": [
+        "potiron"
+      ],
+      "choices": [
+        "navet",
+        "chou",
+        "courgette"
+      ],
+      "explanation": "Chez Perrault, un rat devient cocher, six souris des chevaux et six lézards des laquais, ces derniers étant réputés paresseux à l'époque.",
+      "wikipedia": "Cendrillon"
+    },
+    {
+      "id": "arts-litterature-526",
+      "difficulty": 1,
+      "question": "Quel garçon qui refuse de grandir emmène Wendy et ses frères au Pays imaginaire, dans l'œuvre de James Barrie ?",
+      "answer": "Peter Pan",
+      "accept": [],
+      "choices": [
+        "Pinocchio",
+        "Oliver Twist",
+        "Mowgli"
+      ],
+      "explanation": "Avant d'être un roman, Peter Pan fut une pièce de théâtre, créée à Londres le 27 décembre 1904.",
+      "wikipedia": "Peter Pan"
+    },
+    {
+      "id": "arts-litterature-527",
+      "difficulty": 1,
+      "question": "Quel écrivain anglais, professeur de mathématiques à Oxford, a écrit Alice au pays des merveilles ?",
+      "answer": "Lewis Carroll",
+      "accept": [
+        "Carroll"
+      ],
+      "choices": [
+        "Charles Dickens",
+        "Rudyard Kipling",
+        "Oscar Wilde"
+      ],
+      "explanation": "De son vrai nom Charles Lutwidge Dodgson, il inventa l'histoire pour amuser Alice Liddell, la fille du doyen de son collège, et ses deux sœurs.",
+      "wikipedia": "Lewis Carroll"
+    },
+    {
+      "id": "arts-litterature-528",
+      "difficulty": 1,
+      "question": "Quel animal le Petit Prince demande-t-il à l'aviateur de lui dessiner, lors de leur rencontre dans le désert ?",
+      "answer": "mouton",
+      "accept": [
+        "un mouton"
+      ],
+      "choices": [
+        "renard",
+        "éléphant",
+        "serpent"
+      ],
+      "explanation": "Aucun dessin ne lui convenant, l'aviateur excédé dessine une simple caisse : « Le mouton que tu veux est dedans. »",
+      "wikipedia": "Le Petit Prince"
+    },
+    {
+      "id": "arts-litterature-529",
+      "difficulty": 1,
+      "question": "Quelle élève brillante de Gryffondor, fille de dentistes moldus, est la meilleure amie de Harry Potter avec Ron ?",
+      "answer": "Hermione Granger",
+      "accept": [
+        "Hermione",
+        "Granger"
+      ],
+      "choices": [
+        "Ginny Weasley",
+        "Luna Lovegood",
+        "Cho Chang"
+      ],
+      "explanation": "Née de parents moldus, c'est-à-dire sans pouvoirs magiques, elle travaillera plus tard au ministère de la Magie.",
+      "wikipedia": "Hermione Granger"
+    },
+    {
+      "id": "arts-litterature-530",
+      "difficulty": 1,
+      "question": "Quel sport de sorciers se joue sur des balais volants, avec un Vif d'or à attraper, dans Harry Potter ?",
+      "answer": "Quidditch",
+      "accept": [],
+      "choices": [
+        "Polo",
+        "Croquet",
+        "Cricket"
+      ],
+      "explanation": "Chaque équipe compte sept joueurs ; le jeu a inspiré un vrai sport, pratiqué au sol balai entre les jambes, aujourd'hui appelé quadball.",
+      "wikipedia": "Quidditch"
+    },
+    {
+      "id": "arts-litterature-531",
+      "difficulty": 1,
+      "question": "Quelle romancière britannique a imaginé le jeune sorcier Harry Potter et l'école de Poudlard ?",
+      "answer": "J. K. Rowling",
+      "accept": [
+        "Rowling",
+        "JK Rowling"
+      ],
+      "choices": [
+        "Agatha Christie",
+        "Jane Austen",
+        "Virginia Woolf"
+      ],
+      "explanation": "Le premier tome, L'École des sorciers, parut en 1997 chez Bloomsbury ; ses parents s'étaient eux-mêmes rencontrés dans un train parti de King's Cross.",
+      "wikipedia": "J. K. Rowling"
+    },
+    {
+      "id": "arts-litterature-532",
+      "difficulty": 1,
+      "question": "Quel magicien à longue barbe, d'abord dit le Gris, guide la Communauté de l'Anneau chez Tolkien ?",
+      "answer": "Gandalf",
+      "accept": [],
+      "choices": [
+        "Saroumane",
+        "Merlin",
+        "Elrond"
+      ],
+      "explanation": "Après avoir combattu le Balrog dans les mines de la Moria, il revient transformé et devient Gandalf le Blanc.",
+      "wikipedia": "Gandalf"
+    },
+    {
+      "id": "arts-litterature-533",
+      "difficulty": 1,
+      "question": "Quel jeune reporter à la houppe, toujours accompagné de son chien Milou, est le héros de Hergé ?",
+      "answer": "Tintin",
+      "accept": [],
+      "choices": [
+        "Spirou",
+        "Fantasio",
+        "Rouletabille"
+      ],
+      "explanation": "Il apparaît en 1929 dans Tintin au pays des Soviets ; sa célèbre houppe s'inspirerait de celle du chanteur Félix Mayol.",
+      "wikipedia": "Tintin (personnage)"
+    },
+    {
+      "id": "arts-litterature-534",
+      "difficulty": 1,
+      "question": "Quelle cantatrice surnommée le « Rossignol milanais » poursuit le capitaine Haddock de ses airs d'opéra, dans Tintin ?",
+      "answer": "Bianca Castafiore",
+      "accept": [
+        "Castafiore",
+        "la Castafiore"
+      ],
+      "choices": [
+        "Irma",
+        "Séraphin Lampion",
+        "Peggy"
+      ],
+      "explanation": "Le capitaine, qui la fuit, déforme son nom en « Castafiole », « Catastrophe » ou « Castapipe ».",
+      "wikipedia": "Bianca Castafiore"
+    },
+    {
+      "id": "arts-litterature-535",
+      "difficulty": 1,
+      "question": "Quel petit guerrier gaulois moustachu tire sa force surhumaine de la potion magique, dans la BD de Goscinny et Uderzo ?",
+      "answer": "Astérix",
+      "accept": [
+        "Asterix"
+      ],
+      "choices": [
+        "Obélix",
+        "Abraracourcix",
+        "Panoramix"
+      ],
+      "explanation": "Son nom évoque l'astérisque, le petit signe typographique, et celui d'Obélix l'obèle, un autre signe d'appel de note.",
+      "wikipedia": "Astérix"
+    },
+    {
+      "id": "arts-litterature-536",
+      "difficulty": 1,
+      "question": "Quel petit chien blanc, ami des arbres, accompagne fidèlement Obélix dans les aventures d'Astérix ?",
+      "answer": "Idéfix",
+      "accept": [],
+      "choices": [
+        "Milou",
+        "Rantanplan",
+        "Pif"
+      ],
+      "explanation": "Écologiste avant l'heure, il pleure ou s'évanouit dès qu'on abat un arbre ; il est apparu dans Le Tour de Gaule d'Astérix.",
+      "wikipedia": "Idéfix"
+    },
+    {
+      "id": "arts-litterature-537",
+      "difficulty": 1,
+      "question": "Quel peuple, maître de toute la Gaule sauf un petit village, Obélix juge-t-il « fous » dans sa réplique fétiche ?",
+      "answer": "Romains",
+      "accept": [
+        "les Romains"
+      ],
+      "choices": [
+        "Bretons",
+        "Goths",
+        "Normands"
+      ],
+      "explanation": "La version latine des albums traduit la réplique « Ils sont fous, ces Romains ! » par « Delirant isti Romani ! ».",
+      "wikipedia": "Astérix"
+    },
+    {
+      "id": "arts-litterature-538",
+      "difficulty": 1,
+      "question": "Quel méchant sorcier, ennemi juré des petits lutins bleus de Peyo, veut les capturer pour fabriquer de l'or ?",
+      "answer": "Gargamel",
+      "accept": [],
+      "choices": [
+        "Azraël",
+        "Grand Schtroumpf",
+        "Gargantua"
+      ],
+      "explanation": "C'est lui qui a créé la Schtroumpfette, pour semer la jalousie et la zizanie dans le village des Schtroumpfs.",
+      "wikipedia": "Gargamel"
+    },
+    {
+      "id": "arts-litterature-539",
+      "difficulty": 1,
+      "question": "Comment s'appelle le cocker roux, inséparable compagnon du petit Boule dans la BD de Jean Roba ?",
+      "answer": "Bill",
+      "accept": [],
+      "choices": [
+        "Milou",
+        "Idéfix",
+        "Pif"
+      ],
+      "explanation": "La famille compte aussi Caroline, une tortue ; Bill ne parle pas aux humains mais se fait comprendre par ses mimiques.",
+      "wikipedia": "Boule et Bill"
+    },
+    {
+      "id": "arts-litterature-540",
+      "difficulty": 1,
+      "question": "Comment s'appelle le cheval de Lucky Luke, plus intelligent que bien des humains et même joueur d'échecs ?",
+      "answer": "Jolly Jumper",
+      "accept": [],
+      "choices": [
+        "Rantanplan",
+        "Rossinante",
+        "Tornado"
+      ],
+      "explanation": "Il n'éprouve que mépris pour Rantanplan, le chien le plus bête de l'Ouest, alors que Lucky Luke a de l'affection pour lui.",
+      "wikipedia": "Jolly Jumper"
+    },
+    {
+      "id": "arts-litterature-541",
+      "difficulty": 1,
+      "question": "Quel écolier, entouré de ses copains Alceste, Clotaire et Agnan, a été inventé par Goscinny et Sempé ?",
+      "answer": "Le Petit Nicolas",
+      "accept": [
+        "Petit Nicolas",
+        "Nicolas"
+      ],
+      "choices": [
+        "Titeuf",
+        "Le Petit Spirou",
+        "Boule"
+      ],
+      "explanation": "Alceste est « un copain qui mange tout le temps », Agnan le chouchou de la maîtresse, et Clotaire le dernier de la classe.",
+      "wikipedia": "Le Petit Nicolas"
+    },
+    {
+      "id": "arts-litterature-542",
+      "difficulty": 1,
+      "question": "Quel garçon à queue de singe, héros du manga Dragon Ball, voyage sur un nuage magique ?",
+      "answer": "Son Goku",
+      "accept": [
+        "Goku",
+        "Sangoku",
+        "Son Gokû"
+      ],
+      "choices": [
+        "Naruto",
+        "Luffy",
+        "Végéta"
+      ],
+      "explanation": "Akira Toriyama s'est inspiré de Sun Wukong, le roi des singes du classique chinois Voyage en Occident, lui aussi porté par un nuage.",
+      "wikipedia": "Son Goku"
+    },
+    {
+      "id": "arts-litterature-543",
+      "difficulty": 1,
+      "question": "Quel super-héros des comics, venu de la planète Krypton, perd ses pouvoirs face à la kryptonite ?",
+      "answer": "Superman",
+      "accept": [],
+      "choices": [
+        "Batman",
+        "Spider-Man",
+        "Captain America"
+      ],
+      "explanation": "Créé par Jerry Siegel et Joe Shuster, il apparaît pour la première fois en 1938 dans le premier numéro d'Action Comics.",
+      "wikipedia": "Superman"
+    },
+    {
+      "id": "arts-litterature-544",
+      "difficulty": 1,
+      "question": "Quel best-seller de Dan Brown entraîne le professeur Robert Langdon sur la piste d'un secret caché dans l'œuvre de Léonard ?",
+      "answer": "Da Vinci Code",
+      "accept": [
+        "Le Code de Vinci"
+      ],
+      "choices": [
+        "Anges et Démons",
+        "Inferno",
+        "Le Nom de la rose"
+      ],
+      "explanation": "L'intrigue s'ouvre au musée du Louvre, sur le meurtre du conservateur Jacques Saunière ; la première édition française s'intitulait Le Code de Vinci.",
+      "wikipedia": "Da Vinci Code"
+    },
+    {
+      "id": "arts-litterature-545",
+      "difficulty": 1,
+      "question": "Quel maître américain du roman d'horreur a écrit Carrie, Shining et Ça, où rôde un clown terrifiant ?",
+      "answer": "Stephen King",
+      "accept": [
+        "King"
+      ],
+      "choices": [
+        "Edgar Allan Poe",
+        "Dan Brown",
+        "John Grisham"
+      ],
+      "explanation": "Né dans le Maine, où il situe beaucoup de ses histoires, il a aussi publié plusieurs romans sous le pseudonyme de Richard Bachman.",
+      "wikipedia": "Stephen King"
+    },
+    {
+      "id": "arts-litterature-546",
+      "difficulty": 1,
+      "question": "Dans quel train de luxe, bloqué par la neige, Hercule Poirot enquête-t-il sur un meurtre chez Agatha Christie ?",
+      "answer": "Orient-Express",
+      "accept": [
+        "Orient Express"
+      ],
+      "choices": [
+        "Transsibérien",
+        "Mistral",
+        "Train bleu"
+      ],
+      "explanation": "La victime a reçu douze coups de couteau ; l'arrêt du train dans la neige s'inspire d'un incident réel survenu en 1929.",
+      "wikipedia": "Le Crime de l'Orient-Express"
+    },
+    {
+      "id": "arts-litterature-547",
+      "difficulty": 1,
+      "question": "Quel écrivain nantais a imaginé le capitaine Nemo et le pari de Phileas Fogg de faire le tour du monde ?",
+      "answer": "Jules Verne",
+      "accept": [
+        "Verne"
+      ],
+      "choices": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "H. G. Wells"
+      ],
+      "explanation": "Son premier succès, Cinq Semaines en ballon, parut en 1863 chez l'éditeur Hetzel ; il mourut à Amiens, ville de son épouse.",
+      "wikipedia": "Jules Verne"
+    },
+    {
+      "id": "arts-litterature-548",
+      "difficulty": 1,
+      "question": "Quelle bande de quatre enfants, accompagnés du chien Dagobert, vit des aventures sous la plume d'Enid Blyton ?",
+      "answer": "Le Club des Cinq",
+      "accept": [
+        "Club des Cinq"
+      ],
+      "choices": [
+        "Le Clan des Sept",
+        "Les Six Compagnons",
+        "Fantômette"
+      ],
+      "explanation": "Claude, de son vrai prénom Claudine, est une fille intrépide qui se veut garçon ; la série parut longtemps dans la Bibliothèque rose.",
+      "wikipedia": "Le Club des cinq"
+    },
+    {
+      "id": "arts-litterature-549",
+      "difficulty": 1,
+      "question": "Par quelle formule de quatre mots commencent traditionnellement les contes de fées, en français ?",
+      "answer": "Il était une fois",
+      "accept": [],
+      "choices": [
+        "Au commencement",
+        "Il y a longtemps",
+        "Dans un pays lointain"
+      ],
+      "explanation": "Cette phrase d'ouverture situe d'emblée le récit hors du temps réel ; on la retrouve chez Perrault comme dans d'innombrables contes populaires.",
+      "wikipedia": "Conte"
+    },
+    {
+      "id": "arts-litterature-550",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on familièrement un roman policier, mot aussi employé pour les films du genre ?",
+      "answer": "polar",
+      "accept": [],
+      "choices": [
+        "thriller",
+        "navet",
+        "nanar"
+      ],
+      "explanation": "On considère souvent que le genre est né en 1841 avec une nouvelle d'Edgar Allan Poe, Double Assassinat dans la rue Morgue.",
+      "wikipedia": "Roman policier"
+    },
+    {
+      "id": "arts-litterature-551",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la bande dessinée japonaise, qui se lit traditionnellement de droite à gauche ?",
+      "answer": "manga",
+      "accept": [
+        "mangas"
+      ],
+      "choices": [
+        "anime",
+        "comics",
+        "kawaii"
+      ],
+      "explanation": "Le mot, souvent traduit par « image dérisoire », a été popularisé en Occident par les recueils d'esquisses de Hokusai, au début du XIXe siècle.",
+      "wikipedia": "Manga"
+    },
+    {
+      "id": "arts-litterature-552",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on, en bande dessinée, la forme dessinée qui contient les paroles d'un personnage ?",
+      "answer": "bulle",
+      "accept": [
+        "phylactère",
+        "ballon",
+        "bulles"
+      ],
+      "choices": [
+        "vignette",
+        "case",
+        "planche"
+      ],
+      "explanation": "Une petite pointe, appelée appendice, la relie au personnage qui parle ; une file de petits ronds indique au contraire une pensée.",
+      "wikipedia": "Phylactère (bande dessinée)"
+    },
+    {
+      "id": "arts-litterature-553",
+      "difficulty": 1,
+      "question": "Quel surnom donne-t-on à la bande dessinée, rangée juste après la télévision dans la liste des arts ?",
+      "answer": "neuvième art",
+      "accept": [
+        "9e art",
+        "neuvième"
+      ],
+      "choices": [
+        "septième art",
+        "huitième art",
+        "dixième art"
+      ],
+      "explanation": "L'expression a été employée pour la première fois en 1964 par le critique de cinéma Claude Beylie, puis popularisée par Morris dans le Journal de Spirou.",
+      "wikipedia": "Bande dessinée"
+    },
+    {
+      "id": "arts-litterature-554",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les marchands de livres d'occasion installés dans des boîtes vertes sur les quais de Seine ?",
+      "answer": "bouquinistes",
+      "accept": [
+        "bouquiniste"
+      ],
+      "choices": [
+        "libraires",
+        "colporteurs",
+        "brocanteurs"
+      ],
+      "explanation": "Plus de deux cents bouquinistes y gèrent environ 900 boîtes, d'une couleur réglementée appelée « vert wagon » ; ils sont inscrits au patrimoine immatériel français.",
+      "wikipedia": "Bouquinistes de Paris"
+    },
+    {
+      "id": "arts-litterature-555",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le récit qu'un écrivain fait de sa propre vie, comme Les Confessions de Rousseau ?",
+      "answer": "autobiographie",
+      "accept": [],
+      "choices": [
+        "biographie",
+        "hagiographie",
+        "épopée"
+      ],
+      "explanation": "Le critique Philippe Lejeune a défini le genre dans Le Pacte autobiographique : l'auteur, le narrateur et le personnage principal y sont une seule et même personne.",
+      "wikipedia": "Autobiographie"
+    }
+  ]
+}
