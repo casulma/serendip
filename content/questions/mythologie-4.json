@@ -947,19 +947,19 @@
     {
       "id": "mythologie-310",
       "difficulty": 1,
-      "question": "Quelle petite plante des pelouses porte bonheur quand on en trouve une à quatre feuilles ?",
-      "answer": "trèfle",
+      "question": "Selon une superstition courante en France, quel animal domestique à la robe sombre porte malheur s'il croise votre chemin ?",
+      "answer": "chat noir",
       "accept": [
-        "trèfle à quatre feuilles",
-        "trefle"
+        "chat",
+        "un chat noir"
       ],
       "choices": [
-        "luzerne",
-        "oseille",
-        "pâquerette"
+        "corbeau",
+        "chien noir",
+        "hibou"
       ],
-      "explanation": "C'est une mutation assez rare du trèfle blanc, qui a normalement trois folioles ; la quatrième est souvent plus petite que les autres.",
-      "wikipedia": "Trèfle à quatre feuilles"
+      "explanation": "Ailleurs, c'est l'inverse : dans les îles Britanniques et au Japon, il porte bonheur ; en Allemagne, tout dépend du sens dans lequel il traverse.",
+      "wikipedia": "Chat noir"
     }
   ]
 }
