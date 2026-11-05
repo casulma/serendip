@@ -1,0 +1,1491 @@
+{
+  "category": "geographie",
+  "questions": [
+    {
+      "id": "geographie-601",
+      "difficulty": 1,
+      "question": "Quelle ville, au centre de la péninsule Ibérique, est la capitale de l'Espagne ?",
+      "answer": "Madrid",
+      "accept": [],
+      "choices": [
+        "Barcelone",
+        "Séville",
+        "Valence"
+      ],
+      "explanation": "Sa place de la Puerta del Sol, cœur de la ville, marque le point kilométrique zéro des distances ; Madrid se trouve au centre géométrique du pays.",
+      "wikipedia": "Madrid"
+    },
+    {
+      "id": "geographie-602",
+      "difficulty": 1,
+      "question": "Quelle ville, célèbre pour ses tramways jaunes, ses collines et le fado, est la capitale du Portugal ?",
+      "answer": "Lisbonne",
+      "accept": [],
+      "choices": [
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "explanation": "Bâtie sur l'estuaire du Tage, elle est reliée à la rive sud par deux ponts : le pont du 25 avril, ancien pont Salazar, et le pont Vasco-de-Gama.",
+      "wikipedia": "Lisbonne"
+    },
+    {
+      "id": "geographie-603",
+      "difficulty": 1,
+      "question": "Quelle ville, traversée par la Spree, est la capitale de l'Allemagne ?",
+      "answer": "Berlin",
+      "accept": [],
+      "choices": [
+        "Munich",
+        "Francfort",
+        "Hambourg"
+      ],
+      "explanation": "Pendant la division du pays, Bonn servit de capitale à la RFA ; en 1991, un vote serré du Bundestag a décidé le retour du gouvernement à Berlin.",
+      "wikipedia": "Berlin"
+    },
+    {
+      "id": "geographie-604",
+      "difficulty": 1,
+      "question": "Quelle capitale européenne est dominée par l'Acropole et son temple du Parthénon ?",
+      "answer": "Athènes",
+      "accept": [],
+      "choices": [
+        "Rome",
+        "Istanbul",
+        "Thessalonique"
+      ],
+      "explanation": "La déesse Athéna était la protectrice de la cité ; au Moyen Âge, son temple du Parthénon fut transformé en cathédrale dédiée à la Vierge Marie.",
+      "wikipedia": "Athènes"
+    },
+    {
+      "id": "geographie-605",
+      "difficulty": 1,
+      "question": "Quelle ville néerlandaise, sillonnée de canaux, abrite la maison où Anne Frank écrivit son journal ?",
+      "answer": "Amsterdam",
+      "accept": [],
+      "choices": [
+        "Rotterdam",
+        "La Haye",
+        "Utrecht"
+      ],
+      "explanation": "Amsterdam est la capitale des Pays-Bas, mais le gouvernement et le Parlement siègent à La Haye.",
+      "wikipedia": "Amsterdam"
+    },
+    {
+      "id": "geographie-606",
+      "difficulty": 1,
+      "question": "Quelle capitale, traversée par le Danube, est la ville de la valse de Strauss et de l'impératrice Sissi ?",
+      "answer": "Vienne",
+      "accept": [],
+      "choices": [
+        "Budapest",
+        "Prague",
+        "Salzbourg"
+      ],
+      "explanation": "Capitale de l'Autriche, Vienne a vu vivre une foule de compositeurs célèbres et abrite un célèbre chœur d'enfants, les Wiener Sängerknaben.",
+      "wikipedia": "Vienne (Autriche)"
+    },
+    {
+      "id": "geographie-607",
+      "difficulty": 1,
+      "question": "Quelle ville, où est brassée la célèbre bière brune Guinness, est la capitale de l'Irlande ?",
+      "answer": "Dublin",
+      "accept": [],
+      "choices": [
+        "Belfast",
+        "Cork",
+        "Galway"
+      ],
+      "explanation": "Son nom vient de l'irlandais Dubh Linn, « l'étang noir » ; la ville est traversée par le fleuve Liffey.",
+      "wikipedia": "Dublin"
+    },
+    {
+      "id": "geographie-608",
+      "difficulty": 1,
+      "question": "Quelle ville, capitale de la Belgique, accueille le siège de la Commission européenne ?",
+      "answer": "Bruxelles",
+      "accept": [],
+      "choices": [
+        "Anvers",
+        "Liège",
+        "Luxembourg"
+      ],
+      "explanation": "Ses dix-neuf communes forment la seule partie officiellement bilingue de la Belgique, où le français et le néerlandais ont le même statut.",
+      "wikipedia": "Bruxelles"
+    },
+    {
+      "id": "geographie-609",
+      "difficulty": 1,
+      "question": "Quelle ville, dont le port de Nyhavn est bordé de maisons colorées, est la capitale du Danemark ?",
+      "answer": "Copenhague",
+      "accept": [],
+      "choices": [
+        "Oslo",
+        "Stockholm",
+        "Aarhus"
+      ],
+      "explanation": "La ville compte deux vastes jardins devenus des parcs d'attractions, Bakken et les jardins de Tivoli, ainsi que le quartier libre de Christiania.",
+      "wikipedia": "Copenhague"
+    },
+    {
+      "id": "geographie-610",
+      "difficulty": 1,
+      "question": "Quelle ville, bâtie sur quatorze îles entre un lac et la mer Baltique, est la capitale de la Suède ?",
+      "answer": "Stockholm",
+      "accept": [],
+      "choices": [
+        "Oslo",
+        "Göteborg",
+        "Helsinki"
+      ],
+      "explanation": "L'eau y couvre près d'un tiers de la superficie, ce qui lui vaut, comme à d'autres cités européennes, le surnom de « Venise du Nord ».",
+      "wikipedia": "Stockholm"
+    },
+    {
+      "id": "geographie-611",
+      "difficulty": 1,
+      "question": "Quelle ville, traversée par la Vistule, est la capitale de la Pologne ?",
+      "answer": "Varsovie",
+      "accept": [],
+      "choices": [
+        "Cracovie",
+        "Gdańsk",
+        "Prague"
+      ],
+      "explanation": "Sa vieille ville, presque entièrement rasée en 1944, a été reconstruite à l'identique et inscrite au patrimoine mondial de l'UNESCO.",
+      "wikipedia": "Varsovie"
+    },
+    {
+      "id": "geographie-612",
+      "difficulty": 1,
+      "question": "Quelle ville, traversée par la rivière Moskova, est la capitale de la Russie ?",
+      "answer": "Moscou",
+      "accept": [],
+      "choices": [
+        "Saint-Pétersbourg",
+        "Kiev",
+        "Minsk"
+      ],
+      "explanation": "Son métro, dont la première ligne fut inaugurée en 1935, est célèbre pour ses stations monumentales de style stalinien.",
+      "wikipedia": "Moscou"
+    },
+    {
+      "id": "geographie-613",
+      "difficulty": 1,
+      "question": "Quelle capitale, nichée entre la Belgique, la France et l'Allemagne, porte le même nom que son pays ?",
+      "answer": "Luxembourg",
+      "accept": [],
+      "choices": [
+        "Monaco",
+        "Liège",
+        "Metz"
+      ],
+      "explanation": "La ville accueille plusieurs institutions européennes, dont la Cour de justice de l'Union européenne.",
+      "wikipedia": "Luxembourg (ville)"
+    },
+    {
+      "id": "geographie-614",
+      "difficulty": 1,
+      "question": "Quelle ville, traversée par le Dniepr, est la capitale de l'Ukraine ?",
+      "answer": "Kiev",
+      "accept": [
+        "Kyiv",
+        "Kiyv"
+      ],
+      "choices": [
+        "Odessa",
+        "Minsk",
+        "Kharkiv"
+      ],
+      "explanation": "Kiev fut la capitale de la Rus' de Kiev, État médiéval considéré comme le berceau commun des Ukrainiens, des Russes et des Biélorusses.",
+      "wikipedia": "Kiev"
+    },
+    {
+      "id": "geographie-615",
+      "difficulty": 1,
+      "question": "Quel pays européen est souvent comparé à une botte en raison de sa forme sur les cartes ?",
+      "answer": "Italie",
+      "accept": [],
+      "choices": [
+        "Grèce",
+        "Espagne",
+        "Croatie"
+      ],
+      "explanation": "Le nom « Italie » ne désignait à l'origine que la pointe de la botte, l'actuelle Calabre, habitée par un peuple appelé les Italoi.",
+      "wikipedia": "Italie"
+    },
+    {
+      "id": "geographie-616",
+      "difficulty": 1,
+      "question": "Quel pays alpin, réputé pour ses montres et son chocolat, compte quatre langues nationales ?",
+      "answer": "Suisse",
+      "accept": [],
+      "choices": [
+        "Autriche",
+        "Belgique",
+        "Luxembourg"
+      ],
+      "explanation": "L'allemand, le français, l'italien et le romanche y sont langues nationales ; le pays est une confédération de 26 cantons.",
+      "wikipedia": "Suisse"
+    },
+    {
+      "id": "geographie-617",
+      "difficulty": 1,
+      "question": "Quel État européen, célèbre pour ses tulipes, ses moulins et ses sabots, a gagné de vastes terres sur la mer ?",
+      "answer": "Pays-Bas",
+      "accept": [
+        "Hollande"
+      ],
+      "choices": [
+        "Belgique",
+        "Danemark",
+        "Luxembourg"
+      ],
+      "explanation": "Une grande partie du pays se trouve sous le niveau de la mer, protégée par des digues : d'où son nom de « pays bas ».",
+      "wikipedia": "Pays-Bas"
+    },
+    {
+      "id": "geographie-618",
+      "difficulty": 1,
+      "question": "Quel pays européen compte des milliers d'îles, dont la Crète, Corfou et Santorin ?",
+      "answer": "Grèce",
+      "accept": [],
+      "choices": [
+        "Italie",
+        "Croatie",
+        "Turquie"
+      ],
+      "explanation": "Le pays compte plus de 9 000 îles et îlots, dont près de 200 seulement sont habités, et son territoire est montagneux à 80 %.",
+      "wikipedia": "Grèce"
+    },
+    {
+      "id": "geographie-619",
+      "difficulty": 1,
+      "question": "De quel pays européen étaient originaires le prince Henri le Navigateur et l'explorateur Vasco de Gama ?",
+      "answer": "Portugal",
+      "accept": [],
+      "choices": [
+        "Espagne",
+        "Italie",
+        "Pays-Bas"
+      ],
+      "explanation": "Fondé en 1143, il passe pour le plus vieil État-nation d'Europe, avec des frontières terrestres fixées dès le XIIIe siècle.",
+      "wikipedia": "Portugal"
+    },
+    {
+      "id": "geographie-620",
+      "difficulty": 1,
+      "question": "Quel pays voisin de la France a pour langues officielles le néerlandais, le français et l'allemand ?",
+      "answer": "Belgique",
+      "accept": [],
+      "choices": [
+        "Suisse",
+        "Luxembourg",
+        "Pays-Bas"
+      ],
+      "explanation": "Le pays compte une communauté flamande au nord, une francophone au sud et une petite communauté germanophone à l'est.",
+      "wikipedia": "Belgique"
+    },
+    {
+      "id": "geographie-621",
+      "difficulty": 1,
+      "question": "Quel pays européen occupe la plus grande partie de la péninsule Ibérique ?",
+      "answer": "Espagne",
+      "accept": [],
+      "choices": [
+        "Portugal",
+        "France",
+        "Italie"
+      ],
+      "explanation": "L'Espagne possède aussi les Baléares, les Canaries et deux villes sur la côte africaine, Ceuta et Melilla.",
+      "wikipedia": "Espagne"
+    },
+    {
+      "id": "geographie-622",
+      "difficulty": 1,
+      "question": "Quel État réunit l'Angleterre, l'Écosse, le pays de Galles et l'Irlande du Nord ?",
+      "answer": "Royaume-Uni",
+      "accept": [],
+      "choices": [
+        "Grande-Bretagne",
+        "Irlande",
+        "Islande"
+      ],
+      "explanation": "Son nom complet est « Royaume-Uni de Grande-Bretagne et d'Irlande du Nord » : la Grande-Bretagne n'est que sa plus grande île.",
+      "wikipedia": "Royaume-Uni"
+    },
+    {
+      "id": "geographie-623",
+      "difficulty": 1,
+      "question": "Quelle île volcanique de l'Atlantique Nord porte un nom signifiant littéralement « pays de glace » ?",
+      "answer": "Islande",
+      "accept": [],
+      "choices": [
+        "Groenland",
+        "Irlande",
+        "Norvège"
+      ],
+      "explanation": "En 930, ses chefs créèrent une assemblée commune, l'Althing, présentée comme le plus vieux Parlement du monde.",
+      "wikipedia": "Islande"
+    },
+    {
+      "id": "geographie-624",
+      "difficulty": 1,
+      "question": "Quelle principauté de la Côte d'Azur comprend le quartier de Monte-Carlo, célèbre pour son casino ?",
+      "answer": "Monaco",
+      "accept": [],
+      "choices": [
+        "Andorre",
+        "Liechtenstein",
+        "Saint-Marin"
+      ],
+      "explanation": "Autonome depuis 1297 sous la famille Grimaldi, c'est le deuxième plus petit État indépendant du monde, après le Vatican.",
+      "wikipedia": "Monaco"
+    },
+    {
+      "id": "geographie-625",
+      "difficulty": 1,
+      "question": "Dans quelle nation du Royaume-Uni se trouve le loch Ness, où vivrait un célèbre monstre ?",
+      "answer": "Écosse",
+      "accept": [],
+      "choices": [
+        "Irlande",
+        "pays de Galles",
+        "Angleterre"
+      ],
+      "explanation": "« Loch » signifie lac en gaélique ; deuxième lac d'Écosse par la superficie, le loch Ness est le premier par le volume, car très profond.",
+      "wikipedia": "Loch Ness"
+    },
+    {
+      "id": "geographie-626",
+      "difficulty": 1,
+      "question": "Quel pays a pour emblème le trèfle et fête son saint patron chaque 17 mars ?",
+      "answer": "Irlande",
+      "accept": [],
+      "choices": [
+        "Écosse",
+        "pays de Galles",
+        "Islande"
+      ],
+      "explanation": "Selon la tradition, saint Patrick utilisait la feuille de trèfle à trois lobes pour expliquer la Trinité aux Irlandais.",
+      "wikipedia": "Fête de la Saint-Patrick"
+    },
+    {
+      "id": "geographie-627",
+      "difficulty": 1,
+      "question": "Quelle grande métropole turque, principal centre économique du pays, est à cheval sur l'Europe et l'Asie ?",
+      "answer": "Istanbul",
+      "accept": [],
+      "choices": [
+        "Ankara",
+        "Izmir",
+        "Athènes"
+      ],
+      "explanation": "Elle fut la capitale de la jeune république turque jusqu'en octobre 1923, quand ce rôle fut transféré à Ankara.",
+      "wikipedia": "Istanbul"
+    },
+    {
+      "id": "geographie-628",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Paris, la capitale de la France ?",
+      "answer": "Parisiens",
+      "accept": [
+        "Parisien"
+      ],
+      "choices": [
+        "Parisois",
+        "Parisots",
+        "Lutéciens"
+      ],
+      "explanation": "La ville doit son nom aux Parisii, un peuple gaulois installé sur les bords de la Seine ; les Romains l'appelaient Lutèce.",
+      "wikipedia": "Paris"
+    },
+    {
+      "id": "geographie-629",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Lyon, la grande ville du confluent du Rhône et de la Saône ?",
+      "answer": "Lyonnais",
+      "accept": [
+        "Lyonnaises"
+      ],
+      "choices": [
+        "Lyonais",
+        "Lugdunois",
+        "Gones"
+      ],
+      "explanation": "Lyon est aussi la patrie de Guignol et de son compère Gnafron, deux marionnettes inventées par Laurent Mourguet.",
+      "wikipedia": "Lyon"
+    },
+    {
+      "id": "geographie-630",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Marseille, la Cité phocéenne ?",
+      "answer": "Marseillais",
+      "accept": [
+        "Marseillaises"
+      ],
+      "choices": [
+        "Phocéens",
+        "Massaliotes",
+        "Marsiliens"
+      ],
+      "explanation": "La ville fut fondée vers 600 avant J.-C. par des marins grecs venus de Phocée, qui la baptisèrent Massalia.",
+      "wikipedia": "Marseille"
+    },
+    {
+      "id": "geographie-631",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Bordeaux, la grande ville de la Gironde ?",
+      "answer": "Bordelais",
+      "accept": [
+        "Bordelaises"
+      ],
+      "choices": [
+        "Bordolais",
+        "Burdigaliens",
+        "Girondins"
+      ],
+      "explanation": "Sur ses quais, le Miroir d'eau, face à la place de la Bourse, reflète les façades du XVIIIe siècle.",
+      "wikipedia": "Bordeaux"
+    },
+    {
+      "id": "geographie-632",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Toulouse, la « Ville rose » ?",
+      "answer": "Toulousains",
+      "accept": [
+        "Toulousaines"
+      ],
+      "choices": [
+        "Toulousiens",
+        "Tolosans",
+        "Garonnais"
+      ],
+      "explanation": "La ville a pour cœur la place du Capitole ; du XIIIe au XVIIIe siècle, ses magistrats, les capitouls, en tinrent les annales.",
+      "wikipedia": "Toulouse"
+    },
+    {
+      "id": "geographie-633",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Lille, la grande ville du Nord ?",
+      "answer": "Lillois",
+      "accept": [
+        "Lilloises"
+      ],
+      "choices": [
+        "Lillais",
+        "Lillesiens",
+        "Flandriens"
+      ],
+      "explanation": "Son nom en ancien français, L'Isle, viendrait d'une île des marécages de la vallée de la Deûle, où la ville fut fondée.",
+      "wikipedia": "Lille"
+    },
+    {
+      "id": "geographie-634",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Nantes, ville de la Loire-Atlantique ?",
+      "answer": "Nantais",
+      "accept": [
+        "Nantaises"
+      ],
+      "choices": [
+        "Nantois",
+        "Nantiens",
+        "Ligériens"
+      ],
+      "explanation": "L'écrivain Jules Verne est né à Nantes, où un musée entier est consacré à sa vie et à son œuvre.",
+      "wikipedia": "Nantes"
+    },
+    {
+      "id": "geographie-635",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Strasbourg, la grande ville d'Alsace ?",
+      "answer": "Strasbourgeois",
+      "accept": [
+        "Strasbourgeoises"
+      ],
+      "choices": [
+        "Strasbourgiens",
+        "Argentoratais",
+        "Alsaciens"
+      ],
+      "explanation": "À son achèvement au XVe siècle, sa cathédrale Notre-Dame était le monument le plus haut de toute la chrétienté.",
+      "wikipedia": "Strasbourg"
+    },
+    {
+      "id": "geographie-636",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants du royaume de Belgique, pays de Tintin ?",
+      "answer": "Belges",
+      "accept": [
+        "Belge"
+      ],
+      "choices": [
+        "Belgiens",
+        "Wallons",
+        "Flamands"
+      ],
+      "explanation": "Le souverain de cette monarchie fédérale porte le titre de « roi des Belges », et non celui de roi de Belgique.",
+      "wikipedia": "Belgique"
+    },
+    {
+      "id": "geographie-637",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Londres, la capitale du Royaume-Uni ?",
+      "answer": "Londoniens",
+      "accept": [
+        "Londonien"
+      ],
+      "choices": [
+        "Londrais",
+        "Londrins",
+        "Anglais"
+      ],
+      "explanation": "La ville fut fondée par les Romains vers l'an 50 sous le nom de Londinium, au bord de la Tamise.",
+      "wikipedia": "Londres"
+    },
+    {
+      "id": "geographie-638",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants du Danemark, au nord de l'Allemagne ?",
+      "answer": "Danois",
+      "accept": [
+        "Danoise"
+      ],
+      "choices": [
+        "Danemarkois",
+        "Daniens",
+        "Scandinaves"
+      ],
+      "explanation": "Le royaume comprend aussi les îles Féroé et le Groenland, dont le féroïen et le groenlandais sont langues officielles aux côtés du danois.",
+      "wikipedia": "Danemark"
+    },
+    {
+      "id": "geographie-639",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de la Bretagne, région de Rennes et de Brest ?",
+      "answer": "Bretons",
+      "accept": [
+        "Bretonnes",
+        "Breton"
+      ],
+      "choices": [
+        "Bretagnais",
+        "Armoricains",
+        "Celtes"
+      ],
+      "explanation": "À la fin de l'Empire romain, des Bretons de l'île de Bretagne migrèrent en Armorique avec leur langue, ancêtre du breton, cousin du gallois.",
+      "wikipedia": "Bretagne"
+    },
+    {
+      "id": "geographie-640",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Rennes, chef-lieu de la Bretagne ?",
+      "answer": "Rennais",
+      "accept": [
+        "Rennaises"
+      ],
+      "choices": [
+        "Rennois",
+        "Rennesiens",
+        "Redonais"
+      ],
+      "explanation": "Victime d'un terrible incendie en 1720, son centre médiéval en bois fut en partie reconstruit en pierre, d'où ses belles façades classiques.",
+      "wikipedia": "Rennes"
+    },
+    {
+      "id": "geographie-641",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Grenoble, au pied des Alpes ?",
+      "answer": "Grenoblois",
+      "accept": [
+        "Grenobloises"
+      ],
+      "choices": [
+        "Grenoblais",
+        "Gratianopolitains",
+        "Isérois"
+      ],
+      "explanation": "Les « bulles », téléphérique de la Bastille ouvert en 1934, survolent l'Isère depuis le centre de Grenoble.",
+      "wikipedia": "Grenoble"
+    },
+    {
+      "id": "geographie-642",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de l'Alsace, région de Strasbourg et de Colmar ?",
+      "answer": "Alsaciens",
+      "accept": [
+        "Alsacien",
+        "Alsaciennes"
+      ],
+      "choices": [
+        "Alsatiens",
+        "Alsaçois",
+        "Rhénans"
+      ],
+      "explanation": "Leur dialecte, l'alsacien, est un parler alémanique hérité des Alamans, peuple germanique installé dans la région au IVe siècle.",
+      "wikipedia": "Alsace"
+    },
+    {
+      "id": "geographie-643",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de la Normandie, région de Rouen et de Caen ?",
+      "answer": "Normands",
+      "accept": [
+        "Normand",
+        "Normandes"
+      ],
+      "choices": [
+        "Normandais",
+        "Neustriens",
+        "Cauchois"
+      ],
+      "explanation": "Le duché de Normandie fut fondé en 911 par le chef scandinave Rollon : les Normands descendent en partie de ces « hommes du Nord ».",
+      "wikipedia": "Normandie"
+    },
+    {
+      "id": "geographie-644",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de la Corse, l'île de Beauté ?",
+      "answer": "Corses",
+      "accept": [
+        "Corse"
+      ],
+      "choices": [
+        "Corsicains",
+        "Corsois",
+        "Cyrnéens"
+      ],
+      "explanation": "Leurs chants polyphoniques, souvent interprétés a cappella, évoquent les luttes et la fierté de l'île.",
+      "wikipedia": "Corse"
+    },
+    {
+      "id": "geographie-645",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Bruxelles, la capitale de la Belgique ?",
+      "answer": "Bruxellois",
+      "accept": [
+        "Bruxelloise"
+      ],
+      "choices": [
+        "Bruxellais",
+        "Brusselois",
+        "Brabançons"
+      ],
+      "explanation": "Le nom de la ville viendrait de deux mots germaniques signifiant « marais » et « habitation » : une maison dans les marais.",
+      "wikipedia": "Bruxelles"
+    },
+    {
+      "id": "geographie-646",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Genève, la grande ville suisse du bord du Léman ?",
+      "answer": "Genevois",
+      "accept": [
+        "Genevoise"
+      ],
+      "choices": [
+        "Genévriens",
+        "Genevains",
+        "Lémaniques"
+      ],
+      "explanation": "Au XVIe siècle, Jean Calvin fit de la ville le centre du calvinisme, d'où son surnom de « Rome protestante ».",
+      "wikipedia": "Genève"
+    },
+    {
+      "id": "geographie-647",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants de Rome, la capitale de l'Italie ?",
+      "answer": "Romains",
+      "accept": [
+        "Romain",
+        "Romaines"
+      ],
+      "choices": [
+        "Romans",
+        "Romanais",
+        "Latins"
+      ],
+      "explanation": "La ville s'est bâtie sur sept collines, dont le Palatin, le Capitole et l'Aventin, au bord du Tibre.",
+      "wikipedia": "Rome"
+    },
+    {
+      "id": "geographie-648",
+      "difficulty": 1,
+      "question": "Dans quel musée parisien peut-on admirer La Joconde de Léonard de Vinci ?",
+      "answer": "Louvre",
+      "accept": [
+        "musée du Louvre"
+      ],
+      "choices": [
+        "Orsay",
+        "Centre Pompidou",
+        "Orangerie"
+      ],
+      "explanation": "Avant d'être un musée, le Louvre fut un palais royal ; sa pyramide de verre a été conçue par l'architecte Ieoh Ming Pei.",
+      "wikipedia": "Musée du Louvre"
+    },
+    {
+      "id": "geographie-649",
+      "difficulty": 1,
+      "question": "Quelle grande avenue parisienne relie la place de la Concorde à la place de l'Étoile ?",
+      "answer": "Champs-Élysées",
+      "accept": [
+        "avenue des Champs-Élysées"
+      ],
+      "choices": [
+        "Rivoli",
+        "Opéra",
+        "Foch"
+      ],
+      "explanation": "Son nom vient des Champs Élysées de la mythologie grecque, séjour des héros et des âmes vertueuses après la mort.",
+      "wikipedia": "Avenue des Champs-Élysées"
+    },
+    {
+      "id": "geographie-650",
+      "difficulty": 1,
+      "question": "Quel fleuve traverse Paris avant de se jeter dans la Manche, au Havre ?",
+      "answer": "Seine",
+      "accept": [],
+      "choices": [
+        "Loire",
+        "Marne",
+        "Somme"
+      ],
+      "explanation": "Née sur le plateau de Langres, elle arrose Troyes, Paris et Rouen avant de rejoindre la mer à travers le Bassin parisien.",
+      "wikipedia": "Seine"
+    },
+    {
+      "id": "geographie-651",
+      "difficulty": 1,
+      "question": "Quelle ville alsacienne accueille chaque décembre l'un des plus anciens marchés de Noël d'Europe ?",
+      "answer": "Strasbourg",
+      "accept": [],
+      "choices": [
+        "Colmar",
+        "Mulhouse",
+        "Metz"
+      ],
+      "explanation": "Le Christkindelsmärik existe depuis 1570, ce qui vaut à la ville de se présenter comme la « capitale de Noël ».",
+      "wikipedia": "Christkindelsmärik"
+    },
+    {
+      "id": "geographie-652",
+      "difficulty": 1,
+      "question": "Quelle grande ville du Nord organise chaque septembre une immense braderie, accompagnée de moules-frites ?",
+      "answer": "Lille",
+      "accept": [],
+      "choices": [
+        "Roubaix",
+        "Arras",
+        "Amiens"
+      ],
+      "explanation": "C'est le plus grand marché aux puces d'Europe ; les restaurants y dressent des tas de coquilles de moules, tradition attestée dès 1904.",
+      "wikipedia": "Braderie de Lille"
+    },
+    {
+      "id": "geographie-653",
+      "difficulty": 1,
+      "question": "Quel port du Var, où Louis de Funès incarna un célèbre gendarme, est une station balnéaire très chic ?",
+      "answer": "Saint-Tropez",
+      "accept": [],
+      "choices": [
+        "Cannes",
+        "Antibes",
+        "Hyères"
+      ],
+      "explanation": "C'est le film Et Dieu… créa la femme, avec Brigitte Bardot en 1956, qui transforma ce village de pêcheurs en rendez-vous de la jet-set.",
+      "wikipedia": "Saint-Tropez"
+    },
+    {
+      "id": "geographie-654",
+      "difficulty": 1,
+      "question": "Quelle ville de Haute-Savoie, au bord du lac Léman, a donné son nom à une célèbre eau minérale ?",
+      "answer": "Évian-les-Bains",
+      "accept": [
+        "Évian",
+        "Evian"
+      ],
+      "choices": [
+        "Vittel",
+        "Vichy",
+        "Thonon-les-Bains"
+      ],
+      "explanation": "C'est aussi dans cette ville que furent signés en 1962 les accords qui mirent fin à la guerre d'Algérie.",
+      "wikipedia": "Évian-les-Bains"
+    },
+    {
+      "id": "geographie-655",
+      "difficulty": 1,
+      "question": "Dans quelle ville de Haute-Garonne sont assemblés les avions Airbus et se trouve la Cité de l'espace ?",
+      "answer": "Toulouse",
+      "accept": [],
+      "choices": [
+        "Bordeaux",
+        "Marseille",
+        "Nantes"
+      ],
+      "explanation": "Capitale européenne de l'aéronautique, la ville a vu naître des avions révolutionnaires comme le Concorde et l'Airbus A380.",
+      "wikipedia": "Toulouse"
+    },
+    {
+      "id": "geographie-656",
+      "difficulty": 1,
+      "question": "Quel quartier d'affaires aux portes de Paris, hérissé de gratte-ciel, est dominé par la Grande Arche ?",
+      "answer": "La Défense",
+      "accept": [
+        "Défense"
+      ],
+      "choices": [
+        "Bercy",
+        "Montparnasse",
+        "Saint-Denis"
+      ],
+      "explanation": "Il doit son nom à un groupe sculpté de Louis-Ernest Barrias, La Défense de Paris, hommage aux soldats de la guerre de 1870.",
+      "wikipedia": "La Défense"
+    },
+    {
+      "id": "geographie-657",
+      "difficulty": 1,
+      "question": "Dans quelle ville corse Napoléon Bonaparte a-t-il vu le jour ?",
+      "answer": "Ajaccio",
+      "accept": [],
+      "choices": [
+        "Bastia",
+        "Bonifacio",
+        "Calvi"
+      ],
+      "explanation": "Napoléon y vit le jour trois mois seulement après la conquête de l'île par l'armée de Louis XV ; la ville lui consacre plusieurs monuments.",
+      "wikipedia": "Ajaccio"
+    },
+    {
+      "id": "geographie-658",
+      "difficulty": 1,
+      "question": "Quelle station balnéaire du Pays basque, chère à l'impératrice Eugénie, est un haut lieu du surf ?",
+      "answer": "Biarritz",
+      "accept": [],
+      "choices": [
+        "Arcachon",
+        "Hossegor",
+        "Saint-Jean-de-Luz"
+      ],
+      "explanation": "Napoléon III et Eugénie en firent leur lieu de villégiature ; leur villa Eugénie est devenue l'Hôtel du Palais, face à l'océan.",
+      "wikipedia": "Biarritz"
+    },
+    {
+      "id": "geographie-659",
+      "difficulty": 1,
+      "question": "Quel vaste ensemble montagneux ancien occupe le centre-sud de la France, de l'Auvergne aux Cévennes ?",
+      "answer": "Massif central",
+      "accept": [],
+      "choices": [
+        "Jura",
+        "Vosges",
+        "Morvan"
+      ],
+      "explanation": "Ce massif est très ancien, mais ses volcans de la chaîne des Puys sont jeunes : ils n'ont que quelques milliers d'années.",
+      "wikipedia": "Massif central"
+    },
+    {
+      "id": "geographie-660",
+      "difficulty": 1,
+      "question": "Quelle grande chaîne de montagnes s'étend de Nice jusqu'aux abords de Vienne, en passant par la Suisse et l'Italie ?",
+      "answer": "Alpes",
+      "accept": [],
+      "choices": [
+        "Pyrénées",
+        "Carpates",
+        "Apennins"
+      ],
+      "explanation": "De Monaco à l'Autriche, cet arc montagneux couvre huit pays, dont des petits États comme le Liechtenstein et la Slovénie.",
+      "wikipedia": "Alpes"
+    },
+    {
+      "id": "geographie-661",
+      "difficulty": 1,
+      "question": "Quel océan borde la côte ouest de la France, de la Bretagne au Pays basque ?",
+      "answer": "Atlantique",
+      "accept": [
+        "océan Atlantique"
+      ],
+      "choices": [
+        "Pacifique",
+        "Indien",
+        "Arctique"
+      ],
+      "explanation": "Deuxième océan du globe par sa superficie, il sépare l'Europe et l'Afrique des Amériques.",
+      "wikipedia": "Océan Atlantique"
+    },
+    {
+      "id": "geographie-662",
+      "difficulty": 1,
+      "question": "Quelle mer sépare la Normandie et la Bretagne des côtes de l'Angleterre ?",
+      "answer": "Manche",
+      "accept": [],
+      "choices": [
+        "mer du Nord",
+        "mer Celtique",
+        "mer d'Irlande"
+      ],
+      "explanation": "Les Anglais l'appellent English Channel, tandis qu'en breton on la nomme mor Breizh, c'est-à-dire « mer de Bretagne ».",
+      "wikipedia": "Manche (mer)"
+    },
+    {
+      "id": "geographie-663",
+      "difficulty": 1,
+      "question": "Quelle mer borde Marseille, Nice, Montpellier et Perpignan ?",
+      "answer": "Méditerranée",
+      "accept": [
+        "mer Méditerranée"
+      ],
+      "choices": [
+        "Adriatique",
+        "mer Égée",
+        "mer Noire"
+      ],
+      "explanation": "Son nom vient du latin et signifie « au milieu des terres » ; elle ne communique avec l'Atlantique que par le détroit de Gibraltar.",
+      "wikipedia": "Mer Méditerranée"
+    },
+    {
+      "id": "geographie-664",
+      "difficulty": 1,
+      "question": "Quelle mer borde Dunkerque, la côte belge et les Pays-Bas ?",
+      "answer": "mer du Nord",
+      "accept": [],
+      "choices": [
+        "Manche",
+        "Baltique",
+        "mer de Norvège"
+      ],
+      "explanation": "Ses fonds recèlent d'importants gisements de pétrole et de gaz, exploités surtout par la Norvège et le Royaume-Uni.",
+      "wikipedia": "Mer du Nord"
+    },
+    {
+      "id": "geographie-665",
+      "difficulty": 1,
+      "question": "Quelle région française est réputée pour ses crêpes, ses menhirs et son drapeau noir et blanc, le Gwenn ha du ?",
+      "answer": "Bretagne",
+      "accept": [],
+      "choices": [
+        "Normandie",
+        "Vendée",
+        "Auvergne"
+      ],
+      "explanation": "En breton, Gwenn ha du signifie « blanc et noir » ; ses hermines rappellent les armes des ducs de Bretagne.",
+      "wikipedia": "Drapeau de la Bretagne"
+    },
+    {
+      "id": "geographie-666",
+      "difficulty": 1,
+      "question": "Quelle région de l'est de la France est célèbre pour ses cigognes, ses maisons à colombages et sa choucroute ?",
+      "answer": "Alsace",
+      "accept": [],
+      "choices": [
+        "Lorraine",
+        "Bretagne",
+        "Savoie"
+      ],
+      "explanation": "Annexée par l'Allemagne de 1871 à 1918, l'Alsace a conservé un droit local particulier, dont le régime concordataire des cultes.",
+      "wikipedia": "Alsace"
+    },
+    {
+      "id": "geographie-667",
+      "difficulty": 1,
+      "question": "Quelle région du sud-est de la France est célèbre pour ses champs de lavande et le chant des cigales ?",
+      "answer": "Provence",
+      "accept": [],
+      "choices": [
+        "Bretagne",
+        "Alsace",
+        "Auvergne"
+      ],
+      "explanation": "Son nom vient du latin Provincia : sous Auguste, la Gaule transalpine devint la « province romaine » de Gaule narbonnaise.",
+      "wikipedia": "Provence"
+    },
+    {
+      "id": "geographie-668",
+      "difficulty": 1,
+      "question": "De quelle région alpine, autour de Chambéry et d'Annecy, la fondue et la tartiflette sont-elles des spécialités ?",
+      "answer": "Savoie",
+      "accept": [],
+      "choices": [
+        "Auvergne",
+        "Jura",
+        "Alsace"
+      ],
+      "explanation": "Longtemps possession de la maison de Savoie, cette région n'a été rattachée à la France qu'en 1860.",
+      "wikipedia": "Savoie"
+    },
+    {
+      "id": "geographie-669",
+      "difficulty": 1,
+      "question": "Quelle région, à cheval sur la France et l'Espagne, est célèbre pour son béret, sa pelote et le jambon de Bayonne ?",
+      "answer": "Pays basque",
+      "accept": [],
+      "choices": [
+        "Catalogne",
+        "Béarn",
+        "Andalousie"
+      ],
+      "explanation": "Il compte sept provinces historiques, dont le Labourd, la Basse-Navarre et la Soule du côté français, réunies par la devise Zazpiak Bat.",
+      "wikipedia": "Pays basque"
+    },
+    {
+      "id": "geographie-670",
+      "difficulty": 1,
+      "question": "Dans quelle région volcanique se trouve le parc Vulcania, près de Clermont-Ferrand ?",
+      "answer": "Auvergne",
+      "accept": [],
+      "choices": [
+        "Limousin",
+        "Bourgogne",
+        "Savoie"
+      ],
+      "explanation": "Le parc, ouvert en 2002 à l'initiative de Valéry Giscard d'Estaing, est creusé au cœur de la chaîne des Puys.",
+      "wikipedia": "Vulcania"
+    },
+    {
+      "id": "geographie-671",
+      "difficulty": 1,
+      "question": "Quelle région, autour de Dijon, est réputée pour ses escargots, son bœuf mijoté au vin et ses grands crus ?",
+      "answer": "Bourgogne",
+      "accept": [],
+      "choices": [
+        "Champagne",
+        "Alsace",
+        "Lorraine"
+      ],
+      "explanation": "Elle fut gouvernée au Moyen Âge par de puissants ducs, comme Philippe le Hardi, Jean sans Peur, Philippe le Bon et Charles le Téméraire.",
+      "wikipedia": "Bourgogne (ancienne région administrative)"
+    },
+    {
+      "id": "geographie-672",
+      "difficulty": 1,
+      "question": "Quelle région administrative française a la ville de Paris pour chef-lieu ?",
+      "answer": "Île-de-France",
+      "accept": [],
+      "choices": [
+        "Centre-Val de Loire",
+        "Hauts-de-France",
+        "Normandie"
+      ],
+      "explanation": "Sur seulement 2 % du territoire, elle concentre près d'un Français sur cinq, ce qui en fait la région la plus peuplée du pays.",
+      "wikipedia": "Île-de-France"
+    },
+    {
+      "id": "geographie-673",
+      "difficulty": 1,
+      "question": "Quel département français d'outre-mer est le seul situé sur le continent sud-américain ?",
+      "answer": "Guyane",
+      "accept": [],
+      "choices": [
+        "Martinique",
+        "Guadeloupe",
+        "Mayotte"
+      ],
+      "explanation": "Boisée à 97 %, c'est le département le plus forestier de France, et sa superficie égale presque celle de la Nouvelle-Aquitaine.",
+      "wikipedia": "Guyane"
+    },
+    {
+      "id": "geographie-674",
+      "difficulty": 1,
+      "question": "Quel numéro de département, qui ouvre tous les codes postaux parisiens, correspond à la ville de Paris ?",
+      "answer": "75",
+      "accept": [
+        "soixante-quinze"
+      ],
+      "choices": [
+        "13",
+        "69",
+        "92"
+      ],
+      "explanation": "Paris est à la fois une commune et un département ; ses codes postaux vont de 75001 à 75020, selon l'arrondissement.",
+      "wikipedia": "Paris"
+    },
+    {
+      "id": "geographie-675",
+      "difficulty": 1,
+      "question": "Quelle résidence londonienne, célèbre pour sa relève de la garde, est la résidence officielle du souverain britannique ?",
+      "answer": "palais de Buckingham",
+      "accept": [
+        "Buckingham",
+        "Buckingham Palace"
+      ],
+      "choices": [
+        "Windsor",
+        "Westminster",
+        "Kensington"
+      ],
+      "explanation": "Lorsque le monarque y réside, c'est l'étendard royal qui flotte au sommet ; la relève de la garde attire chaque jour des foules.",
+      "wikipedia": "Palais de Buckingham"
+    },
+    {
+      "id": "geographie-676",
+      "difficulty": 1,
+      "question": "Quelle grande ville espagnole, au bord de la Méditerranée, est la capitale de la Catalogne ?",
+      "answer": "Barcelone",
+      "accept": [],
+      "choices": [
+        "Madrid",
+        "Valence",
+        "Séville"
+      ],
+      "explanation": "Elle a accueilli les Jeux olympiques d'été de 1992, qui ont transformé son front de mer.",
+      "wikipedia": "Barcelone"
+    },
+    {
+      "id": "geographie-677",
+      "difficulty": 1,
+      "question": "Quelle grande ville du nord de l'Italie, en Lombardie, est réputée comme une capitale mondiale de la mode ?",
+      "answer": "Milan",
+      "accept": [],
+      "choices": [
+        "Turin",
+        "Rome",
+        "Florence"
+      ],
+      "explanation": "On peut y voir La Cène de Léonard de Vinci, peinte sur un mur du réfectoire de Santa Maria delle Grazie.",
+      "wikipedia": "Milan"
+    },
+    {
+      "id": "geographie-678",
+      "difficulty": 1,
+      "question": "Quelle forteresse de Moscou, aux murailles de brique rouge, est le siège du pouvoir russe ?",
+      "answer": "Kremlin",
+      "accept": [
+        "Kremlin de Moscou"
+      ],
+      "choices": [
+        "Ermitage",
+        "Loubianka",
+        "Bolchoï"
+      ],
+      "explanation": "En russe, « kremlin » désigne simplement une citadelle : de nombreuses villes russes anciennes possèdent le leur.",
+      "wikipedia": "Kremlin de Moscou"
+    },
+    {
+      "id": "geographie-679",
+      "difficulty": 1,
+      "question": "Quelle région du nord de l'Europe est célèbre pour ses rennes, ses aurores boréales et le soleil de minuit ?",
+      "answer": "Laponie",
+      "accept": [],
+      "choices": [
+        "Scandinavie",
+        "Sibérie",
+        "Groenland"
+      ],
+      "explanation": "Partagée entre la Norvège, la Suède, la Finlande et la Russie, elle est le pays des Samis, peuple autochtone d'éleveurs de rennes.",
+      "wikipedia": "Laponie"
+    },
+    {
+      "id": "geographie-680",
+      "difficulty": 1,
+      "question": "Quel archipel de la Méditerranée, au sud de la Sicile, forme l'un des dix plus petits pays du monde ?",
+      "answer": "Malte",
+      "accept": [],
+      "choices": [
+        "Chypre",
+        "Luxembourg",
+        "Corse"
+      ],
+      "explanation": "Ses langues officielles sont le maltais et l'anglais ; sa capitale, La Valette, est la plus petite capitale de l'Union européenne.",
+      "wikipedia": "Malte"
+    },
+    {
+      "id": "geographie-681",
+      "difficulty": 1,
+      "question": "Quel nom désigne la région d'Europe du Nord qui regroupe la Norvège, la Suède et le Danemark ?",
+      "answer": "Scandinavie",
+      "accept": [],
+      "choices": [
+        "Laponie",
+        "Balkans",
+        "Baltique"
+      ],
+      "explanation": "Lorsqu'on y ajoute la Finlande et l'Islande, on parle plutôt des « pays nordiques ».",
+      "wikipedia": "Scandinavie"
+    },
+    {
+      "id": "geographie-682",
+      "difficulty": 1,
+      "question": "Quel mot-valise désigne l'ensemble formé par la Belgique, les Pays-Bas et le Luxembourg ?",
+      "answer": "Benelux",
+      "accept": [],
+      "choices": [
+        "Flandre",
+        "Euregio",
+        "Wallonie"
+      ],
+      "explanation": "Cette union douanière fut signée le 5 septembre 1944 par les trois gouvernements, alors en exil à Londres.",
+      "wikipedia": "Benelux"
+    },
+    {
+      "id": "geographie-683",
+      "difficulty": 1,
+      "question": "Comment surnomme-t-on le drapeau du Royaume-Uni, qui superpose trois croix ?",
+      "answer": "Union Jack",
+      "accept": [],
+      "choices": [
+        "Red Ensign",
+        "Stars and Stripes",
+        "Saint George's Cross"
+      ],
+      "explanation": "Il combine la croix de saint Georges pour l'Angleterre, celle de saint André pour l'Écosse et celle de saint Patrick pour l'Irlande.",
+      "wikipedia": "Drapeau du Royaume-Uni"
+    },
+    {
+      "id": "geographie-684",
+      "difficulty": 1,
+      "question": "Quelle monnaie utilise-t-on à Genève et à Zurich, la Confédération helvétique n'ayant jamais adopté l'euro ?",
+      "answer": "franc suisse",
+      "accept": [
+        "franc"
+      ],
+      "choices": [
+        "couronne",
+        "florin",
+        "mark"
+      ],
+      "explanation": "Il est la monnaie de la Suisse depuis 1850 et a aussi cours au Liechtenstein depuis 1919 ; son code est CHF.",
+      "wikipedia": "Franc suisse"
+    },
+    {
+      "id": "geographie-685",
+      "difficulty": 1,
+      "question": "Quelle langue, cousine de l'occitan, est parlée à Barcelone à côté de l'espagnol ?",
+      "answer": "catalan",
+      "accept": [],
+      "choices": [
+        "basque",
+        "galicien",
+        "portugais"
+      ],
+      "explanation": "C'est la seule langue officielle de la principauté d'Andorre, et on la parle aussi en France, dans les Pyrénées-Orientales.",
+      "wikipedia": "Catalan"
+    },
+    {
+      "id": "geographie-686",
+      "difficulty": 1,
+      "question": "Quelle île de Charente-Maritime est la plus grande île de France métropolitaine après la Corse ?",
+      "answer": "île d'Oléron",
+      "accept": [
+        "Oléron"
+      ],
+      "choices": [
+        "île de Ré",
+        "Belle-Île-en-Mer",
+        "Noirmoutier"
+      ],
+      "explanation": "Reliée au continent par un pont depuis 1966, elle forme avec le bassin de Marennes un haut lieu de l'élevage des huîtres.",
+      "wikipedia": "Île d'Oléron"
+    },
+    {
+      "id": "geographie-687",
+      "difficulty": 1,
+      "question": "Quelle île des Baléares est mondialement connue pour ses boîtes de nuit et ses fêtes estivales ?",
+      "answer": "Ibiza",
+      "accept": [],
+      "choices": [
+        "Majorque",
+        "Minorque",
+        "Formentera"
+      ],
+      "explanation": "Ses herbiers de posidonie, plante aquatique emblématique de la Méditerranée, régressent sous la pression du tourisme estival.",
+      "wikipedia": "Ibiza"
+    },
+    {
+      "id": "geographie-688",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les habitants néerlandophones du nord de la Belgique ?",
+      "answer": "Flamands",
+      "accept": [
+        "Flamand"
+      ],
+      "choices": [
+        "Wallons",
+        "Bruxellois",
+        "Néerlandais"
+      ],
+      "explanation": "Historiquement, le mot désigne les habitants de l'ancien comté de Flandre, dont une partie se trouve aujourd'hui en France.",
+      "wikipedia": "Flamands"
+    },
+    {
+      "id": "geographie-689",
+      "difficulty": 1,
+      "question": "Comment s'appelle la longue barque noire, menée à la rame, typique des canaux de Venise ?",
+      "answer": "gondole",
+      "accept": [],
+      "choices": [
+        "pirogue",
+        "felouque",
+        "vaporetto"
+      ],
+      "explanation": "Son nom apparaît dès 1094 dans un décret du doge ; son fer de proue servait à l'origine à contrebalancer le poids du gondolier.",
+      "wikipedia": "Gondole"
+    },
+    {
+      "id": "geographie-690",
+      "difficulty": 1,
+      "question": "Quelle grande voie d'eau en forme de S traverse Venise, enjambée notamment par le pont du Rialto ?",
+      "answer": "Grand Canal",
+      "accept": [
+        "Canal Grande",
+        "Grand-Canal"
+      ],
+      "choices": [
+        "canal de la Giudecca",
+        "canal de Cannaregio",
+        "canal Saint-Marc"
+      ],
+      "explanation": "Bordé de palais bâtis par les familles patriciennes, il s'ouvre au sud sur le bassin de Saint-Marc.",
+      "wikipedia": "Grand Canal (Venise)"
+    },
+    {
+      "id": "geographie-691",
+      "difficulty": 1,
+      "question": "Quelle région du sud de l'Espagne, autour de Séville et de Grenade, est le berceau du flamenco ?",
+      "answer": "Andalousie",
+      "accept": [],
+      "choices": [
+        "Catalogne",
+        "Galice",
+        "Castille"
+      ],
+      "explanation": "Son grand fleuve, le Guadalquivir, qui arrose Séville, tire son nom de l'arabe Wad Al Kabir, « le grand fleuve ».",
+      "wikipedia": "Andalousie"
+    },
+    {
+      "id": "geographie-692",
+      "difficulty": 1,
+      "question": "Quel immense amas de sable, à l'entrée du bassin d'Arcachon, est la plus haute d'Europe ?",
+      "answer": "dune du Pilat",
+      "accept": [
+        "Pilat",
+        "dune du Pyla",
+        "Pyla"
+      ],
+      "choices": [
+        "dune de Biscarrosse",
+        "dune de Merzouga",
+        "dune de Lège"
+      ],
+      "explanation": "Côté est, elle gagne sans cesse sur la forêt, ensevelissant les pins au rythme d'un à cinq mètres par an.",
+      "wikipedia": "Dune du Pilat"
+    },
+    {
+      "id": "geographie-693",
+      "difficulty": 1,
+      "question": "Quel secteur de la rive gauche parisienne, autour de la Sorbonne, doit son nom à la langue des étudiants ?",
+      "answer": "Quartier latin",
+      "accept": [],
+      "choices": [
+        "Marais",
+        "Montparnasse",
+        "Saint-Germain-des-Prés"
+      ],
+      "explanation": "Au Moyen Âge, on surnommait l'université le « pays latin », en raison de l'usage intensif du latin dans l'enseignement.",
+      "wikipedia": "Quartier latin (Paris)"
+    },
+    {
+      "id": "geographie-694",
+      "difficulty": 1,
+      "question": "Quelle nation du Royaume-Uni a pour emblème un dragon rouge sur son drapeau ?",
+      "answer": "pays de Galles",
+      "accept": [
+        "Galles"
+      ],
+      "choices": [
+        "Écosse",
+        "Angleterre",
+        "Irlande du Nord"
+      ],
+      "explanation": "Le blanc et le vert du fond rappellent la maison Tudor, dynastie d'origine galloise qui régna sur l'Angleterre de 1485 à 1603.",
+      "wikipedia": "Drapeau du pays de Galles"
+    },
+    {
+      "id": "geographie-695",
+      "difficulty": 1,
+      "question": "Dans quel pays scandinave se trouve le cap Nord, souvent présenté comme la pointe septentrionale de l'Europe ?",
+      "answer": "Norvège",
+      "accept": [],
+      "choices": [
+        "Suède",
+        "Finlande",
+        "Islande"
+      ],
+      "explanation": "En réalité, la pointe voisine de Knivskjellodden s'avance 1 611 mètres plus au nord, mais la falaise du cap Nord a gardé la célébrité.",
+      "wikipedia": "Cap Nord"
+    },
+    {
+      "id": "geographie-696",
+      "difficulty": 1,
+      "question": "De quel pays scandinave viennent le groupe ABBA et l'enseigne de meubles en kit IKEA ?",
+      "answer": "Suède",
+      "accept": [],
+      "choices": [
+        "Norvège",
+        "Danemark",
+        "Finlande"
+      ],
+      "explanation": "Le nom IKEA est un acronyme : les initiales d'Ingvar Kamprad, de la ferme familiale d'Elmtaryd et de son village, Agunnaryd.",
+      "wikipedia": "Ikea"
+    },
+    {
+      "id": "geographie-697",
+      "difficulty": 1,
+      "question": "Dans quel pays européen se trouvent les villes de Vienne, Salzbourg et Innsbruck ?",
+      "answer": "Autriche",
+      "accept": [],
+      "choices": [
+        "Allemagne",
+        "Suisse",
+        "Hongrie"
+      ],
+      "explanation": "Son nom allemand, Österreich, signifie en vieil allemand « le royaume de l'Est » ; il apparaît dans un document de 996.",
+      "wikipedia": "Autriche"
+    },
+    {
+      "id": "geographie-698",
+      "difficulty": 1,
+      "question": "Quel pays des Balkans, bordé par l'Adriatique et ses centaines d'îles, abrite les villes de Dubrovnik et de Split ?",
+      "answer": "Croatie",
+      "accept": [],
+      "choices": [
+        "Slovénie",
+        "Monténégro",
+        "Albanie"
+      ],
+      "explanation": "Le pays compte près de 700 îles, dont une cinquantaine seulement sont habitées ; sa capitale, Zagreb, se trouve à l'intérieur des terres.",
+      "wikipedia": "Croatie"
+    },
+    {
+      "id": "geographie-699",
+      "difficulty": 1,
+      "question": "Quel surnom affectueux les Marseillais donnent-ils à la basilique Notre-Dame-de-la-Garde ?",
+      "answer": "Bonne Mère",
+      "accept": [
+        "la Bonne Mère"
+      ],
+      "choices": [
+        "Belle Dame",
+        "Sainte Mère",
+        "Grande Dame"
+      ],
+      "explanation": "Perchée sur une colline au-dessus du Vieux-Port, sa statue dorée de la Vierge veille sur les marins et les pêcheurs.",
+      "wikipedia": "Basilique Notre-Dame-de-la-Garde"
+    },
+    {
+      "id": "geographie-700",
+      "difficulty": 1,
+      "question": "Quelle région italienne, autour de Florence, de Pise et de Sienne, est célèbre pour ses collines et son chianti ?",
+      "answer": "Toscane",
+      "accept": [],
+      "choices": [
+        "Lombardie",
+        "Ombrie",
+        "Vénétie"
+      ],
+      "explanation": "Le dialecte toscan, celui de Dante, est devenu la base de l'italien moderne.",
+      "wikipedia": "Toscane"
+    }
+  ]
+}
