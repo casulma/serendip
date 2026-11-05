@@ -1,0 +1,505 @@
+{
+  "category": "nature",
+  "questions": [
+    {
+      "id": "nature-451",
+      "difficulty": 1,
+      "question": "Quel oiseau de basse-cour, mâle de la poule, arbore une crête rouge et chante dès l'aube ?",
+      "answer": "coq",
+      "accept": ["coq domestique"],
+      "choices": ["dindon", "jars", "canard"],
+      "explanation": "Le chant du coq est inné, il n'est pas appris. Il chante en réalité toute la journée, mais on le remarque surtout à l'aube, quand le reste du monde se tait.",
+      "wikipedia": "Coq"
+    },
+    {
+      "id": "nature-452",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la femelle du cochon, qui met bas des portées de porcelets ?",
+      "answer": "truie",
+      "accept": [],
+      "choices": ["laie", "brebis", "jument"],
+      "explanation": "Le mâle reproducteur se nomme le verrat, et la jeune femelle qui n'a pas encore mis bas une « cochette ». Le petit non sevré est aussi appelé goret ou cochonnet.",
+      "wikipedia": "Porc"
+    },
+    {
+      "id": "nature-453",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le mâle de la vache, celui que l'on affronte dans les arènes ?",
+      "answer": "taureau",
+      "accept": [],
+      "choices": ["bœuf", "veau", "bison"],
+      "explanation": "Contrairement à la légende, ce n'est pas la couleur rouge de la cape qui l'excite : le taureau ne la distingue pas, c'est le mouvement du tissu qui provoque sa charge.",
+      "wikipedia": "Taureau"
+    },
+    {
+      "id": "nature-454",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le mâle de la chèvre, reconnaissable à sa barbiche et à son odeur très forte ?",
+      "answer": "bouc",
+      "accept": [],
+      "choices": ["bélier", "chevreuil", "verrat"],
+      "explanation": "Cette odeur puissante, renforcée par des glandes situées à la base des cornes, n'est pas un défaut : la chèvre ne s'accouple pas avec un mâle qui ne sent rien.",
+      "wikipedia": "Bouc"
+    },
+    {
+      "id": "nature-455",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le petit de la brebis et du bélier, souvent servi rôti au repas de Pâques ?",
+      "answer": "agneau",
+      "accept": [],
+      "choices": ["chevreau", "veau", "porcelet"],
+      "explanation": "La femelle est appelée agnelle, et la naissance se nomme l'agnelage. Le repas pascal reprend la tradition de l'agneau pascal, symbole très ancien dans le judaïsme puis le christianisme.",
+      "wikipedia": "Agneau"
+    },
+    {
+      "id": "nature-456",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le petit de la jument, capable de galoper quelques heures après sa naissance ?",
+      "answer": "poulain",
+      "accept": ["pouliche"],
+      "choices": ["ânon", "faon", "mulet"],
+      "explanation": "On parle de poulain jusqu'à trois ans environ, et la mise bas de la jument s'appelle le poulinage. Le petit tète sa mère dans les trois à quatre premières heures.",
+      "wikipedia": "Poulain"
+    },
+    {
+      "id": "nature-457",
+      "difficulty": 1,
+      "question": "Quel insecte rayé, élevé dans des ruches, fabrique le miel et la cire ?",
+      "answer": "abeille",
+      "accept": ["abeilles"],
+      "choices": ["guêpe", "frelon", "bourdon"],
+      "explanation": "Surprise : la majorité des espèces d'abeilles ne produit pas de miel. Elles se contentent du nectar des fleurs, et seules les abeilles dites « à miel » en stockent en quantité.",
+      "wikipedia": "Abeille"
+    },
+    {
+      "id": "nature-458",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la seule femelle pondeuse d'une ruche, mère de presque toutes les ouvrières ?",
+      "answer": "reine",
+      "accept": ["reine des abeilles"],
+      "choices": ["ouvrière", "faux-bourdon", "butineuse"],
+      "explanation": "Larve, elle est nourrie exclusivement de gelée royale. On a longtemps cru que cette gelée la rendait reine, mais c'est surtout l'absence de pollen dans son alimentation qui compte.",
+      "wikipedia": "Reine des abeilles"
+    },
+    {
+      "id": "nature-459",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la larve du papillon, qui passe son temps à dévorer des feuilles ?",
+      "answer": "chenille",
+      "accept": [],
+      "choices": ["asticot", "têtard", "larve de hanneton"],
+      "explanation": "Pour grandir, elle change de peau quatre ou cinq fois. La dernière mue, la nymphose, la transforme en chrysalide, d'où sortira le papillon.",
+      "wikipedia": "Chenille (lépidoptère)"
+    },
+    {
+      "id": "nature-460",
+      "difficulty": 1,
+      "question": "Quel mollusque du jardin, qui porte sa coquille sur le dos, sort surtout après la pluie ?",
+      "answer": "escargot",
+      "accept": ["escargots"],
+      "choices": ["limace", "moule", "bigorneau"],
+      "explanation": "Ses yeux se trouvent au bout de la première paire de « cornes », mais il voit mal. Il se fie surtout à l'odorat et au toucher, assurés par l'autre paire de tentacules.",
+      "wikipedia": "Escargot"
+    },
+    {
+      "id": "nature-461",
+      "difficulty": 1,
+      "question": "Quel mollusque gluant du potager, sans coquille apparente, est la terreur des salades ?",
+      "answer": "limace",
+      "accept": ["limaces"],
+      "choices": ["escargot", "ver de terre", "chenille"],
+      "explanation": "Comme l'escargot, la limace est hermaphrodite : chaque individu est à la fois mâle et femelle, ses organes mâles s'activant d'abord, puis les organes femelles.",
+      "wikipedia": "Limace"
+    },
+    {
+      "id": "nature-462",
+      "difficulty": 1,
+      "question": "Combien de pattes possède une araignée, soit deux de plus qu'un insecte ?",
+      "answer": "huit",
+      "accept": ["8"],
+      "choices": ["six", "dix", "douze"],
+      "explanation": "L'araignée n'est pas un insecte : elle n'a ni ailes ni antennes. En revanche, elle possède en général six à huit yeux et tisse sa toile avec la soie produite par ses filières.",
+      "wikipedia": "Araneae"
+    },
+    {
+      "id": "nature-463",
+      "difficulty": 1,
+      "question": "Sous quel nom plus savant connaît-on le ver de terre commun, précieux allié des jardiniers ?",
+      "answer": "lombric",
+      "accept": ["lombric commun", "lombrics"],
+      "choices": ["ténia", "asticot", "nématode"],
+      "explanation": "On l'appelle aussi ver de rosée. Il respire à travers sa peau humide : quand le soleil revient après la pluie, ceux restés en surface meurent desséchés.",
+      "wikipedia": "Lumbricus terrestris"
+    },
+    {
+      "id": "nature-464",
+      "difficulty": 1,
+      "question": "Quel petit mammifère nocturne, couvert de piquants, se roule en boule pour se protéger ?",
+      "answer": "hérisson",
+      "accept": ["herisson"],
+      "choices": ["porc-épic", "taupe", "blaireau"],
+      "explanation": "Ses piquants sont des poils agglomérés et durcis. Insectivore, il est l'ami du jardinier car il se régale de limaces et d'escargots.",
+      "wikipedia": "Hérisson"
+    },
+    {
+      "id": "nature-465",
+      "difficulty": 1,
+      "question": "De quel animal sauvage le chien est-il la forme domestiquée par l'homme ?",
+      "answer": "loup",
+      "accept": ["loup gris"],
+      "choices": ["renard", "chacal", "coyote"],
+      "explanation": "Le loup est la toute première espèce animale domestiquée, bien avant l'agriculture, pour aider à la chasse. Le dingo australien est un chien retourné à l'état sauvage.",
+      "wikipedia": "Chien"
+    },
+    {
+      "id": "nature-466",
+      "difficulty": 1,
+      "question": "Quel petit rongeur de compagnie transporte sa nourriture dans ses abajoues avant de la stocker ?",
+      "answer": "hamster",
+      "accept": [],
+      "choices": ["cochon d'Inde", "gerbille", "souris"],
+      "explanation": "Ces poches extensibles à l'intérieur des joues servent surtout au transport. Le hamster doré, le plus répandu en animalerie, est une espèce menacée dans sa Syrie d'origine.",
+      "wikipedia": "Hamster"
+    },
+    {
+      "id": "nature-467",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les animaux dont les femelles allaitent leurs petits, comme la vache, la baleine ou l'homme ?",
+      "answer": "mammifères",
+      "accept": ["mammifère"],
+      "choices": ["vertébrés", "ovipares", "primates"],
+      "explanation": "Le mot signifie « qui porte des mamelles ». Seuls les monotrèmes, comme l'ornithorynque, n'en ont pas : ils pondent des œufs et le lait suinte de poils mammaires.",
+      "wikipedia": "Mammifère"
+    },
+    {
+      "id": "nature-468",
+      "difficulty": 1,
+      "question": "Comment qualifie-t-on un animal qui mange de tout, végétaux comme viande, à l'image du porc ou de l'ours ?",
+      "answer": "omnivore",
+      "accept": ["omnivores"],
+      "choices": ["herbivore", "carnivore", "insectivore"],
+      "explanation": "L'être humain en est l'exemple le plus connu, tout comme son proche cousin le chimpanzé. Le hérisson et l'opossum figurent aussi parmi les omnivores.",
+      "wikipedia": "Omnivore"
+    },
+    {
+      "id": "nature-469",
+      "difficulty": 1,
+      "question": "Poissons, amphibiens, reptiles, oiseaux et mammifères forment quel grand groupe d'animaux dotés d'un squelette interne ?",
+      "answer": "vertébrés",
+      "accept": ["vertébré", "vertebres"],
+      "choices": ["invertébrés", "arthropodes", "mollusques"],
+      "explanation": "Ils possèdent un crâne et une colonne vertébrale. Les poissons osseux à nageoires rayonnantes représentent à eux seuls près de la moitié des espèces de vertébrés.",
+      "wikipedia": "Vertébrés"
+    },
+    {
+      "id": "nature-470",
+      "difficulty": 1,
+      "question": "À quelle classe d'animaux à écailles appartiennent les serpents, les lézards, les tortues et les crocodiles ?",
+      "answer": "reptiles",
+      "accept": ["reptile"],
+      "choices": ["amphibiens", "batraciens", "sauriens"],
+      "explanation": "Le groupe est trompeur : les crocodiles sont en réalité plus proches parents des oiseaux, avec qui ils partagent un gésier, que des lézards ou des tortues.",
+      "wikipedia": "Reptiles"
+    },
+    {
+      "id": "nature-471",
+      "difficulty": 1,
+      "question": "À quel groupe d'animaux, vivant entre l'eau et la terre, appartiennent la grenouille, le crapaud et le triton ?",
+      "answer": "amphibiens",
+      "accept": ["amphibien", "batraciens"],
+      "choices": ["reptiles", "crustacés", "poissons"],
+      "explanation": "Autrefois appelés batraciens, ils respirent aussi par la peau. Certaines petites salamandres n'ont même pas de poumons et respirent uniquement ainsi.",
+      "wikipedia": "Amphibia"
+    },
+    {
+      "id": "nature-472",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le long sommeil hivernal de la marmotte, du loir ou du hérisson ?",
+      "answer": "hibernation",
+      "accept": [],
+      "choices": ["estivation", "migration", "mue"],
+      "explanation": "L'animal abaisse sa température et sa respiration et vit sur ses graisses. L'ours, lui, n'hiberne pas vraiment : sa somnolence hivernale est entrecoupée de nombreux réveils.",
+      "wikipedia": "Hibernation"
+    },
+    {
+      "id": "nature-473",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le grand voyage saisonnier des hirondelles et des cigognes vers des régions plus chaudes ?",
+      "answer": "migration",
+      "accept": ["migration des oiseaux"],
+      "choices": ["hibernation", "transhumance", "nidification"],
+      "explanation": "Aristote croyait que les hirondelles passaient l'hiver engourdies, sans plumes, et renaissaient au printemps. Le proverbe « une hirondelle ne fait pas le printemps » remonte d'ailleurs à lui.",
+      "wikipedia": "Migration des oiseaux"
+    },
+    {
+      "id": "nature-474",
+      "difficulty": 1,
+      "question": "Quel conifère toujours vert décore-t-on de boules et de guirlandes dans les maisons pour les fêtes de Noël ?",
+      "answer": "sapin",
+      "accept": ["sapin de Noël"],
+      "choices": ["houx", "cyprès", "if"],
+      "explanation": "En 1521, Sélestat autorisait déjà ses habitants à couper de petits sapins pour Noël. Ironie : le « sapin » est souvent un épicéa, aujourd'hui supplanté par le sapin de Nordmann.",
+      "wikipedia": "Sapin de Noël"
+    },
+    {
+      "id": "nature-475",
+      "difficulty": 1,
+      "question": "Quel arbre des bords de l'eau, dit « pleureur », laisse retomber ses longues branches jusqu'au sol ?",
+      "answer": "saule pleureur",
+      "accept": ["saule"],
+      "choices": ["peuplier", "bouleau", "tilleul"],
+      "explanation": "L'espèce d'origine, Salix babylonica, vient de Chine. La plupart des saules pleureurs plantés ailleurs sont des hybrides avec le saule blanc.",
+      "wikipedia": "Saule pleureur"
+    },
+    {
+      "id": "nature-476",
+      "difficulty": 1,
+      "question": "Quel palmier des plages tropicales donne un gros fruit à coque brune, rempli d'un liquide sucré ?",
+      "answer": "cocotier",
+      "accept": [],
+      "choices": ["dattier", "bananier", "baobab"],
+      "explanation": "Sa noix flotte et peut dériver longtemps sur les courants marins avant de germer sur un autre rivage : c'est ainsi que le cocotier a colonisé les côtes tropicales.",
+      "wikipedia": "Cocotier"
+    },
+    {
+      "id": "nature-477",
+      "difficulty": 1,
+      "question": "Quelle grande plante tropicale, souvent prise pour un arbre, porte des fruits jaunes groupés en régimes ?",
+      "answer": "bananier",
+      "accept": [],
+      "choices": ["cocotier", "manguier", "palmier dattier"],
+      "explanation": "Le bananier est une plante herbacée sans vrai tronc, seulement un faux-tronc de feuilles. Chaque pied ne donne qu'un seul régime, puis meurt après la floraison.",
+      "wikipedia": "Bananier"
+    },
+    {
+      "id": "nature-478",
+      "difficulty": 1,
+      "question": "Quelle fleur à tige piquante, la plus vendue chez les fleuristes, offre-t-on en bouquet rouge aux amoureux ?",
+      "answer": "rose",
+      "accept": ["roses", "rosier"],
+      "choices": ["tulipe", "œillet", "pivoine"],
+      "explanation": "Les « épines » du rosier sont en fait des aiguillons, de simples excroissances de l'épiderme, et non de vraies épines.",
+      "wikipedia": "Rosier"
+    },
+    {
+      "id": "nature-479",
+      "difficulty": 1,
+      "question": "Quelle fleur à bulbe, aux pétales en forme de coupe, est devenue l'emblème des Pays-Bas ?",
+      "answer": "tulipe",
+      "accept": ["tulipes"],
+      "choices": ["jacinthe", "jonquille", "crocus"],
+      "explanation": "Son nom vient du turc ottoman signifiant « turban », à cause de sa forme. Chaque année, la famille royale néerlandaise offre des tulipes à Ottawa, en remerciement de l'accueil de la princesse Juliana.",
+      "wikipedia": "Tulipe"
+    },
+    {
+      "id": "nature-480",
+      "difficulty": 1,
+      "question": "Quelle plante aux épis violets et parfumés colore de grands champs en Provence chaque été ?",
+      "answer": "lavande",
+      "accept": [],
+      "choices": ["bruyère", "glycine", "lilas"],
+      "explanation": "Son nom dérive du verbe « laver » : les Romains l'utilisaient déjà pour parfumer leurs bains et conserver le linge.",
+      "wikipedia": "Lavande"
+    },
+    {
+      "id": "nature-481",
+      "difficulty": 1,
+      "question": "Quelle fleur jaune à trompette, aussi appelée narcisse jaune, fleurit les sous-bois au début du printemps ?",
+      "answer": "jonquille",
+      "accept": ["jonquilles"],
+      "choices": ["primevère", "tulipe", "pissenlit"],
+      "explanation": "Jolie mais dangereuse : son bulbe est très toxique, et sucer une tige ou avaler quelques feuilles suffit à provoquer nausées et vomissements.",
+      "wikipedia": "Narcissus pseudonarcissus"
+    },
+    {
+      "id": "nature-482",
+      "difficulty": 1,
+      "question": "Quel fruit, cueilli lors des vendanges, pousse en grappes sur la vigne ?",
+      "answer": "raisin",
+      "accept": ["raisins"],
+      "choices": ["groseille", "olive", "cassis"],
+      "explanation": "Chaque grain est, pour les botanistes, une baie. Outre le vin et le jus, on en tire aussi de l'huile à partir des pépins.",
+      "wikipedia": "Raisin"
+    },
+    {
+      "id": "nature-483",
+      "difficulty": 1,
+      "question": "Quel mannequin vêtu de vieux habits plante-t-on dans les champs et les potagers pour effrayer les oiseaux ?",
+      "answer": "épouvantail",
+      "accept": ["epouvantail"],
+      "choices": ["girouette", "pantin", "leurre"],
+      "explanation": "Son efficacité est limitée : s'il fait fuir les jeunes oiseaux, les plus âgés comprennent la ruse en quelques heures. Le déplacer souvent le rend plus crédible.",
+      "wikipedia": "Épouvantail"
+    },
+    {
+      "id": "nature-484",
+      "difficulty": 1,
+      "question": "Quel petit poisson orangé, cousin de la carpe venu de Chine, nage dans les bocaux et les bassins ?",
+      "answer": "poisson rouge",
+      "accept": ["carassin doré", "cyprin doré"],
+      "choices": ["poisson-clown", "guppy", "combattant"],
+      "explanation": "Oubliez la légende de la mémoire de trois secondes : selon une étude de l'université de Plymouth, il peut garder le souvenir d'un événement jusqu'à trois mois.",
+      "wikipedia": "Carassius auratus"
+    },
+    {
+      "id": "nature-485",
+      "difficulty": 1,
+      "question": "Grâce à quels organes les poissons respirent-ils l'oxygène dissous dans l'eau ?",
+      "answer": "branchies",
+      "accept": ["branchie", "ouïes"],
+      "choices": ["poumons", "nageoires", "écailles"],
+      "explanation": "L'eau entre par la bouche, passe sur les lamelles branchiales très fines et ressort par les ouïes, protégées chez les poissons osseux par un opercule.",
+      "wikipedia": "Branchie"
+    },
+    {
+      "id": "nature-486",
+      "difficulty": 1,
+      "question": "Quel petit rongeur roux des forêts, à la queue en panache, cache des noisettes pour l'hiver ?",
+      "answer": "écureuil",
+      "accept": ["écureuil roux", "ecureuil"],
+      "choices": ["loir", "lérot", "mulot"],
+      "explanation": "Il éparpille ses réserves dans des caches sans logique apparente et en oublie une partie : il participe ainsi à la dissémination des graines et à la régénération des forêts.",
+      "wikipedia": "Écureuil roux"
+    },
+    {
+      "id": "nature-487",
+      "difficulty": 1,
+      "question": "Quelle partie de la plante, cachée sous terre, l'ancre au sol et y puise l'eau et les sels minéraux ?",
+      "answer": "racine",
+      "accept": ["racines"],
+      "choices": ["tige", "bourgeon", "feuille"],
+      "explanation": "L'absorption se fait surtout par de minuscules poils absorbants. Contrairement à la tige, une racine ne porte jamais ni feuilles ni bourgeons.",
+      "wikipedia": "Racine (botanique)"
+    },
+    {
+      "id": "nature-488",
+      "difficulty": 1,
+      "question": "Quelle fine poussière, souvent jaune, produite par les fleurs, les abeilles transportent-elles de fleur en fleur ?",
+      "answer": "pollen",
+      "accept": [],
+      "choices": ["nectar", "propolis", "spores"],
+      "explanation": "Ses grains sont minuscules, de 7 µm chez le myosotis à 150 µm chez la courge. Les plus petits, comme ceux du bouleau, sont souvent les plus allergisants.",
+      "wikipedia": "Pollen"
+    },
+    {
+      "id": "nature-489",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la famille de fruits qui regroupe l'orange, le citron, la mandarine et le pamplemousse ?",
+      "answer": "agrumes",
+      "accept": ["agrume"],
+      "choices": ["drupes", "fruits rouges", "baies"],
+      "explanation": "Leurs ancêtres se sont diversifiés en Asie, et leur pulpe en quartiers juteux est riche en vitamine C, ce qui a favorisé leur diffusion, notamment en Floride au XXe siècle.",
+      "wikipedia": "Agrume"
+    },
+    {
+      "id": "nature-490",
+      "difficulty": 1,
+      "question": "Quelle petite plante des prairies porte bonheur quand on trouve une feuille rare à quatre folioles ?",
+      "answer": "trèfle",
+      "accept": ["trefle", "trèfle à quatre feuilles"],
+      "choices": ["luzerne", "oseille", "pâquerette"],
+      "explanation": "Normalement, ses feuilles n'ont que trois folioles, d'où son nom latin Trifolium. Jadis, on le considérait comme une plante magique liée à la magie blanche.",
+      "wikipedia": "Trèfle"
+    },
+    {
+      "id": "nature-491",
+      "difficulty": 1,
+      "question": "Quelle fibre textile récupère-t-on chaque année lors de la tonte des moutons ?",
+      "answer": "laine",
+      "accept": [],
+      "choices": ["soie", "lin", "coton"],
+      "explanation": "Brute, elle est imprégnée de suint, un mélange de sueur et de graisse. Le mérinos est la race de mouton réputée pour la laine la plus fine.",
+      "wikipedia": "Laine"
+    },
+    {
+      "id": "nature-492",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le museau plat et mobile du cochon, avec lequel il fouille la terre ?",
+      "answer": "groin",
+      "accept": [],
+      "choices": ["mufle", "trompe", "truffe"],
+      "explanation": "Renforcé par du cartilage et un petit os, il sert aux sangliers et aux porcs à déterrer racines et tubercules. Les taupes et les musaraignes en possèdent aussi un.",
+      "wikipedia": "Groin"
+    },
+    {
+      "id": "nature-493",
+      "difficulty": 1,
+      "question": "Quel équidé sauvage d'Afrique est reconnaissable à son pelage rayé noir et blanc ?",
+      "answer": "zèbre",
+      "accept": ["zebre", "zèbres"],
+      "choices": ["okapi", "âne sauvage", "onagre"],
+      "explanation": "Les rayures sont propres à chaque individu, comme une empreinte digitale. L'hypothèse la mieux étayée veut qu'elles protègent l'animal des mouches piqueuses.",
+      "wikipedia": "Zèbre"
+    },
+    {
+      "id": "nature-494",
+      "difficulty": 1,
+      "question": "Quelle matière dure et blanche, convoitée par les braconniers, forme les défenses des éléphants ?",
+      "answer": "ivoire",
+      "accept": [],
+      "choices": ["corne", "nacre", "écaille"],
+      "explanation": "L'ivoire est de la dentine, la même matière que nos dents. Il n'y a pas que l'éléphant : hippopotame, morse, narval et cachalot en fournissent aussi.",
+      "wikipedia": "Ivoire"
+    },
+    {
+      "id": "nature-495",
+      "difficulty": 1,
+      "question": "En quelle saison les feuilles de nombreux arbres jaunissent-elles, rougissent-elles puis tombent-elles ?",
+      "answer": "automne",
+      "accept": ["l'automne"],
+      "choices": ["hiver", "été", "printemps"],
+      "explanation": "Les couleurs ne sont pas fabriquées : en perdant leur chlorophylle verte, les feuilles révèlent des pigments jaunes et orange, les caroténoïdes, qui étaient déjà présents.",
+      "wikipedia": "Automne"
+    },
+    {
+      "id": "nature-496",
+      "difficulty": 1,
+      "question": "Quel insecte aux quatre ailes transparentes et aux gros yeux chasse en vol au-dessus des étangs ?",
+      "answer": "libellule",
+      "accept": ["libellules", "odonate"],
+      "choices": ["éphémère", "sauterelle", "moustique"],
+      "explanation": "Ses larves vivent dans l'eau avant de devenir adultes. Ses lointains cousins du Carbonifère, comme Meganeura, dépassaient 70 cm d'envergure.",
+      "wikipedia": "Odonata"
+    },
+    {
+      "id": "nature-497",
+      "difficulty": 1,
+      "question": "Quel petit oiseau brun des villes et des jardins, surnommé « piaf », niche volontiers sous les toits ?",
+      "answer": "moineau",
+      "accept": ["moineau domestique", "moineaux"],
+      "choices": ["rouge-gorge", "merle", "mésange"],
+      "explanation": "On l'appelait jadis Pierrot, un diminutif de Pierre. Le surnom de « piaf » viendrait de l'onomatopée « piou » imitant son cri.",
+      "wikipedia": "Moineau domestique"
+    },
+    {
+      "id": "nature-498",
+      "difficulty": 1,
+      "question": "Quel mammifère marin joueur et très intelligent respire par un évent au sommet de sa tête ?",
+      "answer": "dauphin",
+      "accept": ["dauphins"],
+      "choices": ["phoque", "requin", "lamantin"],
+      "explanation": "Il se repère par écholocation, en émettant des sons. Comme l'ouverture de son évent est volontaire, il ne peut jamais dormir tout à fait comme nous.",
+      "wikipedia": "Delphinidae"
+    },
+    {
+      "id": "nature-499",
+      "difficulty": 1,
+      "question": "Quel serpent venimeux de nos campagnes se reconnaît à sa tête triangulaire et à sa pupille verticale ?",
+      "answer": "vipère",
+      "accept": ["vipere", "vipère aspic", "aspic"],
+      "choices": ["couleuvre", "orvet", "cobra"],
+      "explanation": "La pupille est le critère le plus fiable : toutes les vipères d'Europe l'ont verticale, alors que les couleuvres, inoffensives, ont des pupilles rondes.",
+      "wikipedia": "Vipère aspic"
+    },
+    {
+      "id": "nature-500",
+      "difficulty": 1,
+      "question": "Quel champignon des bois très recherché, au gros pied renflé, est surnommé « de Bordeaux » ?",
+      "answer": "cèpe",
+      "accept": ["cepe", "cèpe de Bordeaux", "bolet"],
+      "choices": ["girolle", "morille", "pleurote"],
+      "explanation": "Sous son chapeau, pas de lamelles mais des tubes. Son mycélium souterrain échange pendant des années des nutriments avec les racines de certains arbres.",
+      "wikipedia": "Boletus edulis"
+    }
+  ]
+}

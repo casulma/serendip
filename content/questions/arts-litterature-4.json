@@ -44,7 +44,7 @@
         "refrain",
         "syllabe"
       ],
-      "explanation": "La rime n'est pas seulement décorative : elle aide aussi à mémoriser, ce qui explique sa place dans les comptines, les proverbes et les chansons.",
+      "explanation": "La rime n'est pas seulement décorative : elle sert aussi de moyen mnémotechnique, ce qui explique sa place dans les chansons.",
       "wikipedia": "Rime"
     },
     {
@@ -134,7 +134,7 @@
         "aparté",
         "prologue"
       ],
-      "explanation": "Le mot vient du grec mono, « un seul », et logos, « discours » ; le plus célèbre est sans doute celui d'Hamlet, « Être ou ne pas être ».",
+      "explanation": "Le mot vient du grec mono, « un seul », et logos, « discours » ; il s'oppose au dialogue, comme le célèbre monologue de Don Rodrigue dans Le Cid.",
       "wikipedia": "Monologue"
     },
     {
@@ -179,7 +179,7 @@
         "Corneille",
         "Marivaux"
       ],
-      "explanation": "Comédien autant qu'auteur, il jouait dans ses propres pièces avec sa troupe ; Le Misanthrope fut créé en 1666 et L'Avare en 1668.",
+      "explanation": "Comédien autant qu'auteur, il devint à la tête de sa troupe le favori du jeune Louis XIV ; Le Misanthrope fut créé en 1666 et L'Avare en 1668.",
       "wikipedia": "Molière"
     },
     {
@@ -321,7 +321,7 @@
         "Le Loup et les Sept Chevreaux",
         "Pierre et le Loup"
       ],
-      "explanation": "Le conte a été popularisé par le dessin animé de Disney de 1933, et sa chanson « Qui a peur du grand méchant loup ? ».",
+      "explanation": "Le conte a été popularisé par le dessin animé de Disney de 1933, et sa chanson traduite en français par « Prenez garde au grand méchant loup ».",
       "wikipedia": "Les Trois Petits Cochons"
     },
     {
@@ -353,7 +353,7 @@
         "Sindbad",
         "Shahriar"
       ],
-      "explanation": "Ce conte fut ajouté au recueil au XVIIIe siècle par son traducteur français, Antoine Galland, qui y inséra plusieurs histoires absentes des manuscrits arabes.",
+      "explanation": "Le conte est associé au recueil depuis sa traduction française par Antoine Galland, au XVIIIe siècle, qui l'augmenta de plusieurs histoires.",
       "wikipedia": "Aladin ou la Lampe merveilleuse"
     },
     {
@@ -462,7 +462,7 @@
         "Croquet",
         "Cricket"
       ],
-      "explanation": "Chaque équipe compte sept joueurs ; le jeu a inspiré un vrai sport, pratiqué au sol balai entre les jambes, aujourd'hui appelé quadball.",
+      "explanation": "Chaque équipe compte sept joueurs ; des étudiants américains l'ont adapté en 2005 pour des joueurs sans pouvoirs, un vrai sport aujourd'hui appelé quadball.",
       "wikipedia": "Quidditch"
     },
     {
@@ -693,7 +693,7 @@
         "Dan Brown",
         "John Grisham"
       ],
-      "explanation": "Né dans le Maine, où il situe beaucoup de ses histoires, il a aussi publié plusieurs romans sous le pseudonyme de Richard Bachman.",
+      "explanation": "Né à Portland, dans le Maine, il a aussi publié plusieurs romans sous le pseudonyme de Richard Bachman.",
       "wikipedia": "Stephen King"
     },
     {
@@ -741,7 +741,7 @@
         "Les Six Compagnons",
         "Fantômette"
       ],
-      "explanation": "Claude, de son vrai prénom Claudine, est une fille intrépide qui se veut garçon ; la série parut longtemps dans la Bibliothèque rose.",
+      "explanation": "Claude, de son vrai prénom Claudine, refuse de se comporter comme on l'attend d'une fille ; la série parut longtemps dans la Bibliothèque rose.",
       "wikipedia": "Le Club des cinq"
     },
     {
@@ -755,7 +755,7 @@
         "Il y a longtemps",
         "Dans un pays lointain"
       ],
-      "explanation": "Cette phrase d'ouverture situe d'emblée le récit hors du temps réel ; on la retrouve chez Perrault comme dans d'innombrables contes populaires.",
+      "explanation": "Cette phrase d'ouverture fait partie des codes qui permettent de reconnaître le conte : elle situe d'emblée le récit dans un passé imprécis, hors de l'histoire réelle.",
       "wikipedia": "Conte"
     },
     {
@@ -809,7 +809,7 @@
     {
       "id": "arts-litterature-553",
       "difficulty": 1,
-      "question": "Quel surnom donne-t-on à la bande dessinée, rangée juste après la télévision dans la liste des arts ?",
+      "question": "Quel surnom donne-t-on à la bande dessinée, deux rangs après le cinéma dans la classification traditionnelle ?",
       "answer": "neuvième art",
       "accept": [
         "9e art",
