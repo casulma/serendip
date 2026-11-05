@@ -1,0 +1,255 @@
+{
+  "category": "societe",
+  "questions": [
+    {
+      "id": "societe-251",
+      "difficulty": 1,
+      "question": "Quel numéro à deux chiffres compose-t-on en France pour appeler les sapeurs-pompiers ?",
+      "answer": "18",
+      "accept": ["dix-huit"],
+      "choices": ["15", "17", "112"],
+      "explanation": "Le 112, numéro d'urgence européen, permet aussi de les joindre ; en Italie, en revanche, les pompiers répondent au 115.",
+      "wikipedia": "Numéro d'appel d'urgence"
+    },
+    {
+      "id": "societe-252",
+      "difficulty": 1,
+      "question": "Quel numéro d'urgence à deux chiffres permet d'appeler Police secours en France ?",
+      "answer": "17",
+      "accept": ["dix-sept"],
+      "choices": ["15", "18", "115"],
+      "explanation": "Le service Police secours a été créé en 1927 au sein de la préfecture de police de Paris ; depuis 1984, le secours aux personnes revient surtout aux pompiers.",
+      "wikipedia": "Police nationale (France)"
+    },
+    {
+      "id": "societe-253",
+      "difficulty": 1,
+      "question": "Quelle carte verte à puce présente-t-on chez le médecin ou à la pharmacie pour être remboursé ?",
+      "answer": "carte Vitale",
+      "accept": ["Vitale"],
+      "choices": ["carte Bleue", "carte grise", "carte d'identité"],
+      "explanation": "Les premières cartes ont été distribuées en Bretagne en 1998 ; sa deuxième version devait contenir un mini-dossier médical, projet rendu obsolète par le dossier médical personnel.",
+      "wikipedia": "Carte Vitale"
+    },
+    {
+      "id": "societe-254",
+      "difficulty": 1,
+      "question": "Quelle institution créée en 1945 rembourse les soins des Français et verse pensions et allocations familiales ?",
+      "answer": "Sécurité sociale",
+      "accept": ["Sécu"],
+      "choices": ["Mutualité française", "Caisse d'épargne", "Assistance publique"],
+      "explanation": "Prévue par le programme du Conseil national de la Résistance, elle fut mise en place par les ministres Alexandre Parodi et Ambroise Croizat, sur les travaux de Pierre Laroque.",
+      "wikipedia": "Sécurité sociale (France)"
+    },
+    {
+      "id": "societe-255",
+      "difficulty": 1,
+      "question": "Quel livret d'épargne réglementé, le plus répandu en France, porte le nom d'une simple lettre de l'alphabet ?",
+      "answer": "Livret A",
+      "accept": [],
+      "choices": ["Livret jeune", "PEL", "LDDS"],
+      "explanation": "Créé en 1818 avec la caisse d'épargne de Paris, il s'appelait d'abord « livret de caisse d'épargne » ; les sommes déposées financent notamment le logement social.",
+      "wikipedia": "Livret A"
+    },
+    {
+      "id": "societe-256",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'arrêt collectif et volontaire du travail par des salariés pour défendre leurs revendications ?",
+      "answer": "grève",
+      "accept": [],
+      "choices": ["manifestation", "boycott", "chômage"],
+      "explanation": "Le mot vient de la place de Grève, à Paris, au bord de la Seine devant l'Hôtel de Ville, où les ouvriers sans ouvrage venaient chercher de l'embauche.",
+      "wikipedia": "Grève"
+    },
+    {
+      "id": "societe-257",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la situation d'une personne sans emploi qui souhaite travailler et recherche un poste ?",
+      "answer": "chômage",
+      "accept": [],
+      "choices": ["retraite", "intérim", "grève"],
+      "explanation": "Longtemps jugé résiduel et volontaire, il est devenu l'un des grands problèmes sociaux des pays développés lors de la Grande Dépression des années 1930.",
+      "wikipedia": "Chômage"
+    },
+    {
+      "id": "societe-258",
+      "difficulty": 1,
+      "question": "Quel élu, ceint d'une écharpe tricolore, célèbre les mariages civils et préside le conseil municipal ?",
+      "answer": "maire",
+      "accept": [],
+      "choices": ["préfet", "député", "sénateur"],
+      "explanation": "Il n'est pas élu directement par les habitants mais par le conseil municipal ; il est aussi officier d'état civil et officier de police judiciaire.",
+      "wikipedia": "Maire (France)"
+    },
+    {
+      "id": "societe-259",
+      "difficulty": 1,
+      "question": "Quel panneau routier rouge à huit côtés oblige le conducteur à marquer un arrêt complet ?",
+      "answer": "stop",
+      "accept": ["panneau stop"],
+      "choices": ["cédez-le-passage", "sens interdit", "feu rouge"],
+      "explanation": "Sa forme octogonale est fixée par la convention de Vienne de 1968 ; au Québec, le même panneau affiche généralement le mot « Arrêt ».",
+      "wikipedia": "Panneau stop"
+    },
+    {
+      "id": "societe-260",
+      "difficulty": 1,
+      "question": "Dans quelle boîte, souvent transparente, l'électeur glisse-t-il son enveloppe au bureau de vote ?",
+      "answer": "urne",
+      "accept": [],
+      "choices": ["isoloir", "boîte aux lettres", "tirelire"],
+      "explanation": "Dans la Grèce antique, les urnes étaient des amphores opaques remplies de jetons ; à Athènes, elles servaient aussi à rendre les jugements de justice.",
+      "wikipedia": "Urne de vote"
+    },
+    {
+      "id": "societe-261",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le fait, pour un électeur inscrit, de ne pas aller voter lors d'un scrutin ?",
+      "answer": "abstention",
+      "accept": [],
+      "choices": ["vote blanc", "vote nul", "procuration"],
+      "explanation": "Voter n'est pas obligatoire en France, mais les cartes électorales rappellent que « voter est un droit, c'est aussi un devoir civique ».",
+      "wikipedia": "Abstention de vote en France"
+    },
+    {
+      "id": "societe-262",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les 577 élus qui siègent à l'Assemblée nationale, au palais Bourbon ?",
+      "answer": "députés",
+      "accept": ["député"],
+      "choices": ["sénateurs", "ministres", "conseillers"],
+      "explanation": "C'est dans l'Assemblée de 1789 que sont nées la gauche et la droite politiques, selon la place des élus de part et d'autre du président.",
+      "wikipedia": "Assemblée nationale (France)"
+    },
+    {
+      "id": "societe-263",
+      "difficulty": 1,
+      "question": "Dans quelle ville américaine se trouve le siège de l'Organisation des Nations unies, au bord de l'East River ?",
+      "answer": "New York",
+      "accept": [],
+      "choices": ["Washington", "Chicago", "Boston"],
+      "explanation": "Le terrain de Manhattan a été acheté grâce à un don du philanthrope John D. Rockefeller Jr. ; le site bénéficie de l'extraterritorialité.",
+      "wikipedia": "Siège des Nations unies"
+    },
+    {
+      "id": "societe-264",
+      "difficulty": 1,
+      "question": "Quel sigle désigne l'agence des Nations unies chargée de défendre les droits et le bien-être des enfants ?",
+      "answer": "UNICEF",
+      "accept": ["Unicef"],
+      "choices": ["UNESCO", "OMS", "HCR"],
+      "explanation": "Créé en décembre 1946 sous le nom de United Nations International Children's Emergency Fund, il a reçu le prix Nobel de la paix en 1965.",
+      "wikipedia": "Fonds des Nations unies pour l'enfance"
+    },
+    {
+      "id": "societe-265",
+      "difficulty": 1,
+      "question": "Quelle chaîne de télévision, la plus ancienne de France et surnommée « la Une », a été privatisée en 1987 ?",
+      "answer": "TF1",
+      "accept": [],
+      "choices": ["France 2", "France 3", "M6"],
+      "explanation": "Elle descend de RDF Télévision française, lancée en 1944 ; lors de sa privatisation, l'État l'a concédée à un groupe contrôlé par Bouygues.",
+      "wikipedia": "TF1"
+    },
+    {
+      "id": "societe-266",
+      "difficulty": 1,
+      "question": "Quelle chaîne de télévision culturelle de service public est née d'un partenariat entre la France et l'Allemagne ?",
+      "answer": "Arte",
+      "accept": [],
+      "choices": ["France 5", "TV5 Monde", "La Cinq"],
+      "explanation": "Son nom est l'acronyme d'Association relative à la télévision européenne ; basée à Strasbourg, elle a succédé à La Sept et émet depuis 1992.",
+      "wikipedia": "Arte"
+    },
+    {
+      "id": "societe-267",
+      "difficulty": 1,
+      "question": "Quelle chaîne payante, lancée en 1984, diffusait des programmes cryptés que l'on regardait grâce à un décodeur ?",
+      "answer": "Canal+",
+      "accept": ["Canal plus", "Canal +"],
+      "choices": ["TF1", "M6", "La Cinq"],
+      "explanation": "Lancée par Havas, ce fut la première chaîne privée payante française ; ses plages « en clair » servaient de vitrine pour donner envie de s'abonner.",
+      "wikipedia": "Canal+"
+    },
+    {
+      "id": "societe-268",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'ensemble des pays de l'Union européenne qui ont adopté la monnaie unique ?",
+      "answer": "zone euro",
+      "accept": ["eurozone"],
+      "choices": ["espace Schengen", "zone franc", "Benelux"],
+      "explanation": "Le Danemark a obtenu le droit de ne pas y entrer, tandis qu'Andorre, Monaco, Saint-Marin et le Vatican utilisent l'euro sans être membres de l'Union.",
+      "wikipedia": "Zone euro"
+    },
+    {
+      "id": "societe-269",
+      "difficulty": 1,
+      "question": "Quel sigle désigne la plus ancienne confédération syndicale française, fondée à Limoges en 1895 ?",
+      "answer": "CGT",
+      "accept": [],
+      "choices": ["CFDT", "FO", "CFTC"],
+      "explanation": "Force ouvrière est née en 1947-1948 d'une scission de militants qui refusaient de voir la confédération soumise au Parti communiste.",
+      "wikipedia": "Confédération générale du travail"
+    },
+    {
+      "id": "societe-270",
+      "difficulty": 1,
+      "question": "Quel humoriste a fondé en 1985 l'association des Restaurants du cœur, qui distribue des repas aux plus démunis ?",
+      "answer": "Coluche",
+      "accept": [],
+      "choices": ["Pierre Desproges", "Guy Bedos", "Thierry Le Luron"],
+      "explanation": "Un ami proposait « les Cantines du cœur », mais l'imprésario Paul Lederman jugea ce nom trop misérabiliste et choisit « les Restos du Cœur ».",
+      "wikipedia": "Les Restaurants du Cœur"
+    },
+    {
+      "id": "societe-271",
+      "difficulty": 1,
+      "question": "Quel équipement de la voiture, obligatoire hors agglomération en France depuis 1973, faut-il boucler avant de partir ?",
+      "answer": "ceinture de sécurité",
+      "accept": ["ceinture"],
+      "choices": ["airbag", "appuie-tête", "frein à main"],
+      "explanation": "La ceinture moderne à trois points a été brevetée en 1959 par Nils Bohlin, ingénieur de Volvo ; elle n'est obligatoire à l'arrière en France que depuis 1990.",
+      "wikipedia": "Ceinture de sécurité"
+    },
+    {
+      "id": "societe-272",
+      "difficulty": 1,
+      "question": "Quel appareil automatique, installé au bord des routes, flashe les automobilistes en excès de vitesse ?",
+      "answer": "radar",
+      "accept": ["radar automatique"],
+      "choices": ["éthylotest", "péage", "parcmètre"],
+      "explanation": "Le contrôle automatisé de la vitesse a été lancé en France fin 2003, sur une directive du ministre de l'Intérieur de l'époque, Nicolas Sarkozy.",
+      "wikipedia": "Radar automatique en France"
+    },
+    {
+      "id": "societe-273",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la période qui suit la fin de la vie active, durant laquelle on touche une pension ?",
+      "answer": "retraite",
+      "accept": [],
+      "choices": ["chômage", "rente", "congé"],
+      "explanation": "Le système français repose sur la répartition ; Colbert en fut un précurseur avec la Caisse des invalides de la marine, créée en 1673.",
+      "wikipedia": "Retraite en France"
+    },
+    {
+      "id": "societe-274",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le titre de propriété d'une part du capital d'une société, que l'on achète en Bourse ?",
+      "answer": "action",
+      "accept": [],
+      "choices": ["obligation", "dividende", "livret"],
+      "explanation": "Son détenteur, l'actionnaire, peut percevoir des dividendes et voter en assemblée générale, par exemple pour élire les dirigeants de l'entreprise.",
+      "wikipedia": "Action (finance)"
+    },
+    {
+      "id": "societe-275",
+      "difficulty": 1,
+      "question": "Combien de points compte au maximum un permis de conduire français, une fois la période probatoire terminée ?",
+      "answer": "12",
+      "accept": ["douze"],
+      "choices": ["6", "10", "20"],
+      "explanation": "Le permis à points est entré en application à l'été 1992, malgré la colère des routiers ; un jeune conducteur démarre avec seulement 6 points.",
+      "wikipedia": "Permis de conduire en France"
+    }
+  ]
+}
