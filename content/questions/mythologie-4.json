@@ -1,0 +1,605 @@
+{
+  "category": "mythologie",
+  "questions": [
+    {
+      "id": "mythologie-251",
+      "difficulty": 1,
+      "question": "Quelle plante à l'odeur forte, utilisée en cuisine, est censée éloigner les vampires selon les légendes ?",
+      "answer": "ail",
+      "accept": ["l'ail"],
+      "choices": ["oignon", "thym", "persil"],
+      "explanation": "Le folklore évoquait plutôt les fleurs d'ail que les gousses popularisées par le cinéma ; l'aubépine, le rosier sauvage, le crucifix et l'eau bénite faisaient aussi partie de l'arsenal anti-vampires.",
+      "wikipedia": "Vampire"
+    },
+    {
+      "id": "mythologie-252",
+      "difficulty": 1,
+      "question": "Dans quel objet de la maison un vampire ne peut-il pas voir son reflet, selon le roman de Bram Stoker ?",
+      "answer": "miroir",
+      "accept": ["un miroir", "glace"],
+      "choices": ["vitre", "flaque d'eau", "cuillère"],
+      "explanation": "Chez Stoker, le comte Dracula ne se reflète pas et ne projette pas d'ombre ; d'autres traditions affirment aussi qu'un vampire ne peut entrer dans une maison sans y avoir été invité.",
+      "wikipedia": "Vampire"
+    },
+    {
+      "id": "mythologie-253",
+      "difficulty": 1,
+      "question": "Dans quelle région de Roumanie se dresse le château du comte Dracula, dans le roman de Bram Stoker ?",
+      "answer": "Transylvanie",
+      "accept": [],
+      "choices": ["Valachie", "Moldavie", "Bucovine"],
+      "explanation": "Le jeune clerc de notaire Jonathan Harker y est envoyé pour vendre une propriété au comte ; le roman, publié en 1897, est entièrement composé de lettres, de journaux intimes et d'articles.",
+      "wikipedia": "Dracula"
+    },
+    {
+      "id": "mythologie-254",
+      "difficulty": 1,
+      "question": "Selon la légende, lors de quelle phase de la Lune le loup-garou se transforme-t-il en bête ?",
+      "answer": "pleine lune",
+      "accept": ["la pleine lune"],
+      "choices": ["nouvelle lune", "premier quartier", "dernier quartier"],
+      "explanation": "Le nom savant de cette créature, lycanthrope, vient du grec et associe les mots « loup » et « homme » ; la transformation ne dure en général que jusqu'au matin.",
+      "wikipedia": "Lycanthrope"
+    },
+    {
+      "id": "mythologie-255",
+      "difficulty": 1,
+      "question": "En quel métal précieux doit être faite la balle capable de tuer un loup-garou ?",
+      "answer": "argent",
+      "accept": ["en argent", "l'argent"],
+      "choices": ["or", "bronze", "platine"],
+      "explanation": "Cette faiblesse n'est pas attestée avant le XIXe siècle ; on recommandait de faire bénir les balles, de préférence dans une chapelle dédiée à saint Hubert.",
+      "wikipedia": "Lycanthrope"
+    },
+    {
+      "id": "mythologie-256",
+      "difficulty": 1,
+      "question": "Quel cheval légendaire, souvent blanc, porte une corne unique au milieu du front ?",
+      "answer": "licorne",
+      "accept": ["la licorne"],
+      "choices": ["Pégase", "centaure", "griffon"],
+      "explanation": "Sur les armoiries de la Grande-Bretagne, le lion représente l'Angleterre et la licorne l'Écosse, qui en a fait son animal emblématique.",
+      "wikipedia": "Licorne"
+    },
+    {
+      "id": "mythologie-257",
+      "difficulty": 1,
+      "question": "Quels animaux tirent le traîneau volant du Père Noël dans la nuit de Noël ?",
+      "answer": "rennes",
+      "accept": ["des rennes", "renne"],
+      "choices": ["chevaux", "chiens", "élans"],
+      "explanation": "Il en avait d'abord huit ; le neuvième, Rudolph au nez rouge, n'a été inventé qu'en 1939 par le poète américain Robert L. May.",
+      "wikipedia": "Père Noël"
+    },
+    {
+      "id": "mythologie-258",
+      "difficulty": 1,
+      "question": "Par quel conduit du toit le Père Noël est-il censé entrer dans les maisons pour déposer les cadeaux ?",
+      "answer": "cheminée",
+      "accept": ["la cheminée"],
+      "choices": ["lucarne", "gouttière", "soupirail"],
+      "explanation": "Un poème new-yorkais de 1823, « A Visit from St Nicholas », a fixé ce détail avec le traîneau et les rennes, et déplacé la visite du 6 au 25 décembre.",
+      "wikipedia": "Père Noël"
+    },
+    {
+      "id": "mythologie-259",
+      "difficulty": 1,
+      "question": "Quel géant des contes, qui raffole de la chair fraîche des enfants, porte des bottes de sept lieues dans Le Petit Poucet ?",
+      "answer": "ogre",
+      "accept": ["l'ogre"],
+      "choices": ["troll", "cyclope", "loup"],
+      "explanation": "Dans le conte de Perrault, le Petit Poucet échange les bonnets de ses frères contre les couronnes des filles de l'ogre, qui égorge ses propres enfants par erreur.",
+      "wikipedia": "Ogre"
+    },
+    {
+      "id": "mythologie-260",
+      "difficulty": 1,
+      "question": "Quelle créature des contes, comme la marraine de Cendrillon, accomplit des prodiges d'un coup de baguette magique ?",
+      "answer": "fée",
+      "accept": ["une fée", "la fée"],
+      "choices": ["sorcière", "elfe", "ondine"],
+      "explanation": "Les fées des romans du XIIe siècle étaient grandes et blondes ; les ailes et la baguette magique n'ont été ajoutées que bien plus tard par les auteurs.",
+      "wikipedia": "Fée"
+    },
+    {
+      "id": "mythologie-261",
+      "difficulty": 1,
+      "question": "Quel petit animal vient chercher la dent de lait glissée sous l'oreiller et laisse une pièce en échange ?",
+      "answer": "souris",
+      "accept": ["petite souris", "la petite souris"],
+      "choices": ["lapin", "écureuil", "hérisson"],
+      "explanation": "Cette tradition sert à rassurer les enfants qui perdent leurs dents ; ce sont bien sûr les parents qui jouent en cachette les auxiliaires du petit rongeur.",
+      "wikipedia": "Petite souris"
+    },
+    {
+      "id": "mythologie-262",
+      "difficulty": 1,
+      "question": "Quel personnage du folklore endort les enfants en leur jetant une poudre fine sur les yeux ?",
+      "answer": "marchand de sable",
+      "accept": ["le marchand de sable"],
+      "choices": ["croque-mitaine", "Père Fouettard", "Bonhomme Hiver"],
+      "explanation": "Il annonçait l'heure du coucher dans l'émission « Bonne nuit les petits » avec Nounours, et dans un célèbre programme pour enfants de la télévision est-allemande.",
+      "wikipedia": "Marchand de sable (folklore)"
+    },
+    {
+      "id": "mythologie-263",
+      "difficulty": 1,
+      "question": "Quel monstre à corps de lion posait une énigme aux voyageurs de Thèbes et dévorait ceux qui échouaient ?",
+      "answer": "sphinx",
+      "accept": ["le sphinx", "sphinge"],
+      "choices": ["chimère", "griffon", "minotaure"],
+      "explanation": "Cette version grecque, appelée aussi sphinge, a une tête de femme et des ailes d'oiseau ; contrairement au gardien égyptien de Gizeh, elle est impitoyable, jusqu'à sa défaite face à Œdipe.",
+      "wikipedia": "Sphinx"
+    },
+    {
+      "id": "mythologie-264",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un corps embaumé et enveloppé de bandelettes, comme ceux des pharaons d'Égypte ?",
+      "answer": "momie",
+      "accept": ["une momie"],
+      "choices": ["relique", "squelette", "fossile"],
+      "explanation": "Les embaumeurs retiraient le cerveau et les viscères, desséchaient le corps au natron, puis le garnissaient de résines et de plantes avant de l'envelopper.",
+      "wikipedia": "Momie"
+    },
+    {
+      "id": "mythologie-265",
+      "difficulty": 1,
+      "question": "Quel titre portaient les rois de l'Égypte antique, comme Ramsès II ou Toutânkhamon ?",
+      "answer": "pharaon",
+      "accept": ["pharaons"],
+      "choices": ["sultan", "calife", "tsar"],
+      "explanation": "Le mot vient de l'égyptien ancien « per-aâ », qui signifie « grande maison » et désignait d'abord le palais ; les noms de plus de trois cents souverains nous sont parvenus.",
+      "wikipedia": "Pharaon"
+    },
+    {
+      "id": "mythologie-266",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le cercueil de pierre ou de bois décoré dans lequel reposaient les momies égyptiennes ?",
+      "answer": "sarcophage",
+      "accept": ["un sarcophage"],
+      "choices": ["mausolée", "urne", "catafalque"],
+      "explanation": "Le mot vient du grec et signifie « qui mange la chair » : on prêtait à une pierre calcaire utilisée pour les tombes le pouvoir de faire disparaître rapidement les corps.",
+      "wikipedia": "Sarcophage"
+    },
+    {
+      "id": "mythologie-267",
+      "difficulty": 1,
+      "question": "Quel dieu romain du commerce et des voyageurs a donné son nom au mercredi ?",
+      "answer": "Mercure",
+      "accept": [],
+      "choices": ["Mars", "Saturne", "Janus"],
+      "explanation": "Le mot vient du latin « Mercurii dies », jour de Mercure ; dans les langues germaniques, ce jour est celui d'Odin, d'où le « Wednesday » anglais.",
+      "wikipedia": "Mercredi"
+    },
+    {
+      "id": "mythologie-268",
+      "difficulty": 1,
+      "question": "Quelle déesse romaine de l'amour et de la beauté a donné son nom au vendredi ?",
+      "answer": "Vénus",
+      "accept": ["Venus"],
+      "choices": ["Junon", "Minerve", "Diane"],
+      "explanation": "Vendredi vient du latin « Veneris dies » ; les Germains l'ont consacré à une déesse équivalente, Freyja ou Frigg, d'où « Freitag » en allemand et « Friday » en anglais.",
+      "wikipedia": "Vendredi"
+    },
+    {
+      "id": "mythologie-269",
+      "difficulty": 1,
+      "question": "Quel dieu romain du vin et de l'ivresse correspond au Dionysos des Grecs ?",
+      "answer": "Bacchus",
+      "accept": [],
+      "choices": ["Silène", "Priape", "Faunus"],
+      "explanation": "Les Romains l'assimilaient à Liber Pater, un ancien dieu latin de la fécondité ; ses fêtes, les bacchanales, ont donné un nom commun désignant une fête débridée.",
+      "wikipedia": "Bacchus"
+    },
+    {
+      "id": "mythologie-270",
+      "difficulty": 1,
+      "question": "Sous quel nom les Romains vénéraient-ils Héraclès, le héros grec à la massue et à la peau de lion ?",
+      "answer": "Hercule",
+      "accept": [],
+      "choices": ["Achille", "Énée", "Ajax"],
+      "explanation": "Fils de Zeus et d'une mortelle, il était aussi identifié au dieu phénicien Melkart ; son nom romain désigne aujourd'hui une personne d'une force exceptionnelle.",
+      "wikipedia": "Héraclès"
+    },
+    {
+      "id": "mythologie-271",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la créature de la mythologie grecque au buste d'homme et au corps de cheval ?",
+      "answer": "centaure",
+      "accept": ["un centaure", "centaures"],
+      "choices": ["satyre", "faune", "minotaure"],
+      "explanation": "Réputés brutaux et amateurs de vin, les centaures ont donné leur nom à une constellation de l'hémisphère sud, qui abrite l'étoile la plus proche du Soleil.",
+      "wikipedia": "Centaure"
+    },
+    {
+      "id": "mythologie-272",
+      "difficulty": 1,
+      "question": "Quelle déesse grecque primordiale personnifie la Terre, mère de toute vie ?",
+      "answer": "Gaïa",
+      "accept": ["Gaia", "Gê"],
+      "choices": ["Héra", "Déméter", "Rhéa"],
+      "explanation": "Elle enfanta seule Ouranos, le Ciel, puis s'unit à lui pour donner naissance aux Titans ; les Romains l'appelaient Tellus.",
+      "wikipedia": "Gaïa"
+    },
+    {
+      "id": "mythologie-273",
+      "difficulty": 1,
+      "question": "Quel dieu romain du feu et de la forge, qui résidait sous l'Etna, a donné son nom aux montagnes qui crachent de la lave ?",
+      "answer": "Vulcain",
+      "accept": [],
+      "choices": ["Neptune", "Pluton", "Saturne"],
+      "explanation": "Équivalent du grec Héphaïstos, ce dieu boiteux était le patron des forgerons ; on le fêtait chaque année fin août lors des Volcanalia.",
+      "wikipedia": "Vulcain (mythologie)"
+    },
+    {
+      "id": "mythologie-274",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les géants de la mythologie grecque qui n'ont qu'un seul œil au milieu du front ?",
+      "answer": "cyclopes",
+      "accept": ["cyclope", "les cyclopes"],
+      "choices": ["titans", "géants", "gorgones"],
+      "explanation": "Avant de devenir chez Homère des monstres sauvages, ils étaient chez Hésiode d'habiles forgerons qui fabriquèrent la foudre de Zeus.",
+      "wikipedia": "Cyclope"
+    },
+    {
+      "id": "mythologie-275",
+      "difficulty": 1,
+      "question": "Quel serpent monstrueux à plusieurs têtes, qui repoussaient dès qu'on les coupait, Héraclès dut-il vaincre ?",
+      "answer": "Hydre de Lerne",
+      "accept": ["hydre", "l'Hydre"],
+      "choices": ["Python", "Chimère", "Typhon"],
+      "explanation": "C'était le deuxième de ses douze travaux ; aidé de son neveu Iolaos, le héros trempa ensuite ses flèches dans le sang empoisonné du monstre.",
+      "wikipedia": "Hydre de Lerne"
+    },
+    {
+      "id": "mythologie-276",
+      "difficulty": 1,
+      "question": "Quelle fête catholique du 1er novembre honore tous les saints, connus et inconnus ?",
+      "answer": "Toussaint",
+      "accept": ["la Toussaint"],
+      "choices": ["Assomption", "Ascension", "Épiphanie"],
+      "explanation": "Elle précède d'un jour la commémoration des fidèles défunts du 2 novembre, ce qui explique que l'on fleurisse les tombes dès la Toussaint, jour férié.",
+      "wikipedia": "Toussaint"
+    },
+    {
+      "id": "mythologie-277",
+      "difficulty": 1,
+      "question": "Quelle fête du 31 octobre voit les enfants déguisés sonner aux portes pour réclamer des bonbons ?",
+      "answer": "Halloween",
+      "accept": [],
+      "choices": ["Carnaval", "Mardi gras", "Saint-Nicolas"],
+      "explanation": "La formule anglaise « Trick or treat ! » signifie « un bonbon ou un sort ! » ; la fête, née chez les Celtes, reste très populaire en Irlande et en Écosse.",
+      "wikipedia": "Halloween"
+    },
+    {
+      "id": "mythologie-278",
+      "difficulty": 1,
+      "question": "Selon la tradition racontée aux enfants, vers quelle ville les cloches s'envolent-elles avant de rapporter les œufs de Pâques ?",
+      "answer": "Rome",
+      "accept": [],
+      "choices": ["Jérusalem", "Lourdes", "Bethléem"],
+      "explanation": "Les cloches se taisent du Jeudi saint au dimanche de Pâques : on disait qu'elles partaient se faire bénir par le pape, puis revenaient en semant des œufs dans les jardins.",
+      "wikipedia": "Lapin de Pâques"
+    },
+    {
+      "id": "mythologie-279",
+      "difficulty": 1,
+      "question": "Quelle grande fête chrétienne du printemps célèbre la résurrection de Jésus ?",
+      "answer": "Pâques",
+      "accept": ["Paques"],
+      "choices": ["Pentecôte", "Ascension", "Noël"],
+      "explanation": "C'est la fête chrétienne la plus ancienne et le sommet du calendrier liturgique, bien avant Noël ; sa date, mobile, commande celles de l'Ascension et de la Pentecôte.",
+      "wikipedia": "Pâques"
+    },
+    {
+      "id": "mythologie-280",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la période de préparation à Noël, qui a donné son nom à un calendrier à petites fenêtres ?",
+      "answer": "Avent",
+      "accept": ["l'Avent"],
+      "choices": ["Carême", "Épiphanie", "Octave"],
+      "explanation": "Elle débute le quatrième dimanche avant Noël et ouvre l'année liturgique ; le calendrier à fenêtres est né au XIXe siècle dans des familles protestantes allemandes.",
+      "wikipedia": "Avent"
+    },
+    {
+      "id": "mythologie-281",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la mise en scène de la naissance de Jésus, avec Marie, Joseph, l'âne et le bœuf ?",
+      "answer": "crèche",
+      "accept": ["crèche de Noël", "la crèche"],
+      "choices": ["calvaire", "retable", "chemin de croix"],
+      "explanation": "La tradition s'est répandue en Europe après la crèche vivante organisée par François d'Assise à Greccio, en Italie, la nuit de Noël 1223.",
+      "wikipedia": "Crèche de Noël"
+    },
+    {
+      "id": "mythologie-282",
+      "difficulty": 1,
+      "question": "Quelle fête chrétienne, quarante jours après Pâques, célèbre la montée de Jésus au ciel ?",
+      "answer": "Ascension",
+      "accept": ["l'Ascension"],
+      "choices": ["Assomption", "Pentecôte", "Transfiguration"],
+      "explanation": "Comme le décompte part du dimanche de Pâques, elle tombe toujours un jeudi, d'où le fameux « pont de l'Ascension » des jours fériés en France.",
+      "wikipedia": "Ascension (fête)"
+    },
+    {
+      "id": "mythologie-283",
+      "difficulty": 1,
+      "question": "Quel jour de fête et de carnaval, veille du mercredi des Cendres, précède l'entrée dans le Carême ?",
+      "answer": "Mardi gras",
+      "accept": [],
+      "choices": ["Lundi de Pentecôte", "Jeudi saint", "Vendredi saint"],
+      "explanation": "On en profitait pour manger gras avant les jours de pénitence sans viande ; il tombe toujours 47 jours avant Pâques, en février ou en mars.",
+      "wikipedia": "Mardi gras"
+    },
+    {
+      "id": "mythologie-284",
+      "difficulty": 1,
+      "question": "Comment s'appelle le jardin merveilleux où vivaient Adam et Ève avant d'en être chassés ?",
+      "answer": "Éden",
+      "accept": ["jardin d'Éden", "Eden"],
+      "choices": ["Canaan", "Babylone", "Arcadie"],
+      "explanation": "En hébreu, « gan eden » signifie « jardin des délices » ; il est souvent assimilé au paradis terrestre et le Coran reprend aussi ce nom.",
+      "wikipedia": "Éden"
+    },
+    {
+      "id": "mythologie-285",
+      "difficulty": 1,
+      "question": "Selon la Genèse, à partir de quel os d'Adam Dieu créa-t-il Ève ?",
+      "answer": "côte",
+      "accept": ["une côte", "cote"],
+      "choices": ["clavicule", "vertèbre", "fémur"],
+      "explanation": "Le texte hébreu peut aussi se lire « côté » ; certains y voient l'écho d'un jeu de mots sumérien, « ti » signifiant à la fois « côte » et « vie ».",
+      "wikipedia": "Adam et Ève"
+    },
+    {
+      "id": "mythologie-286",
+      "difficulty": 1,
+      "question": "Quel fils aîné d'Adam et Ève tua son frère Abel par jalousie ?",
+      "answer": "Caïn",
+      "accept": ["Cain"],
+      "choices": ["Seth", "Hénoch", "Esaü"],
+      "explanation": "Agriculteur, il est le premier meurtrier de l'humanité selon la Bible et le Coran ; maudit, il s'établit ensuite au pays de Nod, à l'est d'Éden.",
+      "wikipedia": "Caïn"
+    },
+    {
+      "id": "mythologie-287",
+      "difficulty": 1,
+      "question": "Quel prophète biblique passa trois jours et trois nuits dans le ventre d'un énorme poisson souvent décrit comme une baleine ?",
+      "answer": "Jonas",
+      "accept": [],
+      "choices": ["Élie", "Daniel", "Job"],
+      "explanation": "Jeté par-dessus bord pendant une tempête, il fut recraché sur le rivage puis alla prêcher à Ninive ; le texte parle seulement d'un « grand poisson ».",
+      "wikipedia": "Jonas"
+    },
+    {
+      "id": "mythologie-288",
+      "difficulty": 1,
+      "question": "Selon l'Exode, quelle étendue d'eau s'ouvrit devant Moïse pour laisser passer les Hébreux fuyant l'Égypte ?",
+      "answer": "mer Rouge",
+      "accept": ["la mer Rouge"],
+      "choices": ["mer Morte", "Jourdain", "Nil"],
+      "explanation": "Les eaux se refermèrent ensuite sur l'armée du pharaon ; le texte hébreu parle en réalité de « Yam Souf », que l'on traduit aussi par « mer des Joncs ».",
+      "wikipedia": "Passage de la mer Rouge"
+    },
+    {
+      "id": "mythologie-289",
+      "difficulty": 1,
+      "question": "Quel est le premier livre de la Bible, qui raconte la création du monde en six jours ?",
+      "answer": "Genèse",
+      "accept": ["la Genèse", "Livre de la Genèse"],
+      "choices": ["Exode", "Psaumes", "Apocalypse"],
+      "explanation": "L'humanité y est créée le sixième jour et Dieu se repose le septième, origine du shabbat ; le livre raconte ensuite Adam et Ève, le Déluge et Abraham.",
+      "wikipedia": "Livre de la Genèse"
+    },
+    {
+      "id": "mythologie-290",
+      "difficulty": 1,
+      "question": "Dans quelle petite ville de Judée, au sud de Jérusalem, Jésus est-il né selon la Bible ?",
+      "answer": "Bethléem",
+      "accept": ["Bethleem"],
+      "choices": ["Nazareth", "Jéricho", "Capharnaüm"],
+      "explanation": "La tradition juive en fait aussi la ville natale du roi David ; elle abrite le tombeau de Rachel et attire de nombreux pèlerins à Noël.",
+      "wikipedia": "Bethléem"
+    },
+    {
+      "id": "mythologie-291",
+      "difficulty": 1,
+      "question": "Quel astre brillant guida les Rois mages jusqu'à l'Enfant Jésus selon l'Évangile ?",
+      "answer": "étoile",
+      "accept": ["une étoile", "étoile du berger"],
+      "choices": ["comète", "lune", "soleil"],
+      "explanation": "Seul l'Évangile selon Matthieu la mentionne ; c'est en souvenir de cet épisode qu'une étoile surmonte traditionnellement les crèches et le sommet des sapins de Noël.",
+      "wikipedia": "Étoile de Bethléem"
+    },
+    {
+      "id": "mythologie-292",
+      "difficulty": 1,
+      "question": "Avec l'or et la myrrhe, quel parfum les Rois mages offrirent-ils à l'Enfant Jésus ?",
+      "answer": "encens",
+      "accept": ["l'encens"],
+      "choices": ["ambre", "musc", "santal"],
+      "explanation": "L'Évangile ne dit ni combien ils étaient ni qu'ils étaient rois : leur nombre de trois vient de ces trois présents, et leur royauté apparaît chez Tertullien.",
+      "wikipedia": "Rois mages"
+    },
+    {
+      "id": "mythologie-293",
+      "difficulty": 1,
+      "question": "Quel métier du bois l'Évangile attribue-t-il à Joseph, l'époux de Marie ?",
+      "answer": "charpentier",
+      "accept": ["menuisier"],
+      "choices": ["forgeron", "potier", "berger"],
+      "explanation": "Le mot grec pourrait aussi désigner un artisan ou un homme sage ; Joseph est le saint patron des charpentiers, des travailleurs et des pères de famille.",
+      "wikipedia": "Joseph (Nouveau Testament)"
+    },
+    {
+      "id": "mythologie-294",
+      "difficulty": 1,
+      "question": "Quel nom latin signifiant « porteur de lumière » désigne l'ange déchu, chef des démons, dans la tradition chrétienne ?",
+      "answer": "Lucifer",
+      "accept": [],
+      "choices": ["Belzébuth", "Méphistophélès", "Asmodée"],
+      "explanation": "Chez les Romains, Lucifer était d'abord l'étoile du matin, c'est-à-dire la planète Vénus, qui annonce le lever du soleil.",
+      "wikipedia": "Lucifer"
+    },
+    {
+      "id": "mythologie-295",
+      "difficulty": 1,
+      "question": "Quel archange, souvent représenté terrassant un dragon, a donné son nom au célèbre mont de la baie normande ?",
+      "answer": "Michel",
+      "accept": ["saint Michel", "archange Michel"],
+      "choices": ["Gabriel", "Raphaël", "Uriel"],
+      "explanation": "Chef des armées célestes, il est le saint patron de la Normandie et de la France ; le dragon qu'il écrase représente Satan.",
+      "wikipedia": "Michel (archange)"
+    },
+    {
+      "id": "mythologie-296",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le cercle de lumière doré peint autour de la tête des saints ?",
+      "answer": "auréole",
+      "accept": ["une auréole", "nimbe"],
+      "choices": ["couronne", "diadème", "tonsure"],
+      "explanation": "Ce signe de sainteté se retrouve aussi dans l'art bouddhique et dans les miniatures persanes ; on le distingue de la gloire, qui entoure le corps entier.",
+      "wikipedia": "Auréole (religion)"
+    },
+    {
+      "id": "mythologie-297",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la fine rondelle de pain que reçoivent les fidèles lors de la communion à la messe ?",
+      "answer": "hostie",
+      "accept": ["une hostie"],
+      "choices": ["brioche", "galette", "oublie"],
+      "explanation": "Elle est faite de pain sans levain ; pour les catholiques, une fois consacrée par le prêtre, elle devient le corps du Christ.",
+      "wikipedia": "Hostie"
+    },
+    {
+      "id": "mythologie-298",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la réunion des cardinaux qui élit un nouveau pape, annoncé par une fumée blanche ?",
+      "answer": "conclave",
+      "accept": ["le conclave"],
+      "choices": ["concile", "synode", "consistoire"],
+      "explanation": "Une fumée noire signale un vote sans résultat ; depuis 2005, les cloches de la basilique Saint-Pierre sonnent aussi pour confirmer l'élection.",
+      "wikipedia": "Conclave"
+    },
+    {
+      "id": "mythologie-299",
+      "difficulty": 1,
+      "question": "Quelle petite calotte ronde portent les hommes juifs pratiquants sur le sommet du crâne ?",
+      "answer": "kippa",
+      "accept": ["la kippa", "kipa"],
+      "choices": ["fez", "turban", "barrette"],
+      "explanation": "Ce couvre-chef est porté en signe de respect envers Dieu ; son usage est discuté dès le Talmud, dans les traités Shabbat et Kiddoushin.",
+      "wikipedia": "Kippa"
+    },
+    {
+      "id": "mythologie-300",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le lieu de culte et de prière des juifs, dont le nom vient du grec ?",
+      "answer": "synagogue",
+      "accept": ["une synagogue"],
+      "choices": ["mosquée", "temple", "chapelle"],
+      "explanation": "Le mot signifie « assemblée » ; l'hébreu dit « beit knesset », la « maison de l'assemblée », car la prière en commun y compte autant que le bâtiment.",
+      "wikipedia": "Synagogue"
+    },
+    {
+      "id": "mythologie-301",
+      "difficulty": 1,
+      "question": "Quel animal de la ferme est considéré comme sacré en Inde, où il circule librement dans les rues ?",
+      "answer": "vache",
+      "accept": ["la vache"],
+      "choices": ["chèvre", "cochon", "cheval"],
+      "explanation": "En hindi, on l'appelle « Gao Mata », la « Mère Vache », de la même façon que l'on nomme les grandes déesses hindoues ; l'expression « vache sacrée » vient des Occidentaux.",
+      "wikipedia": "Vache sacrée"
+    },
+    {
+      "id": "mythologie-302",
+      "difficulty": 1,
+      "question": "Quel titre signifiant « l'Éveillé » a été donné à Siddhartha Gautama, fondateur d'une grande religion d'Asie ?",
+      "answer": "Bouddha",
+      "accept": ["le Bouddha", "Buddha"],
+      "choices": ["Dalaï-lama", "Brahma", "Confucius"],
+      "explanation": "Le mot sanskrit vient d'une racine signifiant « s'éveiller » ; dans le bouddhisme, d'autres êtres que Siddhartha peuvent aussi atteindre cet état.",
+      "wikipedia": "Bouddha"
+    },
+    {
+      "id": "mythologie-303",
+      "difficulty": 1,
+      "question": "Quel est le seul animal imaginaire parmi les douze signes de l'astrologie chinoise ?",
+      "answer": "dragon",
+      "accept": ["le dragon"],
+      "choices": ["phénix", "licorne", "griffon"],
+      "explanation": "Il vient juste avant le serpent, que l'on surnomme d'ailleurs « petit dragon » à l'oral ; au Viêt Nam, le lapin est remplacé par le chat dans ce zodiaque.",
+      "wikipedia": "Astrologie chinoise"
+    },
+    {
+      "id": "mythologie-304",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le mort-vivant sans volonté des croyances vaudoues haïtiennes, devenu une star des films d'horreur ?",
+      "answer": "zombie",
+      "accept": ["zombi", "un zombie"],
+      "choices": ["goule", "spectre", "momie"],
+      "explanation": "En créole haïtien, « zonbi » signifie « esprit » ou « revenant » ; la légende parle de morts ramenés à la vie par sortilège pour travailler comme esclaves.",
+      "wikipedia": "Zombie"
+    },
+    {
+      "id": "mythologie-305",
+      "difficulty": 1,
+      "question": "Quel être surnaturel sort de la lampe merveilleuse d'Aladin quand on la frotte, prêt à exaucer ses vœux ?",
+      "answer": "génie",
+      "accept": ["un génie", "djinn"],
+      "choices": ["lutin", "farfadet", "elfe"],
+      "explanation": "Ce conte ne figure pas dans les plus anciens manuscrits des Mille et Une Nuits : il y a été ajouté au XVIIIe siècle par son traducteur français, Antoine Galland.",
+      "wikipedia": "Aladin ou la Lampe merveilleuse"
+    },
+    {
+      "id": "mythologie-306",
+      "difficulty": 1,
+      "question": "Quel monstre marin géant à tentacules des légendes de Norvège pouvait faire chavirer les navires ?",
+      "answer": "Kraken",
+      "accept": ["le Kraken"],
+      "choices": ["Léviathan", "Charybde", "Scylla"],
+      "explanation": "La légende est sans doute née de l'observation de calmars géants ; Linné l'a même rangé parmi les céphalopodes en 1735, avant de le retirer de sa classification.",
+      "wikipedia": "Kraken"
+    },
+    {
+      "id": "mythologie-307",
+      "difficulty": 1,
+      "question": "Quel grand singe légendaire des forêts d'Amérique du Nord, aussi appelé Sasquatch, laisserait d'énormes empreintes ?",
+      "answer": "Bigfoot",
+      "accept": [],
+      "choices": ["yéti", "King Kong", "chupacabra"],
+      "explanation": "Son nom anglais signifie « grand pied » ; il aurait été donné par les colons de la conquête de l'Ouest, à cause des traces gigantesques attribuées à la créature.",
+      "wikipedia": "Bigfoot"
+    },
+    {
+      "id": "mythologie-308",
+      "difficulty": 1,
+      "question": "Quelle région, correspondant à l'actuelle Lozère, a donné son nom à la bête qui terrorisa ses habitants sous Louis XV ?",
+      "answer": "Gévaudan",
+      "accept": ["Gevaudan"],
+      "choices": ["Vivarais", "Rouergue", "Velay"],
+      "explanation": "De 1764 à 1767, ce ou ces canidés firent entre 88 et 124 victimes ; le roi promit une forte récompense à qui tuerait l'animal.",
+      "wikipedia": "Bête du Gévaudan"
+    },
+    {
+      "id": "mythologie-309",
+      "difficulty": 1,
+      "question": "Comment s'appelle la fontaine légendaire dont l'eau rendrait la jeunesse à ceux qui s'y baignent ?",
+      "answer": "Jouvence",
+      "accept": ["fontaine de Jouvence"],
+      "choices": ["Castalie", "Hippocrène", "Aréthuse"],
+      "explanation": "Symbole d'immortalité et de rajeunissement, elle a été peinte en 1546 par Lucas Cranach, qui montre des vieilles femmes ressortant jeunes du bassin.",
+      "wikipedia": "Fontaine de Jouvence"
+    },
+    {
+      "id": "mythologie-310",
+      "difficulty": 1,
+      "question": "Quelle petite plante des pelouses porte bonheur quand on en trouve une à quatre feuilles ?",
+      "answer": "trèfle",
+      "accept": ["trèfle à quatre feuilles", "trefle"],
+      "choices": ["luzerne", "oseille", "pâquerette"],
+      "explanation": "C'est une mutation assez rare du trèfle blanc, qui a normalement trois folioles ; la quatrième est souvent plus petite que les autres.",
+      "wikipedia": "Trèfle à quatre feuilles"
+    }
+  ]
+}

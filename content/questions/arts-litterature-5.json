@@ -1,0 +1,846 @@
+{
+  "category": "arts-litterature",
+  "questions": [
+    {
+      "id": "arts-litterature-556",
+      "difficulty": 1,
+      "question": "Quel surnom désigne la grosse cloche du palais de Westminster, et par extension la tour de l'horloge qui l'abrite à Londres ?",
+      "answer": "Big Ben",
+      "accept": [],
+      "choices": [
+        "Tower Bridge",
+        "Westminster Abbey",
+        "Buckingham"
+      ],
+      "explanation": "La tour s'appelle officiellement tour Élisabeth depuis le jubilé de diamant d'Élisabeth II, en 2012. Le surnom viendrait de Benjamin Hall, qui supervisa l'installation de la cloche de 13,7 tonnes.",
+      "wikipedia": "Big Ben"
+    },
+    {
+      "id": "arts-litterature-557",
+      "difficulty": 1,
+      "question": "Quel monument parisien, conspué en 1887 par une protestation d'artistes avant même d'être construit, est surnommé « la Dame de fer » ?",
+      "answer": "tour Eiffel",
+      "accept": [
+        "Eiffel"
+      ],
+      "choices": [
+        "Arc de triomphe",
+        "Grand Palais",
+        "Sacré-Cœur"
+      ],
+      "explanation": "La Protestation des artistes contre la tour fut publiée en février 1887, quelques jours après le début des fondations. Le monument, prévu pour durer vingt ans, est devenu l'emblème de Paris.",
+      "wikipedia": "Tour Eiffel"
+    },
+    {
+      "id": "arts-litterature-558",
+      "difficulty": 1,
+      "question": "Dans quelle capitale européenne la porte de Brandebourg, surmontée d'un quadrige, fut-elle pendant près de trente ans intégrée au Mur ?",
+      "answer": "Berlin",
+      "accept": [],
+      "choices": [
+        "Vienne",
+        "Munich",
+        "Varsovie"
+      ],
+      "explanation": "Érigée pour le roi de Prusse Frédéric-Guillaume II, la porte symbolisa la division de la ville. Son quadrige figure la déesse de la Victoire sur un char tiré par quatre chevaux.",
+      "wikipedia": "Porte de Brandebourg"
+    },
+    {
+      "id": "arts-litterature-559",
+      "difficulty": 1,
+      "question": "Sous quel monument parisien de la place de l'Étoile repose depuis 1921 le Soldat inconnu de la Première Guerre mondiale ?",
+      "answer": "Arc de triomphe",
+      "accept": [
+        "arc de triomphe de l'Étoile"
+      ],
+      "choices": [
+        "Panthéon",
+        "Invalides",
+        "Colonne Vendôme"
+      ],
+      "explanation": "Une flamme du souvenir y fut allumée pour la première fois le 11 novembre 1923. Elle est ravivée chaque soir à 18 h 30 par des associations d'anciens combattants.",
+      "wikipedia": "Arc de triomphe de l'Étoile"
+    },
+    {
+      "id": "arts-litterature-560",
+      "difficulty": 1,
+      "question": "Sous quel dôme parisien, voulu par Louis XIV pour ses soldats blessés, se trouve le tombeau de Napoléon Ier ?",
+      "answer": "Invalides",
+      "accept": [
+        "hôtel des Invalides"
+      ],
+      "choices": [
+        "Panthéon",
+        "Val-de-Grâce",
+        "Sorbonne"
+      ],
+      "explanation": "Louis XIV ordonna sa construction par un édit de 1670 pour loger les soldats invalides. Le sommet du dôme culmine à 107 mètres.",
+      "wikipedia": "Hôtel des Invalides"
+    },
+    {
+      "id": "arts-litterature-561",
+      "difficulty": 1,
+      "question": "Quel monument en forme de cube évidé, inauguré pour le bicentenaire de la Révolution, se dresse au cœur du quartier d'affaires de La Défense ?",
+      "answer": "Grande Arche",
+      "accept": [
+        "Arche de la Défense"
+      ],
+      "choices": [
+        "Tour First",
+        "Arc de triomphe",
+        "Tour Montparnasse"
+      ],
+      "explanation": "Inaugurée le 14 juillet 1989, elle s'appelait alors « grande arche de la Fraternité ». Elle prolonge l'axe historique qui part du Louvre.",
+      "wikipedia": "Arche de la Défense"
+    },
+    {
+      "id": "arts-litterature-562",
+      "difficulty": 1,
+      "question": "Dans quelle ville se dresse la cathédrale Saint-Basile-le-Bienheureux, aux bulbes colorés, sur la place Rouge ?",
+      "answer": "Moscou",
+      "accept": [],
+      "choices": [
+        "Saint-Pétersbourg",
+        "Kiev",
+        "Varsovie"
+      ],
+      "explanation": "Ivan le Terrible la fit construire pour célébrer la prise de Kazan. Elle est devenue le symbole de l'architecture traditionnelle russe.",
+      "wikipedia": "Cathédrale Saint-Basile-le-Bienheureux de Moscou"
+    },
+    {
+      "id": "arts-litterature-563",
+      "difficulty": 1,
+      "question": "Dans quelle fontaine baroque de Rome la tradition veut-elle qu'on jette une pièce, dos tourné, pour être sûr de revenir un jour ?",
+      "answer": "fontaine de Trevi",
+      "accept": [
+        "Trevi"
+      ],
+      "choices": [
+        "fontaine des Quatre-Fleuves",
+        "fontaine de la Barcaccia",
+        "fontaine du Triton"
+      ],
+      "explanation": "La fontaine fut dessinée par l'architecte Nicola Salvi. La coutume veut qu'on lance la pièce de la main droite, en tournant le dos au bassin, avant de quitter la Ville éternelle.",
+      "wikipedia": "Fontaine de Trevi"
+    },
+    {
+      "id": "arts-litterature-564",
+      "difficulty": 1,
+      "question": "Quelle immense basilique du Vatican, coiffée d'une coupole conçue par Michel-Ange, s'élève au-dessus du tombeau présumé du premier pape ?",
+      "answer": "basilique Saint-Pierre",
+      "accept": [
+        "Saint-Pierre de Rome",
+        "Saint-Pierre"
+      ],
+      "choices": [
+        "Saint-Jean-de-Latran",
+        "Sainte-Marie-Majeure",
+        "Saint-Paul-hors-les-Murs"
+      ],
+      "explanation": "Commencée en 1506 et achevée en 1626, elle a vu se succéder Bramante, Michel-Ange, Maderno et le Bernin. Pie XII annonça en 1950 la découverte du tombeau de l'apôtre.",
+      "wikipedia": "Basilique Saint-Pierre"
+    },
+    {
+      "id": "arts-litterature-565",
+      "difficulty": 1,
+      "question": "Quel pont parisien de l'île de la Cité, malgré son nom, est aujourd'hui le plus ancien pont de Paris encore debout ?",
+      "answer": "Pont Neuf",
+      "accept": [
+        "Pont-Neuf"
+      ],
+      "choices": [
+        "pont des Arts",
+        "pont Alexandre-III",
+        "pont Marie"
+      ],
+      "explanation": "Henri III en posa la première pierre en 1578 ; interrompu par les troubles de la Ligue, le chantier ne fut achevé qu'en 1607, sous Henri IV.",
+      "wikipedia": "Pont Neuf"
+    },
+    {
+      "id": "arts-litterature-566",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un décor composé de petits fragments de pierre, de verre ou de céramique, appelés tesselles, assemblés pour former une image ?",
+      "answer": "mosaïque",
+      "accept": [],
+      "choices": [
+        "marqueterie",
+        "fresque",
+        "vitrail"
+      ],
+      "explanation": "Elle orne sols et murs depuis l'Antiquité. Les mosaïstes romains taillaient leurs tesselles à la marteline, alors que les Grecs utilisaient d'abord de simples galets.",
+      "wikipedia": "Mosaïque"
+    },
+    {
+      "id": "arts-litterature-567",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la composition de morceaux de verre colorés, assemblés par des baguettes de plomb, qui orne les fenêtres des églises ?",
+      "answer": "vitrail",
+      "accept": [
+        "vitraux"
+      ],
+      "choices": [
+        "mosaïque",
+        "émail",
+        "rosace"
+      ],
+      "explanation": "Le procédé de mise en plomb fut inventé au début du Moyen Âge. À l'époque gothique, les baies se multiplient et les vitraux prennent le relais des fresques pour raconter la Bible aux fidèles.",
+      "wikipedia": "Vitrail"
+    },
+    {
+      "id": "arts-litterature-568",
+      "difficulty": 1,
+      "question": "Quelle technique, chère à l'artiste de rue Banksy, consiste à appliquer la peinture à travers une feuille découpée pour reproduire un motif ?",
+      "answer": "pochoir",
+      "accept": [],
+      "choices": [
+        "sérigraphie",
+        "collage",
+        "frottage"
+      ],
+      "explanation": "La technique est très ancienne : les mains négatives des grottes préhistoriques ont été obtenues en soufflant du pigment autour d'une main posée sur la paroi.",
+      "wikipedia": "Pochoir"
+    },
+    {
+      "id": "arts-litterature-569",
+      "difficulty": 1,
+      "question": "Quelle peinture, dont les pigments sont liés par une huile comme celle de lin, fut généralisée par les primitifs flamands avant de conquérir l'Europe ?",
+      "answer": "peinture à l'huile",
+      "accept": [
+        "huile"
+      ],
+      "choices": [
+        "tempera",
+        "gouache",
+        "acrylique"
+      ],
+      "explanation": "Vasari en attribuait l'invention au Flamand Jan van Eyck. Son « séchage » est en réalité une oxydation : l'huile se polymérise et durcit lentement, ce qui laisse au peintre le temps de retoucher.",
+      "wikipedia": "Peinture à l'huile"
+    },
+    {
+      "id": "arts-litterature-570",
+      "difficulty": 1,
+      "question": "Quelle peinture à l'eau, comme l'aquarelle mais opaque et couvrante, est souvent la première que les enfants utilisent à l'école ?",
+      "answer": "gouache",
+      "accept": [],
+      "choices": [
+        "acrylique",
+        "pastel",
+        "encre de Chine"
+      ],
+      "explanation": "Son nom vient de l'italien guazzo. Son liant traditionnel est la gomme arabique, remplacée dans les versions scolaires par de la méthylcellulose.",
+      "wikipedia": "Gouache"
+    },
+    {
+      "id": "arts-litterature-571",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'instrument formé d'une touffe de poils fixée au bout d'un manche, avec lequel le peintre étale ses couleurs ?",
+      "answer": "pinceau",
+      "accept": [
+        "pinceaux"
+      ],
+      "choices": [
+        "couteau",
+        "rouleau",
+        "spatule"
+      ],
+      "explanation": "Un pinceau compte trois parties : le manche, la garniture de poils naturels ou synthétiques, et la virole, pièce qui attache les poils au manche.",
+      "wikipedia": "Pinceau"
+    },
+    {
+      "id": "arts-litterature-572",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la réception privée organisée la veille de l'ouverture d'une exposition d'art, en présence de l'artiste et des invités ?",
+      "answer": "vernissage",
+      "accept": [],
+      "choices": [
+        "inauguration",
+        "première",
+        "avant-première"
+      ],
+      "explanation": "Le mot vient des anciens Salons de peinture, où les artistes venaient vernir leurs toiles sur place juste avant la visite du public.",
+      "wikipedia": "Vernissage"
+    },
+    {
+      "id": "arts-litterature-573",
+      "difficulty": 1,
+      "question": "Quelle couleur le peintre obtient-il sur sa palette en mélangeant du jaune et du bleu ?",
+      "answer": "vert",
+      "accept": [],
+      "choices": [
+        "violet",
+        "orange",
+        "marron"
+      ],
+      "explanation": "En peinture, le résultat varie selon les pigments employés. Les sirops de menthe industriels sont eux aussi colorés en vert par un mélange de colorants jaune et bleu.",
+      "wikipedia": "Vert"
+    },
+    {
+      "id": "arts-litterature-574",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la grande partie centrale et allongée d'une église, où se tiennent les fidèles pendant la messe ?",
+      "answer": "nef",
+      "accept": [],
+      "choices": [
+        "chœur",
+        "transept",
+        "abside"
+      ],
+      "explanation": "Le mot nef signifie au sens premier « navire » : sa longue voûte évoque la coque renversée d'un bateau.",
+      "wikipedia": "Nef"
+    },
+    {
+      "id": "arts-litterature-575",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la tour d'une église dans laquelle sont suspendues les cloches ?",
+      "answer": "clocher",
+      "accept": [],
+      "choices": [
+        "beffroi",
+        "minaret",
+        "donjon"
+      ],
+      "explanation": "Le mot italien campanile vient de campana, la cloche de Campanie. Appeler à l'office par les cloches est un usage assez tardif : Grecs et Romains se servaient plutôt de grelots et de sonnettes.",
+      "wikipedia": "Clocher"
+    },
+    {
+      "id": "arts-litterature-576",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on les maisons, typiques de l'Alsace ou de la Normandie, dont la façade laisse voir une ossature en pans de bois ?",
+      "answer": "maisons à colombages",
+      "accept": [
+        "colombages",
+        "colombage"
+      ],
+      "choices": [
+        "maisons en torchis",
+        "chaumières",
+        "maisons à encorbellement"
+      ],
+      "explanation": "Entre les poutres, le remplissage peut être en brique, en pierre ou en torchis, mélange d'argile, de paille et de chaux. L'écomusée d'Alsace en conserve de nombreux exemples.",
+      "wikipedia": "Maison à colombages"
+    },
+    {
+      "id": "arts-litterature-577",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la tour à plusieurs étages et aux toits superposés que l'on trouve dans les temples bouddhistes d'Asie ?",
+      "answer": "pagode",
+      "accept": [],
+      "choices": [
+        "stupa",
+        "ziggourat",
+        "minaret"
+      ],
+      "explanation": "Le mot vient du portugais pagoda : les explorateurs portugais l'employaient d'abord pour désigner les temples indiens.",
+      "wikipedia": "Pagode"
+    },
+    {
+      "id": "arts-litterature-578",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la salle voûtée aménagée sous une église, où l'on conservait souvent des tombeaux ou des reliques ?",
+      "answer": "crypte",
+      "accept": [],
+      "choices": [
+        "sacristie",
+        "chapelle",
+        "nef"
+      ],
+      "explanation": "Le mot vient du grec kruptô, « cacher ». Au IXe siècle, des moines murèrent les reliques de saint Philibert pour les soustraire aux raids normands.",
+      "wikipedia": "Crypte"
+    },
+    {
+      "id": "arts-litterature-579",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la galerie couverte entourant un jardin carré, au cœur d'une abbaye, où les moines se promènent et méditent ?",
+      "answer": "cloître",
+      "accept": [
+        "cloitre"
+      ],
+      "choices": [
+        "parvis",
+        "préau",
+        "déambulatoire"
+      ],
+      "explanation": "Le mot vient du latin claustrum, « lieu fermé ». Ses galeries, d'abord couvertes d'une simple charpente, furent généralement voûtées à partir du XIIe siècle.",
+      "wikipedia": "Cloître"
+    },
+    {
+      "id": "arts-litterature-580",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la sculpture représentant un personnage monté sur un cheval, comme celle d'Henri IV sur le Pont-Neuf ?",
+      "answer": "statue équestre",
+      "accept": [
+        "équestre"
+      ],
+      "choices": [
+        "gisant",
+        "statue colossale",
+        "bas-relief"
+      ],
+      "explanation": "Le modèle du genre est le Marc Aurèle du Capitole, épargné au Moyen Âge parce qu'on le prenait pour l'empereur chrétien Constantin.",
+      "wikipedia": "Statue équestre"
+    },
+    {
+      "id": "arts-litterature-581",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on une sculpture qui ne représente que la tête, les épaules et le haut de la poitrine d'une personne ?",
+      "answer": "buste",
+      "accept": [],
+      "choices": [
+        "torse",
+        "médaillon",
+        "statuette"
+      ],
+      "explanation": "Il repose souvent sur un petit support, le piédouche. Bien des bustes antiques sont en fait des têtes détachées de statues en pied.",
+      "wikipedia": "Buste (sculpture)"
+    },
+    {
+      "id": "arts-litterature-582",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le support sur lequel repose une statue, souvent orné d'une inscription au nom du personnage représenté ?",
+      "answer": "socle",
+      "accept": [
+        "piédestal"
+      ],
+      "choices": [
+        "chapiteau",
+        "fronton",
+        "linteau"
+      ],
+      "explanation": "Le mot piédestal vient de l'italien piede, « pied », et stallo, « support ». Mettre quelqu'un sur un piédestal, c'est l'admirer sans réserve.",
+      "wikipedia": "Piédestal"
+    },
+    {
+      "id": "arts-litterature-583",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un immeuble de très grande hauteur, comme l'Empire State Building ou les tours de Manhattan ?",
+      "answer": "gratte-ciel",
+      "accept": [
+        "gratte-ciels"
+      ],
+      "choices": [
+        "building",
+        "pyramide",
+        "tour de guet"
+      ],
+      "explanation": "Le genre est né aux États-Unis à la fin du XIXe siècle, lors de la reconstruction de Chicago après le grand incendie de 1871.",
+      "wikipedia": "Gratte-ciel"
+    },
+    {
+      "id": "arts-litterature-584",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le modèle réduit d'un bâtiment, que l'architecte présente pour montrer son projet avant la construction ?",
+      "answer": "maquette",
+      "accept": [],
+      "choices": [
+        "esquisse",
+        "plan",
+        "croquis"
+      ],
+      "explanation": "Les Égyptiens plaçaient déjà dans les tombes des modèles réduits de navires. Aujourd'hui, l'impression 3D sert beaucoup à fabriquer les maquettes.",
+      "wikipedia": "Maquette"
+    },
+    {
+      "id": "arts-litterature-585",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on, en photographie argentique, le film où les zones claires apparaissent sombres et les couleurs sont inversées ?",
+      "answer": "négatif",
+      "accept": [
+        "film négatif"
+      ],
+      "choices": [
+        "diapositive",
+        "tirage",
+        "planche contact"
+      ],
+      "explanation": "Sur un négatif couleur, le rouge devient cyan, le vert magenta et le bleu jaune. Le tirage sur papier rétablit les vraies couleurs.",
+      "wikipedia": "Film négatif"
+    },
+    {
+      "id": "arts-litterature-586",
+      "difficulty": 1,
+      "question": "Quelle marque américaine a popularisé l'appareil photo instantané, dont les clichés sortent de l'appareil et se révèlent en quelques minutes ?",
+      "answer": "Polaroid",
+      "accept": [],
+      "choices": [
+        "Kodak",
+        "Canon",
+        "Leica"
+      ],
+      "explanation": "La société fut fondée en 1937 par Edwin Land, qui fabriqua d'abord des lunettes de soleil à verres polarisants, d'où le nom de la marque.",
+      "wikipedia": "Polaroid Corporation"
+    },
+    {
+      "id": "arts-litterature-587",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la cabine automatique où l'on fait ses photos d'identité, souvent installée dans les gares et les centres commerciaux ?",
+      "answer": "Photomaton",
+      "accept": [],
+      "choices": [
+        "Polaroid",
+        "Minolta",
+        "Kodak"
+      ],
+      "explanation": "Le premier fut installé à New York en septembre 1925 par Anatol Josepho. Le nom est celui d'une marque devenu nom commun.",
+      "wikipedia": "Photomaton"
+    },
+    {
+      "id": "arts-litterature-588",
+      "difficulty": 1,
+      "question": "Quel anglicisme désigne l'autoportrait photographique pris avec son propre téléphone tenu à bout de bras ?",
+      "answer": "selfie",
+      "accept": [
+        "égoportrait"
+      ],
+      "choices": [
+        "photomontage",
+        "portrait",
+        "cliché"
+      ],
+      "explanation": "Le mot a été élu mot de l'année 2013 par les dictionnaires d'Oxford. Les Québécois lui préfèrent « égoportrait ».",
+      "wikipedia": "Selfie"
+    },
+    {
+      "id": "arts-litterature-589",
+      "difficulty": 1,
+      "question": "Sur quel support à trois pieds réglables le photographe fixe-t-il son appareil pour obtenir des images bien stables ?",
+      "answer": "trépied",
+      "accept": [
+        "trepied"
+      ],
+      "choices": [
+        "monopode",
+        "chevalet",
+        "perche"
+      ],
+      "explanation": "Repliable pour le transport, il sert aussi aux cadreurs de cinéma et aux géomètres-topographes, qui y fixent leurs instruments de visée.",
+      "wikipedia": "Trépied"
+    },
+    {
+      "id": "arts-litterature-590",
+      "difficulty": 1,
+      "question": "Quelle marque de George Eastman a démocratisé la photographie avec le slogan « Vous appuyez sur le bouton, on se charge du reste » ?",
+      "answer": "Kodak",
+      "accept": [],
+      "choices": [
+        "Polaroid",
+        "Agfa",
+        "Fujifilm"
+      ],
+      "explanation": "Inventé en 1888, le nom devait se prononcer de la même façon dans toutes les langues ; Eastman encadra les voyelles O et A par le K, initiale du nom de sa mère.",
+      "wikipedia": "Kodak"
+    },
+    {
+      "id": "arts-litterature-591",
+      "difficulty": 1,
+      "question": "Quel logiciel d'Adobe, lancé en 1990, est devenu la référence mondiale de la retouche de photos ?",
+      "answer": "Photoshop",
+      "accept": [
+        "Adobe Photoshop"
+      ],
+      "choices": [
+        "Illustrator",
+        "Lightroom",
+        "InDesign"
+      ],
+      "explanation": "Il est né en 1987 d'un petit programme de l'étudiant Thomas Knoll, que son frère John, employé du studio d'effets spéciaux Industrial Light & Magic, l'encouragea à développer.",
+      "wikipedia": "Adobe Photoshop"
+    },
+    {
+      "id": "arts-litterature-592",
+      "difficulty": 1,
+      "question": "Quel scooter italien de Piaggio, symbole du design de l'après-guerre, porte un nom qui signifie « guêpe » ?",
+      "answer": "Vespa",
+      "accept": [],
+      "choices": [
+        "Lambretta",
+        "Ducati",
+        "Ciao"
+      ],
+      "explanation": "Breveté en 1946, il doit son nom à la réaction d'Enrico Piaggio découvrant le prototype à la taille fine : « Elle a l'air d'une guêpe ! ».",
+      "wikipedia": "Vespa"
+    },
+    {
+      "id": "arts-litterature-593",
+      "difficulty": 1,
+      "question": "Quelle voiture Citroën de 1955, à la silhouette futuriste, porte deux lettres qui se prononcent « déesse » ?",
+      "answer": "DS",
+      "accept": [
+        "Citroën DS"
+      ],
+      "choices": [
+        "2 CV",
+        "SM",
+        "Traction"
+      ],
+      "explanation": "Sa carrosserie fut dessinée par le sculpteur et designer italien Flaminio Bertoni. Sa version simplifiée s'appelait ID, à prononcer « idée ».",
+      "wikipedia": "Citroën DS"
+    },
+    {
+      "id": "arts-litterature-594",
+      "difficulty": 1,
+      "question": "Quel musée de cire parisien du boulevard Montmartre, fondé en 1882, porte le nom d'un caricaturiste ?",
+      "answer": "Grévin",
+      "accept": [
+        "musée Grévin"
+      ],
+      "choices": [
+        "Carnavalet",
+        "Tussauds",
+        "Orsay"
+      ],
+      "explanation": "Arthur Meyer, directeur du journal Le Gaulois, voulait que ses lecteurs puissent « mettre un visage » sur les célébrités ; il fit appel au caricaturiste Alfred Grévin.",
+      "wikipedia": "Musée Grévin"
+    },
+    {
+      "id": "arts-litterature-595",
+      "difficulty": 1,
+      "question": "Quel ancien palais des rois de France, au bord de la Seine à Paris, a été transformé en musée en 1793, sous la Révolution ?",
+      "answer": "Louvre",
+      "accept": [
+        "palais du Louvre",
+        "musée du Louvre"
+      ],
+      "choices": [
+        "Tuileries",
+        "Palais-Royal",
+        "Luxembourg"
+      ],
+      "explanation": "Avant d'être un palais, le Louvre fut une forteresse bâtie par Philippe Auguste pour défendre Paris. On peut encore en visiter les vestiges sous le musée.",
+      "wikipedia": "Palais du Louvre"
+    },
+    {
+      "id": "arts-litterature-596",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on la vente publique où chacun propose un prix plus élevé, l'objet revenant au plus offrant ?",
+      "answer": "vente aux enchères",
+      "accept": [
+        "enchères",
+        "enchère"
+      ],
+      "choices": [
+        "brocante",
+        "soldes",
+        "braderie"
+      ],
+      "explanation": "Hérodote décrit déjà, à Babylone, des enchères au cours desquelles la main des jeunes femmes était accordée au plus offrant.",
+      "wikipedia": "Enchère"
+    },
+    {
+      "id": "arts-litterature-597",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on en France l'officier qui dirige une vente aux enchères et adjuge les objets d'un coup de marteau ?",
+      "answer": "commissaire-priseur",
+      "accept": [
+        "commissaire priseur"
+      ],
+      "choices": [
+        "notaire",
+        "huissier",
+        "antiquaire"
+      ],
+      "explanation": "Il annonce le règlement et les lots, recueille les enchères et désigne le gagnant. À Paris, les plus célèbres ventes se tiennent à l'hôtel Drouot.",
+      "wikipedia": "Commissaire-priseur"
+    },
+    {
+      "id": "arts-litterature-598",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le spécialiste chargé d'étudier, d'enrichir et de protéger les collections d'un musée ?",
+      "answer": "conservateur",
+      "accept": [
+        "conservatrice",
+        "conservateur de musée"
+      ],
+      "choices": [
+        "commissaire",
+        "restaurateur",
+        "guide"
+      ],
+      "explanation": "Le conservateur ne se contente pas de garder les œuvres : il les étudie, organise leur présentation au public et propose de nouvelles acquisitions.",
+      "wikipedia": "Conservateur de musée"
+    },
+    {
+      "id": "arts-litterature-599",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on celui qui peint des copies et les signe du nom d'un grand artiste pour les vendre comme authentiques ?",
+      "answer": "faussaire",
+      "accept": [],
+      "choices": [
+        "copiste",
+        "plagiaire",
+        "contrefacteur"
+      ],
+      "explanation": "L'un des plus célèbres est le Néerlandais Han van Meegeren, qui peignit de nombreux faux Vermeer au XXe siècle.",
+      "wikipedia": "Faux (art)"
+    },
+    {
+      "id": "arts-litterature-600",
+      "difficulty": 1,
+      "question": "Sur quelle machine à plateau rotatif le potier façonne-t-il ses vases d'argile, une invention vieille de plus de cinq mille ans ?",
+      "answer": "tour",
+      "accept": [
+        "tour de potier"
+      ],
+      "choices": [
+        "four",
+        "métier",
+        "établi"
+      ],
+      "explanation": "Il apparaît au Proche-Orient vers 3500 avant notre ère. Longtemps entraîné par les pieds du potier ou à l'aide d'un bâton, il est aujourd'hui souvent électrique.",
+      "wikipedia": "Poterie"
+    },
+    {
+      "id": "arts-litterature-601",
+      "difficulty": 1,
+      "question": "Quelle série de tableaux de Van Gogh, peinte à Arles pour décorer la chambre de Gauguin, montre de grandes fleurs jaunes dans un vase ?",
+      "answer": "Les Tournesols",
+      "accept": [
+        "Tournesols"
+      ],
+      "choices": [
+        "Les Iris",
+        "Les Coquelicots",
+        "Les Nymphéas"
+      ],
+      "explanation": "Gauguin peignit d'ailleurs son ami en plein travail dans « Van Gogh peignant des tournesols ». Van Gogh en réalisa même des copies qu'il appelait « les Répétitions ».",
+      "wikipedia": "Les Tournesols"
+    },
+    {
+      "id": "arts-litterature-602",
+      "difficulty": 1,
+      "question": "Quel maître hollandais du clair-obscur, auteur d'innombrables autoportraits, a peint La Leçon d'anatomie du docteur Tulp ?",
+      "answer": "Rembrandt",
+      "accept": [],
+      "choices": [
+        "Vermeer",
+        "Rubens",
+        "Van Dyck"
+      ],
+      "explanation": "Il s'est représenté de 1628 jusqu'à l'année de sa mort, en 1669 : ses autoportraits forment un véritable journal intime en peinture.",
+      "wikipedia": "Rembrandt"
+    },
+    {
+      "id": "arts-litterature-603",
+      "difficulty": 1,
+      "question": "Quel mouvement artistique, mené par André Breton, explore le rêve et l'inconscient, à l'image de Dalí ou de Magritte ?",
+      "answer": "surréalisme",
+      "accept": [],
+      "choices": [
+        "cubisme",
+        "dadaïsme",
+        "fauvisme"
+      ],
+      "explanation": "Le surréalisme ne se limite pas à la peinture : poésie, photographie, cinéma ou collage, il touche tous les arts pour libérer la pensée du contrôle de la raison.",
+      "wikipedia": "Surréalisme"
+    },
+    {
+      "id": "arts-litterature-604",
+      "difficulty": 1,
+      "question": "Sur la voûte de la chapelle Sixtine, quel premier homme tend un doigt vers celui de Dieu, dans la célèbre fresque de Michel-Ange ?",
+      "answer": "Adam",
+      "accept": [],
+      "choices": [
+        "Noé",
+        "Abel",
+        "Moïse"
+      ],
+      "explanation": "Les deux index ne se touchent pas : certains y voient le signe de l'inaccessibilité de la perfection divine. La scène illustre un épisode du livre de la Genèse.",
+      "wikipedia": "La Création d'Adam (Michel-Ange)"
+    },
+    {
+      "id": "arts-litterature-605",
+      "difficulty": 1,
+      "question": "Quel tableau de Vermeer, devenu célèbre en France grâce à une marque de yaourts, montre une servante versant un filet de lait ?",
+      "answer": "La Laitière",
+      "accept": [
+        "Laitière"
+      ],
+      "choices": [
+        "La Dentellière",
+        "La Liseuse",
+        "La Jeune Fille à la perle"
+      ],
+      "explanation": "Conservé au Rijksmuseum d'Amsterdam, ce petit tableau d'environ 45 centimètres de haut a été peint vers 1658.",
+      "wikipedia": "La Laitière"
+    },
+    {
+      "id": "arts-litterature-606",
+      "difficulty": 1,
+      "question": "Quel animal, sculpté par Bartholdi dans le grès rose au pied de la citadelle de Belfort, rappelle la résistance de la ville en 1870 ?",
+      "answer": "lion",
+      "accept": [
+        "Lion de Belfort"
+      ],
+      "choices": [
+        "aigle",
+        "coq",
+        "taureau"
+      ],
+      "explanation": "Il célèbre les 103 jours de siège soutenus par le colonel Denfert-Rochereau face aux Prussiens. Bartholdi est aussi l'auteur de la statue de la Liberté.",
+      "wikipedia": "Lion de Belfort"
+    },
+    {
+      "id": "arts-litterature-607",
+      "difficulty": 1,
+      "question": "Quel animal de bronze, déposé sans autorisation en 1989 par l'artiste Arturo Di Modica, se dresse près de la Bourse de New York ?",
+      "answer": "taureau",
+      "accept": [
+        "Charging Bull"
+      ],
+      "choices": [
+        "ours",
+        "bison",
+        "lion"
+      ],
+      "explanation": "L'artiste l'installa de nuit, sous un sapin de Noël, comme un cadeau aux New-Yorkais après le krach de 1987. Saisi par la police, il fut réinstallé non loin.",
+      "wikipedia": "Taureau de Wall Street"
+    },
+    {
+      "id": "arts-litterature-608",
+      "difficulty": 1,
+      "question": "Quel oiseau, dessiné par Picasso pour l'affiche d'un congrès de 1949, est devenu un symbole mondial de la paix ?",
+      "answer": "colombe",
+      "accept": [
+        "Colombe de la paix"
+      ],
+      "choices": [
+        "hirondelle",
+        "mouette",
+        "cygne"
+      ],
+      "explanation": "L'affiche annonçait le Congrès mondial des partisans de la paix, tenu à la salle Pleyel. Le dessin est exposé au musée d'Art moderne de Paris.",
+      "wikipedia": "Colombe de la paix"
+    },
+    {
+      "id": "arts-litterature-609",
+      "difficulty": 1,
+      "question": "Quelle pointe élancée de Notre-Dame de Paris, dessinée par Viollet-le-Duc en 1859, s'est effondrée lors de l'incendie d'avril 2019 ?",
+      "answer": "flèche",
+      "accept": [
+        "flèche de Notre-Dame"
+      ],
+      "choices": [
+        "rosace",
+        "gargouille",
+        "tour nord"
+      ],
+      "explanation": "Recouverte de plomb, elle s'inspirait de la flèche de la cathédrale d'Orléans, bâtie par le même charpentier.",
+      "wikipedia": "Flèche de Notre-Dame de Paris"
+    },
+    {
+      "id": "arts-litterature-610",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le grand poteau de bois sculpté d'animaux superposés, dressé par les peuples amérindiens de la côte Pacifique du Canada ?",
+      "answer": "totem",
+      "accept": [
+        "mât totémique"
+      ],
+      "choices": [
+        "menhir",
+        "obélisque",
+        "calumet"
+      ],
+      "explanation": "Ces mâts sont souvent taillés dans le thuya géant. On y voit fréquemment le corbeau, superposé à d'autres créatures et à des figures humaines.",
+      "wikipedia": "Mât totémique"
+    }
+  ]
+}

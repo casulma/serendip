@@ -1,0 +1,636 @@
+{
+  "category": "langue",
+  "questions": [
+    {
+      "id": "langue-351",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un mot qui a le même sens qu'un autre, comme « vélo » et « bicyclette » ?",
+      "answer": "Synonyme",
+      "accept": [
+        "synonymes"
+      ],
+      "choices": [
+        "Antonyme",
+        "Homonyme",
+        "Paronyme"
+      ],
+      "explanation": "Bien des synonymes naissent de l'emprunt à une autre langue ; certains linguistes estiment même qu'il n'existe pas de synonymes parfaits, interchangeables dans toutes les phrases.",
+      "wikipedia": "Synonymie"
+    },
+    {
+      "id": "langue-352",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on un mot de sens opposé à un autre, comme « chaud » et « froid » ?",
+      "answer": "Antonyme",
+      "accept": [
+        "antonymes",
+        "contraire"
+      ],
+      "choices": [
+        "Synonyme",
+        "Homonyme",
+        "Homophone"
+      ],
+      "explanation": "Les linguistes distinguent les contraires gradués, comme chaud et froid, et les contraires complémentaires, comme pair et impair, où nier l'un revient à affirmer l'autre.",
+      "wikipedia": "Antonymie"
+    },
+    {
+      "id": "langue-353",
+      "difficulty": 1,
+      "question": "Dans la phrase « Le chat mange la souris », quelle fonction grammaticale occupe le groupe « le chat » ?",
+      "answer": "Sujet",
+      "accept": [],
+      "choices": [
+        "Complément d'objet direct",
+        "Attribut",
+        "Complément circonstanciel"
+      ],
+      "explanation": "Le verbe s'accorde avec lui en personne et en nombre ; mais le sujet n'agit pas toujours, comme dans « il pleut » ou dans une phrase à la voix passive.",
+      "wikipedia": "Sujet (grammaire)"
+    },
+    {
+      "id": "langue-354",
+      "difficulty": 1,
+      "question": "Dans « J'écris ton nom », quelle fonction occupe « ton nom », relié au verbe sans aucune préposition ?",
+      "answer": "Complément d'objet direct",
+      "accept": [
+        "COD",
+        "complément direct"
+      ],
+      "choices": [
+        "Complément d'objet indirect",
+        "Attribut du sujet",
+        "Complément circonstanciel"
+      ],
+      "explanation": "Il devient sujet quand on passe à la voix passive : « la souris est mangée par le chat » ; c'est l'héritier de l'accusatif latin.",
+      "wikipedia": "Complément d'objet direct"
+    },
+    {
+      "id": "langue-355",
+      "difficulty": 1,
+      "question": "Quelle classe de mots se conjugue et exprime une action ou un état, comme « courir » ou « être » ?",
+      "answer": "Verbe",
+      "accept": [
+        "verbes"
+      ],
+      "choices": [
+        "Adverbe",
+        "Adjectif",
+        "Nom"
+      ],
+      "explanation": "Son nom vient du latin « verbum », le mot ; avec le nom, il forme l'une des deux grandes catégories de mots sur lesquelles reposent les langues.",
+      "wikipedia": "Verbe"
+    },
+    {
+      "id": "langue-356",
+      "difficulty": 1,
+      "question": "Quelle nature de mot, comme « gentil » dans « un chat gentil », qualifie un nom et s'accorde avec lui ?",
+      "answer": "Adjectif",
+      "accept": [
+        "adjectif qualificatif"
+      ],
+      "choices": [
+        "Adverbe",
+        "Pronom",
+        "Déterminant"
+      ],
+      "explanation": "On le disait autrefois « nom adjectif » ; placé après un verbe comme « être », il devient attribut, et collé au nom, il est épithète.",
+      "wikipedia": "Adjectif"
+    },
+    {
+      "id": "langue-357",
+      "difficulty": 1,
+      "question": "Quelle nature de mot, comme « il » ou « elle », remplace un nom pour éviter de le répéter ?",
+      "answer": "Pronom",
+      "accept": [
+        "pronom personnel"
+      ],
+      "choices": [
+        "Article",
+        "Adverbe",
+        "Déterminant"
+      ],
+      "explanation": "Son nom signifie littéralement « mis pour le nom », le préfixe pro- voulant dire « à la place de » : dans « je les vois », « les » est un pronom.",
+      "wikipedia": "Pronom"
+    },
+    {
+      "id": "langue-358",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on le nombre grammatical d'un mot désignant une seule chose, par opposition au pluriel ?",
+      "answer": "Singulier",
+      "accept": [],
+      "choices": [
+        "Duel",
+        "Masculin",
+        "Collectif"
+      ],
+      "explanation": "Certaines langues ont aussi un duel, pour deux objets ; le français en garde une trace dans la faute « un ciseaux », pour une paire de ciseaux.",
+      "wikipedia": "Pluriel"
+    },
+    {
+      "id": "langue-359",
+      "difficulty": 1,
+      "question": "Quel petit signe relie les mots de « arc-en-ciel » ou les prénoms composés comme Jean-Pierre ?",
+      "answer": "Trait d'union",
+      "accept": [
+        "trait-d'union"
+      ],
+      "choices": [
+        "Tiret",
+        "Barre oblique",
+        "Apostrophe"
+      ],
+      "explanation": "Il ne s'entoure jamais d'espaces, contrairement au tiret ; en 1694, le premier Dictionnaire de l'Académie française en ajouta à de nombreux mots jusque-là soudés.",
+      "wikipedia": "Trait d'union"
+    },
+    {
+      "id": "langue-360",
+      "difficulty": 1,
+      "question": "Quels signes de ponctuation en chevrons, « comme ceux-ci », encadrent une citation ou une parole rapportée ?",
+      "answer": "Guillemets",
+      "accept": [
+        "guillemet"
+      ],
+      "choices": [
+        "Parenthèses",
+        "Crochets",
+        "Tirets"
+      ],
+      "explanation": "On a longtemps attribué leur invention, à tort, à un imprimeur nommé Guillaume ; ils apparaissent en réalité dès 1527 chez les imprimeurs Alde et Bade.",
+      "wikipedia": "Guillemet"
+    },
+    {
+      "id": "langue-361",
+      "difficulty": 1,
+      "question": "Quel signe de ponctuation, noté « ; », sépare deux parties de phrase indépendantes mais étroitement liées par le sens ?",
+      "answer": "Point-virgule",
+      "accept": [
+        "point virgule"
+      ],
+      "choices": [
+        "Deux-points",
+        "Points de suspension",
+        "Tiret"
+      ],
+      "explanation": "Il apparaît en 1495 à Venise dans De Aetna, récit de l'ascension de l'Etna par l'humaniste Pietro Bembo ; le mot qui le suit ne prend pas de majuscule.",
+      "wikipedia": "Point-virgule"
+    },
+    {
+      "id": "langue-362",
+      "difficulty": 1,
+      "question": "Quel signe de ponctuation, qui marque une courte pause dans la phrase, tire son nom du latin « petite baguette » ?",
+      "answer": "Virgule",
+      "accept": [],
+      "choices": [
+        "Point",
+        "Tiret",
+        "Apostrophe"
+      ],
+      "explanation": "Le latin « virgula » est un diminutif de « virga », la baguette ; l'anglais « comma » et l'allemand « Komma » viennent, eux, d'un mot grec.",
+      "wikipedia": "Virgule"
+    },
+    {
+      "id": "langue-363",
+      "difficulty": 1,
+      "question": "Quels signes de ponctuation arrondis isolent dans une phrase une remarque ou une précision secondaire ?",
+      "answer": "Parenthèses",
+      "accept": [
+        "parenthèse"
+      ],
+      "choices": [
+        "Crochets",
+        "Guillemets",
+        "Accolades"
+      ],
+      "explanation": "L'humaniste Érasme les baptisa en 1530 « lunulae », c'est-à-dire « petites lunes » ; l'imprimeur Nicolas Jenson leur avait donné leur forme arrondie dès 1470.",
+      "wikipedia": "Parenthèse"
+    },
+    {
+      "id": "langue-364",
+      "difficulty": 1,
+      "question": "Quel signe de ponctuation termine une phrase exprimant la surprise, la colère ou un ordre, comme « Halte ! » ?",
+      "answer": "Point d'exclamation",
+      "accept": [
+        "point d'admiration"
+      ],
+      "choices": [
+        "Point d'interrogation",
+        "Points de suspension",
+        "Deux-points"
+      ],
+      "explanation": "On l'appelait autrefois point d'admiration ; en France, l'usage typographique veut qu'une espace fine insécable le précède, comme le point d'interrogation.",
+      "wikipedia": "Point d'exclamation"
+    },
+    {
+      "id": "langue-365",
+      "difficulty": 1,
+      "question": "Quelle langue de Chine, parlée notamment à Pékin, compte le plus grand nombre de locuteurs natifs au monde ?",
+      "answer": "Mandarin",
+      "accept": [
+        "chinois mandarin",
+        "chinois"
+      ],
+      "choices": [
+        "Cantonais",
+        "Tibétain",
+        "Coréen"
+      ],
+      "explanation": "Son nom chinois, guānhuà, signifie « langue des officiels » ; on le désigne parfois abusivement sous le simple nom de « chinois », voire de « pékinois ».",
+      "wikipedia": "Mandarin (langue)"
+    },
+    {
+      "id": "langue-366",
+      "difficulty": 1,
+      "question": "Quelle langue germanique est la langue officielle des Pays-Bas et celle de la Flandre, au nord de la Belgique ?",
+      "answer": "Néerlandais",
+      "accept": [
+        "flamand",
+        "hollandais"
+      ],
+      "choices": [
+        "Allemand",
+        "Danois",
+        "Luxembourgeois"
+      ],
+      "explanation": "Avec environ 25 millions de locuteurs natifs, c'est la troisième langue germanique du monde après l'anglais et l'allemand ; il est aussi officiel au Suriname.",
+      "wikipedia": "Néerlandais"
+    },
+    {
+      "id": "langue-367",
+      "difficulty": 1,
+      "question": "Quelle langue parle-t-on majoritairement en Autriche, le pays de Mozart et de l'impératrice Sissi ?",
+      "answer": "Allemand",
+      "accept": [],
+      "choices": [
+        "Hongrois",
+        "Tchèque",
+        "Italien"
+      ],
+      "explanation": "L'allemand possède trois versions standard, allemande, autrichienne et suisse ; on le parle aussi au Liechtenstein, au Luxembourg et dans l'est de la Belgique.",
+      "wikipedia": "Allemand"
+    },
+    {
+      "id": "langue-368",
+      "difficulty": 1,
+      "question": "Quelle langue est la plus parlée au Mexique, pays qui en compte plus de locuteurs qu'aucun autre au monde ?",
+      "answer": "Espagnol",
+      "accept": [
+        "castillan"
+      ],
+      "choices": [
+        "Portugais",
+        "Nahuatl",
+        "Anglais"
+      ],
+      "explanation": "Le Mexique devance largement les États-Unis, deuxième pays hispanophone ; pourtant, la loi mexicaine n'en fait pas la langue officielle : il ne l'est que de fait.",
+      "wikipedia": "Espagnol"
+    },
+    {
+      "id": "langue-369",
+      "difficulty": 1,
+      "question": "Quelle langue slave, écrite en alphabet cyrillique, est la langue officielle de la Russie mais aussi du Kazakhstan ?",
+      "answer": "Russe",
+      "accept": [],
+      "choices": [
+        "Ukrainien",
+        "Polonais",
+        "Bulgare"
+      ],
+      "explanation": "Il appartient aux langues slaves orientales, avec l'ukrainien et le biélorusse, et sert de langue de communication au sein de la Communauté des États indépendants.",
+      "wikipedia": "Russe"
+    },
+    {
+      "id": "langue-370",
+      "difficulty": 1,
+      "question": "Quel mot d'origine québécoise, contraction de « courrier électronique », s'emploie en français à la place de l'anglais « e-mail » ?",
+      "answer": "Courriel",
+      "accept": [
+        "courriels"
+      ],
+      "choices": [
+        "Mél",
+        "Pourriel",
+        "Clavardage"
+      ],
+      "explanation": "Le terme est attribué à un professeur de l'université de Montréal ; au Québec est même apparu le verbe « courrieller », pour l'envoi d'un tel message.",
+      "wikipedia": "Courrier électronique"
+    },
+    {
+      "id": "langue-371",
+      "difficulty": 1,
+      "question": "Au Québec, quel mot désignant d'abord une couleur de cheveux signifie tout simplement « petite amie » ?",
+      "answer": "Blonde",
+      "accept": [
+        "ma blonde"
+      ],
+      "choices": [
+        "Brune",
+        "Rousse",
+        "Chum"
+      ],
+      "explanation": "L'usage rappelle la vieille chanson française « Auprès de ma blonde » ; le mot désigne aussi bien une amourette passagère qu'une compagne de longue date.",
+      "wikipedia": "Lexique du français québécois"
+    },
+    {
+      "id": "langue-372",
+      "difficulty": 1,
+      "question": "Comment les Québécois appellent-ils familièrement une voiture, d'un vieux mot désignant un véhicule à roues ?",
+      "answer": "Char",
+      "accept": [
+        "un char"
+      ],
+      "choices": [
+        "Bagnole",
+        "Tacot",
+        "Caisse"
+      ],
+      "explanation": "Le mot remonte au latin « carrum », chariot ; autrefois au Québec, les « gros chars » désignaient les trains et les « petits chars » les tramways.",
+      "wikipedia": "Lexique du français québécois"
+    },
+    {
+      "id": "langue-373",
+      "difficulty": 1,
+      "question": "Quelle expression française les Québécois emploient-ils traditionnellement à la place de l'anglicisme « week-end » ?",
+      "answer": "Fin de semaine",
+      "accept": [
+        "la fin de semaine"
+      ],
+      "choices": [
+        "Congé",
+        "Relâche",
+        "Pont"
+      ],
+      "explanation": "Jusqu'aux années 1980, ils ne disaient que « fin de semaine » ; de même, ils préfèrent « arrêt » à stop et « stationnement » à parking.",
+      "wikipedia": "Français québécois"
+    },
+    {
+      "id": "langue-374",
+      "difficulty": 1,
+      "question": "Comment appelle-t-on l'endive en Belgique et dans le nord de la France ?",
+      "answer": "Chicon",
+      "accept": [
+        "chicons"
+      ],
+      "choices": [
+        "Scarole",
+        "Pissenlit",
+        "Cresson"
+      ],
+      "explanation": "C'est une chicorée cultivée dans l'obscurité ou buttée en terre pour rester blanche ; au Québec, on dit endive, comme dans la majeure partie de la France.",
+      "wikipedia": "Endive"
+    },
+    {
+      "id": "langue-375",
+      "difficulty": 1,
+      "question": "Quel vêtement de nuit doit son nom à un mot persan signifiant « vêtement de jambe » ?",
+      "answer": "Pyjama",
+      "accept": [
+        "pyjamas"
+      ],
+      "choices": [
+        "Peignoir",
+        "Kimono",
+        "Chemise de nuit"
+      ],
+      "explanation": "C'était à l'origine un simple pantalon porté en Perse et en Inde ; les colons britanniques l'ont introduit en Europe aux XVIIIe et XIXe siècles.",
+      "wikipedia": "Pyjama"
+    },
+    {
+      "id": "langue-376",
+      "difficulty": 1,
+      "question": "Quel produit pour laver les cheveux doit son nom à un mot hindi signifiant « masser » ?",
+      "answer": "Shampooing",
+      "accept": [
+        "shampoing",
+        "shampoo"
+      ],
+      "choices": [
+        "Savon",
+        "Lotion",
+        "Pommade"
+      ],
+      "explanation": "Le mot apparaît en anglais en 1762 ; plus tard, l'Indien Sake Dean Mahomed, installé en Angleterre, fut nommé « chirurgien shampouineur » des rois George IV et Guillaume IV.",
+      "wikipedia": "Shampooing"
+    },
+    {
+      "id": "langue-377",
+      "difficulty": 1,
+      "question": "Quel lit suspendu, adopté par les marins, doit son nom à un mot des Taïnos, peuple amérindien des Antilles ?",
+      "answer": "Hamac",
+      "accept": [
+        "hamacs"
+      ],
+      "choices": [
+        "Couchette",
+        "Transat",
+        "Paillasse"
+      ],
+      "explanation": "Dans la marine, on l'appela longtemps « branle », à cause de son balancement ; des hamacs existaient pourtant en Europe avant les voyages de Christophe Colomb.",
+      "wikipedia": "Hamac"
+    },
+    {
+      "id": "langue-378",
+      "difficulty": 1,
+      "question": "Quel mot japonais, formé de « plier » et de « papier », désigne l'art de créer des figures pliées ?",
+      "answer": "Origami",
+      "accept": [],
+      "choices": [
+        "Ikebana",
+        "Bonsaï",
+        "Haïku"
+      ],
+      "explanation": "Quand le découpage s'ajoute au pliage, on parle de kirigami, de « kiru », couper ; au XIXe siècle, Friedrich Fröbel utilisait déjà le pliage dans ses jardins d'enfants.",
+      "wikipedia": "Origami"
+    },
+    {
+      "id": "langue-379",
+      "difficulty": 1,
+      "question": "Quel abri de blocs de neige des Inuits porte un nom qui signifie tout simplement « maison » ?",
+      "answer": "Igloo",
+      "accept": [
+        "iglou"
+      ],
+      "choices": [
+        "Tipi",
+        "Yourte",
+        "Wigwam"
+      ],
+      "explanation": "Le mot vient de l'inuktitut « iglu », qui désigne toute maison ; l'abri de neige en forme de dôme servait surtout d'habitation temporaire pendant l'hiver.",
+      "wikipedia": "Igloo"
+    },
+    {
+      "id": "langue-380",
+      "difficulty": 1,
+      "question": "Quel petit édicule où l'on vend journaux et magazines doit son nom à un mot turc désignant un pavillon ?",
+      "answer": "Kiosque",
+      "accept": [
+        "kiosque à journaux"
+      ],
+      "choices": [
+        "Échoppe",
+        "Guérite",
+        "Boutique"
+      ],
+      "explanation": "Le turc « köşk » remonte au persan « kušk », palais ou galerie ; ce pavillon d'agrément, rapporté du Moyen-Orient, s'est répandu en Occident au XVIIe siècle.",
+      "wikipedia": "Kiosque"
+    },
+    {
+      "id": "langue-381",
+      "difficulty": 1,
+      "question": "Quelle sauce tomate doit son nom à une sauce de saumure chinoise rapportée d'Orient par des marins anglais ?",
+      "answer": "Ketchup",
+      "accept": [],
+      "choices": [
+        "Mayonnaise",
+        "Tabasco",
+        "Sauce barbecue"
+      ],
+      "explanation": "Selon la théorie la plus courante, le « ké-tsiap » de la langue hokkien était un assaisonnement proche du nuoc-mâm, rapporté à la fin du XVIIe siècle.",
+      "wikipedia": "Ketchup"
+    },
+    {
+      "id": "langue-382",
+      "difficulty": 1,
+      "question": "Quel animal, chargé des péchés du peuple puis chassé dans le désert selon la Bible, désigne celui qu'on accuse de tout ?",
+      "answer": "Bouc",
+      "accept": [
+        "bouc émissaire"
+      ],
+      "choices": [
+        "Agneau",
+        "Âne",
+        "Veau"
+      ],
+      "explanation": "Le rite figure dans le Lévitique : deux boucs étaient tirés au sort, et l'un, chargé des fautes d'Israël, était abandonné dans le désert « vers Azazel ».",
+      "wikipedia": "Bouc émissaire"
+    },
+    {
+      "id": "langue-383",
+      "difficulty": 1,
+      "question": "Quel animal de troupeau, quand il est noir, désigne la personne jugée indésirable dans sa famille ou son groupe ?",
+      "answer": "Mouton",
+      "accept": [
+        "mouton noir",
+        "brebis",
+        "brebis galeuse"
+      ],
+      "choices": [
+        "Chat",
+        "Corbeau",
+        "Taureau"
+      ],
+      "explanation": "Les moutons noirs sont minoritaires dans les troupeaux et leur laine se vend moins bien, car elle ne peut pas être teinte ; on dit aussi « brebis galeuse ».",
+      "wikipedia": "Mouton noir"
+    },
+    {
+      "id": "langue-384",
+      "difficulty": 1,
+      "question": "Quelle volaille a donné son nom à la peau qui se hérisse de petites bosses sous l'effet du froid ou de la peur ?",
+      "answer": "Poule",
+      "accept": [
+        "chair de poule"
+      ],
+      "choices": [
+        "Dinde",
+        "Oie",
+        "Caille"
+      ],
+      "explanation": "Les médecins parlent d'horripilation ou de piloérection : les poils se dressent, ce qui crée une fine couche d'air isolante à la surface de la peau.",
+      "wikipedia": "Chair de poule"
+    },
+    {
+      "id": "langue-385",
+      "difficulty": 1,
+      "question": "En quelle matière est la « langue » d'un responsable qui aligne des formules toutes faites pour ne rien dire ?",
+      "answer": "Bois",
+      "accept": [
+        "langue de bois"
+      ],
+      "choices": [
+        "Fer",
+        "Pierre",
+        "Plomb"
+      ],
+      "explanation": "L'expression visa d'abord le discours officiel soviétique ; c'est un oxymore, qui oppose la souplesse de la langue à la rigidité du bois.",
+      "wikipedia": "Langue de bois"
+    },
+    {
+      "id": "langue-386",
+      "difficulty": 1,
+      "question": "Quel ingrédient de cuisine, une fois noirci, a donné son nom à l'œil tuméfié après un coup de poing ?",
+      "answer": "Beurre",
+      "accept": [
+        "beurre noir"
+      ],
+      "choices": [
+        "Café",
+        "Chocolat",
+        "Caramel"
+      ],
+      "explanation": "C'est le sang accumulé dans les tissus qui colore la peau autour de l'œil, à la manière du beurre noir ; familièrement, on parle aussi d'un cocard.",
+      "wikipedia": "Œil au beurre noir"
+    },
+    {
+      "id": "langue-387",
+      "difficulty": 1,
+      "question": "Quel adjectif complète l'expression « faire la … matinée », qui signifie rester longtemps au lit ?",
+      "answer": "Grasse",
+      "accept": [
+        "grasse matinée"
+      ],
+      "choices": [
+        "Longue",
+        "Belle",
+        "Douce"
+      ],
+      "explanation": "« Gras » vient du latin « crassus », épais : on reste dans l'épaisseur du sommeil ; le médecin Laurent Joubert y voyait l'idée que dormir tard fait engraisser.",
+      "wikipedia": "Grasse matinée"
+    },
+    {
+      "id": "langue-388",
+      "difficulty": 1,
+      "question": "Dans quel pays bâtit-on des châteaux quand on fait des projets impossibles ou irréalisables ?",
+      "answer": "Espagne",
+      "accept": [],
+      "choices": [
+        "Écosse",
+        "Bavière",
+        "Italie"
+      ],
+      "explanation": "L'expression figure déjà vers 1230 dans Le Roman de la Rose ; d'anciennes variantes parlaient aussi de châteaux en Brie, en Asie ou même au Caire.",
+      "wikipedia": "Château en Espagne"
+    },
+    {
+      "id": "langue-389",
+      "difficulty": 1,
+      "question": "Dans une tour faite de quelle matière précieuse s'enferme celui qui se tient à l'écart du monde ?",
+      "answer": "Ivoire",
+      "accept": [
+        "tour d'ivoire"
+      ],
+      "choices": [
+        "Or",
+        "Cristal",
+        "Marbre"
+      ],
+      "explanation": "L'image vient du Cantique des Cantiques ; Sainte-Beuve l'appliqua au poète Alfred de Vigny, plus secret, par contraste avec un Victor Hugo engagé.",
+      "wikipedia": "Tour d'ivoire"
+    },
+    {
+      "id": "langue-390",
+      "difficulty": 1,
+      "question": "Quel phénomène météorologique désigne, dans une expression, l'amour qui naît dès le premier regard ?",
+      "answer": "Foudre",
+      "accept": [
+        "coup de foudre"
+      ],
+      "choices": [
+        "Tonnerre",
+        "Orage",
+        "Tempête"
+      ],
+      "explanation": "On compare ce choc à une décharge électrique ou à des « papillons dans le ventre » ; beaucoup de scientifiques y voient surtout une reconstruction romantique après coup.",
+      "wikipedia": "Coup de foudre"
+    }
+  ]
+}
