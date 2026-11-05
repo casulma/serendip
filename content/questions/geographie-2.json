@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "geographie-121",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville de Haute-Savoie, traversée par des canaux, est surnommée « la Venise des Alpes » ?",
       "answer": "Annecy",
       "accept": [],
@@ -17,7 +17,7 @@
     },
     {
       "id": "geographie-122",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville de Bretagne, ancien repaire de Surcouf, est surnommée « la cité corsaire » ?",
       "answer": "Saint-Malo",
       "accept": [],
@@ -31,7 +31,7 @@
     },
     {
       "id": "geographie-123",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville de la Marne, où fut sacré Charles VII, est surnommée « la cité des sacres » ?",
       "answer": "Reims",
       "accept": [],
@@ -59,7 +59,7 @@
     },
     {
       "id": "geographie-125",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville du Tarn, dont la cathédrale Sainte-Cécile est bâtie en brique, est surnommée « la ville rouge » ?",
       "answer": "Albi",
       "accept": [],
@@ -171,7 +171,7 @@
     },
     {
       "id": "geographie-133",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel port de l'Hérault, chanté par Brassens et Paul Valéry, est surnommé « l'île singulière » ?",
       "answer": "Sète",
       "accept": [],
@@ -185,7 +185,7 @@
     },
     {
       "id": "geographie-134",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville des Bouches-du-Rhône, traversée de canaux, est surnommée « la Venise provençale » ?",
       "answer": "Martigues",
       "accept": [],
@@ -241,7 +241,7 @@
     },
     {
       "id": "geographie-138",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville, ancienne capitale des ducs de Bretagne, fait aujourd'hui partie des Pays de la Loire ?",
       "answer": "Nantes",
       "accept": [],
@@ -255,7 +255,7 @@
     },
     {
       "id": "geographie-139",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle ville lorraine se trouve la place Stanislas, aux grilles dorées de Jean Lamour ?",
       "answer": "Nancy",
       "accept": [],
@@ -269,7 +269,7 @@
     },
     {
       "id": "geographie-140",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quelle ville de Touraine accueillit Léonard de Vinci pour ses dernières années, au manoir du Clos Lucé ?",
       "answer": "Amboise",
       "accept": [],
@@ -283,7 +283,7 @@
     },
     {
       "id": "geographie-141",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Près de quelle ville de la Vienne se trouve le parc d'attractions du Futuroscope ?",
       "answer": "Poitiers",
       "accept": [],
@@ -297,7 +297,7 @@
     },
     {
       "id": "geographie-142",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle commune normande se trouvent l'Aiguille creuse et la falaise d'Aval ?",
       "answer": "Étretat",
       "accept": [],
@@ -311,7 +311,7 @@
     },
     {
       "id": "geographie-143",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville du Maine-et-Loire abrite le Cadre noir, corps d'élite de l'équitation française ?",
       "answer": "Saumur",
       "accept": [],
@@ -325,7 +325,7 @@
     },
     {
       "id": "geographie-144",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville du Maine-et-Loire conserve dans son château la tenture de l'Apocalypse ?",
       "answer": "Angers",
       "accept": [],
@@ -367,7 +367,7 @@
     },
     {
       "id": "geographie-147",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel îlot de la Seine abrite la cathédrale Notre-Dame et la Sainte-Chapelle ?",
       "answer": "île de la Cité",
       "accept": [
@@ -511,7 +511,7 @@
     },
     {
       "id": "geographie-157",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les habitants de Limoges, en Haute-Vienne ?",
       "answer": "Limougeauds",
       "accept": [],
@@ -553,7 +553,7 @@
     },
     {
       "id": "geographie-160",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les habitants de Brive-la-Gaillarde, en Corrèze ?",
       "answer": "Brivistes",
       "accept": [],
@@ -581,7 +581,7 @@
     },
     {
       "id": "geographie-162",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les habitants de Chamonix-Mont-Blanc, en Haute-Savoie ?",
       "answer": "Chamoniards",
       "accept": [],
@@ -595,7 +595,7 @@
     },
     {
       "id": "geographie-163",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les habitants de Mayotte, département français de l'océan Indien ?",
       "answer": "Mahorais",
       "accept": [],
@@ -609,7 +609,7 @@
     },
     {
       "id": "geographie-164",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle rivière rejoint le Rhône à Lyon, au quartier du Confluent ?",
       "answer": "Saône",
       "accept": [],
@@ -637,7 +637,7 @@
     },
     {
       "id": "geographie-166",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle rivière a creusé des gorges spectaculaires entre les causses de la Lozère et de l'Aveyron ?",
       "answer": "Tarn",
       "accept": [],
@@ -651,7 +651,7 @@
     },
     {
       "id": "geographie-167",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle rivière provençale a creusé un célèbre grand canyon avant d'alimenter le lac de Sainte-Croix ?",
       "answer": "Verdon",
       "accept": [],
@@ -665,7 +665,7 @@
     },
     {
       "id": "geographie-168",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle rivière passe sous l'arche naturelle du Pont-d'Arc avant de se jeter dans le Rhône ?",
       "answer": "Ardèche",
       "accept": [],
@@ -693,7 +693,7 @@
     },
     {
       "id": "geographie-170",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel fleuve picard se jette dans une grande baie célèbre pour ses colonies de phoques ?",
       "answer": "Somme",
       "accept": [],
@@ -735,7 +735,7 @@
     },
     {
       "id": "geographie-173",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle rivière traverse Grenoble avant de se jeter dans le Rhône près de Valence ?",
       "answer": "Isère",
       "accept": [],
@@ -763,7 +763,7 @@
     },
     {
       "id": "geographie-175",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Au pied de quel mont ardéchois la Loire prend-elle sa source ?",
       "answer": "Gerbier de Jonc",
       "accept": [
@@ -781,7 +781,7 @@
     },
     {
       "id": "geographie-176",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel fleuve breton, barré près de Saint-Malo, alimente la première usine marémotrice du monde ?",
       "answer": "Rance",
       "accept": [],
@@ -809,7 +809,7 @@
     },
     {
       "id": "geographie-178",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle voie d'eau construite sous Louis XIV par Pierre-Paul Riquet relie Toulouse à la Méditerranée ?",
       "answer": "canal du Midi",
       "accept": [],
@@ -865,7 +865,7 @@
     },
     {
       "id": "geographie-182",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel sommet isolé du Vaucluse est surnommé « le Géant de Provence » ?",
       "answer": "mont Ventoux",
       "accept": [
@@ -881,7 +881,7 @@
     },
     {
       "id": "geographie-183",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle montagne provençale le peintre Paul Cézanne a-t-il représentée dans des dizaines de tableaux ?",
       "answer": "Sainte-Victoire",
       "accept": [
@@ -897,7 +897,7 @@
     },
     {
       "id": "geographie-184",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel massif franco-suisse a donné son nom à une période géologique, celle des dinosaures ?",
       "answer": "Jura",
       "accept": [],
@@ -911,7 +911,7 @@
     },
     {
       "id": "geographie-185",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel volcan endormi, gravi par un train à crémaillère, domine Clermont-Ferrand ?",
       "answer": "puy de Dôme",
       "accept": [],
@@ -925,7 +925,7 @@
     },
     {
       "id": "geographie-186",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle montagne des Pyrénées-Orientales est considérée comme la montagne sacrée des Catalans ?",
       "answer": "Canigou",
       "accept": [
@@ -971,7 +971,7 @@
     },
     {
       "id": "geographie-189",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sommet est le point culminant de la Corse ?",
       "answer": "Monte Cinto",
       "accept": [
@@ -987,7 +987,7 @@
     },
     {
       "id": "geographie-190",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel cirque des Hautes-Pyrénées, que Victor Hugo appela « le colosseum de la nature », possède une immense cascade ?",
       "answer": "Gavarnie",
       "accept": [
@@ -1031,7 +1031,7 @@
     },
     {
       "id": "geographie-193",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel plateau limousin doit son nom non pas aux bovins mais probablement à ses nombreuses sources ?",
       "answer": "Millevaches",
       "accept": [
@@ -1109,7 +1109,7 @@
     },
     {
       "id": "geographie-198",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel gouffre du Lot permet de naviguer en barque sur une rivière souterraine ?",
       "answer": "Padirac",
       "accept": [
@@ -1195,7 +1195,7 @@
     },
     {
       "id": "geographie-204",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel département est né de la partie du Haut-Rhin restée française en 1871 ?",
       "answer": "Territoire de Belfort",
       "accept": [
@@ -1281,7 +1281,7 @@
     },
     {
       "id": "geographie-210",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle région naturelle autour de Chartres est surnommée « le grenier à blé de la France » ?",
       "answer": "Beauce",
       "accept": [],
@@ -1337,7 +1337,7 @@
     },
     {
       "id": "geographie-214",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel littoral breton, autour de Perros-Guirec et Ploumanac'h, est célèbre pour ses rochers aux formes étranges ?",
       "answer": "Côte de Granit rose",
       "accept": [],
@@ -1351,7 +1351,7 @@
     },
     {
       "id": "geographie-215",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment s'appelle la partie de l'Atlantique qui borde la France entre la Bretagne et le Pays basque ?",
       "answer": "golfe de Gascogne",
       "accept": [
@@ -1367,7 +1367,7 @@
     },
     {
       "id": "geographie-216",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel promontoire rocheux du Finistère, face à l'île de Sein, est classé Grand Site de France ?",
       "answer": "pointe du Raz",
       "accept": [],
@@ -1411,7 +1411,7 @@
     },
     {
       "id": "geographie-219",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel plateau provençal des Alpes-de-Haute-Provence est célèbre pour ses champs de lavande ?",
       "answer": "Valensole",
       "accept": [
@@ -1427,7 +1427,7 @@
     },
     {
       "id": "geographie-220",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle commune du Morbihan se dressent les célèbres alignements de menhirs ?",
       "answer": "Carnac",
       "accept": [],
@@ -1457,7 +1457,7 @@
     },
     {
       "id": "geographie-222",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville du Vaucluse possède un théâtre antique dont le mur de scène est presque intact ?",
       "answer": "Orange",
       "accept": [],
@@ -1471,7 +1471,7 @@
     },
     {
       "id": "geographie-223",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle cité religieuse du Lot, accrochée à une falaise, abrite le sanctuaire d'une Vierge noire ?",
       "answer": "Rocamadour",
       "accept": [],
@@ -1499,7 +1499,7 @@
     },
     {
       "id": "geographie-225",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville de Côte-d'Or se trouve l'Hôtel-Dieu aux toits de tuiles vernissées multicolores ?",
       "answer": "Beaune",
       "accept": [],
@@ -1530,7 +1530,7 @@
     },
     {
       "id": "geographie-227",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel château de la Loire inspira à Hergé le château de Moulinsart ?",
       "answer": "Cheverny",
       "accept": [
@@ -1546,7 +1546,7 @@
     },
     {
       "id": "geographie-228",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle cathédrale de la Beauce est célèbre pour ses vitraux d'un bleu unique et son labyrinthe ?",
       "answer": "Chartres",
       "accept": [
@@ -1562,7 +1562,7 @@
     },
     {
       "id": "geographie-229",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle cathédrale picarde est la plus vaste de France par son volume intérieur ?",
       "answer": "Amiens",
       "accept": [
@@ -1592,7 +1592,7 @@
     },
     {
       "id": "geographie-231",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel phare de l'estuaire de la Gironde est surnommé « le roi des phares » ?",
       "answer": "Cordouan",
       "accept": [
@@ -1608,7 +1608,7 @@
     },
     {
       "id": "geographie-232",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle presqu'île de Loire-Atlantique est réputée pour ses marais salants et sa fleur de sel ?",
       "answer": "Guérande",
       "accept": [
@@ -1624,7 +1624,7 @@
     },
     {
       "id": "geographie-233",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle cité fortifiée du Gard fut fondée par Saint Louis pour disposer d'un port sur la Méditerranée ?",
       "answer": "Aigues-Mortes",
       "accept": [],
@@ -1655,7 +1655,7 @@
     },
     {
       "id": "geographie-235",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel château ariégeois perché fut le dernier grand refuge des cathares, pris en 1244 ?",
       "answer": "Montségur",
       "accept": [
@@ -1703,7 +1703,7 @@
     },
     {
       "id": "geographie-238",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel château royal de Seine-et-Marne Napoléon qualifiait-il de « vraie demeure des rois, la maison des siècles » ?",
       "answer": "Fontainebleau",
       "accept": [
@@ -1767,7 +1767,7 @@
     },
     {
       "id": "geographie-242",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle île des Côtes-d'Armor, sans voitures, est surnommée « l'île aux fleurs » ?",
       "answer": "Bréhat",
       "accept": [
@@ -1783,7 +1783,7 @@
     },
     {
       "id": "geographie-243",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle île vendéenne est reliée au continent par le passage du Gois, submergé à marée haute ?",
       "answer": "Noirmoutier",
       "accept": [
@@ -1829,7 +1829,7 @@
     },
     {
       "id": "geographie-246",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville corse est perchée sur des falaises calcaires face à la Sardaigne ?",
       "answer": "Bonifacio",
       "accept": [],
@@ -1857,7 +1857,7 @@
     },
     {
       "id": "geographie-248",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appelle la partie orientale de la Guadeloupe, séparée de Basse-Terre par la rivière Salée ?",
       "answer": "Grande-Terre",
       "accept": [],
@@ -1871,7 +1871,7 @@
     },
     {
       "id": "geographie-249",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel volcan de la Martinique détruisit la ville de Saint-Pierre en 1902 ?",
       "answer": "montagne Pelée",
       "accept": [
@@ -1901,7 +1901,7 @@
     },
     {
       "id": "geographie-251",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville est la préfecture de la Martinique ?",
       "answer": "Fort-de-France",
       "accept": [],
@@ -1915,7 +1915,7 @@
     },
     {
       "id": "geographie-252",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel cirque de La Réunion n'est accessible qu'à pied ou en hélicoptère ?",
       "answer": "Mafate",
       "accept": [
@@ -1931,7 +1931,7 @@
     },
     {
       "id": "geographie-253",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville est la préfecture de La Réunion ?",
       "answer": "Saint-Denis",
       "accept": [],
@@ -2063,7 +2063,7 @@
     },
     {
       "id": "geographie-262",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle terre antarctique revendiquée par la France porte le prénom de l'épouse de Dumont d'Urville ?",
       "answer": "Terre Adélie",
       "accept": [
@@ -2093,7 +2093,7 @@
     },
     {
       "id": "geographie-264",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Sur quel rocher guyanais le capitaine Dreyfus fut-il déporté ?",
       "answer": "île du Diable",
       "accept": [],
@@ -2121,7 +2121,7 @@
     },
     {
       "id": "geographie-266",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville est la capitale fédérale de la Suisse, plutôt que Zurich ou Genève ?",
       "answer": "Berne",
       "accept": [],
@@ -2135,7 +2135,7 @@
     },
     {
       "id": "geographie-267",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville est la capitale de la Slovénie ?",
       "answer": "Ljubljana",
       "accept": [],
@@ -2149,7 +2149,7 @@
     },
     {
       "id": "geographie-268",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle capitale européenne, sur le Danube, est la seule à toucher deux autres pays frontaliers ?",
       "answer": "Bratislava",
       "accept": [],
@@ -2177,7 +2177,7 @@
     },
     {
       "id": "geographie-270",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville, fondée par les chevaliers de Saint-Jean, est la capitale de Malte ?",
       "answer": "La Valette",
       "accept": [
@@ -2193,7 +2193,7 @@
     },
     {
       "id": "geographie-271",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville est la capitale de l'Islande ?",
       "answer": "Reykjavik",
       "accept": [
@@ -2237,7 +2237,7 @@
     },
     {
       "id": "geographie-274",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel fleuve ibérique se jette dans l'Atlantique à Lisbonne ?",
       "answer": "Tage",
       "accept": [],
@@ -2251,7 +2251,7 @@
     },
     {
       "id": "geographie-275",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel fleuve, né dans les Apennins, traverse la ville de Rome ?",
       "answer": "Tibre",
       "accept": [],
@@ -2265,7 +2265,7 @@
     },
     {
       "id": "geographie-276",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel est le plus long fleuve d'Italie, qui traverse Turin et la plaine padane ?",
       "answer": "Pô",
       "accept": [],
@@ -2279,7 +2279,7 @@
     },
     {
       "id": "geographie-277",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle rivière traverse Prague, enjambée par le pont Charles ?",
       "answer": "Vltava",
       "accept": [
@@ -2295,7 +2295,7 @@
     },
     {
       "id": "geographie-278",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel fleuve espagnol a donné son nom à la péninsule Ibérique ?",
       "answer": "Èbre",
       "accept": [
@@ -2311,7 +2311,7 @@
     },
     {
       "id": "geographie-279",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel rocher du Rhin, en Allemagne, est associé à une sirène qui attirait les bateliers par son chant ?",
       "answer": "Lorelei",
       "accept": [
@@ -2327,7 +2327,7 @@
     },
     {
       "id": "geographie-280",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Où le Danube achève-t-il sa course, par un vaste delta en grande partie roumain ?",
       "answer": "mer Noire",
       "accept": [],
@@ -2341,7 +2341,7 @@
     },
     {
       "id": "geographie-281",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle mer sépare la péninsule italienne des Balkans ?",
       "answer": "Adriatique",
       "accept": [
@@ -2373,7 +2373,7 @@
     },
     {
       "id": "geographie-283",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle mer intérieure borde la Suède, la Finlande et les pays baltes ?",
       "answer": "Baltique",
       "accept": [
@@ -2389,7 +2389,7 @@
     },
     {
       "id": "geographie-284",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel détroit sépare la Sicile de la Calabre ?",
       "answer": "Messine",
       "accept": [
@@ -2405,7 +2405,7 @@
     },
     {
       "id": "geographie-285",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel détroit turc, autrefois nommé Hellespont, relie la mer Égée à la mer de Marmara ?",
       "answer": "Dardanelles",
       "accept": [
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "geographie-288",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel détroit, franchi depuis 2000 par un pont-tunnel, relie Copenhague à Malmö ?",
       "answer": "Øresund",
       "accept": [
@@ -2467,7 +2467,7 @@
     },
     {
       "id": "geographie-289",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel sommet pyramidal des Alpes, entre la Suisse et l'Italie, figure sur l'emballage du Toblerone ?",
       "answer": "Cervin",
       "accept": [
@@ -2497,7 +2497,7 @@
     },
     {
       "id": "geographie-291",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sommet du Caucase, en Russie, est souvent présenté comme le point culminant de l'Europe ?",
       "answer": "Elbrouz",
       "accept": [
@@ -2529,7 +2529,7 @@
     },
     {
       "id": "geographie-293",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle chaîne de montagnes en arc entoure la Transylvanie ?",
       "answer": "Carpates",
       "accept": [],
@@ -2557,7 +2557,7 @@
     },
     {
       "id": "geographie-295",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle chaîne de montagnes forme l'épine dorsale de la péninsule italienne ?",
       "answer": "Apennins",
       "accept": [],
@@ -2617,7 +2617,7 @@
     },
     {
       "id": "geographie-299",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle est la plus grande île de la Méditerranée ?",
       "answer": "Sicile",
       "accept": [],
@@ -2631,7 +2631,7 @@
     },
     {
       "id": "geographie-300",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Sur quelle île grecque se trouve le palais minoen de Cnossos ?",
       "answer": "Crète",
       "accept": [],
@@ -2659,7 +2659,7 @@
     },
     {
       "id": "geographie-302",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle est la plus grande île de l'archipel espagnol des Baléares ?",
       "answer": "Majorque",
       "accept": [],
@@ -2703,7 +2703,7 @@
     },
     {
       "id": "geographie-305",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Sur quel archipel norvégien a été aménagée une réserve mondiale de semences ?",
       "answer": "Svalbard",
       "accept": [
@@ -2719,7 +2719,7 @@
     },
     {
       "id": "geographie-306",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Sur quelle île toscane Napoléon fut-il exilé après sa première abdication ?",
       "answer": "Elbe",
       "accept": [
@@ -2735,7 +2735,7 @@
     },
     {
       "id": "geographie-307",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle île ionienne abrite l'Achilléion, palais construit pour l'impératrice Sissi ?",
       "answer": "Corfou",
       "accept": [],
@@ -2822,7 +2822,7 @@
     },
     {
       "id": "geographie-313",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel ouvrage médiéval de Florence, bordé de boutiques de bijoutiers, enjambe le fleuve de la ville ?",
       "answer": "Ponte Vecchio",
       "accept": [],
@@ -2850,7 +2850,7 @@
     },
     {
       "id": "geographie-315",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville toscane organise deux fois par été le Palio, course de chevaux sur la Piazza del Campo ?",
       "answer": "Sienne",
       "accept": [],
@@ -2864,7 +2864,7 @@
     },
     {
       "id": "geographie-316",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle ville du Pays basque espagnol se trouve le musée Guggenheim conçu par Frank Gehry ?",
       "answer": "Bilbao",
       "accept": [],
@@ -2878,7 +2878,7 @@
     },
     {
       "id": "geographie-317",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville andalouse possède la Mezquita, mosquée transformée en cathédrale ?",
       "answer": "Cordoue",
       "accept": [],
@@ -2892,7 +2892,7 @@
     },
     {
       "id": "geographie-318",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle ville de Navarre se déroulent chaque juillet les lâchers de taureaux des fêtes de San Fermín ?",
       "answer": "Pampelune",
       "accept": [],
@@ -2906,7 +2906,7 @@
     },
     {
       "id": "geographie-319",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville espagnole célèbre en mars les Fallas, où d'immenses figures sont brûlées ?",
       "answer": "Valence",
       "accept": [],
@@ -2953,7 +2953,7 @@
     },
     {
       "id": "geographie-322",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville espagnole est traversée par un aqueduc romain à deux étages de grande hauteur ?",
       "answer": "Ségovie",
       "accept": [],
@@ -3023,7 +3023,7 @@
     },
     {
       "id": "geographie-327",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville autrichienne, patrie de Mozart, accueille chaque été un grand festival de musique ?",
       "answer": "Salzbourg",
       "accept": [],
@@ -3051,7 +3051,7 @@
     },
     {
       "id": "geographie-329",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville allemande est dominée par une immense cathédrale gothique au bord du Rhin ?",
       "answer": "Cologne",
       "accept": [],
@@ -3065,7 +3065,7 @@
     },
     {
       "id": "geographie-330",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville allemande Charlemagne établit-il sa résidence favorite et fut-il inhumé ?",
       "answer": "Aix-la-Chapelle",
       "accept": [
@@ -3139,7 +3139,7 @@
     },
     {
       "id": "geographie-335",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville de Laponie finlandaise prétend résider le Père Noël ?",
       "answer": "Rovaniemi",
       "accept": [],
@@ -3239,7 +3239,7 @@
     },
     {
       "id": "geographie-342",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appellent les deux villes espagnoles situées sur la côte marocaine ?",
       "answer": "Ceuta et Melilla",
       "accept": [
@@ -3297,7 +3297,7 @@
     },
     {
       "id": "geographie-346",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel château de Bavière, bâti pour le roi Louis II, aurait inspiré celui de la Belle au bois dormant de Disney ?",
       "answer": "Neuschwanstein",
       "accept": [
@@ -3327,7 +3327,7 @@
     },
     {
       "id": "geographie-348",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel site grec est célèbre pour ses monastères perchés au sommet de pitons rocheux ?",
       "answer": "Météores",
       "accept": [],
@@ -3341,7 +3341,7 @@
     },
     {
       "id": "geographie-349",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle région du sud du Portugal est réputée pour ses plages et ses falaises dorées ?",
       "answer": "Algarve",
       "accept": [],
@@ -3399,7 +3399,7 @@
     },
     {
       "id": "geographie-353",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel site d'Irlande du Nord est formé de dizaines de milliers de colonnes de basalte ?",
       "answer": "Chaussée des Géants",
       "accept": [],
@@ -3413,7 +3413,7 @@
     },
     {
       "id": "geographie-354",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelles falaises de la côte ouest de l'Irlande, dans le comté de Clare, plongent dans l'Atlantique ?",
       "answer": "falaises de Moher",
       "accept": [
@@ -3429,7 +3429,7 @@
     },
     {
       "id": "geographie-355",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel massif forestier s'étend sur la Belgique, le Luxembourg et le nord-est de la France ?",
       "answer": "Ardennes",
       "accept": [
@@ -3445,7 +3445,7 @@
     },
     {
       "id": "geographie-356",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel parc national croate est célèbre pour ses seize lacs reliés par des cascades ?",
       "answer": "Plitvice",
       "accept": [

@@ -173,7 +173,7 @@
     },
     {
       "id": "sport-018",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle est la distance officielle d'une course de marathon, exprimée en kilomètres ?",
       "answer": "42,195 km",
       "accept": ["42,195", "42,195 kilomètres", "42 195 m", "42 km 195"],
@@ -203,7 +203,7 @@
     },
     {
       "id": "sport-021",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel athlète noir américain remporta quatre médailles d'or aux Jeux de Berlin, sous les yeux d'Hitler ?",
       "answer": "Jesse Owens",
       "accept": ["Owens"],
@@ -213,7 +213,7 @@
     },
     {
       "id": "sport-022",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel coureur cycliste belge, surnommé « le Cannibale », a remporté cinq fois le Tour de France ?",
       "answer": "Eddy Merckx",
       "accept": ["Merckx"],
@@ -243,7 +243,7 @@
     },
     {
       "id": "sport-025",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on, aux échecs, le coup spécial où le roi et une tour se déplacent en même temps ?",
       "answer": "roque",
       "accept": ["le roque", "roquer"],
@@ -253,7 +253,7 @@
     },
     {
       "id": "sport-026",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel champion du monde d'échecs fut battu en match par l'ordinateur Deep Blue d'IBM ?",
       "answer": "Garry Kasparov",
       "accept": ["Kasparov", "Garri Kasparov"],
@@ -273,7 +273,7 @@
     },
     {
       "id": "sport-028",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle classique cycliste, surnommée « l'Enfer du Nord », est célèbre pour ses secteurs pavés ?",
       "answer": "Paris-Roubaix",
       "accept": ["Paris Roubaix"],
@@ -323,7 +323,7 @@
     },
     {
       "id": "sport-033",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel élève anglais aurait, selon la légende, inventé un nouveau sport en courant avec le ballon dans les mains ?",
       "answer": "William Webb Ellis",
       "accept": ["Webb Ellis"],
@@ -333,7 +333,7 @@
     },
     {
       "id": "sport-034",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel professeur d'éducation physique canadien a inventé le basket-ball pour occuper ses élèves pendant l'hiver ?",
       "answer": "James Naismith",
       "accept": ["Naismith"],
@@ -353,7 +353,7 @@
     },
     {
       "id": "sport-036",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel journaliste, directeur du quotidien L'Auto, a créé le Tour de France ?",
       "answer": "Henri Desgrange",
       "accept": ["Desgrange"],
@@ -423,7 +423,7 @@
     },
     {
       "id": "sport-043",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle gymnaste roumaine fut la première à obtenir la note parfaite de 10 aux Jeux olympiques ?",
       "answer": "Nadia Comăneci",
       "accept": ["Nadia Comaneci", "Comaneci", "Comăneci"],
@@ -473,7 +473,7 @@
     },
     {
       "id": "sport-048",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle compétition de golf oppose tous les deux ans une équipe masculine européenne à une équipe américaine ?",
       "answer": "Ryder Cup",
       "accept": ["coupe Ryder"],
@@ -493,7 +493,7 @@
     },
     {
       "id": "sport-050",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sauteur américain a popularisé la technique de saut en hauteur dos à la barre, qui porte son nom ?",
       "answer": "Dick Fosbury",
       "accept": ["Fosbury"],
@@ -503,7 +503,7 @@
     },
     {
       "id": "sport-051",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Aux échecs, quelle règle permet à un pion de capturer un pion adverse qui vient d'avancer de deux cases à côté de lui ?",
       "answer": "prise en passant",
       "accept": ["en passant"],
@@ -563,7 +563,7 @@
     },
     {
       "id": "sport-057",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel plateau de parcours traditionnel compte 63 cases, dont un puits, une prison et un labyrinthe ?",
       "answer": "jeu de l'oie",
       "accept": ["l'oie"],
@@ -573,7 +573,7 @@
     },
     {
       "id": "sport-058",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville des Bouches-du-Rhône la pétanque aurait-elle été inventée, au début du XXe siècle ?",
       "answer": "La Ciotat",
       "accept": ["Ciotat"],
@@ -593,7 +593,7 @@
     },
     {
       "id": "sport-060",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel coureur éthiopien remporta pieds nus le marathon olympique de Rome ?",
       "answer": "Abebe Bikila",
       "accept": ["Bikila"],
@@ -723,7 +723,7 @@
     },
     {
       "id": "sport-073",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Au Scrabble, quelle prime obtient-on en posant toutes les lettres de son chevalet en un seul coup ?",
       "answer": "50 points",
       "accept": ["50", "cinquante points", "cinquante"],
@@ -773,7 +773,7 @@
     },
     {
       "id": "sport-078",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Sur quel hippodrome se dispute le Prix d'Amérique, la plus prestigieuse course de trot attelé ?",
       "answer": "Vincennes",
       "accept": ["hippodrome de Vincennes"],
@@ -783,7 +783,7 @@
     },
     {
       "id": "sport-079",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Au judo, comment appelle-t-on l'avantage décisif qui met immédiatement fin au combat ?",
       "answer": "ippon",
       "accept": [],

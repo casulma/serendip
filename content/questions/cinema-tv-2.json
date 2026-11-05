@@ -195,7 +195,7 @@
     },
     {
       "id": "cinema-tv-094",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle héroïne sudiste, incarnée par Vivien Leigh, aime en vain Ashley Wilkes avant d'épouser Rhett Butler ?",
       "answer": "Scarlett O'Hara",
       "accept": [
@@ -307,7 +307,7 @@
     },
     {
       "id": "cinema-tv-101",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel réalisateur néo-zélandais a porté à l'écran la trilogie « Le Seigneur des anneaux » ?",
       "answer": "Peter Jackson",
       "accept": [
@@ -412,7 +412,7 @@
     },
     {
       "id": "cinema-tv-108",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle lettre désigne le responsable des gadgets fournis à James Bond par les services secrets britanniques ?",
       "answer": "Q",
       "accept": [],
@@ -488,7 +488,7 @@
     },
     {
       "id": "cinema-tv-113",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quel film de Billy Wilder la robe blanche de Marilyn Monroe se soulève-t-elle au-dessus d'une grille de métro ?",
       "answer": "Sept ans de réflexion",
       "accept": [],
@@ -502,7 +502,7 @@
     },
     {
       "id": "cinema-tv-114",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle actrice incarne Holly Golightly, qui déjeune d'un croissant devant la vitrine de Tiffany, dans « Diamants sur canapé » ?",
       "answer": "Audrey Hepburn",
       "accept": [
@@ -627,7 +627,7 @@
     },
     {
       "id": "cinema-tv-122",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle troupe d'humoristes britanniques a tourné « Sacré Graal ! » et « La Vie de Brian » ?",
       "answer": "Monty Python",
       "accept": [
@@ -643,7 +643,7 @@
     },
     {
       "id": "cinema-tv-123",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle actrice britannique incarne la gouvernante volant au moyen de son parapluie dans « Mary Poppins » ?",
       "answer": "Julie Andrews",
       "accept": [
@@ -659,7 +659,7 @@
     },
     {
       "id": "cinema-tv-124",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel acteur danse sous l'averse, accroché à un réverbère, dans « Chantons sous la pluie » ?",
       "answer": "Gene Kelly",
       "accept": [
@@ -689,7 +689,7 @@
     },
     {
       "id": "cinema-tv-126",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel acteur incarne Tony Stark, milliardaire inventeur caché sous l'armure d'Iron Man, dans les films Marvel ?",
       "answer": "Robert Downey Jr.",
       "accept": [
@@ -723,7 +723,7 @@
     },
     {
       "id": "cinema-tv-128",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on une prise de vue où la caméra, placée plus bas que le sujet, le filme vers le haut ?",
       "answer": "Contre-plongée",
       "accept": [
@@ -739,7 +739,7 @@
     },
     {
       "id": "cinema-tv-129",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel studio hollywoodien ouvre ses films par le rugissement d'un lion dans un cercle de pellicule ?",
       "answer": "Metro-Goldwyn-Mayer",
       "accept": [
@@ -879,7 +879,7 @@
     },
     {
       "id": "cinema-tv-138",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel policier new-yorkais, incarné par Bruce Willis, affronte seul des preneurs d'otages dans la tour Nakatomi ?",
       "answer": "John McClane",
       "accept": [
@@ -959,7 +959,7 @@
     },
     {
       "id": "cinema-tv-143",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel film montre Jim Carrey vivant sans le savoir dans une ville-décor filmée jour et nuit pour la télévision ?",
       "answer": "The Truman Show",
       "accept": [],
@@ -1020,7 +1020,7 @@
     },
     {
       "id": "cinema-tv-147",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel film de Spielberg met en scène des humains communiquant avec des extraterrestres grâce à cinq notes de musique ?",
       "answer": "Rencontres du troisième type",
       "accept": [],
@@ -1096,7 +1096,7 @@
     },
     {
       "id": "cinema-tv-152",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel film se termine sur la découverte de la statue de la Liberté ensablée par l'astronaute Taylor ?",
       "answer": "La Planète des singes",
       "accept": [],
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "cinema-tv-153",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel cinéaste britannique a réalisé « Inception », « Interstellar » et la trilogie « The Dark Knight » ?",
       "answer": "Christopher Nolan",
       "accept": [
@@ -1208,7 +1208,7 @@
     },
     {
       "id": "cinema-tv-159",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel film de Claude Zidi associe Philippe Noiret et Thierry Lhermitte en policiers parisiens corrompus ?",
       "answer": "Les Ripoux",
       "accept": [
@@ -1224,7 +1224,7 @@
     },
     {
       "id": "cinema-tv-160",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel film de Jean-Jacques Annaud suit un ourson orphelin adopté par un grand mâle blessé dans les Rocheuses ?",
       "answer": "L'Ours",
       "accept": [
@@ -1317,7 +1317,7 @@
     },
     {
       "id": "cinema-tv-166",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel film de Jean Girault voit un extraterrestre s'éprendre du potage de deux paysans du Bourbonnais ?",
       "answer": "La Soupe aux choux",
       "accept": [],
@@ -1345,7 +1345,7 @@
     },
     {
       "id": "cinema-tv-168",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel film de Truffaut met en scène Jeanne Moreau en Catherine, aimée de deux amis, un Autrichien et un Français ?",
       "answer": "Jules et Jim",
       "accept": [],
@@ -1359,7 +1359,7 @@
     },
     {
       "id": "cinema-tv-169",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel film de Jacques Tati oppose Monsieur Hulot à la villa ultramoderne de la famille Arpel ?",
       "answer": "Mon oncle",
       "accept": [],
@@ -1373,7 +1373,7 @@
     },
     {
       "id": "cinema-tv-170",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel film d'Hitchcock montre James Stewart, policier sujet au vertige, obsédé par une femme jouée par Kim Novak ?",
       "answer": "Sueurs froides",
       "accept": [
@@ -1403,7 +1403,7 @@
     },
     {
       "id": "cinema-tv-172",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel acteur joue François Perrin, violoniste distrait pris pour un espion, dans « Le Grand Blond avec une chaussure noire » ?",
       "answer": "Pierre Richard",
       "accept": [
@@ -1451,7 +1451,7 @@
     },
     {
       "id": "cinema-tv-175",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel cinéaste espagnol a coréalisé avec Salvador Dalí « Un chien andalou » et sa scène d'œil tranché au rasoir ?",
       "answer": "Luis Buñuel",
       "accept": [
@@ -1484,7 +1484,7 @@
     },
     {
       "id": "cinema-tv-177",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel film de Giuseppe Tornatore raconte l'amitié d'un garçon et du projectionniste d'une salle de village sicilienne ?",
       "answer": "Cinema Paradiso",
       "accept": [],
@@ -1696,7 +1696,7 @@
     },
     {
       "id": "cinema-tv-191",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel agent du Trésor, joué par Kevin Costner, traque Al Capone dans « Les Incorruptibles » de Brian De Palma ?",
       "answer": "Eliot Ness",
       "accept": [
@@ -1712,7 +1712,7 @@
     },
     {
       "id": "cinema-tv-192",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel acteur d'origine hongroise a incarné le comte Dracula dans le film de Tod Browning de 1931 ?",
       "answer": "Bela Lugosi",
       "accept": [
@@ -1728,7 +1728,7 @@
     },
     {
       "id": "cinema-tv-193",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on le genre de faux documentaire composé d'images censément retrouvées, comme « Le Projet Blair Witch » ?",
       "answer": "Found footage",
       "accept": [
@@ -1744,7 +1744,7 @@
     },
     {
       "id": "cinema-tv-194",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel acteur conduit un quadrige dans la célèbre course de chars de « Ben-Hur » de William Wyler ?",
       "answer": "Charlton Heston",
       "accept": [
@@ -1776,7 +1776,7 @@
     },
     {
       "id": "cinema-tv-196",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel cofondateur d'Apple a racheté en 1986 la division informatique de Lucasfilm, devenue Pixar ?",
       "answer": "Steve Jobs",
       "accept": [
@@ -1822,7 +1822,7 @@
     },
     {
       "id": "cinema-tv-199",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel professeur de lettres, joué par Robin Williams, fait monter ses élèves sur leur pupitre dans « Le Cercle des poètes disparus » ?",
       "answer": "John Keating",
       "accept": [
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "cinema-tv-200",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle autrice iranienne a coréalisé l'adaptation animée de sa bande dessinée autobiographique « Persepolis » ?",
       "answer": "Marjane Satrapi",
       "accept": [
@@ -1887,7 +1887,7 @@
     },
     {
       "id": "cinema-tv-203",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel technicien du son recrée en studio bruits de pas, froissements et claquements de portes pour un film ?",
       "answer": "Bruiteur",
       "accept": [
@@ -1919,7 +1919,7 @@
     },
     {
       "id": "cinema-tv-205",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle technique simule une scène nocturne filmée en plein jour, titre d'un film de Truffaut sur un tournage ?",
       "answer": "Nuit américaine",
       "accept": [],
@@ -1933,7 +1933,7 @@
     },
     {
       "id": "cinema-tv-206",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel film de 1927 avec Al Jolson est considéré comme le premier long métrage parlant ?",
       "answer": "Le Chanteur de jazz",
       "accept": [],
@@ -1961,7 +1961,7 @@
     },
     {
       "id": "cinema-tv-208",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel appareil de Thomas Edison permettait à un seul spectateur de voir un film en regardant dans une boîte ?",
       "answer": "Kinétoscope",
       "accept": [
@@ -2065,7 +2065,7 @@
     },
     {
       "id": "cinema-tv-215",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel film de Marcel Carné, tourné sous l'Occupation, met en scène le mime Baptiste Deburau amoureux de Garance ?",
       "answer": "Les Enfants du paradis",
       "accept": [],
@@ -2095,7 +2095,7 @@
     },
     {
       "id": "cinema-tv-217",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel commissaire, joué par Louis de Funès, poursuit sans relâche le criminel masqué Fantômas ?",
       "answer": "Juve",
       "accept": [
@@ -2139,7 +2139,7 @@
     },
     {
       "id": "cinema-tv-220",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel acteur, mort à 36 ans, incarne le séduisant soldat « Fanfan la Tulipe » face à Gina Lollobrigida ?",
       "answer": "Gérard Philipe",
       "accept": [
@@ -2229,7 +2229,7 @@
     },
     {
       "id": "cinema-tv-226",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel film de Ron Howard popularise la phrase « Houston, nous avons un problème » ?",
       "answer": "Apollo 13",
       "accept": [],
@@ -2259,7 +2259,7 @@
     },
     {
       "id": "cinema-tv-228",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel moine franciscain, joué par Sean Connery, enquête sur des meurtres dans une abbaye dans « Le Nom de la rose » ?",
       "answer": "Guillaume de Baskerville",
       "accept": [
@@ -2289,7 +2289,7 @@
     },
     {
       "id": "cinema-tv-230",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur a écrit toute la musique des « Parapluies de Cherbourg » et des « Demoiselles de Rochefort » ?",
       "answer": "Michel Legrand",
       "accept": [
@@ -2350,7 +2350,7 @@
     },
     {
       "id": "cinema-tv-234",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quels oiseaux de l'Antarctique sont les héros du documentaire « La Marche de l'empereur » de Luc Jacquet ?",
       "answer": "Manchots",
       "accept": [
@@ -2418,7 +2418,7 @@
     },
     {
       "id": "cinema-tv-238",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quels prix parodiques récompensent chaque année les pires films hollywoodiens, la veille des Oscars ?",
       "answer": "Razzie Awards",
       "accept": [
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "cinema-tv-240",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel champion olympique de natation devint le plus célèbre Tarzan du cinéma dans les années 1930 et 1940 ?",
       "answer": "Johnny Weissmuller",
       "accept": [
@@ -2495,7 +2495,7 @@
     },
     {
       "id": "cinema-tv-243",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel film de Vittorio De Sica suit un colleur d'affiches romain et son fils à la recherche de son vélo dérobé ?",
       "answer": "Le Voleur de bicyclette",
       "accept": [],
@@ -2509,7 +2509,7 @@
     },
     {
       "id": "cinema-tv-244",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quelle revue de critique cinématographique, à la couverture jaune, a été cofondée par André Bazin en 1951 ?",
       "answer": "Cahiers du cinéma",
       "accept": [
@@ -2699,7 +2699,7 @@
     },
     {
       "id": "cinema-tv-256",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel procédé d'écran large fut lancé par la Fox avec « La Tunique », grâce à l'objectif d'Henri Chrétien ?",
       "answer": "CinemaScope",
       "accept": [
@@ -2777,7 +2777,7 @@
     },
     {
       "id": "cinema-tv-261",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quelle société de cinéma française a pour emblème une marguerite, en hommage à la mère de son fondateur ?",
       "answer": "Gaumont",
       "accept": [],
@@ -2853,7 +2853,7 @@
     },
     {
       "id": "cinema-tv-266",
-      "difficulty": 3,
+      "difficulty": 1,
       "question": "Quel commandant a coréalisé avec Louis Malle « Le Monde du silence », documentaire sous-marin palmé à Cannes ?",
       "answer": "Jacques-Yves Cousteau",
       "accept": [
@@ -2903,7 +2903,7 @@
     },
     {
       "id": "cinema-tv-269",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quelle romancière a écrit le scénario de « Hiroshima mon amour » d'Alain Resnais ?",
       "answer": "Marguerite Duras",
       "accept": [
@@ -2935,7 +2935,7 @@
     },
     {
       "id": "cinema-tv-271",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel surnom désigne l'industrie cinématographique très prolifique du Nigeria ?",
       "answer": "Nollywood",
       "accept": [],
@@ -3075,7 +3075,7 @@
     },
     {
       "id": "cinema-tv-280",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel film de Wes Anderson se déroule dans un palace d'une république imaginaire d'Europe centrale, autour du concierge Gustave H. ?",
       "answer": "The Grand Budapest Hotel",
       "accept": [

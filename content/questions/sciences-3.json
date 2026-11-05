@@ -199,7 +199,7 @@
     },
     {
       "id": "sciences-344",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel médecin autrichien a découvert en 1901 les groupes sanguins A, B et O ?",
       "answer": "Karl Landsteiner",
       "accept": [
@@ -435,7 +435,7 @@
     },
     {
       "id": "sciences-359",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel médecin français a donné son nom au syndrome neurologique associant tics moteurs et vocaux involontaires ?",
       "answer": "Gilles de la Tourette",
       "accept": [
@@ -479,7 +479,7 @@
     },
     {
       "id": "sciences-362",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel antidouleur extrait de l'opium doit son nom au dieu grec des rêves ?",
       "answer": "morphine",
       "accept": [],
@@ -509,7 +509,7 @@
     },
     {
       "id": "sciences-364",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle technique d'imagerie, désignée par trois lettres, utilise un puissant aimant et les noyaux d'hydrogène du corps ?",
       "answer": "IRM",
       "accept": [
@@ -541,7 +541,7 @@
     },
     {
       "id": "sciences-366",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel drapier de Delft fut le premier à observer des bactéries, grâce à des microscopes qu'il fabriquait lui-même ?",
       "answer": "Antoni van Leeuwenhoek",
       "accept": [
@@ -625,7 +625,7 @@
     },
     {
       "id": "sciences-371",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle partie de l'encéphale, située à l'arrière sous les hémisphères, coordonne l'équilibre et les mouvements ?",
       "answer": "cervelet",
       "accept": [],
@@ -733,7 +733,7 @@
     },
     {
       "id": "sciences-378",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chirurgien britannique a introduit l'antisepsie en chirurgie en utilisant l'acide phénique ?",
       "answer": "Joseph Lister",
       "accept": [
@@ -811,7 +811,7 @@
     },
     {
       "id": "sciences-383",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel médecin anglais a inoculé en 1796 à un enfant la vaccine des vaches, posant les bases de la vaccination ?",
       "answer": "Edward Jenner",
       "accept": [
@@ -827,7 +827,7 @@
     },
     {
       "id": "sciences-384",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel virologue américain a mis au point le premier vaccin injectable contre la poliomyélite, au début des années 1950 ?",
       "answer": "Jonas Salk",
       "accept": [
@@ -876,7 +876,7 @@
     },
     {
       "id": "sciences-387",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel inventeur italien a réalisé à la fin du XIXe siècle les premières liaisons par télégraphie sans fil ?",
       "answer": "Guglielmo Marconi",
       "accept": [
@@ -892,7 +892,7 @@
     },
     {
       "id": "sciences-388",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel inventeur français a réalisé la plus ancienne photographie connue, prise depuis sa fenêtre en Bourgogne ?",
       "answer": "Nicéphore Niépce",
       "accept": [
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "sciences-413",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel savant néerlandais a construit en 1656 la première horloge à pendule ?",
       "answer": "Christiaan Huygens",
       "accept": [
@@ -1309,7 +1309,7 @@
     },
     {
       "id": "sciences-414",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel instrument détecte les rayonnements radioactifs en produisant des crépitements sonores ?",
       "answer": "compteur Geiger",
       "accept": [
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "sciences-432",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel diplomate français a fait percer le canal de Suez, inauguré en 1869 ?",
       "answer": "Ferdinand de Lesseps",
       "accept": [
@@ -1639,7 +1639,7 @@
     },
     {
       "id": "sciences-435",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel aviateur américain a réussi en 1927 la première traversée de l'Atlantique en solitaire et sans escale ?",
       "answer": "Charles Lindbergh",
       "accept": [
@@ -1752,7 +1752,7 @@
     },
     {
       "id": "sciences-442",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel ingénieur breton est surnommé le « père du métro » de Paris, inauguré en 1900 ?",
       "answer": "Fulgence Bienvenüe",
       "accept": [
@@ -1769,7 +1769,7 @@
     },
     {
       "id": "sciences-443",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle ville a été mis en service en 1863 le premier métro du monde ?",
       "answer": "Londres",
       "accept": [
@@ -1785,7 +1785,7 @@
     },
     {
       "id": "sciences-444",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel accessoire automobile, breveté en 1903 par l'Américaine Mary Anderson, permet de voir sous la pluie ?",
       "answer": "essuie-glace",
       "accept": [
@@ -1817,7 +1817,7 @@
     },
     {
       "id": "sciences-446",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on la réaction nucléaire au cours de laquelle un noyau lourd se scinde en deux noyaux plus légers ?",
       "answer": "fission",
       "accept": [
@@ -1943,7 +1943,7 @@
     },
     {
       "id": "sciences-454",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle unité du Système international mesure l'énergie, du nom d'un physicien anglais fils de brasseur ?",
       "answer": "joule",
       "accept": [],
@@ -2019,7 +2019,7 @@
     },
     {
       "id": "sciences-459",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment appelle-t-on le gaz naturel piégé dans des roches argileuses, extrait par fracturation hydraulique ?",
       "answer": "gaz de schiste",
       "accept": [
@@ -2035,7 +2035,7 @@
     },
     {
       "id": "sciences-460",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle unité de puissance, notée ch, fut introduite pour comparer les premières machines industrielles aux animaux de trait ?",
       "answer": "cheval-vapeur",
       "accept": [
@@ -2140,7 +2140,7 @@
     },
     {
       "id": "sciences-467",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel minéral, dioxyde de silicium, est le principal constituant de la plupart des sables ?",
       "answer": "quartz",
       "accept": [],
@@ -2154,7 +2154,7 @@
     },
     {
       "id": "sciences-468",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle forme cristalline du carbone, tendre et grise, sert à fabriquer les mines de crayon ?",
       "answer": "graphite",
       "accept": [],
@@ -2230,7 +2230,7 @@
     },
     {
       "id": "sciences-473",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on l'alignement de volcans et de zones sismiques qui entoure l'océan Pacifique ?",
       "answer": "ceinture de feu",
       "accept": [
@@ -2261,7 +2261,7 @@
     },
     {
       "id": "sciences-475",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel volcan indonésien a produit en 1815 une éruption si violente que l'année suivante fut appelée « l'année sans été » ?",
       "answer": "Tambora",
       "accept": [],
@@ -2373,7 +2373,7 @@
     },
     {
       "id": "sciences-482",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel mollusque marin fossile, à coquille enroulée en spirale, a disparu en même temps que les dinosaures ?",
       "answer": "ammonite",
       "accept": [
@@ -2618,7 +2618,7 @@
     },
     {
       "id": "sciences-498",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel nuage de haute altitude, en fins filaments blancs, est composé de cristaux de glace ?",
       "answer": "cirrus",
       "accept": [],
@@ -2969,7 +2969,7 @@
     },
     {
       "id": "sciences-521",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel naturaliste suisse a défendu au XIXe siècle l'idée d'un « âge glaciaire » où les glaciers recouvraient l'Europe ?",
       "answer": "Louis Agassiz",
       "accept": [
@@ -2985,7 +2985,7 @@
     },
     {
       "id": "sciences-522",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on la bande proche de l'équateur où convergent les alizés des deux hémisphères ?",
       "answer": "zone de convergence intertropicale",
       "accept": [
@@ -3075,7 +3075,7 @@
     },
     {
       "id": "sciences-528",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle unité de masse utilisée pour les pierres précieuses vaut 0,2 gramme ?",
       "answer": "carat",
       "accept": [],
@@ -3259,7 +3259,7 @@
     },
     {
       "id": "sciences-540",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle unité de longueur, utilisée pour la profondeur de l'eau, correspond à la longueur des deux bras tendus ?",
       "answer": "brasse",
       "accept": [],
@@ -3273,7 +3273,7 @@
     },
     {
       "id": "sciences-541",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel appareil enregistre l'activité électrique du cœur sous forme de tracé sur papier ou écran ?",
       "answer": "électrocardiographe",
       "accept": [
@@ -3291,7 +3291,7 @@
     },
     {
       "id": "sciences-542",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel organe produit le suc gastrique, très acide, qui commence la digestion des protéines ?",
       "answer": "estomac",
       "accept": [],
@@ -3305,7 +3305,7 @@
     },
     {
       "id": "sciences-543",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel est le seul os mobile du crâne, qui permet de mâcher ?",
       "answer": "mandibule",
       "accept": [
@@ -3352,7 +3352,7 @@
     },
     {
       "id": "sciences-546",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quelle partie du cerveau, nommée d'après un animal marin, joue un rôle clé dans la mémoire ?",
       "answer": "hippocampe",
       "accept": [],
@@ -3366,7 +3366,7 @@
     },
     {
       "id": "sciences-547",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle maladie, autrefois appelée « mal des ardents », était causée par un champignon parasite du seigle ?",
       "answer": "ergotisme",
       "accept": [],

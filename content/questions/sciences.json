@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "sciences-001",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel est le symbole chimique de l'or dans le tableau périodique des éléments ?",
       "answer": "Au",
       "accept": [],
@@ -386,7 +386,7 @@
     },
     {
       "id": "sciences-025",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel groupe sanguin est qualifié de donneur universel pour les transfusions de globules rouges ?",
       "answer": "O négatif",
       "accept": [
@@ -453,7 +453,7 @@
     },
     {
       "id": "sciences-029",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel bactériologiste écossais a découvert la pénicilline en 1928 ?",
       "answer": "Alexander Fleming",
       "accept": [
@@ -677,7 +677,7 @@
     },
     {
       "id": "sciences-043",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel langage de balisage, défini par un sigle anglais, sert à structurer les pages web ?",
       "answer": "HTML",
       "accept": [
@@ -772,7 +772,7 @@
     },
     {
       "id": "sciences-049",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chimiste russe a établi en 1869 la classification périodique des éléments ?",
       "answer": "Dmitri Mendeleïev",
       "accept": [
@@ -856,7 +856,7 @@
     },
     {
       "id": "sciences-054",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel savant italien découvrit en 1610 quatre satellites de Jupiter grâce à sa lunette ?",
       "answer": "Galilée",
       "accept": [
@@ -873,7 +873,7 @@
     },
     {
       "id": "sciences-055",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment appelle-t-on le côté opposé à l'angle droit dans un triangle rectangle ?",
       "answer": "hypoténuse",
       "accept": [
@@ -889,7 +889,7 @@
     },
     {
       "id": "sciences-056",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment appelle-t-on un polygone à huit côtés, forme du panneau routier stop ?",
       "answer": "octogone",
       "accept": [
@@ -905,7 +905,7 @@
     },
     {
       "id": "sciences-057",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel philosophe et mathématicien français a donné son nom aux coordonnées cartésiennes ?",
       "answer": "René Descartes",
       "accept": [
@@ -953,7 +953,7 @@
     },
     {
       "id": "sciences-060",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel informaticien britannique a inventé le World Wide Web au CERN ?",
       "answer": "Tim Berners-Lee",
       "accept": [
@@ -969,7 +969,7 @@
     },
     {
       "id": "sciences-061",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel immense volcan martien est souvent cité comme le plus haut relief connu du Système solaire ?",
       "answer": "Olympus Mons",
       "accept": [],
@@ -1000,7 +1000,7 @@
     },
     {
       "id": "sciences-063",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment appelle-t-on le point de la surface terrestre situé à la verticale du foyer d'un séisme ?",
       "answer": "épicentre",
       "accept": [
@@ -1095,7 +1095,7 @@
     },
     {
       "id": "sciences-069",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel physicien allemand a découvert en 1895 les rayons X ?",
       "answer": "Wilhelm Röntgen",
       "accept": [
@@ -1130,7 +1130,7 @@
     },
     {
       "id": "sciences-071",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel métal lourd et toxique a pour symbole chimique Pb ?",
       "answer": "plomb",
       "accept": [],
@@ -1144,7 +1144,7 @@
     },
     {
       "id": "sciences-072",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle mathématicienne britannique est considérée comme la première programmeuse de l'histoire ?",
       "answer": "Ada Lovelace",
       "accept": [
@@ -1160,7 +1160,7 @@
     },
     {
       "id": "sciences-073",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel physicien danois a proposé en 1913 un modèle d'atome à orbites électroniques quantifiées ?",
       "answer": "Niels Bohr",
       "accept": [
@@ -1223,7 +1223,7 @@
     },
     {
       "id": "sciences-077",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "À combien de degrés Celsius correspond le zéro absolu, température la plus basse possible ?",
       "answer": "-273,15",
       "accept": [
@@ -1321,7 +1321,7 @@
     },
     {
       "id": "sciences-083",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel inventeur américain, installé à Menlo Park, a mis au point le phonographe ?",
       "answer": "Thomas Edison",
       "accept": [
@@ -1337,7 +1337,7 @@
     },
     {
       "id": "sciences-084",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle unité anglo-saxonne de longueur vaut exactement 2,54 centimètres ?",
       "answer": "pouce",
       "accept": [
@@ -1397,7 +1397,7 @@
     },
     {
       "id": "sciences-088",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel peintre et inventeur américain a donné son nom au code télégraphique de points et de traits ?",
       "answer": "Samuel Morse",
       "accept": [
@@ -1430,7 +1430,7 @@
     },
     {
       "id": "sciences-090",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel minéral, rayable à l'ongle, occupe le premier rang de l'échelle de dureté de Mohs ?",
       "answer": "talc",
       "accept": [],
@@ -1653,7 +1653,7 @@
     },
     {
       "id": "sciences-104",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel physicien français inventa au XVIIe siècle un autocuiseur appelé digesteur ?",
       "answer": "Denis Papin",
       "accept": [

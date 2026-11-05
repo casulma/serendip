@@ -34,7 +34,7 @@
     },
     {
       "id": "arts-litterature-003",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel écrivain écossais a créé le détective Sherlock Holmes et son fidèle compagnon, le docteur Watson ?",
       "answer": "Arthur Conan Doyle",
       "accept": [
@@ -237,7 +237,7 @@
     },
     {
       "id": "arts-litterature-016",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel peintre a représenté en 1937 le bombardement d'une petite ville basque dans une immense toile en noir et blanc ?",
       "answer": "Picasso",
       "accept": [
@@ -376,7 +376,7 @@
     },
     {
       "id": "arts-litterature-025",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle basilique de Barcelone, commencée en 1882, est l'œuvre la plus célèbre de l'architecte Antoni Gaudí ?",
       "answer": "Sagrada Família",
       "accept": [
@@ -504,7 +504,7 @@
     },
     {
       "id": "arts-litterature-033",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel peintre norvégien a peint Le Cri, une figure angoissée sur un pont sous un ciel rouge sang ?",
       "answer": "Edvard Munch",
       "accept": [
@@ -580,7 +580,7 @@
     },
     {
       "id": "arts-litterature-038",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel peintre romantique a peint La Liberté guidant le peuple pour évoquer les Trois Glorieuses de 1830 ?",
       "answer": "Eugène Delacroix",
       "accept": [
@@ -596,7 +596,7 @@
     },
     {
       "id": "arts-litterature-039",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle forme poétique japonaise très brève compte trois vers de cinq, sept et cinq syllabes ?",
       "answer": "Haïku",
       "accept": [
@@ -629,7 +629,7 @@
     },
     {
       "id": "arts-litterature-041",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel architecte sino-américain a conçu la pyramide de verre inaugurée en 1989 dans la cour Napoléon, à Paris ?",
       "answer": "Ieoh Ming Pei",
       "accept": [
@@ -661,7 +661,7 @@
     },
     {
       "id": "arts-litterature-043",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel tableau de René Magritte montre une pipe accompagnée de l'inscription « Ceci n'est pas une pipe » ?",
       "answer": "La Trahison des images",
       "accept": [
@@ -677,7 +677,7 @@
     },
     {
       "id": "arts-litterature-044",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment s'appelle le sous-marin du capitaine Nemo dans Vingt Mille Lieues sous les mers de Jules Verne ?",
       "answer": "Nautilus",
       "accept": [],
@@ -691,7 +691,7 @@
     },
     {
       "id": "arts-litterature-045",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel gentleman-cambrioleur, imaginé par Maurice Leblanc, affronte le détective anglais Herlock Sholmès ?",
       "answer": "Arsène Lupin",
       "accept": [
@@ -707,7 +707,7 @@
     },
     {
       "id": "arts-litterature-046",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel roman d'Émile Zola suit Étienne Lantier au cœur d'une grève de mineurs dans le nord de la France ?",
       "answer": "Germinal",
       "accept": [],
@@ -721,7 +721,7 @@
     },
     {
       "id": "arts-litterature-047",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle pâtisserie trempée dans une tasse de thé fait resurgir chez le narrateur de Proust ses souvenirs de Combray ?",
       "answer": "Madeleine",
       "accept": [
@@ -869,7 +869,7 @@
     },
     {
       "id": "arts-litterature-056",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel précepteur de Candide répète que tout est au mieux dans le meilleur des mondes possibles ?",
       "answer": "Pangloss",
       "accept": [],
@@ -913,7 +913,7 @@
     },
     {
       "id": "arts-litterature-059",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel prix littéraire français, le plus prestigieux de tous, est doté d'un chèque symbolique de dix euros ?",
       "answer": "Goncourt",
       "accept": [
@@ -993,7 +993,7 @@
     },
     {
       "id": "arts-litterature-064",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Dans quelle tragi-comédie de Corneille Chimène dit-elle à Rodrigue « Va, je ne te hais point » ?",
       "answer": "Le Cid",
       "accept": [
@@ -1042,7 +1042,7 @@
     },
     {
       "id": "arts-litterature-067",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel capitaine du baleinier Pequod poursuit la baleine blanche qui lui a arraché une jambe, chez Melville ?",
       "answer": "Achab",
       "accept": [
@@ -1154,7 +1154,7 @@
     },
     {
       "id": "arts-litterature-074",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle nouvelle de Franz Kafka commence par la transformation de Gregor Samsa en insecte monstrueux ?",
       "answer": "La Métamorphose",
       "accept": [
@@ -1184,7 +1184,7 @@
     },
     {
       "id": "arts-litterature-076",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel mangaka, créateur d'Astro le petit robot, est surnommé le « dieu du manga » au Japon ?",
       "answer": "Osamu Tezuka",
       "accept": [

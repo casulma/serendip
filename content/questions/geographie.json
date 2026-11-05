@@ -63,7 +63,7 @@
     },
     {
       "id": "geographie-005",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les habitants de Saint-Étienne, dans la Loire ?",
       "answer": "Stéphanois",
       "accept": [],
@@ -105,7 +105,7 @@
     },
     {
       "id": "geographie-008",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quel pays se trouve la cité inca du Machu Picchu ?",
       "answer": "Pérou",
       "accept": [],
@@ -177,7 +177,7 @@
     },
     {
       "id": "geographie-013",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville est la capitale de l'Australie ?",
       "answer": "Canberra",
       "accept": [],
@@ -191,7 +191,7 @@
     },
     {
       "id": "geographie-014",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville est la capitale du Canada ?",
       "answer": "Ottawa",
       "accept": [],
@@ -265,7 +265,7 @@
     },
     {
       "id": "geographie-019",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel fleuve forme un delta en Camargue avant de se jeter dans la Méditerranée ?",
       "answer": "Rhône",
       "accept": [],
@@ -293,7 +293,7 @@
     },
     {
       "id": "geographie-021",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville du Vaucluse est surnommée « la Cité des papes » ?",
       "answer": "Avignon",
       "accept": [],
@@ -321,7 +321,7 @@
     },
     {
       "id": "geographie-023",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Sur quelle île d'outre-mer se trouve le volcan du piton de la Fournaise ?",
       "answer": "La Réunion",
       "accept": [
@@ -337,7 +337,7 @@
     },
     {
       "id": "geographie-024",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pays nordique est surnommé « le pays des mille lacs » ?",
       "answer": "Finlande",
       "accept": [],
@@ -351,7 +351,7 @@
     },
     {
       "id": "geographie-025",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel grand fleuve européen traverse Vienne, Budapest et Belgrade ?",
       "answer": "Danube",
       "accept": [],
@@ -409,7 +409,7 @@
     },
     {
       "id": "geographie-029",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel désert s'étend sur le sud de la Mongolie et le nord de la Chine ?",
       "answer": "Gobi",
       "accept": [
@@ -441,7 +441,7 @@
     },
     {
       "id": "geographie-031",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle montagne de Tanzanie est le point culminant de l'Afrique ?",
       "answer": "Kilimandjaro",
       "accept": [],
@@ -455,7 +455,7 @@
     },
     {
       "id": "geographie-032",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pays est surnommé « l'île d'Émeraude » en raison de ses paysages verdoyants ?",
       "answer": "Irlande",
       "accept": [],
@@ -469,7 +469,7 @@
     },
     {
       "id": "geographie-033",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel détroit sépare l'Europe de l'Asie au cœur d'Istanbul ?",
       "answer": "Bosphore",
       "accept": [],
@@ -483,7 +483,7 @@
     },
     {
       "id": "geographie-034",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel fleuve sacré de l'Inde arrose la ville de Varanasi, ou Bénarès ?",
       "answer": "Gange",
       "accept": [],
@@ -497,7 +497,7 @@
     },
     {
       "id": "geographie-035",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle chaîne de montagnes marque traditionnellement la limite entre l'Europe et l'Asie en Russie ?",
       "answer": "Oural",
       "accept": [],
@@ -527,7 +527,7 @@
     },
     {
       "id": "geographie-037",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel détroit sépare l'Asie de l'Amérique du Nord ?",
       "answer": "Béring",
       "accept": [
@@ -543,7 +543,7 @@
     },
     {
       "id": "geographie-038",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel volcan a enseveli les villes romaines de Pompéi et d'Herculanum ?",
       "answer": "Vésuve",
       "accept": [],
@@ -557,7 +557,7 @@
     },
     {
       "id": "geographie-039",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle île de l'océan Indien est surnommée « l'île Rouge » ?",
       "answer": "Madagascar",
       "accept": [],
@@ -587,7 +587,7 @@
     },
     {
       "id": "geographie-041",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel château de la Loire possède un célèbre escalier à double révolution ?",
       "answer": "Chambord",
       "accept": [
@@ -603,7 +603,7 @@
     },
     {
       "id": "geographie-042",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel gouffre sous-marin du Pacifique ouest est le plus profond connu ?",
       "answer": "fosse des Mariannes",
       "accept": [
@@ -619,7 +619,7 @@
     },
     {
       "id": "geographie-043",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel grand lac d'altitude des Andes est partagé entre le Pérou et la Bolivie ?",
       "answer": "Titicaca",
       "accept": [
@@ -635,7 +635,7 @@
     },
     {
       "id": "geographie-044",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel massif montagneux sépare l'Alsace de la Lorraine ?",
       "answer": "Vosges",
       "accept": [
@@ -665,7 +665,7 @@
     },
     {
       "id": "geographie-046",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville est surnommée « la capitale des Gaules » ?",
       "answer": "Lyon",
       "accept": [],
@@ -679,7 +679,7 @@
     },
     {
       "id": "geographie-047",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quel département se trouve le parc du Puy du Fou ?",
       "answer": "Vendée",
       "accept": [],
@@ -693,7 +693,7 @@
     },
     {
       "id": "geographie-048",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel fleuve traverse Bordeaux avant de rejoindre l'estuaire de la Gironde ?",
       "answer": "Garonne",
       "accept": [],
@@ -721,7 +721,7 @@
     },
     {
       "id": "geographie-050",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel petit royaume est entièrement enclavé dans le territoire de l'Afrique du Sud ?",
       "answer": "Lesotho",
       "accept": [],
@@ -735,7 +735,7 @@
     },
     {
       "id": "geographie-051",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel est le plus long fleuve d'Europe ?",
       "answer": "Volga",
       "accept": [],
@@ -766,7 +766,7 @@
     },
     {
       "id": "geographie-053",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les habitants de Besançon, chef-lieu du Doubs ?",
       "answer": "Bisontins",
       "accept": [],
@@ -810,7 +810,7 @@
     },
     {
       "id": "geographie-056",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sommet est le point culminant des Pyrénées ?",
       "answer": "Aneto",
       "accept": [
@@ -826,7 +826,7 @@
     },
     {
       "id": "geographie-057",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sommet volcanique est le point culminant du Massif central ?",
       "answer": "puy de Sancy",
       "accept": [
@@ -873,7 +873,7 @@
     },
     {
       "id": "geographie-060",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle est la plus vaste étendue d'eau d'origine glaciaire entièrement située en France ?",
       "answer": "lac du Bourget",
       "accept": [
@@ -905,7 +905,7 @@
     },
     {
       "id": "geographie-062",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quel pays se trouve la cité antique de Pétra, taillée dans le grès rose ?",
       "answer": "Jordanie",
       "accept": [],
@@ -989,7 +989,7 @@
     },
     {
       "id": "geographie-068",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle région regroupe notamment les départements du Nord, de la Somme et de l'Aisne ?",
       "answer": "Hauts-de-France",
       "accept": [],
@@ -1003,7 +1003,7 @@
     },
     {
       "id": "geographie-069",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel grand fleuve traverse Bagdad, la capitale irakienne ?",
       "answer": "Tigre",
       "accept": [],
@@ -1017,7 +1017,7 @@
     },
     {
       "id": "geographie-070",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel est le plus long fleuve d'Asie ?",
       "answer": "Yangzi Jiang",
       "accept": [
@@ -1037,7 +1037,7 @@
     },
     {
       "id": "geographie-071",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel désert côtier du nord du Chili est réputé l'un des plus arides du monde ?",
       "answer": "Atacama",
       "accept": [
@@ -1067,7 +1067,7 @@
     },
     {
       "id": "geographie-073",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel détroit relie le golfe Persique au golfe d'Oman ?",
       "answer": "Ormuz",
       "accept": [
@@ -1127,7 +1127,7 @@
     },
     {
       "id": "geographie-077",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle langue romane est la quatrième langue nationale de la Suisse ?",
       "answer": "romanche",
       "accept": [],
@@ -1141,7 +1141,7 @@
     },
     {
       "id": "geographie-078",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Avec quel royaume européen la France partage-t-elle l'île antillaise de Saint-Martin ?",
       "answer": "Pays-Bas",
       "accept": [],
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "geographie-082",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle île des Grandes Antilles est partagée entre Haïti et la République dominicaine ?",
       "answer": "Hispaniola",
       "accept": [
@@ -1231,7 +1231,7 @@
     },
     {
       "id": "geographie-084",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "À quel pays appartient l'île de Pâques, célèbre pour ses statues moaï ?",
       "answer": "Chili",
       "accept": [],
@@ -1245,7 +1245,7 @@
     },
     {
       "id": "geographie-085",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel château de la Loire enjambe le Cher grâce à une galerie bâtie sur un pont ?",
       "answer": "Chenonceau",
       "accept": [
@@ -1261,7 +1261,7 @@
     },
     {
       "id": "geographie-086",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle cathédrale gothique possède la plus haute flèche de France ?",
       "answer": "Rouen",
       "accept": [
@@ -1307,7 +1307,7 @@
     },
     {
       "id": "geographie-089",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel nom l'écrivain Stéphen Liégeard donna-t-il au littoral de Nice, Cannes et Menton ?",
       "answer": "Côte d'Azur",
       "accept": [],
@@ -1335,7 +1335,7 @@
     },
     {
       "id": "geographie-091",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle étendue d'eau salée d'Asie centrale a presque disparu à cause de l'irrigation du coton ?",
       "answer": "mer d'Aral",
       "accept": [

@@ -45,7 +45,7 @@
     },
     {
       "id": "gastronomie-004",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle pâtisserie en couronne garnie de crème pralinée célèbre une course cycliste ?",
       "answer": "Paris-Brest",
       "accept": [],
@@ -231,7 +231,7 @@
     },
     {
       "id": "gastronomie-017",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel village basque a donné son nom à un piment protégé par une AOP ?",
       "answer": "Espelette",
       "accept": [
@@ -339,7 +339,7 @@
     },
     {
       "id": "gastronomie-024",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel village de l'Aveyron a donné son nom à un célèbre couteau orné d'une abeille ?",
       "answer": "Laguiole",
       "accept": [],
@@ -353,7 +353,7 @@
     },
     {
       "id": "gastronomie-025",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel fromage bleu au lait de brebis est affiné dans les caves du Combalou ?",
       "answer": "roquefort",
       "accept": [],
@@ -425,7 +425,7 @@
     },
     {
       "id": "gastronomie-030",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel apéritif de vin blanc et crème de cassis porte le nom d'un chanoine dijonnais ?",
       "answer": "kir",
       "accept": [],
@@ -469,7 +469,7 @@
     },
     {
       "id": "gastronomie-033",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle préparation, desséchée d'abord dans une casserole, sert à confectionner éclairs et profiteroles ?",
       "answer": "pâte à choux",
       "accept": [
@@ -561,7 +561,7 @@
     },
     {
       "id": "gastronomie-039",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle entreprise française doit son nom à la contraction de Téflon et d'aluminium ?",
       "answer": "Tefal",
       "accept": [],
@@ -650,7 +650,7 @@
     },
     {
       "id": "gastronomie-045",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel objet d'écriture a été mis au point par le journaliste hongrois László Bíró ?",
       "answer": "stylo à bille",
       "accept": [
@@ -858,7 +858,7 @@
     },
     {
       "id": "gastronomie-059",
-      "difficulty": 3,
+      "difficulty": 1,
       "question": "Quelle marque d'électroménager est née du moulin à légumes breveté par Jean Mantelet ?",
       "answer": "Moulinex",
       "accept": [],
@@ -872,7 +872,7 @@
     },
     {
       "id": "gastronomie-060",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quelle Allemande inventa le filtre à café en papier au début du XXe siècle ?",
       "answer": "Melitta Bentz",
       "accept": [

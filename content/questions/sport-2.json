@@ -140,7 +140,7 @@
     },
     {
       "id": "sport-090",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment s'appelle le trophée remis au club champion de France de rugby à XV ?",
       "answer": "bouclier de Brennus",
       "accept": [
@@ -186,7 +186,7 @@
     },
     {
       "id": "sport-093",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel surnom porte l'équipe d'Afrique du Sud de rugby, d'après une antilope ?",
       "answer": "Springboks",
       "accept": [
@@ -203,7 +203,7 @@
     },
     {
       "id": "sport-094",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pays a rejoint le Tournoi des Cinq Nations en 2000, le transformant en Tournoi des Six Nations ?",
       "answer": "Italie",
       "accept": [],
@@ -340,7 +340,7 @@
     },
     {
       "id": "sport-103",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "De quelle couleur est le maillot du leader du Tour d'Italie ?",
       "answer": "rose",
       "accept": [],
@@ -354,7 +354,7 @@
     },
     {
       "id": "sport-104",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel coureur breton, quintuple vainqueur du Tour de France, était surnommé « le Blaireau » ?",
       "answer": "Bernard Hinault",
       "accept": [
@@ -434,7 +434,7 @@
     },
     {
       "id": "sport-109",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle course d'athlétisme de 3 000 mètres comporte des barrières et une fosse remplie d'eau ?",
       "answer": "steeple",
       "accept": [
@@ -480,7 +480,7 @@
     },
     {
       "id": "sport-112",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle athlète française, surnommée « la Gazelle », réussit le doublé 200-400 mètres aux Jeux d'Atlanta ?",
       "answer": "Marie-José Pérec",
       "accept": [
@@ -660,7 +660,7 @@
     },
     {
       "id": "sport-124",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Au golf, comment appelle-t-on un trou réalisé en un coup de moins que le par ?",
       "answer": "birdie",
       "accept": [],
@@ -688,7 +688,7 @@
     },
     {
       "id": "sport-126",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Combien de trous compte un parcours de golf standard ?",
       "answer": "18",
       "accept": [
@@ -766,7 +766,7 @@
     },
     {
       "id": "sport-131",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Combien de joueurs, gardien compris, une équipe aligne-t-elle sur le terrain au handball ?",
       "answer": "sept",
       "accept": [
@@ -902,7 +902,7 @@
     },
     {
       "id": "sport-140",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle ville de Guadeloupe arrive la Route du Rhum, partie de Saint-Malo ?",
       "answer": "Pointe-à-Pitre",
       "accept": [],
@@ -916,7 +916,7 @@
     },
     {
       "id": "sport-141",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "De quel port vendéen part et arrive le Vendée Globe, tour du monde à la voile en solitaire ?",
       "answer": "Les Sables-d'Olonne",
       "accept": [
@@ -990,7 +990,7 @@
     },
     {
       "id": "sport-146",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville a accueilli en 1980 les Jeux olympiques boycottés par les États-Unis ?",
       "answer": "Moscou",
       "accept": [],
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "sport-147",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel agrès de gymnastique masculine comporte deux poignées sur lesquelles le gymnaste prend appui ?",
       "answer": "cheval d'arçons",
       "accept": [
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "sport-152",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel sherpa népalais accompagnait Edmund Hillary lors de la première ascension de l'Everest en 1953 ?",
       "answer": "Tenzing Norgay",
       "accept": [
@@ -1296,7 +1296,7 @@
     },
     {
       "id": "sport-166",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel sport consiste à rallier une série de balises dans la nature à l'aide d'une carte et d'une boussole ?",
       "answer": "course d'orientation",
       "accept": [
@@ -1343,7 +1343,7 @@
     },
     {
       "id": "sport-169",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel nom porte le penalty tiré en pichenette au centre du but, d'après un joueur tchécoslovaque ?",
       "answer": "panenka",
       "accept": [],
@@ -1371,7 +1371,7 @@
     },
     {
       "id": "sport-171",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel gardien soviétique, toujours vêtu de noir, était surnommé « l'Araignée noire » ?",
       "answer": "Lev Yachine",
       "accept": [
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "sport-177",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville espagnole se joua en 1982 la demi-finale France-RFA, marquée par la brutale agression de Battiston ?",
       "answer": "Séville",
       "accept": [
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "sport-179",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle compétition, créée en 1871, est la plus ancienne coupe de football au monde ?",
       "answer": "FA Cup",
       "accept": [
@@ -1530,7 +1530,7 @@
     },
     {
       "id": "sport-181",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel ailier nord-irlandais de Manchester United fut surnommé « le cinquième Beatles » ?",
       "answer": "George Best",
       "accept": [
@@ -1546,7 +1546,7 @@
     },
     {
       "id": "sport-182",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel footballeur français d'origine polonaise fut, en 1958, le premier Français lauréat du Ballon d'or ?",
       "answer": "Raymond Kopa",
       "accept": [
@@ -1562,7 +1562,7 @@
     },
     {
       "id": "sport-183",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle variante à effectif réduit du ballon ovale est devenue discipline olympique aux Jeux de Rio de 2016 ?",
       "answer": "rugby à sept",
       "accept": [
@@ -1625,7 +1625,7 @@
     },
     {
       "id": "sport-187",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel troisième ligne du XV de France, à la crinière blonde, était surnommé « Casque d'or » ?",
       "answer": "Jean-Pierre Rives",
       "accept": [
@@ -1657,7 +1657,7 @@
     },
     {
       "id": "sport-189",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel mot anglais désigne au tennis l'égalité à 40 partout ?",
       "answer": "deuce",
       "accept": [],
@@ -1671,7 +1671,7 @@
     },
     {
       "id": "sport-190",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quel quartier de New York, situé dans le Queens, se dispute l'US Open de tennis ?",
       "answer": "Flushing Meadows",
       "accept": [],
@@ -1701,7 +1701,7 @@
     },
     {
       "id": "sport-192",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel nom porte le court central du stade de Roland-Garros ?",
       "answer": "Philippe-Chatrier",
       "accept": [
@@ -1751,7 +1751,7 @@
     },
     {
       "id": "sport-195",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel joueur australien a donné son nom au court central de l'Open d'Australie ?",
       "answer": "Rod Laver",
       "accept": [
@@ -1783,7 +1783,7 @@
     },
     {
       "id": "sport-197",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel joueur afro-américain, premier Noir vainqueur de Wimbledon, a donné son nom au court central de l'US Open ?",
       "answer": "Arthur Ashe",
       "accept": [
@@ -1861,7 +1861,7 @@
     },
     {
       "id": "sport-202",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel champion cycliste italien a été reconnu Juste parmi les nations pour avoir aidé des Juifs pendant la guerre ?",
       "answer": "Gino Bartali",
       "accept": [
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "sport-203",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle classique cycliste italienne de printemps est surnommée « la Primavera » ?",
       "answer": "Milan-San Remo",
       "accept": [
@@ -1907,7 +1907,7 @@
     },
     {
       "id": "sport-205",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on le triangle suspendu au-dessus de la route qui signale le dernier kilomètre d'une course cycliste ?",
       "answer": "flamme rouge",
       "accept": [],
@@ -1937,7 +1937,7 @@
     },
     {
       "id": "sport-207",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel coureur américain a battu Laurent Fignon pour huit secondes lors du Tour de France 1989 ?",
       "answer": "Greg LeMond",
       "accept": [
@@ -1970,7 +1970,7 @@
     },
     {
       "id": "sport-209",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel Américain réussit un saut en longueur légendaire de 8,90 mètres aux Jeux de Mexico en 1968 ?",
       "answer": "Bob Beamon",
       "accept": [
@@ -1986,7 +1986,7 @@
     },
     {
       "id": "sport-210",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel étudiant britannique fut le premier à courir le mile en moins de quatre minutes, en 1954 ?",
       "answer": "Roger Bannister",
       "accept": [
@@ -2032,7 +2032,7 @@
     },
     {
       "id": "sport-213",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel nageur américain remporta sept médailles d'or aux Jeux de Munich en 1972 ?",
       "answer": "Mark Spitz",
       "accept": [
@@ -2108,7 +2108,7 @@
     },
     {
       "id": "sport-218",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel hockeyeur canadien est surnommé « la Merveille » ou « The Great One » ?",
       "answer": "Wayne Gretzky",
       "accept": [
@@ -2140,7 +2140,7 @@
     },
     {
       "id": "sport-220",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sauteur à ski britannique, piètre mais très populaire aux Jeux de Calgary, était surnommé « l'Aigle » ?",
       "answer": "Eddie Edwards",
       "accept": [
@@ -2243,7 +2243,7 @@
     },
     {
       "id": "sport-227",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel astronaute américain a frappé des balles de golf sur la Lune en 1971 ?",
       "answer": "Alan Shepard",
       "accept": [
@@ -2307,7 +2307,7 @@
     },
     {
       "id": "sport-231",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appelle la série de tests de cricket entre l'Angleterre et l'Australie, symbolisée par une petite urne ?",
       "answer": "Ashes",
       "accept": [
@@ -2383,7 +2383,7 @@
     },
     {
       "id": "sport-236",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel motard français créa le rallye Paris-Dakar après s'être perdu dans le désert libyen ?",
       "answer": "Thierry Sabine",
       "accept": [
@@ -2399,7 +2399,7 @@
     },
     {
       "id": "sport-237",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle boisson le vainqueur des 500 miles d'Indianapolis boit-il traditionnellement sur le podium ?",
       "answer": "lait",
       "accept": [],
@@ -2459,7 +2459,7 @@
     },
     {
       "id": "sport-241",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle race de chevaux, aux robes généralement blanches, se produit à l'École espagnole d'équitation de Vienne ?",
       "answer": "lipizzan",
       "accept": [
@@ -2538,7 +2538,7 @@
     },
     {
       "id": "sport-246",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle embarcation se manœuvre avec une pagaie double, contrairement au canoë ?",
       "answer": "kayak",
       "accept": [],
@@ -2552,7 +2552,7 @@
     },
     {
       "id": "sport-247",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle devise latine du mouvement olympique signifie « plus vite, plus haut, plus fort » ?",
       "answer": "Citius, Altius, Fortius",
       "accept": [
@@ -2596,7 +2596,7 @@
     },
     {
       "id": "sport-250",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle épreuve de traction où deux équipes tirent en sens opposé figura au programme olympique jusqu'en 1920 ?",
       "answer": "tir à la corde",
       "accept": [],
@@ -2626,7 +2626,7 @@
     },
     {
       "id": "sport-252",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appelle le billard français qui se joue à trois billes sur une table sans poches ?",
       "answer": "carambole",
       "accept": [
@@ -2684,7 +2684,7 @@
     },
     {
       "id": "sport-256",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle épreuve d'athlétisme enchaîne un cloche-pied, une foulée bondissante et un dernier bond dans le sable ?",
       "answer": "triple saut",
       "accept": [],
@@ -3088,7 +3088,7 @@
     },
     {
       "id": "sport-282",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le grade suprême d'un lutteur de sumo ?",
       "answer": "yokozuna",
       "accept": [],
@@ -3253,7 +3253,7 @@
     },
     {
       "id": "sport-293",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel jeu équestre afghan consiste à s'emparer d'une carcasse de chèvre pour la déposer dans un cercle ?",
       "answer": "bouzkachi",
       "accept": [
@@ -3313,7 +3313,7 @@
     },
     {
       "id": "sport-297",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Dans quelle prestigieuse université parisienne se tint en 1894 le congrès qui rénova les Jeux olympiques ?",
       "answer": "Sorbonne",
       "accept": [],

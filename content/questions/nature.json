@@ -19,7 +19,7 @@
   },
   {
    "id": "nature-002",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Comment appelle-t-on le cri puissant que pousse le cerf pendant la saison des amours ?",
    "answer": "brame",
    "accept": [
@@ -289,7 +289,7 @@
   },
   {
    "id": "nature-019",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel est le plus grand poisson actuel, un géant inoffensif qui filtre le plancton ?",
    "answer": "requin-baleine",
    "accept": [
@@ -305,7 +305,7 @@
   },
   {
    "id": "nature-020",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel mammifère semi-aquatique d'Australie, au bec de canard, pond des œufs ?",
    "answer": "ornithorynque",
    "accept": [],
@@ -319,7 +319,7 @@
   },
   {
    "id": "nature-021",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Comment appelle-t-on le stade immobile qui sépare la chenille du papillon adulte ?",
    "answer": "chrysalide",
    "accept": [
@@ -365,7 +365,7 @@
   },
   {
    "id": "nature-024",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel champignon toxique, au chapeau rouge vif parsemé de flocons blancs, illustre souvent les contes ?",
    "answer": "amanite tue-mouches",
    "accept": [
@@ -429,7 +429,7 @@
   },
   {
    "id": "nature-028",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel cétacé de l'Arctique porte une longue défense torsadée, qui a nourri la légende de la licorne ?",
    "answer": "narval",
    "accept": [],
@@ -510,7 +510,7 @@
   },
   {
    "id": "nature-033",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel rapace devient l'animal le plus rapide du monde lorsqu'il fond en piqué sur ses proies ?",
    "answer": "faucon pèlerin",
    "accept": [
@@ -575,7 +575,7 @@
   },
   {
    "id": "nature-037",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel conifère des montagnes européennes perd toutes ses aiguilles chaque automne ?",
    "answer": "mélèze",
    "accept": [
@@ -591,7 +591,7 @@
   },
   {
    "id": "nature-038",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel papillon de nuit, domestiqué en Chine depuis des millénaires, file un cocon dont on tire la soie ?",
    "answer": "bombyx",
    "accept": [
@@ -655,7 +655,7 @@
   },
   {
    "id": "nature-042",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel arbre, surnommé « arbre aux quarante écus », est considéré comme un fossile vivant ?",
    "answer": "ginkgo",
    "accept": [
@@ -726,7 +726,7 @@
   },
   {
    "id": "nature-046",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Comment appelle-t-on la femelle du lièvre, dont les petits sont des levrauts ?",
    "answer": "hase",
    "accept": [],
@@ -740,7 +740,7 @@
   },
   {
    "id": "nature-047",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Chez quel poisson marin est-ce le mâle qui porte les œufs dans une poche ventrale jusqu'à la naissance ?",
    "answer": "hippocampe",
    "accept": [
@@ -834,7 +834,7 @@
   },
   {
    "id": "nature-053",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quelle plante carnivore referme ses feuilles en mâchoires dentées sur les insectes qui les effleurent ?",
    "answer": "dionée",
    "accept": [
@@ -851,7 +851,7 @@
   },
   {
    "id": "nature-054",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quel marsupial d'Australie se nourrit presque exclusivement des feuilles d'eucalyptus et dort jusqu'à vingt heures par jour ?",
    "answer": "koala",
    "accept": [
@@ -883,7 +883,7 @@
   },
   {
    "id": "nature-056",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "À quelle classe d'arthropodes appartiennent à la fois les araignées, les scorpions et les acariens ?",
    "answer": "arachnides",
    "accept": [
@@ -917,7 +917,7 @@
   },
   {
    "id": "nature-058",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quel oiseau de l'Antarctique, le plus grand des Sphéniscidés, couve son œuf sur ses pattes en plein hiver polaire ?",
    "answer": "manchot empereur",
    "accept": [],
@@ -931,7 +931,7 @@
   },
   {
    "id": "nature-059",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel animal microscopique, surnommé « ourson d'eau », a survécu à une exposition au vide spatial ?",
    "answer": "tardigrade",
    "accept": [
@@ -947,7 +947,7 @@
   },
   {
    "id": "nature-060",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel amphibien mexicain conserve toute sa vie ses branchies externes et son aspect de larve ?",
    "answer": "axolotl",
    "accept": [],
@@ -961,7 +961,7 @@
   },
   {
    "id": "nature-061",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel mammifère des forêts du Congo, aux pattes rayées de blanc, est le plus proche parent vivant de la girafe ?",
    "answer": "okapi",
    "accept": [],
@@ -1056,7 +1056,7 @@
   },
   {
    "id": "nature-067",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Comment appelle-t-on la vague qui remonte certains fleuves, comme la Dordogne, lors des grandes marées ?",
    "answer": "mascaret",
    "accept": [
@@ -1088,7 +1088,7 @@
   },
   {
    "id": "nature-069",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel moustique transmet à l'homme le parasite responsable du paludisme ?",
    "answer": "anophèle",
    "accept": [
@@ -1136,7 +1136,7 @@
   },
   {
    "id": "nature-072",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Le ver luisant, qui brille l'été dans l'herbe, est en réalité la femelle de quel type d'insecte ?",
    "answer": "coléoptère",
    "accept": [
@@ -1200,7 +1200,7 @@
   },
   {
    "id": "nature-076",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quel est le plus long serpent venimeux du monde, qui se nourrit principalement d'autres serpents ?",
    "answer": "cobra royal",
    "accept": [
@@ -1319,7 +1319,7 @@
   },
   {
    "id": "nature-083",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quel est le plus grand des chéloniens marins, dont la carapace souple est recouverte d'une peau coriace ?",
    "answer": "tortue luth",
    "accept": [
@@ -1335,7 +1335,7 @@
   },
   {
    "id": "nature-084",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Dans quelle région de l'Atlantique Nord les anguilles d'Europe partent-elles se reproduire ?",
    "answer": "mer des Sargasses",
    "accept": [
@@ -1433,7 +1433,7 @@
   },
   {
    "id": "nature-090",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Comment appelle-t-on la poche ventrale dans laquelle la femelle kangourou porte et allaite son petit ?",
    "answer": "marsupium",
    "accept": [

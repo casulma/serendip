@@ -34,7 +34,7 @@
     },
     {
       "id": "mythologie-003",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel héros athénien tua le Minotaure dans le labyrinthe de Crète ?",
       "answer": "Thésée",
       "accept": [],
@@ -65,7 +65,7 @@
     },
     {
       "id": "mythologie-005",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel Titan déroba le feu aux dieux pour l'offrir aux hommes ?",
       "answer": "Prométhée",
       "accept": [],
@@ -93,7 +93,7 @@
     },
     {
       "id": "mythologie-007",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel musicien descendit aux Enfers pour ramener son épouse Eurydice ?",
       "answer": "Orphée",
       "accept": [],
@@ -227,7 +227,7 @@
     },
     {
       "id": "mythologie-016",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel dieu égyptien à tête de chacal présidait à l'embaumement des morts ?",
       "answer": "Anubis",
       "accept": [],
@@ -287,7 +287,7 @@
     },
     {
       "id": "mythologie-020",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle fête celte de fin octobre, marquant le début de l'année, est souvent présentée comme l'ancêtre d'Halloween ?",
       "answer": "Samain",
       "accept": [
@@ -348,7 +348,7 @@
     },
     {
       "id": "mythologie-024",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel dieu hindou à tête d'éléphant est invoqué pour lever les obstacles ?",
       "answer": "Ganesh",
       "accept": [
@@ -383,7 +383,7 @@
     },
     {
       "id": "mythologie-026",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel dieu-singe hindou est le fidèle allié de Rama dans le Ramayana ?",
       "answer": "Hanuman",
       "accept": [
@@ -416,7 +416,7 @@
     },
     {
       "id": "mythologie-028",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel dieu aztèque est appelé le Serpent à plumes ?",
       "answer": "Quetzalcoatl",
       "accept": [
@@ -608,7 +608,7 @@
     },
     {
       "id": "mythologie-040",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Sous quel arbre Siddhartha Gautama atteignit-il l'Éveil, selon la tradition bouddhique ?",
       "answer": "figuier",
       "accept": [
@@ -694,7 +694,7 @@
     },
     {
       "id": "mythologie-045",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle croix égyptienne surmontée d'une boucle symbolisait la vie ?",
       "answer": "ânkh",
       "accept": [

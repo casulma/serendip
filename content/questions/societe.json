@@ -115,7 +115,7 @@
   },
   {
    "id": "societe-008",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Comment s'appelle la banque centrale des États-Unis, souvent surnommée « la Fed » ?",
    "answer": "Réserve fédérale",
    "accept": [
@@ -279,7 +279,7 @@
   },
   {
    "id": "societe-018",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel philosophe français a théorisé la séparation des pouvoirs dans De l'esprit des lois ?",
    "answer": "Montesquieu",
    "accept": [],
@@ -326,7 +326,7 @@
   },
   {
    "id": "societe-021",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quel numéro porte le régime républicain instauré en France en 1958 ?",
    "answer": "cinquième",
    "accept": [
@@ -470,7 +470,7 @@
   },
   {
    "id": "societe-030",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel économiste britannique a prôné l'intervention de l'État pour relancer la demande face à la crise des années 1930 ?",
    "answer": "John Maynard Keynes",
    "accept": [
@@ -486,7 +486,7 @@
   },
   {
    "id": "societe-031",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Comment appelle-t-on une situation de marché où une seule entreprise est l'unique vendeur d'un bien ?",
    "answer": "monopole",
    "accept": [],
@@ -500,7 +500,7 @@
   },
   {
    "id": "societe-032",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Comment se nommait la monnaie de la République fédérale d'Allemagne avant l'euro ?",
    "answer": "Deutsche Mark",
    "accept": [
@@ -569,7 +569,7 @@
   },
   {
    "id": "societe-036",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quel nom, issu du théologien Robert de Sorbon, désigne l'ancienne université de Paris ?",
    "answer": "Sorbonne",
    "accept": [
@@ -601,7 +601,7 @@
   },
   {
    "id": "societe-038",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quel principe, consacré par la loi de 1905, garantit la neutralité de l'État envers les religions ?",
    "answer": "laïcité",
    "accept": [
@@ -633,7 +633,7 @@
   },
   {
    "id": "societe-040",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quelle entreprise clermontoise de pneumatiques a créé un célèbre guide gastronomique décernant des étoiles ?",
    "answer": "Michelin",
    "accept": [],

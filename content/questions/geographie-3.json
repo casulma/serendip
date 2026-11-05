@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "geographie-361",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville nouvelle, conçue par l'urbaniste Lúcio Costa et l'architecte Oscar Niemeyer, est la capitale du Brésil ?",
       "answer": "Brasilia",
       "accept": [
@@ -19,7 +19,7 @@
     },
     {
       "id": "geographie-362",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville d'Anatolie centrale Mustafa Kemal choisit-il comme capitale de la Turquie, à la place d'Istanbul ?",
       "answer": "Ankara",
       "accept": [],
@@ -33,7 +33,7 @@
     },
     {
       "id": "geographie-363",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville, située à la pointe sud de l'île du Nord, est la capitale de la Nouvelle-Zélande ?",
       "answer": "Wellington",
       "accept": [],
@@ -47,7 +47,7 @@
     },
     {
       "id": "geographie-364",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville de la côte atlantique, à l'embouchure du Bouregreg, est la capitale du Maroc ?",
       "answer": "Rabat",
       "accept": [],
@@ -61,7 +61,7 @@
     },
     {
       "id": "geographie-365",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville, construite au centre du pays, a remplacé Lagos comme capitale du Nigeria ?",
       "answer": "Abuja",
       "accept": [],
@@ -75,7 +75,7 @@
     },
     {
       "id": "geographie-366",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "La Paz abrite le gouvernement bolivien, mais quelle ville est la capitale constitutionnelle de la Bolivie ?",
       "answer": "Sucre",
       "accept": [],
@@ -89,7 +89,7 @@
     },
     {
       "id": "geographie-367",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville natale de Félix Houphouët-Boigny est devenue la capitale officielle de la Côte d'Ivoire ?",
       "answer": "Yamoussoukro",
       "accept": [],
@@ -103,7 +103,7 @@
     },
     {
       "id": "geographie-368",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle capitale d'Afrique de l'Est, perchée sur les hauts plateaux, accueille le siège de l'Union africaine ?",
       "answer": "Addis-Abeba",
       "accept": [
@@ -120,7 +120,7 @@
     },
     {
       "id": "geographie-369",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle capitale d'Amérique du Sud Francisco Pizarro fonda-t-il sous le nom de « Cité des Rois » ?",
       "answer": "Lima",
       "accept": [],
@@ -162,7 +162,7 @@
     },
     {
       "id": "geographie-372",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle capitale d'Afrique de l'Ouest abrite la pointe des Almadies, extrémité occidentale du continent ?",
       "answer": "Dakar",
       "accept": [],
@@ -310,7 +310,7 @@
     },
     {
       "id": "geographie-382",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle ville indienne se trouve le cœur de l'industrie cinématographique surnommée Bollywood ?",
       "answer": "Bombay",
       "accept": [
@@ -326,7 +326,7 @@
     },
     {
       "id": "geographie-383",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville du Rajasthan est surnommée « la ville rose » pour la couleur de ses façades ?",
       "answer": "Jaipur",
       "accept": [],
@@ -340,7 +340,7 @@
     },
     {
       "id": "geographie-384",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville du nord du Maroc, nichée dans le Rif, est célèbre pour ses ruelles peintes en bleu ?",
       "answer": "Chefchaouen",
       "accept": [
@@ -356,7 +356,7 @@
     },
     {
       "id": "geographie-385",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville marocaine abrite l'université al-Quaraouiyine, souvent présentée comme la plus ancienne encore en activité ?",
       "answer": "Fès",
       "accept": [
@@ -386,7 +386,7 @@
     },
     {
       "id": "geographie-387",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle cité-État d'Asie du Sud-Est doit son nom à un mot sanskrit signifiant « la ville du lion » ?",
       "answer": "Singapour",
       "accept": [
@@ -402,7 +402,7 @@
     },
     {
       "id": "geographie-388",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle capitale asiatique se dressent les tours jumelles Petronas ?",
       "answer": "Kuala Lumpur",
       "accept": [],
@@ -446,7 +446,7 @@
     },
     {
       "id": "geographie-391",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville fut la capitale impériale du Japon pendant plus de mille ans, jusqu'au transfert de la cour à Tokyo ?",
       "answer": "Kyoto",
       "accept": [],
@@ -460,7 +460,7 @@
     },
     {
       "id": "geographie-392",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Sous quel nom la ville de Tokyo était-elle connue avant que l'empereur Meiji ne s'y installe ?",
       "answer": "Edo",
       "accept": [
@@ -490,7 +490,7 @@
     },
     {
       "id": "geographie-394",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Près de quelle ville chinoise fut découverte en 1974 l'armée de terre cuite du premier empereur ?",
       "answer": "Xi'an",
       "accept": [
@@ -520,7 +520,7 @@
     },
     {
       "id": "geographie-396",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville iranienne, ancienne capitale des Séfévides, est surnommée « la moitié du monde » ?",
       "answer": "Ispahan",
       "accept": [],
@@ -564,7 +564,7 @@
     },
     {
       "id": "geographie-399",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville indienne abrite le Temple d'or, principal sanctuaire des sikhs ?",
       "answer": "Amritsar",
       "accept": [],
@@ -669,7 +669,7 @@
     },
     {
       "id": "geographie-406",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville canadienne, la plus grande du pays, est la capitale de la province de l'Ontario ?",
       "answer": "Toronto",
       "accept": [],
@@ -729,7 +729,7 @@
     },
     {
       "id": "geographie-410",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville argentine de la Terre de Feu se présente comme la ville la plus australe du monde ?",
       "answer": "Ushuaïa",
       "accept": [
@@ -745,7 +745,7 @@
     },
     {
       "id": "geographie-411",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel temple de Ramsès II fut découpé en blocs et déplacé pour échapper à la montée des eaux du lac Nasser ?",
       "answer": "Abou Simbel",
       "accept": [],
@@ -759,7 +759,7 @@
     },
     {
       "id": "geographie-412",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Sur quel plateau, près du Caire, se dressent les trois grandes pyramides et le Sphinx ?",
       "answer": "Gizeh",
       "accept": [
@@ -790,7 +790,7 @@
     },
     {
       "id": "geographie-414",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel pays d'Afrique australe doit son nom à une cité médiévale de pierre dont les ruines se trouvent sur son territoire ?",
       "answer": "Zimbabwe",
       "accept": [],
@@ -818,7 +818,7 @@
     },
     {
       "id": "geographie-416",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pays d'Afrique du Nord abrite les ruines de Carthage ?",
       "answer": "Tunisie",
       "accept": [],
@@ -832,7 +832,7 @@
     },
     {
       "id": "geographie-417",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quel pays se trouvent les ruines de Babylone, la cité de Nabuchodonosor ?",
       "answer": "Irak",
       "accept": [
@@ -876,7 +876,7 @@
     },
     {
       "id": "geographie-420",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel palais de Lhassa, perché sur une colline, fut la résidence d'hiver des dalaï-lamas ?",
       "answer": "Potala",
       "accept": [
@@ -892,7 +892,7 @@
     },
     {
       "id": "geographie-421",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel temple de Kyoto, aux étages recouverts de feuilles d'or, se reflète dans un étang ?",
       "answer": "Kinkaku-ji",
       "accept": [
@@ -939,7 +939,7 @@
     },
     {
       "id": "geographie-424",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle cité précolombienne proche de Mexico abrite les pyramides du Soleil et de la Lune ?",
       "answer": "Teotihuacan",
       "accept": [
@@ -972,7 +972,7 @@
     },
     {
       "id": "geographie-426",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Sur quelle montagne du Dakota du Sud sont sculptés les visages de quatre présidents américains ?",
       "answer": "Rushmore",
       "accept": [
@@ -1002,7 +1002,7 @@
     },
     {
       "id": "geographie-428",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel pays d'Afrique de l'Est doit son nom à la deuxième plus haute montagne du continent ?",
       "answer": "Kenya",
       "accept": [],
@@ -1016,7 +1016,7 @@
     },
     {
       "id": "geographie-429",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel parc national de Tanzanie est célèbre pour la grande migration annuelle des gnous et des zèbres ?",
       "answer": "Serengeti",
       "accept": [],
@@ -1030,7 +1030,7 @@
     },
     {
       "id": "geographie-430",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel fleuve d'Afrique australe forme un vaste delta intérieur au Botswana sans jamais atteindre la mer ?",
       "answer": "Okavango",
       "accept": [],
@@ -1044,7 +1044,7 @@
     },
     {
       "id": "geographie-431",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle vaste étendue d'eau d'Afrique de l'Est, la plus grande du continent, est considérée comme la source du Nil Blanc ?",
       "answer": "lac Victoria",
       "accept": [
@@ -1106,7 +1106,7 @@
     },
     {
       "id": "geographie-435",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville le Nil Blanc et le Nil Bleu se rejoignent-ils pour former le Nil ?",
       "answer": "Khartoum",
       "accept": [],
@@ -1150,7 +1150,7 @@
     },
     {
       "id": "geographie-438",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sommet de l'Atlas marocain est le point culminant de l'Afrique du Nord ?",
       "answer": "Toubkal",
       "accept": [
@@ -1218,7 +1218,7 @@
     },
     {
       "id": "geographie-442",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel promontoire d'Afrique du Sud est le véritable point le plus méridional du continent africain ?",
       "answer": "cap des Aiguilles",
       "accept": [
@@ -1235,7 +1235,7 @@
     },
     {
       "id": "geographie-443",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle péninsule triangulaire, entre l'Afrique et l'Asie, sépare le golfe de Suez du golfe d'Aqaba ?",
       "answer": "Sinaï",
       "accept": [],
@@ -1249,7 +1249,7 @@
     },
     {
       "id": "geographie-444",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pays d'Afrique est surnommé « le pays des mille collines » ?",
       "answer": "Rwanda",
       "accept": [],
@@ -1367,7 +1367,7 @@
     },
     {
       "id": "geographie-452",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel peuple nomade du Sahara est surnommé « les hommes bleus » à cause de la teinture de leur chèche ?",
       "answer": "Touaregs",
       "accept": [
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "geographie-453",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel peuple d'éleveurs du Kenya et de la Tanzanie est reconnaissable à ses étoffes rouges et à ses sauts de guerriers ?",
       "answer": "Massaïs",
       "accept": [
@@ -1401,7 +1401,7 @@
     },
     {
       "id": "geographie-454",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel immense désert de sable du sud de la péninsule Arabique est surnommé « le quart vide » ?",
       "answer": "Rub al-Khali",
       "accept": [
@@ -1463,7 +1463,7 @@
     },
     {
       "id": "geographie-458",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Sur quel mont de l'est de la Turquie la Bible fait-elle échouer l'arche de Noé ?",
       "answer": "Ararat",
       "accept": [
@@ -1493,7 +1493,7 @@
     },
     {
       "id": "geographie-460",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel arbre figure au centre du drapeau du Liban ?",
       "answer": "cèdre",
       "accept": [
@@ -1551,7 +1551,7 @@
     },
     {
       "id": "geographie-464",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Sous quel nom la Thaïlande était-elle connue jusqu'en 1939 ?",
       "answer": "Siam",
       "accept": [],
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "geographie-465",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Sous quel nom l'île de Sri Lanka était-elle connue jusqu'en 1972 ?",
       "answer": "Ceylan",
       "accept": [],
@@ -1579,7 +1579,7 @@
     },
     {
       "id": "geographie-466",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel était le nom de la ville de Hô Chi Minh-Ville avant 1976 ?",
       "answer": "Saïgon",
       "accept": [
@@ -1609,7 +1609,7 @@
     },
     {
       "id": "geographie-468",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pays est surnommé « le pays du Matin calme » ?",
       "answer": "Corée",
       "accept": [
@@ -1625,7 +1625,7 @@
     },
     {
       "id": "geographie-469",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel royaume himalayen est surnommé « le pays du Dragon tonnerre » ?",
       "answer": "Bhoutan",
       "accept": [],
@@ -1639,7 +1639,7 @@
     },
     {
       "id": "geographie-470",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pays possède le seul drapeau national qui ne soit ni carré ni rectangulaire, formé de deux triangles ?",
       "answer": "Népal",
       "accept": [],
@@ -1681,7 +1681,7 @@
     },
     {
       "id": "geographie-473",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quel pays se trouve le cosmodrome de Baïkonour, d'où décolla Youri Gagarine ?",
       "answer": "Kazakhstan",
       "accept": [],
@@ -1711,7 +1711,7 @@
     },
     {
       "id": "geographie-475",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ligne de latitude sert approximativement de frontière entre la Corée du Nord et la Corée du Sud ?",
       "answer": "38e parallèle",
       "accept": [
@@ -1727,7 +1727,7 @@
     },
     {
       "id": "geographie-476",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel site du nord du Viêt Nam est célèbre pour ses milliers de pitons calcaires surgissant de la mer ?",
       "answer": "baie d'Along",
       "accept": [
@@ -1745,7 +1745,7 @@
     },
     {
       "id": "geographie-477",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel grand fleuve d'Asie du Sud-Est forme un immense delta dans le sud du Viêt Nam ?",
       "answer": "Mékong",
       "accept": [
@@ -1824,7 +1824,7 @@
     },
     {
       "id": "geographie-482",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel sommet du Karakoram est le deuxième plus haut du monde ?",
       "answer": "K2",
       "accept": [],
@@ -1852,7 +1852,7 @@
     },
     {
       "id": "geographie-484",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sommet de l'Himalaya fut, en 1950, le premier « huit mille » gravi, par l'expédition française de Maurice Herzog ?",
       "answer": "Annapurna",
       "accept": [],
@@ -1898,7 +1898,7 @@
     },
     {
       "id": "geographie-487",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle est la plus grande des quatre îles principales de l'archipel japonais, où se trouvent Tokyo et Kyoto ?",
       "answer": "Honshū",
       "accept": [
@@ -1915,7 +1915,7 @@
     },
     {
       "id": "geographie-488",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ancienne capitale japonaise est célèbre pour les cerfs sika en liberté qui circulent dans son grand parc ?",
       "answer": "Nara",
       "accept": [],
@@ -1991,7 +1991,7 @@
     },
     {
       "id": "geographie-493",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel pays d'Océanie, avec plusieurs centaines de langues, possède la plus grande diversité linguistique du monde ?",
       "answer": "Papouasie-Nouvelle-Guinée",
       "accept": [],
@@ -2019,7 +2019,7 @@
     },
     {
       "id": "geographie-495",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle étendue d'eau fermée, bordée notamment par la Russie, l'Iran et le Kazakhstan, est le plus grand lac du monde ?",
       "answer": "mer Caspienne",
       "accept": [
@@ -2035,7 +2035,7 @@
     },
     {
       "id": "geographie-496",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville du Tennessee, capitale de la musique country, est surnommée « Music City » ?",
       "answer": "Nashville",
       "accept": [],
@@ -2049,7 +2049,7 @@
     },
     {
       "id": "geographie-497",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle langue est la plus parlée en Inde, à côté de l'anglais utilisé par l'administration fédérale ?",
       "answer": "hindi",
       "accept": [],
@@ -2079,7 +2079,7 @@
     },
     {
       "id": "geographie-499",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quel pays d'Amérique du Sud le néerlandais est-il la langue officielle ?",
       "answer": "Suriname",
       "accept": [
@@ -2123,7 +2123,7 @@
     },
     {
       "id": "geographie-502",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pays d'Amérique du Sud doit son nom à des villages sur pilotis rappelant la cité des Doges ?",
       "answer": "Venezuela",
       "accept": [],
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "geographie-503",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle chute d'eau du Venezuela est la plus haute du monde ?",
       "answer": "Salto Ángel",
       "accept": [
@@ -2169,7 +2169,7 @@
     },
     {
       "id": "geographie-505",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pays d'Amérique du Sud porte le nom du Libertador qui l'affranchit de l'Espagne ?",
       "answer": "Bolivie",
       "accept": [],
@@ -2243,7 +2243,7 @@
     },
     {
       "id": "geographie-510",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel archipel doit son nom aux nombreux feux allumés par les Amérindiens qu'aperçut l'équipage de Magellan ?",
       "answer": "Terre de Feu",
       "accept": [],
@@ -2271,7 +2271,7 @@
     },
     {
       "id": "geographie-512",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sommet des Andes argentines est le point culminant des Amériques ?",
       "answer": "Aconcagua",
       "accept": [],
@@ -2406,7 +2406,7 @@
     },
     {
       "id": "geographie-521",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel pays d'Amérique centrale a aboli son armée en 1948 ?",
       "answer": "Costa Rica",
       "accept": [],
@@ -2528,7 +2528,7 @@
     },
     {
       "id": "geographie-529",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel fleuve a creusé le Grand Canyon, en Arizona ?",
       "answer": "Colorado",
       "accept": [],
@@ -2616,7 +2616,7 @@
     },
     {
       "id": "geographie-535",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel parc américain, créé en 1872, est considéré comme le plus ancien parc national du monde ?",
       "answer": "Yellowstone",
       "accept": [],
@@ -2630,7 +2630,7 @@
     },
     {
       "id": "geographie-536",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quel État américain se trouve le parc national de Yosemite, célèbre pour ses falaises de granite ?",
       "answer": "Californie",
       "accept": [],
@@ -2674,7 +2674,7 @@
     },
     {
       "id": "geographie-539",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel volcan d'Hawaï, l'un des plus actifs du monde, serait la demeure de la déesse Pelé ?",
       "answer": "Kīlauea",
       "accept": [
@@ -2704,7 +2704,7 @@
     },
     {
       "id": "geographie-541",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel volcan de l'État de Washington perdit son sommet lors d'une éruption latérale en 1980 ?",
       "answer": "mont Saint Helens",
       "accept": [
@@ -2737,7 +2737,7 @@
     },
     {
       "id": "geographie-543",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel axe mythique, surnommé « Mother Road », reliait autrefois Chicago à Los Angeles ?",
       "answer": "Route 66",
       "accept": [
@@ -2888,7 +2888,7 @@
     },
     {
       "id": "geographie-553",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel monolithe de grès rouge, sacré pour les Aborigènes, se dresse au centre de l'Australie ?",
       "answer": "Uluru",
       "accept": [
@@ -2920,7 +2920,7 @@
     },
     {
       "id": "geographie-555",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle ville du Territoire du Nord australien porte le nom du naturaliste auteur de L'Origine des espèces ?",
       "answer": "Darwin",
       "accept": [],
@@ -2981,7 +2981,7 @@
     },
     {
       "id": "geographie-559",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle mer sépare l'Australie de la Nouvelle-Zélande ?",
       "answer": "mer de Tasman",
       "accept": [
@@ -3042,7 +3042,7 @@
     },
     {
       "id": "geographie-563",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle région d'Océanie, dont le nom signifie « nombreuses îles », forme un triangle entre Hawaï, la Nouvelle-Zélande et l'île de Pâques ?",
       "answer": "Polynésie",
       "accept": [],
@@ -3135,7 +3135,7 @@
     },
     {
       "id": "geographie-569",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle mégalopole chinoise est célèbre pour son quai du Bund, bordé d'édifices coloniaux face aux gratte-ciel de Pudong ?",
       "answer": "Shanghai",
       "accept": [
@@ -3151,7 +3151,7 @@
     },
     {
       "id": "geographie-570",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle mer doit son nom au peuple amérindien qui occupait les Petites Antilles à l'arrivée de Colomb ?",
       "answer": "mer des Caraïbes",
       "accept": [
@@ -3200,7 +3200,7 @@
     },
     {
       "id": "geographie-573",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel détroit d'Asie du Sud-Est, entre la péninsule malaise et Sumatra, est l'une des routes maritimes les plus fréquentées ?",
       "answer": "Malacca",
       "accept": [
@@ -3249,7 +3249,7 @@
     },
     {
       "id": "geographie-576",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel explorateur norvégien atteignit le premier le pôle Sud, en décembre 1911 ?",
       "answer": "Roald Amundsen",
       "accept": [
@@ -3265,7 +3265,7 @@
     },
     {
       "id": "geographie-577",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle immense étendue d'eau subglaciaire de l'Antarctique, enfouie sous près de quatre kilomètres de glace, porte le nom d'une station russe ?",
       "answer": "Vostok",
       "accept": [
@@ -3343,7 +3343,7 @@
     },
     {
       "id": "geographie-582",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on l'immense calotte de glace continentale qui recouvre l'Antarctique ou le Groenland ?",
       "answer": "inlandsis",
       "accept": [],
@@ -3389,7 +3389,7 @@
     },
     {
       "id": "geographie-585",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on, au Sahara, une vaste étendue de dunes de sable ?",
       "answer": "erg",
       "accept": [],
@@ -3433,7 +3433,7 @@
     },
     {
       "id": "geographie-588",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel continent est le seul à être traversé à la fois par l'équateur et par les deux tropiques ?",
       "answer": "Afrique",
       "accept": [],
@@ -3447,7 +3447,7 @@
     },
     {
       "id": "geographie-589",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle est la monnaie officielle de la république populaire de Chine ?",
       "answer": "yuan",
       "accept": [
@@ -3463,7 +3463,7 @@
     },
     {
       "id": "geographie-590",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle monnaie, dont le nom vient d'un mot sanskrit lié à l'argent, est utilisée en Inde ?",
       "answer": "roupie",
       "accept": [
@@ -3509,7 +3509,7 @@
     },
     {
       "id": "geographie-593",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les habitants de Buenos Aires, la capitale argentine ?",
       "answer": "Porteños",
       "accept": [
@@ -3541,7 +3541,7 @@
     },
     {
       "id": "geographie-595",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle monnaie d'Israël porte le nom d'une ancienne unité de poids citée dans la Bible ?",
       "answer": "shekel",
       "accept": [
@@ -3559,7 +3559,7 @@
     },
     {
       "id": "geographie-596",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle monnaie du Guatemala porte le nom d'un oiseau sacré aux longues plumes vertes ?",
       "answer": "quetzal",
       "accept": [],

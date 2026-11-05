@@ -49,7 +49,7 @@
     },
     {
       "id": "histoire-004",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle victoire de Napoléon, en 1805, est aussi appelée la bataille des Trois Empereurs ?",
       "answer": "Austerlitz",
       "accept": [
@@ -65,7 +65,7 @@
     },
     {
       "id": "histoire-005",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pharaon est célèbre pour son tombeau découvert presque intact par Howard Carter en 1922 ?",
       "answer": "Toutânkhamon",
       "accept": [
@@ -330,7 +330,7 @@
     },
     {
       "id": "histoire-022",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel conquistador espagnol renversa l'Empire aztèque au début du XVIe siècle ?",
       "answer": "Hernán Cortés",
       "accept": [
@@ -348,7 +348,7 @@
     },
     {
       "id": "histoire-023",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel conquistador fit exécuter l'empereur inca Atahualpa en 1533 ?",
       "answer": "Francisco Pizarro",
       "accept": [
@@ -380,7 +380,7 @@
     },
     {
       "id": "histoire-025",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appelait la capitale de l'Empire aztèque, bâtie sur une île à l'emplacement de l'actuelle Mexico ?",
       "answer": "Tenochtitlan",
       "accept": [
@@ -429,7 +429,7 @@
     },
     {
       "id": "histoire-028",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ère japonaise, ouverte en 1868, vit la modernisation accélérée du pays ?",
       "answer": "Meiji",
       "accept": [
@@ -445,7 +445,7 @@
     },
     {
       "id": "histoire-029",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel premier empereur de Chine fut enterré avec une armée de soldats en terre cuite ?",
       "answer": "Qin Shi Huang",
       "accept": [
@@ -579,7 +579,7 @@
     },
     {
       "id": "histoire-037",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel bloc de granodiorite gravé en trois écritures permit à Champollion de déchiffrer les hiéroglyphes ?",
       "answer": "pierre de Rosette",
       "accept": [
@@ -595,7 +595,7 @@
     },
     {
       "id": "histoire-038",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel pharaon, époux de Néfertiti, imposa le culte d'un dieu solaire unique et fonda une nouvelle capitale ?",
       "answer": "Akhenaton",
       "accept": [
@@ -793,7 +793,7 @@
     },
     {
       "id": "histoire-051",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "En quelle année Constantinople tomba-t-elle aux mains des Ottomans de Mehmed II ?",
       "answer": "1453",
       "accept": [],
@@ -856,7 +856,7 @@
     },
     {
       "id": "histoire-055",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle bataille de 1346 vit les archers anglais d'Édouard III décimer la chevalerie française ?",
       "answer": "Crécy",
       "accept": [
@@ -1066,7 +1066,7 @@
     },
     {
       "id": "histoire-068",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on la révolte qui troubla la France de 1648 à 1653 durant la minorité de Louis XIV ?",
       "answer": "Fronde",
       "accept": [
@@ -1192,7 +1192,7 @@
     },
     {
       "id": "histoire-076",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel libérateur vénézuélien a donné son nom à un pays d'Amérique du Sud ?",
       "answer": "Simón Bolívar",
       "accept": [
@@ -1226,7 +1226,7 @@
     },
     {
       "id": "histoire-078",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle marchandise, vendue à la Chine par les Britanniques, donna son nom à deux guerres au XIXe siècle ?",
       "answer": "opium",
       "accept": [],
@@ -1256,7 +1256,7 @@
     },
     {
       "id": "histoire-080",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Qui fut le dernier empereur de Chine, contraint d'abdiquer enfant en 1912 ?",
       "answer": "Puyi",
       "accept": [
@@ -1286,7 +1286,7 @@
     },
     {
       "id": "histoire-082",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel archiduc héritier d'Autriche-Hongrie fut assassiné à Sarajevo le 28 juin 1914 ?",
       "answer": "François-Ferdinand",
       "accept": [
@@ -1320,7 +1320,7 @@
     },
     {
       "id": "histoire-084",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel révolutionnaire bolchevique prit le pouvoir en Russie en octobre 1917 ?",
       "answer": "Lénine",
       "accept": [
@@ -1366,7 +1366,7 @@
     },
     {
       "id": "histoire-087",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle conférence de février 1945 réunit Roosevelt, Churchill et Staline en Crimée ?",
       "answer": "Yalta",
       "accept": [
@@ -1521,7 +1521,7 @@
     },
     {
       "id": "histoire-097",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel roi babylonien est célèbre pour son code de lois gravé sur une stèle de basalte ?",
       "answer": "Hammurabi",
       "accept": [
@@ -1553,7 +1553,7 @@
     },
     {
       "id": "histoire-099",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Dans quel château fut signé, le 28 juin 1919, le traité qui mit fin à la Première Guerre mondiale avec l'Allemagne ?",
       "answer": "Versailles",
       "accept": [
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "histoire-109",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel traité de 1494 partagea le Nouveau Monde entre l'Espagne et le Portugal ?",
       "answer": "Tordesillas",
       "accept": [

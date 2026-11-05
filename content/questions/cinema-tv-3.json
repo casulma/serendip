@@ -20,7 +20,7 @@
     },
     {
       "id": "cinema-tv-282",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quel café de New York les six héros de la série « Friends » ont-ils l'habitude de se retrouver ?",
       "answer": "Central Perk",
       "accept": [],
@@ -78,7 +78,7 @@
     },
     {
       "id": "cinema-tv-286",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle lycéenne est retrouvée morte, enveloppée dans du plastique, au début de la série de David Lynch « Twin Peaks » ?",
       "answer": "Laura Palmer",
       "accept": [
@@ -110,7 +110,7 @@
     },
     {
       "id": "cinema-tv-288",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appelle la machine à voyager dans le temps du Docteur, plus grande à l'intérieur qu'à l'extérieur, dans « Doctor Who » ?",
       "answer": "TARDIS",
       "accept": [],
@@ -140,7 +140,7 @@
     },
     {
       "id": "cinema-tv-290",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Dans « Les Envahisseurs », quel doigt raide permet à David Vincent de reconnaître certains extraterrestres ayant pris forme humaine ?",
       "answer": "auriculaire",
       "accept": [
@@ -156,7 +156,7 @@
     },
     {
       "id": "cinema-tv-291",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle partenaire experte en arts martiaux, souvent vêtue de cuir, accompagne John Steed dans « Chapeau melon et bottes de cuir » ?",
       "answer": "Emma Peel",
       "accept": [
@@ -379,7 +379,7 @@
     },
     {
       "id": "cinema-tv-305",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle sorcière mariée à un publicitaire jette ses sorts d'un simple mouvement du nez dans « Ma sorcière bien-aimée » ?",
       "answer": "Samantha",
       "accept": [
@@ -456,7 +456,7 @@
     },
     {
       "id": "cinema-tv-310",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quels animaux les équipes d'« Intervilles » doivent-elles esquiver lors des épreuves les plus célèbres du jeu ?",
       "answer": "vachettes",
       "accept": [
@@ -582,7 +582,7 @@
     },
     {
       "id": "cinema-tv-318",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quel quartier fictif de Marseille se déroule le feuilleton quotidien « Plus belle la vie » ?",
       "answer": "Le Mistral",
       "accept": [
@@ -744,7 +744,7 @@
     },
     {
       "id": "cinema-tv-328",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur américain a écrit le thème jazzy de « La Panthère rose » ?",
       "answer": "Henry Mancini",
       "accept": [
@@ -910,7 +910,7 @@
     },
     {
       "id": "cinema-tv-339",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel réalisateur français a créé le petit Kirikou, qui affronte la sorcière Karaba dans un village d'Afrique de l'Ouest ?",
       "answer": "Michel Ocelot",
       "accept": [
@@ -1193,7 +1193,7 @@
     },
     {
       "id": "cinema-tv-357",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel film de Pixar se déroule dans la tête de Riley, une fillette dont les émotions sont personnifiées ?",
       "answer": "Vice-versa",
       "accept": [
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "cinema-tv-359",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel écureuil à dents de sabre poursuit obstinément un gland dans la saga « L'Âge de glace » ?",
       "answer": "Scrat",
       "accept": [],
@@ -1381,7 +1381,7 @@
     },
     {
       "id": "cinema-tv-369",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment s'appelle le héros à la tunique verte et au bonnet pointu de la série « The Legend of Zelda » ?",
       "answer": "Link",
       "accept": [],
@@ -1395,7 +1395,7 @@
     },
     {
       "id": "cinema-tv-370",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel concepteur de Nintendo, ancien étudiant en design industriel, a créé Mario, Donkey Kong et « The Legend of Zelda » ?",
       "answer": "Shigeru Miyamoto",
       "accept": [
@@ -1411,7 +1411,7 @@
     },
     {
       "id": "cinema-tv-371",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quel royaume se déroulent la plupart des aventures de Link et de la princesse Zelda ?",
       "answer": "Hyrule",
       "accept": [],
@@ -1459,7 +1459,7 @@
     },
     {
       "id": "cinema-tv-374",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chercheur soviétique a inventé le jeu « Tetris » au centre informatique de l'Académie des sciences de l'URSS ?",
       "answer": "Alexeï Pajitnov",
       "accept": [
@@ -1595,7 +1595,7 @@
     },
     {
       "id": "cinema-tv-383",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle petite boule rose de Nintendo aspire ses ennemis pour copier leurs pouvoirs ?",
       "answer": "Kirby",
       "accept": [],
@@ -1673,7 +1673,7 @@
     },
     {
       "id": "cinema-tv-388",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel concepteur japonais a créé la série d'infiltration « Metal Gear » et son héros Solid Snake ?",
       "answer": "Hideo Kojima",
       "accept": [
@@ -1841,7 +1841,7 @@
     },
     {
       "id": "cinema-tv-399",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel seigneur du mal, roi des Gerudo sous sa forme humaine, est l'ennemi principal de Link ?",
       "answer": "Ganon",
       "accept": [

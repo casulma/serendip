@@ -201,7 +201,7 @@
     },
     {
       "id": "musique-224",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle chanteuse d'origine bulgare a interprété « La Plus Belle pour aller danser », écrite par Charles Aznavour ?",
       "answer": "Sylvie Vartan",
       "accept": [
@@ -217,7 +217,7 @@
     },
     {
       "id": "musique-225",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle chanteuse, muse de Saint-Germain-des-Prés, a créé « Déshabillez-moi » et « Jolie Môme » ?",
       "answer": "Juliette Gréco",
       "accept": [
@@ -249,7 +249,7 @@
     },
     {
       "id": "musique-227",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel auteur né à Alexandrie a écrit les paroles de « Milord » pour Édith Piaf ?",
       "answer": "Georges Moustaki",
       "accept": [
@@ -265,7 +265,7 @@
     },
     {
       "id": "musique-228",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel boxeur, amant d'Édith Piaf, a inspiré « L'Hymne à l'amour » avant de mourir dans un accident d'avion ?",
       "answer": "Marcel Cerdan",
       "accept": [
@@ -297,7 +297,7 @@
     },
     {
       "id": "musique-230",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel chanteur toulousain, passionné de jazz, a écrit « Armstrong » et « Ô Toulouse » ?",
       "answer": "Claude Nougaro",
       "accept": [
@@ -423,7 +423,7 @@
     },
     {
       "id": "musique-238",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel musicien français a publié en 1976 « Oxygène », album électronique devenu un classique ?",
       "answer": "Jean-Michel Jarre",
       "accept": [
@@ -467,7 +467,7 @@
     },
     {
       "id": "musique-241",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on l'art de composer à partir de sons enregistrés, inventé par Pierre Schaeffer en 1948 ?",
       "answer": "Musique concrète",
       "accept": [],
@@ -481,7 +481,7 @@
     },
     {
       "id": "musique-242",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel groupe de Düsseldorf, pionnier de l'électro, a enregistré « Autobahn » et « Die Roboter » ?",
       "answer": "Kraftwerk",
       "accept": [],
@@ -495,7 +495,7 @@
     },
     {
       "id": "musique-243",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville américaine la techno est-elle née, autour de Juan Atkins, Derrick May et Kevin Saunderson ?",
       "answer": "Detroit",
       "accept": [],
@@ -509,7 +509,7 @@
     },
     {
       "id": "musique-244",
-      "difficulty": 3,
+      "difficulty": 1,
       "question": "Quelle boîte à rythmes de Roland, désignée par un nombre, a marqué le hip-hop avec ses basses profondes ?",
       "answer": "TR-808",
       "accept": [
@@ -558,7 +558,7 @@
     },
     {
       "id": "musique-247",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel groupe australien, dont le guitariste Angus Young joue en costume d'écolier, a sorti « Highway to Hell » ?",
       "answer": "AC/DC",
       "accept": [
@@ -588,7 +588,7 @@
     },
     {
       "id": "musique-249",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel groupe britannique, dont le guitariste Pete Townshend fracassait ses guitares, a créé l'opéra rock « Tommy » ?",
       "answer": "The Who",
       "accept": [
@@ -604,7 +604,7 @@
     },
     {
       "id": "musique-250",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel chanteur britannique s'est inventé l'alter ego extraterrestre Ziggy Stardust ?",
       "answer": "David Bowie",
       "accept": [
@@ -634,7 +634,7 @@
     },
     {
       "id": "musique-252",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel groupe punk new-yorkais, dont tous les membres prenaient le même nom de famille, a chanté « Blitzkrieg Bop » ?",
       "answer": "Ramones",
       "accept": [
@@ -650,7 +650,7 @@
     },
     {
       "id": "musique-253",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel album des Beatles a pour pochette les quatre musiciens traversant un passage piéton à Londres ?",
       "answer": "Abbey Road",
       "accept": [],
@@ -664,7 +664,7 @@
     },
     {
       "id": "musique-254",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel chanteur américain surnommé « The Boss » a chanté « Born in the U.S.A. » ?",
       "answer": "Bruce Springsteen",
       "accept": [
@@ -680,7 +680,7 @@
     },
     {
       "id": "musique-255",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel chanteur américain a reçu le prix Nobel de littérature en 2016 ?",
       "answer": "Bob Dylan",
       "accept": [
@@ -729,7 +729,7 @@
     },
     {
       "id": "musique-258",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel guitariste, auteur de « Johnny B. Goode », est célèbre pour sa démarche du canard sur scène ?",
       "answer": "Chuck Berry",
       "accept": [
@@ -745,7 +745,7 @@
     },
     {
       "id": "musique-259",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel rocker à lunettes est mort en 1959 dans l'accident d'avion surnommé « The Day the Music Died » ?",
       "answer": "Buddy Holly",
       "accept": [
@@ -810,7 +810,7 @@
     },
     {
       "id": "musique-263",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel nom de famille portent Liam et Noel, frères ennemis du groupe mancunien Oasis ?",
       "answer": "Gallagher",
       "accept": [],
@@ -824,7 +824,7 @@
     },
     {
       "id": "musique-264",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel groupe formèrent les membres survivants de Joy Division après la mort du chanteur Ian Curtis ?",
       "answer": "New Order",
       "accept": [],
@@ -838,7 +838,7 @@
     },
     {
       "id": "musique-265",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel chanteur et bassiste de The Police a chanté « Roxanne » et « Every Breath You Take » ?",
       "answer": "Sting",
       "accept": [
@@ -854,7 +854,7 @@
     },
     {
       "id": "musique-266",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel groupe californien a chanté « Hotel California », célèbre pour son long duo de guitares final ?",
       "answer": "Eagles",
       "accept": [
@@ -870,7 +870,7 @@
     },
     {
       "id": "musique-267",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel chanteur a réécrit sa chanson « Candle in the Wind » pour les funérailles de Diana en 1997 ?",
       "answer": "Elton John",
       "accept": [],
@@ -884,7 +884,7 @@
     },
     {
       "id": "musique-268",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel album instrumental de Mike Oldfield, premier disque du label Virgin, a servi au film « L'Exorciste » ?",
       "answer": "Tubular Bells",
       "accept": [],
@@ -898,7 +898,7 @@
     },
     {
       "id": "musique-269",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel grand festival britannique se tient dans une ferme du Somerset, près d'une colline liée aux légendes arthuriennes ?",
       "answer": "Glastonbury",
       "accept": [
@@ -914,7 +914,7 @@
     },
     {
       "id": "musique-270",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel grand festival de musique se tient chaque été à Carhaix, dans le Finistère ?",
       "answer": "Vieilles Charrues",
       "accept": [
@@ -961,7 +961,7 @@
     },
     {
       "id": "musique-273",
-      "difficulty": 3,
+      "difficulty": 1,
       "question": "Dans quelle commune de Loire-Atlantique se déroule le Hellfest, grand festival de musiques extrêmes ?",
       "answer": "Clisson",
       "accept": [],
@@ -989,7 +989,7 @@
     },
     {
       "id": "musique-275",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville du Morbihan accueille chaque mois d'août le Festival interceltique ?",
       "answer": "Lorient",
       "accept": [],
@@ -1003,7 +1003,7 @@
     },
     {
       "id": "musique-276",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle chanteuse surnommée « Lady Day » a chanté « Strange Fruit », réquisitoire contre les lynchages ?",
       "answer": "Billie Holiday",
       "accept": [
@@ -1035,7 +1035,7 @@
     },
     {
       "id": "musique-278",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle pianiste et chanteuse américaine, morte à Carry-le-Rouet, a chanté « My Baby Just Cares for Me » ?",
       "answer": "Nina Simone",
       "accept": [
@@ -1067,7 +1067,7 @@
     },
     {
       "id": "musique-280",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel trompettiste aux joues gonflées jouait d'une trompette au pavillon relevé vers le ciel ?",
       "answer": "Dizzy Gillespie",
       "accept": [
@@ -1117,7 +1117,7 @@
     },
     {
       "id": "musique-283",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel bluesman du Mississippi aurait, selon la légende, vendu son âme au diable à un carrefour ?",
       "answer": "Robert Johnson",
       "accept": [
@@ -1133,7 +1133,7 @@
     },
     {
       "id": "musique-284",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel bluesman de Chicago a inspiré le nom des Rolling Stones avec son titre « Rollin' Stone » ?",
       "answer": "Muddy Waters",
       "accept": [],
@@ -1147,7 +1147,7 @@
     },
     {
       "id": "musique-285",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel bluesman au physique imposant, rival de Muddy Waters, chantait « Smokestack Lightnin' » ?",
       "answer": "Howlin' Wolf",
       "accept": [
@@ -1163,7 +1163,7 @@
     },
     {
       "id": "musique-286",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel instrument les bluesmen surnomment-ils « harp », Little Walter en étant un grand virtuose ?",
       "answer": "Harmonica",
       "accept": [],
@@ -1177,7 +1177,7 @@
     },
     {
       "id": "musique-287",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel chanteur surnommé « le parrain de la soul » a chanté « I Got You (I Feel Good) » et « Sex Machine » ?",
       "answer": "James Brown",
       "accept": [],
@@ -1191,7 +1191,7 @@
     },
     {
       "id": "musique-288",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quelle chanteuse surnommée « la reine de la soul » a fait de « Respect » un hymne féministe et des droits civiques ?",
       "answer": "Aretha Franklin",
       "accept": [
@@ -1207,7 +1207,7 @@
     },
     {
       "id": "musique-289",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chanteur soul est mort dans un accident d'avion quelques jours après avoir enregistré « (Sittin' On) The Dock of the Bay » ?",
       "answer": "Otis Redding",
       "accept": [
@@ -1237,7 +1237,7 @@
     },
     {
       "id": "musique-291",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle chanteuse a mené les Supremes, trio vedette de Motown, avant une grande carrière solo ?",
       "answer": "Diana Ross",
       "accept": [],
@@ -1251,7 +1251,7 @@
     },
     {
       "id": "musique-292",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel pianiste aveugle surnommé « The Genius » a mêlé gospel et rhythm and blues dans « What'd I Say » ?",
       "answer": "Ray Charles",
       "accept": [],
@@ -1265,7 +1265,7 @@
     },
     {
       "id": "musique-293",
-      "difficulty": 3,
+      "difficulty": 1,
       "question": "Quel producteur italien a composé « I Feel Love » pour Donna Summer, entièrement au synthétiseur ?",
       "answer": "Giorgio Moroder",
       "accept": [
@@ -1281,7 +1281,7 @@
     },
     {
       "id": "musique-294",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel groupe des frères Gibb a signé la bande originale du film « La Fièvre du samedi soir » ?",
       "answer": "Bee Gees",
       "accept": [
@@ -1297,7 +1297,7 @@
     },
     {
       "id": "musique-295",
-      "difficulty": 3,
+      "difficulty": 1,
       "question": "Quel club new-yorkais du Bowery fut le berceau du punk, avec les Ramones, Television et Patti Smith ?",
       "answer": "CBGB",
       "accept": [],
@@ -1311,7 +1311,7 @@
     },
     {
       "id": "musique-296",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quelle chanteuse britannique a chanté « Rehab » sur l'album « Back to Black » ?",
       "answer": "Amy Winehouse",
       "accept": [
@@ -1327,7 +1327,7 @@
     },
     {
       "id": "musique-297",
-      "difficulty": 3,
+      "difficulty": 1,
       "question": "Quelle chanteuse de gospel aurait soufflé à Martin Luther King de parler de son rêve, lors de la marche sur Washington ?",
       "answer": "Mahalia Jackson",
       "accept": [],
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "musique-299",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel trio a fait découvrir le rap au grand public en 1979 avec « Rapper's Delight » ?",
       "answer": "The Sugarhill Gang",
       "accept": [
@@ -1373,7 +1373,7 @@
     },
     {
       "id": "musique-300",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel trio de rap du Queens a repris « Walk This Way » avec le groupe de rock Aerosmith ?",
       "answer": "Run-DMC",
       "accept": [
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "musique-304",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel duo de Saint-Denis, formé par JoeyStarr et Kool Shen, a chanté « Laisse pas traîner ton fils » ?",
       "answer": "Suprême NTM",
       "accept": [
@@ -1495,7 +1495,7 @@
     },
     {
       "id": "musique-308",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chanteur irlandais a lancé Band Aid, puis le double concert Live Aid contre la famine en Éthiopie ?",
       "answer": "Bob Geldof",
       "accept": [
@@ -1556,7 +1556,7 @@
     },
     {
       "id": "musique-312",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle chanteuse cap-verdienne, surnommée « la diva aux pieds nus », a popularisé la morna ?",
       "answer": "Cesária Évora",
       "accept": [
@@ -1572,7 +1572,7 @@
     },
     {
       "id": "musique-313",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chanteur, légende du tango argentin, est mort dans un accident d'avion à Medellín, en Colombie ?",
       "answer": "Carlos Gardel",
       "accept": [
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "musique-315",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "De quel instrument à soufflet, cousin de l'accordéon inventé en Allemagne, joue-t-on dans les orchestres de tango ?",
       "answer": "Bandonéon",
       "accept": [
@@ -1650,7 +1650,7 @@
     },
     {
       "id": "musique-318",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel collectif de vieux musiciens cubains, réuni par Ry Cooder, a été filmé par Wim Wenders ?",
       "answer": "Buena Vista Social Club",
       "accept": [],
@@ -1664,7 +1664,7 @@
     },
     {
       "id": "musique-319",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel musicien nigérian a inventé l'afrobeat et proclamé la « république de Kalakuta » à Lagos ?",
       "answer": "Fela Kuti",
       "accept": [
@@ -1681,7 +1681,7 @@
     },
     {
       "id": "musique-320",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle chanteuse sud-africaine, surnommée « Mama Africa », a chanté « Pata Pata » ?",
       "answer": "Miriam Makeba",
       "accept": [
@@ -1697,7 +1697,7 @@
     },
     {
       "id": "musique-321",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle chanteuse égyptienne, surnommée « l'Astre de l'Orient », donnait des concerts de plusieurs heures ?",
       "answer": "Oum Kalthoum",
       "accept": [
@@ -1807,7 +1807,7 @@
     },
     {
       "id": "musique-328",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on la musique traditionnelle des Juifs ashkénazes d'Europe de l'Est, où brille la clarinette ?",
       "answer": "Klezmer",
       "accept": [],
@@ -1849,7 +1849,7 @@
     },
     {
       "id": "musique-331",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel compositeur britannique a écrit « Cats », « Jesus Christ Superstar » et « Le Fantôme de l'Opéra » ?",
       "answer": "Andrew Lloyd Webber",
       "accept": [
@@ -1941,7 +1941,7 @@
     },
     {
       "id": "musique-337",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel album-concept de Serge Gainsbourg raconte la rencontre avec une jeune rousse qui roule à bicyclette ?",
       "answer": "Histoire de Melody Nelson",
       "accept": [
@@ -1971,7 +1971,7 @@
     },
     {
       "id": "musique-339",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment s'appelle le manoir du Tennessee où vécut et repose Elvis Presley ?",
       "answer": "Graceland",
       "accept": [],
@@ -1985,7 +1985,7 @@
     },
     {
       "id": "musique-340",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Sur quelle île de l'océan Indien est né Freddie Mercury, le chanteur de Queen ?",
       "answer": "Zanzibar",
       "accept": [],
@@ -2048,7 +2048,7 @@
     },
     {
       "id": "musique-344",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quelle chanteuse grecque aux grandes lunettes a représenté le Luxembourg à l'Eurovision 1963 ?",
       "answer": "Nana Mouskouri",
       "accept": [

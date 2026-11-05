@@ -31,7 +31,7 @@
     },
     {
       "id": "societe-153",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel économiste britannique a formulé la théorie des avantages comparatifs, illustrée par le vin portugais et le drap anglais ?",
       "answer": "David Ricardo",
       "accept": [
@@ -91,7 +91,7 @@
     },
     {
       "id": "societe-157",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel impôt sur la consommation a été inventé en France par le haut fonctionnaire Maurice Lauré au milieu des années 1950 ?",
       "answer": "TVA",
       "accept": [
@@ -137,7 +137,7 @@
     },
     {
       "id": "societe-160",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel surnom désigne la journée d'octobre 1929 qui marqua le début de l'effondrement de la Bourse de New York ?",
       "answer": "Jeudi noir",
       "accept": [],
@@ -167,7 +167,7 @@
     },
     {
       "id": "societe-162",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel financier écossais introduisit le papier-monnaie en France sous la Régence avant une faillite retentissante ?",
       "answer": "John Law",
       "accept": [
@@ -199,7 +199,7 @@
     },
     {
       "id": "societe-164",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle banque d'affaires américaine a fait faillite en septembre 2008, au cœur de la crise financière ?",
       "answer": "Lehman Brothers",
       "accept": [
@@ -215,7 +215,7 @@
     },
     {
       "id": "societe-165",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les crédits immobiliers à risque accordés aux ménages américains peu solvables, à l'origine de la crise de 2007 ?",
       "answer": "subprimes",
       "accept": [
@@ -231,7 +231,7 @@
     },
     {
       "id": "societe-166",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle station du New Hampshire fut créé en 1944 le système monétaire fondé sur le dollar convertible en or ?",
       "answer": "Bretton Woods",
       "accept": [],
@@ -261,7 +261,7 @@
     },
     {
       "id": "societe-168",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle monnaie, l'une des plus anciennes du monde, a été remplacée par l'euro en Grèce en 2002 ?",
       "answer": "drachme",
       "accept": [],
@@ -367,7 +367,7 @@
     },
     {
       "id": "societe-175",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel économiste bangladais, pionnier du microcrédit, a reçu le prix Nobel de la paix en 2006 ?",
       "answer": "Muhammad Yunus",
       "accept": [
@@ -462,7 +462,7 @@
     },
     {
       "id": "societe-181",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel programme de Franklin D. Roosevelt devait sortir les États-Unis de la Grande Dépression ?",
       "answer": "New Deal",
       "accept": [],
@@ -539,7 +539,7 @@
     },
     {
       "id": "societe-186",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle entreprise finlandaise, longtemps géante du téléphone portable, était à l'origine une usine de pâte à papier ?",
       "answer": "Nokia",
       "accept": [],
@@ -686,7 +686,7 @@
     },
     {
       "id": "societe-196",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle entreprise française, créée sous Colbert, a fabriqué les miroirs de la galerie des Glaces de Versailles ?",
       "answer": "Saint-Gobain",
       "accept": [],
@@ -700,7 +700,7 @@
     },
     {
       "id": "societe-197",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel conglomérat sud-coréen porte un nom signifiant « trois étoiles » ?",
       "answer": "Samsung",
       "accept": [],
@@ -714,7 +714,7 @@
     },
     {
       "id": "societe-198",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle compagnie pétrolière de John D. Rockefeller fut démantelée en 1911 en application de la loi antitrust ?",
       "answer": "Standard Oil",
       "accept": [],
@@ -728,7 +728,7 @@
     },
     {
       "id": "societe-199",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel philosophe grec fut le précepteur du jeune Alexandre le Grand ?",
       "answer": "Aristote",
       "accept": [],
@@ -742,7 +742,7 @@
     },
     {
       "id": "societe-200",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel philosophe cynique, qui vivait dans une jarre, aurait demandé à Alexandre le Grand de s'ôter de son soleil ?",
       "answer": "Diogène",
       "accept": [
@@ -772,7 +772,7 @@
     },
     {
       "id": "societe-202",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel philosophe présocratique affirmait qu'on ne se baigne jamais deux fois dans le même fleuve ?",
       "answer": "Héraclite",
       "accept": [
@@ -788,7 +788,7 @@
     },
     {
       "id": "societe-203",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel philosophe allemand a proclamé « Dieu est mort » et écrit Ainsi parlait Zarathoustra ?",
       "answer": "Friedrich Nietzsche",
       "accept": [
@@ -820,7 +820,7 @@
     },
     {
       "id": "societe-205",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel philosophe néerlandais, polisseur de lentilles, a écrit une Éthique démontrée selon l'ordre géométrique ?",
       "answer": "Spinoza",
       "accept": [
@@ -852,7 +852,7 @@
     },
     {
       "id": "societe-207",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle philosophe allemande a forgé l'expression « banalité du mal » en suivant le procès d'Adolf Eichmann ?",
       "answer": "Hannah Arendt",
       "accept": [
@@ -992,7 +992,7 @@
     },
     {
       "id": "societe-216",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel humaniste anglais a forgé le mot « utopie » pour décrire une île imaginaire dans un livre de 1516 ?",
       "answer": "Thomas More",
       "accept": [
@@ -1056,7 +1056,7 @@
     },
     {
       "id": "societe-220",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel psychologue américain a donné son nom à une pyramide qui hiérarchise les besoins humains ?",
       "answer": "Abraham Maslow",
       "accept": [
@@ -1088,7 +1088,7 @@
     },
     {
       "id": "societe-222",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sociologue allemand a écrit L'Éthique protestante et l'esprit du capitalisme ?",
       "answer": "Max Weber",
       "accept": [
@@ -1182,7 +1182,7 @@
     },
     {
       "id": "societe-228",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville italienne abrite la plus ancienne université du monde occidental, dont la fondation est traditionnellement fixée à 1088 ?",
       "answer": "Bologne",
       "accept": [],
@@ -1320,7 +1320,7 @@
     },
     {
       "id": "societe-237",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel patron de presse américain d'origine hongroise a légué son nom à de prestigieux prix de journalisme ?",
       "answer": "Joseph Pulitzer",
       "accept": [
@@ -1350,7 +1350,7 @@
     },
     {
       "id": "societe-239",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle expression désigne la presse et les médias, par analogie avec l'exécutif, le législatif et le judiciaire ?",
       "answer": "quatrième pouvoir",
       "accept": [],
@@ -1496,7 +1496,7 @@
     },
     {
       "id": "societe-249",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quels petits coquillages blancs ont servi de monnaie en Afrique et en Asie pendant des siècles ?",
       "answer": "cauris",
       "accept": [

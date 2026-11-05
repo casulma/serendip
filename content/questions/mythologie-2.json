@@ -91,7 +91,7 @@
     },
     {
       "id": "mythologie-057",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel prince troyen enleva Hélène, l'épouse du roi de Sparte, déclenchant la guerre de Troie ?",
       "answer": "Pâris",
       "accept": [
@@ -137,7 +137,7 @@
     },
     {
       "id": "mythologie-060",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel roi de Phrygie obtint de Dionysos le pouvoir de changer en or tout ce qu'il touchait ?",
       "answer": "Midas",
       "accept": [],
@@ -167,7 +167,7 @@
     },
     {
       "id": "mythologie-062",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel dieu grec de la vigne et de l'ivresse était suivi d'un cortège de Ménades et de satyres ?",
       "answer": "Dionysos",
       "accept": [],
@@ -181,7 +181,7 @@
     },
     {
       "id": "mythologie-063",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle épouse fidèle défaisait chaque nuit la toile qu'elle tissait le jour pour faire patienter ses prétendants ?",
       "answer": "Pénélope",
       "accept": [
@@ -213,7 +213,7 @@
     },
     {
       "id": "mythologie-065",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel dieu grec, frère jumeau d'Artémis, rendait ses oracles à Delphes par la bouche de la Pythie ?",
       "answer": "Apollon",
       "accept": [],
@@ -227,7 +227,7 @@
     },
     {
       "id": "mythologie-066",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle déesse romaine de la chasse et de la Lune correspond à l'Artémis des Grecs ?",
       "answer": "Diane",
       "accept": [],
@@ -271,7 +271,7 @@
     },
     {
       "id": "mythologie-069",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel dieu nordique sacrifia un œil pour pouvoir boire à la source de la sagesse ?",
       "answer": "Odin",
       "accept": [],
@@ -285,7 +285,7 @@
     },
     {
       "id": "mythologie-070",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelles guerrières divines choisissent les combattants tombés sur le champ de bataille pour les conduire auprès d'Odin ?",
       "answer": "Valkyries",
       "accept": [
@@ -319,7 +319,7 @@
     },
     {
       "id": "mythologie-072",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle déesse égyptienne, mère d'Horus, vit son culte se répandre jusqu'à Rome et en Gaule ?",
       "answer": "Isis",
       "accept": [],
@@ -333,7 +333,7 @@
     },
     {
       "id": "mythologie-073",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel dieu égyptien à tête de faucon était incarné par le pharaon régnant ?",
       "answer": "Horus",
       "accept": [],
@@ -347,7 +347,7 @@
     },
     {
       "id": "mythologie-074",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle déesse égyptienne à tête de chat était vénérée dans la ville de Bubastis ?",
       "answer": "Bastet",
       "accept": [],
@@ -409,7 +409,7 @@
     },
     {
       "id": "mythologie-078",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle forêt légendaire de Bretagne situe-t-on le tombeau de Merlin et la fontaine de Barenton ?",
       "answer": "Brocéliande",
       "accept": [
@@ -425,7 +425,7 @@
     },
     {
       "id": "mythologie-079",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel couple d'amants légendaires fut lié à jamais par un philtre bu par erreur sur le bateau qui les menait en Cornouailles ?",
       "answer": "Tristan et Iseut",
       "accept": [
@@ -456,7 +456,7 @@
     },
     {
       "id": "mythologie-081",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel héros suisse fut contraint de tirer à l'arbalète sur une pomme posée sur la tête de son fils ?",
       "answer": "Guillaume Tell",
       "accept": [
@@ -536,7 +536,7 @@
     },
     {
       "id": "mythologie-086",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel roi d'Uruk, héros de l'une des plus anciennes épopées connues, part en quête de l'immortalité ?",
       "answer": "Gilgamesh",
       "accept": [],
@@ -550,7 +550,7 @@
     },
     {
       "id": "mythologie-087",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel prince troyen, fils aîné de Priam, fut tué par Achille au pied des remparts de sa ville ?",
       "answer": "Hector",
       "accept": [],
@@ -578,7 +578,7 @@
     },
     {
       "id": "mythologie-089",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle reine des dieux, épouse jalouse de Zeus, a pour animal favori le paon ?",
       "answer": "Héra",
       "accept": [
@@ -626,7 +626,7 @@
     },
     {
       "id": "mythologie-092",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel Cyclope, fils de Poséidon, fut aveuglé par Ulysse après avoir dévoré plusieurs de ses compagnons ?",
       "answer": "Polyphème",
       "accept": [
@@ -745,7 +745,7 @@
     },
     {
       "id": "mythologie-100",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment appelle-t-on les neuf déesses, filles de Zeus et de Mnémosyne, qui inspirent les arts et les sciences ?",
       "answer": "Muses",
       "accept": [
@@ -794,7 +794,7 @@
     },
     {
       "id": "mythologie-103",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel dieu grec de la médecine a pour attribut un bâton autour duquel s'enroule un serpent ?",
       "answer": "Asclépios",
       "accept": [
@@ -855,7 +855,7 @@
     },
     {
       "id": "mythologie-107",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appelle l'immense frêne cosmique qui relie les neuf mondes de la mythologie nordique ?",
       "answer": "Yggdrasil",
       "accept": [],
@@ -869,7 +869,7 @@
     },
     {
       "id": "mythologie-108",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel dieu nordique, fils d'Odin et de Frigg, fut tué par une flèche de gui à cause d'une ruse de Loki ?",
       "answer": "Baldr",
       "accept": [
@@ -886,7 +886,7 @@
     },
     {
       "id": "mythologie-109",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle déesse nordique de l'amour et de la fertilité voyage dans un char tiré par deux chats ?",
       "answer": "Freyja",
       "accept": [
@@ -902,7 +902,7 @@
     },
     {
       "id": "mythologie-110",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle déesse égyptienne coiffée d'une plume incarnait l'ordre du monde, la vérité et la justice ?",
       "answer": "Maât",
       "accept": [
@@ -918,7 +918,7 @@
     },
     {
       "id": "mythologie-111",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chevalier au cœur pur, fils de Lancelot, parvint à achever la quête du Graal ?",
       "answer": "Galaad",
       "accept": [
@@ -997,7 +997,7 @@
     },
     {
       "id": "mythologie-116",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel personnage du folklore breton, ouvrier de la mort, vient chercher les âmes avec sa charrette grinçante ?",
       "answer": "Ankou",
       "accept": [],
@@ -1133,7 +1133,7 @@
     },
     {
       "id": "mythologie-125",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel roi-démon à dix têtes enlève Sita et l'emmène sur l'île de Lanka dans le Ramayana ?",
       "answer": "Ravana",
       "accept": [
@@ -1163,7 +1163,7 @@
     },
     {
       "id": "mythologie-127",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel dieu du Soleil, dont l'empereur se disait le fils, était au cœur de la religion inca ?",
       "answer": "Inti",
       "accept": [],
@@ -1177,7 +1177,7 @@
     },
     {
       "id": "mythologie-128",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle déesse japonaise du Soleil, ancêtre de la lignée impériale, se cacha dans une grotte, plongeant le monde dans la nuit ?",
       "answer": "Amaterasu",
       "accept": [],
@@ -1191,7 +1191,7 @@
     },
     {
       "id": "mythologie-129",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel roi des singes, armé d'un bâton magique, escorte un moine bouddhiste dans le roman chinois La Pérégrination vers l'Ouest ?",
       "answer": "Sun Wukong",
       "accept": [

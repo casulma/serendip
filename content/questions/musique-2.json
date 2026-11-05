@@ -52,7 +52,7 @@
     },
     {
       "id": "musique-074",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel compositeur né à Halle et naturalisé anglais a écrit l'oratorio « Le Messie » et son célèbre « Hallelujah » ?",
       "answer": "Haendel",
       "accept": [
@@ -70,7 +70,7 @@
     },
     {
       "id": "musique-075",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel compositeur norvégien a écrit la musique de scène de « Peer Gynt », avec « Dans l'antre du roi de la montagne » ?",
       "answer": "Edvard Grieg",
       "accept": [
@@ -86,7 +86,7 @@
     },
     {
       "id": "musique-076",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel compositeur allemand a écrit la « Marche nuptiale » tirée de sa musique pour « Le Songe d'une nuit d'été » ?",
       "answer": "Mendelssohn",
       "accept": [
@@ -103,7 +103,7 @@
     },
     {
       "id": "musique-077",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel opéra-bouffe de Jacques Offenbach contient le « galop infernal », devenu la musique du French cancan ?",
       "answer": "Orphée aux Enfers",
       "accept": [],
@@ -117,7 +117,7 @@
     },
     {
       "id": "musique-078",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel opéra de Verdi, inspiré de « La Dame aux camélias » d'Alexandre Dumas fils, a pour héroïne Violetta Valéry ?",
       "answer": "La Traviata",
       "accept": [
@@ -147,7 +147,7 @@
     },
     {
       "id": "musique-080",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel ballet romantique d'Adolphe Adam raconte l'histoire d'une paysanne morte de chagrin qui rejoint les Wilis ?",
       "answer": "Giselle",
       "accept": [],
@@ -177,7 +177,7 @@
     },
     {
       "id": "musique-082",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur russe a écrit le ballet « Roméo et Juliette », dont la « Danse des chevaliers » est devenue très populaire ?",
       "answer": "Prokofiev",
       "accept": [
@@ -193,7 +193,7 @@
     },
     {
       "id": "musique-083",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel compositeur allemand a écrit la cantate scénique « Carmina Burana », qui s'ouvre sur le chœur « O Fortuna » ?",
       "answer": "Carl Orff",
       "accept": [
@@ -209,7 +209,7 @@
     },
     {
       "id": "musique-084",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur allemand baroque est surtout connu pour un canon en ré majeur souvent joué lors des mariages ?",
       "answer": "Johann Pachelbel",
       "accept": [
@@ -409,7 +409,7 @@
     },
     {
       "id": "musique-096",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville Jean-Sébastien Bach fut-il cantor de l'église Saint-Thomas pendant plus de vingt-cinq ans ?",
       "answer": "Leipzig",
       "accept": [],
@@ -469,7 +469,7 @@
     },
     {
       "id": "musique-100",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pianiste virtuose hongrois, beau-père de Richard Wagner, a composé les « Rhapsodies hongroises » ?",
       "answer": "Franz Liszt",
       "accept": [
@@ -485,7 +485,7 @@
     },
     {
       "id": "musique-101",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel violoniste virtuose génois, auteur de vingt-quatre caprices, passait pour avoir vendu son âme au diable ?",
       "answer": "Niccolò Paganini",
       "accept": [
@@ -517,7 +517,7 @@
     },
     {
       "id": "musique-103",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur tchèque a décrit le cours d'une rivière dans « La Moldau », extraite de son cycle « Ma patrie » ?",
       "answer": "Bedřich Smetana",
       "accept": [
@@ -533,7 +533,7 @@
     },
     {
       "id": "musique-104",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur finlandais a écrit le poème symphonique « Finlandia », devenu un symbole de l'identité nationale ?",
       "answer": "Jean Sibelius",
       "accept": [
@@ -549,7 +549,7 @@
     },
     {
       "id": "musique-105",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur anglais a écrit les marches « Pomp and Circumstance », chantées chaque année à la dernière soirée des Proms ?",
       "answer": "Edward Elgar",
       "accept": [
@@ -565,7 +565,7 @@
     },
     {
       "id": "musique-106",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur anglais a consacré une suite pour grand orchestre aux « Planètes », de Mars jusqu'à Neptune ?",
       "answer": "Gustav Holst",
       "accept": [
@@ -581,7 +581,7 @@
     },
     {
       "id": "musique-107",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur russe a écrit « Le Vol du bourdon », interlude de son opéra « Le Conte du tsar Saltan » ?",
       "answer": "Rimski-Korsakov",
       "accept": [
@@ -597,7 +597,7 @@
     },
     {
       "id": "musique-108",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle suite pour piano de Moussorgski, inspirée des dessins de son ami Viktor Hartmann, a été orchestrée par Ravel ?",
       "answer": "Tableaux d'une exposition",
       "accept": [],
@@ -627,7 +627,7 @@
     },
     {
       "id": "musique-110",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur arménien a écrit la « Danse du sabre », tirée de son ballet « Gayaneh » ?",
       "answer": "Aram Khatchatourian",
       "accept": [
@@ -660,7 +660,7 @@
     },
     {
       "id": "musique-112",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur soviétique a dédié sa Septième symphonie à sa ville natale assiégée, Leningrad ?",
       "answer": "Chostakovitch",
       "accept": [
@@ -676,7 +676,7 @@
     },
     {
       "id": "musique-113",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel compositeur français a écrit « L'Apprenti sorcier », popularisé par Mickey Mouse dans « Fantasia » ?",
       "answer": "Paul Dukas",
       "accept": [
@@ -738,7 +738,7 @@
     },
     {
       "id": "musique-117",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur baroque français a écrit le « Te Deum » dont le prélude sert d'indicatif à l'Eurovision ?",
       "answer": "Marc-Antoine Charpentier",
       "accept": [
@@ -786,7 +786,7 @@
     },
     {
       "id": "musique-120",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur autrichien, directeur de l'Opéra de Vienne, a écrit la symphonie de lieder « Le Chant de la Terre » ?",
       "answer": "Gustav Mahler",
       "accept": [
@@ -818,7 +818,7 @@
     },
     {
       "id": "musique-122",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur américain a écrit « 4′33″ », pièce pendant laquelle l'interprète ne joue aucune note ?",
       "answer": "John Cage",
       "accept": [
@@ -898,7 +898,7 @@
     },
     {
       "id": "musique-127",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel est l'unique opéra de Beethoven, dont l'héroïne se déguise en homme pour délivrer son mari emprisonné ?",
       "answer": "Fidelio",
       "accept": [],
@@ -912,7 +912,7 @@
     },
     {
       "id": "musique-128",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel compositeur italien, rival supposé de Mozart, est le narrateur tourmenté du film « Amadeus » de Miloš Forman ?",
       "answer": "Antonio Salieri",
       "accept": [
@@ -928,7 +928,7 @@
     },
     {
       "id": "musique-129",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle œuvre de Bach doit son nom à un jeune claveciniste chargé de distraire un comte insomniaque ?",
       "answer": "Variations Goldberg",
       "accept": [
@@ -974,7 +974,7 @@
     },
     {
       "id": "musique-132",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel compositeur allemand a écrit « Ainsi parlait Zarathoustra », dont l'introduction ouvre « 2001, l'Odyssée de l'espace » ?",
       "answer": "Richard Strauss",
       "accept": [],
@@ -988,7 +988,7 @@
     },
     {
       "id": "musique-133",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle œuvre de Tchaïkovski, célébrant la victoire russe contre Napoléon, prévoit de vrais coups de canon ?",
       "answer": "Ouverture 1812",
       "accept": [
@@ -1038,7 +1038,7 @@
     },
     {
       "id": "musique-136",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur né à Bergame a écrit « L'Élixir d'amour » et « Lucia di Lammermoor » ?",
       "answer": "Gaetano Donizetti",
       "accept": [
@@ -1086,7 +1086,7 @@
     },
     {
       "id": "musique-139",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "De quel opéra de Puccini, laissé inachevé à sa mort, est extrait l'air « Nessun dorma » ?",
       "answer": "Turandot",
       "accept": [],
@@ -1100,7 +1100,7 @@
     },
     {
       "id": "musique-140",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel opéra de Verdi contient le chœur des esclaves hébreux « Va, pensiero », devenu un hymne patriotique italien ?",
       "answer": "Nabucco",
       "accept": [],
@@ -1114,7 +1114,7 @@
     },
     {
       "id": "musique-141",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel bouffon bossu donne son nom à l'opéra de Verdi où retentit l'air « La donna è mobile » ?",
       "answer": "Rigoletto",
       "accept": [],
@@ -1128,7 +1128,7 @@
     },
     {
       "id": "musique-142",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel opéra de Mozart est tiré de la pièce de Beaumarchais qui fait suite au « Barbier de Séville » ?",
       "answer": "Les Noces de Figaro",
       "accept": [
@@ -1173,7 +1173,7 @@
     },
     {
       "id": "musique-145",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville de Bavière Richard Wagner a-t-il fait bâtir un théâtre exclusivement consacré à ses opéras ?",
       "answer": "Bayreuth",
       "accept": [],
@@ -1362,7 +1362,7 @@
     },
     {
       "id": "musique-157",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le texte d'un opéra, comme ceux que Lorenzo Da Ponte écrivit pour trois opéras de Mozart ?",
       "answer": "Livret",
       "accept": [
@@ -1378,7 +1378,7 @@
     },
     {
       "id": "musique-158",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on, à l'opéra, la partie déclamée proche de la parole qui fait avancer l'action entre les airs ?",
       "answer": "Récitatif",
       "accept": [
@@ -1408,7 +1408,7 @@
     },
     {
       "id": "musique-160",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle voix masculine se situe entre le ténor et la basse, comme celle de Figaro dans « Le Barbier de Séville » ?",
       "answer": "Baryton",
       "accept": [],
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "musique-161",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on un chanteur adulte qui chante dans la tessiture d'alto grâce à sa voix de tête ?",
       "answer": "Contre-ténor",
       "accept": [
@@ -1467,7 +1467,7 @@
     },
     {
       "id": "musique-164",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel théâtre parisien, aussi appelé salle Favart, a vu la création de « Carmen » de Bizet ?",
       "answer": "Opéra-Comique",
       "accept": [
@@ -1543,7 +1543,7 @@
     },
     {
       "id": "musique-169",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel architecte danois a dessiné l'opéra de Sydney et ses voiles de béton blanc ?",
       "answer": "Jørn Utzon",
       "accept": [
@@ -1608,7 +1608,7 @@
     },
     {
       "id": "musique-173",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on l'espace en contrebas de la scène où joue l'orchestre d'un théâtre lyrique ?",
       "answer": "Fosse",
       "accept": [
@@ -1670,7 +1670,7 @@
     },
     {
       "id": "musique-177",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel danseur soviétique, passé à l'Ouest à l'aéroport du Bourget en 1961, a dirigé le ballet de l'Opéra de Paris ?",
       "answer": "Rudolf Noureev",
       "accept": [
@@ -1701,7 +1701,7 @@
     },
     {
       "id": "musique-179",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel ballet de Léo Delibes raconte l'histoire d'une poupée mécanique dont un jeune villageois s'éprend ?",
       "answer": "Coppélia",
       "accept": [],
@@ -1715,7 +1715,7 @@
     },
     {
       "id": "musique-180",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel imprésario russe a fondé la compagnie des Ballets russes, qui révolutionna la danse à Paris ?",
       "answer": "Serge de Diaghilev",
       "accept": [
@@ -1792,7 +1792,7 @@
     },
     {
       "id": "musique-185",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel long instrument à vent des Aborigènes d'Australie est taillé dans une branche d'eucalyptus évidée par les termites ?",
       "answer": "Didgeridoo",
       "accept": [
@@ -1933,7 +1933,7 @@
     },
     {
       "id": "musique-194",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville de Lombardie Antonio Stradivari fabriquait-il ses célèbres violons ?",
       "answer": "Crémone",
       "accept": [
@@ -1949,7 +1949,7 @@
     },
     {
       "id": "musique-195",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle résine frotte-t-on sur les crins de l'archet pour qu'ils accrochent les cordes ?",
       "answer": "Colophane",
       "accept": [],
@@ -1963,7 +1963,7 @@
     },
     {
       "id": "musique-196",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle harpe-luth d'Afrique de l'Ouest, à vingt-et-une cordes, est montée sur une grande calebasse ?",
       "answer": "Kora",
       "accept": [],
@@ -2023,7 +2023,7 @@
     },
     {
       "id": "musique-200",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel terme italien demande aux musiciens de pincer les cordes avec les doigts au lieu d'utiliser l'archet ?",
       "answer": "Pizzicato",
       "accept": [],
@@ -2126,7 +2126,7 @@
     },
     {
       "id": "musique-207",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel moine bénédictin du XIe siècle a nommé les notes d'après les syllabes d'un hymne à saint Jean-Baptiste ?",
       "answer": "Guido d'Arezzo",
       "accept": [
@@ -2174,7 +2174,7 @@
     },
     {
       "id": "musique-210",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "À quel maréchal autrichien Johann Strauss père a-t-il dédié la marche qui conclut le concert du Nouvel An à Vienne ?",
       "answer": "Radetzky",
       "accept": [

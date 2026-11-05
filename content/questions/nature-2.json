@@ -117,7 +117,7 @@
     },
     {
       "id": "nature-099",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le cri caractéristique de l'éléphant, qu'il émet en levant sa trompe ?",
       "answer": "barrissement",
       "accept": [
@@ -133,7 +133,7 @@
     },
     {
       "id": "nature-100",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le cri de l'âne, souvent comparé à un « hi-han » ?",
       "answer": "braiment",
       "accept": [],
@@ -191,7 +191,7 @@
     },
     {
       "id": "nature-104",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel mot désigne à la fois le nid d'un insecte piqueur rayé jaune et noir et une situation périlleuse ?",
       "answer": "guêpier",
       "accept": [],
@@ -205,7 +205,7 @@
     },
     {
       "id": "nature-105",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on la science qui étudie les insectes ?",
       "answer": "entomologie",
       "accept": [],
@@ -261,7 +261,7 @@
     },
     {
       "id": "nature-109",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel est le plus grand félin du continent américain, à la robe tachetée de rosettes ?",
       "answer": "jaguar",
       "accept": [],
@@ -319,7 +319,7 @@
     },
     {
       "id": "nature-113",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel mammifère d'Amérique, rayé noir et blanc, projette un liquide nauséabond pour se défendre ?",
       "answer": "mouffette",
       "accept": [
@@ -366,7 +366,7 @@
     },
     {
       "id": "nature-116",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel est le plus grand rongeur du monde, qui vit près des cours d'eau d'Amérique du Sud ?",
       "answer": "capybara",
       "accept": [
@@ -440,7 +440,7 @@
     },
     {
       "id": "nature-121",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel cétacé à fanons est célèbre pour les longs chants complexes des mâles et ses spectaculaires sauts hors de l'eau ?",
       "answer": "baleine à bosse",
       "accept": [
@@ -456,7 +456,7 @@
     },
     {
       "id": "nature-122",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel petit crustacé ressemblant à une crevette constitue la nourriture principale de la baleine bleue ?",
       "answer": "krill",
       "accept": [],
@@ -500,7 +500,7 @@
     },
     {
       "id": "nature-125",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel caprin sauvage des Alpes, aux longues cornes recourbées et annelées, fut sauvé de justesse de l'extinction ?",
       "answer": "bouquetin",
       "accept": [
@@ -532,7 +532,7 @@
     },
     {
       "id": "nature-127",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle grande antilope africaine participe chaque année par centaines de milliers à la grande migration du Serengeti ?",
       "answer": "gnou",
       "accept": [],
@@ -562,7 +562,7 @@
     },
     {
       "id": "nature-129",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel plantigrade possède une peau noire sous un pelage aux poils incolores et creux ?",
       "answer": "ours blanc",
       "accept": [
@@ -712,7 +712,7 @@
     },
     {
       "id": "nature-139",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel rapace au plumage brun et au capuchon immaculé est l'emblème national des États-Unis ?",
       "answer": "pygargue à tête blanche",
       "accept": [
@@ -728,7 +728,7 @@
     },
     {
       "id": "nature-140",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel oiseau de l'Atlantique Nord, souvent confondu avec le manchot, est lui capable de voler ?",
       "answer": "petit pingouin",
       "accept": [
@@ -804,7 +804,7 @@
     },
     {
       "id": "nature-145",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on la morue lorsqu'elle est vendue fraîche, et non salée et séchée ?",
       "answer": "cabillaud",
       "accept": [],
@@ -864,7 +864,7 @@
     },
     {
       "id": "nature-149",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel amphibien noir et jaune était réputé, dans les légendes, pouvoir vivre au milieu des flammes ?",
       "answer": "salamandre",
       "accept": [
@@ -880,7 +880,7 @@
     },
     {
       "id": "nature-150",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel insecte, dont l'adulte ne vit parfois que quelques heures, a donné son nom à un adjectif ?",
       "answer": "éphémère",
       "accept": [],
@@ -894,7 +894,7 @@
     },
     {
       "id": "nature-151",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel insecte ressemble à s'y méprendre à une brindille pour échapper aux prédateurs ?",
       "answer": "phasme",
       "accept": [],
@@ -922,7 +922,7 @@
     },
     {
       "id": "nature-153",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les chenilles urticantes des pins qui se déplacent en longues files indiennes ?",
       "answer": "processionnaires",
       "accept": [
@@ -1088,7 +1088,7 @@
     },
     {
       "id": "nature-164",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on le jeune du dromadaire et du chameau, qui naît sans bosse ?",
       "answer": "chamelon",
       "accept": [],
@@ -1102,7 +1102,7 @@
     },
     {
       "id": "nature-165",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on la jeune anguille transparente qui remonte les estuaires au terme de sa migration ?",
       "answer": "civelle",
       "accept": [],
@@ -1116,7 +1116,7 @@
     },
     {
       "id": "nature-166",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on un cheval mâle castré, réputé plus calme qu'un étalon ?",
       "answer": "hongre",
       "accept": [],
@@ -1144,7 +1144,7 @@
     },
     {
       "id": "nature-168",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on le cri aigu et bref du renard ?",
       "answer": "glapissement",
       "accept": [],
@@ -1158,7 +1158,7 @@
     },
     {
       "id": "nature-169",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on le chant que produisent grillons et sauterelles en frottant des parties de leur corps ?",
       "answer": "stridulation",
       "accept": [],
@@ -1172,7 +1172,7 @@
     },
     {
       "id": "nature-170",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on le nid de l'aigle, généralement installé sur une falaise ?",
       "answer": "aire",
       "accept": [],
@@ -1186,7 +1186,7 @@
     },
     {
       "id": "nature-171",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel éthologue autrichien s'est fait suivre par des oisons qui l'avaient vu en premier à leur éclosion ?",
       "answer": "Konrad Lorenz",
       "accept": [
@@ -1249,7 +1249,7 @@
     },
     {
       "id": "nature-175",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Avec l'ornithorynque, quel mammifère couvert de piquants est l'un des seuls à pondre des œufs ?",
       "answer": "échidné",
       "accept": [],
@@ -1263,7 +1263,7 @@
     },
     {
       "id": "nature-176",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel marsupial d'Australie est célèbre pour ses excréments de forme cubique ?",
       "answer": "wombat",
       "accept": [],
@@ -1277,7 +1277,7 @@
     },
     {
       "id": "nature-177",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel marsupial carnivore rayé, surnommé loup de Tasmanie, est considéré comme éteint depuis 1936 ?",
       "answer": "thylacine",
       "accept": [
@@ -1293,7 +1293,7 @@
     },
     {
       "id": "nature-178",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel grand mammifère sans dents d'Amérique du Sud capture les fourmis avec une langue de plus de soixante centimètres ?",
       "answer": "tamanoir",
       "accept": [
@@ -1387,7 +1387,7 @@
     },
     {
       "id": "nature-184",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "La trompe de l'éléphant résulte de la fusion du nez et de quel autre organe ?",
       "answer": "lèvre supérieure",
       "accept": [],
@@ -1415,7 +1415,7 @@
     },
     {
       "id": "nature-186",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel équidé trapu de Mongolie, jamais domestiqué, est souvent présenté comme le dernier représentant sauvage de sa lignée ?",
       "answer": "cheval de Przewalski",
       "accept": [],
@@ -1463,7 +1463,7 @@
     },
     {
       "id": "nature-189",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle chauve-souris d'Amérique latine se nourrit exclusivement du sang d'autres animaux ?",
       "answer": "vampire commun",
       "accept": [
@@ -1479,7 +1479,7 @@
     },
     {
       "id": "nature-190",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel vautour des montagnes se nourrit surtout d'os, qu'il brise en les lâchant sur les rochers ?",
       "answer": "gypaète barbu",
       "accept": [
@@ -1495,7 +1495,7 @@
     },
     {
       "id": "nature-191",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle chouette au disque facial blanc en forme de cœur niche souvent dans les églises et les granges ?",
       "answer": "effraie des clochers",
       "accept": [
@@ -1511,7 +1511,7 @@
     },
     {
       "id": "nature-192",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel détail du plumage permet en principe de distinguer un hibou d'une chouette ?",
       "answer": "aigrettes",
       "accept": [
@@ -1544,7 +1544,7 @@
     },
     {
       "id": "nature-194",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel oiseau des Galápagos exhibe ses pattes bleu vif lors de sa parade nuptiale ?",
       "answer": "fou à pieds bleus",
       "accept": [],
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "nature-198",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel oiseau forestier, en cachant des glands qu'il oublie ensuite, contribue à la régénération des forêts ?",
       "answer": "geai des chênes",
       "accept": [
@@ -1688,7 +1688,7 @@
     },
     {
       "id": "nature-203",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel poisson, longtemps cru disparu avec les dinosaures, a été découvert vivant au large de l'Afrique du Sud en 1938 ?",
       "answer": "cœlacanthe",
       "accept": [
@@ -1704,7 +1704,7 @@
     },
     {
       "id": "nature-204",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel géant des océans, au corps aplati qui semble coupé à l'arrière, détient le record de masse chez les téléostéens ?",
       "answer": "poisson-lune",
       "accept": [
@@ -1750,7 +1750,7 @@
     },
     {
       "id": "nature-207",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel lézard d'Amérique centrale, surnommé lézard Jésus-Christ, est capable de courir à la surface de l'eau ?",
       "answer": "basilic",
       "accept": [],
@@ -1778,7 +1778,7 @@
     },
     {
       "id": "nature-209",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on la peau qu'un serpent ou un insecte abandonne lors de sa mue ?",
       "answer": "exuvie",
       "accept": [],
@@ -1792,7 +1792,7 @@
     },
     {
       "id": "nature-210",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel gros amphibien, introduit en Australie pour lutter contre un insecte ravageur, y est devenu une espèce invasive ?",
       "answer": "crapaud buffle",
       "accept": [
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "nature-212",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelles petites grenouilles aux couleurs vives d'Amérique tropicale fournissaient du poison pour les flèches des Amérindiens ?",
       "answer": "dendrobates",
       "accept": [
@@ -1842,7 +1842,7 @@
     },
     {
       "id": "nature-213",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on le mouvement par lequel une abeille butineuse indique aux autres l'emplacement d'une source de nourriture ?",
       "answer": "danse frétillante",
       "accept": [],
@@ -1856,7 +1856,7 @@
     },
     {
       "id": "nature-214",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle substance, sécrétée par les jeunes abeilles ouvrières, nourrit exclusivement la larve destinée à devenir reine ?",
       "answer": "gelée royale",
       "accept": [],
@@ -1900,7 +1900,7 @@
     },
     {
       "id": "nature-217",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel est le plus grand coléoptère d'Europe, dont le mâle porte d'énormes mandibules en forme de bois ?",
       "answer": "lucane cerf-volant",
       "accept": [
@@ -1930,7 +1930,7 @@
     },
     {
       "id": "nature-219",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel grand papillon de nuit porte sur le thorax un dessin évoquant un crâne humain ?",
       "answer": "sphinx tête de mort",
       "accept": [
@@ -1960,7 +1960,7 @@
     },
     {
       "id": "nature-221",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel arachnide, armé d'un aiguillon au bout de la queue, devient fluorescent sous la lumière ultraviolette ?",
       "answer": "scorpion",
       "accept": [],
@@ -1974,7 +1974,7 @@
     },
     {
       "id": "nature-222",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "À quel embranchement appartiennent les méduses, les coraux et les anémones de mer ?",
       "answer": "cnidaires",
       "accept": [
@@ -1990,7 +1990,7 @@
     },
     {
       "id": "nature-223",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel animal marin urticant, appelé galère portugaise, est une colonie d'organismes et non une méduse ?",
       "answer": "physalie",
       "accept": [
@@ -2039,7 +2039,7 @@
     },
     {
       "id": "nature-226",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel céphalopode des mers australes possède les plus grands yeux du règne animal ?",
       "answer": "calmar colossal",
       "accept": [],
@@ -2067,7 +2067,7 @@
     },
     {
       "id": "nature-228",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel céphalopode à coquille spiralée et cloisonnée est souvent qualifié de fossile vivant ?",
       "answer": "nautile",
       "accept": [
@@ -2159,7 +2159,7 @@
     },
     {
       "id": "nature-234",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel est le plus petit oiseau du monde, endémique de Cuba, qui pèse environ deux grammes ?",
       "answer": "colibri d'Elena",
       "accept": [

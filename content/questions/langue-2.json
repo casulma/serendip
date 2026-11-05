@@ -52,7 +52,7 @@
   },
   {
    "id": "langue-074",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel navigateur français a donné son nom à une plante grimpante à bractées colorées découverte au Brésil ?",
    "answer": "Bougainville",
    "accept": [
@@ -84,7 +84,7 @@
   },
   {
    "id": "langue-076",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "De quelle ville française la toile de coton servant à fabriquer les jeans tire-t-elle son nom ?",
    "answer": "Nîmes",
    "accept": [
@@ -114,7 +114,7 @@
   },
   {
    "id": "langue-078",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quels cavaliers, dont le foulard noué intrigua les Français au XVIIe siècle, ont donné leur nom à la cravate ?",
    "answer": "Croates",
    "accept": [
@@ -492,7 +492,7 @@
   },
   {
    "id": "langue-103",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel dieu romain a donné son nom au jeudi, le jour qui lui était consacré ?",
    "answer": "Jupiter",
    "accept": [],
@@ -522,7 +522,7 @@
   },
   {
    "id": "langue-105",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel animal le nom grec de l'hippopotame associe-t-il au fleuve ?",
    "answer": "Cheval",
    "accept": [],
@@ -536,7 +536,7 @@
   },
   {
    "id": "langue-106",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quelle roche le mot « pétrole », littéralement « huile de… », évoque-t-il ?",
    "answer": "Pierre",
    "accept": [],
@@ -674,7 +674,7 @@
   },
   {
    "id": "langue-115",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quelle île de la baie d'Alexandrie, où se dressait une tour lumineuse, a donné son nom aux phares ?",
    "answer": "Pharos",
    "accept": [],
@@ -704,7 +704,7 @@
   },
   {
    "id": "langue-117",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel ami d'Ulysse, dont Athéna prit l'apparence pour guider Télémaque, désigne un conseiller expérimenté ?",
    "answer": "Mentor",
    "accept": [],
@@ -718,7 +718,7 @@
   },
   {
    "id": "langue-118",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel dieu grec des bergers, au cri terrifiant, a donné son nom à la peur soudaine et collective ?",
    "answer": "Pan",
    "accept": [],
@@ -732,7 +732,7 @@
   },
   {
    "id": "langue-119",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "De quelle langue vient le mot « safari », qui signifie « voyage » ?",
    "answer": "Swahili",
    "accept": [],
@@ -760,7 +760,7 @@
   },
   {
    "id": "langue-121",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quelle partie du corps évoque le grec « kheir », à l'origine du mot « chirurgie » ?",
    "answer": "Main",
    "accept": [],
@@ -820,7 +820,7 @@
   },
   {
    "id": "langue-125",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel insecte s'agite autour d'un attelage embourbé dans une fable de La Fontaine, croyant tout faire ?",
    "answer": "Mouche",
    "accept": [],
@@ -989,7 +989,7 @@
   },
   {
    "id": "langue-136",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quelle ville d'Algérie a donné son nom aux chandelles de cire qu'elle exportait au Moyen Âge ?",
    "answer": "Béjaïa",
    "accept": [
@@ -1083,7 +1083,7 @@
   },
   {
    "id": "langue-142",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel maréchal de France, dont le cuisinier enroba des amandes de sucre, a donné son nom à la praline ?",
    "answer": "Plessis-Praslin",
    "accept": [
@@ -1150,7 +1150,7 @@
   },
   {
    "id": "langue-146",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "De quel peuple arctique viennent les mots « kayak » et « anorak » ?",
    "answer": "Inuits",
    "accept": [
@@ -1255,7 +1255,7 @@
   },
   {
    "id": "langue-153",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "De quelle langue vient le mot « karaoké », signifiant littéralement « orchestre vide » ?",
    "answer": "Japonais",
    "accept": [],
@@ -1283,7 +1283,7 @@
   },
   {
    "id": "langue-155",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Pendant combien de jours les navires étaient-ils isolés à Venise, durée qui a donné le mot « quarantaine » ?",
    "answer": "40",
    "accept": [
@@ -1299,7 +1299,7 @@
   },
   {
    "id": "langue-156",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quelle heure romaine, la sixième après le lever du soleil, a donné le nom du repos de midi ?",
    "answer": "Sieste",
    "accept": [],
@@ -1357,7 +1357,7 @@
   },
   {
    "id": "langue-160",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel paléontologue britannique a baptisé les dinosaures, les « terribles lézards » de l'ère secondaire ?",
    "answer": "Richard Owen",
    "accept": [
@@ -1466,7 +1466,7 @@
   },
   {
    "id": "langue-167",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel argot ajoute la syllabe « av » à l'intérieur des mots, comme « bavonjavour » pour « bonjour » ?",
    "answer": "Javanais",
    "accept": [],
@@ -1527,7 +1527,7 @@
   },
   {
    "id": "langue-171",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel dramaturge a créé le Père Ubu, à l'origine de l'adjectif qualifiant une situation grotesque et absurde ?",
    "answer": "Alfred Jarry",
    "accept": [
@@ -1573,7 +1573,7 @@
   },
   {
    "id": "langue-174",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quelle langue, que parlaient les étudiants de la Sorbonne, a donné son nom à un quartier de la rive gauche ?",
    "answer": "Latin",
    "accept": [],
@@ -1587,7 +1587,7 @@
   },
   {
    "id": "langue-175",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quelle sainte, pécheresse repentante des Évangiles, est à l'origine de l'expression « pleurer comme une… » ?",
    "answer": "Madeleine",
    "accept": [
@@ -1604,7 +1604,7 @@
   },
   {
    "id": "langue-176",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quel navigateur aurait fait tenir un œuf debout en écrasant sa pointe, d'où une expression sur l'évidence ?",
    "answer": "Christophe Colomb",
    "accept": [
@@ -1729,7 +1729,7 @@
   },
   {
    "id": "langue-184",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quel botaniste suédois, mort en 1789, a donné son nom à une fleur à tubercules originaire du Mexique ?",
    "answer": "Anders Dahl",
    "accept": [
@@ -1762,7 +1762,7 @@
   },
   {
    "id": "langue-186",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quel feuilletoniste a créé, dans Les Mystères de Paris, le couple de concierges bavards à l'origine du mot « pipelette » ?",
    "answer": "Eugène Sue",
    "accept": [
@@ -1809,7 +1809,7 @@
   },
   {
    "id": "langue-189",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Comment s'appelait l'escalier de Rome où l'on exposait les corps des condamnés, donnant une expression d'opprobre ?",
    "answer": "Gémonies",
    "accept": [],
@@ -1885,7 +1885,7 @@
   },
   {
    "id": "langue-194",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quelles religieuses laïques de Flandre ont donné leur nom au bonnet d'une expression amoureuse ?",
    "answer": "Béguines",
    "accept": [
@@ -1949,7 +1949,7 @@
   },
   {
    "id": "langue-198",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quelle ville d'Irak a donné son nom au baldaquin, d'après les riches soieries qu'on en importait ?",
    "answer": "Bagdad",
    "accept": [
@@ -1965,7 +1965,7 @@
   },
   {
    "id": "langue-199",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quel moine irlandais a donné son nom aux voitures de louage, d'après l'enseigne d'un hôtel parisien ?",
    "answer": "Fiacre",
    "accept": [
@@ -2075,7 +2075,7 @@
   },
   {
    "id": "langue-206",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quelle cité grecque d'Italie du Sud, célèbre pour son luxe, a donné son nom aux amateurs de plaisirs raffinés ?",
    "answer": "Sybaris",
    "accept": [],
@@ -2089,7 +2089,7 @@
   },
   {
    "id": "langue-207",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quel personnage de Plaute et de Molière a donné son nom à l'hôte qui offre à dîner ?",
    "answer": "Amphitryon",
    "accept": [],
@@ -2103,7 +2103,7 @@
   },
   {
    "id": "langue-208",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quel peuple des Antilles, que Christophe Colomb croyait mangeur d'hommes, a donné le mot « cannibale » ?",
    "answer": "Caraïbes",
    "accept": [

@@ -19,7 +19,7 @@
   },
   {
    "id": "societe-052",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel palais parisien, bâti pour Marie de Médicis, abrite le Sénat ?",
    "answer": "palais du Luxembourg",
    "accept": [
@@ -35,7 +35,7 @@
   },
   {
    "id": "societe-053",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel palais du quai d'Orsay, face à la place de la Concorde, accueille les séances de l'Assemblée nationale ?",
    "answer": "palais Bourbon",
    "accept": [
@@ -70,7 +70,7 @@
   },
   {
    "id": "societe-055",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel article de la Constitution de 1958 confère au président des pouvoirs exceptionnels en cas de menace grave sur les institutions ?",
    "answer": "article 16",
    "accept": [
@@ -102,7 +102,7 @@
   },
   {
    "id": "societe-057",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Par quel nom de quai parisien désigne-t-on couramment le ministère des Affaires étrangères ?",
    "answer": "Quai d'Orsay",
    "accept": [
@@ -118,7 +118,7 @@
   },
   {
    "id": "societe-058",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel titre ancien porte encore en France le ministre de la Justice ?",
    "answer": "garde des Sceaux",
    "accept": [
@@ -206,7 +206,7 @@
   },
   {
    "id": "societe-064",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "La réforme de quelle assemblée, avec la régionalisation, était soumise au référendum de 1969 qui provoqua le départ de De Gaulle ?",
    "answer": "Sénat",
    "accept": [
@@ -256,7 +256,7 @@
   },
   {
    "id": "societe-067",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel garde des Sceaux du général de Gaulle est considéré comme le principal rédacteur de la Constitution de 1958 ?",
    "answer": "Michel Debré",
    "accept": [
@@ -272,7 +272,7 @@
   },
   {
    "id": "societe-068",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quelle fête de 1790 la fête nationale du 14 Juillet commémore-t-elle, en plus de la prise de la Bastille ?",
    "answer": "Fête de la Fédération",
    "accept": [
@@ -288,7 +288,7 @@
   },
   {
    "id": "societe-069",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Dans le drapeau tricolore, quelle couleur, associée à la royauté, s'est intercalée entre le bleu et le rouge de Paris ?",
    "answer": "blanc",
    "accept": [],
@@ -348,7 +348,7 @@
   },
   {
    "id": "societe-073",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quel ordre national, créé par le général de Gaulle en 1963, a remplacé de nombreux ordres ministériels ?",
    "answer": "ordre national du Mérite",
    "accept": [
@@ -395,7 +395,7 @@
   },
   {
    "id": "societe-076",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quelle devise de l'Union européenne s'écrit en latin In varietate concordia ?",
    "answer": "Unie dans la diversité",
    "accept": [
@@ -459,7 +459,7 @@
   },
   {
    "id": "societe-080",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quelle devise en français figure sur les armoiries royales du Royaume-Uni ?",
    "answer": "Dieu et mon droit",
    "accept": [],
@@ -473,7 +473,7 @@
   },
   {
    "id": "societe-081",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quelle unité de la Gendarmerie, reconnaissable à ses cavaliers casqués à crinière, rend les honneurs à l'Élysée ?",
    "answer": "Garde républicaine",
    "accept": [],
@@ -487,7 +487,7 @@
   },
   {
    "id": "societe-082",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Dans quelle capitale furent signés en 1957 les traités instituant la Communauté économique européenne ?",
    "answer": "Rome",
    "accept": [],
@@ -545,7 +545,7 @@
   },
   {
    "id": "societe-086",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "De quelle organisation, distincte de l'Union européenne, dépend la Cour européenne des droits de l'homme ?",
    "answer": "Conseil de l'Europe",
    "accept": [],
@@ -605,7 +605,7 @@
   },
   {
    "id": "societe-090",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Dans quelle ville se trouve le siège de l'Unesco, place de Fontenoy ?",
    "answer": "Paris",
    "accept": [],
@@ -619,7 +619,7 @@
   },
   {
    "id": "societe-091",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel homme d'affaires genevois, témoin de la bataille de Solférino, a fondé la Croix-Rouge ?",
    "answer": "Henry Dunant",
    "accept": [
@@ -635,7 +635,7 @@
   },
   {
    "id": "societe-092",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Le drapeau de la Croix-Rouge reprend en couleurs inversées le drapeau de quel pays ?",
    "answer": "Suisse",
    "accept": [],
@@ -695,7 +695,7 @@
   },
   {
    "id": "societe-096",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Dans quel palais parisien l'ONU a-t-elle adopté la Déclaration universelle des droits de l'homme en 1948 ?",
    "answer": "palais de Chaillot",
    "accept": [
@@ -711,7 +711,7 @@
   },
   {
    "id": "societe-097",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel juriste français, l'un des principaux rédacteurs de la Déclaration universelle des droits de l'homme, a reçu le prix Nobel de la paix en 1968 ?",
    "answer": "René Cassin",
    "accept": [
@@ -744,7 +744,7 @@
   },
   {
    "id": "societe-099",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quelle ONG de défense des droits humains, fondée à Londres en 1961, a pour emblème une bougie entourée de barbelés ?",
    "answer": "Amnesty International",
    "accept": [
@@ -760,7 +760,7 @@
   },
   {
    "id": "societe-100",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quelle alliance militaire, fondée en 1955, unissait l'URSS et les démocraties populaires d'Europe de l'Est ?",
    "answer": "pacte de Varsovie",
    "accept": [
@@ -864,7 +864,7 @@
   },
   {
    "id": "societe-107",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel traité adopté en 1998 a créé la Cour pénale internationale ?",
    "answer": "statut de Rome",
    "accept": [],
@@ -939,7 +939,7 @@
   },
   {
    "id": "societe-112",
-   "difficulty": 1,
+   "difficulty": 3,
    "question": "Quel sous-secrétaire d'État a porté le décret abolissant l'esclavage dans les colonies françaises en 1848 ?",
    "answer": "Victor Schœlcher",
    "accept": [
@@ -957,7 +957,7 @@
   },
   {
    "id": "societe-113",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quelle révolutionnaire publia en 1791 la Déclaration des droits de la femme et de la citoyenne ?",
    "answer": "Olympe de Gouges",
    "accept": [
@@ -1085,7 +1085,7 @@
   },
   {
    "id": "societe-121",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel président de la IIIe République mourut subitement à l'Élysée en février 1899 ?",
    "answer": "Félix Faure",
    "accept": [
@@ -1101,7 +1101,7 @@
   },
   {
    "id": "societe-122",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel président de la République tomba d'un train de nuit en pyjama en 1920, quelques mois après son élection ?",
    "answer": "Paul Deschanel",
    "accept": [
@@ -1149,7 +1149,7 @@
   },
   {
    "id": "societe-125",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Qui fut, en 1848, le premier président de la République française élu au suffrage universel ?",
    "answer": "Louis-Napoléon Bonaparte",
    "accept": [
@@ -1258,7 +1258,7 @@
   },
   {
    "id": "societe-132",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Dans quel village de Haute-Marne se trouve La Boisserie, la demeure du général de Gaulle ?",
    "answer": "Colombey-les-Deux-Églises",
    "accept": [
@@ -1274,7 +1274,7 @@
   },
   {
    "id": "societe-133",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Sous la présidence de Valéry Giscard d'Estaing, à quel âge la majorité civile a-t-elle été abaissée en 1974 ?",
    "answer": "dix-huit ans",
    "accept": [
@@ -1292,7 +1292,7 @@
   },
   {
    "id": "societe-134",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Qui fut, en 1991, la première femme nommée Premier ministre en France ?",
    "answer": "Édith Cresson",
    "accept": [
@@ -1372,7 +1372,7 @@
   },
   {
    "id": "societe-139",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Quel sigle désignait de 1905 à 1969 le parti socialiste français, ancêtre de l'actuel Parti socialiste ?",
    "answer": "SFIO",
    "accept": [],
@@ -1386,7 +1386,7 @@
   },
   {
    "id": "societe-140",
-   "difficulty": 2,
+   "difficulty": 3,
    "question": "Dans quelle ville le congrès socialiste de 1920 vit-il naître le futur Parti communiste français ?",
    "answer": "Tours",
    "accept": [],

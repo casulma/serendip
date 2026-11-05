@@ -177,7 +177,7 @@
     },
     {
       "id": "musique-012",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel compositeur viennois, surnommé « le roi de la valse », a écrit « Le Beau Danube bleu » ?",
       "answer": "Johann Strauss",
       "accept": [
@@ -319,7 +319,7 @@
     },
     {
       "id": "musique-021",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel compositeur russe a écrit la musique des ballets « Le Lac des cygnes » et « Casse-Noisette » ?",
       "answer": "Tchaïkovski",
       "accept": [
@@ -381,7 +381,7 @@
     },
     {
       "id": "musique-025",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel compositeur allemand a dédié six concertos au margrave Christian Louis de Brandebourg ?",
       "answer": "Jean-Sébastien Bach",
       "accept": [
@@ -431,7 +431,7 @@
     },
     {
       "id": "musique-028",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel groupe de rock britannique a sorti l'album « The Dark Side of the Moon », à la pochette ornée d'un prisme ?",
       "answer": "Pink Floyd",
       "accept": [],
@@ -507,7 +507,7 @@
     },
     {
       "id": "musique-033",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel terme italien, inscrit sur une partition, demande d'augmenter progressivement l'intensité du son ?",
       "answer": "Crescendo",
       "accept": [],
@@ -521,7 +521,7 @@
     },
     {
       "id": "musique-034",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment appelle-t-on l'intervalle séparant deux notes de même nom, par exemple un do grave et le do suivant ?",
       "answer": "Octave",
       "accept": [],
@@ -535,7 +535,7 @@
     },
     {
       "id": "musique-035",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel compositeur tchèque a écrit la Symphonie « du Nouveau Monde » lors de son séjour aux États-Unis ?",
       "answer": "Antonín Dvořák",
       "accept": [
@@ -630,7 +630,7 @@
     },
     {
       "id": "musique-041",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel parolier québécois a écrit les textes de l'opéra rock « Starmania » sur la musique de Michel Berger ?",
       "answer": "Luc Plamondon",
       "accept": [
@@ -662,7 +662,7 @@
     },
     {
       "id": "musique-043",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel saxophoniste, pionnier du bebop avec Dizzy Gillespie, était surnommé « Bird » ?",
       "answer": "Charlie Parker",
       "accept": [
@@ -708,7 +708,7 @@
     },
     {
       "id": "musique-046",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel chanteur, né Lucien Ginsburg, a créé « Le Poinçonneur des Lilas » et « La Javanaise » ?",
       "answer": "Serge Gainsbourg",
       "accept": [
@@ -738,7 +738,7 @@
     },
     {
       "id": "musique-048",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel festival de 1969, tenu dans une ferme de l'État de New York, est devenu le symbole de la culture hippie ?",
       "answer": "Woodstock",
       "accept": [
@@ -784,7 +784,7 @@
     },
     {
       "id": "musique-051",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel chanteur jamaïcain, leader des Wailers, a fait connaître le reggae dans le monde entier ?",
       "answer": "Bob Marley",
       "accept": [
@@ -881,7 +881,7 @@
     },
     {
       "id": "musique-057",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel compositeur a tiré son unique opéra achevé, « Pelléas et Mélisande », de la pièce de Maurice Maeterlinck ?",
       "answer": "Claude Debussy",
       "accept": [
@@ -946,7 +946,7 @@
     },
     {
       "id": "musique-061",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel opéra de Mozart, sur un livret de Lorenzo Da Ponte, porte le sous-titre « le Libertin puni » ?",
       "answer": "Don Giovanni",
       "accept": [
@@ -1030,7 +1030,7 @@
     },
     {
       "id": "musique-066",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quelle danse à trois temps, en vogue à la cour de Louis XIV, est devenue un mouvement de la symphonie classique ?",
       "answer": "Menuet",
       "accept": [],
@@ -1060,7 +1060,7 @@
     },
     {
       "id": "musique-068",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel compositeur viennois a écrit « Le Voyage d'hiver », cycle de vingt-quatre lieder sur des poèmes de Wilhelm Müller ?",
       "answer": "Franz Schubert",
       "accept": [
@@ -1092,7 +1092,7 @@
     },
     {
       "id": "musique-070",
-      "difficulty": 3,
+      "difficulty": 1,
       "question": "De quel pays « Kimi ga yo », dont le texte reprend un ancien poème waka, est-il l'hymne national ?",
       "answer": "Japon",
       "accept": [],

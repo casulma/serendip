@@ -562,7 +562,7 @@
     },
     {
       "id": "cinema-tv-037",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel film de Godard montre Jean Seberg vendant le « New York Herald Tribune » sur les Champs-Élysées ?",
       "answer": "À bout de souffle",
       "accept": [
@@ -611,7 +611,7 @@
     },
     {
       "id": "cinema-tv-040",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quel film de Marcel Carné Jean Gabin lance-t-il à Michèle Morgan « T'as d'beaux yeux, tu sais » ?",
       "answer": "Le Quai des brumes",
       "accept": [
@@ -627,7 +627,7 @@
     },
     {
       "id": "cinema-tv-041",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quel film de Marcel Carné Arletty s'écrie-t-elle « Atmosphère, atmosphère, est-ce que j'ai une gueule d'atmosphère ? » ?",
       "answer": "Hôtel du Nord",
       "accept": [],
@@ -720,7 +720,7 @@
     },
     {
       "id": "cinema-tv-047",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel studio britannique d'animation en pâte à modeler a créé Wallace et son chien Gromit ?",
       "answer": "Aardman",
       "accept": [
@@ -736,7 +736,7 @@
     },
     {
       "id": "cinema-tv-048",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel métier du cinéma consiste à veiller à la continuité entre les plans en notant chaque détail du tournage ?",
       "answer": "Scripte",
       "accept": [
@@ -846,7 +846,7 @@
     },
     {
       "id": "cinema-tv-055",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel réalisateur américain, ancien employé de vidéoclub, a tourné « Pulp Fiction » et « Kill Bill » ?",
       "answer": "Quentin Tarantino",
       "accept": [
@@ -862,7 +862,7 @@
     },
     {
       "id": "cinema-tv-056",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel cinéaste suédois a réalisé « Le Septième Sceau », où un chevalier joue aux échecs avec la Mort ?",
       "answer": "Ingmar Bergman",
       "accept": [
@@ -894,7 +894,7 @@
     },
     {
       "id": "cinema-tv-058",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quel film de Marcel Pagnol se trouve la célèbre partie de cartes où César lance « Tu me fends le cœur » ?",
       "answer": "Marius",
       "accept": [],
@@ -940,7 +940,7 @@
     },
     {
       "id": "cinema-tv-061",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel film de Pixar a pour héros Rémy, un rat qui rêve de devenir grand chef à Paris ?",
       "answer": "Ratatouille",
       "accept": [],
@@ -1049,7 +1049,7 @@
     },
     {
       "id": "cinema-tv-068",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Comment appelle-t-on une scène entière filmée en une seule prise continue, sans aucune coupe au montage ?",
       "answer": "Plan-séquence",
       "accept": [
@@ -1065,7 +1065,7 @@
     },
     {
       "id": "cinema-tv-069",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le cadrage d'un personnage coupé à mi-cuisses, très utilisé dans les westerns ?",
       "answer": "Plan américain",
       "accept": [],
@@ -1096,7 +1096,7 @@
     },
     {
       "id": "cinema-tv-071",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel illusionniste, pionnier des trucages, a réalisé « Le Voyage dans la Lune » et son obus planté dans l'œil de l'astre ?",
       "answer": "Georges Méliès",
       "accept": [
@@ -1178,7 +1178,7 @@
     },
     {
       "id": "cinema-tv-076",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Dans la série « Les Brigades du Tigre », quel homme politique est surnommé « le Tigre » ?",
       "answer": "Georges Clemenceau",
       "accept": [
@@ -1194,7 +1194,7 @@
     },
     {
       "id": "cinema-tv-077",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Comment appelle-t-on la technique qui remplace un fond uniformément vert ou bleu par une autre image ?",
       "answer": "Incrustation",
       "accept": [
@@ -1238,7 +1238,7 @@
     },
     {
       "id": "cinema-tv-080",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel film de Jean Renoir met en scène des officiers français prisonniers dans un camp allemand pendant la Première Guerre mondiale ?",
       "answer": "La Grande Illusion",
       "accept": [

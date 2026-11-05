@@ -17,7 +17,7 @@
     },
     {
       "id": "nature-272",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on le petit fruit triangulaire du hêtre, comestible en petite quantité ?",
       "answer": "faîne",
       "accept": [
@@ -63,7 +63,7 @@
     },
     {
       "id": "nature-275",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on l'enveloppe hérissée de piquants qui protège les châtaignes sur l'arbre ?",
       "answer": "bogue",
       "accept": [],
@@ -168,7 +168,7 @@
     },
     {
       "id": "nature-282",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on l'association symbiotique d'un champignon avec une algue ou une cyanobactérie, qui colonise rochers et écorces ?",
       "answer": "lichen",
       "accept": [],
@@ -182,7 +182,7 @@
     },
     {
       "id": "nature-283",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on l'association entre les racines d'une plante et les filaments d'un champignon, qui échangent eau, sels minéraux et sucres ?",
       "answer": "mycorhize",
       "accept": [
@@ -212,7 +212,7 @@
     },
     {
       "id": "nature-285",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les minuscules pores des feuilles, bordés de deux cellules, qui règlent les échanges de gaz et d'eau ?",
       "answer": "stomates",
       "accept": [
@@ -242,7 +242,7 @@
     },
     {
       "id": "nature-287",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on l'organe mâle de la fleur, composé d'un filet et d'une anthère qui produit le pollen ?",
       "answer": "étamine",
       "accept": [
@@ -272,7 +272,7 @@
     },
     {
       "id": "nature-289",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les premières feuilles embryonnaires contenues dans la graine, au nombre d'une ou deux selon les plantes ?",
       "answer": "cotylédons",
       "accept": [
@@ -288,7 +288,7 @@
     },
     {
       "id": "nature-290",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les plantes dont les graines ne sont pas enfermées dans un fruit, comme les pins et les sapins ?",
       "answer": "gymnospermes",
       "accept": [
@@ -318,7 +318,7 @@
     },
     {
       "id": "nature-292",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment qualifie-t-on le feuillage d'un arbre qui tombe entièrement chaque année à la mauvaise saison ?",
       "answer": "caduc",
       "accept": [
@@ -335,7 +335,7 @@
     },
     {
       "id": "nature-293",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on la science qui date les bois et reconstitue les climats passés grâce aux cernes des arbres ?",
       "answer": "dendrochronologie",
       "accept": [],
@@ -409,7 +409,7 @@
     },
     {
       "id": "nature-298",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les tiges rampantes qui s'enracinent à distance et permettent au fraisier de se multiplier ?",
       "answer": "stolons",
       "accept": [
@@ -425,7 +425,7 @@
     },
     {
       "id": "nature-299",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle plante carnivore tropicale piège les insectes dans des urnes remplies d'un liquide digestif ?",
       "answer": "népenthès",
       "accept": [
@@ -442,7 +442,7 @@
     },
     {
       "id": "nature-300",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle petite plante carnivore des tourbières capture les insectes grâce aux gouttelettes collantes de ses poils ?",
       "answer": "droséra",
       "accept": [
@@ -459,7 +459,7 @@
     },
     {
       "id": "nature-301",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on la plante tropicale Mimosa pudica, qui replie aussitôt ses folioles quand on la touche ?",
       "answer": "sensitive",
       "accept": [],
@@ -489,7 +489,7 @@
     },
     {
       "id": "nature-303",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "De quelle chaîne de montagnes la pomme de terre est-elle originaire, où les Incas en cultivaient de nombreuses variétés ?",
       "answer": "Andes",
       "accept": [
@@ -681,7 +681,7 @@
     },
     {
       "id": "nature-315",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel champignon printanier très recherché possède un chapeau creux et alvéolé comme un nid d'abeille ?",
       "answer": "morille",
       "accept": [],
@@ -778,7 +778,7 @@
     },
     {
       "id": "nature-321",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel champignon en boule libère un nuage de spores en fumée lorsqu'on l'écrase ou qu'une goutte de pluie le frappe ?",
       "answer": "vesse-de-loup",
       "accept": [
@@ -794,7 +794,7 @@
     },
     {
       "id": "nature-322",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on la science qui étudie les champignons ?",
       "answer": "mycologie",
       "accept": [],
@@ -822,7 +822,7 @@
     },
     {
       "id": "nature-324",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel naturaliste suédois du XVIIIe siècle a généralisé la désignation de chaque espèce par deux noms latins ?",
       "answer": "Carl von Linné",
       "accept": [
@@ -888,7 +888,7 @@
     },
     {
       "id": "nature-328",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel arbre des îles Canaries, à la silhouette en parasol, laisse couler une résine rouge prisée des peintres et des alchimistes ?",
       "answer": "dragonnier",
       "accept": [
@@ -920,7 +920,7 @@
     },
     {
       "id": "nature-330",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel bois noir très dense, fourni par des arbres du genre Diospyros, servait aux touches noires des pianos ?",
       "answer": "ébène",
       "accept": [],
@@ -934,7 +934,7 @@
     },
     {
       "id": "nature-331",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel arbuste au bois très dur, idéal pour les haies taillées, est béni le dimanche des Rameaux ?",
       "answer": "buis",
       "accept": [],
@@ -978,7 +978,7 @@
     },
     {
       "id": "nature-334",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle petite fleur bleue est surnommée « ne m'oubliez pas » dans de nombreuses langues ?",
       "answer": "myosotis",
       "accept": [],
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "nature-343",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Le rubis et le saphir sont deux variétés colorées de quel même minéral, un oxyde d'aluminium ?",
       "answer": "corindon",
       "accept": [],
@@ -1138,7 +1138,7 @@
     },
     {
       "id": "nature-345",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle pierre verte, très prisée en Chine, recouvrait les costumes funéraires des princes de la dynastie Han ?",
       "answer": "jade",
       "accept": [],
@@ -1183,7 +1183,7 @@
     },
     {
       "id": "nature-348",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel est le nom du minéral constituant le sel gemme, du chlorure de sodium naturel ?",
       "answer": "halite",
       "accept": [],
@@ -1285,7 +1285,7 @@
     },
     {
       "id": "nature-355",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on une cavité rocheuse, souvent sphérique, dont la paroi intérieure est tapissée de cristaux ?",
       "answer": "géode",
       "accept": [],
@@ -1421,7 +1421,7 @@
     },
     {
       "id": "nature-364",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel phénomène lumineux, en forme d'aigrettes bleutées, apparaît au sommet des mâts des navires par temps d'orage ?",
       "answer": "feu de Saint-Elme",
       "accept": [
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "nature-370",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les vents réguliers soufflant des tropiques vers l'équateur, utilisés par les navigateurs pour traverser l'Atlantique ?",
       "answer": "alizés",
       "accept": [
@@ -1561,7 +1561,7 @@
     },
     {
       "id": "nature-373",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle baie canadienne, entre Nouveau-Brunswick et Nouvelle-Écosse, connaît les plus fortes marées du monde ?",
       "answer": "Fundy",
       "accept": [
@@ -1577,7 +1577,7 @@
     },
     {
       "id": "nature-374",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on un bloc de glace instable, formé par la fracturation d'un glacier sur une pente raide ?",
       "answer": "sérac",
       "accept": [
@@ -1768,7 +1768,7 @@
     },
     {
       "id": "nature-387",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle plante invasive venue d'Asie, aux tiges creuses rappelant le bambou, colonise les berges des rivières européennes ?",
       "answer": "renouée du Japon",
       "accept": [
@@ -1800,7 +1800,7 @@
     },
     {
       "id": "nature-389",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle plante à fleurs marine, endémique de Méditerranée, forme de vastes herbiers qui protègent les plages de l'érosion ?",
       "answer": "posidonie",
       "accept": [
@@ -1816,7 +1816,7 @@
     },
     {
       "id": "nature-390",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on l'ensemble des micro-organismes végétaux en suspension dans l'eau, qui produisent une grande part de l'oxygène planétaire ?",
       "answer": "phytoplancton",
       "accept": [],
@@ -1844,7 +1844,7 @@
     },
     {
       "id": "nature-392",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Lors de quelle conférence des Nations unies sur le climat l'accord de Paris a-t-il été adopté ?",
       "answer": "COP21",
       "accept": [
@@ -1860,7 +1860,7 @@
     },
     {
       "id": "nature-393",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle biologiste américaine a dénoncé les ravages du DDT dans son livre « Printemps silencieux » ?",
       "answer": "Rachel Carson",
       "accept": [
@@ -1967,7 +1967,7 @@
     },
     {
       "id": "nature-400",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel mode de conception agricole durable a été théorisé dans les années 1970 par les Australiens Bill Mollison et David Holmgren ?",
       "answer": "permaculture",
       "accept": [],
@@ -2075,7 +2075,7 @@
     },
     {
       "id": "nature-407",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle Kényane, première Africaine prix Nobel de la paix, a fondé le Mouvement de la ceinture verte qui a planté des millions d'arbres ?",
       "answer": "Wangari Maathai",
       "accept": [
@@ -2123,7 +2123,7 @@
     },
     {
       "id": "nature-410",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel cactus géant en forme de candélabre, emblème des westerns, pousse dans le désert de Sonora ?",
       "answer": "saguaro",
       "accept": [
@@ -2139,7 +2139,7 @@
     },
     {
       "id": "nature-411",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel cactus aux raquettes épineuses, naturalisé autour de la Méditerranée, donne des fruits sucrés et comestibles ?",
       "answer": "figuier de Barbarie",
       "accept": [
@@ -2170,7 +2170,7 @@
     },
     {
       "id": "nature-413",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "De quel arbuste cousin du camélia proviennent à la fois le sencha japonais et le darjeeling indien ?",
       "answer": "théier",
       "accept": [
@@ -2186,7 +2186,7 @@
     },
     {
       "id": "nature-414",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle plante tinctoriale fit au XVIe siècle la fortune du « pays de cocagne » autour de Toulouse ?",
       "answer": "pastel",
       "accept": [
@@ -2249,7 +2249,7 @@
     },
     {
       "id": "nature-418",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel arbre a été planté en masse au XIXe siècle pour assainir et fixer les sols des Landes de Gascogne ?",
       "answer": "pin maritime",
       "accept": [],
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "nature-427",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Combien de branches présente typiquement un flocon de neige en forme d'étoile ?",
       "answer": "six",
       "accept": [
@@ -2400,7 +2400,7 @@
     },
     {
       "id": "nature-428",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel mot désignant une vague de chaleur vient du nom latin d'une étoile, Sirius, qui se lève avec le soleil en été ?",
       "answer": "canicule",
       "accept": [],
@@ -2414,7 +2414,7 @@
     },
     {
       "id": "nature-429",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on l'enrichissement excessif d'un milieu aquatique en nutriments, qui provoque une prolifération d'algues ?",
       "answer": "eutrophisation",
       "accept": [],
@@ -2442,7 +2442,7 @@
     },
     {
       "id": "nature-431",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on la part du rayonnement solaire réfléchie par une surface, très élevée pour la neige fraîche ?",
       "answer": "albédo",
       "accept": [
@@ -2518,7 +2518,7 @@
     },
     {
       "id": "nature-436",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle céréale, plus vitreuse que celle du pain et riche en gluten, sert principalement à fabriquer les pâtes et la semoule ?",
       "answer": "blé dur",
       "accept": [],
@@ -2532,7 +2532,7 @@
     },
     {
       "id": "nature-437",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle plante des Andes, consommée comme une céréale, appartient en réalité à la même famille que les épinards ?",
       "answer": "quinoa",
       "accept": [],

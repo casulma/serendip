@@ -110,7 +110,7 @@
     },
     {
       "id": "langue-218",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on un mot invariable exprimant une émotion ou une sensation, comme « aïe », « ouf » ou « hélas » ?",
       "answer": "Interjection",
       "accept": [],
@@ -156,7 +156,7 @@
     },
     {
       "id": "langue-221",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le remplacement d'une voyelle finale par une apostrophe devant une voyelle, comme dans « l'arbre » ?",
       "answer": "Élision",
       "accept": [
@@ -214,7 +214,7 @@
     },
     {
       "id": "langue-225",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on un verbe privé de certaines formes de conjugaison, comme « choir », « clore » ou « gésir » ?",
       "answer": "Défectif",
       "accept": [
@@ -274,7 +274,7 @@
     },
     {
       "id": "langue-229",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel grammairien belge est l'auteur du « Bon Usage », grammaire de référence du français parue en 1936 ?",
       "answer": "Maurice Grevisse",
       "accept": [
@@ -337,7 +337,7 @@
     },
     {
       "id": "langue-233",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle discipline linguistique étudie les sons de la parole, leur production et leur perception ?",
       "answer": "Phonétique",
       "accept": [],
@@ -461,7 +461,7 @@
     },
     {
       "id": "langue-241",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on un mot nouvellement créé ou un sens nouveau donné à un mot existant ?",
       "answer": "Néologisme",
       "accept": [
@@ -537,7 +537,7 @@
     },
     {
       "id": "langue-246",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on l'étude des drapeaux, de leur histoire et de leur symbolique ?",
       "answer": "Vexillologie",
       "accept": [],
@@ -551,7 +551,7 @@
     },
     {
       "id": "langue-247",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le spécialiste ou le collectionneur de monnaies et de médailles ?",
       "answer": "Numismate",
       "accept": [
@@ -719,7 +719,7 @@
     },
     {
       "id": "langue-258",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on un parchemin dont on a effacé le texte pour en écrire un nouveau ?",
       "answer": "Palimpseste",
       "accept": [],
@@ -733,7 +733,7 @@
     },
     {
       "id": "langue-259",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on un livre imprimé en Europe avant 1501, aux tout débuts de l'imprimerie ?",
       "answer": "Incunable",
       "accept": [],
@@ -747,7 +747,7 @@
     },
     {
       "id": "langue-260",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel mot désigne la faveur abusive accordée à sa famille, à l'origine aux neveux des papes ?",
       "answer": "Népotisme",
       "accept": [
@@ -879,7 +879,7 @@
     },
     {
       "id": "langue-269",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle figure de style oppose deux idées dans une même phrase, comme « Je vis, je meurs » de Louise Labé ?",
       "answer": "Antithèse",
       "accept": [
@@ -985,7 +985,7 @@
     },
     {
       "id": "langue-276",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle figure de style représente une idée abstraite par une image concrète, comme une faucheuse pour la mort ?",
       "answer": "Allégorie",
       "accept": [
@@ -1001,7 +1001,7 @@
     },
     {
       "id": "langue-277",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle figure de style dit le contraire de ce que l'on pense, par ironie, comme « C'est du joli ! » ?",
       "answer": "Antiphrase",
       "accept": [],
@@ -1031,7 +1031,7 @@
     },
     {
       "id": "langue-279",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle figure de style consiste à s'adresser directement à un absent ou à une chose, comme « Ô temps, suspends ton vol » ?",
       "answer": "Apostrophe",
       "accept": [],
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "langue-280",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on un jeu de mots fondé sur une ressemblance de sons, souvent volontiers facile ?",
       "answer": "Calembour",
       "accept": [],
@@ -1103,7 +1103,7 @@
     },
     {
       "id": "langue-284",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment qualifie-t-on des rimes disposées selon le schéma ABBA dans une strophe ?",
       "answer": "Embrassées",
       "accept": [
@@ -1181,7 +1181,7 @@
     },
     {
       "id": "langue-289",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les petits traits terminant les extrémités des caractères dans des polices comme le Times ?",
       "answer": "Empattements",
       "accept": [
@@ -1199,7 +1199,7 @@
     },
     {
       "id": "langue-290",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on en typographie la fusion de deux lettres en un seul signe, comme œ ou æ ?",
       "answer": "Ligature",
       "accept": [],
@@ -1259,7 +1259,7 @@
     },
     {
       "id": "langue-294",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on la lettre allemande ß, qui note un s sourd ?",
       "answer": "Eszett",
       "accept": [
@@ -1415,7 +1415,7 @@
     },
     {
       "id": "langue-304",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle langue d'origine germanique, mêlée d'hébreu et de slave, était celle des Juifs d'Europe centrale et orientale ?",
       "answer": "Yiddish",
       "accept": [],
@@ -1445,7 +1445,7 @@
     },
     {
       "id": "langue-306",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle langue dérivée du néerlandais est parlée en Afrique du Sud et en Namibie ?",
       "answer": "Afrikaans",
       "accept": [],
@@ -1459,7 +1459,7 @@
     },
     {
       "id": "langue-307",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle langue sémitique, écrite avec l'alphasyllabaire guèze, est la langue de travail de l'Éthiopie ?",
       "answer": "Amharique",
       "accept": [
@@ -1475,7 +1475,7 @@
     },
     {
       "id": "langue-308",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle langue de Malte, seule langue sémitique officielle de l'Union européenne, s'écrit en alphabet latin ?",
       "answer": "Maltais",
       "accept": [],
@@ -1489,7 +1489,7 @@
     },
     {
       "id": "langue-309",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle langue austronésienne, cousine de l'indonésien, est parlée par les habitants de Madagascar ?",
       "answer": "Malgache",
       "accept": [],
@@ -1519,7 +1519,7 @@
     },
     {
       "id": "langue-311",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle langue, avec le finnois et l'estonien, appartient à la famille des langues finno-ougriennes ?",
       "answer": "Hongrois",
       "accept": [
@@ -1535,7 +1535,7 @@
     },
     {
       "id": "langue-312",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle langue ancienne de l'Inde, apparentée au latin et au grec, est la langue sacrée de l'hindouisme ?",
       "answer": "Sanskrit",
       "accept": [
@@ -1631,7 +1631,7 @@
     },
     {
       "id": "langue-318",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle langue inuite est la langue officielle du Groenland ?",
       "answer": "Groenlandais",
       "accept": [
@@ -1725,7 +1725,7 @@
     },
     {
       "id": "langue-324",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel peuple de navigateurs du Levant a inventé l'alphabet, ancêtre du grec et du latin ?",
       "answer": "Phéniciens",
       "accept": [
@@ -1742,7 +1742,7 @@
     },
     {
       "id": "langue-325",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle écriture formée de signes en forme de clous était gravée sur des tablettes d'argile en Mésopotamie ?",
       "answer": "Cunéiforme",
       "accept": [
@@ -1774,7 +1774,7 @@
     },
     {
       "id": "langue-327",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel syllabaire japonais, aux formes anguleuses, sert surtout à écrire les mots d'origine étrangère ?",
       "answer": "Katakana",
       "accept": [],
@@ -1788,7 +1788,7 @@
     },
     {
       "id": "langue-328",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les caractères d'origine chinoise utilisés dans l'écriture japonaise ?",
       "answer": "Kanji",
       "accept": [],
@@ -1802,7 +1802,7 @@
     },
     {
       "id": "langue-329",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel système de transcription en alphabet latin est la romanisation officielle du chinois mandarin ?",
       "answer": "Pinyin",
       "accept": [
@@ -1922,7 +1922,7 @@
     },
     {
       "id": "langue-337",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel organisme international regroupe les États ayant le français en partage ?",
       "answer": "OIF",
       "accept": [
@@ -1939,7 +1939,7 @@
     },
     {
       "id": "langue-338",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel géographe français, frère d'Élisée, a inventé le mot « francophonie » à la fin du XIXe siècle ?",
       "answer": "Onésime Reclus",
       "accept": [
@@ -1999,7 +1999,7 @@
     },
     {
       "id": "langue-342",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel verbe les Québécois emploient-ils pour dire « faire des courses » ou « faire du shopping » ?",
       "answer": "Magasiner",
       "accept": [],
@@ -2013,7 +2013,7 @@
     },
     {
       "id": "langue-343",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel mot français, employé au Canada, désigne un « podcast », ce programme audio que l'on télécharge pour l'écouter ?",
       "answer": "Balado",
       "accept": [
@@ -2057,7 +2057,7 @@
     },
     {
       "id": "langue-346",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel écrivain et premier président du Sénégal fut l'un des pères fondateurs de la Francophonie ?",
       "answer": "Léopold Sédar Senghor",
       "accept": [

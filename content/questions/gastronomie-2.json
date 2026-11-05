@@ -47,7 +47,7 @@
     },
     {
       "id": "gastronomie-064",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel plat brésilien emblématique est un ragoût de haricots noirs et de viandes de porc ?",
       "answer": "feijoada",
       "accept": [],
@@ -78,7 +78,7 @@
     },
     {
       "id": "gastronomie-066",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle fine galette de farine de pois chiches cuite au four à bois est une spécialité de Nice ?",
       "answer": "socca",
       "accept": [],
@@ -108,7 +108,7 @@
     },
     {
       "id": "gastronomie-068",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel plat alsacien de viandes marinées et de pommes de terre était autrefois cuit dans le four du boulanger ?",
       "answer": "baeckeoffe",
       "accept": [
@@ -197,7 +197,7 @@
     },
     {
       "id": "gastronomie-074",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chef catalan, pionnier de la cuisine moléculaire, a fait la renommée du restaurant elBulli ?",
       "answer": "Ferran Adrià",
       "accept": [
@@ -276,7 +276,7 @@
     },
     {
       "id": "gastronomie-079",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel chou fermenté et pimenté est le condiment incontournable de la cuisine coréenne ?",
       "answer": "kimchi",
       "accept": [],
@@ -372,7 +372,7 @@
     },
     {
       "id": "gastronomie-085",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appelle le poêlon en terre ou en fonte dans lequel on sert la fondue savoyarde ?",
       "answer": "caquelon",
       "accept": [],
@@ -386,7 +386,7 @@
     },
     {
       "id": "gastronomie-086",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel plat de nouilles de riz sautées, aux cacahuètes et au tamarin, est un emblème de la Thaïlande ?",
       "answer": "pad thaï",
       "accept": [
@@ -543,7 +543,7 @@
     },
     {
       "id": "gastronomie-096",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle sauce à l'estragon et à l'échalote, nommée d'après une province pyrénéenne, fut créée près de Paris ?",
       "answer": "béarnaise",
       "accept": [
@@ -731,7 +731,7 @@
     },
     {
       "id": "gastronomie-108",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle sauce mexicaine de Puebla associe piments séchés, épices et chocolat ?",
       "answer": "mole poblano",
       "accept": [
@@ -856,7 +856,7 @@
     },
     {
       "id": "gastronomie-116",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel pain de Noël allemand aux fruits secs, couvert de sucre glace, a pour capitale Dresde ?",
       "answer": "stollen",
       "accept": [
@@ -904,7 +904,7 @@
     },
     {
       "id": "gastronomie-119",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel gastronome français a signé « Physiologie du goût », parue en 1825 ?",
       "answer": "Brillat-Savarin",
       "accept": [
@@ -936,7 +936,7 @@
     },
     {
       "id": "gastronomie-121",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle pâtisserie fourrée de crème a été baptisée par Brigitte Bardot sur le tournage de « Et Dieu… créa la femme » ?",
       "answer": "tarte tropézienne",
       "accept": [
@@ -952,7 +952,7 @@
     },
     {
       "id": "gastronomie-122",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle brioche alsacienne aux raisins secs, en forme de couronne, cuit dans un moule en terre vernissée ?",
       "answer": "kouglof",
       "accept": [
@@ -1002,7 +1002,7 @@
     },
     {
       "id": "gastronomie-125",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment s'appelle le mode de cuisson doux où un récipient est plongé dans de l'eau chaude ?",
       "answer": "bain-marie",
       "accept": [
@@ -1018,7 +1018,7 @@
     },
     {
       "id": "gastronomie-126",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle pâtisserie de pâte filo, de fruits secs et de sirop de miel est un emblème de la cuisine turque ?",
       "answer": "baklava",
       "accept": [],
@@ -1140,7 +1140,7 @@
     },
     {
       "id": "gastronomie-134",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle grande crêpe éthiopienne fermentée, faite de teff, sert à la fois d'assiette et de couverts ?",
       "answer": "injera",
       "accept": [
@@ -1221,7 +1221,7 @@
     },
     {
       "id": "gastronomie-139",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle confiserie en forme de navette, à pâte d'amande et melon confit, est la spécialité d'Aix-en-Provence ?",
       "answer": "calisson",
       "accept": [],
@@ -1263,7 +1263,7 @@
     },
     {
       "id": "gastronomie-142",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel petit gâteau bordelais à croûte caramélisée, parfumé au rhum et à la vanille, cuit dans un moule cannelé ?",
       "answer": "canelé",
       "accept": [
@@ -1355,7 +1355,7 @@
     },
     {
       "id": "gastronomie-148",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel restaurant parisien du quai de la Tournelle numérote chacun de ses canards au sang depuis la fin du XIXe siècle ?",
       "answer": "La Tour d'Argent",
       "accept": [
@@ -1528,7 +1528,7 @@
     },
     {
       "id": "gastronomie-159",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel biscuit belge à la cassonade et à la cannelle est traditionnellement offert à la Saint-Nicolas ?",
       "answer": "spéculoos",
       "accept": [

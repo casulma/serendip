@@ -69,7 +69,7 @@
   },
   {
    "id": "langue-005",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Comment appelle-t-on un mot ou une phrase qui se lit de la même façon dans les deux sens, comme « kayak » ?",
    "answer": "Palindrome",
    "accept": [],
@@ -111,7 +111,7 @@
   },
   {
    "id": "langue-008",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quelle figure de style consiste à exagérer pour frapper les esprits, comme dans « mourir de rire » ?",
    "answer": "Hyperbole",
    "accept": [],
@@ -141,7 +141,7 @@
   },
   {
    "id": "langue-010",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Comment appelle-t-on une répétition inutile de sens, comme dans « monter en haut » ou « prévoir à l'avance » ?",
    "answer": "Pléonasme",
    "accept": [
@@ -185,7 +185,7 @@
   },
   {
    "id": "langue-013",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Quel petit fleuve Jules César franchit-il en 49 av. J.-C., donnant une expression synonyme de décision irrévocable ?",
    "answer": "Rubicon",
    "accept": [],
@@ -358,7 +358,7 @@
   },
   {
    "id": "langue-024",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Comment appelle-t-on le signe ondulé placé sur le n espagnol de « mañana » ?",
    "answer": "Tilde",
    "accept": [],
@@ -386,7 +386,7 @@
   },
   {
    "id": "langue-026",
-   "difficulty": 1,
+   "difficulty": 2,
    "question": "Comment appelle-t-on une personne qui collectionne et étudie les timbres-poste ?",
    "answer": "Philatéliste",
    "accept": [
@@ -716,7 +716,7 @@
   },
   {
    "id": "langue-047",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quel mot japonais, signifiant littéralement « vent divin », désigne les pilotes suicides de la Seconde Guerre mondiale ?",
    "answer": "Kamikaze",
    "accept": [],
@@ -730,7 +730,7 @@
   },
   {
    "id": "langue-048",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quelle langue isolée, sans parenté connue, est parlée de part et d'autre des Pyrénées occidentales ?",
    "answer": "Basque",
    "accept": [
@@ -791,7 +791,7 @@
   },
   {
    "id": "langue-052",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quel mot latin signifiant « glissement » désigne une erreur involontaire de langage, un mot en remplaçant un autre ?",
    "answer": "Lapsus",
    "accept": [
@@ -807,7 +807,7 @@
   },
   {
    "id": "langue-053",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "Quel mot latin, signifiant « quelque chose pour quelque chose », désigne une méprise sur une personne ou une chose ?",
    "answer": "Quiproquo",
    "accept": [
@@ -823,7 +823,7 @@
   },
   {
    "id": "langue-054",
-   "difficulty": 2,
+   "difficulty": 1,
    "question": "De quelle couleur était l'éminence qui désignait le père Joseph, conseiller influent de Richelieu ?",
    "answer": "Grise",
    "accept": [
@@ -978,7 +978,7 @@
   },
   {
    "id": "langue-064",
-   "difficulty": 3,
+   "difficulty": 1,
    "question": "Quel mot japonais désignant un raz-de-marée signifie littéralement « vague du port » ?",
    "answer": "Tsunami",
    "accept": [],
@@ -1039,7 +1039,7 @@
   },
   {
    "id": "langue-068",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Comment appelle-t-on une phrase contenant toutes les lettres de l'alphabet, comme « Portez ce vieux whisky au juge blond qui fume » ?",
    "answer": "Pangramme",
    "accept": [],
@@ -1067,7 +1067,7 @@
   },
   {
    "id": "langue-070",
-   "difficulty": 3,
+   "difficulty": 2,
    "question": "Quel terme désigne le nom donné aux habitants d'un lieu, comme « Stéphanois » pour ceux de Saint-Étienne ?",
    "answer": "gentilé",
    "accept": [

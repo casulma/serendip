@@ -169,7 +169,7 @@
     },
     {
       "id": "sport-312",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel mat rapide, obtenu par la dame et le fou sur la case f7, est le piège classique des débutants aux échecs ?",
       "answer": "coup du berger",
       "accept": [
@@ -266,7 +266,7 @@
     },
     {
       "id": "sport-318",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "De quelle couleur est la case du zéro sur une roulette de casino ?",
       "answer": "vert",
       "accept": [
@@ -332,7 +332,7 @@
     },
     {
       "id": "sport-322",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel casse-tête chinois permet de composer des centaines de silhouettes à partir de sept pièces géométriques ?",
       "answer": "tangram",
       "accept": [],
@@ -404,7 +404,7 @@
     },
     {
       "id": "sport-327",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel président des États-Unis a donné son surnom à l'ours en peluche, appelé teddy bear en anglais ?",
       "answer": "Theodore Roosevelt",
       "accept": [
@@ -435,7 +435,7 @@
     },
     {
       "id": "sport-329",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les poupées gigognes russes en bois peint, emboîtées les unes dans les autres ?",
       "answer": "matriochka",
       "accept": [
@@ -565,7 +565,7 @@
     },
     {
       "id": "sport-337",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel jeu de rôle médiéval-fantastique, créé en 1974 par les Américains Gary Gygax et Dave Arneson, fut le premier du genre ?",
       "answer": "Donjons et Dragons",
       "accept": [
@@ -722,7 +722,7 @@
     },
     {
       "id": "sport-347",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel professeur de physique américain d'origine hongroise a donné son nom au classement des joueurs d'échecs ?",
       "answer": "Arpad Elo",
       "accept": [
@@ -739,7 +739,7 @@
     },
     {
       "id": "sport-348",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel automate joueur d'échecs, construit au XVIIIe siècle par Wolfgang von Kempelen, cachait en réalité un joueur humain ?",
       "answer": "Turc mécanique",
       "accept": [
@@ -769,7 +769,7 @@
     },
     {
       "id": "sport-350",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel jeu africain de semailles consiste à distribuer des graines dans les trous d'un plateau pour capturer celles de l'adversaire ?",
       "answer": "awalé",
       "accept": [
@@ -817,7 +817,7 @@
     },
     {
       "id": "sport-353",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Combien de pièces compte un jeu de dominos classique, du double blanc au double six ?",
       "answer": "28",
       "accept": [
@@ -867,7 +867,7 @@
     },
     {
       "id": "sport-356",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel jeu de dés traditionnel porte le nom de sa combinaison la plus forte, formée d'un quatre, d'un deux et d'un as ?",
       "answer": "421",
       "accept": [
@@ -884,7 +884,7 @@
     },
     {
       "id": "sport-357",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel nom biblique est inscrit sur le roi de pique dans les jeux de cartes au portrait français ?",
       "answer": "David",
       "accept": [],
@@ -978,7 +978,7 @@
     },
     {
       "id": "sport-363",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on l'auteur des grilles de mots croisés, par opposition au cruciverbiste qui les résout ?",
       "answer": "verbicruciste",
       "accept": [
@@ -994,7 +994,7 @@
     },
     {
       "id": "sport-364",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle cofondatrice de Mattel a créé la poupée Barbie, à laquelle elle donna le prénom de sa fille Barbara ?",
       "answer": "Ruth Handler",
       "accept": [
@@ -1024,7 +1024,7 @@
     },
     {
       "id": "sport-366",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel jouet en forme de ressort, inventé par l'ingénieur Richard James, est capable de descendre seul les marches d'un escalier ?",
       "answer": "Slinky",
       "accept": [],
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "sport-370",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel disque volant doit son nom à une pâtisserie américaine dont les étudiants de Yale se lançaient les moules à tarte ?",
       "answer": "Frisbee",
       "accept": [],
@@ -1176,7 +1176,7 @@
     },
     {
       "id": "sport-376",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle entreprise japonaise, célèbre pour Super Mario, fabriquait à ses débuts des cartes à jouer appelées hanafuda ?",
       "answer": "Nintendo",
       "accept": [],
@@ -1238,7 +1238,7 @@
     },
     {
       "id": "sport-380",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel jouet de dentition en caoutchouc, créé en 1961 et fabriqué en Haute-Savoie, a la forme d'un animal tacheté ?",
       "answer": "Sophie la girafe",
       "accept": [

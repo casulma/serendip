@@ -19,7 +19,7 @@
     },
     {
       "id": "arts-litterature-102",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Dans une fable de La Fontaine, quelle plante fragile plie sans rompre sous la tempête qui déracine un arbre orgueilleux ?",
       "answer": "roseau",
       "accept": [
@@ -35,7 +35,7 @@
     },
     {
       "id": "arts-litterature-103",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel fabuliste grec de l'Antiquité, qui aurait été esclave, a inspiré une grande partie des fables de La Fontaine ?",
       "answer": "Ésope",
       "accept": [
@@ -165,7 +165,7 @@
     },
     {
       "id": "arts-litterature-111",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quels frères philologues allemands ont publié à partir de 1812 les Contes de l'enfance et du foyer ?",
       "answer": "Grimm",
       "accept": [
@@ -196,7 +196,7 @@
     },
     {
       "id": "arts-litterature-113",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle conteuse des Mille et Une Nuits échappe chaque nuit à la mort en laissant son récit inachevé jusqu'au lendemain ?",
       "answer": "Schéhérazade",
       "accept": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "arts-litterature-115",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appelle le loup, éternel souffre-douleur du goupil, dans le Roman de Renart ?",
       "answer": "Isengrin",
       "accept": [
@@ -259,7 +259,7 @@
     },
     {
       "id": "arts-litterature-117",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quel col des Pyrénées l'arrière-garde de Charlemagne est-elle massacrée, dans la Chanson de geste du neveu de l'empereur ?",
       "answer": "Roncevaux",
       "accept": [],
@@ -317,7 +317,7 @@
     },
     {
       "id": "arts-litterature-121",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Par quelle partie du corps de sa mère Gargamelle le géant Gargantua vient-il au monde, chez Rabelais ?",
       "answer": "oreille",
       "accept": [
@@ -401,7 +401,7 @@
     },
     {
       "id": "arts-litterature-126",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Après la quatrième représentation de quelle comédie Molière mourut-il en février 1673 ?",
       "answer": "Le Malade imaginaire",
       "accept": [
@@ -417,7 +417,7 @@
     },
     {
       "id": "arts-litterature-127",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel personnage de Molière découvre avec émerveillement qu'il fait de la prose sans le savoir ?",
       "answer": "Monsieur Jourdain",
       "accept": [
@@ -434,7 +434,7 @@
     },
     {
       "id": "arts-litterature-128",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appelle le valet peureux qui accompagne le séducteur dans le Dom Juan de Molière ?",
       "answer": "Sganarelle",
       "accept": [],
@@ -448,7 +448,7 @@
     },
     {
       "id": "arts-litterature-129",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle héroïne de Racine, épouse de Thésée, brûle d'un amour coupable pour son beau-fils Hippolyte ?",
       "answer": "Phèdre",
       "accept": [
@@ -591,7 +591,7 @@
     },
     {
       "id": "arts-litterature-138",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Sous quel titre d'ensemble Balzac a-t-il réuni ses romans, comme Le Père Goriot et Eugénie Grandet ?",
       "answer": "La Comédie humaine",
       "accept": [
@@ -897,7 +897,7 @@
     },
     {
       "id": "arts-litterature-158",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel cycle de vingt romans d'Émile Zola suit une famille sous le Second Empire, sur cinq générations ?",
       "answer": "Les Rougon-Macquart",
       "accept": [
@@ -927,7 +927,7 @@
     },
     {
       "id": "arts-litterature-160",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel surnom porte Georges Duroy, journaliste séducteur et arriviste créé par Maupassant ?",
       "answer": "Bel-Ami",
       "accept": [
@@ -1005,7 +1005,7 @@
     },
     {
       "id": "arts-litterature-165",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle forteresse, au large de Marseille, Edmond Dantès est-il emprisonné, dans Le Comte de Monte-Cristo ?",
       "answer": "Château d'If",
       "accept": [
@@ -1021,7 +1021,7 @@
     },
     {
       "id": "arts-litterature-166",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel prêtre italien, compagnon de captivité d'Edmond Dantès, lui révèle l'existence d'un fabuleux trésor ?",
       "answer": "Abbé Faria",
       "accept": [
@@ -1053,7 +1053,7 @@
     },
     {
       "id": "arts-litterature-168",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel chevalier, héros du Bossu de Paul Féval, maîtrise la redoutable botte de Nevers ?",
       "answer": "Lagardère",
       "accept": [
@@ -1069,7 +1069,7 @@
     },
     {
       "id": "arts-litterature-169",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel courrier du tsar traverse la Sibérie jusqu'à Irkoutsk dans un roman de Jules Verne ?",
       "answer": "Michel Strogoff",
       "accept": [
@@ -1118,7 +1118,7 @@
     },
     {
       "id": "arts-litterature-172",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel gentleman anglais de Jules Verne parie au Reform Club qu'il bouclera le tour du monde en quatre-vingts jours ?",
       "answer": "Phileas Fogg",
       "accept": [
@@ -1196,7 +1196,7 @@
     },
     {
       "id": "arts-litterature-177",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel romancier a écrit l'incipit « Longtemps, je me suis couché de bonne heure » ?",
       "answer": "Marcel Proust",
       "accept": [
@@ -1212,7 +1212,7 @@
     },
     {
       "id": "arts-litterature-178",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel roman d'Alain-Fournier, mort au front en 1914, suit Augustin à la recherche d'un domaine mystérieux ?",
       "answer": "Le Grand Meaulnes",
       "accept": [
@@ -1274,7 +1274,7 @@
     },
     {
       "id": "arts-litterature-182",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle pièce de Jean-Paul Sartre un personnage conclut-il que « l'enfer, c'est les autres » ?",
       "answer": "Huis clos",
       "accept": [],
@@ -1288,7 +1288,7 @@
     },
     {
       "id": "arts-litterature-183",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle gamine délurée de Raymond Queneau, en visite chez son oncle, rêve de prendre le métro parisien ?",
       "answer": "Zazie",
       "accept": [],
@@ -1302,7 +1302,7 @@
     },
     {
       "id": "arts-litterature-184",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel livre de Raymond Queneau raconte quatre-vingt-dix-neuf fois la même anecdote survenue dans un autobus ?",
       "answer": "Exercices de style",
       "accept": [],
@@ -1412,7 +1412,7 @@
     },
     {
       "id": "arts-litterature-191",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle pièce d'Alfred Jarry commence par le juron « Merdre ! », qui fit scandale en 1896 ?",
       "answer": "Ubu roi",
       "accept": [
@@ -1428,7 +1428,7 @@
     },
     {
       "id": "arts-litterature-192",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Dans quelle pièce d'Eugène Ionesco les habitants d'une ville se transforment-ils un à un en pachydermes cornus ?",
       "answer": "Rhinocéros",
       "accept": [
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "arts-litterature-196",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel acteur et metteur en scène a fondé en 1947 le Festival d'Avignon ?",
       "answer": "Jean Vilar",
       "accept": [
@@ -1506,7 +1506,7 @@
     },
     {
       "id": "arts-litterature-197",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quel restaurant parisien le prix Goncourt est-il traditionnellement proclamé ?",
       "answer": "Drouant",
       "accept": [],
@@ -1584,7 +1584,7 @@
     },
     {
       "id": "arts-litterature-202",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel roman de Saint-Exupéry sur les pilotes de l'Aéropostale volant dans l'obscurité a obtenu le prix Femina en 1931 ?",
       "answer": "Vol de nuit",
       "accept": [],
@@ -1614,7 +1614,7 @@
     },
     {
       "id": "arts-litterature-204",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel poète français a reçu en 1901 le tout premier prix Nobel de littérature ?",
       "answer": "Sully Prudhomme",
       "accept": [
@@ -1646,7 +1646,7 @@
     },
     {
       "id": "arts-litterature-206",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle romancière suédoise, auteure du Merveilleux Voyage de Nils Holgersson, fut la première femme Nobel de littérature ?",
       "answer": "Selma Lagerlöf",
       "accept": [
@@ -1664,7 +1664,7 @@
     },
     {
       "id": "arts-litterature-207",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel poète bengali fut, en 1913, le premier lauréat non européen du prix Nobel de littérature ?",
       "answer": "Rabindranath Tagore",
       "accept": [
@@ -1770,7 +1770,7 @@
     },
     {
       "id": "arts-litterature-214",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment s'appelle le cheval efflanqué du chevalier de la Manche, chez Cervantes ?",
       "answer": "Rossinante",
       "accept": [],
@@ -1815,7 +1815,7 @@
     },
     {
       "id": "arts-litterature-217",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel jeune héros de Goethe se donne la mort par amour pour Charlotte, promise à un autre ?",
       "answer": "Werther",
       "accept": [],
@@ -1861,7 +1861,7 @@
     },
     {
       "id": "arts-litterature-220",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel pirate unijambiste, flanqué d'un perroquet, est engagé comme cuisinier dans L'Île au trésor ?",
       "answer": "Long John Silver",
       "accept": [
@@ -1912,7 +1912,7 @@
     },
     {
       "id": "arts-litterature-223",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel vieil avare de Charles Dickens reçoit la visite des esprits des Noëls passé, présent et futur ?",
       "answer": "Ebenezer Scrooge",
       "accept": [
@@ -1978,7 +1978,7 @@
     },
     {
       "id": "arts-litterature-227",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel écrivain irlandais a créé le comte Dracula dans un roman épistolaire de 1897 ?",
       "answer": "Bram Stoker",
       "accept": [
@@ -2043,7 +2043,7 @@
     },
     {
       "id": "arts-litterature-231",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel romancier américain a écrit Le Vieil Homme et la Mer, l'histoire d'un pêcheur cubain aux prises avec un espadon ?",
       "answer": "Ernest Hemingway",
       "accept": [
@@ -2089,7 +2089,7 @@
     },
     {
       "id": "arts-litterature-234",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle héroïne de Tolstoï se jette sous un train après sa liaison avec le comte Vronski ?",
       "answer": "Anna Karénine",
       "accept": [
@@ -2185,7 +2185,7 @@
     },
     {
       "id": "arts-litterature-240",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quel village imaginaire se déroule Cent ans de solitude de Gabriel García Márquez ?",
       "answer": "Macondo",
       "accept": [],
@@ -2465,7 +2465,7 @@
     },
     {
       "id": "arts-litterature-258",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment s'appelle le monde imaginaire où se déroule l'essentiel du Seigneur des anneaux de Tolkien ?",
       "answer": "Terre du Milieu",
       "accept": [
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "arts-litterature-261",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel roman de Ray Bradbury met en scène des pompiers chargés de brûler les livres ?",
       "answer": "Fahrenheit 451",
       "accept": [],
@@ -2528,7 +2528,7 @@
     },
     {
       "id": "arts-litterature-262",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quel court roman de George Orwell les cochons Napoléon et Boule de Neige prennent-ils le pouvoir après avoir chassé le fermier ?",
       "answer": "La Ferme des animaux",
       "accept": [
@@ -2674,7 +2674,7 @@
     },
     {
       "id": "arts-litterature-271",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel personnage défiguré, chez Gaston Leroux, hante les dessous du palais Garnier et s'éprend de Christine Daaé ?",
       "answer": "Fantôme de l'Opéra",
       "accept": [
@@ -2814,7 +2814,7 @@
     },
     {
       "id": "arts-litterature-280",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel est le vrai nom de Hergé, dont le pseudonyme reprend ses initiales inversées ?",
       "answer": "Georges Remi",
       "accept": [
@@ -2906,7 +2906,7 @@
     },
     {
       "id": "arts-litterature-286",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel dessinateur belge a créé les Schtroumpfs, petits lutins bleus vivant dans des champignons ?",
       "answer": "Peyo",
       "accept": [
@@ -2939,7 +2939,7 @@
     },
     {
       "id": "arts-litterature-288",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle ville se tient chaque année, depuis 1974, le plus grand festival de bande dessinée francophone ?",
       "answer": "Angoulême",
       "accept": [

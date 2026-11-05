@@ -35,7 +35,7 @@
     },
     {
       "id": "histoire-363",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle bataille de 1525 se solda par la capture de François Ier par les troupes de Charles Quint ?",
       "answer": "Pavie",
       "accept": [],
@@ -65,7 +65,7 @@
     },
     {
       "id": "histoire-365",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel roi d'Espagne, fils de Charles Quint, fit bâtir le palais-monastère de l'Escurial près de Madrid ?",
       "answer": "Philippe II",
       "accept": [],
@@ -79,7 +79,7 @@
     },
     {
       "id": "histoire-366",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle flotte espagnole fut défaite en 1588 alors qu'elle tentait d'envahir l'Angleterre d'Élisabeth Ire ?",
       "answer": "Invincible Armada",
       "accept": [
@@ -160,7 +160,7 @@
     },
     {
       "id": "histoire-371",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle famille de banquiers dirigea Florence, notamment avec Laurent le Magnifique ?",
       "answer": "Médicis",
       "accept": [
@@ -241,7 +241,7 @@
     },
     {
       "id": "histoire-376",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel roi de France mourut en 1559 d'un coup de lance dans l'œil reçu lors d'un tournoi ?",
       "answer": "Henri II",
       "accept": [],
@@ -301,7 +301,7 @@
     },
     {
       "id": "histoire-380",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel navigateur portugais ouvrit la route maritime des Indes en atteignant Calicut en 1498 ?",
       "answer": "Vasco de Gama",
       "accept": [
@@ -317,7 +317,7 @@
     },
     {
       "id": "histoire-381",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel navigateur portugais fut le premier Européen à doubler l'extrémité sud de l'Afrique, en 1488 ?",
       "answer": "Bartolomeu Dias",
       "accept": [
@@ -334,7 +334,7 @@
     },
     {
       "id": "histoire-382",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel navigateur florentin a donné son prénom au continent américain ?",
       "answer": "Amerigo Vespucci",
       "accept": [
@@ -385,7 +385,7 @@
     },
     {
       "id": "histoire-385",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel navigateur basque ramena en Espagne la première expédition autour du monde après la mort de Magellan ?",
       "answer": "Juan Sebastián Elcano",
       "accept": [
@@ -436,7 +436,7 @@
     },
     {
       "id": "histoire-388",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel dominicain espagnol défendit les Indiens d'Amérique lors de la controverse de Valladolid ?",
       "answer": "Bartolomé de las Casas",
       "accept": [
@@ -499,7 +499,7 @@
     },
     {
       "id": "histoire-392",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel complot de 1605 visait à faire sauter le Parlement anglais et le roi Jacques Ier ?",
       "answer": "conspiration des poudres",
       "accept": [
@@ -515,7 +515,7 @@
     },
     {
       "id": "histoire-393",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel roi d'Angleterre fut décapité à Londres en 1649 après sa défaite face au Parlement ?",
       "answer": "Charles Ier",
       "accept": [
@@ -531,7 +531,7 @@
     },
     {
       "id": "histoire-394",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel chef puritain gouverna l'Angleterre avec le titre de lord-protecteur de 1653 à sa mort ?",
       "answer": "Oliver Cromwell",
       "accept": [
@@ -547,7 +547,7 @@
     },
     {
       "id": "histoire-395",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on la révolution anglaise de 1688 qui chassa Jacques II au profit de Guillaume d'Orange ?",
       "answer": "Glorieuse Révolution",
       "accept": [
@@ -622,7 +622,7 @@
     },
     {
       "id": "histoire-400",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Par quel édit, signé dans un château royal en 1685, Louis XIV révoqua-t-il l'édit de Nantes ?",
       "answer": "Fontainebleau",
       "accept": [
@@ -638,7 +638,7 @@
     },
     {
       "id": "histoire-401",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel ingénieur militaire de Louis XIV entoura le royaume d'une « ceinture de fer » de places fortes ?",
       "answer": "Vauban",
       "accept": [
@@ -671,7 +671,7 @@
     },
     {
       "id": "histoire-403",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel tsar fonda Saint-Pétersbourg en 1703 pour ouvrir la Russie sur la Baltique ?",
       "answer": "Pierre le Grand",
       "accept": [
@@ -779,7 +779,7 @@
     },
     {
       "id": "histoire-410",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle bataille navale de 1571, au large de la Grèce, vit la Sainte Ligue vaincre la flotte ottomane ?",
       "answer": "Lépante",
       "accept": [],
@@ -793,7 +793,7 @@
     },
     {
       "id": "histoire-411",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel roi de France, arrière-petit-fils de Louis XIV, était surnommé le Bien-Aimé ?",
       "answer": "Louis XV",
       "accept": [
@@ -891,7 +891,7 @@
     },
     {
       "id": "histoire-417",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle salle les députés du tiers état jurèrent-ils, le 20 juin 1789, de ne pas se séparer avant d'avoir donné une Constitution ?",
       "answer": "Jeu de paume",
       "accept": [
@@ -907,7 +907,7 @@
     },
     {
       "id": "histoire-418",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quelle petite ville de l'Argonne Louis XVI fut-il arrêté lors de sa fuite en juin 1791 ?",
       "answer": "Varennes",
       "accept": [
@@ -1099,7 +1099,7 @@
     },
     {
       "id": "histoire-430",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle bataille navale de 1805, au large de l'Espagne, ruina la flotte franco-espagnole face aux Britanniques ?",
       "answer": "Trafalgar",
       "accept": [],
@@ -1239,7 +1239,7 @@
     },
     {
       "id": "histoire-439",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel futur président fut le principal rédacteur de la Déclaration d'indépendance américaine de 1776 ?",
       "answer": "Thomas Jefferson",
       "accept": [
@@ -1255,7 +1255,7 @@
     },
     {
       "id": "histoire-440",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel marquis français partit combattre aux côtés des insurgés américains dès 1777 ?",
       "answer": "La Fayette",
       "accept": [
@@ -1271,7 +1271,7 @@
     },
     {
       "id": "histoire-441",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle ville de Virginie l'armée britannique de Cornwallis capitula-t-elle en 1781 ?",
       "answer": "Yorktown",
       "accept": [],
@@ -1285,7 +1285,7 @@
     },
     {
       "id": "histoire-442",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle bataille de 1759 devant Québec coûta la vie aux généraux Montcalm et Wolfe ?",
       "answer": "Plaines d'Abraham",
       "accept": [
@@ -1315,7 +1315,7 @@
     },
     {
       "id": "histoire-444",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel navigateur britannique explora le Pacifique avant d'être tué à Hawaï en 1779 ?",
       "answer": "James Cook",
       "accept": [
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "histoire-445",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel navigateur français disparut avec ses deux frégates à Vanikoro en 1788 ?",
       "answer": "La Pérouse",
       "accept": [
@@ -1364,7 +1364,7 @@
     },
     {
       "id": "histoire-447",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel roi de Prusse, flûtiste et ami de Voltaire, fit bâtir le château de Sans-Souci à Potsdam ?",
       "answer": "Frédéric II",
       "accept": [
@@ -1380,7 +1380,7 @@
     },
     {
       "id": "histoire-448",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle capitale européenne fut détruite par un séisme et un tsunami le 1er novembre 1755 ?",
       "answer": "Lisbonne",
       "accept": [],
@@ -1489,7 +1489,7 @@
     },
     {
       "id": "histoire-455",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les trois journées révolutionnaires de juillet 1830 qui renversèrent Charles X ?",
       "answer": "Trois Glorieuses",
       "accept": [
@@ -1505,7 +1505,7 @@
     },
     {
       "id": "histoire-456",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel préfet de la Seine transforma Paris sous le Second Empire avec ses grands boulevards ?",
       "answer": "Haussmann",
       "accept": [
@@ -1553,7 +1553,7 @@
     },
     {
       "id": "histoire-459",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle insurrection parisienne de 1871 s'acheva par la « Semaine sanglante » ?",
       "answer": "Commune",
       "accept": [
@@ -1583,7 +1583,7 @@
     },
     {
       "id": "histoire-461",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel émir mena la résistance algérienne contre la conquête française de 1832 à 1847 ?",
       "answer": "Abd el-Kader",
       "accept": [
@@ -1691,7 +1691,7 @@
     },
     {
       "id": "histoire-468",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelait-on les soldats indiens dont la révolte de 1857 ébranla la domination britannique ?",
       "answer": "cipayes",
       "accept": [
@@ -1723,7 +1723,7 @@
     },
     {
       "id": "histoire-470",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel palais impérial de Pékin fut pillé et incendié par les Français et les Britanniques en 1860 ?",
       "answer": "palais d'Été",
       "accept": [
@@ -1740,7 +1740,7 @@
     },
     {
       "id": "histoire-471",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel officier américain imposa l'ouverture du Japon avec ses « navires noirs » en 1853 ?",
       "answer": "Matthew Perry",
       "accept": [
@@ -1817,7 +1817,7 @@
     },
     {
       "id": "histoire-476",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle infirmière britannique, surnommée la Dame à la lampe, réforma les soins aux blessés pendant la guerre de Crimée ?",
       "answer": "Florence Nightingale",
       "accept": [
@@ -1833,7 +1833,7 @@
     },
     {
       "id": "histoire-477",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel ministre piémontais fut le principal artisan diplomatique de l'unité italienne ?",
       "answer": "Cavour",
       "accept": [
@@ -1850,7 +1850,7 @@
     },
     {
       "id": "histoire-478",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel chancelier prussien, surnommé le chancelier de fer, réalisa l'unité allemande ?",
       "answer": "Bismarck",
       "accept": [
@@ -1959,7 +1959,7 @@
     },
     {
       "id": "histoire-485",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel général sudiste commanda l'armée de Virginie du Nord pendant la guerre de Sécession ?",
       "answer": "Robert E. Lee",
       "accept": [
@@ -1976,7 +1976,7 @@
     },
     {
       "id": "histoire-486",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Près de quelle rivière du Montana le lieutenant-colonel Custer fut-il tué en 1876 ?",
       "answer": "Little Bighorn",
       "accept": [],
@@ -1990,7 +1990,7 @@
     },
     {
       "id": "histoire-487",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel chef apache chiricahua fut l'un des derniers à se rendre à l'armée américaine, en 1886 ?",
       "answer": "Geronimo",
       "accept": [],
@@ -2067,7 +2067,7 @@
     },
     {
       "id": "histoire-492",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel paquebot britannique, torpillé par un sous-marin allemand en 1915, causa la mort de nombreux Américains ?",
       "answer": "Lusitania",
       "accept": [],
@@ -2095,7 +2095,7 @@
     },
     {
       "id": "histoire-494",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel gaz de combat, utilisé près d'une ville belge en 1917, a pris le nom de celle-ci ?",
       "answer": "ypérite",
       "accept": [
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "histoire-495",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel aviateur allemand de la Grande Guerre était surnommé le Baron rouge ?",
       "answer": "Manfred von Richthofen",
       "accept": [
@@ -2160,7 +2160,7 @@
     },
     {
       "id": "histoire-498",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle presqu'île turque fut en 1915 le théâtre d'un débarquement allié meurtrier pour les Australiens et Néo-Zélandais ?",
       "answer": "Gallipoli",
       "accept": [
@@ -2335,7 +2335,7 @@
     },
     {
       "id": "histoire-509",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel président des États-Unis est le seul à avoir été élu à quatre reprises ?",
       "answer": "Franklin Delano Roosevelt",
       "accept": [
@@ -2464,7 +2464,7 @@
     },
     {
       "id": "histoire-517",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le pogrom organisé par les nazis dans toute l'Allemagne en novembre 1938 ?",
       "answer": "nuit de Cristal",
       "accept": [
@@ -2494,7 +2494,7 @@
     },
     {
       "id": "histoire-519",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel Premier ministre britannique revint de Munich en 1938 en promettant « la paix pour notre temps » ?",
       "answer": "Neville Chamberlain",
       "accept": [
@@ -2556,7 +2556,7 @@
     },
     {
       "id": "histoire-523",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel officier fonda en 1923 la République turque et en fut le premier président ?",
       "answer": "Mustafa Kemal",
       "accept": [
@@ -2632,7 +2632,7 @@
     },
     {
       "id": "histoire-528",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Dans quelle enceinte sportive parisienne furent parqués des milliers de juifs lors de la rafle de juillet 1942 ?",
       "answer": "Vélodrome d'Hiver",
       "accept": [
@@ -2727,7 +2727,7 @@
     },
     {
       "id": "histoire-534",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on l'affrontement aérien de 1940 entre la Luftwaffe et la Royal Air Force ?",
       "answer": "bataille d'Angleterre",
       "accept": [],
@@ -2755,7 +2755,7 @@
     },
     {
       "id": "histoire-536",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel maréchal allemand, surnommé le Renard du désert, commanda l'Afrikakorps ?",
       "answer": "Erwin Rommel",
       "accept": [
@@ -2879,7 +2879,7 @@
     },
     {
       "id": "histoire-544",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel général américain, commandant suprême des Alliés en Europe, devint président des États-Unis en 1953 ?",
       "answer": "Dwight Eisenhower",
       "accept": [
@@ -2990,7 +2990,7 @@
     },
     {
       "id": "histoire-551",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle offensive nord-vietnamienne de 1968 porte le nom du Nouvel An lunaire ?",
       "answer": "offensive du Têt",
       "accept": [
@@ -3069,7 +3069,7 @@
     },
     {
       "id": "histoire-556",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel dirigeant soviétique dénonça les crimes de Staline lors d'un rapport secret en 1956 ?",
       "answer": "Nikita Khrouchtchev",
       "accept": [
@@ -3085,7 +3085,7 @@
     },
     {
       "id": "histoire-557",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on la tentative de libéralisation du régime tchécoslovaque écrasée en août 1968 ?",
       "answer": "Printemps de Prague",
       "accept": [],
@@ -3177,7 +3177,7 @@
     },
     {
       "id": "histoire-563",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel dictateur roumain fut renversé puis exécuté avec son épouse en décembre 1989 ?",
       "answer": "Nicolae Ceaușescu",
       "accept": [
@@ -3328,7 +3328,7 @@
     },
     {
       "id": "histoire-573",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel dirigeant proclama la création de l'État d'Israël le 14 mai 1948, à Tel-Aviv ?",
       "answer": "David Ben Gourion",
       "accept": [
@@ -3345,7 +3345,7 @@
     },
     {
       "id": "histoire-574",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on la guerre éclair de juin 1967 entre Israël et ses voisins arabes ?",
       "answer": "guerre des Six Jours",
       "accept": [
@@ -3378,7 +3378,7 @@
     },
     {
       "id": "histoire-576",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel président égyptien, signataire de la paix avec Israël, fut assassiné lors d'un défilé militaire en 1981 ?",
       "answer": "Anouar el-Sadate",
       "accept": [
@@ -3411,7 +3411,7 @@
     },
     {
       "id": "histoire-578",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel ayatollah, revenu d'exil à Neauphle-le-Château, prit la tête de la révolution iranienne en 1979 ?",
       "answer": "Khomeini",
       "accept": [
@@ -3472,7 +3472,7 @@
     },
     {
       "id": "histoire-582",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel empereur d'Éthiopie, renversé en 1974, est vénéré comme un messie par les rastafaris ?",
       "answer": "Haïlé Sélassié",
       "accept": [
@@ -3605,7 +3605,7 @@
     },
     {
       "id": "histoire-590",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Qui fut le dernier tsar de Russie, contraint d'abdiquer en mars 1917 ?",
       "answer": "Nicolas II",
       "accept": [],
@@ -3633,7 +3633,7 @@
     },
     {
       "id": "histoire-592",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel président américain ordonna les bombardements atomiques sur le Japon en août 1945 ?",
       "answer": "Harry Truman",
       "accept": [

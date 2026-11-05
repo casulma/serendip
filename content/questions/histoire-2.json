@@ -34,7 +34,7 @@
     },
     {
       "id": "histoire-123",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel village des Pyrénées-Orientales a donné son nom à un homme préhistorique vieux d'environ 450 000 ans ?",
       "answer": "Tautavel",
       "accept": [],
@@ -76,7 +76,7 @@
     },
     {
       "id": "histoire-126",
-      "difficulty": 3,
+      "difficulty": 1,
       "question": "Quelle petite tête féminine en ivoire de mammouth, découverte dans les Landes, est l'un des plus anciens visages humains sculptés ?",
       "answer": "Dame de Brassempouy",
       "accept": [
@@ -93,7 +93,7 @@
     },
     {
       "id": "histoire-127",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle période de la Préhistoire est marquée par l'apparition de l'agriculture, de l'élevage et de la sédentarisation ?",
       "answer": "Néolithique",
       "accept": [],
@@ -107,7 +107,7 @@
     },
     {
       "id": "histoire-128",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel nom donne-t-on à la région du Proche-Orient en forme d'arc où naquirent l'agriculture et les premières villes ?",
       "answer": "Croissant fertile",
       "accept": [],
@@ -121,7 +121,7 @@
     },
     {
       "id": "histoire-129",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle grotte ornée des calanques de Marseille n'est accessible que par un long tunnel sous-marin ?",
       "answer": "Cosquer",
       "accept": [
@@ -153,7 +153,7 @@
     },
     {
       "id": "histoire-131",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel surnom, signifiant « espoir de vie » en langue goran, porte le crâne de Sahelanthropus découvert au Tchad en 2001 ?",
       "answer": "Toumaï",
       "accept": [],
@@ -181,7 +181,7 @@
     },
     {
       "id": "histoire-133",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle grotte cantabrique, aux bisons polychromes, fut la première dont l'art pariétal paléolithique fut reconnu ?",
       "answer": "Altamira",
       "accept": [],
@@ -195,7 +195,7 @@
     },
     {
       "id": "histoire-134",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel nom porte la tour à étages en briques qui dominait les temples de Mésopotamie ?",
       "answer": "ziggurat",
       "accept": [
@@ -271,7 +271,7 @@
     },
     {
       "id": "histoire-139",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle bataille de 1274 av. J.-C. opposa Ramsès II aux Hittites près du fleuve Oronte ?",
       "answer": "Qadesh",
       "accept": [
@@ -287,7 +287,7 @@
     },
     {
       "id": "histoire-140",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle reine légendaire aurait fondé Carthage en découpant une peau de bœuf en fines lanières ?",
       "answer": "Didon",
       "accept": [
@@ -348,7 +348,7 @@
     },
     {
       "id": "histoire-144",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sel naturel les Égyptiens utilisaient-ils pour dessécher les corps lors de la momification ?",
       "answer": "natron",
       "accept": [],
@@ -362,7 +362,7 @@
     },
     {
       "id": "histoire-145",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les vases dans lesquels les Égyptiens conservaient les viscères du défunt momifié ?",
       "answer": "canopes",
       "accept": [
@@ -379,7 +379,7 @@
     },
     {
       "id": "histoire-146",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle statue égyptienne en calcaire peint, aux yeux incrustés de cristal de roche, est l'une des vedettes du Louvre ?",
       "answer": "Scribe accroupi",
       "accept": [
@@ -489,7 +489,7 @@
     },
     {
       "id": "histoire-153",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel pharaon fit construire la plus petite des trois grandes pyramides de Gizeh ?",
       "answer": "Mykérinos",
       "accept": [
@@ -519,7 +519,7 @@
     },
     {
       "id": "histoire-155",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Dans quel sanctuaire la Pythie, assise sur un trépied, rendait-elle les oracles d'Apollon ?",
       "answer": "Delphes",
       "accept": [],
@@ -533,7 +533,7 @@
     },
     {
       "id": "histoire-156",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quelle bataille navale de 480 av. J.-C. vit la flotte grecque vaincre celle de Xerxès dans un détroit proche d'Athènes ?",
       "answer": "Salamine",
       "accept": [],
@@ -547,7 +547,7 @@
     },
     {
       "id": "histoire-157",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment s'appelait le navire de guerre grec propulsé par trois rangées superposées de rameurs ?",
       "answer": "trière",
       "accept": [
@@ -563,7 +563,7 @@
     },
     {
       "id": "histoire-158",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel historien athénien a raconté la guerre du Péloponnèse, à laquelle il participa lui-même comme stratège ?",
       "answer": "Thucydide",
       "accept": [],
@@ -577,7 +577,7 @@
     },
     {
       "id": "histoire-159",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel auteur grec d'Halicarnasse, surnommé le père de l'Histoire par Cicéron, a raconté les guerres médiques ?",
       "answer": "Hérodote",
       "accept": [],
@@ -591,7 +591,7 @@
     },
     {
       "id": "histoire-160",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel législateur athénien a donné son nom à un adjectif désignant des mesures d'une sévérité excessive ?",
       "answer": "Dracon",
       "accept": [],
@@ -605,7 +605,7 @@
     },
     {
       "id": "histoire-161",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel législateur athénien, compté parmi les Sept Sages, abolit l'esclavage pour dettes au début du VIe siècle av. J.-C. ?",
       "answer": "Solon",
       "accept": [],
@@ -619,7 +619,7 @@
     },
     {
       "id": "histoire-162",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelait-on les paysans asservis qui cultivaient la terre pour les citoyens de Sparte ?",
       "answer": "hilotes",
       "accept": [
@@ -635,7 +635,7 @@
     },
     {
       "id": "histoire-163",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment s'appelait le fantassin grec lourdement armé qui combattait en rangs serrés dans la phalange ?",
       "answer": "hoplite",
       "accept": [],
@@ -649,7 +649,7 @@
     },
     {
       "id": "histoire-164",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel orateur athénien prononça les Philippiques contre le roi Philippe II de Macédoine ?",
       "answer": "Démosthène",
       "accept": [],
@@ -677,7 +677,7 @@
     },
     {
       "id": "histoire-166",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment s'appelait le célèbre cheval d'Alexandre le Grand, qu'il était seul à pouvoir monter ?",
       "answer": "Bucéphale",
       "accept": [],
@@ -737,7 +737,7 @@
     },
     {
       "id": "histoire-170",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel palais crétois, fouillé par Arthur Evans, est associé au mythe du labyrinthe du Minotaure ?",
       "answer": "Cnossos",
       "accept": [
@@ -753,7 +753,7 @@
     },
     {
       "id": "histoire-171",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel archéologue allemand mit au jour les vestiges de Troie sur la colline d'Hissarlik, en Turquie ?",
       "answer": "Heinrich Schliemann",
       "accept": [
@@ -859,7 +859,7 @@
     },
     {
       "id": "histoire-178",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quelle bataille navale de 31 av. J.-C. vit Octave vaincre la flotte de Marc Antoine et de Cléopâtre ?",
       "answer": "Actium",
       "accept": [],
@@ -873,7 +873,7 @@
     },
     {
       "id": "histoire-179",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel empereur romain aurait songé à faire nommer consul son cheval favori, Incitatus ?",
       "answer": "Caligula",
       "accept": [],
@@ -901,7 +901,7 @@
     },
     {
       "id": "histoire-181",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel empereur romain conquit la Dacie, exploit sculpté en spirale sur une colonne d'une trentaine de mètres à Rome ?",
       "answer": "Trajan",
       "accept": [],
@@ -915,7 +915,7 @@
     },
     {
       "id": "histoire-182",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel empereur romain, vainqueur au pont Milvius en 312, fonda une nouvelle capitale sur le Bosphore ?",
       "answer": "Constantin Ier",
       "accept": [
@@ -947,7 +947,7 @@
     },
     {
       "id": "histoire-184",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chef germanique déposa en 476 Romulus Augustule, dernier empereur romain d'Occident ?",
       "answer": "Odoacre",
       "accept": [],
@@ -975,7 +975,7 @@
     },
     {
       "id": "histoire-186",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel type de gladiateur combattait armé d'un filet et d'un trident ?",
       "answer": "rétiaire",
       "accept": [],
@@ -989,7 +989,7 @@
     },
     {
       "id": "histoire-187",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel sigle latin, inscrit sur les enseignes des légions, signifie « le Sénat et le peuple romain » ?",
       "answer": "SPQR",
       "accept": [],
@@ -1003,7 +1003,7 @@
     },
     {
       "id": "histoire-188",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quels frères, tribuns de la plèbe, tentèrent une réforme agraire au IIe siècle av. J.-C. et périrent assassinés ?",
       "answer": "Gracques",
       "accept": [
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "histoire-189",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel Romain légendaire quitta sa charrue pour sauver Rome comme dictateur, puis retourna à ses champs ?",
       "answer": "Cincinnatus",
       "accept": [],
@@ -1033,7 +1033,7 @@
     },
     {
       "id": "histoire-190",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel homme politique romain terminait tous ses discours par « Il faut détruire Carthage » ?",
       "answer": "Caton l'Ancien",
       "accept": [
@@ -1066,7 +1066,7 @@
     },
     {
       "id": "histoire-192",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les trois conflits qui opposèrent Rome à Carthage entre 264 et 146 av. J.-C. ?",
       "answer": "guerres puniques",
       "accept": [],
@@ -1080,7 +1080,7 @@
     },
     {
       "id": "histoire-193",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle bataille de 216 av. J.-C. Hannibal infligea-t-il aux Romains une écrasante défaite par encerclement ?",
       "answer": "Cannes",
       "accept": [],
@@ -1094,7 +1094,7 @@
     },
     {
       "id": "histoire-194",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Dans quelle forêt de Germanie les trois légions de Varus furent-elles anéanties en l'an 9 ?",
       "answer": "Teutobourg",
       "accept": [
@@ -1156,7 +1156,7 @@
     },
     {
       "id": "histoire-198",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel empereur instaura la Tétrarchie, partageant le pouvoir entre deux Augustes et deux Césars ?",
       "answer": "Dioclétien",
       "accept": [],
@@ -1184,7 +1184,7 @@
     },
     {
       "id": "histoire-200",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle forteresse surplombant la mer Morte fut le dernier bastion des Juifs révoltés contre Rome, tombé en 73 ou 74 ?",
       "answer": "Massada",
       "accept": [
@@ -1200,7 +1200,7 @@
     },
     {
       "id": "histoire-201",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelait-on les prêtresses romaines chargées d'entretenir le feu sacré de la cité ?",
       "answer": "vestales",
       "accept": [],
@@ -1242,7 +1242,7 @@
     },
     {
       "id": "histoire-204",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle reine des Icènes mena vers l'an 60 une révolte sanglante contre les Romains en Bretagne ?",
       "answer": "Boadicée",
       "accept": [
@@ -1272,7 +1272,7 @@
     },
     {
       "id": "histoire-206",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel roi wisigoth mit Rome à sac en 410, un choc immense pour le monde romain ?",
       "answer": "Alaric Ier",
       "accept": [
@@ -1288,7 +1288,7 @@
     },
     {
       "id": "histoire-207",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel peuple de l'Italie antique, établi en Toscane, fournit plusieurs rois à Rome avant la République ?",
       "answer": "Étrusques",
       "accept": [],
@@ -1302,7 +1302,7 @@
     },
     {
       "id": "histoire-208",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chef gaulois aurait lancé « Malheur aux vaincus » après avoir pris Rome vers 390 av. J.-C. ?",
       "answer": "Brennus",
       "accept": [],
@@ -1316,7 +1316,7 @@
     },
     {
       "id": "histoire-209",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quels animaux auraient donné l'alerte lors d'une attaque nocturne des Gaulois contre le Capitole ?",
       "answer": "oies",
       "accept": [
@@ -1349,7 +1349,7 @@
     },
     {
       "id": "histoire-211",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel fondateur de l'Empire perse achéménide est célèbre pour un cylindre d'argile parfois présenté comme une charte de tolérance ?",
       "answer": "Cyrus II",
       "accept": [
@@ -1366,7 +1366,7 @@
     },
     {
       "id": "histoire-212",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quelle capitale cérémonielle des rois perses achéménides fut incendiée par Alexandre le Grand en 330 av. J.-C. ?",
       "answer": "Persépolis",
       "accept": [],
@@ -1380,7 +1380,7 @@
     },
     {
       "id": "histoire-213",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel peuple iranien, célèbre pour sa flèche tirée en feignant la fuite, vainquit Crassus à Carrhes en 53 av. J.-C. ?",
       "answer": "Parthes",
       "accept": [],
@@ -1394,7 +1394,7 @@
     },
     {
       "id": "histoire-214",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel stratège chinois de l'Antiquité est l'auteur présumé de L'Art de la guerre ?",
       "answer": "Sun Tzu",
       "accept": [
@@ -1410,7 +1410,7 @@
     },
     {
       "id": "histoire-215",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel amiral musulman de la dynastie Ming conduisit au début du XVe siècle de grandes expéditions maritimes jusqu'aux côtes africaines ?",
       "answer": "Zheng He",
       "accept": [],
@@ -1424,7 +1424,7 @@
     },
     {
       "id": "histoire-216",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel souverain mongol, petit-fils du fondateur de l'empire, fonda en Chine la dynastie Yuan au XIIIe siècle ?",
       "answer": "Kubilai Khan",
       "accept": [
@@ -1455,7 +1455,7 @@
     },
     {
       "id": "histoire-218",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle femme fut la seule de l'histoire chinoise à régner avec le titre d'empereur, sous la dynastie Tang ?",
       "answer": "Wu Zetian",
       "accept": [],
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "histoire-222",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle ville de Mongolie fut la capitale de l'Empire mongol sous Ögedei, successeur de Gengis Khan ?",
       "answer": "Karakorum",
       "accept": [],
@@ -1544,7 +1544,7 @@
     },
     {
       "id": "histoire-224",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le suicide rituel par éventration pratiqué par les samouraïs ?",
       "answer": "seppuku",
       "accept": [
@@ -1577,7 +1577,7 @@
     },
     {
       "id": "histoire-226",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle grande cité de la civilisation de l'Indus, au Pakistan, possédait un célèbre Grand Bain ?",
       "answer": "Mohenjo-daro",
       "accept": [],
@@ -1621,7 +1621,7 @@
     },
     {
       "id": "histoire-229",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel roi indien affronta Alexandre le Grand à la bataille de l'Hydaspe en 326 av. J.-C. ?",
       "answer": "Porus",
       "accept": [],
@@ -1635,7 +1635,7 @@
     },
     {
       "id": "histoire-230",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel conquérant turco-mongol boiteux, qui fit de Samarcande sa capitale, ravagea Delhi en 1398 ?",
       "answer": "Tamerlan",
       "accept": [
@@ -1652,7 +1652,7 @@
     },
     {
       "id": "histoire-231",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle civilisation du golfe du Mexique a sculpté des têtes colossales en basalte ?",
       "answer": "Olmèques",
       "accept": [],
@@ -1666,7 +1666,7 @@
     },
     {
       "id": "histoire-232",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel site maya du Yucatán est célèbre pour sa pyramide de Kukulcán, où un serpent d'ombre apparaît aux équinoxes ?",
       "answer": "Chichén Itzá",
       "accept": [
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "histoire-233",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelait-on les champs artificiels gagnés sur les lacs par les Aztèques pour cultiver maïs et légumes ?",
       "answer": "chinampas",
       "accept": [
@@ -1698,7 +1698,7 @@
     },
     {
       "id": "histoire-234",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel système de cordelettes nouées servait aux Incas à tenir leurs comptes et leurs registres ?",
       "answer": "quipu",
       "accept": [
@@ -1777,7 +1777,7 @@
     },
     {
       "id": "histoire-239",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel nom Christophe Colomb donna-t-il à la première île des Bahamas où il débarqua en octobre 1492 ?",
       "answer": "San Salvador",
       "accept": [],
@@ -1791,7 +1791,7 @@
     },
     {
       "id": "histoire-240",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel navigateur portugais aborda en 1500 les côtes du Brésil, en route vers les Indes ?",
       "answer": "Pedro Álvares Cabral",
       "accept": [
@@ -1837,7 +1837,7 @@
     },
     {
       "id": "histoire-243",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel royaume d'Éthiopie, célèbre pour ses stèles géantes, fut l'un des premiers États à adopter le christianisme ?",
       "answer": "Aksoum",
       "accept": [
@@ -1853,7 +1853,7 @@
     },
     {
       "id": "histoire-244",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel État d'Afrique de l'Ouest, surnommé le pays de l'or, avait pour capitale Koumbi Saleh ?",
       "answer": "Empire du Ghana",
       "accept": [
@@ -1869,7 +1869,7 @@
     },
     {
       "id": "histoire-245",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quel voyageur marocain du XIVe siècle a parcouru le monde musulman jusqu'en Inde et en Chine ?",
       "answer": "Ibn Battuta",
       "accept": [],
@@ -1915,7 +1915,7 @@
     },
     {
       "id": "histoire-248",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on l'émigration de Mahomet de La Mecque à Médine, point de départ du calendrier musulman ?",
       "answer": "Hégire",
       "accept": [],
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "histoire-249",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel calife abbasside, héros de plusieurs contes des Mille et Une Nuits, offrit un éléphant à Charlemagne ?",
       "answer": "Haroun al-Rachid",
       "accept": [
@@ -1945,7 +1945,7 @@
     },
     {
       "id": "histoire-250",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel dernier émir nasride remit Grenade aux Rois catholiques en janvier 1492 ?",
       "answer": "Boabdil",
       "accept": [
@@ -1961,7 +1961,7 @@
     },
     {
       "id": "histoire-251",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chef berbère, qui franchit le détroit en 711 pour conquérir l'Espagne, a donné son nom à Gibraltar ?",
       "answer": "Tariq ibn Ziyad",
       "accept": [
@@ -2008,7 +2008,7 @@
     },
     {
       "id": "histoire-254",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle arme incendiaire secrète les Byzantins projetaient-ils sur les navires ennemis, même sur l'eau ?",
       "answer": "feu grégeois",
       "accept": [],
@@ -2022,7 +2022,7 @@
     },
     {
       "id": "histoire-255",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle impératrice, ancienne actrice, convainquit Justinien de ne pas fuir lors de la sédition Nika en 532 ?",
       "answer": "Théodora",
       "accept": [],
@@ -2050,7 +2050,7 @@
     },
     {
       "id": "histoire-257",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "En quelle année le schisme entre les Églises de Rome et de Constantinople est-il traditionnellement daté ?",
       "answer": "1054",
       "accept": [],
@@ -2064,7 +2064,7 @@
     },
     {
       "id": "histoire-258",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle expédition des croisés se détourna de son but pour prendre et piller Constantinople en 1204 ?",
       "answer": "quatrième croisade",
       "accept": [
@@ -2096,7 +2096,7 @@
     },
     {
       "id": "histoire-260",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel pape appela à la première croisade lors du concile de Clermont en 1095 ?",
       "answer": "Urbain II",
       "accept": [],
@@ -2110,7 +2110,7 @@
     },
     {
       "id": "histoire-261",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chef de la première croisade refusa le titre de roi de Jérusalem pour celui d'avoué du Saint-Sépulcre ?",
       "answer": "Godefroy de Bouillon",
       "accept": [
@@ -2142,7 +2142,7 @@
     },
     {
       "id": "histoire-263",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel roi de France mourut devant Tunis lors de la huitième croisade, en 1270 ?",
       "answer": "Louis IX",
       "accept": [
@@ -2205,7 +2205,7 @@
     },
     {
       "id": "histoire-267",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel prince de Valachie, surnommé l'Empaleur, a inspiré le personnage de Dracula ?",
       "answer": "Vlad III",
       "accept": [
@@ -2287,7 +2287,7 @@
     },
     {
       "id": "histoire-272",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel père de Charlemagne devint en 751 le premier roi de la dynastie carolingienne ?",
       "answer": "Pépin le Bref",
       "accept": [
@@ -2303,7 +2303,7 @@
     },
     {
       "id": "histoire-273",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel traité de 843 partagea l'empire carolingien entre les trois petits-fils de Charlemagne ?",
       "answer": "Verdun",
       "accept": [
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "histoire-274",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel texte de 842, juré par deux petits-fils de Charlemagne, est considéré comme le plus ancien document en langue romane ?",
       "answer": "serments de Strasbourg",
       "accept": [
@@ -2349,7 +2349,7 @@
     },
     {
       "id": "histoire-276",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chef viking reçut en 911 du roi Charles le Simple les terres qui devinrent la Normandie ?",
       "answer": "Rollon",
       "accept": [],
@@ -2439,7 +2439,7 @@
     },
     {
       "id": "histoire-282",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle duchesse fut successivement reine de France puis reine d'Angleterre au XIIe siècle ?",
       "answer": "Aliénor d'Aquitaine",
       "accept": [
@@ -2455,7 +2455,7 @@
     },
     {
       "id": "histoire-283",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel archevêque de Canterbury fut assassiné dans sa cathédrale en 1170 par des chevaliers d'Henri II ?",
       "answer": "Thomas Becket",
       "accept": [
@@ -2471,7 +2471,7 @@
     },
     {
       "id": "histoire-284",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle dynastie angevine doit son nom à la plante que Geoffroy, comte d'Anjou, portait à son chapeau ?",
       "answer": "Plantagenêt",
       "accept": [
@@ -2503,7 +2503,7 @@
     },
     {
       "id": "histoire-286",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel dernier grand maître des Templiers aurait maudit le roi et le pape sur son bûcher en 1314 ?",
       "answer": "Jacques de Molay",
       "accept": [
@@ -2533,7 +2533,7 @@
     },
     {
       "id": "histoire-288",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Combien d'années la guerre de Cent Ans dura-t-elle réellement, de 1337 à 1453 ?",
       "answer": "116",
       "accept": [
@@ -2549,7 +2549,7 @@
     },
     {
       "id": "histoire-289",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle bataille de 1415 vit l'armée d'Henri V d'Angleterre écraser la chevalerie française dans la boue ?",
       "answer": "Azincourt",
       "accept": [],
@@ -2596,7 +2596,7 @@
     },
     {
       "id": "histoire-292",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel prévôt des marchands de Paris s'opposa au dauphin Charles lors de la révolte de 1358 ?",
       "answer": "Étienne Marcel",
       "accept": [
@@ -2628,7 +2628,7 @@
     },
     {
       "id": "histoire-294",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel roi de France, surnommé le Fol, fut frappé de démence en 1392 dans la forêt du Mans ?",
       "answer": "Charles VI",
       "accept": [],
@@ -2674,7 +2674,7 @@
     },
     {
       "id": "histoire-297",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel riche marchand de Bourges devint l'argentier du roi Charles VII ?",
       "answer": "Jacques Cœur",
       "accept": [],
@@ -2688,7 +2688,7 @@
     },
     {
       "id": "histoire-298",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel évêque de Beauvais présida le procès de Jeanne d'Arc à Rouen en 1431 ?",
       "answer": "Pierre Cauchon",
       "accept": [
@@ -2720,7 +2720,7 @@
     },
     {
       "id": "histoire-300",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel réformateur tchèque fut brûlé vif en 1415 lors du concile de Constance malgré un sauf-conduit ?",
       "answer": "Jan Hus",
       "accept": [
@@ -2752,7 +2752,7 @@
     },
     {
       "id": "histoire-302",
-      "difficulty": 1,
+      "difficulty": 3,
       "question": "Quelle association de villes marchandes, menée par Lübeck, domina le commerce de la Baltique au Moyen Âge ?",
       "answer": "Hanse",
       "accept": [
@@ -2768,7 +2768,7 @@
     },
     {
       "id": "histoire-303",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel titre portait le chef élu à vie de la république de Venise ?",
       "answer": "doge",
       "accept": [],
@@ -2782,7 +2782,7 @@
     },
     {
       "id": "histoire-304",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel moine dominicain organisa à Florence des bûchers des vanités avant d'être exécuté en 1498 ?",
       "answer": "Savonarole",
       "accept": [
@@ -2798,7 +2798,7 @@
     },
     {
       "id": "histoire-305",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel empereur germanique, surnommé ainsi pour la couleur de sa barbe, se noya en Anatolie lors de la troisième croisade ?",
       "answer": "Frédéric Barberousse",
       "accept": [
@@ -2832,7 +2832,7 @@
     },
     {
       "id": "histoire-307",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel prince de Novgorod vainquit les chevaliers Teutoniques sur le lac Peïpous gelé en 1242 ?",
       "answer": "Alexandre Nevski",
       "accept": [
@@ -2865,7 +2865,7 @@
     },
     {
       "id": "histoire-309",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel khanat mongol domina les principautés russes du XIIIe au XVe siècle ?",
       "answer": "Horde d'or",
       "accept": [],
@@ -2911,7 +2911,7 @@
     },
     {
       "id": "histoire-312",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel moine cistercien prêcha la deuxième croisade à Vézelay en 1146 ?",
       "answer": "Bernard de Clairvaux",
       "accept": [
@@ -2957,7 +2957,7 @@
     },
     {
       "id": "histoire-315",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on la cérémonie par laquelle un jeune homme était fait chevalier ?",
       "answer": "adoubement",
       "accept": [],
@@ -2985,7 +2985,7 @@
     },
     {
       "id": "histoire-317",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelait-on le seigneur dont dépendait un vassal dans la société féodale ?",
       "answer": "suzerain",
       "accept": [],
@@ -2999,7 +2999,7 @@
     },
     {
       "id": "histoire-318",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel nom portait la terre concédée par un seigneur à son vassal en échange de sa fidélité ?",
       "answer": "fief",
       "accept": [],
@@ -3027,7 +3027,7 @@
     },
     {
       "id": "histoire-320",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on les ouvertures en saillie au sommet des murailles, par lesquelles on lâchait des projectiles ?",
       "answer": "mâchicoulis",
       "accept": [],
@@ -3041,7 +3041,7 @@
     },
     {
       "id": "histoire-321",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle machine de siège médiévale, actionnée par un lourd contrepoids, projetait de gros boulets de pierre ?",
       "answer": "trébuchet",
       "accept": [],
@@ -3055,7 +3055,7 @@
     },
     {
       "id": "histoire-322",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel impôt, correspondant à environ un dixième des récoltes, était prélevé par l'Église ?",
       "answer": "dîme",
       "accept": [],
@@ -3069,7 +3069,7 @@
     },
     {
       "id": "histoire-323",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelait-on l'épreuve judiciaire par le feu ou par l'eau censée révéler le jugement de Dieu ?",
       "answer": "ordalie",
       "accept": [],
@@ -3111,7 +3111,7 @@
     },
     {
       "id": "histoire-326",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle duchesse épousa successivement deux rois de France, Charles VIII puis Louis XII ?",
       "answer": "Anne de Bretagne",
       "accept": [],
@@ -3141,7 +3141,7 @@
     },
     {
       "id": "histoire-328",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel navire léger à voiles latines permit aux Portugais d'explorer les côtes africaines au XVe siècle ?",
       "answer": "caravelle",
       "accept": [],
@@ -3155,7 +3155,7 @@
     },
     {
       "id": "histoire-329",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel prince portugais du XVe siècle, fils du roi Jean Ier, encouragea depuis l'Algarve l'exploration des côtes africaines ?",
       "answer": "Henri le Navigateur",
       "accept": [
@@ -3171,7 +3171,7 @@
     },
     {
       "id": "histoire-330",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle reine de Castille, épouse de Ferdinand d'Aragon, finança le premier voyage de Christophe Colomb ?",
       "answer": "Isabelle la Catholique",
       "accept": [
@@ -3188,7 +3188,7 @@
     },
     {
       "id": "histoire-331",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le conflit civil anglais du XVe siècle opposant les maisons d'York et de Lancastre ?",
       "answer": "guerre des Deux-Roses",
       "accept": [
@@ -3205,7 +3205,7 @@
     },
     {
       "id": "histoire-332",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel roi d'Angleterre, dernier de la maison d'York, fut tué à la bataille de Bosworth en 1485 ?",
       "answer": "Richard III",
       "accept": [],
@@ -3283,7 +3283,7 @@
     },
     {
       "id": "histoire-337",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel roi franc légendaire a donné son nom à la première dynastie des rois de France ?",
       "answer": "Mérovée",
       "accept": [],
@@ -3417,7 +3417,7 @@
     },
     {
       "id": "histoire-346",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelait-on le paysan médiéval attaché à la terre de son seigneur, qu'il ne pouvait quitter librement ?",
       "answer": "serf",
       "accept": [],
@@ -3445,7 +3445,7 @@
     },
     {
       "id": "histoire-348",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel immense cirque romain, entre le Palatin et l'Aventin, accueillait les courses de chars ?",
       "answer": "Circus Maximus",
       "accept": [
@@ -3475,7 +3475,7 @@
     },
     {
       "id": "histoire-350",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les peintures et lettrines ornées qui décorent les manuscrits du Moyen Âge ?",
       "answer": "enluminures",
       "accept": [
@@ -3598,7 +3598,7 @@
     },
     {
       "id": "histoire-358",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les longs poèmes médiévaux qui chantent les exploits guerriers de héros comme Roland ou Guillaume d'Orange ?",
       "answer": "chansons de geste",
       "accept": [
@@ -3630,7 +3630,7 @@
     },
     {
       "id": "histoire-360",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel impôt royal très impopulaire, perçu sur le sel en France, apparut au XIVe siècle ?",
       "answer": "gabelle",
       "accept": [],

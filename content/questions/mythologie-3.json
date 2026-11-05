@@ -101,7 +101,7 @@
     },
     {
       "id": "mythologie-157",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel ami de Jésus, mort depuis quatre jours, fut ramené à la vie à Béthanie ?",
       "answer": "Lazare",
       "accept": [
@@ -117,7 +117,7 @@
     },
     {
       "id": "mythologie-158",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Sur la route de quelle ville Saul de Tarse fut-il terrassé par une vision et se convertit-il ?",
       "answer": "Damas",
       "accept": [],
@@ -131,7 +131,7 @@
     },
     {
       "id": "mythologie-159",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle fête chrétienne célèbre la descente du Saint-Esprit sur les apôtres, cinquante jours après Pâques ?",
       "answer": "Pentecôte",
       "accept": [],
@@ -195,7 +195,7 @@
     },
     {
       "id": "mythologie-163",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle fête catholique du 15 août célèbre l'élévation de la Vierge Marie au ciel ?",
       "answer": "Assomption",
       "accept": [],
@@ -226,7 +226,7 @@
     },
     {
       "id": "mythologie-165",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel saint chevalier, patron de l'Angleterre, est représenté terrassant un dragon ?",
       "answer": "Georges",
       "accept": [
@@ -243,7 +243,7 @@
     },
     {
       "id": "mythologie-166",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel saint italien, fondateur d'un ordre mendiant, aurait prêché aux oiseaux et apprivoisé un loup ?",
       "answer": "François d'Assise",
       "accept": [
@@ -323,7 +323,7 @@
     },
     {
       "id": "mythologie-171",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on les cinq premiers livres de la Bible hébraïque, attribués à Moïse ?",
       "answer": "Torah",
       "accept": [
@@ -426,7 +426,7 @@
     },
     {
       "id": "mythologie-177",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel édifice cubique, au centre de la Grande Mosquée de La Mecque, est le lieu le plus saint de l'islam ?",
       "answer": "Kaaba",
       "accept": [
@@ -444,7 +444,7 @@
     },
     {
       "id": "mythologie-178",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Vers quelle ville Mahomet émigra-t-il en 622, événement qui marque le début du calendrier musulman ?",
       "answer": "Médine",
       "accept": [
@@ -461,7 +461,7 @@
     },
     {
       "id": "mythologie-179",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on l'homme chargé de lancer l'appel à la prière du haut d'un minaret ?",
       "answer": "Muezzin",
       "accept": [
@@ -478,7 +478,7 @@
     },
     {
       "id": "mythologie-180",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle fête hindoue du printemps se célèbre en se lançant des poudres et de l'eau colorées ?",
       "answer": "Holi",
       "accept": [],
@@ -554,7 +554,7 @@
     },
     {
       "id": "mythologie-185",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle religion traditionnelle du Japon rend un culte aux kami, divinités présentes dans la nature ?",
       "answer": "Shintoïsme",
       "accept": [
@@ -586,7 +586,7 @@
     },
     {
       "id": "mythologie-187",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle ville vit ses murailles s'effondrer au son des trompettes des Hébreux conduits par Josué ?",
       "answer": "Jéricho",
       "accept": [
@@ -602,7 +602,7 @@
     },
     {
       "id": "mythologie-188",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel roi biblique proposa de couper un enfant en deux pour démasquer la véritable mère ?",
       "answer": "Salomon",
       "accept": [
@@ -634,7 +634,7 @@
     },
     {
       "id": "mythologie-190",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on le dernier repas que Jésus partagea avec ses apôtres avant son arrestation ?",
       "answer": "Cène",
       "accept": [
@@ -747,7 +747,7 @@
     },
     {
       "id": "mythologie-197",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Sur quelle île grecque du Dodécanèse saint Jean aurait-il rédigé le livre de l'Apocalypse ?",
       "answer": "Patmos",
       "accept": [],
@@ -907,7 +907,7 @@
     },
     {
       "id": "mythologie-207",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle péninsule grecque, interdite aux femmes depuis des siècles, abrite une vingtaine de monastères orthodoxes ?",
       "answer": "Mont Athos",
       "accept": [
@@ -939,7 +939,7 @@
     },
     {
       "id": "mythologie-209",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel royaume du Caucase fut le premier à adopter le christianisme comme religion d'État, au début du IVe siècle ?",
       "answer": "Arménie",
       "accept": [
@@ -1061,7 +1061,7 @@
     },
     {
       "id": "mythologie-216",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel sanctuaire octogonal à coupole dorée, achevé en 691, domine l'esplanade des Mosquées à Jérusalem ?",
       "answer": "Dôme du Rocher",
       "accept": [
@@ -1113,7 +1113,7 @@
     },
     {
       "id": "mythologie-219",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle déesse hindoue de la prospérité et de la fortune est l'épouse de Vishnou ?",
       "answer": "Lakshmi",
       "accept": [
@@ -1130,7 +1130,7 @@
     },
     {
       "id": "mythologie-220",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle immense épopée sanskrite raconte la guerre entre les Pandava et leurs cousins Kaurava ?",
       "answer": "Mahabharata",
       "accept": [
@@ -1147,7 +1147,7 @@
     },
     {
       "id": "mythologie-221",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel immense temple bouddhique en forme de pyramide à degrés se dresse sur l'île indonésienne de Java ?",
       "answer": "Borobudur",
       "accept": [],
@@ -1161,7 +1161,7 @@
     },
     {
       "id": "mythologie-222",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on le portique, souvent peint en rouge, qui marque l'entrée d'un sanctuaire shinto ?",
       "answer": "Torii",
       "accept": [],
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "mythologie-223",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle religion indienne, dont Mahavira est la grande figure, prône une non-violence absolue envers tous les êtres vivants ?",
       "answer": "Jaïnisme",
       "accept": [
@@ -1192,7 +1192,7 @@
     },
     {
       "id": "mythologie-224",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle religion, pratiquée en Haïti et au Bénin, rend un culte à des esprits appelés loas ou vodouns ?",
       "answer": "Vaudou",
       "accept": [
@@ -1226,7 +1226,7 @@
     },
     {
       "id": "mythologie-226",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel prophète biblique fut enlevé au ciel dans un char de feu, sous les yeux de son disciple Élisée ?",
       "answer": "Élie",
       "accept": [
@@ -1242,7 +1242,7 @@
     },
     {
       "id": "mythologie-227",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Près de quel site de Cisjordanie un berger découvrit-il en 1947 les premiers manuscrits de la mer Morte ?",
       "answer": "Qumrân",
       "accept": [
@@ -1276,7 +1276,7 @@
     },
     {
       "id": "mythologie-229",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle sainte romaine, qui aurait chanté pendant ses noces, est la patronne des musiciens ?",
       "answer": "Cécile",
       "accept": [

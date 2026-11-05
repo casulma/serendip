@@ -149,7 +149,7 @@
     },
     {
       "id": "gastronomie-191",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel fromage normand au lait de vache est souvent moulé en forme de cœur ?",
       "answer": "neufchâtel",
       "accept": [],
@@ -254,7 +254,7 @@
     },
     {
       "id": "gastronomie-198",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel vin muté andalou, élevé sous un voile de levure appelé « flor », porte le nom francisé de sa ville ?",
       "answer": "xérès",
       "accept": [
@@ -493,7 +493,7 @@
     },
     {
       "id": "gastronomie-214",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle liqueur du sud de l'Italie est obtenue en faisant macérer des zestes de citron dans l'alcool ?",
       "answer": "limoncello",
       "accept": [],
@@ -535,7 +535,7 @@
     },
     {
       "id": "gastronomie-217",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Selon la légende, quels animaux firent découvrir le café au berger éthiopien Kaldi ?",
       "answer": "chèvres",
       "accept": [
@@ -609,7 +609,7 @@
     },
     {
       "id": "gastronomie-222",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel petit mammifère d'Asie digère des cerises de café pour produire le kopi luwak ?",
       "answer": "civette",
       "accept": [
@@ -653,7 +653,7 @@
     },
     {
       "id": "gastronomie-225",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle épice rouge, emblème de la cuisine hongroise, est obtenue en moulant des piments séchés ?",
       "answer": "paprika",
       "accept": [],
@@ -697,7 +697,7 @@
     },
     {
       "id": "gastronomie-228",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel intendant au nom prédestiné introduisit girofliers et muscadiers à l'île de France, l'actuelle Maurice ?",
       "answer": "Pierre Poivre",
       "accept": [
@@ -727,7 +727,7 @@
     },
     {
       "id": "gastronomie-230",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment appelle-t-on les fins cristaux de sel récoltés à la surface des marais salants par temps chaud et venteux ?",
       "answer": "fleur de sel",
       "accept": [],
@@ -741,7 +741,7 @@
     },
     {
       "id": "gastronomie-231",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle échelle mesure la force piquante des piments selon leur teneur en capsaïcine ?",
       "answer": "Scoville",
       "accept": [
@@ -902,7 +902,7 @@
     },
     {
       "id": "gastronomie-242",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle pomme verte acidulée doit son nom à une grand-mère qui la découvrit en Australie au XIXe siècle ?",
       "answer": "granny smith",
       "accept": [],
@@ -916,7 +916,7 @@
     },
     {
       "id": "gastronomie-243",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle légumineuse de Haute-Loire fut, en 1996, le premier légume à recevoir une appellation d'origine contrôlée ?",
       "answer": "lentille verte du Puy",
       "accept": [
@@ -947,7 +947,7 @@
     },
     {
       "id": "gastronomie-245",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Quel officier au nom prédestiné rapporta du Chili un fraisier à l'origine des fraises cultivées actuelles ?",
       "answer": "Amédée-François Frézier",
       "accept": [
@@ -1077,7 +1077,7 @@
     },
     {
       "id": "gastronomie-254",
-      "difficulty": 3,
+      "difficulty": 1,
       "question": "Quel substitut du beurre, inventé par Hippolyte Mège-Mouriès, répondait à un concours lancé sous Napoléon III ?",
       "answer": "margarine",
       "accept": [],
@@ -1119,7 +1119,7 @@
     },
     {
       "id": "gastronomie-257",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel industriel italien a breveté en 1933 la cafetière en aluminium Moka Express ?",
       "answer": "Alfonso Bialetti",
       "accept": [
@@ -1165,7 +1165,7 @@
     },
     {
       "id": "gastronomie-260",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle marque est devenue le nom commun de la bouteille isotherme inventée par James Dewar ?",
       "answer": "Thermos",
       "accept": [],
@@ -1237,7 +1237,7 @@
     },
     {
       "id": "gastronomie-265",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel appareil électroménager a été inventé par l'Américaine Josephine Cochrane ?",
       "answer": "lave-vaisselle",
       "accept": [],
@@ -1251,7 +1251,7 @@
     },
     {
       "id": "gastronomie-266",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel ancien village, aujourd'hui quartier de Paris, a donné son nom à une solution désinfectante chlorée ?",
       "answer": "Javel",
       "accept": [],
@@ -1399,7 +1399,7 @@
     },
     {
       "id": "gastronomie-276",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel gilet de laine boutonné par devant doit son nom à un comte britannique, titré d'après une ville galloise ?",
       "answer": "cardigan",
       "accept": [],
@@ -1545,7 +1545,7 @@
     },
     {
       "id": "gastronomie-286",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel animal sauvage des Andes, cousin du lama, fournit la laine la plus fine du monde ?",
       "answer": "vigogne",
       "accept": [],
@@ -1668,7 +1668,7 @@
     },
     {
       "id": "gastronomie-294",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle vieille femme sur un balai apporte des cadeaux aux enfants italiens dans la nuit de l'Épiphanie ?",
       "answer": "Befana",
       "accept": [
@@ -1698,7 +1698,7 @@
     },
     {
       "id": "gastronomie-296",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Selon une tradition née dans le sud de l'Allemagne, quel animal cache les œufs de Pâques dans les jardins ?",
       "answer": "lièvre",
       "accept": [
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "gastronomie-300",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel légume les Irlandais creusaient-ils pour fabriquer des lanternes d'Halloween avant d'adopter la citrouille ?",
       "answer": "navet",
       "accept": [

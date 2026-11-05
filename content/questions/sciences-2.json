@@ -61,7 +61,7 @@
     },
     {
       "id": "sciences-115",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel physicien allemand a énoncé en 1927 le principe d'incertitude de la mécanique quantique ?",
       "answer": "Werner Heisenberg",
       "accept": [
@@ -126,7 +126,7 @@
     },
     {
       "id": "sciences-119",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel physicien français, prix Nobel 1929, a proposé que toute particule matérielle possède une onde associée ?",
       "answer": "Louis de Broglie",
       "accept": [
@@ -158,7 +158,7 @@
     },
     {
       "id": "sciences-121",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel sigle désigne l'accélérateur de particules circulaire de 27 kilomètres enfoui sous la frontière franco-suisse ?",
       "answer": "LHC",
       "accept": [
@@ -234,7 +234,7 @@
     },
     {
       "id": "sciences-126",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel physicien italien a dirigé la construction du premier réacteur nucléaire, à Chicago en 1942 ?",
       "answer": "Enrico Fermi",
       "accept": [
@@ -267,7 +267,7 @@
     },
     {
       "id": "sciences-128",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on la déviation de la lumière qui fait paraître brisée une paille plongée dans l'eau ?",
       "answer": "réfraction",
       "accept": [],
@@ -298,7 +298,7 @@
     },
     {
       "id": "sciences-130",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment appelle-t-on la barrière franchie par un avion qui dépasse la vitesse de propagation des ondes acoustiques ?",
       "answer": "mur du son",
       "accept": [],
@@ -344,7 +344,7 @@
     },
     {
       "id": "sciences-133",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel adjectif, venu du grec signifiant mouvement, qualifie l'énergie que possède un corps du fait de sa vitesse ?",
       "answer": "cinétique",
       "accept": [],
@@ -358,7 +358,7 @@
     },
     {
       "id": "sciences-134",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel physicien écossais a unifié électricité et magnétisme dans quatre équations célèbres ?",
       "answer": "James Clerk Maxwell",
       "accept": [
@@ -553,7 +553,7 @@
     },
     {
       "id": "sciences-147",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel gaz noble produit la lueur rouge-orangé des enseignes lumineuses de magasins ?",
       "answer": "néon",
       "accept": [],
@@ -567,7 +567,7 @@
     },
     {
       "id": "sciences-148",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel élément chimique fut détecté dans le spectre du Soleil avant d'être trouvé sur Terre ?",
       "answer": "hélium",
       "accept": [],
@@ -625,7 +625,7 @@
     },
     {
       "id": "sciences-152",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel matériau, formé d'une seule couche d'atomes de carbone, a valu le prix Nobel de physique 2010 ?",
       "answer": "graphène",
       "accept": [],
@@ -748,7 +748,7 @@
     },
     {
       "id": "sciences-160",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel métal léger et résistant, au symbole Ti, doit son nom à des géants de la mythologie grecque ?",
       "answer": "titane",
       "accept": [],
@@ -832,7 +832,7 @@
     },
     {
       "id": "sciences-166",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel élément artificiel, utilisé dans la bombe de Nagasaki, porte le nom d'une planète naine ?",
       "answer": "plutonium",
       "accept": [],
@@ -874,7 +874,7 @@
     },
     {
       "id": "sciences-169",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel élément, le plus électronégatif de tous, est ajouté aux dentifrices pour protéger l'émail ?",
       "answer": "fluor",
       "accept": [],
@@ -888,7 +888,7 @@
     },
     {
       "id": "sciences-170",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Comment appelle-t-on une substance qui accélère une réaction chimique sans être consommée ?",
       "answer": "catalyseur",
       "accept": [],
@@ -1023,7 +1023,7 @@
     },
     {
       "id": "sciences-179",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel chimiste français a donné son nom à la réaction qui fait dorer la croûte du pain et la viande grillée ?",
       "answer": "Maillard",
       "accept": [
@@ -1056,7 +1056,7 @@
     },
     {
       "id": "sciences-181",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel acide donne au vinaigre son goût aigre caractéristique ?",
       "answer": "acide acétique",
       "accept": [],
@@ -1126,7 +1126,7 @@
     },
     {
       "id": "sciences-186",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel alcool, produit par la fermentation des sucres, est contenu dans le vin et la bière ?",
       "answer": "éthanol",
       "accept": [
@@ -1202,7 +1202,7 @@
     },
     {
       "id": "sciences-191",
-      "difficulty": 3,
+      "difficulty": 2,
       "question": "Avec quel physicien Irène Curie a-t-elle découvert la radioactivité artificielle, couronnée par le Nobel de chimie 1935 ?",
       "answer": "Frédéric Joliot-Curie",
       "accept": [
@@ -1261,7 +1261,7 @@
     },
     {
       "id": "sciences-195",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel astronome français a prédit en 1846, par le seul calcul, la position de Neptune ?",
       "answer": "Urbain Le Verrier",
       "accept": [
@@ -1278,7 +1278,7 @@
     },
     {
       "id": "sciences-196",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel astronome d'origine allemande, installé en Angleterre, a découvert la planète Uranus en 1781 ?",
       "answer": "William Herschel",
       "accept": [
@@ -1308,7 +1308,7 @@
     },
     {
       "id": "sciences-198",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel satellite de Jupiter est le corps le plus volcanique du Système solaire ?",
       "answer": "Io",
       "accept": [],
@@ -1415,7 +1415,7 @@
     },
     {
       "id": "sciences-205",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quelle constellation représentant un chasseur se reconnaît aux trois étoiles alignées de son baudrier ?",
       "answer": "Orion",
       "accept": [],
@@ -1429,7 +1429,7 @@
     },
     {
       "id": "sciences-206",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle supergéante rouge marque l'épaule de la constellation d'Orion ?",
       "answer": "Bételgeuse",
       "accept": [],
@@ -1443,7 +1443,7 @@
     },
     {
       "id": "sciences-207",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel amas d'étoiles de la constellation du Taureau est surnommé les Sept Sœurs ?",
       "answer": "Pléiades",
       "accept": [
@@ -1459,7 +1459,7 @@
     },
     {
       "id": "sciences-208",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle planète naine est le plus gros objet de la ceinture d'astéroïdes, entre Mars et Jupiter ?",
       "answer": "Cérès",
       "accept": [],
@@ -1503,7 +1503,7 @@
     },
     {
       "id": "sciences-211",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle pluie d'étoiles filantes du mois d'août est surnommée les larmes de saint Laurent ?",
       "answer": "Perséides",
       "accept": [
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "sciences-214",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle cosmonaute soviétique est devenue en 1963 la première femme à voler dans l'espace ?",
       "answer": "Valentina Terechkova",
       "accept": [
@@ -1586,7 +1586,7 @@
     },
     {
       "id": "sciences-216",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel astronaute américain a accompagné Neil Armstrong lors des premiers pas sur la Lune ?",
       "answer": "Buzz Aldrin",
       "accept": [
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "sciences-218",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel pilote est devenu en 1982 le premier Français à aller dans l'espace ?",
       "answer": "Jean-Loup Chrétien",
       "accept": [
@@ -1710,7 +1710,7 @@
     },
     {
       "id": "sciences-224",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle sonde de la NASA a survolé Pluton en 2015, révélant une surface en forme de cœur ?",
       "answer": "New Horizons",
       "accept": [],
@@ -1817,7 +1817,7 @@
     },
     {
       "id": "sciences-231",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Comment appelle-t-on une étoile à neutrons en rotation rapide qui émet des signaux radio réguliers ?",
       "answer": "pulsar",
       "accept": [],
@@ -1923,7 +1923,7 @@
     },
     {
       "id": "sciences-238",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Sur quelle plaine lunaire le module Eagle de la mission Apollo 11 s'est-il posé en 1969 ?",
       "answer": "mer de la Tranquillité",
       "accept": [
@@ -1939,7 +1939,7 @@
     },
     {
       "id": "sciences-239",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel astronome danois, qui avait perdu une partie du nez en duel, observait le ciel depuis Uraniborg ?",
       "answer": "Tycho Brahe",
       "accept": [
@@ -1971,7 +1971,7 @@
     },
     {
       "id": "sciences-241",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel savant grec a estimé la circonférence de la Terre en comparant les ombres à Syène et à Alexandrie ?",
       "answer": "Ératosthène",
       "accept": [
@@ -2326,7 +2326,7 @@
     },
     {
       "id": "sciences-265",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel mathématicien suisse a résolu en 1736 le problème des sept ponts de Königsberg ?",
       "answer": "Leonhard Euler",
       "accept": [
@@ -2376,7 +2376,7 @@
     },
     {
       "id": "sciences-268",
-      "difficulty": 1,
+      "difficulty": 2,
       "question": "Quel mathématicien italien a donné son nom à la suite où chaque terme est la somme des deux précédents ?",
       "answer": "Fibonacci",
       "accept": [
@@ -2393,7 +2393,7 @@
     },
     {
       "id": "sciences-269",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel savant persan du IXe siècle a donné, par la déformation de son nom, le mot algorithme ?",
       "answer": "Al-Khwârizmî",
       "accept": [
@@ -2427,7 +2427,7 @@
     },
     {
       "id": "sciences-271",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel chiffre, absent de la numération romaine, a été conçu comme un véritable nombre par les mathématiciens indiens ?",
       "answer": "zéro",
       "accept": [
@@ -2524,7 +2524,7 @@
     },
     {
       "id": "sciences-277",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle mathématicienne et philosophe d'Alexandrie fut assassinée en 415 par une foule de chrétiens ?",
       "answer": "Hypatie",
       "accept": [
@@ -2728,7 +2728,7 @@
     },
     {
       "id": "sciences-290",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel philosophe grec a imaginé le paradoxe d'Achille incapable de rattraper une tortue ?",
       "answer": "Zénon d'Élée",
       "accept": [
@@ -2852,7 +2852,7 @@
     },
     {
       "id": "sciences-298",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quelle informaticienne et officière de la marine américaine a conçu l'un des premiers compilateurs ?",
       "answer": "Grace Hopper",
       "accept": [
@@ -2884,7 +2884,7 @@
     },
     {
       "id": "sciences-300",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel réseau américain de 1969, financé par le département de la Défense, est l'ancêtre d'Internet ?",
       "answer": "ARPANET",
       "accept": [
@@ -3048,7 +3048,7 @@
     },
     {
       "id": "sciences-311",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel langage de programmation, lancé par Sun Microsystems en 1995, porte le nom d'une île indonésienne célèbre pour son café ?",
       "answer": "Java",
       "accept": [],
@@ -3078,7 +3078,7 @@
     },
     {
       "id": "sciences-313",
-      "difficulty": 2,
+      "difficulty": 3,
       "question": "Quel mathématicien anglais a conçu au XIXe siècle la machine analytique, ancêtre de l'ordinateur ?",
       "answer": "Charles Babbage",
       "accept": [
@@ -3094,7 +3094,7 @@
     },
     {
       "id": "sciences-314",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quel mot, créé en 1962 par Philippe Dreyfus, contracte les termes « information » et « automatique » ?",
       "answer": "informatique",
       "accept": [],
@@ -3185,7 +3185,7 @@
     },
     {
       "id": "sciences-320",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Comment appelle-t-on le pictogramme carré à modules noirs et blancs, inventé au Japon par Denso Wave ?",
       "answer": "code QR",
       "accept": [
@@ -3201,7 +3201,7 @@
     },
     {
       "id": "sciences-321",
-      "difficulty": 2,
+      "difficulty": 1,
       "question": "Quelle technologie sans fil de courte portée porte le nom anglais d'un roi danois du Xe siècle ?",
       "answer": "Bluetooth",
       "accept": [],
